@@ -1,0 +1,1 @@
+"""Industrial documentation AI assistant."""
