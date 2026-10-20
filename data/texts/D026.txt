@@ -1,0 +1,222 @@
+[[page 1]]
+Fact Sheet 
+Linde GmbH 
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland 
+Telephone: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de 
+To ensure a high level of customer service the customer data,  
+such as Phone number, are stored and processed electronically.  
+The Company therefore accepts no liability and furnishes no guarantee, neither express nor i mplied, 
+that the information provided is up-to-date, accurate or complete. 
+Version date 11.08.2016 - After check still valid unchanged 
+ 
+ 
+Nitrogen 
+(Meets the requirements of DIN EN ISO 14175: N1) 
+ 
+ 
+ 
+ 
+ 
+Purity, %: 99.8 (including noble gases) 
+.............................................................................................................................................................................................................................. 
+Type of supply: 
+ 
+Steel cylinder 
+Capacity, 
+[Liter] 
+Cylinder 
+contents, [m³] 
+Filling pressure, 
+approx. [bar]  
+Gross weight 
+approx. [kg] 
+Outer diameter 
+approx. [mm] 
+Cylinder length 
+approx. [mm]  
+ 
+10 1.91 200 20 140 975  
+20 3.81 200 40 204 965  
+50 9.53 200 80 229 1655  
+50 13.2 300 90 229 1700  
+ 
+Cylinder bundle 
+ 
+Capacity, Cylinder Filling pressure, number of Gross weight Dimension approx. 
+[Liter] contents, [m³] approx. [bar] cylinder in bundle approx. [kg] (L x W x H) [mm] 
+600 114 200 12 1320 1900 x 1000 x 770 
+600 158 300 12 1460 1900 x 1000 x 770 
+ 
+LIPAC® duo 
+     
+Capacity, Cylinder Filling pressure, number of Gross weight Dimension approx. 
+[Liter] contents, [m³] approx. [bar] cylinder in bundle approx. [kg] (L x W x H) [mm] 
+600 158 300 12 1460 1900 x 1000 x 775 
+ 
+cryo vessel medium and high pressure 
+ 
+Capacity, 
+[Liter] 
+Cylinder 
+contents, [Liter] 
+Filling pressure, 
+approx. [bar]  
+Gross weight 
+approx. [kg] 
+Dimension approx. 
+(L x W x H) [mm]  
+170 170 9 275 (435 mit 
+Palette) 
+ 
+1562x980x770 
+600 575 14 1100 1200x800x2000 
+ 
+Additional delivery types on demand. 
+.............................................................................................................................................................................................................................. 
+ 
+Conversion factors: m³ gas (15°C, 1 bar) l liquid at Tb kg 
+ 1 1.447 1.17 
+ 0.691 1 0.809 
+ 0.855 1.237 1
+
+[[page 2]]
+Nitrogen - (Meets the requirements of DIN EN ISO 14175: N1) 2 from 3 
+Linde GmbH 
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland 
+Telephone: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de 
+To ensure a high level of customer service the customer data,  
+such as Phone number, are stored and processed electronically.  
+The Company therefore accepts no liability and furnishes no guarantee, neither express nor i mplied, 
+that the information provided is up-to-date, accurate or complete. 
+Version date 11.08.2016 - After check still valid unchanged 
+ 
+ 
+ 
+ 
+ 
+Identification: Cylinder shoulder colour/ 
+Circular colour strip at bundles 
+Black RAL 9005 
+Label: Nitrogen 
+Valve outlet: Filling pressure 200 bar: W 24,32 x 1/14, DIN 477 No. 10 
+Filling pressure 300 bar: W 30 x 2, ISO 5145 No. 30 
+LIPAC® duo bundle: 300bar connector according ISO 5145 
+second connector pressure reduced according DIN 477-1 
+Because of the necessary high flow rate for laser high 
+pressure cutting the pressure reduced connector (marked 
+with "200bar")on LIPAC® duo is not recomended. Please 
+use for laser high pressure cutting (necessary N2 flow > 80 
+Nm3/h) the 300 bar connector. 
+ 
+ 
+.............................................................................................................................................................................................................................. 
+Properties: compressed gas, suffocating, chemically inert 
+ 
+Chemical symbol:  N2  
+Molar mass: 
+ 
+Tripel point: 
+ 28.013 g/mol 
+ 
+Temperature 
+ 
+Pressure 
+  
+Heat of fusion 
+63.2 K ( °C) 0.1253 bar  25.8 kJ/kg 
+Relative density based on dry air (15°C, 1 bar): 0.967 
+Critical temperature: 126.2 K (-146.95 °C) 
+Boiling point at 1.013 bar (Ts): 77.35 K (-195.8 °C) 
+.............................................................................................................................................................................................................................. 
+Applications: Shielding gas and welding gas component in metal working industry; shielding gas in chemical and 
+electrical industry; purging gas in metallurgy, electrical industry, for pressure testing of pipes, pipelines 
+and vessels; cutting gas for laser cutting; process gas for plasma cutting; inert gas for industry service 
+............................................................................................................................................................................ 
+Also available: BIOGON® N E941 
+BIOGON® N flüssig E941 
+EURO 6 Stickstoff 6.0 
+Stickstoff 5.0 
+Stickstoff 5.3 
+Stickstoff 5.5 ECD 
+Stickstoff 6.0 
+Stickstoff 7.0 
+Stickstoff flüssig 2.8 
+Stickstoff flüssig 5.0 
+Stickstoff flüssig LI-PUR® 5.6 
+Stickstoff flüssig LI-PUR® 6.0 
+Stickstoff flüssig LI-PUR® 7.0 
+VERISEQ® GAN Pharma 
+VERISEQ®LIN Pharma 
+ 
+Mixtures with other gases in defined compositions.
+
+[[page 3]]
+Nitrogen - (Meets the requirements of DIN EN ISO 14175: N1) 3 from 3  
+ 
+ 
+Disclaimer: The information provided in this product data is, to the best of our knowledge, accurate as of the 
+date of publication. Linde GmbH reviews and updates this information constantly, and reserves the 
+right to make amendments or additions to the information provided. Nevertheless, the accuracy of 
+the data may have changed in the meantime. Linde GmbH does not guarantee and accepts no 
+liability for the timeliness, accuracy and completeness of the information provided. It is the users 
+responsibility to ensure that any legal requirements are met and that the products described herein 
+are suitable for their intended purpose. The contents of this product data sheet are not contractual 
+warranties of product´s properties. Reproduction of information, text, images or data requires the 
+prior approval of Linde GmbH. Reproduction of information, text, images or data requires the prior 
+approval of Linde GmbH. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Linde GmbH 
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland 
+Telefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de 
+Zur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern  
+elektronisch gespeichert und verarbeitet. 
+Änderungen vorbehalten 
+Stand 11.08.2016 - After check still valid unchanged

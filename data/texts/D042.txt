@@ -1,0 +1,264 @@
+[[page 1]]
+Sauerstoff, O2 (gasförmig, verdichtet)
+Bezeichnung O2 5.0 O2 6.0
+Material Nummer 2110112, 2110152
+21105883
+6360112, 6360152
+63605883
+Reinheit, mol.-% O2  99,999 O2  99,9999
+Nebenbestandteile, ppm N2  5 N2  0,5
+Ar  2 Ar  1,0
+CnHm  0,2 CnHm  0,1
+CO2  0,2 CO2  0,1
+H2O  3 CO  0,1
+H2O  0,5
+Lieferarten Stahlflaschen, Fülldruck 200 bar (15 °C)
+(Standard-Gebinde) Geom. Vol. Richtwerte für Masse und Gewicht
+Liter Durchmesser mm Höhe mm Bruttogewicht kg
+10 140 920 16
+50 230 1560 74
+Flaschenbündel, Fülldruck 200 bar (15 °C)
+Geom. Vol. Richtwerte für Masse und Gewicht Bemerkungen
+Liter Abmessungen mm (L x B x H) Bruttogewicht kg
+600 1200 x 800 x 1700 970 - 1000 nur Art. 63605883, 
+63605883
+Kennzeichnung Farbkennzeichnung (Schulter) reinweiss, RAL 9010
+Prägung SAUERSTOFF
+Bezettelung Gasart, Qualitäts-Etikette
+Strichcode 
+Ventilanschluss G 3/4“ (SN 219505/2)
+Andere Lieferformen andere Reinheiten 
+tiefkalt verflüssigt 
+Spezialbehälter 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 1 of 6 Copyright © Linde 2024
+
+[[page 2]]
+Sauerstoff, O2 (gasförmig, verdichtet)
+Umrechnungszahlen m3 Gas
+(1.000 bar und 15 °C)
+Liter Flüssigkeit
+(Siedezustand bei 1,013 bar)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Eigenschaften Sauerstoff ist ein farb- und geruchloses Gas, das in der Luft zu 20,95 Vol. -% enthalten ist. Sauerstoff ist 
+nicht giftig.
+Verbrennungsreaktionen verlaufen schon bei einem geringfügig erhöhten Sauerstoffanteil schneller 
+als in Luft. Alle mit Sauerstoff in Berührung kommenden Teile müssen daher frei von Öl, Fett oder 
+Schmiermittel sein.
+Chem. Zeichen O2
+Molare Masse 32,00 g/mol
+Tripelpunkt Temperatur 54,4 K (-218,8 °C)
+Druck 1,5 mbar
+Schmelzwärme 13,9 kJ/kg
+Siedepunkt bei 1,013 bar Temperatur 90,2 K (-183,0 °C)
+Verdampfungswärme 213 kJ/kg
+Kritischer Punkt Temperatur 154,6 K (-118,6 °C)
+Druck 50,4 bar
+Dichte 0,436 kg/Liter
+Relative Dichte des Gases 
+gegenüber Luft (1 bar/15 °C)
+1,105
+Sicherheitsdatenblatt Sicherheitsdatenblätter verfügbar unter linde.ch
+Sicherheitsempfehlung Zusätzliche Blätter «Sicherheitsempfehlungen»:
+A02: Richtiger Umgang mit Gasflaschen
+A04: Sauerstoffanreicherung/-mangel
+Haftungsausschluss Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde Gas 
+Schweiz AG prüft und aktualisiert die Informationen und behält sich das Recht vor, Änderungen oder 
+Ergänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich Daten 
+inzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und 
+Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden. 
+Jeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen Bestimmungen 
+eingehalten werden und dass die hier beschriebenen Produkte für seine Einsatzzwecke geeignet sind. 
+Die Angaben auf diesem Produktdatenblatt sind keine vertraglichen Zusicherungen von 
+Produkteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern oder Daten bedarf der 
+vorherigen Zustimmung der  Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 2 of 6 Copyright © Linde 2024
+
+[[page 3]]
+Oxygène, O2 (gazeux, comprimé)
+Désignation O2 5.0 O2 6.0
+Numéro du matériel 2110112, 2110152
+21105883
+6360112, 6360152
+63605883
+Pureté, % de mol. O2  99,999 O2  99,9999
+Impuretés, en ppm N2  5 N2  0,5
+Ar  2 Ar  1,0
+CnHm  0,2 CnHm  0,1
+CO2  0,2 CO2  0,1
+H2O  3 CO  0,1
+H2O  0,5
+Modes de livraison Bouteilles d’acier, pression de remplissage 200 bar (15 °C)
+(Récipients usuels) Vol. géom. Mesures et poids approximatifs
+Litres Diamètre mm Hauteur mm Poids brut kg
+10 140 920 16
+50 230 1560 74
+Cadre de bouteilles, pression de remplissage 200 bar (15 °C)
+Vol. géom. Mesures et poids approximatifs Remarques
+Litres Volume mm 
+(Longueur x Largeur x Hauteur)
+Poids brut kg
+600 1200 x 800 x 1700 970 - 1000 seul. Art. 63605883, 
+63605883
+Marquages Marquage en couleur (ogive) blanc pur, RAL 9010
+Gravure SAUERSTOFF
+Etiquettes sorte de gaz, étiquettes de qualité
+Code barre 
+Raccord de la valve G 3/4“ (SN 219505/2)
+Autres qualités et récipients Autres puretés 
+Liquéfié à très basse température 
+Récipients spéciaux 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 3 of 6 Copyright © Linde 2024
+
+[[page 4]]
+Oxygène, O2 (gazeux, comprimé)
+Chiffres de conversion m3 gaz
+(1.000 bar et 15 °C)
+Litres liquéfiés
+(Etat d’ébullition à 1,013 bar)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Caractéristiques L’oxygène est un gaz incolore et inodore, qui représente 20,95 % du volume de l’air.
+L’oxygène n’est pas toxique.
+Même une teneur en oxygène peu élevée peut provoquer des réactions de déflagration plus rapides 
+que dans l’air. Toutes les parties en contact avec de l’oxygène doivent être exemptes d’huile, de 
+graisse ou de lubrifiants.
+Formule chimique O2
+Masse molaire 32,00 g/mol
+Point triple Température 54,4 K (-218,8 °C)
+Pression 1,5 mbar
+Chaleur de fusion 13,9 kJ/kg
+Point d’ébullition à 1,013 bar Température 90,2 K (-183,0 °C)
+Chaleur d’évaporation 213 kJ/kg
+Point critique Température 154,6 K (-118,6 °C)
+Pression 50,4 bar
+Masse volumique 0,436 kg/litre
+Densité de gaz relative à l’air
+(1 bar/15 °C)
+1,105
+Fiche de sécurité Fiches de données de sécurité disponibles sur linde.ch
+Remarques de sécurité Feuilles supplémentaires «Remarques de sécurité»:
+A02: Manipulation des bouteilles de gaz
+A04: Enrichissement en oxygène / manque d‘oxygène
+Clause de non-responsabilité Toutes les informations contenues dans la fiche technique du produit correspondent à l'état actuel des 
+connaissances. Linde Gas Schweiz AG vérifie et actualise les informations et se réserve le droit de 
+modifier ou de compléter les informations mises à disposition. Malgré tout le soin apporté, des données 
+peuvent avoir changé entre-temps. Une responsabilité ou une garantie pour l'actualité, l'exactitude et 
+l'intégralité des informations mises à disposition ne peut donc pas être assumée. Chaque utilisateur est 
+responsable du respect de toutes les dispositions légales pertinentes et de l'adéquation des produits 
+décrits ici à son utilisation. Les informations contenues dans cette fiche technique de produit ne 
+constituent pas une garantie contractuelle des propriétés du produit. La reproduction d'informations, 
+de textes, d'images ou de données est soumise à l'autorisation préalable de Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 4 of 6 Copyright © Linde 2024
+
+[[page 5]]
+Ossigeno, O2 (gassoso, compresso)
+Definitione O2 5.0 O2 6.0
+Numero materiale 2110112, 2110152
+21105883
+6360112, 6360152
+63605883
+Purezza, % mol. O2  99,999 O2  99,9999
+Componenti secondari, ppm N2  5 N2  0,5
+Ar  2 Ar  1,0
+CnHm  0,2 CnHm  0,1
+CO2  0,2 CO2  0,1
+H2O  3 CO  0,1
+H2O  0,5
+Tipi di fornitura Bombole di acciaio, pressione di carica 200 bar (15 °C)
+(recipiente standard) Vol. geom. Valori indicativi di massa e peso
+Litri Diametro mm Altezza mm Peso lordo kg
+10 140 920 16
+50 230 1560 74
+Batterie di bombole, pressione di carica 200 bar (15 °C)
+Vol. geom. Valori indicativi di massa e peso Note
+Litri Dimensioni mm (L x L x A) Peso lordo kg
+600 1200 x 800 x 1700 970 - 1000 solo art. 63605883, 
+63605883
+Identificazione Colore di identificazione (ogiva) bianco puro, RAL 9010
+Incisione OSSIGENO
+Etichetta Tipo di gas, etichetta di qualità
+Codice a barre 
+Attacco valvola G 3/4“ (SN 219505/2)
+Altre forme di fornitura altre purezze 
+liquefatto a basse temperature 
+Recipienti speciali 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 5 of 6 Copyright © Linde 2024
+
+[[page 6]]
+Ossigeno, O2 (gassoso, compresso)
+Indici di conversione m3 gas
+(1.000 bar e 15 °C)
+Litri di liquido (stato di ebollizione a 
+1,013 bar, 15 °C)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Proprietà L’ossigeno è un gas incolore e inodore, contenuto nell’aria per il 20,95% vol. . L’ossigeno non è tossico.
+Con una percentuale di ossigeno lievemente maggiore, le reazioni di combustione risultano accelerate 
+rispetto all’aria normale. Tutte le parti a contatto con l’ossigeno devono perciò essere prive di olio, 
+grasso o lubrificanti.
+Simbolo chimico O2
+Massa molare 32,00 g/mol
+Punto triplo Temperatura 54,4 K (-218,8 °C)
+Pressione 1,5 mbar
+Calore di fusione 13,9 kJ/kg
+Punto di ebollizione a 1,013 bar Temperatura 90,2 K (-183,0 °C)
+Calore di evaporazione 213 kJ/kg
+Punto critico Temperatura 154,6 K (-118,6 °C)
+Pressione 50,4 bar
+Densità 0,436 kg/litro
+Densità relativa del gas rispetto 
+all’aria (1 bar/15 °C)
+1,105
+Scheda dati di sicurezza Schede dati di sicurezza disponibili su linde.ch
+Norme di sicurezza Fogli aggiuntivi “Norme di sicurezza”
+A02: Manipolazione delle bombole di gas
+A04: Anricchimento / mancanza di ossigeno
+Dichiarazione di non 
+responsabilità
+Tutte le informazioni contenute nella scheda tecnica del prodotto corrispondono allo stato attuale 
+delle conoscenze. Linde Gas Schweiz AG controlla e aggiorna le informazioni e si riserva il diritto di 
+apportare modifiche o aggiunte alle informazioni fornite. Nonostante la massima attenzione, i dati 
+possono essere cambiati nel frattempo. Non si assume pertanto alcuna responsabilità o garanzia per 
+l'attualità, la correttezza e la completezza delle informazioni fornite. È responsabilità di ogni utente 
+assicurarsi che siano rispettate tutte le norme di legge pertinenti e che i prodotti qui descritti siano 
+adatti all'uso previsto. Le informazioni contenute in questa scheda prodotto non costituiscono una 
+garanzia contrattuale delle proprietà del prodotto. La riproduzione di informazioni, testi, immagini o 
+dati richiede il consenso preliminare di Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27414 / 6
+Status / Effective Date: Released / 03 Jan 2024 Page 6 of 6 Copyright © Linde 2024

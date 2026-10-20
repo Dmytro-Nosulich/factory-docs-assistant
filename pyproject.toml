@@ -6,7 +6,9 @@ authors = [
     { name = "Dmytro Nosulich", email = "dmytro.nosulich@gmail.com" }
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "pypdf>=6.21.1",
+]
 
 [build-system]
 requires = ["uv_build>=0.13.1,<0.14.0"]

@@ -1,0 +1,153 @@
+[[page 1]]
+Sauerstoff, O2 (tiefkalt verflüssigt)
+Bezeichnung O2 "Ozon" O2 "P" andere Reinheiten
+Gasart 0634 0630 auf Anfrage
+Materialnummer 6340901 6300901
+% [mol/mol] O2  99,5 O2  98
+ppm [mol/mol] N2 + Ar  5000 o. A.
+KW < 25
+H2O < 2
+Lieferarten Strassentankwagen
+Andere Lieferformen andere Reinheiten 
+Spezialbehälter 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 1 of 6 Copyright © Linde 2024
+
+[[page 2]]
+Sauerstoff, O2 (tiefkalt verflüssigt)
+Umrechnungszahlen m3 Gas
+(1,000 bar und 15 °C)
+Liter Flüssigkeit
+(Siedezustand bei 1,013 bar)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Eigenschaften Siehe Sicherheitsdatenblatt auf Homepage
+Sicherheitsdatenblatt Sicherheitsdatenblätter verfügbar unter linde.ch
+Sicherheitsempfehlung Zusätzliche Blätter «Sicherheitsempfehlungen»:
+A06 Umgang mit tiefkalt verflüssigten Gasen
+A04 Sauerstoffanreicherung/-mangel
+Haftungsausschluss Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde Gas 
+Schweiz AG prüft und aktualisiert die Informationen und behält sich das Recht vor, Änderungen oder 
+Ergänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich Daten 
+inzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und 
+Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden. 
+Jeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen Bestimmungen 
+eingehalten werden und dass die hier beschriebenen Produkte für seine Einsatzzwecke geeignet sind. 
+Die Angaben auf diesem Produktdatenblatt sind keine vertraglichen Zusicherungen von 
+Produkteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern oder Daten bedarf der 
+vorherigen Zustimmung der  Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 2 of 6 Copyright © Linde 2024
+
+[[page 3]]
+Oxygène, O2 (liquéfié à très basse température)
+Désignation O2 "Ozon" O2 "P" Autres puretés
+Type de gaz 0634 0630 sur demande
+Numéro de materiél 6340901 6300901
+% [mol/mol] O2  99,5 O2  98
+ppm [mol/mol] N2 + Ar  5000 sans indic.
+KW < 25
+H2O < 2
+Modes de livraison Camion-citerne
+Autres qualités et récipients Autres puretés 
+Récipients spéciaux 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 3 of 6 Copyright © Linde 2024
+
+[[page 4]]
+Oxygène, O2 (liquéfié à très basse température)
+Chiffres de conversion m3 gaz
+(1,000 bar et 15 °C)
+Litres liquéfiés
+(Etat d’ébullition à 1,013 bar)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Caractéristiques Voir feuille de prescriptions de sécurité sur le site internet
+Fiche de sécurité Fiches de données de sécurité disponibles sur linde.ch
+Remarques de sécurité Feuilles supplémentaires «Remarques de sécurité»:
+A06 Manipulation des liquides cryogéniques
+A04 Enrichissement en oxygène/ manque d’oxygène
+Clause de non-responsabilité Toutes les informations contenues dans la fiche technique du produit correspondent à l'état actuel des 
+connaissances. Linde Gas Schweiz AG vérifie et actualise les informations et se réserve le droit de 
+modifier ou de compléter les informations mises à disposition. Malgré tout le soin apporté, des données 
+peuvent avoir changé entre-temps. Une responsabilité ou une garantie pour l'actualité, l'exactitude et 
+l'intégralité des informations mises à disposition ne peut donc pas être assumée. Chaque utilisateur est 
+responsable du respect de toutes les dispositions légales pertinentes et de l'adéquation des produits 
+décrits ici à son utilisation. Les informations contenues dans cette fiche technique de produit ne 
+constituent pas une garantie contractuelle des propriétés du produit. La reproduction d'informations, 
+de textes, d'images ou de données est soumise à l'autorisation préalable de Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 4 of 6 Copyright © Linde 2024
+
+[[page 5]]
+Ossigeno, O2 (liquido refrigerato)
+Definitione O2 "Ozono" O2 "P" altri gradi di purezza
+Tipo di gas 0634 0630 su richiesta
+Numero materiale 6340901 6300901
+% [mol/mol] O2  99,5 O2  98
+ppm [mol/mol] N2 + Ar  5000 nessuna indicazione
+Idrocarburi < 25
+H2O < 2
+Tipi di fornitura Autocisterna
+Altre forme di fornitura Altri gradi di purezza 
+Recipienti speciali 
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 5 of 6 Copyright © Linde 2024
+
+[[page 6]]
+Ossigeno, O2 (liquido refrigerato)
+Fattori di conversione m3 di gas
+(1,000 bar e 
+15 °C)
+Litri di liquido
+(stato di ebollizione a 1,013 bar)
+kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Proprietà Vedi scheda di sicurezza sul sito internet
+Scheda dati di sicurezza Schede dati di sicurezza disponibili su linde.ch
+Norme di sicurezza Fogli aggiuntivi “Norme di sicurezza”
+A06 Manipolazione dei gas criogenici liquefatti
+A04 Arricchimento / mancanza di ossigeno
+Dichiarazione di non 
+responsabilità
+Tutte le informazioni contenute nella scheda tecnica del prodotto corrispondono allo stato attuale 
+delle conoscenze. Linde Gas Schweiz AG controlla e aggiorna le informazioni e si riserva il diritto di 
+apportare modifiche o aggiunte alle informazioni fornite. Nonostante la massima attenzione, i dati 
+possono essere cambiati nel frattempo. Non si assume pertanto alcuna responsabilità o garanzia per 
+l'attualità, la correttezza e la completezza delle informazioni fornite. È responsabilità di ogni utente 
+assicurarsi che siano rispettate tutte le norme di legge pertinenti e che i prodotti qui descritti siano 
+adatti all'uso previsto. Le informazioni contenute in questa scheda prodotto non costituiscono una 
+garanzia contrattuale delle proprietà del prodotto. La riproduzione di informazioni, testi, immagini o 
+dati richiede il consenso preliminare di Linde Gas Schweiz AG.
+Produktspezifikation 
+Linde Gas Schweiz AG
+Industriepark 10, CH-6252 Dagmersellen
+Telefon 0844 800 300, contact.lg.ch@linde.com, www.linde.ch
+Doc No / Version: MS-27226 / 05
+Status / Effective Date: Released / 03 Jan 2024 Page 6 of 6 Copyright © Linde 2024

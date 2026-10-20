@@ -1,0 +1,74 @@
+[[page 1]]
+Abnahmeprüfzeugnis nach EN 10204 - 3.1
+Inspection certificate acc. to EN 10204 - 3.1
+Seite / page 1 von 2
+Zeugnis-Nr./Certificate-no, 1775-07-32166659
+Es wird bescheinigt, dass die gelieferten Erzeugnisse den Vereinbarungen bei der Bestellung
+entsprechen. Darüber hinaus wird bescheinigt, dass bei der Herstellung der nachstehend aufgeführten
+Erzeugnisse die vorgeschriebenen Prüfungen und / oder die zusätzlich aufgeführten Prüfungen nach den
+bestehenden Prüfvorgaben durchgeführt und die erforderlichen Freigaben erteilt wurden. Die unten
+aufgeführten Prüfungen wurden unter Aufsicht einer dazu autorisierten, unabhängigen Stelle
+durchgeführt.
+It is certified that the products supplied are in compliance with the requirements of the order.
+Furthermore, it is confirmed that during the manufacturing of the subsequently listed products the
+specified inspections and / or the additionally ordered inspections have been performed according to the
+valid procedures and the necessary releases have been given.
+The subsequently listed inspections have been performed by especially authorized personal.
+Kunde / Customer : Max Mustermann GbR
+Schlossallee 5
+89000 München
+Kunden Bestell-Nr. / Customer order no. : 238 - 143-06
+E+H Auftrags-Nr. / E+H order no. : 40/43912685/40154238
+Pos / item Menge / Qty Produktbezeichnung / Description
+0080 1 TTR35-A1A121DB1BYB
+Thermophant T  TTR35
+Serien-Nr / Serial-No. mit/with TAG-Info
+93002D04298 line 1:TSH 01-001
+Teil / Part Adapterflansch 1 1/2" TTR31/TTR35
+Firma / Manufacturer Olarra
+Zeugnis-Nr. / Certificate No. 538.783
+Schmelze-Nr. / Heat No. 907733
+Material / Material 1.4435/316L
+E + H Ident Nr. / E + H Ident No. W098 / A630
+
+[[page 2]]
+Abnahmeprüfzeugnis nach EN 10204 - 3.1
+Inspection certificate acc. to EN 10204 - 3.1
+Seite / page 2 von 2
+Zeugnis-Nr./Certificate-no, 1775-07-32166659
+Teil / Part Rohr Edelstahl D6x1 1.4404 (316L)
+Firma / Manufacturer Sandvik
+Zeugnis-Nr. / Certificate No. 24339
+Schmelze-Nr. / Heat No. 511552
+Material / Material 1.4404/316L
+E + H Ident Nr. / E + H Ident No. W127 /
+Teil / Part Prozessadapter TMR35 M24x1,5/D6
+Firma / Manufacturer Acc Valb
+Zeugnis-Nr. / Certificate No. MEST416114/2006
+Schmelze-Nr. / Heat No. 242691
+Material / Material 1.4404/316L
+E + H Ident Nr. / E + H Ident No. W128 / 
+Teil / Part Fühlerspitze D6x25 kpl.TMR3X
+Firma / Manufacturer Ugine & Alz
+Zeugnis-Nr. / Certificate No. 2004.0090426
+Schmelze-Nr. / Heat No. 0
+Material / Material 1.4404/316
+E + H Ident Nr. / E + H Ident No. W137 / 
+Datum / Date : 03.05.2007
+Seitz S.Endress+Hauser Wetzer GmbH & Co.KG
+D – 87484 Nesselwang Werkssachverständiger
+Works inspector
+
+[[page 3]]
+
+[[page 4]]
+
+[[page 5]]
+
+[[page 6]]
+
+[[page 7]]
+
+[[page 8]]
+
+[[page 9]]

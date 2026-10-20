@@ -1,0 +1,3150 @@
+[[page 1]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+Borvida B i Borvida C są znakami towarowymi Borealis group.   
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 1 z 45 
+SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa 
+1.1 Identyfikator produktu 
+Nazwa handlowa 
+ 
+: Acetone, Borvida B™ Acetone, Borvida C™ Acetone 
+ 
+Numer rejestracyjny REACH 
+ 
+: 01-2119471330-49-0006, 01-2119471330-49-XXXX 
+ 
+Nazwa substancji 
+ 
+: Aceton 
+ 
+Numer indeksowy 
+ 
+: 606-001-00-8 
+ 
+Nr WE 
+ 
+: 200-662-2 
+ 
+1.2 Istotne zidentyfikowane zastosowania substancji lub mieszaniny oraz zastosowania odradzane  
+Zastosowanie 
+substancji/mieszaniny 
+ 
+: Produkcja, Forma użytkowa, Zastosowanie w laboratoriach, 
+Użycie jako środka pośredniego, Zastosowanie w powłokach, 
+Zastosowanie w środkach wiążących i rozdzielających, 
+Zastosowanie w produkcji i przetwarzaniu gumy, 
+Zastosowanie w przetwarzaniu polimerów, Używany podczas 
+produkcji polimerów, Zastosowanie w środkach do 
+czyszczenia, Wykonywanie odwiertów naftowych i operacje 
+związane z produkcją (w tym czyszczenie płuczki wiertniczej i 
+odwiertu) w systemach zamkniętych lub samowystarczalnych, 
+z uwzględnieniem przypadkowego narażenia podczas 
+transferu materiałów, czynności w miejscu wydobycia i 
+powiązanych czynności konserwacyjnych., Zastosowanie w 
+środkach porotwórczych, Zastosowanie w substancjach 
+chemicznych wykorzystywanych w górnictwie, Zastosowanie 
+w produktach agrochemicznych, Zastosowanie w płynach do 
+odladzania i zapobiegających powstawaniu lodu, 
+Zastosowanie w materiałach wybuchowych, Powłoki i farby, 
+rozcieńczalniki, zmywacze do farb, Wypełniacze, kity, tynki, 
+modelina, Płyny przewodzące ciepło, Kosmetyki, środki 
+higieny osobistej, Środki poślizgowe, smary i produkty 
+uwalniające substancje, Środki polerujące i mieszanki 
+woskowe 
+ 
+1.3 Dane dotyczące dostawcy karty charakterystyki 
+Producent : Borealis Polymers Oy  
+P.O. Box 330, FI-06101 Porvoo, Finlandia   
+Numer telefonu: +358 9 394900 
+ 
+ 
+Dostawca : Borealis AG 
+Trabrennstrasse 6-8, 1020 Wieden, Austria 
+Numer telefonu: +43 1 22400 0
+
+[[page 2]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 2 z 45 
+ 
+ 
+Adres e-mail : sds@borealisgroup.com 
+ 
+1.4 Numer telefonu alarmowego 
+ 
+ 
++1 760 476 3962 (3E), kod dostępu: 336296 
+SEKCJA 2: Identyfikacja zagrożeń 
+2.1 Klasyfikacja substancji lub mieszaniny 
+Klasyfikacja (ROZPORZĄDZENIE (WE) NR 1272/2008) 
+Substancje ciekłe łatwopalne, Kategoria 2   H225: Wysoce łatwopalna ciecz i pary.  
+Działanie drażniące na oczy, Kategoria 2   H319: Działa drażniąco na oczy.  
+Działanie toksyczne na narządy 
+docelowe - narażenie jednorazowe, 
+Kategoria 3, Centralny układ nerwowy  
+ H336: Może wywoływać uczucie senności lub 
+zawroty głowy.  
+2.2 Elementy oznakowania 
+Oznakowanie (ROZPORZĄDZENIE (WE) NR 1272/2008) 
+Piktogramy określające 
+rodzaj zagrożenia  
+: 
+  
+   
+      
+Hasło ostrzegawcze 
+ 
+: Niebezpieczeństwo 
+ 
+Zwroty wskazujące rodzaj 
+zagrożenia 
+ 
+: H225 Wysoce łatwopalna ciecz i pary. 
+H319 Działa drażniąco na oczy. 
+H336 Może wywoływać uczucie senności lub zawroty głowy. 
+ 
+Uzupełniające zwroty 
+wskazujące rodzaj 
+zagrożenia 
+: EUH066  Powtarzające się narażenie może 
+powodować wysuszanie lub pękanie skóry. 
+ 
+Zwroty wskazujące środki 
+ostrożności 
+ 
+: Zapobieganie:  
+P210 Przechowywać z dala od źródeł ciepła, gorących 
+powierzchni, źródeł iskrzenia, otwartego ognia i innych źródeł 
+zapłonu. Nie palić. 
+P243 Przedsięwziąć środki ostrożności zapobiegające 
+statycznemu rozładowaniu. 
+Reagowanie:  
+P305 + P351 + P338 W PRZYPADKU DOSTANIA SIĘ DO 
+OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć
+
+[[page 3]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 3 z 45 
+soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal 
+płukać. 
+Magazynowanie:  
+P403 + P233 Przechowywać w dobrze wentylowanym 
+miejscu. Przechowywać pojemnik szczelnie zamknięty. 
+P405 Przechowywać pod zamknięciem. 
+ 
+2.3 Inne zagrożenia 
+Ta substancja/mieszanina nie zawiera składników uważanych albo za trwałe, podlegające 
+bioakumulacji i toksyczne, albo bardzo trwałe i podlegające bardzo silnej bioakumulacji (vPvB) na 
+poziomie 0,1% bądź powyżej. 
+ 
+Informacje ekologiczne: Ta substancja/mieszanina nie zawiera składników, o których uważa się, że 
+mają właściwości endoktrynnie czynne według Artykułu REACH 57(f), regulacji Komisji Delegowanej 
+(UE) 2017/2100 lub Regulacji Komisji (UE) 20218/606 na poziomach 0,1% lub wyższych.  
+ 
+Informacje toksykologiczne: Ta substancja/mieszanina nie zawiera składników, o których uważa się, 
+że mają właściwości endoktrynnie czynne według Artykułu REACH 57(f), regulacji Komisji 
+Delegowanej (UE) 2017/2100 lub Regulacji Komisji (UE) 20218/606 na poziomach 0,1% lub 
+wyższych. 
+ 
+ 
+SEKCJA 3: Skład/informacja o składnikach 
+3.1 Substancje 
+Nazwa substancji 
+ 
+: Aceton 
+ 
+Numer indeksowy 
+ 
+: 606-001-00-8 
+ 
+Nr WE 
+ 
+: 200-662-2 
+ 
+Składniki 
+Nazwa Chemiczna Nr CAS 
+Nr WE 
+Stężenie (% w/w) Współczynnik M, SCL, 
+ATE 
+ 
+aceton 67-64-1 
+200-662-2 
+> 99
+
+[[page 4]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 4 z 45 
+SEKCJA 4: Środki pierwszej pomocy 
+4.1 Opis środków pierwszej pomocy 
+Zalecenia ogólne 
+ 
+:  Wyprowadzić osobę poszkodowaną na świeże powietrze. 
+Zapewnić poszkodowanemu ciepło i spokój. 
+Osobie nieprzytomnej zapewnić wygodną pozycję i zasięgnąć 
+porady medycznej. 
+ 
+ 
+W przypadku wdychania 
+ 
+:  Wynieść poszkodowanego z miejsca zagrożenia. 
+Trzymaj ciepło i spokój i zapewniają świeże powietrze. 
+W razie potrzeby podać tlen lub zastosować sztuczne 
+oddychanie. 
+Natychmiast wezwać lekarza. 
+ 
+W przypadku kontaktu ze 
+skórą 
+ 
+:  Natychmiast zdjąć skażone ubranie. 
+Natychmiast zmyć dużą ilością wody z mydłem. 
+Uzyskać pomoc lekarską. 
+ 
+W przypadku kontaktu z 
+oczami 
+ 
+:  Spłukać niezwłocznie dużą ilością wody, również pod 
+powiekami, przez co najmniej 10 minut. 
+Natychmiast wezwać lekarza. 
+ 
+W przypadku połknięcia 
+ 
+:  Natychmiast wezwać lekarza. 
+NIE prowokować wymiotów. 
+Przepłukać usta, podać węgiel aktywny. 
+ 
+4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia 
+Objawy : Kontakt ze skórą i oczami: 
+mrowienie 
+ 
+   Wdychanie może wywołać następujące objawy: 
+Podrażnienie dróg oddechowych 
+ 
+   Wdychanie oparów o dużym stężeniu może powodować ból 
+głowy, zawrót głowy, wyczerpanie, mdłości i wymioty. 
+ 
+   Połknięcie może wywołać następujące objawy: 
+Dolegliwości jelitowo-żołądkowe 
+ 
+   Kontakt przez skórę: 
+Powtarzające się narażenie może powodować wysuszanie lub 
+pękanie skóry. 
+ 
+Zagrożenia : Działa drażniąco na oczy. 
+Może wywoływać uczucie senności lub zawroty głowy.
+
+[[page 5]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 5 z 45 
+Powtarzające się narażenie może powodować wysuszanie lub 
+pękanie skóry. 
+4.3 Wskazania dotyczące wszelkiej natychmiastowej pomocy lekarskiej i szczególnego 
+postępowania z poszkodowanym 
+Leczenie 
+ 
+: Symptomy zatrucia mogą pojawić się po kilku godzinach. 
+Zapewnić opiekę medyczną przynajmniej przez 48 godzin. 
+Aparat oddechowy i/lub tlen może być niezbędny. 
+Ryzyko opóźnionego obrzęku płuc. 
+ 
+SEKCJA 5: Postępowanie w przypadku pożaru 
+5.1 Środki gaśnicze 
+Odpowiednie środki gaśnicze 
+ 
+:  Piana odporna na alkohole 
+Suchy proszek gaśniczy 
+Mgła wodna 
+Dwutlenek węgla (CO2) 
+ 
+5.2 Szczególne zagrożenia związane z substancją lub mieszaniną 
+Zagrożenia szczególne w 
+czasie gaszenia pożaru 
+ 
+:  W czasie niepełnego spalania mogą powstawać: 
+Tlenek węgla 
+Dwutlenek węgla (CO2) 
+Pary mogą tworzyć z powietrzem mieszaniny wybuchowe. 
+ 
+5.3 Informacje dla straży pożarnej 
+Specjalne wyposażenie 
+ochronne dla strażaków 
+ 
+:  Założyć sprzęt do oddychania z obiegiem zamkniętym i odzież 
+ochronną. Pełny kombinezon ochronny chroniący przed 
+chemikaliami Ubranie ochronne nasycone substancją 
+opóźniającą palenie  
+ 
+Dalsze informacje 
+ 
+:  Usunąć wszystkie źródła zapłonu. 
+Chłodzić pojemniki/zbiorniki rozproszonym strumieniem wody. 
+Nie dopuścić do przedostania się wody z gaszenia pożaru do 
+sieci wodnej lub kanalizacji. 
+ 
+SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska 
+6.1 Indywidualne środki ostrożności wyposażenie ochronne i procedury w sytuacjach awaryjnych  
+Wyeliminować wszystkie źródła zapłonu, jeżeli jest to bezpieczne. 
+Nie dopuścić do zbliżania się ludzi do wycieku/rozsypania od strony nawietrznej.  
+Użyć środków ochrony osobistej.
+
+[[page 6]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 6 z 45 
+6.2 Środki ostrożności w zakresie ochrony środowiska 
+Zatrzymać wyciek, jeśli to bezpieczne. 
+Nie powinien dostać się do środowiska. 
+Nie dopuścić do przedostania się produktu do kanalizacji. 
+Należy powiadomić władze lokalne w przypadku niemożności ograniczenia poważnego 
+wyzwolenia. 
+Ryzyko eksplozji. 
+ 
+6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania 
+skażenia 
+Zapewnić odpowiednią wentylację szczególnie w pomieszczeniach zamkniętych.  
+ 
+Metody oczyszczania - duże wylania 
+Zatamować wyciek. 
+Duże wycieki powinny być zebrane mechanicznie (odpompowane) celem usunięc ia. 
+ 
+Metody oczyszczania - małe wylania 
+Ograniczyć wyciek, zebrać z niepalnym materiałem absorbującym, (np. piaskiem, ziemią, ziemią 
+okrzemkową, wermikulitem) i przenieść do pojemnika celem usunięcia zgodnie z 
+lokalnymi/krajowymi przepisami (patrz w sekcji 13). 
+ 
+Powinno się stosować narzędzia nieiskrzące. 
+Pary są cięższe od powietrza i mogą zalegać przy powierzchni gruntu. 
+Zwróć uwagę na możliwość cofnięcia się płomienia. 
+Produkt szybko odparowuje. 
+ 
+6.4 Odniesienia do innych sekcji 
+Środki ochrony osobistej: patrz w sekcji 8., Rozważania na temat utylizacji, patrz część 13.  
+SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie 
+7.1 Środki ostrożności dotyczące bezpiecznego postępowania 
+Sposoby bezpiecznego 
+postępowania  
+: Zapewnić wystarczającą wentylację. 
+Zapewnić wentylację wywiewną przy podłodze. 
+Ponownie napełniać i operować produktem tylko w 
+zamkniętym układzie. 
+Unikać tworzenia się aerozolu. 
+Nie wdychać oparów/pyłu. 
+Unikać kontaktu ze skórą, oczami i ubraniem. 
+Unikać narażenia - przed użyciem zapoznać się z instrukcją. 
+Myć ręce przed posiłkami i bezpośrednio po stosowaniu 
+produktu. 
+Nie jeść i nie pić oraz nie palić tytoniu podczas stosowania 
+produktu. 
+Zapewnić oczomyjki i prysznice w pobliżu miejsca pracy.  
+Wytyczne ochrony :  Przechowywać z dala od ciepła i źródeł zapłonu. Nie palić.
+
+[[page 7]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 7 z 45 
+przeciwpożarowej 
+ 
+Zastosować środki ostrożności zapobiegające wyładowaniom 
+elektrostatycznym. Aby uniknąć zapłonu par przez 
+wyładowania elektrostatyczne, wszystkie metalowe części 
+urządzenia muszą być uziemione.  
+ 
+7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych 
+niezgodności 
+Wymagania względem 
+pomieszczeń i pojemników 
+magazynowych 
+ 
+:  Przechowywać pojemniki dokładnie zamknięte, w chłodnym i 
+dobrze wentylowanym miejscu. Przechowywać w suchym 
+miejscu. Chronić przed światłem słonecznym. Przechowywać 
+produkt i pusty pojemnik z dala od ciepła i źródeł zapłonu. 
+Magazynowanie musi odbywać się na zewnątrz.  
+ 
+Wytyczne składowania 
+ 
+: Nie przechowywać razem z: Materiałami określonymi. 
+Patrz rozdział 10. 
+ 
+7.3 Szczególne zastosowanie(-a) końcowe 
+Specyficzne zastosowania 
+ 
+:  Rozpuszczalnik 
+ 
+SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej 
+8.1 Parametry dotyczące kontroli 
+Granice narażenia zawodowego 
+Składniki Nr CAS Typ wartości 
+(Droga 
+narażenia) 
+Parametry dotyczące 
+kontroli 
+Podstawa 
+aceton 67-64-1 TWA 500 ppm 
+1.210 mg/m3 
+2000/39/EC 
+Dalsze informacje Indykatywny   
+NDS 600 mg/m3 PL NDS   
+NDSch 1.800 mg/m3 PL NDS   
+TWA 500 ppm 
+1.210 mg/m3 
+2000/39/EC 
+Dalsze informacje Indykatywny 
+Pochodny niepowodujący efektów poziom (DNEL) zgodnie z Rozporządzeniem WE 1907/2006: 
+Nazwa substancji Końcowe 
+przeznaczenie 
+Droga narażenia Potencjalne skutki 
+zdrowotne 
+Wartość 
+aceton  Pracownicy Wdychanie Ostre - skutki 
+miejscowe 
+2420 mg/m3 
+ 
+Pracownicy Wdychanie Długotrwałe - skutki 
+układowe 
+1210 mg/m3 
+ 
+Pracownicy Kontakt ze 
+skórą 
+Długotrwałe - skutki 
+układowe 
+186 mg/kg 
+wagi
+
+[[page 8]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 8 z 45 
+ciała/dzień  
+Konsumenci Wdychanie Długotrwałe - skutki 
+układowe 
+200 mg/m3 
+ 
+Konsumenci Kontakt ze 
+skórą 
+Długotrwałe - skutki 
+układowe 
+62 mg/kg 
+wagi 
+ciała/dzień  
+Konsumenci Połknięcie Długotrwałe - skutki 
+układowe 
+62 mg/kg 
+wagi 
+ciała/dzień 
+Przewidywane stężenie niepowodujące zmian w środowisku (PNEC) zgodnie z 
+Rozporządzeniem WE 1907/2006: 
+Nazwa substancji Środowisko Wartość 
+aceton Woda słodka 10,6 mg/l 
+ Stosowanie okresowe/uwolnienie 21 mg/l 
+ Woda morska 1,06 mg/l 
+ Osad wody słodkiej 30,4 mg/kg 
+ Osad morski 3,04 mg/kg 
+ Gleba 29,5 mg/kg 
+ Oczyszczania ścieków 100 mg/l 
+8.2 Kontrola narażenia 
+Środki techniczne 
+Używać tylko wyposażenia w wykonaniu przeciwwybuchowym. 
+Zapewnić odpowiednią wentylację. 
+Sprzęt ochrony osobistej 
+Ochrona oczu :  okulary ochronne z bocznymi osłonami zgodne z EN 166  
+Ochrona rąk 
+    Materiał : kauczuk butylowy 
+    Czas wytrzymałości : > 240 min 
+    Grubość rękawic : 0,5 mm 
+ 
+ 
+ 
+    Uwagi  : W przypadku długotrwałego lub powtarzającego się kontaktu 
+stosować rękawice ochronne.  
+Prosimy przestrzegać instrukcji dotyczących 
+przepuszczalności i czasu przebicia dostarczonych przez 
+dostawcę rękawic. Należy również uwzględnić specyficzne 
+warunki lokalne stosowania produktu, takie jak 
+niebezpieczeństwo przecięcia, ścierania i czas kontaktu. 
+Wybrane rękawice ochronne muszą spełniać specyfikację 
+rozporządzenia wspólnotowego (UE) 2016/425 i normy 
+pochodnej EN 374.   
+Ochrona skóry i ciała :  Używać odzieży ochronnej odpornej na rozpuszczalniki. 
+Ubranie ochronne nasycone substancją opóźniającą palenie 
+Obuwie ochronne zgodne z EN 345-347.  
+Ochrona dróg oddechowych : Nosić ochronę układu oddechowego, jeżeli jego stosowanie 
+jest identyfikowane dla uczestniczenia w pewnych
+
+[[page 9]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 9 z 45 
+scenariuszach.  
+Filtr typu : Typ gazu organicznego i pary niskowrzącej (AX)  
+Kontrola narażenia środowiska 
+Zalecenia ogólne :  Zatrzymać wyciek, jeśli to bezpieczne. Nie powinien dostać 
+się do środowiska. Nie dopuścić do przedostania się produktu 
+do kanalizacji. Należy powiadomić władze lokalne w 
+przypadku niemożności ograniczenia poważnego wyzwolenia. 
+Ryzyko eksplozji. 
+ 
+SEKCJA 9: Właściwości fizyczne i chemiczne 
+9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych  
+Stan fizyczny : ciecz  
+Barwa  :  bezbarwny  
+Zapach  :  słodki, aromatyczny  
+Próg zapachu  :  19,8 ppm 
+ 
+Temperatura topnienia  : -94,7 °C 
+ 
+Temperatura wrzenia  : 56 °C 
+Palność  : Produkt wysoce łatwopalny. 
+ 
+Górna granica wybuchowości 
+/ Górna granica palności 
+ 
+: 14,3 %(V) 
+ 
+Dolna granica wybuchowości / 
+Dolna granica palności 
+ 
+: 2,5 %(V) 
+ 
+Temperatura zapłonu  : -17 °C 
+ 
+Temperatura samozapłonu  : 465 °C 
+ 
+Temperatura rozkładu  :  brak dostępnych danych  
+ 
+pH  : 7 
+Stężenie: 10 g/l 
+ 
+Lepkość 
+Lepkość dynamiczna  : 0,32 mPa.s (20 °C) 
+ 
+Rozpuszczalność 
+Rozpuszczalność w 
+wodzie  
+: całkowicie rozpuszczalny  
+Rozpuszczalność w innych 
+rozpuszczalnikach  
+: mieszalny z większością rozpuszczalników organicznych 
+(20 °C) 
+Rozpuszczalnik: Rozpuszczalność w tłuszczach
+
+[[page 10]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 10 z 45 
+ 
+ 
+Współczynnik podziału: n-
+oktanol/woda  
+: log Pow: -0,24 
+ 
+Prężność par  : 240 hPa (20 °C) 
+ 
+  
+ 
+800 hPa (50 °C) 
+ 
+Gęstość względna  : 0,79 (20 °C) 
+ 
+Gęstość  : 0,79 g/cm3 
+ 
+Gęstość względna par  : 2,1 (20 °C) 
+ 
+Rozmiar cząstek  : Nie dotyczy, (ciecz) 
+ 
+Charakterystyka cząstek 
+Rozkład wielkości cząstek  :  Nie dotyczy, (ciecz) 
+ 
+9.2 Inne informacje 
+Materiały wybuchowe : Nie jest substancją wybuchową 
+ 
+Właściwości utleniające  : Substancja lub mieszanina nie została sklasyfikowana jako 
+utleniająca. 
+ 
+Szybkość parowania  :  2,0 
+(eter = 1)  
+ 
+Masa cząsteczkowa  : 58,08 g/mol 
+ 
+ 
+SEKCJA 10: Stabilność i reaktywność 
+10.1 Reaktywność 
+Reaguje z następującymi substancjami: 
+Zasady 
+10.2 Stabilność chemiczna 
+Pary mogą tworzyć z powietrzem mieszaniny wybuchowe. 
+Pary są cięższe od powietrza i mogą zalegać przy powierzchni gruntu. 
+Zwróć uwagę na możliwość cofnięcia się płomienia. 
+10.3 Możliwość występowania niebezpiecznych reakcji 
+Niebezpieczne reakcje 
+ 
+:  Nie są znane niebezpieczne reakcje w warunkach 
+normalnego stosowania.
+
+[[page 11]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 11 z 45 
+10.4 Warunki, których należy unikać 
+Warunki, których należy 
+unikać 
+ 
+: Przechowywać z dala od ciepła i źródeł zapłonu. 
+Wystawienie na działanie światła. 
+ 
+10.5 Materiały niezgodne 
+Czynniki, których należy 
+unikać 
+ 
+:  Może reagować z wieloma tworzywami sztucznymi, gumą i 
+powłokami. 
+Trzymać z dala od: 
+Zasady 
+Utleniacze 
+Aminy 
+ 
+10.6 Niebezpieczne produkty rozkładu 
+Tlenek węgla 
+Dwutlenek węgla (CO2) 
+ 
+SEKCJA 11: Informacje toksykologiczne 
+11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008  
+Toksyczność ostra 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Składniki: 
+aceton: 
+Toksyczność ostra - droga 
+pokarmowa  
+:  LD50 (Szczur): 5.800 mg/kg  
+ 
+Toksyczność ostra - przez 
+drogi oddechowe  
+:  LC50: 76 mg/l 
+Atmosfera badawcza: para 
+ 
+Toksyczność ostra - po 
+naniesieniu na skórę  
+:  LD50 (Świnka morska, samiec): > 7.426 mg/kg 
+ 
+Działanie żrące/drażniące na skórę 
+Powtarzające się narażenie może powodować wysuszanie lub pękanie skóry.  
+Składniki: 
+aceton: 
+Gatunek : Świnka morska 
+Uwagi : Brak działania drażniącego na skórę 
+ 
+Poważne uszkodzenie oczu/działanie drażniące na oczy  
+Działa drażniąco na oczy. 
+Składniki:
+
+[[page 12]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 12 z 45 
+aceton: 
+Gatunek : Królik 
+Metoda : Dyrektywa ds. testów 405 OECD 
+Uwagi : Działanie drażniące na oczy 
+ 
+Działanie uczulające na drogi oddechowe lub skórę 
+Działanie uczulające na skórę  
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Uczulenie układu oddechowego  
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Składniki: 
+aceton: 
+Rodzaj badania : Test maksymizacyjny 
+Droga narażenia : Kontakt ze skórą 
+Gatunek : Świnka morska 
+Uwagi : Nie powoduje podrażnienia skóry. 
+ 
+Działanie mutagenne na komórki rozrodcze 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Składniki: 
+aceton: 
+Genotoksyczność in vitro  : Rodzaj badania: test mutacji genowej 
+Metoda: Dyrektywa ds. testów 471 OECD 
+Wynik: negatywny 
+ 
+  : Rodzaj badania: Test odchylenia chromosomów in vitro 
+Metoda: Dyrektywa ds. testów 473 OECD 
+Wynik: negatywny 
+ 
+Genotoksyczność in vivo  :  Rodzaj badania: analiza in vivo 
+Gatunek: Mysz 
+Sposób podania dawki: Doustnie 
+Wynik: negatywny 
+ 
+Rakotwórczość 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.  
+Szkodliwe działanie na rozrodczość 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Składniki: 
+aceton: 
+Działanie na płodność  :  Uwagi: Nie zgłoszono istotnych działań niepożądanych
+
+[[page 13]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 13 z 45 
+Wpływ na rozwój płodu  :  Sposób podania dawki: Wdychanie 
+Ogólna toksyczność u matek: NOAEC: 5.300 mg/m³ 
+ 
+Działanie toksyczne na narządy docelowe - narażenie jednorazowe 
+Może wywoływać uczucie senności lub zawroty głowy. 
+Działanie toksyczne na narządy docelowe - narażenie powtarzane 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+Toksyczność dawki powtórzonej 
+Składniki: 
+aceton: 
+Gatunek : Szczur, samiec 
+NOAEL : 900 mg/kg  
+Sposób podania dawki : Doustnie 
+Czas ekspozycji : 90 Dn. 
+Metoda : Dyrektywa ds. testów 408 OECD 
+ 
+Gatunek : Szczur, samiec 
+Sposób podania dawki : Wdychanie 
+Czas ekspozycji : 40 Dn. 
+ 
+Zagrożenie spowodowane aspiracją 
+W oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione. 
+11.2 Informacje o innych zagrożeniach 
+Właściwości zaburzające funkcjonowanie układu hormonalnego 
+Produkt: 
+Ocena : Ta substancja/mieszanina nie zawiera składników, o których 
+uważa się, że mają właściwości endoktrynnie czynne według 
+Artykułu REACH 57(f), regulacji Komisji Delegowanej (UE) 
+2017/2100 lub Regulacji Komisji (UE) 20218/606 na 
+poziomach 0,1% lub wyższych. 
+ 
+Dalsze informacje 
+Produkt: 
+Uwagi : Może się absorbować w przypadku narażenia drogą 
+oddechową i przez skórę. 
+Efekty spożycia mogą obejmować: 
+Zaburzenie przewodu pokarmowego
+
+[[page 14]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 14 z 45 
+SEKCJA 12: Informacje ekologiczne 
+12.1 Toksyczność 
+Produkt: 
+Ocena ekotoksykologiczna 
+Zagrożenie długotrwałe 
+(przewlekłe) dla środowiska 
+wodnego  
+:  Dla tego produktu nie znane są efekty ekotoksyczne. 
+ 
+Składniki: 
+aceton: 
+Toksyczność dla ryb  :  LC50 (Oncorhynchus mykiss (pstrąg tęczowy)): 5.540 mg/l 
+Czas ekspozycji: 96 h 
+Rodzaj badania: próba statyczna 
+Uwagi: Woda słodka 
+ 
+    LC50 (Ukleja (Alburnus alburnus)): 11.000 mg/l 
+Czas ekspozycji: 96 h 
+Rodzaj badania: próba statyczna 
+Uwagi: Woda morska 
+ 
+Toksyczność dla dafnii i 
+innych bezkręgowców 
+wodnych  
+:  LC50 (Daphnia pulex (dafnia)): 8.800 mg/l 
+Czas ekspozycji: 48 h 
+Rodzaj badania: próba statyczna 
+Uwagi: Woda słodka 
+ 
+    LC50 (Artemia salina): 2.100 mg/l 
+Czas ekspozycji: 24 h 
+Rodzaj badania: próba statyczna 
+Uwagi: Woda morska 
+ 
+Toksyczność dla 
+glony/rośliny wodne  
+:  NOEC (Microcystis aeruginosa): 530 mg/l 
+Czas ekspozycji: 8 Dn. 
+Rodzaj badania: próba statyczna 
+Uwagi: Woda słodka 
+ 
+    NOEC (Prorocentrum minimum): 430 mg/l 
+Czas ekspozycji: 96 h 
+Uwagi: Woda morska 
+ 
+Toksyczność dla 
+mikroorganizmów  
+:  EC12 (Bakterie): 1.000 mg/l  
+Czas ekspozycji: 30 min 
+Rodzaj badania: Blokada zdolności aktywowanego szlamu 
+ 
+Toksyczność dla ryb 
+(Toksyczność chroniczna)  
+: Uwagi: badania naukowo nieuzasadnione
+
+[[page 15]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 15 z 45 
+Toksyczność dla dafnii i 
+innych bezkręgowców 
+wodnych (Toksyczność 
+chroniczna)  
+: NOEC: 2.212 mg/l  
+Czas ekspozycji: 28 Dn. 
+Gatunek: Daphnia magna (rozwielitka) 
+Rodzaj badania: próba przepływowa 
+Uwagi: Woda słodka 
+ 
+12.2 Trwałość i zdolność do rozkładu 
+Produkt: 
+Stabilność w wodzie  :  Hydroliza: (0 %) 
+ 
+Fotodegradacja  : Rodzaj badania: Powietrze 
+Półtrwanie (bezpośrednia fotoliza): 10 Dn. 
+ 
+Składniki: 
+aceton: 
+Biodegradowalność  :  Biodegradacja:  91 % 
+Metoda: Wytyczne OECD 301 B w sprawie prób 
+Uwagi: Łatwo biodegradowalny. 
+ 
+12.3 Zdolność do bioakumulacji 
+Produkt: 
+Bioakumulacja  :  Współczynnika biokoncentracji (BCF): 3 
+Metoda: obliczone 
+Uwagi: Bioakumulacja nie przewidywana: Stała podziału (n-
+oktanol/woda) log Kow < 3 
+ 
+Składniki: 
+aceton: 
+Współczynnik podziału: n-
+oktanol/woda  
+: log Pow: -0,24 
+ 
+12.4 Mobilność w glebie 
+Produkt: 
+Mobilność  :  Uwagi: Gleba, Wysoka mobilność 
+ 
+    Uwagi: Woda:, Produkt szybko odparowuje. 
+ 
+12.5 Wyniki oceny właściwości PBT i vPvB 
+Produkt: 
+Ocena  : Ta substancja/mieszanina nie zawiera składników uważanych 
+albo za trwałe, podlegające bioakumulacji i toksyczne, albo 
+bardzo trwałe i podlegające bardzo silnej bioakumulacji
+
+[[page 16]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 16 z 45 
+(vPvB) na poziomie 0,1% bądź powyżej.. 
+ 
+12.6 Właściwości zaburzające funkcjonowanie układu hormonalnego 
+Produkt: 
+Ocena : Ta substancja/mieszanina nie zawiera składników, o których 
+uważa się, że mają właściwości endoktrynnie czynne według 
+Artykułu REACH 57(f), regulacji Komisji Delegowanej (UE) 
+2017/2100 lub Regulacji Komisji (UE) 20218/606 na 
+poziomach 0,1% lub wyższych. 
+ 
+12.7 Inne szkodliwe skutki działania 
+Produkt: 
+Dodatkowe informacje 
+ekologiczne  
+:  Produkt nie powinien przedostawać się do sieci wodnej lub 
+kanalizacyjnej oraz gleby. 
+ 
+ 
+SEKCJA 13: Postępowanie z odpadami 
+13.1 Metody unieszkodliwiania odpadów 
+Produkt :  Usunąć niebezpieczne odpady zgodnie z przemisami 
+miejscowymi i krajowymi. 
+Nie usuwać razem z odpadami komunalnymi. 
+Wykaz sugerowanych kodów/przeznaczenia odpadów 
+zgodnie z Europejskim Kodeksem Odpadów: 
+07 01 04* (inne rozpuszczalniki organiczne, roztwory z 
+przemywania i ługi macierzyste) 
+ 
+Zanieczyszczone 
+opakowanie 
+:  Usunąć niebezpieczne odpady zgodnie z przemisami 
+miejscowymi i krajowymi. 
+ 
+ 
+SEKCJA 14: Informacje dotyczące transportu 
+14.1 Numer UN lub numer identyfikacyjny ID 
+ADR : UN 1090 
+RID : UN 1090 
+IMDG : UN 1090 
+14.2 Prawidłowa nazwa przewozowa UN
+
+[[page 17]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 17 z 45 
+ADR : ACETON 
+RID : ACETON 
+IMDG : ACETONE 
+14.3 Klasa(-y) zagrożenia w transporcie 
+ADR : 3 
+RID : 3 
+IMDG : 3 
+14.4 Grupa pakowania 
+ADR 
+ 
+Grupa pakowania : II 
+Kody klasyfikacji : F1 
+Nr. rozpoznawczy 
+zagrożenia 
+: 33 
+Nalepki : 3 
+Kod ograniczeń przewozu 
+przez tunele 
+: (D/E) 
+RID 
+ 
+Grupa pakowania : II 
+Kody klasyfikacji : F1 
+Nr. rozpoznawczy 
+zagrożenia 
+: 33 
+Nalepki : 3 
+IMDG 
+ 
+Grupa pakowania : II 
+Nalepki : 3 
+EmS Kod : F-E, S-D 
+14.5 Zagrożenia dla środowiska 
+ADR  
+Niebezpieczny dla 
+środowiska 
+: nie 
+RID  
+Niebezpieczny dla 
+środowiska 
+: nie 
+IMDG  
+Substancja mogąca 
+spowodować 
+zanieczyszczenie morza 
+: nie 
+14.6 Szczególne środki ostrożności dla użytkowników 
+Uwagi : Brak konkretnych instrukcji.
+
+[[page 18]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 18 z 45 
+Klasyfikacja(e) transportowa(e) podana(e) tutaj jest/są tylko dla celów informacyjnych i jest/są oparte 
+wyłącznie na właściwościach niezapakowanego materiału, jak opisany w niniejszej Karcie 
+Bezpieczeństwa Materiałowego. Klasyfikacje transportowe mogą zmieniać się zależnie od sposobu 
+transportu, rozmiarów opakowania oraz odmian legislacji regionalnych lub krajowych.  
+ 
+14.7 Transport morski luzem zgodnie z instrumentami IMO 
+Rodzaj statku :  N/A 
+Kategoria zanieczyszczeń :  Z 
+ 
+SEKCJA 15: Informacje dotyczące przepisów prawnych 
+15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla 
+substancji lub mieszaniny 
+REACH - Ograniczenia dotyczące produkcji, 
+wprowadzania do obrotu i stosowania niektórych 
+niebezpiecznych substancji, mieszanin i wyrobów 
+(Załącznik XVII)  
+: Należy uwzględnić warunki 
+ograniczenia dla poniższych 
+wpisów: 
+Numer na liście 40, 3 
+ROZPORZĄDZENIE (UE) 2019/1148 w sprawie 
+wprowadzania do obrotu i stosowania prekursorów 
+materiałów wybuchowych 
+  
+  
+Produkt ten jest regulowany rozporządzeniem (UE) 
+2019/1148: wszystkie podejrzane transakcje oraz 
+znaczące przypadki zniknięcia i kradzieży powinny być 
+zgłaszane właściwemu krajowemu punktowi 
+kontaktowemu., Zastosowanie przemysłowe 
+ aceton (ZAŁĄCZNIK II) 
+ 
+ 
+ 
+Seveso III: Dyrektywa Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń 
+poważnymi awariami związanymi z substancjami niebezpiecznymi.
+P5a/b/c 
+ 
+CIECZE ŁATWOPALNE 
+ 
+Inne przepisy: 
+Patrz Dyrektywa 94/33/EC na temat ochrony młodych osób w miejscu pracy lub surowsze 
+przepisy krajowe tam, gdzie ma to zastosowanie.  
+15.2 Ocena bezpieczeństwa chemicznego 
+Ta substancja została poddana Ocenie Bezpieczeństwa Chemicznego. 
+ 
+SEKCJA 16: Inne informacje 
+EUH066 : Powtarzające się narażenie może powodować wysuszanie lub 
+pękanie skóry.
+
+[[page 19]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 19 z 45 
+Pełny tekst innych skrótów 
+2000/39/EC : Dyrektywa Komisji 2000/39/WE ustanawiająca pierwszą listę 
+indykatywnych wartości granicznych narażenia na czynniki 
+zewnętrzne podczas pracy 
+PL NDS : W sprawie najwyzszych dopuszczalnych stezen i natezen 
+czynników szkodliwych dla zdrowia w srodowisku pracy 
+2000/39/EC / TWA : Wartości dopuszczalnej- 8 godzin 
+PL NDS / NDS : Najwyższe Dopuszczalne Stężenie 
+PL NDS / NDSch : Najwyższe Dopuszczalne Stężenie Chwilowe 
+ 
+Dalsze informacje 
+Inne informacje  :  Ostatnio wprowadzone zmiany będą zaznaczone na 
+marginesie. Ta wersja zastępuje wszystkie poprzednie.  
+Wydawca  :  Borealis, Group Product Stewardship 
+ 
+Żródła kluczowych danych, z 
+których skorzystano 
+przygotowując kartę 
+charakterystyki  
+:  REACH Registration Dossier Acetone. P&D-REACH 
+Consortium, 2024 
+ 
+ 
+Zastrzeżenie 
+ 
+Zamieszczone tutaj dane, według naszej najlepszej wiedzy na dzień publikacji, są dokładne i 
+wiarygodne, jednakże nie ponosimy żadnej odpowiedzialności za dokładność i kompletność  takich 
+danych.  
+ 
+Firma Borealis nie daje żadnych gwarancji poza tymi opisanymi w niniejszym dokumencie. 
+Żadne informacje w tym dokumencie nie będą stanowić gwarancji atrakcyjności rynkowej lub 
+przydatności dla konkretnego celu.  
+ 
+Nabywca jest odpowiedzialny za sprawdzenie i przetestowanie naszych produktów, czy są 
+one odpowiednie do określonego celu zastosowania nabywcy. Użytkownik jest 
+odpowiedzialny również za stworzenie warunków bezpiecznego i legalnego używania naszych 
+produktów.  
+ 
+W przypadku używania produktów Borealis razem z innymi materiałami odpowiedzialność firmy 
+Borealis jest zniesiona. Informacje zawarte w niniejszej karcie mają zastosowanie jedynie do 
+produktów firmy Borealis, kiedy nie są stosowane wraz z materiałami jakiejkolwiek trzeciej strony.
+
+[[page 20]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 20 z 45 
+ 
+Załącznik: Scenariusze narażenia 
+Spis Treści 
+Zastosowania zidentyfikowane: 
+ 
+Stosowanie: Wytwarzanie substancji, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC1: Produkcja substancji 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-
+1_Manufacture.pdf 
+ 
+ 
+ 
+ 
+Stosowanie: Preparowanie i (ponowne) pakowanie substancji i mieszanin, Wytwarzanie lub 
+przepakowywanie 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Kategoria chemiczna produktu : PC0: Inne 
+PC1: Kleje, szczeliwa 
+PC3: Produkty do ochrony powietrza 
+PC4: Produkty przeciw zamarzaniu i odmrażające
+
+[[page 21]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 21 z 45 
+PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami 
+PC12: Nawozy 
+PC15: Produkty do pielęgnacji powierzchni niemetalowych 
+PC21: Chemikalia laboratoryjne 
+PC24: Środki poślizgowe, smary i produkty uwalniające 
+substancje 
+PC27: Środki ochrony roślin 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC31: Środki polerujące i mieszanki woskowe 
+PC32: Preparaty i związki polimerowe 
+PC35: Środki myjące i czyszczące 
+PC38: Produkty związane ze spawaniem i lutowaniem, 
+produkty z topnika 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC2: Formulacja w mieszaninę 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-2-Formulation-
+or-repacking_distribution.pdf 
+ 
+ 
+ 
+Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w
+
+[[page 22]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 22 z 45 
+tym produktów ropy naftowej), Produkcja chemikaliów 
+wysokowartościowych 
+Kategoria chemiczna produktu : PC0: Inne 
+PC21: Chemikalia laboratoryjne 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6a: Zastosowanie półproduktu 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-3-Use-at-
+industrial-sites_Use-of-substance-as-intermediate-Z.pdf 
+ 
+ 
+Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w 
+tym produktów ropy naftowej), Produkcja chemikaliów 
+wysokowartościowych 
+Kategoria chemiczna produktu : PC0: Inne 
+PC21: Chemikalia laboratoryjne 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach
+
+[[page 23]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 23 z 45 
+PROC6: Operacje kalandrowania 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6a: Zastosowanie półproduktu 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-4-Use-at-
+industrial-sites_Use-of-substance-as-intermediate-A.pdf 
+ 
+ 
+ 
+ 
+Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w 
+tym produktów ropy naftowej), Produkcja chemikaliów 
+wysokowartościowych 
+Kategoria chemiczna produktu : PC0: Inne 
+PC21: Chemikalia laboratoryjne 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do : ERC6a: Zastosowanie półproduktu
+
+[[page 24]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 24 z 45 
+środowiska 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-5-Use-at-
+industrial-sites_Use-of-substance-as-intermediate-B.pdf 
+ 
+ 
+ 
+ 
+Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w 
+tym produktów ropy naftowej), Produkcja chemikaliów 
+wysokowartościowych 
+Kategoria chemiczna produktu : PC0: Inne 
+PC21: Chemikalia laboratoryjne 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6a: Zastosowanie półproduktu 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-6-Use-at-
+industrial-sites_Use-of-substance-as-intermediate-C.pdf 
+ 
+ 
+ 
+ 
+Stosowanie: Rozpuszczalniki, Zastosowanie w obiektach przemysłowych
+
+[[page 25]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 25 z 45 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i 
+wyrobów z papieru, Masowa, wielkoskalowa produkcja 
+chemikaliów (w tym produktów ropy naftowej), Produkcja 
+chemikaliów wysokowartościowych 
+Kategoria chemiczna produktu : PC0: Inne 
+PC8: Produkty biobójcze 
+PC21: Chemikalia laboratoryjne 
+PC26: Produkty do obróbki papieru i kartonu 
+PC27: Środki ochrony roślin 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie procesu : PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-7-Use-at-
+industrial-sites_Use-as-solvent-during-synthesis-of-chemicals-processing-not-covered-otherwise.pdf 
+ 
+ 
+Stosowanie: Zastosowanie w laboratoriach, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU8, SU9, SU24: Masowa, wielkoskalowa produkcja 
+chemikaliów (w tym produktów ropy naftowej), Produkcja 
+chemikaliów wysokowartościowych, Badania naukowo-
+rozwojowe 
+Kategoria chemiczna produktu : PC0: Inne 
+PC1: Kleje, szczeliwa
+
+[[page 26]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 26 z 45 
+PC3: Produkty do ochrony powietrza 
+PC4: Produkty przeciw zamarzaniu i odmrażające 
+PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami 
+PC12: Nawozy 
+PC15: Produkty do pielęgnacji powierzchni niemetalowych 
+PC21: Chemikalia laboratoryjne 
+PC24: Środki poślizgowe, smary i produkty uwalniające 
+substancje 
+PC27: Środki ochrony roślin 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC31: Środki polerujące i mieszanki woskowe 
+PC32: Preparaty i związki polimerowe 
+PC35: Środki myjące i czyszczące 
+PC38: Produkty związane ze spawaniem i lutowaniem, 
+produkty z topnika 
+PC39: Kosmetyki, środki higieny osobistej 
+PC40: Środki do ekstrakcji  
+Kategorie procesu : PROC10: Nakładanie pędzlem lub wałkiem 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-8-Use-at-
+industrial-sites_Use-in-laboratories.pdf 
+ 
+ 
+Stosowanie: Zastosowanie w powłokach, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU0, SU15, SU16, SU17, SU18: Inne, Produkcja metalowych 
+wyrobów gotowych, z wyłączeniem maszyn i urządzeń, 
+Produkcja komputerów, wyrobów elektronicznych i 
+optycznych, produkcja urządzeń elektrycznych, Produkcja 
+ogólna, np. maszyn, urządzeń, pojazdów, innych urządzeń 
+transportowych, Produkcja mebli 
+Kategoria chemiczna produktu : PC1: Kleje, szczeliwa
+
+[[page 27]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 27 z 45 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC7: Napylanie przemysłowe 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC14: Tabletkowanie, prasowanie, wyciskanie, 
+grudkowanie, granulowanie 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-9-Use-at-
+industrial-sites_Use-in-coatings_adhesives.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w środkach wiążących i rozdzielających, Zastosowanie w obiektach 
+przemysłowych
+
+[[page 28]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 28 z 45 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC7: Napylanie przemysłowe 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC5: Stosowanie w obiektach przemysłowych 
+prowadzących do włączenia do wyrobu lub na niego 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-10-Use-at-
+industrial-sites_-Use-as-binder-or-release-agent.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w produkcji i przetwarzaniu gumy, Zastosowanie w obiektach 
+przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU11: Produkcja wyrobów z gumy 
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie
+
+[[page 29]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 29 z 45 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC7: Napylanie przemysłowe 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC14: Tabletkowanie, prasowanie, wyciskanie, 
+grudkowanie, granulowanie 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6d: Zastosowanie reaktywnych regulatorów procesu w 
+procesie polimeryzacji w obiekcie przemysłowym (z 
+włączeniem lub bez do wyrobu lub na niego) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-11-Use-at-
+industrial-sites_Rubber-production-and-processing.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w produkcji polimerów, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU12: Produkcja wyrobów z tworzyw sztucznych, w tym 
+sporządzanie mieszanek i konwersja 
+Kategoria chemiczna produktu : PC32: Preparaty i związki polimerowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie
+
+[[page 30]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 30 z 45 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC14: Tabletkowanie, prasowanie, wyciskanie, 
+grudkowanie, granulowanie 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6d: Zastosowanie reaktywnych regulatorów procesu w 
+procesie polimeryzacji w obiekcie przemysłowym (z 
+włączeniem lub bez do wyrobu lub na niego) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-12-Use-at-
+industrial-sites_Polymer-manufacturing.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w przetwarzaniu polimerów, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU12: Produkcja wyrobów z tworzyw sztucznych, w tym 
+sporządzanie mieszanek i konwersja 
+Kategoria chemiczna produktu : PC32: Preparaty i związki polimerowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie
+
+[[page 31]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 31 z 45 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC6d: Zastosowanie reaktywnych regulatorów procesu w 
+procesie polimeryzacji w obiekcie przemysłowym (z 
+włączeniem lub bez do wyrobu lub na niego) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-13-Use-at-
+industrial-sites_Polymer-processing.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w środkach do czyszczenia, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i 
+wyrobów z papieru, Masowa, wielkoskalowa produkcja 
+chemikaliów (w tym produktów ropy naftowej), Produkcja 
+chemikaliów wysokowartościowych 
+Kategoria chemiczna produktu : PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC21: Chemikalia laboratoryjne 
+PC26: Produkty do obróbki papieru i kartonu 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC7: Napylanie przemysłowe 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu
+
+[[page 32]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 32 z 45 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-14-Use-at-
+industrial-sites_Use-in-or-as-cleaning-agent.pdf 
+ 
+ 
+ 
+Stosowanie: Wykonywanie odwiertów naftowych i operacje związane z produkcją (w tym 
+czyszczenie płuczki wiertniczej i odwiertu), z uwzględnieniem transferu materiałów, formowania na 
+miejscu, operacji przy głowicy odwiertu, czynności związanych z wstrząsarką oraz powiązanych 
+czynności konserwacyjnych., Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU2a, SU2b: Górnictwo i wydobywanie (wyłączając górnictwo 
+morskie), Górnictwo morskie 
+Kategoria chemiczna produktu : PC8: Produkty biobójcze 
+PC35: Środki myjące i czyszczące 
+PC41: Wyroby do poszukiwania lub wydobycia ropy i gazu  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC8a: Przenoszenie substancji lub mieszanin
+
+[[page 33]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 33 z 45 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-15-Use-at-
+industrial-sites_Use-in-oil-field-drilling-and-production-operations.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w środkach porotwórczych, Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU0, SU5, SU16, SU17, SU18, SU19: Inne, Produkcja 
+wyrobów włókienniczych, skór, futer, Produkcja komputerów, 
+wyrobów elektronicznych i optycznych, produkcja urządzeń 
+elektrycznych, Produkcja ogólna, np. maszyn, urządzeń, 
+pojazdów, innych urządzeń transportowych, Produkcja mebli, 
+Budownictwo i roboty budowlane 
+Kategoria chemiczna produktu : PC32: Preparaty i związki polimerowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC12: Zastosowanie środków porotwórczychw 
+wytwarzaniu pian 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie
+
+[[page 34]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 34 z 45 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-16-Use-at-
+industrial-sites-_-Blowing-agents.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w substancjach chemicznych wykorzystywanych w górnictwie, 
+Zastosowanie w obiektach przemysłowych 
+ 
+Główne grupy użytkowników : SU3: Przemysłowe zastosowania 
+Sektory zastosowania końcowego : SU2a: Górnictwo i wydobywanie (wyłączając górnictwo 
+morskie) 
+Kategoria chemiczna produktu : PC40: Środki do ekstrakcji  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC4: Zastosowanie niereaktywnych substancji 
+pomocniczych w obiektach przemysłowych (bez włączenia do 
+lub na wyrobie)
+
+[[page 35]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 35 z 45 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-17-Use-at-
+industrial-sites-Mining-chemicals.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w laboratoriach, Powszechne zastosowanie przez pracowników 
+profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU8, SU9, SU24: Masowa, wielkoskalowa produkcja 
+chemikaliów (w tym produktów ropy naftowej), Produkcja 
+chemikaliów wysokowartościowych, Badania naukowo-
+rozwojowe 
+Kategoria chemiczna produktu : PC1: Kleje, szczeliwa 
+PC3: Produkty do ochrony powietrza 
+PC4: Produkty przeciw zamarzaniu i odmrażające 
+PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami 
+PC12: Nawozy 
+PC15: Produkty do pielęgnacji powierzchni niemetalowych 
+PC21: Chemikalia laboratoryjne 
+PC24: Środki poślizgowe, smary i produkty uwalniające 
+substancje 
+PC27: Środki ochrony roślin 
+PC29: Farmaceutyki 
+PC30: Środki fotochemiczne 
+PC31: Środki polerujące i mieszanki woskowe 
+PC32: Preparaty i związki polimerowe 
+PC35: Środki myjące i czyszczące 
+PC38: Produkty związane ze spawaniem i lutowaniem, 
+produkty z topnika 
+PC39: Kosmetyki, środki higieny osobistej 
+PC40: Środki do ekstrakcji  
+Kategorie procesu : PROC10: Nakładanie pędzlem lub wałkiem 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8a: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, w pomieszczeniach)
+
+[[page 36]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 36 z 45 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-18-
+Widespread-use-by-professional-workers-Use-in-laboratories.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w powłokach, Powszechne zastosowanie przez pracowników 
+profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU0, SU15, SU16, SU17, SU18, SU6a: Inne, Produkcja 
+metalowych wyrobów gotowych, z wyłączeniem maszyn i 
+urządzeń, Produkcja komputerów, wyrobów elektronicznych i 
+optycznych, produkcja urządzeń elektrycznych, Produkcja 
+ogólna, np. maszyn, urządzeń, pojazdów, innych urządzeń 
+transportowych, Produkcja mebli, Produkcja drewna i 
+wyrobów z drewna 
+Kategoria chemiczna produktu : PC1: Kleje, szczeliwa 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC11: Napylanie nieprzemysłowe 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez
+
+[[page 37]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 37 z 45 
+zamaczanie lub zalewanie 
+PROC15: Zastosowanie odczynnika laboratoryjnego 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a, ERC8f, ERC8c: Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do 
+wyrobu lub na niego, poza pomieszczeniami), Powszechne 
+zastosowanie niereaktywnych substancji pomocniczych (bez 
+włączenia do wyrobu lub na niego, w pomieszczeniach), 
+Powszechne zastosowanie prowadzące do włączenia do 
+wyrobu lub na niego (poza pomieszczeniami), Powszechne 
+zastosowanie prowadzące do włączenia do wyrobu lub na 
+niego (w pomieszczeniach) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-19-
+Widespread-use-by-professional-workers_Use-in-coatings-adhesives.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w środkach wiążących i rozdzielających, Powszechne zastosowanie 
+przez pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Kategoria chemiczna produktu : PC24: Środki poślizgowe, smary i produkty uwalniające 
+substancje  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC6: Operacje kalandrowania 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu
+
+[[page 38]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 38 z 45 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC11: Napylanie nieprzemysłowe 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a, ERC8e, ERC8b, ERC8f, ERC8c: 
+Powszechne zastosowanie niereaktywnych substancji 
+pomocniczych (bez włączenia do wyrobu lub na niego, poza 
+pomieszczeniami), Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do 
+wyrobu lub na niego, w pomieszczeniach), Powszechne 
+zastosowanie reaktywnych substancji pomocniczych (bez 
+włączenia do wyrobu lub na niego, poza pomieszczeniami), 
+Powszechne zastosowanie reaktywnych substancji 
+pomocniczych (bez włączenia do wyrobu lub na niego, w 
+pomieszczeniach), Powszechne zastosowanie prowadzące do 
+włączenia do wyrobu lub na niego (poza pomieszczeniami), 
+Powszechne zastosowanie prowadzące do włączenia do 
+wyrobu lub na niego (w pomieszczeniach) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-20-
+Widespread-use-by-professional-workers-Use-as-binder-release-agent.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w produkcji polimerów, Powszechne zastosowanie przez pracowników 
+profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU12: Produkcja wyrobów z tworzyw sztucznych, w tym 
+sporządzanie mieszanek i konwersja 
+Kategoria chemiczna produktu : PC32: Preparaty i związki polimerowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu
+
+[[page 39]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 39 z 45 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC14: Tabletkowanie, prasowanie, wyciskanie, 
+grudkowanie, granulowanie 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a, ERC8f: Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do 
+wyrobu lub na niego, poza pomieszczeniami), Powszechne 
+zastosowanie niereaktywnych substancji pomocniczych (bez 
+włączenia do wyrobu lub na niego, w pomieszczeniach), 
+Powszechne zastosowanie prowadzące do włączenia do 
+wyrobu lub na niego (poza pomieszczeniami) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-21-
+Widespread-use-by-professional-workers_Polymer-manufacturing.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w przetwarzaniu polimerów, Powszechne zastosowanie przez 
+pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU12: Produkcja wyrobów z tworzyw sztucznych, w tym 
+sporządzanie mieszanek i konwersja 
+Kategoria chemiczna produktu : PC32: Preparaty i związki polimerowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC14: Tabletkowanie, prasowanie, wyciskanie, 
+grudkowanie, granulowanie 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn
+
+[[page 40]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 40 z 45 
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a, ERC8f: Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do 
+wyrobu lub na niego, poza pomieszczeniami), Powszechne 
+zastosowanie niereaktywnych substancji pomocniczych (bez 
+włączenia do wyrobu lub na niego, w pomieszczeniach), 
+Powszechne zastosowanie prowadzące do włączenia do 
+wyrobu lub na niego (poza pomieszczeniami) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-22-
+Widespread-use-by-professional-workers_Polymer-processing.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w środkach do czyszczenia, Powszechne zastosowanie przez 
+pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i 
+wyrobów z papieru, Masowa, wielkoskalowa produkcja 
+chemikaliów (w tym produktów ropy naftowej), Produkcja 
+chemikaliów wysokowartościowych 
+Kategoria chemiczna produktu : PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC21: Chemikalia laboratoryjne 
+PC26: Produkty do obróbki papieru i kartonu 
+PC30: Środki fotochemiczne 
+PC35: Środki myjące i czyszczące  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu
+
+[[page 41]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 41 z 45 
+PROC9: Przenoszenie substancji lub mieszaniny do małych 
+pojemników (przeznaczoną do tego celu linią do napełniania 
+wraz z ważeniem) 
+PROC10: Nakładanie pędzlem lub wałkiem 
+PROC11: Napylanie nieprzemysłowe 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8a: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, w pomieszczeniach) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-23-
+Widespread-use-by-professional-workers_Use-in-or-as-cleaning-agents.pdf 
+ 
+ 
+ 
+Stosowanie: Wykonywanie odwiertów naftowych i operacje związane z produkcją (w tym 
+czyszczenie płuczki wiertniczej i odwiertu), z uwzględnieniem transferu materiałów, formowania na 
+miejscu, operacji przy głowicy odwiertu, czynności związanych z wstrząsarką oraz powiązanych 
+czynności konserwacyjnych., Powszechne zastosowanie przez pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU2a, SU2b: Górnictwo i wydobywanie (wyłączając górnictwo 
+morskie), Górnictwo morskie 
+Kategoria chemiczna produktu : PC8: Produkty biobójcze 
+PC35: Środki myjące i czyszczące 
+PC41: Wyroby do poszukiwania lub wydobycia ropy i gazu  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny
+
+[[page 42]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 42 z 45 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, poza pomieszczeniami) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-24-
+Widespread-use-by-professional-workers_Use-in-oil-field-drilling-and-production-operations.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w produktach agrochemicznych, Powszechne zastosowanie przez 
+pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Sektory zastosowania końcowego : SU1: Rolnictwo, leśnictwo i rybactwo 
+Kategoria chemiczna produktu : PC12: Nawozy 
+PC27: Środki ochrony roślin 
+PC8: Produkty biobójcze  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC4: Produkcja chemiczna w której powstaje możliwość 
+narażenia 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC11: Napylanie nieprzemysłowe 
+PROC13: Traktowanie wyrobów przemysłowychpoprzez 
+zamaczanie lub zalewanie 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, poza pomieszczeniami), Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do 
+wyrobu lub na niego, w pomieszczeniach)
+
+[[page 43]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 43 z 45 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-25-
+Widespread-use-by-professional-workers-Agrochemical-uses.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w płynach do odladzania i zapobiegających powstawaniu lodu, 
+Powszechne zastosowanie przez pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Kategoria chemiczna produktu : PC4: Produkty przeciw zamarzaniu i odmrażające  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia. 
+PROC2: Chemiczna produkcja lub rafinacja w procesie 
+zamkniętym ciągłym z okazjonalnym kontrolowanym 
+narażeniem lub procesy o równoważnych warunkach 
+zapobiegania rozprzestrzenianiu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC11: Napylanie nieprzemysłowe 
+PROC19: Działania ręczne obejmujące kontakt z dłońmi 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, poza pomieszczeniami) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-26-
+Widespread-use-by-professional-workers_De-icing-and-anti-icing-applications.pdf 
+ 
+ 
+ 
+Stosowanie: Zastosowanie w materiałach wybuchowych, Powszechne zastosowanie przez 
+pracowników profesjonalnych 
+ 
+Główne grupy użytkowników : SU22: Zastosowania profesjonalne 
+Kategoria chemiczna produktu : PC11: Środki wybuchowe  
+Kategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie 
+zamkniętym bez prawdopodobieństwa narażenia lub procesy 
+o równoważnych warunkach zabezpieczenia.
+
+[[page 44]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 44 z 45 
+PROC3: Wytwarzanie lub formulacja w przemyśle 
+chemicznym w zamkniętych procesach wsadowych ze 
+sporadycznym, kontrolowanym narażeniem lub procesy o 
+równoważnych warunkach zabezpieczenia 
+PROC5: Mieszanie we wsadowych procesach 
+PROC8a: Przenoszenie substancji lub mieszanin 
+(załadunek/rozładunek) w pomieszczeniach nie 
+przeznaczonych do tego celu 
+PROC8b: Przenoszenie substancji lub mieszaniny 
+(załadunek/rozładunek) w pomieszczeniach przeznaczonych 
+do tego celu 
+PROC28: Ręczna konserwacja (czyszczenie i naprawa) 
+maszyn  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, poza pomieszczeniami) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-27-
+Widespread-use-by-professional-workers_Explosives-manufacture-and-use.pdf 
+ 
+ 
+ 
+Stosowanie: Konsument, Stosowanie przez konsumentów 
+ 
+Główne grupy użytkowników : SU21: Zastosowania użytkowe 
+Kategoria chemiczna produktu : PC1: Kleje, szczeliwa 
+PC3: Produkty do ochrony powietrza 
+PC4: Produkty przeciw zamarzaniu i odmrażające 
+PC8: Produkty biobójcze 
+PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb 
+PC9b: Wypełniacze, kity, tynki, modelina 
+PC9c: Farby do malowania palcami 
+PC15: Produkty do pielęgnacji powierzchni niemetalowych 
+PC16: Płyny przewodzące ciepło 
+PC24: Środki poślizgowe, smary i produkty uwalniające 
+substancje 
+PC27: Środki ochrony roślin 
+PC29: Farmaceutyki 
+PC31: Środki polerujące i mieszanki woskowe 
+PC35: Środki myjące i czyszczące 
+PC38: Produkty związane ze spawaniem i lutowaniem, 
+produkty z topnika 
+PC39: Kosmetyki, środki higieny osobistej  
+Kategorie uwalniania do 
+środowiska 
+: ERC8d, ERC8a: Powszechne zastosowanie niereaktywnych 
+substancji pomocniczych (bez włączenia do wyrobu lub na 
+niego, poza pomieszczeniami), Powszechne zastosowanie 
+niereaktywnych substancji pomocniczych (bez włączenia do
+
+[[page 45]]
+KARTA CHARAKTERYSTYKI 
+zgodnie z Rozporządzeniem WE 1907/2006 
+ 
+Aceton 
+Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023 
+ 
+ 
+ 
+ 
+ 
+  
+Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria 
+Telephone +43 1 224 00 0 | Fax +43 1 22 400 333  
+FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com 
+ 
+ 
+SDS-PL - PL 
+   
+Strona 45 z 45 
+wyrobu lub na niego, w pomieszczeniach) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-28-Consumer-
+use_Consumer-uses.pdf 
+ 
+ 
+ 
+Stosowanie: Produkcja przedmiotów na bazie form spienionych, Okres użytkowania – konsumenci 
+ 
+Główne grupy użytkowników : SU21: Zastosowania użytkowe 
+Kategoria chemiczna produktu : AC0: Inne  
+Kategorie artykułu : AC 0: Inne artykuły  
+Kategorie uwalniania do 
+środowiska 
+: ERC10a, ERC11a: Powszechne zastosowanie wyrobów o 
+niskim stopniu uwalniania (poza pomieszczeniami), 
+Powszechne zastosowanie wyrobów o niskim stopniu 
+uwalniania (w pomieszczeniach) 
+ 
+Dodatkowe informacje osiągalne z: 
+https://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-29-Service-life-
+consumers-Articles-containing-foam.pdf

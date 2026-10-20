@@ -1,0 +1,1121 @@
+[[page 1]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+1/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+ 
+ 
+AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget 
+ 
+1.1 Produktbeteckning 
+Produktnamn:  Nitrogen, komprimerad 
+ 
+Varumärke:  BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 
+Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 
+Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, 
+Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, 
+Nitrogen VERISEQ® Research 
+ 
+Ytterligare identifikation 
+Kemiskt namn:  Nitrogen 
+Kemisk formel:  N2 
+INDEX-nr - 
+CAS-nr 7727-37-9 
+EG-nr 231-783-9 
+REACH-registreringsnr Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), 
+undantagen från registrering.  
+1.2 Relevanta identifierade användningar av ämnet eller blandningen och användningar som det avråds från 
+Identifierade användningar:  Industriell och professionell. Genomför riskbedömning före användning.  
+Drivgas i aerosoler. Balansgas för blandningar. Buffertgas. Kalibreringsgas. 
+Bärgas. Släckmedelsgas. Förpackningsgas för livsmedel. Inertieringsgas. 
+Uppblåsning av däck. Laboratoriebruk. Laser gas. Högtrycksgas, hjälpgas i 
+trycksatta system. Processgas. Rengöringsgas. Testgas.  
+Konsument användning. 
+Drycktillämpningar. Skyddsgas i gassvetsning.  
+Det är slutanvändarens ansvar att försäkra sig om att den levererade 
+produkten är lämplig för den avsedda användningen.  
+Användningar från vilka avrådas Industriell eller teknisk kvalitet olämplig för medicinska tillämpningar 
+och/eller livsmedelstillämpningar eller inandning. 
+ 
+1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet  
+Leverantör 
+Linde Gas AB 
+Rättarvägen 3 
+Telefon: +46 8 7069500
+
+[[page 2]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+2/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+169 68 Solna 
+ 
+E-post: sds.ren@linde.com 
+ 
+1.4 Telefonnummer för nödsituationer: Kemiakuten: 020-99 60 00 (24 h). Nödnummer: 112 
+ 
+AVSNITT 2: Farliga egenskaper 
+ 
+2.1 Klassificering av ämnet eller blandningen 
+ 
+Klassificering enligt förordningen (EG) nr 1272/2008 och ändringarna i den.   
+ 
+Fysiska Risker
+Komprimerade gaser KOMPRIMERAD 
+GAS 
+H280: Innehåller gas under tryck. Kan explodera vid 
+uppvärmning.  
+ 
+ 
+2.2 Märkningsuppgifter 
+ 
+ 
+ 
+ 
+Signalord: Varning 
+ 
+Uttalande(n) om fara: H280: Innehåller gas under tryck. Kan explodera vid uppvärmning. 
+ 
+Skyddsangivelse 
+Allmänt Inga. 
+ 
+Förebyggande: Inga. 
+ 
+Respons: Inga. 
+ 
+Lagring: P403: Förvaras på väl ventilerad plats.  
+ 
+Bortskaffande Inga.
+
+[[page 3]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+3/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+ 
+Tilläggsinformation 
+EIGA-As: Risk för kvävning vid höga koncentrationer. 
+ 
+Okänd toxicitet - Hälsa 
+Akut toxicitet, inandning, gas 0 % 
+ 
+Okänd toxicitet - Miljö 
+Akuta faror för vattenmiljön 100 % 
+Långvariga faror för vattenmiljön 100 % 
+ 
+2.3 Andra faror Ej klassificerad som PBT eller vPvB. 
+Hormonstörande egenskaper-Toxicitet 
+Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre. 
+Hormonstörande egenskaper-Ekotoxicitet 
+Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre.
+
+[[page 4]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+4/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+AVSNITT 3: Sammansättning/information om beståndsdelar 
+ 
+3.1 Ämnen 
+ 
+Kemiskt namn Nitrogen 
+INDEX-nr: - 
+CAS-nr: 7727-37-9 
+EG-nr: 231-783-9 
+REACH-registreringsnr: Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från 
+registrering.  
+Renhet: 100% 
+I detta avsnitt används ämnets renhet endast för klassificering, och den föreställer 
+inte ämnets renhet vid leverans, för vilket ändamål det finns annan 
+dokumentation.  
+Varumärke: BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, 
+Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, 
+Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 
+Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® 
+Research 
+ 
+Kemiskt namn Kemisk formel Koncentration CAS-nr EG-nr REACH-
+registreringsnr 
+M-faktorer: Anmärk
+ningar 
+Nitrogen N2 100% 7727-37-9 231-783-9 Listad i bilaga 
+IV/V av 
+förordning 
+(EG) nr 
+1907/2006 
+(REACH), 
+undantagen 
+från 
+registrering.  
+-  
+Alla koncentrationer är viktprocent om inte en ingrediens är en gas. Gaskoncentrationer är i molprocent. Alla koncentrationer är nominella. 
+# Detta ämne har exponerings gränsvärde (n). 
+## Detta ämne är listat som ett ämne som inger mycket stora betänkligheter (SVHC).PBT: långlivad, bioackumulerande och toxiskämne. 
+vPvB: mycket långlivad och mycketbioackumuleran de ämne.
+
+[[page 5]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+5/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+AVSNITT 4: Åtgärder vid första hjälpen 
+ 
+Allmänt:  Höga koncentrationer kan orsaka kvävning. Symptomen kan även omfatta 
+förlamning/medvetslöshet. Kvävning kan inträffa utan förvarning. Flytta den 
+skadade till frisk luft. Använd andningsapparat med egen behållare. Se till att den 
+skadade hålls varm och i stillhet. Tillkalla läkare. Ge andningshjälp om andningen 
+upphör.  
+ 
+4.1 Beskrivning av åtgärder vid första hjälpen 
+Inandning:  Höga koncentrationer kan orsaka kvävning. Symptomen kan även omfatta 
+förlamning/medvetslöshet. Kvävning kan inträffa utan förvarning. Flytta den 
+skadade till frisk luft. Använd andningsapparat med egen behållare. Se till att den 
+skadade hålls varm och i stillhet. Tillkalla läkare. Ge andningshjälp om andningen 
+upphör.  
+ 
+Ögonkontakt: Inga skadliga effekter förväntas av denna produkt.  
+ 
+Hudkontakt: Inga skadliga effekter förväntas av denna produkt.  
+ 
+Förtäring: Förtäring anses inte som potentiell väg av exponering.  
+ 
+4.2 De viktigaste symptomen och 
+effekterna, både akuta och 
+fördröjda: 
+Andningsstillestånd  
+ 
+4.3 Angivande av omedelbar medicinsk behandling och särskild behandling som eventuellt krävs  
+Faror: Inga.  
+ 
+Behandling: Inga.  
+ 
+AVSNITT 5: Brandbekämpningsåtgärder 
+ 
+Allmänna Brandrisker: Vid uppvärmning kan behållarna brista.  
+ 
+5.1 Släckmedel 
+Lämpliga släckmedel: Materialet brinner ej. Vid brand i omgivningen: Använd lämpligt släckmedel.   
+ 
+Olämpliga släckmedel: Inga.
+
+[[page 6]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+6/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+5.2 Särskilda faror som ämnet eller 
+blandningen kan medföra: 
+Inga.  
+ 
+Farliga förbränningsprodukter: Inga.  
+ 
+5.3 Råd till brandbekämpningspersonal 
+Brandbekämpning: Vid brand: Stoppa läckan om det kan göras på ett säkert sätt. Fortsätt 
+vattenbegjutningen från skyddad plats tills dess att flaskan är kall. Använd 
+släckmedel för brandbekämpning. Isolera brandkällan eller l åt den brinna ut.  
+ 
+Särskild skyddsutrustning för 
+brandbekämpningspersonal: 
+Brandmän måste använda gängse skyddsutrustning inklusive brandhindrande 
+rock, hjälm med ansiktsskydd, handskar, gummistövlar och, i slutna utrymmen, 
+sluten andningsapparat.  
+Riktlinje: EN 469 Skyddsklädsel för brandmän. Prestationskrav för skyddskläder för 
+brandbekämpning. EN 15090 Skodon för brandmän. EN 659 Skyddshandskar för 
+brandmän. EN 443 Hjälmar för brandbekämpning i byggnader och andra 
+konstruktioner. Riktlinje: EN 137 Andningsskydd – Bärbar 
+andningsapparatsapparat med öppet system och helmask, enbart avsedd för 
+användning med övertryck – Fordringar, provning, märkning.  
+ 
+AVSNITT 6: Åtgärder vid oavsiktliga utsläpp 
+ 
+6.1 Personliga skyddsåtgärder, 
+skyddsutrustning och åtgärder 
+vid nödsituationer: 
+Utrym området. Ventilationen skall vara effektiv. Bör hindras från att komma ned i 
+avloppssystem, källare och gropar, eller andra platser där gasansamling kan vara 
+farlig. Använd andningsapparat med egen behållare inom riskområdet tills man är 
+säker på att faran är över. Riktlinje Riktlinje: EN 137 Andningsskydd – Bärbar 
+andningsapparatsapparat med öppet system och helmask, enbart avsedd för 
+användning med övertryck – Fordringar, provning, märkning.  
+ 
+6.2 Miljöskyddsåtgärder: Förhindra fortsatt läckage eller spill om det kan göras på ett säkert sätt.   
+ 
+6.3 Metoder och material för 
+inneslutning och sanering: 
+Ventilationen skall vara effektiv.  
+ 
+6.4 Hänvisning till andra avsnitt: Se avsnitt 8 och 13.
+
+[[page 7]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+7/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+AVSNITT 7: Hantering och lagring: 
+ 
+7.1 Skyddsåtgärder för säker 
+hantering: 
+Gaser under tryck bör endast hanteras av erfarna personer med tillbörlig 
+utbildning. Använd endast korrekt specificerad utrustning som är lämplig för 
+denna produkt, dess tillförseltryck och temperatur. Se leverantörens 
+hanteringsinstruktioner. Ämnet måste hanteras enligt god industrihygien och 
+säkerhets rutiner. Skydda behållare från fysisk skada; dra inte, rulla inte, låt inte 
+glida eller falla. Förstör eller avlägsna inte leverantörens etiketter. De är avsedda 
+att identifiera behållarens innehåll. När du flyttar behållare, ä ven korta sträckor, 
+använd lämplig utrustning såsom transportvagn, handkärra, gaffeltruck osv. Se till 
+att cylindrarna alltid står lodrätt, stäng alla ventiler när de inte används. 
+Ventilationen skall vara effektiv. Tillbakaströmning av vatten in i flaskan  måste 
+förhindras. Förhindra tillbakaströmning in i flaskan. Undvik tillbakasug av vatten, 
+syra och alkalier. Förvara flaskan i väl ventilerat utrymme vid temperatur 
+understigande 50°C. Ta i beaktande alla regleringar och lokala krav vad avser 
+förvaring av behållare. Ät inte, drick inte eller rök inte under hanteringen. Förvaras 
+i enlighet med lokala/regionala/nationella/internationella föreskrifter. Använd 
+aldrig öppen låga eller elektriska värmesystem för att öka trycket i behållaren. Låt 
+ventilkåpa och skyddsmutter sitta kvar tills flaskan säkrats mot en vägg eller bänk 
+eller placerats i ett flaskställ klart för användning. Skadade ventiler bör 
+omedelbart rapporteras till leverantören Stäng behållarens ventil efter varje 
+användning även när den är tom och fortfarande ansluten till ett instrument. 
+Försök aldrig själv reparera eller modifiera behållarventiler eller 
+tryckavlastningsanordningar. Så snart behållare frikopplats från utrustning sätt 
+tillbaka  skyddsmuttrar och skyddskåpa. Håll behållarens ventilö ppningar rena och 
+fria från föroreningar, speciellt olja och vatten. Användaren bör kontakta 
+leverantör om han upplever problem med hanteringen av behållarens ventil. 
+Överför aldrig gaser från en behållare till en annan. Ventilskydd eller kåpor måste 
+vara på plats.  
+ 
+7.2 Förhållanden för säker lagring, 
+inklusive eventuell 
+oförenlighet: 
+Behållare bör inte förvaras på plats där de kan utsättas för korrosion. Lagrade 
+behållare bör kontrolleras regelbundet både vad gäller deras allmä nna skick och 
+vad gäller läckage. Ventilskydd eller kåpor måste vara på plats. Förvara behållare 
+på platser fria från brandrisk och borta från värme och antändningskällor. Förvaras 
+åtskilt från brandfarliga ämnen.  
+ 
+ 
+7.3 Specifik slutanvändning: Inga.
+
+[[page 8]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+8/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+AVSNITT 8: Begränsning av exponeringen/personligt skydd 
+ 
+8.1 Kontrollparametrar 
+Gränsvärden för exponering på arbetsplatsen 
+Ingen av komponenterna har tilldelats exponeringsgränser.  
+Biologiska Gränsvärden 
+Inga angivna biologiska exponeringsgränser för beståndsdel(ar).  
+ 
+ 
+8.2 Begränsning av exponeringen 
+Lämpliga tekniska 
+kontrollåtgärder: 
+Överväg ett system med arbetstillstånd t.ex. för underhåll. Se till att luftväxlingen 
+är tillräcklig. Ventilationen skall vara effektiv, inkl. lämpligt punktutsug, för att 
+säkra att gränsvärdet inte överskrids. Oxygen detektorer borde användas där 
+kvävande gaser kan frigöras. System under tryck skall regelbundet kontrolleras för 
+läckage. Använd helst bestående läckagetäta förbindelser (t.ex. svetsade rör). 
+Man får inte äta, dricka eller röka under användning av produkten.   
+ 
+Individuella skyddsåtgärder, t.ex. personlig skyddsutrustning  
+ 
+Allmän information: En riskbedömning bör utföras och dokumenteras för varje område för att bedöma 
+riskerna i användning av produkten och välja den personliga skyddsutrustning 
+som är lämplig med tanke på risken i fråga. Följande rekommendationer bör tas i 
+beaktande. Andningsapparat med egen behållare skall finnas tillgänglig för 
+användning vid olyckstillfällen. Personlig skyddsutrustning för kroppen bör väljas 
+beroende på den uppgift som skall utföras och de risker som finns.   
+ 
+Ögonskydd/ansiktsskydd: Använd EN 166-enligt ögonskydd vid användning av gaser.  
+Riktlinje: EN 166 Personligt ögonskydd. 
+ 
+Hudskydd 
+Handskydd: Riktlinje: EN 388: Skyddshandskar mot mekaniska risker 
+Ytterligare information: Använd arbetshandskar när du hanterar behållare. 
+ 
+Kroppsskydd: Inga speciella åtgärder.  
+ 
+Övrigt: Använd säkerhetsskor under hantering av behållare.  
+Riktlinje: ISO 20345 Personlig skyddsutrustning - Säkerhetsskor.
+
+[[page 9]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+9/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Andningsskydd: När riskbedömningen tillåter, kan andningsskyddsutrustning användas. Valet av 
+andningsskydd (RPD) måste basera sig på kända eller förväntade 
+exponeringsnivåer, produktens faror och säkra arbetsgränser för det valda 
+andningsskyddet. Bärbar tryckluftsapparat eller andningsluft med övertryck 
+kopplat till mask skall användas i miljöer där det är syrefattig atmosfär.  
+Riktlinje: Riktlinje: EN 137 Andningsskydd – Bärbar andningsapparatsapparat med 
+öppet system och helmask, enbart avsedd för användning med övertryck – 
+Fordringar, provning, märkning. 
+ 
+Termisk fara: Inga säkerhetsåtgärder behövs.  
+ 
+Hygieniska åtgärder: Specifika riskåtaganden är ej nödvändiga  utöver en god industrihygien och 
+säkerhets rutiner. Man får inte äta, dricka eller röka under användning av 
+produkten.  
+ 
+Begränsning av 
+miljöexponeringen: 
+Angående avfallshantering, se sektion 13.  
+ 
+AVSNITT 9: Fysikaliska och kemiska egenskaper 
+ 
+9.1 Information om grundläggande fysikaliska och kemiska egenskaper  
+ Tillstånd 
+  Aggregationstillstånd: Gas  
+  Form: KOMPRIMERAD GAS  
+  Färg: Färglös 
+ Lukt: Luktfri gas 
+ Lukttröskel: Luktgränsen är subjektiv och otillförlitlig för att varna om en 
+eventuell överexponering. 
+ Smältpunkt: -346,02 °F/-210,01 °C  
+ Kokpunkt: -321 °F/-196 °C  
+ Brandfarlighet: Produkten är inte brandfarlig. 
+ Högre/lägre antändnings- eller explosionsgränser 
+  Explosionsgräns – övre: Inte tillämplig. 
+  Explosionsgräns – nedre: Inte tillämplig. 
+ Flampunkt: Ej tillämpligt för gaser och gasblandningar
+
+[[page 10]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+10/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+ Självantändningstemperatur: Inte tillämplig.. 
+ Sönderfallstemperatur: Inte känt. 
+ pH-värde: Inte tillämplig. 
+ Viskositet 
+  Viskositet, dynamisk: 0,171 mPa.s (51,6 °F/10,9 °C)  
+  Kinematisk viskositet: Ingen data. 
+ Löslighet 
+  Löslighet i vatten: 20 mg/l  
+  Löslighet (annan): Ingen data. 
+ Fördelningskoefficient (n-
+oktanol/vatten): 
+0,67  
+ Dispersionsstabilitet: Ingen data. 
+ Ångtryck: Ingen tillförlitlig information tillgänglig. 
+ Relativ densitet: 0,8  
+ Densitet: 0,0013 gr/cm3 (32 °F/0 °C)  
+ Ångdensitet (luft=1): 0,97  
+ Partikelkarakteristika: Inte tillämplig. 
+ 
+9.2 Annan information 
+ Brandfarlighet: Ki: 1  
+ Molekylvikt: 28,01 g/mol (N2) 
+ Kritisk temperatur (°C): -147,0 °C  
+ 
+AVSNITT 10: Stabilitet och reaktivitet 
+ 
+10.1 Reaktivitet: Ingen fara för reaktivitet utom de effekter som beskrivits i underavsnittet nedan.   
+ 
+10.2 Kemisk stabilitet: Stabil i normala förhållanden.  
+ 
+10.3 Risken för farliga reaktioner: Inga.  
+ 
+10.4 Förhållanden som ska 
+undvikas: 
+Inga.
+
+[[page 11]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+11/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+10.5 Oförenliga material: Ingen reaktion med vanliga ämnen i torra eller våta förhållanden.  
+ 
+10.6 Farliga 
+sönderdelningsprodukter: 
+Vid normal användning och förvaring bör inga farliga sönderdelningsprodukter 
+uppkomma.  
+ 
+AVSNITT 11: Toxikologisk information 
+ 
+Allmän information: Inga. 
+ 
+11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008  
+ 
+Akut toxicitet - Oral  
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls. 
+ 
+ 
+Akut toxicitet - Dermal 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+ 
+Akut toxicitet - Inandning 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Hudfrätande/Irriterande 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls. 
+ 
+Allvarliga Ögonskador/Ögonirritation 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Inandnings- eller Hudsensibilisering 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Mutagenitet i Könsceller 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Cancerframkallande egenskaper 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Reproduktionstoxicitet 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.
+
+[[page 12]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+12/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Specifik Organtoxicitet - Enstaka Exponering 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls.  
+ 
+Specifik Organtoxicitet - Upprepade Exponeringar 
+Produkt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls. 
+ 
+Kvävningsrisk 
+Produkt Ej tillämpligt för gaser och gasblandningar. 
+ 
+11.2 Information om andra faror 
+ 
+Hormonstörande egenskaper 
+Produkt: Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre.;  
+Komponenter:
+Nitrogen  Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre.;  
+ 
+Annan information 
+Produkt: Ingen data. 
+ 
+AVSNITT 12: Ekologisk information 
+ 
+Allmän information: Inte tillämplig  
+ 
+12.1 Toxicitet  
+ 
+Akut toxicitet 
+Produkt Ingen ekologisk skada orsakas av denna produkt.
+
+[[page 13]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+13/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+12.2 Persistens och nedbrytbarhet   
+Produkt Ämnet är naturligt förekommande.  
+ 
+12.3 Bioackumuleringsförmåga  
+Produkt Produkten förväntas brytas ned biologiskt och förväntas inte kvarstå någon längre 
+tid i en vattenmiljö. 
+ 
+12.4 Rörlighet i jord  
+Produkt Ämnet är en gas, inte tillämpligt.  
+ 
+12.5 Resultat av PBT- och vPvB-
+bedömningen 
+ 
+Produkt Ej klassificerad som PBT eller vPvB.  
+ 
+ 
+12.6 Hormonstörande egenskaper: 
+ 
+Produkt: Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre.  
+Komponenter:
+Nitrogen Substansen/blandningen innehåller inte komponenter som anses ha 
+endokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens 
+delegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU) 
+2018/605 vid nivåer på 0.1% eller högre.  
+ 
+12.7 Andra skadliga effekter: 
+ 
+Andra faror 
+Produkt: Ingen data. 
+ 
+Andra effekter: Ingen ekologisk skada orsakas av denna produkt.
+
+[[page 14]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+14/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+AVSNITT 13: Avfallshantering 
+ 
+13.1 Avfallsbehandlingsmetoder 
+ 
+Allmän information: Släpp inte ut i avlopp, källare, gropar eller andra platser där gasansamling kan 
+vara farlig. Vädras ut i atmosfären på välventilerad plats.  
+ 
+Destruktionsmetoder: Ytterligare anvisningar om lämpliga bortskaffningsmetoder finns i EIGA:s 
+anvisningar om förfaringssätt (Doc.30 “Disposal of Gases", kan nedladdas på 
+http://www.eiga.org). Bortskaffa behållaren endast via gasleverantören. 
+Utsläpp, behandling eller avfallshantering kan vara reglerade i nationella, 
+delstatliga eller lokala lagar.  
+ 
+Europeiska avfalls koder 
+Förpackning: 16 05 05: Andra gaser i tryckbehållare än de som anges i 16 05 04. 
+ 
+ 
+AVSNITT 14: Transportinformation 
+ 
+ 
+ 
+ADR 
+14.1 UN-nummer eller id-nummer: UN 1066 
+14.2 Officiell transportbenämning: KVÄVE, KOMPRIMERAD 
+14.3 Faroklass för transport  
+Klass: 2 
+Etikett(er): 2.2 
+Faronr. (ADR): 20 
+Tunnelbegränsningskod: (E) 
+14.4 Förpackningsgrupp: – 
+ Begränsad mängd Inga. 
+ Undantagen mängd Inga. 
+14.5 Miljöfaror: Inte tillämplig. 
+14.6 Särskilda skyddsåtgärder: –
+
+[[page 15]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+15/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+RID 
+ 
+14.1 UN-nummer eller id-nummer: UN 1066 
+14.2 Officiell transportbenämning KVÄVE, KOMPRIMERAD 
+14.3 Faroklass för transport  
+Klass: 2 
+Etikett(er): 2.2 
+14.4 Förpackningsgrupp: – 
+Begränsad mängd Inga. 
+Undantagen mängd Inga. 
+14.5 Miljöfaror: Inte tillämplig. 
+14.6 Särskilda skyddsåtgärder: – 
+ 
+IMDG 
+14.1 UN-nummer eller id-nummer: UN 1066 
+14.2 Officiell transportbenämning: NITROGEN, COMPRESSED 
+14.3 Faroklass för transport  
+Klass: 2.2 
+Etikett(er): 2.2 
+EmS No.: F-C, S-V 
+14.4 Förpackningsgrupp: – 
+Begränsad mängd Inga. 
+Undantagen mängd Inga. 
+14.5 Miljöfaror: Inte tillämplig. 
+14.6 Särskilda skyddsåtgärder: – 
+ 
+IATA 
+ 
+14.1 UN-nummer eller id-nummer: UN 1066 
+14.2 Benämning: Nitrogen, compressed 
+14.3 Faroklass för transport:  
+Klass: 2.2 
+Etikett(er): 2.2 
+14.4 Förpackningsgrupp: – 
+Begränsad mängd Inga. 
+Undantagen mängd Inga.
+
+[[page 16]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+16/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+14.5 Miljöfaror: Inte tillämplig. 
+14.6 Särskilda skyddsåtgärder: – 
+Annan information 
+Passagerar- och fraktflygplan: Tillåtet. 
+Endast lastflyg: Tillåtet. 
+ 
+ 
+14.7 Bulktransport till sjöss enligt IMO:s instrument 
+Ej tillämpligt för produkten som den levereras. 
+ 
+ 
+Ytterligare identifikation: Undvik transport med fordon där lastutrymmet inte är åtskilt från 
+förarhytten. Överlämna transportkort (skriftlig instruktion) till föraren. 
+Vid transport skall gasflaskor vara fastspända. Se till att behållarens 
+ventil är stängd och inte läcker. Ventilskydd eller kåpor måste vara på 
+plats. Se till att luftväxlingen är tillräcklig.  
+ 
+ 
+AVSNITT 15: Gällande föreskrifter 
+ 
+15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö : 
+ 
+EU-förordningar 
+ 
+FÖRORDNING (EG) nr 1907/2006 (REACH), BILAGA XIV FÖRTECKNING ÖVER ÄMNEN FÖR VILKA DET KRÄ VS TILLSTÅND 
+með áorðnum breytingum: Finns inte eller finns inte i reglerade mängder. 
+ 
+Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 1 med ändringar : Finns inte 
+eller finns inte i reglerade mängder. 
+ 
+Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 2 med ändringar : Finns inte 
+eller finns inte i reglerade mängder. 
+ 
+Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 3 med ändringar : Finns inte 
+eller finns inte i reglerade mängder. 
+ 
+Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga V med ändringar : Finns inte eller 
+finns inte i reglerade mängder. 
+ 
+EU. Direktiv 2012/18/EU (SEVESO III) om faran för allvarliga kemikalieolyckor, med ändringar :
+
+[[page 17]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+17/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Inte tillämplig. 
+ 
+Nationella bestämmelser 
+ 
+Rådets direktiv 89/391/EEG om åtgärder för att främja förbättringar av 
+arbetstagarnas säkerhet och hälsa i arbetet Direktiv 2016/425/EEG om personlig 
+skyddsutrustning Endast produkter som överensstämmer med 
+livsmedelsförordningarna 95/2/EG och 2008/84/EG och som är märkta som sådana 
+får användas som livsmedelstillsatser. 
+Säkerhetsdatabladet har utarbetats för att följa förordning (EU) 2020/878. 
+ 
+15.2 
+Kemikaliesäkerhetsbedömn
+ing: 
+Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från 
+registrering. En CSA (Kemikaliesäkerhetsbedömning) krävs inte för denna produkt. 
+ 
+AVSNITT 16: Annan information 
+ 
+Revisionsinformation: Relevanta förändringar visas genom att använda två vertikala linjer och röd text, 
+texten är även markerad i grått.  
+ 
+Förkortningar och akronymer:  
+ADN - Europeisk överenskommelse om internationell transport av farligt gods på inländska vattenleder; ADR - 
+Överenskommelse om internationell transport av farligt gods på väg; AIIC - Australiens förteckning över industrikemikalier; 
+ASTM - Amerikansk organisation för materialtestning; bw - Kroppsvikt; CLP - Förordning om klassificeringsmärkning av 
+förpackningar; förordning (EG) nr 1272/2008; CMR - Carcinogent, mutant eller reproduktiv toxikant; DIN - Det tyska 
+standardiseringsinstitutets standard; DSL - Lista över ämnen använda i hushållet (Kanada); ECHA - Europeiska 
+kemikaliemyndigheten; EC-Number - EG-nummer; ECx - Koncentration som ger x % svar; EIGA - Europeiska förbundet för 
+industriella gaser; ELx - Loading Rate som ger x % svar (Elx-värde); EmS - Nödinstruktioner; ENCS - Förekommande och 
+nytillkommande kemikalier (Japan); ErCx - Koncentration som ger x % tillväxtsvar (ErCx-värde); GHS - Globalt harmoniserat 
+system; GLP - God laboratoriepraxis; IARC - Internationell myndighet för cancerforskning; IATA - Internationell 
+sammanslutning för flygtransporter; IBC - Internationella regler för konstruktion och utrustande av fartyg för bulktransport 
+av farliga kemikalier; IC50 - Halva maximala inhibitoriska koncentrationen; ICAO - Internationell organisation för civil 
+flygtrafik; IECSC - Förteckning över i Kina förekommande kemikalier; IMDG - Internationella föreskrifter för sjötransport av 
+farligt gods; IMO - Internationella sjöfartsorganisationen; ISHL - Lag om säkerhet och hälsa inom industrin (Japan); ISO - 
+Internationella standardiseringsorganisationen; KECI - Koreansk förteckning över förekommande kemikalier; LC50 - Dödlig 
+koncentration för 50 % av en testpopulation; LD50 - Dödlig dos för 50 % av en testpopulation (dödlig mediandos); MARPOL 
+- Internationell överenskommelse om förebyggande av förorening från fartyg; n.o.s. - Utan närmare specifikation; NO(A)EC 
+- Koncentration utan observerad (bi)verkan; NO(A)EL - Nivå utan observerad (bi)verkan; NOELR - Loading Rate utan 
+observerbar effekt (NOELR-värde); NZIoC - Nyzeeländsk förteckning över kemikalier; OECD - Organisation för ekonomisk 
+samverkan och utveckling; OPPTS - Myndighet för kemisk säkerhet och förebyggande av förorening; PBT - Persistent,
+
+[[page 18]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+18/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+bioackumulerande och giftigt ämne; PICCS - Filippinsk förteckning över kemikalier och kemiska ämnen; (Q)SAR - 
+(Kvantitativ) relation mellan struktur och aktivitet; REACH - Förordning (EG) nr 1907/2006 från Europaparlamentet och 
+rådet avseende registrering, bedömning, godkännande och begränsning av kemikalier; RID - Förordningar avseende 
+internationella transporter av farligt gods på järnväg; SADT - Temperatur för självaccelererande nedbrytning; SDS - 
+Säkerhetsdatablad; SVHC - ämne som inger mycket stora betänkligheter; TCSI - Taiwanesisk förteckning över kemikalier; 
+TECI - Thailand Befintlig kemikalieinventering; TRGS - Tekniska regler för farliga ämnen; TSCA - Lag om kontroll av giftiga 
+ämnen (Förenta Staterna); UN - Förenta Nationerna; vPvB - Mycket persistent och starkt bioackumulerande 
+ 
+Hänvisningar till viktig litteratur 
+och datakällor: 
+Olika datakällor har använts i sammanställning av detta säkerhetsdatablad, bland 
+annat: 
+Agency for Toxic Substances and Diseases Registry (ATSDR) 
+http://www.atsdr.cdc.gov/ 
+Europeiska kemikaliebyrån: Anvisningar för sammanställning av säkerhetsdatablad.  
+Europeiska kemikaliebyrån: Information om registrerade ämnen 
+http://apps.echa.europa.eu/registered/registered-sub.aspx#search 
+Europeisk Industriella Gaser Förbund (EIGA) Dok. 169 ”Klassificerings - och 
+etikettguide”, i dess ändrade lydelse. 
+International Programme on Chemical Safety (http://www.inchem.org/)  
+ISO 10156:2010 Gaser och gasblandningar  -  Bestämning av brandpotential och 
+oxideringsförmåga för val av cylinderventilsutlopp. 
+Matheson Gas Data Book, 7:e upplaga. 
+National Institute for Standards and Technology (NIST) Nummer 69 i 
+standardreferensdatabasen 
+Den före detta Europeiska kemikaliebyråns (ECB) ESIS-plattform (European chemical 
+Substances 5 Information System) ESIS (http://ecb.jrc.ec.europa.eu/esis/).  
+Den europeiska kemiindustrins samarbetsorganisation (CEFIC) ERICards. 
+Förenta staternas nationella medicinska biblioteks nätverk för toxikologiska data 
+TOXNET (http://toxnet.nlm.nih.gov/index.html) 
+Tröskelvärden (TLV) från Amerikanska sammanslutningen för statsanställda yrkes - 
+och miljöhygieniker (ACGIH). 
+Ämnesspecifik information från leverantörerna. 
+Uppgifterna i detta dokument tros vara korrekta vid tidpunkten för publicering. 
+ 
+Formulering av H-angivelser I avsnitt 2 och 3 
+H280 Innehåller gas under tryck. Kan explodera vid uppvärmning.
+
+[[page 19]]
+SÄKERHETSDATABLAD 
+Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar  
+Nitrogen, komprimerad 
+Utgivningsdatum: 
+Revisionsdatum:  
+Senast uppdaterad :  
+16.01.2013 
+18.09.2023  
+20.02.2020 
+Version: 1.4 SDB Nr: 000010021697 
+19/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Utbildningsinformation: Användare av andningsapparater måste utbildas. Risken för kvävning är ofta 
+förbisedd och måste påpekas vid utbildning av personal. Säkerställ att operatörerna 
+förstår farorna. 
+ 
+Klassificering enligt förordningen (EG) nr 1272/2008 och ändringarna i den.  
+Press. Gas Compr. Gas, H280  
+ 
+Annan information: Före användning av produkten i en ny process eller försök bör en genomgång av 
+materialkompatibilitet och säkerhetsstudie genomföras. Se till att luftväxlingen är 
+tillräcklig. Se till att alla nationella/lokala bestämmelser följs up. Det tages inget 
+ansvar för eventuell skada eller förlust som kan uppstå som följd av användandet av 
+detta dokument.  
+ 
+Senast uppdaterad: 18.09.2023 
+Friskrivningsklausul: Denna information ges utan garantier. Vi anser att denna information är korrekt. 
+Denna information bör användas till att göra en självständig bedömning av 
+metoderna för att skydda de anställda och miljön.

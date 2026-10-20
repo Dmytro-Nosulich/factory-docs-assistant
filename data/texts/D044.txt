@@ -1,0 +1,141 @@
+[[page 1]]
+Produktdatenblatt
+Sauerstoff 5.0
+Reinheit in %: 99,999  
+..............................................................................................................................................................................................................................
+Nebenbestandteile, ppm: N2
+ 5
+H2O
+ 3
+KW
+ 0,2
+CO2
+ 0,2
+Ar
+ 2
+Angaben sind als ideale Volumenanteile (= Molanteile) zu verstehen
+..............................................................................................................................................................................................................................
+Lieferarten: Aluminiumflasche
+Rauminhalt,
+[Liter]
+Füllmenge,
+ca. [m³]
+Fülldruck,
+ca. [bar]
+Gesamtgewicht, mit
+Füllung ca. [kg]
+Aussen-Ø,
+ca.[mm]
+Gesamtlänge
+ca. [mm]
+1 0,21 200 3,5 100 350
+Stahlflasche
+Rauminhalt,
+[Liter]
+Füllmenge,
+ca. [m³]
+Fülldruck,
+ca. [bar]
+Gesamtgewicht, mit
+Füllung ca. [kg]
+Aussen-Ø,
+ca.[mm]
+Gesamtlänge
+ca. [mm]
+2 0,421 200 6 100 490
+10 2,1 200 20 140 970
+50 10,5 200 80 229 1640
+Flaschenbündel
+Rauminhalt,
+[Liter]
+Füllmenge,
+ca. [m³]
+Fülldruck,
+ca. [bar]
+Anzahl Flaschen
+im Bündel
+Gesamtgewicht, mit
+Füllung ca. [kg]
+Maße ca.
+(H x L x B)[mm]
+600 126 200 12 1227 1900 x 980 x 770
+Weitere Lieferarten auf Anfrage.
+Umrechnungszahlen: m³ Gas (15°C, 1 bar) l flüssig bei Ts kg
+1 1,172 1,337
+0,853 1 1,141
+0,748 0,876 1
+Linde GmbH
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland
+Telefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de
+Zur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern
+elektronisch gespeichert und verarbeitet.
+Änderungen vorbehalten
+Stand 21.04.2008
+
+[[page 2]]
+Sauerstoff 5.0 2 von 3
+Kennzeichnung: Aufkleber: Sauerstoff 5.0
+Ventilanschluss:
+Flaschenschulterfarbe/
+Umlaufender Farbstreifen bei Bündeln
+Weiß RAL 9010
+G 3/4 nach DIN 477 Nr. 9
+..............................................................................................................................................................................................................................
+Eigenschaften: verdichtetes Gas, brandfördernd
+Chemisches Zeichen: O2
+Molare Masse: 31,999 g/mol
+Tripelpunkt:
+Temperatur Druck Schmelzwärme
+54,4 K (-218,75 °C) 0,0015 bar 13,9 kJ/kg
+Relative Dichte bezogen auf trockene Luft (15°C, 1 bar): 1,105
+Kritische Temperatur: 154,58 K  (-118,57 °C)
+Siedetemperatur bei 1,013 bar (Ts): 90,18 K  (-182,97 °C)
+..............................................................................................................................................................................................................................
+Anwendungen: als Oxidationsmittel in chemischen Prozessen und in der Elektronikindustrie, 
+Betriebsgas in der instrumentellen Analytik............................................................................................................................................................................
+Ebenfalls verfügbar: Atemsauerstoff
+Atemsauerstoff flüssig 2.5
+BIOGON® O E948
+BIOGON® O flüssig E948
+ODOROX®
+Sauerstoff
+Sauerstoff 3.5
+Sauerstoff 4.5
+Sauerstoff 6.0
+Sauerstoff flüssig 2.5
+Sauerstoff flüssig 3.5
+Sauerstoff flüssig LI-PUR® 5.7
+Sauerstoff flüssig LI-PUR® 6.0
+Sauerstoff KW-frei
+Gemische von Sauerstoff mit anderen Gasen in genau definierten Zusammensetzungen, z.B.
+Synthetische Luft (20% O2 80% N2), Synthetische Luft Kw-frei (20% O2 80% N2), Prüfgase für die
+Emissionsmessung.Sauerstoff ist auch tiefkalt verflüssigt im Straßentankwagen lieferbar. Die
+erforderlichen technischen Vorraussetzungen werden von Linde zur Verfügung gestellt. Höchste
+Anforderungen werden durch das LI-PUR® System erfüllt.
+Linde GmbH
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland
+Telefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de
+Zur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern
+elektronisch gespeichert und verarbeitet.
+Änderungen vorbehalten
+Stand 21.04.2008
+
+[[page 3]]
+Sauerstoff 5.0 3 von 3
+Haftungsausschluss: Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde
+GmbH prüft und aktualisiert die Informationen ständig und behält sich das Recht vor, Änderungen
+oder Ergänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich
+Daten inzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und
+Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden.
+Jeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen
+Bestimmungen eingehalten werden und dass die hier beschriebenen Produkte für seine
+Einsatzzwecke geeignet sind. Die Angaben auf diesem Produktdatenblatt sind keine vertraglichen
+Zusicherungen von Produkteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern
+oder Daten bedarf der vorherigen Zustimmung der Linde GmbH.
+Linde GmbH
+Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland
+Telefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de
+Zur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern
+elektronisch gespeichert und verarbeitet.
+Änderungen vorbehalten
+Stand 21.04.2008

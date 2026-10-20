@@ -1,0 +1,1457 @@
+[[page 1]]
+Products Solutions Services
+Brief Operating Instructions
+Flowmeter
+Proline 500 – digital
+PROFIBUS DP transmitter
+with electromagnetic sensor
+These instructions are Brief Operating Instructions; they are
+not a substitute for the Operating Instructions pertaining to
+the device.
+Brief Operating Instructions part 2 of 2: Transmitter
+Contain information about the transmitter.
+Brief Operating Instructions part 1 of 2: Sensor →   3
+KA01388D/06/EN/02.19
+71424727
+2019-02-01
+
+[[page 2]]
+Flowmeter Proline 500 – digital
+2 Endress+Hauser
+Order code:
+Ext. ord. cd.:
+Ser. no.:
+www.endress.com/deviceviewer Endress+Hauser
+Operations App
+XXXXXXXXXXXX
+XXXXX-XXXXXX
+XXX.XXXX.XX
+Serial number
+1.
+3.
+2.
+  A0023555
+
+[[page 3]]
+Flowmeter Proline 500 – digital Brief Operating Instructions for the flowmeter
+Endress+Hauser 3
+Brief Operating Instructions for the flowmeter
+The device consists of a transmitter and a sensor.
+The process of commissioning these two components is described in two separate manuals,
+that form the Brief Operating Instructions of the flowmeter:
+• Brief Operating Instructions part 1: Sensor
+• Brief Operating Instructions part 2: Transmitter
+Please refer to both Brief Operating Instructions when commissioning the flowmeter as the
+contents complement one another:
+Brief Operating Instructions part 1: Sensor
+The Sensor Brief Operating Instructions are aimed at specialists with responsibility for
+installing the measuring device.
+• Incoming acceptance and product identification
+• Storage and transport
+• Installation
+Brief Operating Instructions part 2: Transmitter
+The Transmitter Brief Operating Instructions are aimed at specialists with responsibility for
+commissioning, configuring and parameterizing the measuring device (until the first
+measured value).
+• Product description
+• Installation
+• Electrical connection
+• Operation options
+• System integration
+• Commissioning
+• Diagnostic information
+Additional device documentation
+These Brief Operating Instructions are the Brief Operating Instructions part 2:
+Transmitter.
+The "Brief Operating Instructions part 1: Sensor" are available via:
+• Internet: www.endress.com/deviceviewer
+• Smart phone/tablet: Endress+Hauser Operations App
+Detailed information about the device can be found in the Operating Instructions and the
+other documentation:
+• Internet: www.endress.com/deviceviewer
+• Smart phone/tablet: Endress+Hauser Operations App
+
+[[page 4]]
+Table of contents Flowmeter Proline 500 – digital
+4 Endress+Hauser
+Table of contents
+1 About this document .............................................................. 5
+1.1 Symbols used ......................................................................... 5
+2 Basic safety instructions .......................................................... 7
+2.1 Requirements for the personnel ............................................................ 7
+2.2 Designated use ........................................................................ 7
+2.3 Workplace safety ...................................................................... 8
+2.4 Operational safety ...................................................................... 8
+2.5 Product safety ......................................................................... 8
+2.6 IT security ............................................................................ 8
+2.7 Device-specific IT security ................................................................ 9
+3 Product description .............................................................. 10
+4 Installation ...................................................................... 11
+4.1 Post mounting ....................................................................... 11
+4.2 Wall mounting ....................................................................... 12
+4.3 Transmitter post-installation check ........................................................ 12
+5 Electrical connection ............................................................ 13
+5.1 Connection conditions .................................................................. 13
+5.2 Connecting the measuring device ......................................................... 19
+5.3 Ensuring potential equalization ........................................................... 26
+5.4 Hardware settings ..................................................................... 30
+5.5 Ensuring the degree of protection ......................................................... 33
+5.6 Post-connection check .................................................................. 34
+6 Operation options ............................................................... 35
+6.1 Overview of operation options ............................................................ 35
+6.2 Structure and function of the operating menu ................................................ 36
+6.3 Access to the operating menu via the local display ............................................. 37
+6.4 Access to the operating menu via the operating tool ............................................ 40
+6.5 Access to the operating menu via the Web server .............................................. 40
+7 System integration .............................................................. 40
+8 Commissioning .................................................................. 41
+8.1 Function check ....................................................................... 41
+8.2 Setting the operating language ........................................................... 41
+8.3 Configuring the measuring device ......................................................... 42
+8.4 Protecting settings from unauthorized access ................................................. 42
+9 Diagnostic information .......................................................... 42
+
+[[page 5]]
+Flowmeter Proline 500 – digital About this document
+Endress+Hauser 5
+1  About this document
+1.1  Symbols used
+1.1.1  Safety symbols
+Symbol Meaning
+DANGER
+DANGER!
+This symbol alerts you to a dangerous situation. Failure to avoid this situation will result in
+serious or fatal injury.
+WARNING
+WARNING!
+This symbol alerts you to a dangerous situation. Failure to avoid this situation can result in
+serious or fatal injury.
+CAUTION
+CAUTION!
+This symbol alerts you to a dangerous situation. Failure to avoid this situation can result in
+minor or medium injury.
+NOTICE
+NOTE!
+This symbol contains information on procedures and other facts which do not result in
+personal injury.
+1.1.2  Symbols for certain types of information
+Symbol Meaning Symbol Meaning
+Permitted
+Procedures, processes or actions that
+are permitted.
+Preferred
+Procedures, processes or actions that
+are preferred.
+Forbidden
+Procedures, processes or actions that
+are forbidden.
+Tip
+Indicates additional information.
+Reference to documentation
+A Reference to page
+Reference to graphic
+1. , 
+2. , 
+3 . … Series of steps
+Result of a step
+ Visual inspection
+1.1.3  Electrical symbols
+Symbol Meaning Symbol Meaning
+Direct current
+ Alternating current
+Direct current and alternating current
+ Ground connection
+A grounded terminal which, as far as
+the operator is concerned, is grounded
+via a grounding system.
+
+[[page 6]]
+About this document Flowmeter Proline 500 – digital
+6 Endress+Hauser
+Symbol Meaning
+Protective Earth (PE)
+A terminal which must be connected to ground prior to establishing any other connections.
+The ground terminals are situated inside and outside the device:
+• Inner ground terminal: Connects the protectiv earth to the mains supply.
+• Outer ground terminal: Connects the device to the plant grounding system.
+1.1.4  Communication symbols
+Symbol Meaning Symbol Meaning
+Wireless Local Area Network
+(WLAN)
+Communication via a wireless, local
+network.
+LED
+Light emitting diode is off.
+LED
+Light emitting diode is on.
+LED
+Light emitting diode is flashing.
+1.1.5  Tool symbols
+Symbol Meaning Symbol Meaning
+Torx screwdriver
+ Flat blade screwdriver
+Cross-head screwdriver
+ Allen key
+Open-ended wrench
+1.1.6  Symbols in graphics
+Symbol Meaning Symbol Meaning
+1, 2, 3,... Item numbers
+1. , 
+2. , 
+3 . … Series of steps
+A, B, C, ... Views A-A, B-B, C-C, ... Sections
+-
+Hazardous area
+. Safe area (non-hazardous area)
+Flow direction
+
+[[page 7]]
+Flowmeter Proline 500 – digital Basic safety instructions
+Endress+Hauser 7
+2  Basic safety instructions
+2.1  Requirements for the personnel
+The personnel must fulfill the following requirements for its tasks:
+‣ Trained, qualified specialists must have a relevant qualification for this specific function
+and task.
+‣ Are authorized by the plant owner/operator.
+‣ Are familiar with federal/national regulations.
+‣ Before starting work, read and understand the instructions in the manual and
+supplementary documentation as well as the certificates (depending on the application).
+‣ Follow instructions and comply with basic conditions.
+2.2  Designated use
+Application and media
+The measuring device described in these Brief Operating Instructions is intended only for flow
+measurement of liquids with a minimum conductivity of 5 µS/cm.
+Depending on the version ordered, the measuring device can also measure potentially
+explosive, flammable, poisonous and oxidizing media.
+Measuring devices for use in hazardous areas, in hygienic applications or where there is an
+increased risk due to process pressure, are labeled accordingly on the nameplate.
+To ensure that the measuring device remains in proper condition for the operation time:
+‣ Keep within the specified pressure and temperature range.
+‣ Only use the measuring device in full compliance with the data on the nameplate and the
+general conditions listed in the Operating Instructions and supplementary documentation.
+‣ Based on the nameplate, check whether the ordered device is permitted for the intended
+use in the hazardous area (e.g. explosion protection, pressure vessel safety).
+‣ Use the measuring device only for media to which the process-wetted materials are
+sufficiently resistant.
+‣ If the ambient temperature of the measuring device is outside the atmospheric
+temperature, it is absolutely essential to comply with the relevant basic conditions as
+specified in the device documentation.
+‣ Protect the measuring device permanently against corrosion from environmental
+influences.
+Incorrect use
+Non-designated use can compromise safety. The manufacturer is not liable for damage caused
+by improper or non-designated use.
+LWARNING
+Danger of breakage due to corrosive or abrasive fluids and ambient conditions!
+‣ Verify the compatibility of the process fluid with the sensor material.
+‣ Ensure the resistance of all fluid-wetted materials in the process.
+‣ Keep within the specified pressure and temperature range.
+
+[[page 8]]
+Basic safety instructions Flowmeter Proline 500 – digital
+8 Endress+Hauser
+NOTICE
+Verification for borderline cases:
+‣ For special fluids and fluids for cleaning, Endress+Hauser is glad to provide assistance in
+verifying the corrosion resistance of fluid-wetted materials, but does not accept any
+warranty or liability as minute changes in the temperature, concentration or level of
+contamination in the process can alter the corrosion resistance properties.
+Residual risks
+LWARNING
+The electronics and the medium may cause the surfaces to heat up. This presents a burn
+hazard!
+‣ For elevated fluid temperatures, ensure protection against contact to prevent burns.
+2.3  Workplace safety
+For work on and with the device:
+‣ Wear the required personal protective equipment according to federal/national
+regulations.
+For welding work on the piping:
+‣ Do not ground the welding unit via the measuring device.
+If working on and with the device with wet hands:
+‣ Due to the increased risk of electric shock, gloves must be worn.
+2.4  Operational safety
+Risk of injury.
+‣ Operate the device in proper technical condition and fail-safe condition only.
+‣ The operator is responsible for interference-free operation of the device.
+2.5  Product safety
+This measuring device is designed in accordance with good engineering practice to meet state-
+of-the-art safety requirements, has been tested, and left the factory in a condition in which it
+is safe to operate.
+It meets general safety standards and legal requirements. It also complies with the EU
+directives listed in the device-specific EU Declaration of Conformity. Endress+Hauser confirms
+this by affixing the CE mark to the device.
+2.6  IT security
+Our warranty is valid only if the device is installed and used as described in the Operating
+Instructions. The device is equipped with security mechanisms to protect it against any
+inadvertent changes to the settings.
+IT security measures, which provide additional protection for the device and associated data
+transfer, must be implemented by the operators themselves in line with their security
+standards.
+
+[[page 9]]
+Flowmeter Proline 500 – digital Basic safety instructions
+Endress+Hauser 9
+2.7  Device-specific IT security
+The device offers a range of specific functions to support protective measures on the operator's
+side. These functions can be configured by the user and guarantee greater in-operation safety
+if used correctly.
+For detailed information on device-specific IT security, see the Operating Instructions for
+the device.
+2.7.1  Access via service interface (CDI-RJ45)
+The device can be connected to a network via the service interface (CDI-RJ45). Device-specific
+functions guarantee the secure operation of the device in a network.
+The use of relevant industrial standards and guidelines that have been defined by national
+and international safety committees, such as IEC/ISA62443 or the IEEE, is recommended.
+This includes organizational security measures such as the assignment of access authorization
+as well as technical measures such as network segmentation.
+
+[[page 10]]
+Product description Flowmeter Proline 500 – digital
+10 Endress+Hauser
+3  Product description
+The measuring system consists of a Proline 500 - digital transmitter and a Proline Promag
+electromagnetic sensor.
+The transmitter and sensor are mounted in physically separate locations. They are
+interconnected by a connecting cable.
+2
+3
+1
+1 Transmitter
+2 Connecting cable: cable, separate, standard
+3 Sensor connection housing with integrated ISEM (intelligent sensor electronics module)
+For detailed information on the product description, see the Operating Instructions for
+the device
+
+[[page 11]]
+Flowmeter Proline 500 – digital Installation
+Endress+Hauser 11
+4  Installation
+For detailed information about mounting the sensor, see the Sensor Brief Operating
+Instructions →   3
+LCAUTION
+Ambient temperature too high!
+Danger of electronics overheating and housing deformation.
+‣ Do not exceed the permitted maximum ambient temperature .
+‣ If operating outdoors: Avoid direct sunlight and exposure to weathering, particularly in
+warm climatic regions.
+LCAUTION
+Excessive force can damage the housing!
+‣ Avoid excessive mechanical stress.
+4.1  Post mounting
+LWARNING
+Excessive tightening torque applied to the fixing screws!
+Risk of damaging the plastic transmitter.
+‣ Tighten the fixing screws as per the tightening torque: 2 Nm (1.5 lbf ft)
+ø 20…70
+( 0.79…2.75)ø
+~102 (~ 4.0)
+4 x SW 10
+3 x TX 25
+  A0029051
+ 1 Engineering unit mm (in)
+
+[[page 12]]
+Installation Flowmeter Proline 500 – digital
+12 Endress+Hauser
+4.2  Wall mounting
+149 (5.85)
+211 (8.31)
+=
+5.8 (0.23)
+17 (0.67) =
+L
+5.8 (0.23)
+  A0029054
+ 2 Engineering unit mm (in)
+L Depends on order code for "Transmitter housing"
+Order code for "Transmitter housing"
+• Option A, aluminum coated: L =14 mm (0.55 in)
+• Option D, polycarbonate: L = 13 mm (0.51 in)
+4.3  Transmitter post-installation check
+The post-installation check must always be performed after the following tasks:
+Mounting the transmitter housing:
+– Post mounting
+– Wall mounting
+Is the device undamaged (visual inspection)? 
+Post mounting:
+Have the fixing screws been tightened with the correct tightening torque? 
+Wall mounting:
+Are the securing screws tightened securely? 
+
+[[page 13]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 13
+5  Electrical connection
+NOTICE
+The measuring device does not have an internal circuit breaker.
+‣ For this reason, assign the measuring device a switch or power-circuit breaker so that the
+power supply line can be easily disconnected from the mains.
+‣ Although the measuring device is equipped with a fuse, additional overcurrent protection
+(maximum 10 A) should be integrated into the system installation.
+5.1  Connection conditions
+5.1.1  Required tools
+• For cable entries: Use corresponding tools
+• For securing clamp: Allen key 3 mm
+• Wire stripper
+• When using stranded cables: crimper for wire end ferrule
+• For removing cables from terminal: Flat blade screwdriver ≤ 3 mm (0.12 in)
+5.1.2  Connecting cable requirements
+The connecting cables provided by the customer must fulfill the following requirements.
+Electrical safety
+In accordance with applicable federal/national regulations.
+Protective ground cable
+Cable ≥2.08 mm2 (14 AWG)
+The grounding impedance must be less than 1 Ω.
+Permitted temperature range
+• The installation guidelines that apply in the country of installation must be observed.
+• The cables must be suitable for the minimum and maximum temperatures to be expected.
+Power supply cable
+Standard installation cable is sufficient.
+Cable diameter
+• Cable glands supplied:
+M20 × 1.5 with cable ⌀ 6 to 12 mm (0.24 to 0.47 in)
+• Spring-loaded terminals: Suitable for strands and strands with ferrules.
+Conductor cross-section 0.2 to 2.5 mm2 (24 to 12 AWG).
+
+[[page 14]]
+Electrical connection Flowmeter Proline 500 – digital
+14 Endress+Hauser
+Signal cable
+PROFIBUS DP
+The IEC 61158 standard specifies two types of cable (A and B) for the bus line which can be
+used for every transmission rate. Cable type A is recommended.
+For detailed information about the specification of the connecting cable, see the
+Operating Instructions for the device.
+For further information on planning and installing PROFIBUS networks see:
+Operating Instructions "PROFIBUS DP/PA: Guidelines for planning and commissioning"
+(BA00034S)
+Current output 0/4 to 20 mA
+Standard installation cable is sufficient.
+Pulse/frequency/switch output
+Standard installation cable is sufficient.
+Relay output
+Standard installation cable is sufficient.
+Current input 0/4 to 20 mA
+Standard installation cable is sufficient.
+Status input
+Standard installation cable is sufficient.
+
+[[page 15]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 15
+5.1.3  Connecting cable
+Standard cable
+A standard cable can be used as the connecting cable.
+Standard cable 4 cores (2 pairs); pair-stranded with common shield
+Shielding Tin-plated copper-braid, optical cover ≥ 85 %
+Cable length Maximum 300 m (1 000 ft), see the following table.
+Cross-section
+Cable lengths for use in
+Non-hazardous area,
+Ex Zone 2, Class I, Division 2
+Hazardous area,
+Ex Zone 1, Class I, Division 1
+0.34 mm2 (AWG 22) 80 m (270 ft) 50 m (165 ft)
+0.50 mm2 (AWG 20) 120 m (400 ft) 60 m (200 ft)
+0.75 mm2 (AWG 18) 180 m (600 ft) 90 m (300 ft)
+1.00 mm2 (AWG 17) 240 m (800 ft) 120 m (400 ft)
+1.50 mm2 (AWG 15) 300 m (1 000 ft) 180 m (600 ft)
+2.50 mm2 (AWG 13) 300 m (1 000 ft) 300 m (1 000 ft)
+5.1.4  Terminal assignment
+Transmitter: supply voltage, input/outputs
+The terminal assignment of the inputs and outputs depends on the individual order version of
+the device. The device-specific terminal assignment is documented on an adhesive label in the
+terminal cover.
+Supply voltage Input/output
+1
+Input/output
+2
+Input/output
+3
+Input/output
+4
+1 (+) 2 (–) 26 (B) 27 (A) 24 (+) 25 (–) 22 (+) 23 (–) 20 (+) 21 (–)
+Device-specific terminal assignment: adhesive label in terminal cover.
+Transmitter and sensor connection housing: connecting cable
+The sensor and transmitter, which are mounted in separate locations, are interconnected by a
+connecting cable. The cable is connected via the sensor connection housing and the
+transmitter housing.
+Terminal assignment and connection of the connecting cable →   19.
+
+[[page 16]]
+Electrical connection Flowmeter Proline 500 – digital
+16 Endress+Hauser
+5.1.5  Preparing the measuring device
+Carry out the steps in the following order:
+1. Mount the sensor and transmitter.
+2. Connection housing, sensor: Connect connecting cable.
+3. Transmitter: Connect connecting cable.
+4. Transmitter: Connect signal cable and cable for supply voltage.
+NOTICE
+Insufficient sealing of the housing!
+Operational reliability of the measuring device could be compromised.
+‣ Use suitable cable glands corresponding to the degree of protection.
+1. Remove dummy plug if present.
+2. If the measuring device is supplied without cable glands:
+Provide suitable cable gland for corresponding connecting cable.
+3. If the measuring device is supplied with cable glands:
+Observe requirements for connecting cables →   13.
+
+[[page 17]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 17
+5.1.6  Preparing the connecting cable
+When terminating the connecting cable, pay attention to the following points:
+‣ For cables with fine-wire cores (stranded cables):
+Fit the cores with ferrules.
+Preparing the connecting cable: Promag H
+Transmitter Sensor
+A
+70 (2.76)
+50 (1.97)
+10 (0.4)8 (0.3)
+B
+1
+  A0029546
+A
+B
+70 (2.76)
+8 (0.31)
+40(1.57)
+1
+  A0029442
+Engineering unit mm (in)
+A = Terminate the cable
+B = Fit ferrules on cables with fine-wire cores (stranded cables)
+1 = Red ferrules,  1.0 mm (0.04 in)
+
+[[page 18]]
+Electrical connection Flowmeter Proline 500 – digital
+18 Endress+Hauser
+Preparing the connecting cable: Promag P and Promag W
+Transmitter Sensor
+A
+90 (3.54)*
+70 (2.76)
+50 (1.97)
+10 (0.4)8 (0.3)
+B
+1
+  A0029330
+A
+80 (3.15)
+50 (1.97) 6 (0.24)
+170 (6.7)*20 (0.8)*
+B
+1
+2
+  A0029443
+Engineering unit mm (in)
+A = Terminate the cable
+B = Fit ferrules on cables with fine-wire cores (stranded cables)
+1 = Red ferrules,  1.0 mm (0.04 in)
+2 = White ferrules,  0.5 mm (0.02 in)
+* = Stripping only for reinforced cables
+
+[[page 19]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 19
+5.2  Connecting the measuring device
+NOTICE
+Limitation of electrical safety due to incorrect connection!
+‣ Have electrical connection work carried out by appropriately trained specialists only.
+‣ Observe applicable federal/national installation codes and regulations.
+‣ Comply with local workplace safety regulations.
+‣ Always connect the protective ground cable  before connecting additional cables.
+‣ For use in potentially explosive atmospheres, observe the information in the device-specific
+Ex documentation.
+5.2.1  Connecting the connecting cable
+LWARNING
+Risk of damaging the electronic components!
+‣ Connect the sensor and transmitter to the same potential equalization.
+‣ Only connect the sensor to a transmitter with the same serial number.
+‣ Ground the connection housing of the sensor via the external screw terminal.
+Connecting cable terminal assignment
++ – A B
+61 62 63 64
++ – A B
+61 62 63 64
+4
+2
+1
+4
+3
+5
+6
+  A0028198
+1 Cable entry for cable on transmitter housing
+2 Protective earth (PE)
+3 Connecting cable ISEM communication
+4 Grounding via ground connection; on device plug versions grounding is through the plug itself
+5 Cable entry for cable or connection of device plug on sensor connection housing
+6 Protective earth (PE)
+
+[[page 20]]
+Electrical connection Flowmeter Proline 500 – digital
+20 Endress+Hauser
+Connecting the connecting cable to the sensor connection housing
+Connection via terminals with order code for "Housing" Available for sensor
+Option A "Aluminum, coated" →   21 Promag P, W
+Option B "Stainless" →   22 Promag H
+Option L "Cast, stainless" →   21 Promag P
+Connection via connectors with order code for "Sensor connection
+housing"
+Available for sensor
+Option C "Ultra-compact hygienic, stainless" →   23 Promag H
+Connecting the connecting cable to the transmitter
+The cable is connected to the transmitter via terminals →   24.
+
+[[page 21]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 21
+Connecting the sensor connection housing via terminals
+2.
+1.
+3. 6.
+5.
+3 mm
+10 (0.4)
+TX 20TX 20
+22 mm
+7.
+24 mm
+  A0029616
+1. Loosen the securing clamp of the housing cover.
+2. Unscrew the housing cover.
+3. Push the cable through the cable entry . To ensure tight sealing, do not remove the
+sealing ring from the cable entry.
+4. Strip the cable and cable ends. In the case of stranded cables, fit ferrules.
+5. Connect the protective ground.
+6. Connect the cable in accordance with the connecting cable terminal assignment
+→   19.
+7. Firmly tighten the cable glands.
+ This concludes the process for connecting the connecting cable.
+LWARNING
+Housing degree of protection voided due to insufficient sealing of the housing.
+‣ Screw in the thread on the cover without using any lubricant. The thread on the cover is
+coated with a dry lubricant.
+8. Screw on the housing cover.
+9. Tighten the securing clamp of the housing cover.
+
+[[page 22]]
+Electrical connection Flowmeter Proline 500 – digital
+22 Endress+Hauser
+Connecting the sensor connection housing via terminals
+2.
+1.
+3. 6.
+5.
+10 (0.4)
+8 mm
+22 mm
+7.
+24 mm
+  A0029613
+1. Release the securing screw of the housing cover.
+2. Open the housing cover.
+3. Push the cable through the cable entry . To ensure tight sealing, do not remove the
+sealing ring from the cable entry.
+4. Strip the cable and cable ends. In the case of stranded cables, fit ferrules.
+5. Connect the protective ground.
+6. Connect the cable in accordance with the connecting cable terminal assignment
+→   19.
+7. Firmly tighten the cable glands.
+ This concludes the process for connecting the connecting cable.
+8. Close the housing cover.
+9. Tighten the securing screw of the housing cover.
+
+[[page 23]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 23
+Connecting the sensor connection housing via the connector
+1.
+2.
+  A0029615
+1. Connect the protective ground.
+2. Connect the connector.
+
+[[page 24]]
+Electrical connection Flowmeter Proline 500 – digital
+24 Endress+Hauser
+Connecting the connecting cable to the transmitter
+1. 3.
+2.
+4.
+4 x
+5.
+7.
+TX 20TX 20
+6.
+10 (0.4)
+22 mm
+8.
+24 mm
+  A0029597
+1. Loosen the 4 fixing screws on the housing cover.
+2. Open the housing cover.
+3. Fold open the terminal cover.
+4. Push the cable through the cable entry . To ensure tight sealing, do not remove the
+sealing ring from the cable entry.
+5. Strip the cable and cable ends. In the case of stranded cables, fit ferrules.
+6. Connect the protective ground.
+7. Connect the cable in accordance with the connecting cable terminal assignment
+→   19.
+8. Firmly tighten the cable glands.
+ This concludes the process for connecting the connecting cable.
+9. Close the housing cover.
+10. Tighten the securing screw of the housing cover.
+11. After connecting the connecting cable:
+Connect the signal cable and the supply voltage cable →   25.
+
+[[page 25]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 25
+5.2.2  Connecting the signal cable and the supply voltage cable
+1 2 3 4 5 6
+  A0028200
+1 Terminal connection for supply voltage
+2 Terminal connection for signal transmission, input/output
+3 Terminal connection for signal transmission, input/output
+4 Terminal connection for connecting cable between sensor and transmitter
+5 Terminal connection for signal transmission, input/output; optional: connection for external WLAN
+antenna
+6 Protective earth (PE)
+1. 3.
+2.
+4.
+4 x
+5.
+7.
+TX 20TX 20
+6.
+10 (0.4)
+22 mm
+8.
+24 mm
+  A0029597
+1. Loosen the 4 fixing screws on the housing cover.
+2. Open the housing cover.
+3. Fold open the terminal cover.
+
+[[page 26]]
+Electrical connection Flowmeter Proline 500 – digital
+26 Endress+Hauser
+4. Push the cable through the cable entry . To ensure tight sealing, do not remove the
+sealing ring from the cable entry.
+5. Strip the cable and cable ends. In the case of stranded cables, fit ferrules.
+6. Connect the protective ground.
+7. Connect the cable in accordance with the terminal assignment .
+ Signal cable terminal assignment: The device-specific terminal assignment is
+documented on an adhesive label in the terminal cover.
+Supply voltage terminal assignment: Adhesive label in the terminal cover or .
+8. Firmly tighten the cable glands.
+ This concludes the cable connection process.
+9. Close the terminal cover.
+10. Close the housing cover.
+LWARNING
+Housing degree of protection may be voided due to insufficient sealing of the housing.
+‣ Screw in the screw without using any lubricant.
+LWARNING
+Excessive tightening torque applied to the fixing screws!
+Risk of damaging the plastic transmitter.
+‣ Tighten the fixing screws as per the tightening torque: 2 Nm (1.5 lbf ft)
+11. Tighten the 4 fixing screws on the housing cover.
+5.3  Ensuring potential equalization
+5.3.1  Proline Promag H
+For devices intended for use in hazardous locations, please observe the guidelines in the
+Ex documentation (XA).
+Metal process connections
+Potential equalization is generally via the metal process connections that are in contact with
+the medium and mounted directly on the sensor. Therefore there is generally no need for
+additional potential equalization measures.
+Plastic process connections
+In the case of plastic process connections, additional grounding rings or process connections
+with an integrated grounding electrode must be used to ensure potential matching between
+the sensor and the fluid. If there is no potential matching, this can affect the measuring
+accuracy or cause the destruction of the sensor as a result of the electrochemical
+decomposition of the electrodes.
+
+[[page 27]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 27
+Note the following when using grounding rings:
+• Depending on the option ordered, plastic disks are used instead of grounding rings on some
+process connections. These plastic disks only act as "spacers" and do not have any potential
+matching function. Furthermore, they also perform a significant sealing function at the
+sensor/connection interface. Therefore, in the case of process connections without metal
+grounding rings, these plastic disks/seals should never be removed and should always be
+installed!
+• Grounding rings can be ordered separately as an accessory from Endress+Hauser . When
+ordering make sure that the grounding rings are compatible with the material used for the
+electrodes, as otherwise there is the danger that the electrodes could be destroyed by
+electrochemical corrosion!
+• Grounding rings, including seals, are mounted inside the process connections. Therefore the
+installation length is not affected.
+Potential equalization via additional grounding ring
+1
+3 2
+4
+2
+  A0028971
+1 Hexagonal-headed bolts of process connection
+2 O-ring seals
+3 Plastic disk (spacer) or grounding ring
+4 Sensor
+
+[[page 28]]
+Electrical connection Flowmeter Proline 500 – digital
+28 Endress+Hauser
+Potential equalization via grounding electrodes on process connection
+2
+1
+3
+4
+  A0028972
+1 Hexagonal-headed bolts of process connection
+2 Integrated grounding electrodes
+3 O-ring seal
+4 Sensor
+5.3.2  Promag P and Promag W
+For devices intended for use in hazardous locations, please observe the guidelines in the
+Ex documentation (XA).
+Metal, grounded pipe
+  A0016315
+ 3 Potential equalization via measuring tube
+Unlined and ungrounded metal pipe
+This connection method also applies in situations where:
+• The customary potential equalization is not used
+• Equalizing currents are present
+
+[[page 29]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 29
+Ground cable Copper wire, at least 6 mm2 (0.0093 in2)
+DN 300≤ DN 350≥
+  A0029338
+ 4 Potential equalization via ground terminal and pipe flanges
+1. Connect both sensor flanges to the pipe flange via a ground cable and ground them.
+2. If DN ≤ 300 (12"): Mount the ground cable directly on the conductive flange coating of
+the sensor with the flange screws.
+3. If DN ≥ 350 (14"): Mount the ground cable directly on the metal transport bracket.
+Observe screw tightening torques: see the Sensor Brief Operating Instructions.
+4. Connect the connection housing of the transmitter or sensor to ground potential by
+means of the ground terminal provided for the purpose.
+Plastic pipe or pipe with insulating liner
+This connection method also applies in situations where:
+• The customary potential equalization is not used
+• Equalizing currents are present
+Ground cable Copper wire, at least 6 mm2 (0.0093 in2)
+  A0029339
+ 5 Potential equalization via ground terminal and ground disks
+1. Connect the ground disks to the ground terminal via the ground cable.
+2. Connect the ground disks to ground potential.
+
+[[page 30]]
+Electrical connection Flowmeter Proline 500 – digital
+30 Endress+Hauser
+Pipe with a cathodic protection unit
+This connection method is only used if the following two conditions are met:
+• Metal pipe without liner or pipe with electrically conductive liner
+• Cathodic protection is integrated in the personal protection equipment
+Ground cable Copper wire, at least 6 mm2 (0.0093 in2)
++
+–
+  A0029340
+Prerequisite: The sensor is installed in the pipe in a way that provides electrical insulation.
+1. Connect the two flanges of the pipe to one another via a ground cable.
+2. Guide the shield of the signal lines through a capacitor.
+3. Connect the measuring device to the power supply such that it is floating in relation to
+the protective ground (isolation transformer).
+5.4  Hardware settings
+5.4.1  Setting the device address
+The address must always be configured for a PROFIBUS DP/PA device. The valid address
+range is between 1 and 126. In a PROFIBUS DP/PA network, each address can only be
+assigned once. If an address is not configured correctly, the device is not recognized by the
+master. All measuring devices are delivered from the factory with the device address 126 and
+with the software addressing method.
+
+[[page 31]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 31
+Hardware addressing
+Power
+I/O   2
+I/O   3
+I/O   3
+4.
+1 2 3 4 5 6 7 8
+1286432168 4 2 1
+PROFIBUS address
+not used
+Off
+On
+1 2 3 4
+5.
+3.
+-
++
+-
+ESC
+2.
+Power
+open
+press
+open
+press
+ESC
+E
++
+-
+I/O  4
+Power
+I/O  2
+I/O  3
+1.
+  A0029679
+1. Open the housing cover.
+2. Remove the display module.
+3. Fold open the terminal cover.
+4. Set the desired device address using the DIP switches.
+5. To switch addressing from software addressing to hardware addressing: set the DIP
+switch to On.
+ The change of device address takes effect after 10 seconds. The device is restarted.
+
+[[page 32]]
+Electrical connection Flowmeter Proline 500 – digital
+32 Endress+Hauser
+Software addressing
+‣ To switch addressing from hardware addressing to software addressing: set DIP switch No.
+4 to Off.
+ The device address configured in the Device address parameter takes effect after 10
+seconds. The device is restarted.
+5.4.2  Activating the terminating resistor
+To avoid incorrect communication transmission caused by impedance mismatch, terminate
+the PROFIBUS DP cable correctly at the start and end of the bus segment.
+• If the device is operated with a baud rate of 1.5 MBaud and under:
+For the last transmitter on the bus, terminate by setting DIP switch 3 (bus termination) to
+ON.
+• For baud rates > 1.5 MBaud:
+Due to the capacitance load of the user and the line reflections generated as a result, ensure
+that an external bus terminator is used.
+It is generally advisable to use an external bus terminator as the entire segment can fail
+if a device that is terminated internally is defective.
+Power
+I/O   2
+I/O   3
+I/O   3
+OFF
+ON
+1 2 3 4
+4.
+3.
+-
++
+-
+ESC
+2.
+Power
+open
+press
+open
+press
+ESC
+E
++
+-
+I/O  4
+Power
+I/O  2
+I/O  3
+1.
+  A0029675
+1. Open the housing cover.
+2. Remove the display module.
+3. Fold open the terminal cover.
+
+[[page 33]]
+Flowmeter Proline 500 – digital Electrical connection
+Endress+Hauser 33
+4. Set DIP switch No. 3 to ON.
+5.4.3  Activating the default IP address
+The default IP address 192.168.1.212 can be activated by DIP switch.
+Risk of electric shock when opening the transmitter housing.
+‣ Before opening the transmitter housing:
+‣ Disconnect the device from the power supply.
+Power
+I/O   2
+I/O   3
+I/O   3
+Off
+On
+1 432
+4.
+3.
+-
++
+-
+ESC
+2.
+Power
+open
+press
+open
+press
+ESC
+E
++
+-
+I/O  4
+Power
+I/O  2
+I/O  3
+1.
+  A0034500
+‣ Set DIP switch No. 2 on the I/O electronics module from OFF → ON.
+5.5  Ensuring the degree of protection
+The measuring device fulfills all the requirements for the IP66/67 degree of protection, Type
+4X enclosure.
+To guarantee IP66/67 degree of protection, Type 4X enclosure, carry out the following steps
+after the electrical connection:
+1. Check that the housing seals are clean and fitted correctly.
+2. Dry, clean or replace the seals if necessary.
+3. Tighten all housing screws and screw covers.
+4. Firmly tighten the cable glands.
+
+[[page 34]]
+Electrical connection Flowmeter Proline 500 – digital
+34 Endress+Hauser
+5. To ensure that moisture does not enter the cable entry:
+Route the cable so that it loops down before the cable entry ("water trap").
+
+  A0029278
+6. Insert dummy plugs into unused cable entries.
+5.6  Post-connection check
+Are cables or the device undamaged (visual inspection)? 
+Do the cables used meet the requirements? 
+Do the cables have adequate strain relief? 
+Are all the cable glands installed, firmly tightened and leak-tight? Cable run with "water trap" →   33? 
+Is the potential equalization established correctly ? 
+
+[[page 35]]
+Flowmeter Proline 500 – digital Operation options
+Endress+Hauser 35
+6  Operation options
+6.1  Overview of operation options
+1 62
+E+-
+ESC
+53 4
+  A0034513
+1 Local operation via display module
+2 Computer with Web browser (e.g. Internet Explorer) or with operating tool (e.g. FieldCare, DeviceCare,
+AMS Device Manager, SIMATIC PDM)
+3 Field Xpert SFX350 or SFX370
+4 Field Xpert SMT70
+5 Mobile handheld terminal
+6 Control system (e.g. PLC)
+
+[[page 36]]
+Operation options Flowmeter Proline 500 – digital
+36 Endress+Hauser
+6.2  Structure and function of the operating menu
+6.2.1  Structure of the operating menu
+/UNIe019
+Expert
+Operating menu for experts
+Language
+Operation
+Setup
+Diagnostics
+Operating menu for operators and maintenances
+Operator
+Maintenance
+task-oriented
+function-oriented
+Expert
+  A0014058-EN
+ 6 Schematic structure of the operating menu
+6.2.2  Operating philosophy
+The individual parts of the operating menu are assigned to certain user roles (operator,
+maintenance etc.). Each user role contains typical tasks within the device lifecycle.
+For detailed information on the operating philosophy, see the Operating Instructions for
+the device.
+
+[[page 37]]
+Flowmeter Proline 500 – digital Operation options
+Endress+Hauser 37
+6.3  Access to the operating menu via the local display
+5
+4
+2.1
+2.2
+2.4
+2.5
+2.3
+2.6
+2 X X X X X X X
+l/s
+19.184 mA
+12.5
+3.1
+3.2
+Ã
+Español
+Français
+Language
+English
+Deutsch
+31.1
+1.3
+1.5
+1.6
+ESC
+E
+X X X X X X X
+20.50
+S
+mA
+1.4
+1.7
+1.2
+1
+Xxxxxxx
+A B C D E F G H I J K
+M N O P Q R S T U V W
+X Y
+L
+Z
++0.000 Xx
+0 1 2 3 4
++
+5 6 7 8 9
+–
+  A0014013
+1 Operational display with measured value shown as "1 value, max." (example)
+1.1 Device tag
+1.2 Display area for measured values (4-line)
+1.3 Explanatory symbols for measured value: Measured value type, measuring channel number, symbol
+for diagnostic behavior
+1.4 Status area
+1.5 Measured value
+1.6 Unit for the measured value
+1.7 Operating elements
+2 Operational display with measured value shown as "1 bar graph + 1 value" (example)
+2.1 Bar graph display for measured value 1
+2.2 Measured value 1 with unit
+2.3 Explanatory symbols for measured value 1: measured value type, measuring channel number
+2.4 Measured value 2
+2.5 Unit for measured value 2
+2.6 Explanatory symbols for measured value 2: measured value type, measuring channel number
+3 Navigation view: picklist of a parameter
+3.1 Navigation path and status area
+3.2 Display area for navigation:  designates the current parameter value
+4 Editing view: text editor with input mask
+5 Editing view: numeric editor with input mask
+
+[[page 38]]
+Operation options Flowmeter Proline 500 – digital
+38 Endress+Hauser
+6.3.1  Operational display
+Explanatory symbols for the measured value Status area
+• Depends on the device version, e.g.:
+–
+ : Volume flow
+–
+ : Mass flow
+–
+ : Density
+– G: Conductivity
+–
+ : Temperature
+•
+ : Totalizer
+•
+ : Output
+•
+ : Input
+•
+ : Measurement channel number 1)
+• Diagnostic behavior 2)
+–
+ : Alarm
+–
+ : Warning
+The following symbols appear in the status area of the
+operational display at the top right:
+• Status signals
+– F: Failure
+– C: Function check
+– S: Out of specification
+– M: Maintenance required
+• Diagnostic behavior
+–
+ : Alarm
+–
+ : Warning
+•
+ : Locking (locked via hardware))
+•
+ : Communication via remote operation is active.
+1) If there is more than one channel for the same measured variable type (totalizer, output etc.).
+2) For a diagnostic event that concerns the displayed measured variable.
+6.3.2  Navigation view
+Status area Display area
+The following appears in the status area of the navigation
+view in the top right corner:
+• In the submenu
+– The direct access code for the parameter you are
+navigating to (e.g. 0022-1)
+– If a diagnostic event is present, the diagnostic
+behavior and status signal
+• In the wizard
+If a diagnostic event is present, the diagnostic behavior
+and status signal
+• Icons for menus
+– : Operation
+– : Setup
+– : Diagnostics
+– : Expert
+• ▸: Submenus
+•
+ : Wizards
+•
+ : Parameters within a wizard
+• : Parameter locked
+6.3.3  Editing view
+Text editor Correction symbols under 
+Confirms selection.
+ Clears all entered characters.
+Exits the input without applying the changes.
+ Moves the input position one position to the
+right.
+Clears all entered characters.
+ Moves the input position one position to the left.
+Switches to the selection of the correction tools.
+ Deletes one character immediately to the left of
+the input position.
+Aa1
+Toggle
+• Between upper-case and lower-case letters
+• For entering numbers
+• For entering special characters
+
+[[page 39]]
+Flowmeter Proline 500 – digital Operation options
+Endress+Hauser 39
+Numeric editor
+Confirms selection.
+ Moves the input position one position to the left.
+Exits the input without applying the changes.
+. Inserts decimal separator at the input position.
+–
+Inserts minus sign at the input position.
+ Clears all entered characters.
+6.3.4  Operating elements
+Keys and meaning
+Enter key
+With an operational display
+Pressing the key briefly opens the operating menu.
+In a menu, submenu
+• Pressing the key briefly:
+– Opens the selected menu, submenu or parameter.
+– Starts the wizard.
+– If help text is open:
+Closes the help text of the parameter.
+• Pressing the key for 2 s in the case of a parameter:
+If present, opens the help text for the function of the parameter.
+With a wizard: Opens the editing view of the parameter.
+With a text and numeric editor
+• Press the key briefly: confirm your selection.
+• Press the key for 2 s: confirm the entry.
+Minus key
+• In a menu, submenu: Moves the selection bar upwards in a picklist.
+• With a wizard: Confirms the parameter value and goes to the previous parameter.
+• With a text and numeric editor: Moves the cursor position to the left.
+Plus key
+• In a menu, submenu: Moves the selection bar downwards in a picklist.
+• With a wizard: Confirms the parameter value and goes to the next parameter.
+• With a text and numeric editor: Moves the cursor position to the right.
++
+ Escape key combination (press keys simultaneously)
+In a menu, submenu
+• Pressing the key briefly:
+– Exits the current menu level and takes you to the next higher level.
+– If help text is open, closes the help text of the parameter.
+• Pressing the key for 2 s in the case of a parameter: Returns you to the operational display ("home position").
+With a wizard: Exits the wizard and takes you to the next higher level.
+With a text and numeric editor: Closes the editor view without applying any changes.
+
+[[page 40]]
+System integration Flowmeter Proline 500 – digital
+40 Endress+Hauser
+Keys and meaning
++
+ Minus/Enter key combination (press the keys simultaneously)
+With an operational display:
+• If keypad lock is active:
+Press the key for 3 s: Deactivates the keypad lock.
+• If keypad lock is not active:
+Press the key for 3 s: Opens the context menu including the option for activating the keypad lock.
+6.3.5  Further information
+For further information on the following topics, see the Operating Instructions for the
+device
+• Calling up help text
+• User roles and related access authorization
+• Disabling write protection via access code
+• Enabling and disabling the keypad lock
+6.4  Access to the operating menu via the operating tool
+The operating menu can also be accessed via the FieldCare and DeviceCare operating
+tools. See the Operating Instructions for the device.
+6.5  Access to the operating menu via the Web server
+The operating menu can also be accessed via the Web server. See the Operating
+Instructions for the device.
+7  System integration
+For detailed information on system integration, see the Operating Instructions for the
+device.
+• Overview of device description files:
+– Current version data for the device
+– Operating tools
+• Device master file (GSD)
+– Manufacturer-specific GSD
+– Profile GSD
+• Compatibility with previous model
+• Using the GSD modules of the previous model
+• Cyclic data transmission
+– Block model
+– Description of the modules
+
+[[page 41]]
+Flowmeter Proline 500 – digital Commissioning
+Endress+Hauser 41
+8  Commissioning
+8.1  Function check
+Before commissioning the measuring device:
+‣ Make sure that the post-installation and post-connection checks have been performed.
+• "Post-installation check" checklist →   12
+• "Post-connection check" checklist →   34
+8.2  Setting the operating language
+Factory setting: English or ordered local language
+X X X X X X XX X
+20.50
+Operation
+Setup
+Main menu 0104-1
+Display language
+English
+Español
+Français
+Display language
+English
+Deutsch
+Ã
+0104-1
+Ã
+Español
+Français
+Display language
+English
+Deutsch
+0104-1
+Betrieb
+Setup
+Hauptmenü
+Sprache
+Deutsch
+0104-1
+XXXX
+1.
+2.
+3.
+4.
+  A0029420
+ 7 Taking the example of the local display
+
+[[page 42]]
+Diagnostic information Flowmeter Proline 500 – digital
+42 Endress+Hauser
+8.3  Configuring the measuring device
+The Setup menu with its submenus and guided wizards is used for fast commissioning of the
+device. They contain all the parameters required for configuration, such as for measurement
+or communication.
+Depending on the device version, not all submenus and parameters are available in every
+device. The selection can vary depending on the order code.
+Example: Available submenus, wizards Meaning
+System units Configure the units for all measured values
+User interface Configure the display format on the local display
+Low flow cut off Set the low flow cut off
+Empty pipe detection Configure empty pipe detection
+Advanced setup Additional parameters for configuration:
+• Sensor adjustment
+• Totalizer
+• User interface
+• Electrode cleaning circuit
+• WLAN settings
+• Data backup
+• Administration
+8.4  Protecting settings from unauthorized access
+The following write protection options exist in order to protect the configuration of the
+measuring device from unintentional modification:
+• Protect access to parameters via access code
+• Protect access to local operation via key locking
+• Protect access to measuring device via write protection switch
+For detailed information on protecting the settings against unauthorized access, see the
+Operating Instructions for the device.
+9  Diagnostic information
+Faults detected by the self-monitoring system of the measuring device are displayed as a
+diagnostic message in alternation with the operational display. The message about remedial
+measures can be called up from the diagnostic message, and contains important information
+on the fault.
+
+[[page 43]]
+Flowmeter Proline 500 – digital Diagnostic information
+Endress+Hauser 43
+X X X X X X XX X X X X X X X X X XS S
+XX
+20.50
+X i
+S801
+Menu
+S
+(ID:203)
+S801   0d00h02m25s
+1
+2
+4
+6
+3
+5
+1.
+2.
+3.
+Increase supply voltage
+S801 Supply voltage
+Diagnostic list
+Diagnostics 1
+Diagnostics 2
+Diagnostics 3
+Supply voltage
+Supply voltage
+  A0029431-EN
+ 8 Message about remedial measures
+1 Diagnostic information
+2 Short text
+3 Service ID
+4 Diagnostic behavior with diagnostic code
+5 Operation time of occurrence
+6 Remedial measures
+1. The user is in the diagnostic message.
+Press  ( symbol).
+ The Diagnostic list submenu opens.
+2. Select the desired diagnostic event with  or  and press  .
+ The message about the remedial measures opens.
+3. Press  +  simultaneously.
+ The message about the remedial measures closes.
+
+[[page 44]]
+www.addresses.endress.com

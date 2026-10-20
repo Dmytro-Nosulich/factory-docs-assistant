@@ -1,0 +1,332 @@
+[[page 1]]
+Page 1/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+59.0
+SECTION 1: Identification of the substance/mixture and of the company/
+undertaking
+1.1 Product identifier
+Trade name: pH-Pufferlösung 12,00
+Synonym: pH Buffer Solution 12.00
+Article number: CPY20-M
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Product category PC21   Laboratory chemicals
+Application of the substance / the mixture Laboratory chemicals
+1.3 Details of the supplier of the safety data sheet
+Manufacturer/Supplier:
+Endress+Hauser
+Conducta GmbH+Co. KG
+Dieselstraße 24
+D-70839 Gerlingen
+Further information obtainable from:
+Phone: +49 (0)7156 209-10117
+E-Mail: MSDS.PCC@endress.com
+1.4 Emergency telephone number: Phone: +49(0)6131-19240
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Classification according to Regulation (EC) No 1272/2008
+The product is not classified, according to the CLP regulation.
+2.2 Label elements
+Labelling according to Regulation (EC) No 1272/2008 Void
+Hazard pictograms Void
+Signal word Void
+Hazard statements Void
+2.3 Other hazards
+The product does not contain any organic halogen compounds (AOX), nitrates, heavy metal compounds or
+formaldehydes.
+Results of PBT and vPvB assessment
+PBT: Not applicable.
+vPvB: Not applicable.
+* SECTION 3: Composition/information on ingredients
+3.2 Mixtures
+Description: aqueous solution
+Dangerous components: Void
+Additional information: For the wording of the listed hazard phrases refer to section 16.
+SECTION 4: First aid measures
+4.1 Description of first aid measures
+General information: No special measures required.
+After inhalation: Supply fresh air; consult doctor in case of complaints.
+After skin contact: Generally the product does not irritate the skin.
+After eye contact: Rinse opened eye for several minutes under running water.
+After swallowing: Rinse out mouth and then drink plenty of water.
+(Contd. on page 2)
+ EU
+
+[[page 2]]
+Page 2/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+Trade name: pH-Pufferlösung 12,00
+(Contd. of page 1)
+59.0
+4.2 Most important symptoms and effects, both acute and delayed
+No further relevant information available.
+4.3 Indication of any immediate medical attention and special treatment needed
+No further relevant information available.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing agents:
+CO2, powder or water spray. Fight larger fires with water spray or alcohol resistant foam.
+For safety reasons unsuitable extinguishing agents: no further information
+5.2 Special hazards arising from the substance or mixture No further relevant information available.
+5.3 Advice for firefighters No further relevant information available.
+Protective equipment: No special measures required.
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures Wear protective clothing.
+6.2 Environmental precautions: Dilute with plenty of water.
+6.3 Methods and material for containment and cleaning up:
+Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders, sawdust).
+6.4 Reference to other sections
+No dangerous substances are released.
+See Section 7 for information on safe handling.
+See Section 8 for information on personal protection equipment.
+See Section 13 for disposal information.
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling No special measures required.
+Information about fire - and explosion protection: No special measures required.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage:
+Requirements to be met by storerooms and receptacles: No special requirements.
+Information about storage in one common storage facility: Not required.
+Further information about storage conditions: None.
+Storage class: 12
+7.3 Specific end use(s) No further relevant information available.
+SECTION 8: Exposure controls/personal protection
+8.1 Control parameters
+Ingredients with limit values that require monitoring at the workplace:
+The product does not contain any relevant quantities of materials with critical values that have to be
+monitored at the workplace.
+Additional information: The lists valid during the making were used as basis.
+8.2 Exposure controls
+Appropriate engineering controls No further data; see section 7.
+Individual protection measures, such as personal protective equipment
+General protective and hygienic measures:
+The usual precautionary measures are to be adhered to when handling chemicals.
+Respiratory protection: Not required.
+Hand protection
+Protective gloves and protective skin cream
+(Contd. on page 3)
+ EU
+
+[[page 3]]
+Page 3/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+Trade name: pH-Pufferlösung 12,00
+(Contd. of page 2)
+59.0
+No chemical-protective gloves required.
+Material of gloves
+The selection of the suitable gloves does not only depend on the material, but also on further marks of
+quality and varies from manufacturer to manufacturer. As the product is a preparation of several
+substances, the resistance of the glove material can not be calculated in advance and has therefore to be
+checked prior to the application.
+Penetration time of glove material
+The exact break trough time has to be found out by the manufacturer of the protective gloves and has to be
+observed.
+Eye/face protection Not required.
+Body protection: Protective work clothing
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+General Information
+Physical state Fluid
+Colour: Colourless
+Odour: Odourless
+Odour threshold: Not determined.
+Melting point/freezing point: Undetermined.
+Boiling point or initial boiling point and boiling
+range 100 °C
+Flammability Not applicable.
+Lower and upper explosion limit
+Lower: Not determined.
+Upper: Not determined.
+Flash point: Not applicable.
+Decomposition temperature: Not determined.
+pH at 20 °C 12
+Viscosity:
+Kinematic viscosity Not determined.
+Dynamic: Not determined.
+Solubility
+water: Fully miscible.
+Partition coefficient n-octanol/water (log value) Not determined.
+Vapour pressure at 20 °C: 23 hPa
+Density and/or relative density
+Density at 20 °C: 1.002 g/cm³
+Relative density Not determined.
+Vapour density Not determined.
+9.2 Other information
+Appearance:
+Form: Fluid
+Important information on protection of health
+and environment, and on safety.
+Ignition temperature: Product is not selfigniting.
+Explosive properties: Product does not present an explosion hazard.
+Not determined.
+Solvent content:
+Water: 98.2 %
+Solids content: 0.0 %
+Change in condition
+Evaporation rate Not determined.
+(Contd. on page 4)
+ EU
+
+[[page 4]]
+Page 4/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+Trade name: pH-Pufferlösung 12,00
+(Contd. of page 3)
+59.0
+Information with regard to physical hazard
+classes
+Explosives Void
+Flammable gases Void
+Aerosols Void
+Oxidising gases Void
+Gases under pressure Void
+Flammable liquids Void
+Flammable solids Void
+Self-reactive substances and mixtures Void
+Pyrophoric liquids Void
+Pyrophoric solids Void
+Self-heating substances and mixtures Void
+Substances and mixtures, which emit flammable
+gases in contact with water Void
+Oxidising liquids Void
+Oxidising solids Void
+Organic peroxides Void
+Corrosive to metals Void
+Desensitised explosives Void
+SECTION 10: Stability and reactivity
+10.1 Reactivity No further relevant information available.
+10.2 Chemical stability
+Thermal decomposition / conditions to be avoided:
+No decomposition if used according to specifications.
+10.3 Possibility of hazardous reactions No dangerous reactions known.
+10.4 Conditions to avoid No further relevant information available.
+10.5 Incompatible materials: No further relevant information available.
+10.6 Hazardous decomposition products: No dangerous decomposition products known.
+SECTION 11: Toxicological information
+11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Acute toxicity Based on available data, the classification criteria are not met.
+Skin corrosion/irritation Based on available data, the classification criteria are not met.
+Serious eye damage/irritation Based on available data, the classification criteria are not met.
+Respiratory or skin sensitisation Based on available data, the classification criteria are not met.
+Germ cell mutagenicity Based on available data, the classification criteria are not met.
+Carcinogenicity Based on available data, the classification criteria are not met.
+Reproductive toxicity Based on available data, the classification criteria are not met.
+STOT-single exposure Based on available data, the classification criteria are not met.
+STOT-repeated exposure Based on available data, the classification criteria are not met.
+Aspiration hazard Based on available data, the classification criteria are not met.
+11.2 Information on other hazards
+Endocrine disrupting properties
+None of the ingredients is listed.
+SECTION 12: Ecological information
+12.1 Toxicity
+Aquatic toxicity: No further relevant information available.
+12.2 Persistence and degradability No further relevant information available.
+12.3 Bioaccumulative potential No further relevant information available.
+12.4 Mobility in soil No further relevant information available.
+(Contd. on page 5)
+ EU
+
+[[page 5]]
+Page 5/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+Trade name: pH-Pufferlösung 12,00
+(Contd. of page 4)
+59.0
+12.5 Results of PBT and vPvB assessment
+PBT: Not applicable.
+vPvB: Not applicable.
+12.6 Endocrine disrupting properties
+The product does not contain substances with endocrine disrupting properties.
+12.7 Other adverse effects
+Additional ecological information:
+General notes:
+Not hazardous for water.
+Rinse off of bigger amounts into drains or the aquatic environment may lead to increased pH-values. A
+high pH-value harms aquatic organisms. In the dilution of the use-level the pH-value is considerably
+reduced, so that after the use of the product the aqueous waste, emptied into drains, is only low water-
+dangerous.
+SECTION 13: Disposal considerations
+13.1 Waste treatment methods
+Recommendation Smaller quantities can be disposed of with household waste.
+European waste catalogue
+16 05 06* laboratory chemicals, consisting of or containing hazardous substances, including mixtures of
+laboratory chemicals
+Uncleaned packaging:
+Recommendation: Disposal must be made according to official regulations.
+Recommended cleansing agents: Water, if necessary together with cleansing agents.
+SECTION 14: Transport information
+14.1 UN number or ID number
+ADR, ADN, IMDG, IATA Void
+14.2 UN proper shipping name
+ADR, ADN, IMDG, IATA Void
+14.3 Transport hazard class(es)
+ADR, ADN, IMDG, IATA
+Class Void
+14.4 Packing group
+ADR, IMDG, IATA Void
+14.5 Environmental hazards:
+Marine pollutant: No
+14.6 Special precautions for user Not applicable.
+14.7 Maritime transport in bulk according to IMO
+instruments Not applicable.
+Transport/Additional information: Not dangerous according to the above specifications.
+UN "Model Regulation": Void
+SECTION 15: Regulatory information
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+Labelling according to Regulation (EC) No 1272/2008 Void
+Hazard pictograms Void
+Signal word Void
+Hazard statements Void
+Directive 2012/18/EU
+Named dangerous substances - ANNEX I None of the ingredients is listed.
+(Contd. on page 6)
+ EU
+
+[[page 6]]
+Page 6/6Safety data sheet
+according to Regulation (EC) No 1907/2006, Article 31
+Printing date 20.08.2024 Revision: 20.08.2024Version 4 (replaces version 3)
+Trade name: pH-Pufferlösung 12,00
+(Contd. of page 5)
+59.0
+DIRECTIVE 2011/65/EU on the restriction of the use of certain hazardous substances in electrical
+and electronic equipment – Annex II
+None of the ingredients is listed.
+REGULATION (EU) 2019/1148
+Annex I - RESTRICTED EXPLOSIVES PRECURSORS (Upper limit value for the purpose of licensing
+under Article 5(3))
+None of the ingredients is listed.
+Annex II - REPORTABLE EXPLOSIVES PRECURSORS
+None of the ingredients is listed.
+Regulation (EC) No 273/2004 on drug precursors
+None of the ingredients is listed.
+Regulation (EC) No 111/2005 laying down rules for the monitoring of trade between the Community
+and third countries in drug precursors
+None of the ingredients is listed.
+15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+SECTION 16: Other information
+This information is based on our present knowledge. However, this shall not constitute a guarantee for any
+specific product features and shall not establish a legally valid contractual relationship.
+16.3 Recommended restriction of use
+Department issuing SDS: PCC-TWR
+Contact: MSDS.pcc@endress.com
+Date of previous version: 08.03.2021
+Version number of previous version: 3 
+Abbreviations and acronyms:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the
+International Carriage of Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+* Data compared to the previous version altered.
+ EU

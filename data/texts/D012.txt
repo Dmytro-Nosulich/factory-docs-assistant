@@ -1,0 +1,60 @@
+[[page 1]]
+SRM 741a  Page 1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE:  27 August 2020 
+ 
+Product Identifier 
+SRM Number: 741a 
+SRM Name: Tin Freezing-Point Standard  
+  
+Under the U.S. Department of Labor , Occupational Safety and Health Administration  (OSHA) 29 CFR 1910.1200, 
+this Standard Reference Material (SRM) is NOT classified as a physical hazard or a health hazard, a simple asphyxiant, 
+combustible dust, pyrophoric gas, or hazard not otherwise classif ied.  There are no hazard pictograms, hazard 
+statements or signal word associated with it.   Safety Data Sheet information is not required.  This document may be 
+used in conjunction with your hazard communication program. 
+ 
+Exemption:  1910.1200 (c).  This SRM is an Article, as the word is defined by OSHA, where Article means a 
+manufactured item other than a fluid or particle:  (i) which is formed to a specific shape or design during manufacture; 
+(ii) which has end use function(s) dependent in whole or in part upon its shape or design during end use; and (iii) 
+which under normal conditions of use does not release more than very small quantities, e.g., minute or trace amounts 
+of a hazardous chemical (as determined under paragraph (d) of 1910.1200), and does not pose a physical hazard or 
+health risk to employees.  
+ 
+Description:  This SRM is intended primarily for use as one of the defining fixed points of the International 
+Temperature Scale of 1990 (ITS-90).  A unit of SRM  741a consists of 200 g of tin in the form of millimeter size 
+teardrop shot sealed in an argon atmosphere in a plas tic bottle. 
+ 
+Disposal:  SRM 741a should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Transport Information:   This material is not regulated by the U.S. Department of Transportation  (DOT) and/or 
+International Air Transport Association (IATA). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  The NIST information in this document is specific to the NIST product and is believed to be correct, 
+based upon our current knowledge.  This document may not necessarily be all inclusive and should be used only as a 
+guide.  NIST does not guarantee the accuracy or completeness of this information.  The only official source for specific 
+values and uncertainties is the certificate or report. 
+Users of this SRM should ensure that this document and the corresponding Certificate of Analysis in their possession 
+are current.  This can be  accomplished by contacting the SRM Program:   telephone (301 ) 975-2200; 
+fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at https://www.nist.gov/srm.
