@@ -1,0 +1,710 @@
+[[page 1]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+1/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+ 
+SECTION 1: Identification of the substance/mixture and of the company/undertaking 
+ 
+1.1 Product identifier  
+Product name :  Nitrogen, compressed 
+ 
+Trade name :  BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitroge n 4.0, Nitrogen 4.6 
+Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 
+Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, 
+Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, 
+Nitrogen VERISEQ® Research 
+ 
+Additional identification  
+Chemical name :  Nitrogen  
+ 
+Chemical formula :  N2  
+INDEX No.  - 
+CAS -No.  7727-37-9 
+EC No.  231-783-9 
+REACH Registration No.  Listed in Annex IV/V of Regulation (EC) No 1907/200 6 (REACH), exempted 
+from registration.  
+ 
+1.2 Relevant identified uses of the substance or mixture and uses advised against  
+Identified uses :  Industrial and professional. Perform risk assessment prior to use.  
+Aerosol propellant. Balance gas for mixtures. Blanketing gas. Calibration gas. 
+Carrier gas. Fire suppressant gas. Food packaging gas. Inerting gas. Inflating 
+tyres. Laboratory use. Laser gas. Pressure head gas, operational assist gas in 
+pressure systems. Process gas. Purge gas. Test gas.  
+Consumer use. 
+Beverage applications. Shielding gas in gas welding.  
+It is the responsibility of the end user to ensure that the product as supplied is 
+suitable for its intended use.  
+Uses advised against  Industrial or technical grade is unsuitable for medical and/or food 
+applications or inhalation. 
+ 
+1.3 Details of the supplier of the safety data shee t 
+Supplier  
+Linde Gas AB 
+Rättarvägen 3, 169 68 Solna, Sweden  
+Telephone : +46 8 7069500 
+ 
+ 
+E-mail: sds.ren@linde.com 
+ 
+1.4 Emergency telephone number: Poison center: 020-99 60 00 (24 h). Emergency number: 112
+
+[[page 2]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+2/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+SECTION 2: Hazards identification 
+ 
+2.1 Classification of the substance or mixture 
+ 
+Classification according to Regulation (EC) No 1272/2008 as amended. 
+Physical Hazards 
+Gases under pressure  Compressed gas H280: Contains gas under pressure; m ay explode if 
+heated.  
+ 
+2.2  Label Elements   
+ 
+ 
+Signal Words : Warning 
+ 
+Hazard Statement(s) : H280 : Contains gas under pressure; may explode if heated. 
+ 
+Precautionary Statements 
+Prevention : None. 
+ 
+Response : None. 
+ 
+Storage : P403: Store in a well-ventilated place.  
+ 
+Disposal : None. 
+ 
+Supplemental label information 
+EIGA-As: Asphyxiant in high concentrations. 
+ 
+2.3 Other hazards : None.
+
+[[page 3]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+3/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+SECTION 3: Composition/information on ingredients 
+ 
+3.1 Substances 
+ 
+Chemical name  Nitrogen  
+INDEX No. : - 
+CAS -No. : 7727-37-9 
+EC No. : 231-783-9 
+REACH Registration No. : Listed in Annex IV/V of Regulation (EC) No 1907/200 6 (REACH), exempted from 
+registration.  
+Purity : 100% 
+The purity of the substance in this section is used for classification only, and does 
+not represent the actual purity of the substance as supplied, for which other 
+documentation should be consulted.  
+Trade name : BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, 
+Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, 
+Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 
+Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® 
+Research  
+ 
+SECTION 4: First aid measures  
+ 
+General :  In high concentrations may cause asphyxiat ion. Symptoms may include loss of 
+mobility/consciousness. Victim may not be aware of asphyxiation. Remove victim 
+to uncontaminated area wearing self contained breathing apparatus. Keep victim 
+warm and rested. Call a doctor. Apply artificial respiration if breathing stopped.  
+ 
+4.1 Description of first aid measures 
+Inhalation :  In high concentrations may cause asphyxiation. Sy mptoms may include loss of 
+mobility/consciousness. Victim may not be aware of asphyxiation. Remove victim 
+to uncontaminated area wearing self contained breathing apparatus. Keep victim 
+warm and rested. Call a doctor. Apply artificial respiration if breathing stopped.  
+ 
+Eye contact : Adverse effects not expected from this product.  
+ 
+Skin Contact : Adverse effects not expected from this product.  
+ 
+Ingestion : Ingestion is not considered a potential route of exposure.   
+ 
+4.2 Most important symptoms and 
+effects, both acute and 
+delayed: 
+Respiratory arrest.  
+ 
+4.3 Indication of any immediate medical attention a nd special treatment needed  
+Hazards : None.  
+ 
+Treatment : None.
+
+[[page 4]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+4/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+SECTION 5: Firefighting measures 
+ 
+General Fire Hazards : Heat may cause the containers to explode.  
+ 
+5.1 Extinguishing media 
+Suitable extinguishing media : Material will not burn. In case of fire in the surroundings: use appropriate 
+extinguishing agent.  
+ 
+Unsuitable extinguishing 
+media: 
+None.   
+ 
+5.2 Special hazards arising from the 
+substance or mixture: 
+None.  
+ 
+Hazardous Combustion Products : None.  
+ 
+5.3 Advice for firefighters  
+Special fire fighting 
+procedures: 
+In case of fire: Stop leak if safe to do so. Continue water spray from protected 
+position until container stays cool. Use extinguishants to contain the fire. Isolate 
+the source of the fire or let it burn out.  
+ 
+Special protective equipment 
+for fire-fighters: 
+Firefighters must use standard protective equipment including flame retardant 
+coat, helmet with face shield, gloves, rubber boots, and in enclosed spaces, SCBA.  
+Guideline: EN 469 Protective clothing for firefighters. Performance requirements 
+for protective clothing for firefighting. EN 15090 Footwear for firefighters. EN 659 
+Protective gloves for firefighters. EN 443 Helmets for fire fighting in buildings and 
+other structures. EN 137 Respiratory protective devices - Self-contained open-
+circuit compressed air breathing apparatus with full face mask - Requirements, 
+testing, marking.  
+ 
+SECTION 6: Accidental release measures 
+ 
+6.1 Personal precautions, 
+protective equipment and 
+emergency procedures: 
+Evacuate area. Provide adequate ventilation. Prevent from entering sewers, 
+basements and workpits, or any place where its accumulation can be dangerous. 
+Wear self-contained breathing apparatus when entering area unless atmosphere 
+is proved to be safe. Guideline EN 137 Respiratory protective devices - Self-
+contained open-circuit compressed air breathing apparatus with full face mask - 
+Requirements, testing, marking.  
+ 
+6.2 Environmental Precautions : Prevent further leakage or spillage if safe to do so.  
+ 
+6.3 Methods and material for 
+containment and cleaning up: 
+Provide adequate ventilation.  
+ 
+6.4 Reference to other sections : Refer to sections 8 and 13.
+
+[[page 5]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+5/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+SECTION 7: Handling and storage: 
+ 
+7.1 Precautions for safe handling : Only experienced and properly instructed persons should handle gases under 
+pressure. Use only properly specified equipment which is suitable for this product, 
+its supply pressure and temperature. Refer to supplier's handling instructions. The 
+substance must be handled in accordance with good industrial hygiene and safety 
+procedures. Protect containers from physical damage; do not drag, roll, slide or 
+drop. Do not remove or deface labels provided by the supplier for the 
+identification of the container contents. When moving containers, even for short 
+distances, use appropriate equipment eg. trolley, hand truck, fork truck etc. 
+Secure cylinders in an upright position at all times, close all valves when not in 
+use. Provide adequate ventilation. Suck back of water into the container must be 
+prevented. Do not allow backfeed into the container. Avoid suckback of water, 
+acid and alkalis. Keep container below 50°C in a well ventilated place. Observe all 
+regulations and local requirements regarding storage of containers. When using 
+do not eat, drink or smoke. Store in accordance with 
+local/regional/national/international regulations. Never use direct flame or 
+electrical heating devices to raise the pressure of a container. Leave valve 
+protection caps in place until the container has been secured against either a wall 
+or bench or placed in a container stand and is ready for use. Damaged valves 
+should be reported immediately to the supplier Close container valve after each 
+use and when empty, even if still connected to equipment. Never attempt to 
+repair or modify container valves or safety relief devices. Replace valve outlet 
+caps or plugs and container caps where supplied as soon as container is 
+disconnected from equipment. Keep container valve outlets clean and free from 
+contaminates particularly oil and water. If user experiences any difficulty 
+operating container valve discontinue use and contact supplier. Never attempt to 
+transfer gases from one container to another. Container valve guards or caps 
+should be in place.  
+ 
+7.2 Conditions for safe storage, 
+including any incompatibilities: 
+Containers should not be stored in conditions likely to encourage corrosion. Stored 
+containers should be periodically checked for general conditions and leakage. 
+Container valve guards or caps should be in place. Store containers in location free 
+from fire risk and away from sources of heat and ignition. Keep away from 
+combustible material.  
+ 
+7.3 Specific end use(s) : None.  
+ 
+SECTION 8: Exposure controls/personal protection  
+ 
+8.1 Control Parameters  
+Occupational Exposure Limits 
+None of the components have assigned exposure limits.
+
+[[page 6]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+6/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+8.2 Exposure controls  
+Appropriate engineering 
+controls: 
+Consider a work permit system e.g. for maintenance activities. Ensure adequate 
+air ventilation. Provide adequate ventilation, including appropriate local 
+extraction, to ensure that the defined occupational exposure limit is not 
+exceeded. Oxygen detectors should be used when asphyxiating gases may be 
+released. Systems under pressure should be regularly checked for leakages. 
+Preferably use permanent leak tight connections (eg. welded pipes). Do not eat, 
+drink or smoke when using the product.  
+ 
+Individual protectio n measures, such as personal protective equipment  
+ 
+General information : A risk assessment should be conducted and documented in each work area to 
+assess the risks related to the use of the product and to select the PPE that 
+matches the relevant risk. The following recommendations should be considered. 
+Keep self contained breathing apparatus readily available for emergency use. 
+Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved.  
+ 
+Eye/face protection : Wear eye protection to EN 166 when using gases.  
+Guideline: EN 166 Personal Eye Protection.  
+ 
+Skin protection  
+Hand Protection : Wear working gloves while handling containers  
+Guideline: EN 388 Protective gloves against mechanical risks.  
+ 
+Body protection : No special precautions.  
+ 
+Other : Wear safety shoes while handling containers  
+Guideline: ISO 20345 Personal protective equipment - Safety footwear.  
+ 
+Respiratory Protection : Not required.   
+ 
+Thermal hazards : No precautionary measures are necessary.  
+ 
+Hygiene measures : Specific risk management measures are not required  beyond good industrial 
+hygiene and safety procedures. Do not eat, drink or smoke when using the 
+product.  
+ 
+Environmental exposure 
+controls: 
+For waste disposal, see section 13 of the SDS.  
+ 
+SECTION 9: Physical and chemical properties  
+ 
+9.1 Information on basic physical and chemical properties 
+Appearance 
+Physical state : Gas  
+Form : Compressed gas  
+Color : Colorless
+
+[[page 7]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+7/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Odor : Odorless gas  
+Odor Threshold : Odor threshold is subjective and is inadequate to warn of over 
+exposure. 
+pH : Not applicable. 
+Melting Point : -210,01 °C  
+Boiling Point : -196 °C  
+Sublimation Point : Not applicable . 
+Critical Temp. ( °C) : -147,0 °C  
+Flash Point : Not applicable to gases and gas mixtures. 
+Evaporation Rate : Not applicable to gases and gas mixtures. 
+Flammability (solid, gas) : This product is not flammable. 
+Flammability Limit - Upper (%) : Not applicable. 
+Flammability Limit - Lower (%) : Not applicable . 
+Vapor pressure : No reliable data available. 
+Vapor density (air=1) : 0,97  
+Relative density : 0,8  
+Solubility(ies)  
+Solubility in Water : 20 mg/l  
+Partition coefficient (n -octanol/water) : 0,67   
+Autoignition Temperature : Not applicable. 
+Decomposition Temperature : Not known. 
+Viscosity   
+Kinematic viscosity : No data available.  
+Dynamic viscosity : 0,171 mPa.s (10,9 °C)  
+Explosive properties : Not applicable.  
+Oxidizing properties : Not applicable . 
+ 
+9.2 Other information : None.  
+ 
+Molecular weight : 28,01 g/mol (N2) 
+ 
+SECTION 10: Stability and reactivity  
+ 
+10.1 Reactivity : No reactivity hazard other than the effects described in sub-section below.  
+ 
+10.2 Chemical Stability : Stable under normal conditions.  
+ 
+10.3 Possibility of hazardous 
+reactions: 
+None.   
+ 
+10.4 Conditions to avoid : None.
+
+[[page 8]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+8/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+10.5 Incompatible Materials : No reaction with any common materials in dry or wet conditions.  
+ 
+10.6 Hazardous Decomposition 
+Products: 
+Under normal conditions of storage and use, hazardous decomposition products 
+should not be produced.  
+ 
+SECTION 11: Toxicological information  
+ 
+General information : None.  
+ 
+11.1 Information on toxicological effects 
+ 
+Acute toxicity - Oral  
+Product  Based on available data, the classification criteria are not met. 
+ 
+ 
+Acute toxicity - Dermal 
+Product  Based on available data, the classification criteria are not met. 
+ 
+ 
+Acute toxicity - Inhalation 
+Product  Based on available data, the classification criteria are not met.  
+ 
+Skin Corrosion/Irritation  
+Product  Based on available data, the classification criteria are not met. 
+ 
+Serious Eye Damage/Eye Irritation 
+Product  Based on available data, the classification criteria are not met. 
+ 
+Respiratory or Skin Sensitization 
+Product  Based on available data, the classification criteria are not met. 
+ 
+Germ Cell Mutagenicity 
+Product  Based on available data, the classification criteria are not met. 
+ 
+Carcinogenicity 
+Product  Based on available data, the classification criteria are not met.  
+ 
+Reproductive toxicity 
+Product  Based on available data, the classification criteria are not met. 
+ 
+Specific Target Organ Toxicity - Single Exposure 
+Product  Based on available data, the classification criteria are not met. 
+ 
+Specific Target Organ Toxicity - Repeated Exposure 
+Product  Based on available data, the classification criteria are not met.
+
+[[page 9]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+9/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Aspiration Hazard 
+Product  Not applicable to gases and gas mixtures.. 
+ 
+SECTION 12: Ecological information  
+ 
+12.1 Toxicity   
+ 
+Acute toxicity 
+Product  No ecological damage caused by this product.  
+ 
+12.2 Persistence and Degradability    
+Product  The substance is naturally occurring.  
+ 
+12.3 Bioaccumulative potential   
+Product  The subject product is expected to biodegrade and is not expected to persist for 
+long periods in an aquatic environment.  
+ 
+12.4 Mobility in soil   
+Product  The substance is a gas, not applicable.  
+ 
+12.5 Results of PBT and vPvB 
+assessment 
+ 
+Product  Not classified as PBT or vPvB.  
+ 
+12.6 Other adverse effects : No ecological damage caused by this product.  
+ 
+SECTION 13: Disposal considerations  
+ 
+13.1 Waste treatment methods 
+ 
+General information : Do not discharge into any place where its accumulation could be dangerous. Vent 
+to atmosphere in a well ventilated place.  
+ 
+Disposal methods : Refer to the EIGA code of practice (Doc.30 "Disposal of Gases", downloadable at 
+http://www.eiga.org) for more guidance on suitable disposal methods. Dispose 
+of container via supplier only. Discharge, treatment, or disposal may be subject to 
+national, state, or local laws.   
+ 
+European Waste Codes 
+Container : 16 05 05: Gases in pressure containers other than those mentioned in 16 05 
+04.
+
+[[page 10]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+10/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+SECTION 14: Transport information  
+ 
+ 
+ 
+ADR  
+14.1 UN Number: UN 1066  
+14.2 UN Proper Shipping Name : NITROGEN, COMPRESSED  
+14.3 Transport Hazard Class(es)  
+Class: 2  
+Label(s): 2.2  
+Hazard No. (ADR): 20  
+Tunnel restriction code: (E) 
+14.4 Packing Group : – 
+14.5 Environmental hazards: Not applicable 
+14.6 Special precautions for user: – 
+ 
+RID  
+ 
+14.1 UN Number: UN 1066  
+14.2 UN Proper Shipping Name NITROGEN, COMPRESSED  
+14.3 Transport Hazard Class(es)  
+Class : 2 
+Label(s): 2.2  
+14.4 Packing Group: – 
+14.5 Environmental hazards: Not applicable 
+14.6 Special precautions for user: – 
+ 
+IMDG  
+14.1 UN Number: UN 1066  
+14.2 UN Proper Shipping Name: NITROGEN, COMPRESSED 
+14.3 Transport Hazard Class(es)  
+Class : 2.2  
+Label(s): 2.2  
+EmS No.: F-C, S-V 
+14.4 Packing Group: – 
+14.5 Environmental hazards: Not applicable 
+14.6 Special precautions for user: –
+
+[[page 11]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+11/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+IATA  
+ 
+14.1 UN Number: UN 1066 
+14.2 Proper Shipping Name: Nitrogen, compressed 
+14.3 Transport Hazard Class(es) :  
+Class: 2.2  
+Label(s): 2.2  
+14.4 Packing Group: – 
+14.5 Environmental hazards: Not applicable 
+14.6 Special precautions for user: – 
+Other information 
+Passenger and cargo aircraft: Allowed.  
+Cargo aircraft only: Allowed.  
+ 
+14.7 Transport in bulk according to Annex II of MAR POL and the IBC Code : Not applicable 
+ 
+Additional identification : Avoid transport on vehicles where the load space is not separated from 
+the driver's compartment. Ensure vehicle driver is aware of the potential 
+hazards of the load and knows what to do in the event of an accident or 
+an emergency. Before transporting product containers ensure that they 
+are firmly secured. Ensure that the container valve is closed and not 
+leaking. Container valve guards or caps should be in place. Ensure 
+adequate air ventilation.  
+ 
+ 
+SECTION 15: Regulatory information  
+ 
+15.1 Safety, health and environmental regulations/l egislation specific for the substance or mixture: 
+ 
+ 
+EU. Directive 2012/18/EU (SEVESO III) on major acci dent hazards involving dangerous substances, as ame nded.:  
+Not applicable 
+ 
+National Regulations 
+ 
+Council Directive 89/391/EEC on the introduction of measures to encourage 
+improvements in the safety and health of workers at work Directive 89/686/EEC on 
+personal protective equipment Only products that comply with the food regulations 
+(EC) No. 1333/2008 and (EU) No. 231/2012 and are labelled as such may be used as 
+food additives. 
+This Safety Data Sheet has been produced to comply with Regulation (EU) 2015/830. 
+ 
+15.2 Chemical safety assessment : No Chemical Safety Assessment has been carried out.  
+ 
+SECTION 16: Other information  
+ 
+Revision Information : Not relevant.
+
+[[page 12]]
+SAFETY DATA SHEET 
+Nitrogen, compressed 
+Issue Date: 
+Last revised date: 
+16.01.2013 
+20.02.2020  
+Version: 1.3 SDS No.: 000010021697 
+12/12 
+ 
+ 
+SDS_SE - 000010021697  
+ 
+ 
+Key literature references and 
+sources for data: 
+Various sources of data have been used in the compilation of this SDS, they include 
+but are not exclusive to: 
+Agency for Toxic Substances and Diseases Registry (ATSDR) 
+(http://www.atsdr.cdc.gov/). 
+European Chemical Agency: Guidance on the Compilation of Safety Data Sheets. 
+European Chemical Agency: Information on Registered Substances 
+http://apps.echa.europa.eu/registered/registered-sub.aspx#search 
+European Industrial Gases Association (EIGA) Doc. 169 Classification and Labelling 
+guide. 
+International Programme on Chemical Safety (http://www.inchem.org/) 
+ISO 10156:2010 Gases and gas mixtures  -  Determination of fire potential and 
+oxidizing ability for the selection of cylinder valve outlets. 
+Matheson Gas Data Book, 7th Edition. 
+National Institute for Standards and Technology (NIST) Standard Reference Database 
+Number 69. 
+The ESIS (European chemical Substances 5 Information System) platform of the 
+former European Chemicals Bureau (ECB) ESIS (http://ecb.jrc.ec.europa.eu/esis/). 
+The European Chemical Industry Council (CEFIC) ERICards. 
+United States of America’s National Library of Medicine’s toxicology data network 
+TOXNET (http://toxnet.nlm.nih.gov/index.html) 
+Threshold Limit Values (TLV) from the American Conference of Governmental 
+Industrial Hygienists (ACGIH). 
+Substance specific information from suppliers. 
+Details given in this document are believed to be correct at the time of publication.  
+ 
+Wording of the H-statements in section 2 and 3  
+H280 Contains gas under pressure; may explode if he ated. 
+ 
+Classification according to Regulation (EC) No 1272/2008 as amended. 
+Press. Gas Compr. Gas, H280  
+ 
+Other information : Before using this product in any new process or experiment, a thorough material 
+compatibility and safety study should be carried out. Ensure adequate air ventilation. 
+Ensure all national/local regulations are observed. Whilst proper care has been 
+taken in the preparation of this document, no liability for injury or damage resulting 
+from its use can be accepted.  
+ 
+Last revised date : 20.02.2020 
+Disclaimer : This information is provided without warranty. The information is believed to be 
+correct.  This information should be used to make an independent determination of 
+the methods to safeguard workers and the environment.

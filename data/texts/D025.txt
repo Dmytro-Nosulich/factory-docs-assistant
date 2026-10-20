@@ -1,0 +1,62 @@
+[[page 1]]
+05.02.2025 Ed.1
+Polypropylene
+BE55
+Polypropylene Homopolymer
+Description
+BE55 is a high molecular weight, low melt flow rate polypropylene homopolymer. The product is available in natural colour.
+Applications
+BE55 is intended for following applications:
+Sheets and profiles Non-pressure pipe systems
+Physical properties
+Property Typical value * Unit Test method
+Melt flow rate (230 °C/2.16 kg)  0.35 g/10min ISO 1133-1
+Tensile stress at yield (50 mm/min)  36 MPa ISO 527-2
+Tensile modulus  1700 MPa ISO 527-2
+Tensile strain at yield (50 mm/min)  10 % ISO 527-2
+Vicat softening temperature A50 (10 N)  150 °C ISO 306
+Charpy impact strength, notched (23 °C)  9 kJ/m² ISO 179-1/1eA
+Charpy impact strength, notched (-20 °C)  2 kJ/m² ISO 179-1/1eA
+* Data should not be used for specification work
+ 
+Processing techniques
+The actual conditions will depend on the application and type of equipment used. Please contact your local Borealis representative for specific
+recommendations.
+Processing setting Typical value/range
+Cylinder temperature  190 - 210 °C
+Head temperature  200 - 230 °C
+Die temperature  200 - 230
+Melt temperature  200 - 230
+ 
+Packaging and storage
+BE55 should be stored in dry conditions at temperatures below 50°C and protected from UV-light. Improper storage can initiate degradation, which can 
+result in odour generation and colour changes and can have negative effects on the physical properties of this product.
+Product compliance documents
+Latest versions of product safety information sheets (PSIS), product safety data sheets (SDS) and other product liability documents are available on our 
+website www.borealisgroup.com.
+1/2
+
+[[page 2]]
+Polypropylene
+BE55
+Sustainability aspects
+Borealis is ever mindful of the impact of our products on the planet. We promote Design for Circularity (DfC) and Design for Recycling (DfR) to conserve 
+natural resources and to reduce the environmental impact of products over their entire lifetime (including production, use phase and after phase). DfR 
+helps ensure that material can be effectively recycled while maximizing the material performance efficiency. 
+Further information on sustainability and Design for Recycling (DfR) can be found from our websites www.borealisgroup.com and 
+www.borealiseverminds.com.
+Disclaimer
+The product(s) mentioned herein are not intended to be used for medical, pharmaceutical or healthcare applications and we do not support their use for such 
+applications. 
+To the best of our knowledge, the information contained herein is accurate and reliable as of the date of publication; however we do not assume any liability whatsoever 
+for the accuracy and completeness of such information. 
+Borealis makes no warranties which extend beyond the description contained herein. Nothing herein shall constitute any warranty of merchantability or fitness for a 
+particular purpose. 
+It is the customer's responsibility to inspect and test our products in order to satisfy itself as to the suitability of the products for the customer's particular purpose. The 
+customer is responsible for the appropriate, safe and legal use, processing and handling of our products. 
+No liability can be accepted in respect of the use of any Borealis product in conjunction with any other products and/or materials. The information contained herein relates 
+exclusively to our products when not used in conjunction with any other material unless as specifically provided for in the test methods stated above.
+2/2
+Borealis AG | Trabrennstrasse 6-8 | A-1020 Vienna | Austria
+Telephone: +43 1 22 400 0* | Fax: +43 1 22 400 333
+Website www.borealisgroup.com

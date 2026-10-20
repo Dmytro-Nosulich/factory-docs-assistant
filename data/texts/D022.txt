@@ -1,0 +1,3395 @@
+[[page 1]]
+TPE, TPED Series 2000
+Інструкції  з монтажу  та експлуатації
+ІНСТРУКЦІЇ  GRUNDFOS
+
+[[page 2]]
+Декларація відповідності
+2
+Декларація відповідності
+GB: EC declaration of conformity
+We, Grundfos, declare under our sole responsibility that the products 
+TPE and TPED Series 2000, to which this declaration relates, are in 
+conformity with these Council directiv es on the approximation of the laws 
+of the EC member states:
+— Machinery Directive (2006/42/EC).
+Standard used: EN 809:1998 + A1:2009.
+— EMC Directive (2004/108/EC).
+Standard used: EN 61800-3:2005.
+— R&TTE Directive (1999/5/EC).
+Standard used: ETSI EN 300 328 V1.7 (2006-10).
+— Ecodesign Directive (2009/125/EC).
+Water pumps:
+Commission Regulation No 547/2012.
+Applies only to water pumps marked with the minimum efficiency 
+index MEI. See pump nameplate.
+This EC declaration of conformity is  only valid when published as part of 
+the Grundfos installation and operating instructions (publication number 
+98476041 0813).
+BG: EC декларация  за съответствие
+Ние, фирма Grundfos, заявяваме  с пълна отговорност, че продуктите  
+TPE и TPED Series 2000, за които се отнася настоящата  декларация , 
+отговарят на следните  указания  на Съвета за уеднаквяване  на 
+правните  разпоредби  на държавите  членки на ЕС:
+— Директива  за машините  (2006/42/EC).
+Приложен  стандарт : 809:1998 + A1:2009.
+— Директива  за електромагнитна  съвместимост  (2004/108/EC).
+Приложен  стандарт : EN 61800-3:2005.
+—R & T T E  Директива  (1999/5/EC).
+Приложен  стандарт : ETSI EN 300 328 V1.7 (2006-10).
+— Директива  за екодизайн  (2009/125/EC).
+Водни помпи:
+Наредба No 547/2012 на Европейската  комисия .
+Отнася се само за водни помпи, маркирани  с минималният  
+индекс  за ефективност  MEI. Вижте табелата с данни на помпата.
+Тази ЕС декларация  за съответствие  е валидна  само когато е 
+публикувана  като част от инструкциите  за монтаж и експлоатация  на 
+Grundfos ( номер на публикацията  98476041 0813).
+CZ: ES prohlášení o shod ě
+My firma Grundfos prohlašujeme na svou plnou odpov ědnost, že výrobky 
+TPE a TPED Series 2000, na n ěž se toto prohlášení vztahuje, jsou v 
+souladu s ustanoveními sm ěrnice Rady pro sblížení právních p ředpis ů 
+členských stát ů Evropského spole čenství v oblastech:
+—S m ěrnice pro strojní za řízení (2006/42/ES).
+Použitá norma: EN 809:1998 + A1:2009.
+—S m ěrnice pro elektromagnetickou kompatibilitu (EMC) 
+(2004/108/ES).
+Použitá norma: EN 61800-3:2005.
+—R & T T E  s měrnice (1999/5/ES).
+Použitá norma: ETSI EN 300 328 V1.7 (2006-10).
+—S m ěrnice o ekodesignu (2009/125/ES).
+Vodní čerpadla:
+Nařízení Komise č. 547/2012.
+Vztahuje se pouze na vodní čerpadla ozna čená minimální ú činností 
+index MEI. Viz typový štítek čerpadla.
+Toto ES prohlášení o shod ě je platné pouze tehdy, pokud je zve řejněno 
+jako sou část instala čních a provozních návod ů Grundfos (publikace číslo 
+98476041 0813).
+DK: EF-overensstemmelseserklæring
+Vi, Grundfos, erklærer under ansvar at  produkterne TPE og TPED Series 
+2000 som denne erklæring omhandler, er i overensstemmelse med disse 
+af Rådets direktiver om indbyrdes tilnærmelse til EF-medlemsstaternes 
+lovgivning:
+— Maskindirektivet (2006/42/EF).
+Anvendt standard: EN 809:1998 + A1:2009.
+— EMC-direktivet (2004/108/EF).
+Anvendt standard: EN 61800-3:2005.
+— R&TTE-direktiv (1999/5/EF).
+Anvendt standard: ETSI EN 300 328 V1.7 (2006-10).
+— Ecodesigndirektivet (2009/125/EF).
+Vandpumper:
+Kommissionens forordning nr. 547/2012.
+Gælder kun vandpumper der er mærket med 
+mindsteeffektivitetsindekset MEI. Se pumpens typeskilt.
+Denne EF-overensstemmelseserklæring er kun gyldig når den publiceres 
+som en del af Grundfos-monterings- og driftsinstruktionen 
+(publikationsnummer 98476041 0813).
+DE: EG-Konformitätserklärung
+Wir, Grundfos, erklären in alleiniger Verantwortung, dass die Produkte 
+TPE und TPED Series 2000, auf die sich diese Erklärung bezieht, mit 
+den folgenden Richtlinien des Rates zur Angleichung der 
+Rechtsvorschriften der EU-Mitgliedsstaaten übereinstimmen:
+— Maschinenrichtlinie (2006/42/EG).
+Norm, die verwendet wurde: EN 809:1998 + A1:2009.
+— EMV-Richtlinie (2004/108/EG).
+Norm, die verwendet wurde: EN 61800-3:2005.
+— Richtlinie über Funkanlagen und Telekommunikationsendeinrichtun-
+gen (1999/5/EG).
+Norm, die verwendet wurde: ETSI EN 300 328 V1.7 (2006-10).
+— ErP-Richtlinie (2009/125/EG).
+Wasserpumpen:
+Verordnung der Europäischen Kommission Nr. 547/2012.
+Gilt nur für Pumpen, für die der Mindesteffizienzindex (MEI) 
+anzugeben ist. Siehe Typenschild der Pumpe.
+Diese EG-Konformitätserklärung gilt nur, wenn sie in Verbindung mit der 
+Grundfos Montage- und Betriebsanleitung (Veröffentlichungsnummer 
+98476041 0813) veröffentlicht wird.
+EE: EL vastavusdeklaratsioon
+Meie, Grundfos, deklareerime enda ainuvastutusel, et tooted TPE ja 
+TPED Series 2000, mille kohta käes olev juhend käib, on vastavuses EÜ 
+Nõukogu direktiividega EMÜ liikmesriiki de seaduste ühitamise kohta, mis 
+käsitlevad:
+— Masinate ohutus (2006/42/EC).
+Kasutatud standard: EN 809:1998 + A1:2009.
+— Elektromagnetiline ühilduvus (EMC direktiiv) (2004/108/EC).
+Kasutatud standard: EN 61800-3:2005.
+— R&TTE direktiiv (1999/5/EC).
+Kasutatud standard: ETSI EN 300 328 V1.7 (2006-10).
+— Ökodisaini direktiiv (2009/125/EC).
+Veepumbad:
+Komisjoni regulatsioon nr 547/2012.
+Kehtiv ainult veepumpadele, mis on märgitud miinimum kasuteguri 
+indeksiga MEI. Vaata pumba silti.
+Käesolev EL-i vastavusdeklarats ioon kehtib ainult siis, kui see 
+avaldatakse Grundfosi paigaldus- ja kasutusjuhendi (avaldamisnumber 
+98476041 0813) osana.
+GR: ∆ήλωση συμμόρφωσης  EC
+Εμείς, η Grundfos, δηλώνουμε  με αποκλειστικά  δική μας ευθύνη ότι 
+τα προϊόντα  TPE και TPED Series 2000 στα οποία αναφέρεται  η 
+παρούσα  δήλωση, συμμορφώνονται  με τις εξής Οδηγίες  του Συμβουλίου  
+περί προσέγγισης  των νομοθεσιών  των κρατών μελών της ΕΕ:
+— Οδηγία για μηχανήματα  (2006/42/EC).
+Πρότυπο που χρησιμοποιήθηκε : EN 809:1998 + A1:2009.
+— Οδηγία Ηλεκτρομαγνητικής  Συμβατότητας  (EMC) (2004/108/EC).
+Πρότυπο που χρησιμοποιήθηκε : EN 61800-3:2005.
+—R & Οδηγία TTE (1999/5/EC).
+Πρότυπο που χρησιμοποιήθηκε : ETSI EN 300 328 V1.7 (2006-10).
+— Οδηγία Οικολογικού  Σχεδιασμού  (2009/125/EC).
+Αντλίες νερού:
+Ρύθμιση  πρώτης εκκίνησης  Νο 547/2012.
+Ισχύει μόνο για αντλίες  νερού που φέρουν τον ελάχιστο  δείκτη 
+απόδοσης  ΜΕΙ. Βλέπε πινακίδα  αντλίας .
+Αυτή η δήλωση συμμόρφωσης  EC ισχύει μόνον όταν συνοδεύει  τις 
+οδηγίες  εγκατάστασης  και λειτουργίας  της Grundfos ( κωδικός εντύπου 
+98476041 0813).
+ES: Declaración CE de conformidad
+Nosotros, Grundfos, declaramos baj o nuestra entera responsabilidad 
+que los productos TPE y TPED Series 2000, a los cuales se refiere esta 
+declaración, están conformes con la s Directivas del Consejo en la 
+aproximación de las leyes de las Estados Miembros del EM:
+— Directiva de Maquinaria (2006/42/CE).
+Norma aplicada: EN 809:1998 + A1:2009.
+— Directiva EMC (2004/108/CE).
+Norma aplicada: EN 61800-3:2005.
+— R&TTE Directiva (1999/5/CE).
+Norma aplicada: ETSI EN 300 328 V1.7 (2006-10).
+— Directiva sobre diseño ecológico (2009/125/CE).
+Bombas de agua:
+Reglamento de la Comisión N° 547/2012.
+Aplicable únicamente a las bombas  de agua marcadas con el índice 
+de eficiencia mínima (IEM). Véase la placa de características de la 
+bomba.
+Esta declaración CE de conformidad sólo es válida cuando se publique 
+como parte de las instrucciones de instalación y funcionamiento de 
+Grundfos (número de publicación 98476041 0813).
+
+[[page 3]]
+Декларація  відповідності
+3
+FR: Déclaration de conformité CE
+Nous, Grundfos, déclarons sous notre seule responsabilité, que 
+les produits TPE et TPED Series 2000, auxquels se réfère cette 
+déclaration, sont conformes aux Dir ectives du Conseil concernant le 
+rapprochement des législations des Etats membres CE relatives aux 
+normes énoncées ci-dessous:
+— Directive Machines (2006/42/CE).
+Norme utilisée: EN 809:1998 + A1:2009.
+— Directive Compatibilité Electromagnétique CEM (2004/108/CE).
+Norme utilisée: EN 61800-3:2005.
+— Directive sur les équipements radioémetteurs TTE (1999/5/CE).
+Norme utilisée: ETSI EN 300 328 V1.7 (2006-10).
+— Directive sur l'éco-conception (2009/125/CE).
+Pompes à eau:
+Règlement de la Commission N° 547/2012.
+S'applique uniquement aux pompes à eau marquées de l'indice de 
+performance minimum IEM. Voir plaque signalétique de la pompe.
+Cette déclaration de conformité CE est uniquement valide lors de sa 
+publication dans la notice d'insta llation et de fonctionnement Grundfos 
+(numéro de publication 98476041 0813).
+HR: EZ izjava o uskla đenosti
+Mi, Grundfos, izjavljujemo pod vlastitom odgovornoš ću da je proizvod 
+TPE i TPED Series 2000, na koji se ova izjava odnosi, u skladu s 
+direktivama ovog Vije ća o uskla đivanju zakona država članica EU:
+— Direktiva za strojeve (2006/42/EZ).
+Korištena norma: EN 809:1998 + A1:2009.
+— Direktiva za elektromagnetsku kompatibilnost (2004/108/EZ).
+Korištena norma: EN 61800-3:2005.
+— R&TTE Direktiva (1999/5/EZ).
+Korištena norma: ETSI EN 300 328 V1.7 (2006-10).
+— Direktiva o ekološkoj izvedbi (2009/125/EZ).
+Crpke za vodu:
+Uredba Komisije No 547/2012.
+Odnosi se samo na crpke za vodu ozna čene s indeksom minimalne 
+učinkovitosti MEI. Pogledajte natpisnu plo čicu crpke.
+Ova EZ izjava o uskla đnosti važe ća je jedino kada je izdana kao dio 
+Grundfos montažnih i pogonskih uputa (broj izdanja 98476041 0813).
+IT: Dichiarazione di conformità CE
+Grundfos dichiara sotto la sua esclus iva responsabilità che i prodotti TPE 
+e TPED Series 2000, ai quali si ri ferisce questa dichiarazione, sono 
+conformi alle seguenti direttive del Consiglio riguardanti il 
+riavvicinamento delle legislazioni degli Stati membri CE:
+— Direttiva Macchine (2006/42/CE).
+Norma applicata: EN 809:1998 + A1:2009.
+— Direttiva EMC (2004/108/CE).
+Norma applicata: EN 61800-3:2005.
+— Direttiva R&TTE (1999/5/CE).
+Norma applicata: ETSI EN 300 328 V1.7 (2006-10).
+— Direttiva Ecodesign (2009/125/CE).
+Pompe per acqua:
+Regolamento CE n. 547/2012.
+Applicabile solo a pompe per acqua con l'indice di efficienza minimo 
+MEI. Vedere la targhetta di identificazione della pompa.
+Questa dichiarazione di conformità CE è valida solo quando pubblicata 
+come parte delle istruzioni di installazione e funzionamento Grundfos 
+(pubblicazione numero 98476041 0813).
+LV: EK atbilst ības deklar ācija
+Sabiedr ība GRUNDFOS ar pilnu atbild ību dara zin āmu, ka produkti 
+TPE un TPED Series 2000, uz kuriem attiecas šis pazi ņojums, atbilst 
+šādām Padomes direkt īvām par tuvin āšanos EK dal ībvalstu 
+likumdošanas norm ām:
+—M a š īnbūves direkt īva (2006/42/EK).
+Piemērotais standarts: EN 809:1998 + A1:2009.
+— Elektromagn ētiskās sader ības direkt īva (2004/108/EK).
+Piemērotais standarts: EN 61800-3:2005.
+—R T T I  d i r e k tīva (1999/5/EK).
+Piemērotais standarts: ETSI EN 300 328 V1.7 (2006-10).
+— Ekodizaina direkt īva (2009/125/EK).
+Ūdens s ūkņi:
+Komisijas regula Nr. 547/2012.
+Attiecas tikai uz ūdens s ūkņiem, kuriem ir minim ālais efektivit ātes 
+indekss MEI. Sk. s ūkņa pases datu pl āksnītē.
+Šī EK atbilst ības deklar ācija ir der īga vien īgi tad, ja ir public ēta kā daļa 
+no GRUNDFOS uzst ādīšanas un ekspluat ācijas instrukcij ām 
+(publik ācijas numurs 98476041 0813).
+LT: EB atitikties deklaracija
+Mes, Grundfos, su visa atsakomybe pareiškiame, kad gaminiai TPE ir 
+TPED Series 2000, kuriems skirta ši deklaracija, atitinka šias Tarybos 
+Direktyvas d ėl Europos Ekonomin ės Bendrijos šali ų nari ų įstatym ų 
+suderinimo:
+—M a š i nų direktyva (2006/42/EB).
+Taikomas standartas: EN 809:1998 + A1:2009.
+— EMS direktyva (2004/108/EB).
+Taikomas standartas: EN 61800-3:2005.
+— R&TTE direktyva (1999/5/EB).
+Taikomas standartas: ETSI  EN 300 328 V1.7 (2006-10).
+— Ekologinio projektavimo  direktyva (2009/125/EB).
+Vandens siurbliai:
+Komisijos reglamentas Nr. 547/2012.
+Galioja tik vandens siurbliams, ant kuri ų nurodytas minimalus 
+efektyvumo koeficientas MEI. Žr. siurblio vardin ę plokštel ę.
+Ši EB atitikties deklaracija galioja tik tuo atveju, kai yra pateikta kaip 
+"Grundfos" įrengimo ir naudojimo instrukcijos (leidinio numeris 
+98476041 0813) dalis.
+HU: EK megfelel őségi nyilatkozat
+Mi, a Grundfos, egyedüli felel ősséggel kijelentjük, hogy a TPE és TPED 
+Series 2000 termékek, amelyekre jelen nyilatkozik vonatkozik, 
+megfelelnek az Európai Unió tagállamainak jogi irányelveit összehangoló 
+tanács alábbi el őírásainak:
+— Gépek (2006/42/EK).
+Alkalmazott szabvány: EN 809:1998 + A1:2009.
+— EMC Direktíva (2004/108/EK).
+Alkalmazott szabvány: EN 61800-3:2005.
+— R&TTE Direktíva (1999/5/EK).
+Alkalmazott szabvány: ETSI EN 300 328 V1.7 (2006-10).
+— Környezetbarát tervezésre vo natkozó irányelv (2009/125/EK).
+Víz szivattyúk:
+Az Európai Bizottság 547/2012. számú rendelete.
+Csak a MEI minimum hatásfok index -el jelölt víz szivattyúkra 
+vonatkozik. Lásd a szivattyú adattábláján.
+Ez az EK megfelel őségi nyilatkozat kizáró lag akkor érvényes, ha 
+Grundfos telepítési és üzemelte tési utasítás (kiadvány szám 
+98476041 0813) részeként kerül kiadásra.
+NL: EC overeenkomstigheidsverklaring
+Wij, Grundfos, verklaren geheel onder eigen verantwoordelijkheid dat de 
+producten TPE en TPED Series 2000 waarop deze verklaring betrekking 
+heeft, in overeenstemming zijn met de Richtlijnen van de Raad in zake 
+de onderlinge aanpassing van de wet geving van de EG Lidstaten 
+betreffende:
+— Machine Richtlijn (2006/42/EC).
+Gebruikte norm: EN 809:1998 + A1:2009.
+— EMC Richtlijn (2004/108/EC).
+Gebruikte norm: EN 61800-3:2005.
+— R&TTE Richtlijn (1999/5/EC).
+Gebruikte norm: ETSI EN 300 328 V1.7 (2006-10).
+— Ecodesign Richtlijn (2009/125/EC).
+Waterpompen:
+Verordening (EG) Nr. 547/2012 van de Commissie.
+Is alleen van toepassing op waterpompen die gekenmerkt worden 
+door de minimale efficiëntie index MEI. Zie het typeplaatje van de 
+pomp.
+Deze EC overeenkomstigheidsverklaring is alleen geldig wanneer deze 
+gepubliceerd is als onderdeel van de Grundfos installatie- en 
+bedieningsinstructies (publicatienummer 98476041 0813).
+UA: Декларація  відповідності  ЄС
+Компанія  Grundfos заявляє  про свою виключну  відповідальність  за 
+те, що продукти  TPE та TPED Series 2000, на які поширюється  дана 
+декларація , відповідають  таким рекомендаціям  Ради з уніфікації  
+правових  норм країн - членів ЄС:
+— Механічні  прилади  (2006/42/ ЄС).
+Стандарти , що застосовувалися : EN 809:1998 + A1:2009.
+— Електромагнітна  сумісність  (2004/108/ ЄС).
+Стандарти , що застосовувалися : EN 61800-3:2005.
+—R & норми TTE (1999/5/ ЄС).
+Стандарти , що застосовувалися : ETSI EN 300 328 V1.7 (2006-10).
+— Директива  з екодизайну  (2009/125/ ЄС).
+Насоси  для води:
+Регламент Комісії  № 547/2012.
+Стосується  тільки насосів  для води, що відзначені  мінімальним  
+показником  ефективності  МЕІ. Дивіться  паспортну  табличку на 
+насосі .
+Ця декларація  відповідності  ЄС дійсна тільки в тому випадку, якщо 
+публікується  як частина  інструкцій  Grundfos з монтажу  та 
+експлуатації  (номер публікації  98476041 0813).
+
+[[page 4]]
+Декларація відповідності
+4
+PL: Deklaracja zgodno ści WE
+My, Grundfos, o świadczamy z pe łną odpowiedzialno ścią, że nasze 
+wyroby TPE oraz TPED Series 2000, których deklaracja niniejsza 
+dotyczy, s ą zgodne z nast ępującymi wytycznymi Ra dy d/s ujednolicenia 
+przepisów prawnych krajów cz łonkowskich WE:
+— Dyrektywa Maszynowa (2006/42/WE).
+Zastosowana norma: EN 809:1998 + A1:2009.
+— Dyrektywa EMC (2004/108/WE).
+Zastosowana norma: EN 61800-3:2005.
+— R&Dyrektywa TTE (1999/5/WE).
+Zastosowana norma: ETSI EN 300 328 V1.7 (2006-10).
+— Dyrektywa Ekoprojektowa (2009/125/WE).
+Pompy do wody:
+Rozporz ądzenie komisji nr 547/2012.
+Dotyczy tylko pomp do t łoczenia wody z minimalnym indeksem 
+sprawno ści MEI. Patrz tabliczka znamionowa pompy.
+Deklaracja zgodno ści WE jest wa żna tylko i wy łącznie wtedy kiedy jest 
+opublikowana przez firm ę Grundfos i umieszczona w instrukcji monta żu 
+i eksploatacji (numer publikacji 98476041 0813).
+PT: Declaração de conformidade CE
+A Grundfos declara sob sua única  responsabilidade que os produtos 
+TPE e TPED Series 2000, aos quais di z respeito esta declaração, estão 
+em conformidade com as seguintes  Directivas do Conselho sobre 
+a aproximação das legislações dos Estados Membros da CE:
+— Directiva Máquinas (2006/42/CE).
+Norma utilizada: EN 809:1998 + A1:2009.
+— Directiva EMC (compatibilidade electromagnética) (2004/108/CE).
+Norma utilizada: EN 61800-3:2005.
+— Directiva R&TTE (1999/5/CE).
+Norma utilizada: ETSI EN 300 328 V1.7 (2006-10).
+— Directiva de Concepção Ecológica (2009/125/CE).
+Bombas de água:
+Regulamento da Comissão No 547/2012.
+Aplica-se apenas a bombas de água registadas com o índice de 
+eficiência mínimo MEI. Ver a chapa de características da bomba.
+Esta declaração de conformidade CE é apenas válida quando publicada 
+como parte das instruções de in stalação e funcionamento Grundfos 
+(número de publicação 98476041 0813).
+RU: Декларация  о соответствии  ЕС
+Мы, компания  Grundfos, со всей ответственностью  заявляем , 
+что изделия  TPE и TPED Series 2000, к которым относится  
+настоящая  декларация , соответствуют  следующим  Директивам  
+Совета Евросоюза  об унификации  законодательных  предписаний  
+стран-членов ЕС:
+— Механические  устройства  (2006/42/ ЕС).
+Применявшийся  стандарт : EN 809:1998 + A1:2009.
+— Электромагнитная  совместимость  (2004/108/EC).
+Применявшийся  стандарт : EN 61800-3:2005.
+— Директива  по средствам  радиосвязи  и телекоммуникационному  
+оконечному  оборудованию  (1999/5/EC).
+Применявшийся  стандарт : ETSI EN 300 328 V1.7 (2006-10).
+— Директива  по экологическому  проектированию  
+энергопотребляющей  продукции  (2009/125/EC).
+Насосы  для перекачивания  воды:
+Регламент  Комиссии  ЕС № 547/2012.
+Применимо  только к насосам  для перекачивания  воды, 
+промаркированным  показателем  минимальной  эффективности  
+MEI. См. фирменную  табличку  насоса .
+Данная декларация  о соответствии  ЕС имеет силу только в случае 
+публикации  в составе  инструкции  по монтажу  и эксплуатации  на 
+продукцию  производства  компании  Grundfos ( номер публикации  
+98476041 0813).
+RO: Declara ţie de conformitate CE
+Noi, Grundfos, declar ăm pe propria r ăspundere c ă produsele TPE şi 
+TPED Series 2000, la care se refer ă aceast ă declara ţie, sunt în 
+conformitate cu aceste Directive de Consiliu asupra armoniz ării legilor 
+Statelor Membre CE:
+— Directiva Utilaje (2006/42/CE).
+Standard utilizat: EN 809:1998 + A1:2009.
+— Directiva EMC (2004/108/CE).
+Standard utilizat: EN 61800-3:2005.
+— R&Directiva TTE (1999/5/CE).
+Standard utilizat: ETSI EN 300 328 V1.7 (2006-10).
+— Directiva Ecodesign (2009/125/CE).
+Pompe de apa:
+Regulamentul Comisiei nr. 547/2012.
+Se aplica numai pompelor de apa cu marca de eficienta minima 
+index MEI. Vezi pl ăcuţa de identificare a pompei.
+Aceast ă declara ție de conformitate CE este valabil ă numai când este 
+publicat ă ca parte a instruc țiunilor Grundfos de instalare și func ționare 
+(număr publica ție 98476041 0813).
+SK: Prehlásenie o konformite ES
+My firma Grundfos prehlasujeme na svoju plnú zodpovednost ’ , že výrobky 
+TPE a TPED Series 2000, na ktoré sa  toto prehlásenie vzt ’ ahuje, sú v 
+súlade s ustanovením smernice Rady pre zblíženie právnych predpisov 
+členských štátov Európskeho spolo čenstva v oblastiach:
+— Smernica pre strojové zariadenie (2006/42/ES).
+Použitá norma: EN 809:1998 + A1:2009.
+— Smernica pre elektromagnetickú kompatibilitu (2004/108/ES).
+Použitá norma: EN 61800-3:2005.
+— R&TTE Smernica (1999/5/ES).
+Použitá norma: ETSI EN 300 328 V1.7 (2006-10).
+— Smernica o ekodizajne (2009/125/ES).
+Čerpadlá na vodu:
+Nariadenie Komisie č. 547/2012.
+Vzťahuje sa iba na čerpadlá pre vodu ozna čené minimálnym 
+indexom energetickej ú činnosti MEI. Vi ď typový štítok čerpadla.
+Toto prehlásenie o konformite ES je  platné iba vtedy, ak je zverejnené 
+ako sú časť montážnych a prevádzkových pokynov Grundfos (publikácia 
+číslo 98476041 0813).
+SI: ES izjava o skladnosti
+V Grundfosu s polno odgovornostjo izjav ljamo, da so naši izdelki TPE in 
+TPED Series 2000, na katere se ta izjava nanaša, v skladu z naslednjimi 
+direktivami Sveta o približevanju zakonodaje za izena čevanje pravnih 
+predpisov držav članic ES:
+— Direktiva o strojih (2006/42/ES).
+Uporabljena norma: EN 809:1998 + A1:2009.
+— Direktiva o elektromagnetni združljivosti (EMC) (2004/108/ES).
+Uporabljena norma: EN 61800-3:2005.
+— R direktiva (1999/5/ES).
+Uporabljena norma: ETSI EN 300 328 V1.7 (2006-10).
+— Eco-design direktiva (2009/125/ES).
+Vodne črpalke:
+Uredba Komisije št. 547/2012.
+Velja le za vodne črpalke ozna čene z indeksom minimalne 
+učinkovitosti MEI. Glejte tipsko ploš čico črpalke.
+ES izjava o skladnosti velja samo  kadar je izdana kot del Grundfos 
+instalacije in navodil delovanj a (publikacija številka 98476041 0813).
+RS: EC deklaracija o usaglašenosti
+Mi, Grundfos, izjavljujemo pod vlastitom odgovornoš ću da je proizvod 
+TPE i TPED Series 2000, na koji se ova izjava odnosi, u skladu sa 
+direktivama Saveta za uskla đivanje zakona država članica EU:
+— Direktiva za mašine (2006/42/EC).
+Koriš ćen standard: EN 809:1998 + A1:2009.
+— EMC direktiva (2004/108/EC).
+Koriš ćen standard: EN 61800-3:2005.
+— R&TTE Direktiva (1999/5/EC).
+Koriš ćen standard: ETSI EN 300 328 V1.7 (2006-10).
+— Direktiva o ekološkom projektovanju (2009/125/EC).
+Pumpe za vodu:
+Uredba Komisije br. 547/2012.
+Odnosi se samo na pumpe za vodu ozna čene sa indeksom 
+minimalne efikasnosti ME I. Pogledajte natpisnu plo čicu pumpe.
+Ova EC deklaracija o usaglašenosti važe ća je jedino kada je izdata 
+kao deo Grundfos uputstava za instalaciju i rad (broj izdanja 98476041 
+0813).
+FI: EY-vaatimustenmukaisuusvakuutus
+Me, Grundfos, vakuutamme omalla vastuullamme, että tuotteet TPE ja 
+TPED Series 2000, joita tämä vakuutus koskee, ovat EY:n 
+jäsenvaltioiden lainsäädännön y hdenmukaistamiseen tähtäävien 
+Euroopan neuvoston direktiivien vaatimusten mukaisia seuraavasti:
+— Konedirektiivi (2006/42/EY).
+Sovellettu standardi: EN 809:1998 + A1:2009.
+— EMC-direktiivi (2004/108/EY).
+Sovellettu standardi: EN 61800-3:2005.
+— R&TTE-direktiivi (1999/5/EY).
+Sovellettu standardi: ETSI EN 300 328 V1.7 (2006-10).
+— Ekologista suunnittelua koskeva direktiivi (2009/125/EY).
+Vesipumput:
+Komission asetus nro 547/2012.
+Koskee vain vesipumppuja, jotka on merkitty 
+minimihyötysuhdeindeksillä MEI. Katso pumpun tyyppikilvestä.
+Tämä EY-vaatimustenmukaisuusvak uutus on voimassa vain, kun se 
+julkaistaan osana Grundfosin  asennus- ja käyttöohjeita (julkaisun numero 
+98476041 0813).
+
+[[page 5]]
+Декларація  відповідності
+5
+SE: EG-försäkran om överensstämmelse
+Vi, Grundfos, försäkrar under ansvar att produkterna TPE och TPED 
+Series 2000, som omfattas av denna försäkran, är i överensstämmelse 
+med rådets direktiv om inbördes närmande till EU-medlemsstaternas 
+lagstiftning, avseende:
+— Maskindirektivet (2006/42/EG).
+Tillämpad standard: EN 809:1998 + A1:2009.
+— EMC-direktivet (2004/108/EG).
+Tillämpad standard: EN 61800-3:2005.
+— R&TTE-direktivet (1999/5/EG).
+Tillämpad standard: ETSI EN 300 328 V1.7 (2006-10).
+— Ekodesigndirektivet (2009/125/EG).
+Vattenpumpar:
+Kommissionens förordning nr. 547/2012.
+Avser endast vattenpumpar markerade med min. effektivitetsindex 
+(MEI). Se pumpens typskylt.
+Denna EG-försäkran om överensstämmelse är endast giltig när den 
+publiceras som en del av Grundfos mo nterings- och driftsinstruktion 
+(publikation nummer 98476041 0813).
+TR: EC uygunluk bildirgesi
+Grundfos olarak bu beyannameye konu  olan TPE ve TPED Series 2000 
+ürünlerinin, AB Üyesi Ülkelerin kanunlar ını birbirine yakla ştırma üzerine 
+Konsey Direktifleriyle uyumlu oldu ğunun yaln ızca bizim sorumlulu ğumuz 
+altında oldu ğunu beyan ederiz:
+— Makineler Yönetmeli ği (2006/42/EC).
+Kullan ılan standart: EN 809:1998 + A1:2009.
+— EMC Yönetmeli ği (2004/108/EC).
+Kullan ılan standart: EN 61800-3:2005.
+— R&TTE Yönetmeli ği (1999/5/EC).
+Kullan ılan standart: ETSI EN 300 328 V1.7 (2006-10).
+— Çevreye duyarl ı tasar ım (Ecodesign) Direktifi (2009/125/EC).
+Devirdaim su pompalar ı:
+547/2012 say ılı Komisyon Yönetmeli ği. 
+Yalnızca Minimum Enerji Verimlilik Endeksine (MEI) dahil olan olan 
+devirdaim su pompalar ı için geçerlidir. Pompan ın bilgi etiketine 
+bakın.
+İşbu EC uygunluk bildirgesi, yaln ızca Grundfos kurulum ve çal ıştırma 
+talimatlar ının (bas ım numaras ı 98476041 0813) bir parças ı olarak 
+basıldığı takdirde geçerlilik kazanmaktad ır.
+Bjerringbro, 15th July 2013
+Svend Aage Kaae
+Director
+Grundfos Holding A/S
+Poul Due Jensens Vej 7
+8850 Bjerringbro, Denmark
+Person authorised to compile technical file and 
+empowered to sign the EC declaration of conformity. 
+Декларация  о соответствии  на территории  РФ
+Насосы  центробежные  TPE и TPED Series 2000 сертифицированы  на 
+соответствие  требованиям  Технического  регламента  о безопасности  машин 
+и оборудования  (Постановление  правительства  РФ от 15.09.2009 № 753).
+Сертификат  соответствия :
+№ C-RU. АЯ56.В.04430, срок действия  до 13.09.2017 г.
+№ C-DK. АЯ56.B.03740, срок действия  до 27.05.2017 г. 
+Изделия, произведенные  в России, изготавливаются  в соответствии  
+сТ У 3631-008-59379130-2006.
+Истра, 15 мая 2013 г. 
+Касаткина  В. В.
+Руководитель  отдела качества ,
+экологии  и охраны труда
+ООО Грундфос Истра, Россия
+143581, Московская  область,
+Истринский  район,
+дер. Лешково , д.188
+
+[[page 6]]
+Українська (UA)
+6
+Українська  (UA) Інструкції  з монтажу  та експлуатації
+Переклад  оригінальної  англійської  версії.
+ЗМІСТ
+Сторінка
+1. Значення  символів  та написів
+1. Значення  символів та написів 6
+2. Абревіатури  і основні поняття 7
+3. Загальні  відомості 7
+3.1 Радіозв'язок 7
+3.2 Акумулятор 7
+4. Монтаж механічної  частини  обладнання 7
+4.1 Монтаж 7
+4.2 Кабельні введення 7
+4.3 Забезпечення  охолодження  двигуна 8
+4.4 Монтаж ззовні приміщення 8
+4.5 Зливні отвори 8
+5. Монтаж електричної  частини 8
+5.1 Захист проти ураження  електричним  струмом, 
+пробиття  ізоляції 8
+5.2 Живлення  від мережі 9
+5.3 Додатковий  захист 10
+5.4 Клеми з’єднань 10
+5.5 Сигнальні  кабелі 15
+5.6 Кабель для підключення  шини 15
+6. Умови експлуатації 15
+6.1 Максимальна  кількість  запусків  та зупинок 15
+6.2 Почергова робота насосів  з двома головками 15
+6.3 Температура  навколишнього  середовища 15
+6.4 Висота монтажу 16
+6.5 Вологість  повітря 16
+6.6 Охолодження  двигуна 16
+7. Інтерфейси  користувача 16
+8. Розширена  панель керування 17
+8.1 Структура  меню 17
+8.2 Огляд меню для розширеної  панелі керування 18
+9. Grundfos GO Remote 20
+9.1 Зв'язок 20
+9.2 Основний  огляд Grundfos GO Remote 21
+10. Опис обраних  функцій 23
+10.1 Задане значення 23
+10.2 Робочий режим 23
+10.3 Встан. ручн. настр. швидкості 23
+10.4 Режим експлуатації 23
+10.5 Аналогові входи 24
+10.6 Входи Pt100/1000 24
+10.7 Цифрові входи 25
+10.8 Цифрові входи/виходи 25
+10.9 Виходи реле 26
+10.10 Аналоговий вихід 26
+10.11 Робочий діапазон 26
+10.12 Вплив заданого значення 26
+10.13 Зв'язок 27
+10.14 Загальні настройки 27
+11. Assist 28
+11.1 Настройка декількох насосів 28
+12. Вибір режиму керування 29
+13. Зміна положення панелі керування 30
+14. Сигнал шини зв'язку 31
+15. Пріоритет  параметрів  настройки 31
+16. Grundfos Eye 32
+17. Сигнальні  реле 33
+18. Вимірювання  опору ізоляції 34
+19. Технічні дані, однофазні  двигуни 34
+19.1 Напруга живлення 34
+19.2 Струм витоку 34
+20. Технічні дані, трифазні  двигуни 34
+20.1 Напруга живлення 34
+20.2 Струм витоку 34
+21. Входи/виходи 34
+22. Інші технічні  дані 35
+22.1 Крутні моменти 35
+22.2 Рівень звукового  тиску 35
+23. Утилізація  відходів 35
+Попередження
+Перш ніж приступати  до операцій  зм о н т а ж у 
+обладнання , необхідно  уважно ознайомитися  
+зд а н и м керівництвом  зм о н т а ж у та 
+експлуатації .
+Монтаж іе к с п л у а т а ц і я повинні  також 
+виконуватися  згідно зм і с ц е в и м и нормами і 
+загальноприйнятими  в практиці  
+оптимальними  методами .
+Попередження
+Інструкції  з техніки безпеки , що описані  
+вд а н о м у керівництві  зм о н т а ж у та 
+експлуатації , не виконання  яких може 
+призвести  до небезпечних  наслідків  для 
+життя та здоров’я, позначені  спеціальним  
+знаком.
+Попередження
+Недотримання  цих інструкцій  може 
+призвести  до електричного  шоку 
+із небезпечними  для життям та здоров’я 
+людей наслідками .
+Попередження
+Контакт із гарячими  поверхнями  обладнання  
+може призвести  до опіків та важких тілесних  
+пошкоджень .
+Увага
+Цей символ Ви побачите біля Інструкцій  
+зт е х н і к и безпеки , не виконання  яких може 
+призвести  до виникнення  несправності  або 
+ушкодження  обладнання .
+Вказівка
+Біля цього напису знаходяться  рекомендації  
+або вказівки , що полегшують  роботу та 
+забезпечують  надійну  експлуатацію  
+обладнання .
+
+[[page 7]]
+Українська  (UA)
+7
+2. Абревіатури  і основні  поняття 3. Загальні  відомості
+Ці інструкції  з монтажу  та експлуатації  стосуються  насосів  
+TPE та TPED серії 2000 компанії  Grundfos.
+Насоси оснащені  двигунами  з постійним  магнітом  та з 
+регульованою  частотою для з’єднання  з однофазною  або 
+трифазною  мережею.
+3.1 Радіозв'язок
+Цей виріб містить  радіоблок  для дистанційного  керування , 
+який є пристроєм  класу 1, та може використовуватись  у 
+будь-якій країні-члені ЄС без обмежень .
+Стосовно  використання  в США та Канаді див. стор. 36.
+Цей виріб може підтримувати  зв’язок з програмою  Grundfos 
+Go Remote та з іншими виробами  аналогічного  типу завдяки 
+вбудованому  радіоблоку.
+У деяких випадках  може знадобитися  використання  
+зовнішньої  антени. До цього виробу можна підключити  лише 
+рекомендовану  компанією  Grundfos зовнішню  антену, яку 
+повинен  підключити  лише уповноважений  компанією  Grundfos 
+монтажник .
+3.2 Акумулятор
+Насоси, які оснащені  удосконаленим  функціональним  
+модулем (FM 300), мають вбудований  літій-іонний 
+акумулятор . Літій-іонний акумулятор  відповідає  Директиві  з 
+елементів  живлення  (2006/66/EC). Акумулятор  не містить  
+ртуті, свинцю та кадмію .
+4. Монтаж механічної  частини  обладнання  
+4.1 Монтаж
+Насос має бути зафіксовано  на твердому  фундаменті  за 
+допомогою  болтів, що пропущені  в отвори у фланці або плиті 
+основи.
+4.2 Кабельні  введення
+Двигун має чотири нарізних  кабельних  введення M20, 
+оснащених  заводськими  заглушками .
+В комплект  входять наступні  ущільнення  кабеля:
+• Ущільнення  кабеля 2 x M20, діаметр кабеля ∅5 мм
+• Ущільнення  кабеля 1 x M20, діаметр кабеля ∅7-14 мм.
+AI Аналоговий  вхід.
+AL Сигналізація , поза діапазоном  у разі нижнього  ліміту.
+AO Аналоговий  вихід.
+AU Сигналізація , поза діапазоном  у разі верхнього  ліміту.
+Зниження  
+струму
+Здатність  вбирати струм на клему та 
+скеровувати  його на заземлення  у 
+внутрішній  схемі.
+Збільшення  
+струму
+Здатність  випускати  струм з клеми та 
+скеровувати  його на зовнішнє  
+навантаження , яке повинно  повертати його 
+на заземлення .
+DI Цифровий  вхід.
+DO Цифровий  вихід.
+ELCB Автоматичний  вимикач  з функцією  захисту  у разі витоку на землю.
+FM Функціональний  модуль.
+GDS
+Grundfos Digital Sensor.
+Датчик встановлюється  
+заводом-виробником  на деяких насосах  
+Grundfos.
+GENIbus Стандарт компанії  Grundfos на промислову  мережу зв’язку fieldbus.
+GFCI Вимикач  короткого  замикання  на землю.(США та Канада).
+GND Заземлення .
+Grundfos Eye Світловий  індикатор  стану.
+LIVE Низька  напруга з ризиком  ураження  електричним  струмом у разі торкання  клем.
+OC
+Відкритий  колектор :
+Вихід з відкритим  колектором  зі змінною  
+конфігурацією .
+PE Захисне  заземлення .
+PELV
+Захисна  наднизька  напруга.
+Напруга, яка не перевищує  наднизьку  
+напругу при нормальних  умовах та 
+поодинокій  несправності , окрім небажаного  
+замикання  на землю в інших схемах.
+SELV
+Безпечна наднизька  напруга.
+Напруга, яка не перевищує  наднизьку  
+напругу при нормальних  умовах та 
+поодинокій  несправності , включаючи  
+небажане замикання  на землю в інших 
+схемах.
+TPE 
+Series 2000
+Насос з однією головкою  з встановленим  
+заводом-виробником  датчиком  перепаду  
+тиску.
+TPED 
+Series 2000
+Насос з двома головками  з встановленим  
+заводом-виробником  датчиком  перепаду  
+тиску.
+Вказівка
+Деякі з варіантів  цих виробів  та всі вироби, 
+що продаються  в Китаї та Кореї, не мають 
+радіозв ’язку згідно з вимогами  місцевого 
+законодавства .
+Попередження
+Монтаж та експлуатація  повинні  
+відповідати  місцевим нормам та прийнятим  
+правилам  роботи.
+Вказівка
+Щоб відповідати  маркуванню  UL, потрібно  
+дотримуватись  додаткових  технологій  
+монтажу. Див. стор. 36.
+
+[[page 8]]
+Українська (UA)
+8
+4.3 Забезпечення  охолодження двигуна
+Рис. 1 Мінімальна  відстань  (D) від двигуна  до стіни або 
+інших нерухомих  об’єктів
+4.4 Монтаж ззовні приміщення
+У разі монтажу  ззовні приміщення  двигун повинен  мати 
+підходящий  кожух, щоб уникати  утворення  конденсату  на 
+електронних  компонентах . Див. мал. 2.
+Кожух повинен  бути достатньо  великим, щоб забезпечити  
+захист двигуна  від впливу прямих сонячних  променів , дощу 
+або снігу. Компанія  Grundfos не постачає кожухи. 
+Таким чином , ми радимо, щоб у вас був кожух, призначений  
+для конкретної  галузі застосування . В зонах з високою  
+вологістю  повітря ми радимо вам вмикати вбудовану функцію 
+підігріву  при очікуванні .
+Рис. 2 Приклади  кожухів  (які не постачаються  компанією  
+Grundfos)
+4.5 Зливні отвори
+Коли двигун встановлюється  у вологій атмосфері  або у зонах 
+з підвищеною  вологістю  повітря , нижній зливний отвір має 
+бути відкритим . Тоді клас захисту  двигуна  буде нижчим. 
+Відкритий  зливний отвір допомагає  запобігти  утворенню  
+конденсації  в двигуні , оскільки  за його допомогою  
+відбувається  самовентиляція  двигуна  та виводиться  вода і 
+вологе повітря.
+В двигуні  є зливний отвір з заглушкою  зі сторони приводу. 
+Фланець можна повернути  на 90 ° у обидва боки або на 180 °.
+Рис. 3 Зливні отвори
+5. Монтаж електричної  частини
+Електричне  підключення  та захист повинен  здійснюватись  
+відповідно  до місцевих  норм та правил.
+Перевірте , щоб напруга та частота електромережі  відповідали  
+значенням , вказаним  на заводській  табличці насоса .
+5.1 Захист проти ураження електричним  струмом, 
+пробиття  ізоляції
+Проводи захисного  заземлення  завжди повинні  мати колірне 
+маркування  жовтого/зеленого (РЕ) або 
+жовтого/зеленого/синього (PEN) кольору.
+5.1.1 Захист від стрибків  напруги у мережі
+Двигун захищено  від стрибків  напруги у мережі згідно зі 
+стандартом  EN 61800-3.
+5.1.2 Захист електродвигуна
+Двигун не потребує зовнішнього  захисту  двигуна . Двигун має 
+тепловий  захист від повільного  перевантаження  і блокування .
+Вказівка
+Для забезпечення  достатнього  охолодження  
+двигуна  відстань  (D) між краєм кожуха 
+вентилятора  та стіною або іншими 
+нерухомими  об’єктами завжди повинна  
+становити  як мінімум  50 мм незалежно  від 
+розміру двигуна . Див. мал. 1.
+TM05 5236 3512
+Вказівка
+При встановленні  кожуха на двигун 
+дотримуйтесь  інструкцій , наведених  в 
+розділі 4.3 Забезпечення  охолодження  
+двигуна .
+TM05 7919 1613TM02 9037 1604
+D
+B3 B14 B5
+Попередження
+Перед встановленням  з’єднань до клемної  
+коробки  необхідно  заздалегідь  (мінімум  за 
+5 хвилин) вимкнути  електроживлення . 
+Переконайтеся , що електроживлення  не 
+може бути випадково  ввімкнене .
+Двигун повинен  підключатися  до 
+зовнішнього  багатоконтактного  вимикача  
+мережі згідно з місцевими  нормами та 
+правилами . 
+Двигун потрібно  заземлити  та захистити  
+від непрямого  контакту  згідно з місцевими  
+нормами та правилами .
+Якщо кабель  електроживлення  пошкоджений , 
+він має бути замінений  виробником , 
+сервісним  центром виробника  або 
+кваліфікованим  персоналом  відповідного  
+рівня.
+Вказівка
+Користувач або монтажник  несуть 
+відповідальність  за забезпечення  
+правильного  заземлення  та захисту згідно з 
+місцевими  нормами та правилами . 
+Всі роботи  повинні  виконуватись  
+кваліфікованим  електриком .
+Попередження
+Двигун потрібно  заземлити  та захистити  
+від непрямого  контакту  згідно з місцевими  
+нормами та правилами .
+
+[[page 9]]
+Українська  (UA)
+9
+5.2 Живлення від мережі
+5.2.1 Однофазна  напруга живлення
+• 1 x 200-240 В - 10 %/+ 10 %, 50/60 Гц, захисне  заземлення .
+Перевірте , щоб напруга живлення  та частота відповідали  
+значенням , вказаним  на заводській  табличці.
+Проводи в клемній  коробці  двигуна  повинні  бути максимально  
+короткими . Виключенням  з цього є окремий  провід 
+заземлення , довжина якого повинна  вибиратися  такою, щоб 
+він від’єднувався  останнім , якщо кабель буде випадково  
+вирвано з кабельного  вводу.
+Максимальні  параметри  резервного  плавкого  запобіжника  
+див. у розділі 19.1 Напруга живлення.
+Рис. 4 Приклад  підключення  до мережі двигуна  з 
+вимикачем  електроживлення , резервним  плавким  
+запобіжником  та додатковим  захистом
+Рис. 5 Підключення  до мережі, однофазні  двигуни
+5.2.2 Трифазна  напруга живлення
+• 3 x 380-500 В - 10 %/+ 10 %, 50/60 Гц, захисне  заземлення .
+Перевірте , щоб напруга живлення  та частота відповідали  
+значенням , вказаним  на заводській  табличці.
+Проводи в клемній  коробці  двигуна  повинні  бути максимально  
+короткими . Виключенням  з цього є окремий  провід 
+заземлення , довжина якого повинна  вибиратися  такою, щоб 
+він від’єднувався  останнім , якщо кабель буде випадково  
+вирвано з кабельного  вводу.
+Максимальні  параметри  резервного  плавкого  запобіжника  
+див. у розділі 20.1 Напруга живлення.
+Рис. 6 Приклад  підключення  до мережі двигуна  з 
+вимикачем  електроживлення , резервними  
+плавкими  запобіжниками  та додатковим  захистом
+Рис. 7 Підключення  до мережі, трифазні  двигуни
+Вказівка
+Якщо двигун живиться  через мережу з 
+ізольованою  нейтраллю , використовуйте  
+спеціальний  двигун для живлення  через 
+мережу з ізольованою  нейтраллю . 
+Зв'яжіться  з компанією  Grundfos.
+TM05 4034 1912TM05 3494 1512
+ELCB 
+(GFCI)
+Увага
+Щоб не допустити  поганого контакту  
+з’єднань, переконайтеся  у тому, що після 
+підключення  кабелю  живлення  клеми L1, L2 
+та L3 щільно сидять в гнізді.
+Вказівка При напрузі живлення  понад 3 x 480 В, 50/60 Гц заземлення  кутової точки не допускається .
+Вказівка
+Якщо двигун живиться  через мережу з 
+ізольованою  нейтраллю , використовуйте  
+спеціальний  двигун для живлення  через 
+мережу з ізольованою  нейтраллю . 
+Зв'яжіться  з компанією  Grundfos.
+TM05 3942 1812TM05 3495 1512
+L1
+L2
+L3
+L2
+L1
+L3
+PE
+ELCB 
+(GFCI)
+
+[[page 10]]
+Українська (UA)
+10
+5.3 Додатковий  захист 
+5.3.1 Однофазні  двигуни
+При підключенні  двигуна  до електричної  установки , на якій у 
+якості додаткового  захисту  використовується  автоматичний  
+вимикач  з функцією  захисту  у разі витоку на землю (ELCB) 
+або вимикач  короткого  замикання  на землю (GFCI), такі 
+вимикачі  повинні  мати маркування  з наступними  позначками :
+Інформацію  про струм витоку двигуна  можна найти в розділі 
+19.2 Струм витоку.
+5.3.2 Трифазні  двигуни  
+При підключенні  двигуна  до електричної  установки , на якій у 
+якості додаткового  захисту  використовується  автоматичний  
+вимикач  з функцією  захисту  у разі витоку на землю (ELCB) 
+або вимикач  короткого  замикання  на землю (GFCI), такі 
+вимикачі  повинні  бути наступного  типу:
+• Вони повинні  підходити  для роботи зі струмами  витоку та 
+включатися  при коротких  імпульсних  витоках .
+• Вони повинні  спрацьовувати , коли спостерігається  змінний  
+струм короткого  замикання  та постійний  струм короткого  
+замикання , тобто переривчастий  та рівний постійний  струм 
+короткого  замикання .
+Для таких двигунів  потрібно  використовувати  автоматичний  
+вимикач  з функцією  захисту  у разі витоку на землю або 
+вимикач  короткого  замикання  на землю типу В.
+Такі вимикачі  повинні  мати маркування  з наступними  
+позначками :
+Інформацію  про струм витоку двигуна  можна найти в розділі 
+20.2 Струм витоку.
+Захист від асиметрії  фаз
+Двигун потрібно  підключити  до джерела живлення  згідно з 
+IEC 60146-1-1, клас С. Це забезпечить  коректну  роботу 
+двигуна  у разі асиметрії  фаз.
+Це також гарантує  довговічність  компонентів .
+5.4 Клеми з’єднань
+Опис та огляд клем у цьому розділі відноситься  як до 
+однофазних , так і до трифазних  двигунів .
+Див. максимальні  крутильні  моменти  затягування  в розділі 
+22.1 Крутні моменти .
+Кількість  клем залежить  від функціонального  модуля (FM). 
+Встановлений  модуль можна визначити  на заводській  
+табличці двигуна . Див. мал. 8.
+Рис. 8 Ідентифікація  функціонального  модуля
+Вказівка
+При виборі автоматичного  вимикача  з 
+функцією  захисту у разі витоку на землю або 
+вимикача  короткого  замикання  на землю 
+необхідно  враховувати  сумарний  виток 
+струму всього електрообладнання  в 
+установці .
+Вказівка
+При виборі автоматичного  вимикача  з 
+функцією  захисту у разі витоку на землю або 
+вимикача  короткого  замикання  на землю 
+необхідно  враховувати  сумарний  виток 
+струму всього електрообладнання  в 
+установці .
+ELCB 
+(GFCI)
+ELCB 
+(GFCI)
+TM05 8641 2513
+Env.Type : 
+Serial no :
+SF CL:
+PF:
+PB
+FM
+HMIEff 
+n max:
+CIMWgt:
+DE :
+kg
+NDE :
+Tamb :
+:
+FA A
+V~
+P.C. :
+Made in Hungary
+OUTPUT VARIANTINPUT
+TEFC
+Type :
+P.N. : U in :
+I 1/1 :
+f in
+Hp
+Hz
+P2
+I SF Amp:
+rpm
+:: :
+:
+:
+:
+:
+Xxxxxxxxxxx
+E.P. Motor
+DK - 8850 Bjerringbro, Denmark
+Env.Tyype p :
+Serial no :
+SF CL:
+PF:
+Eff
+n 
+Wggt :
+DE :
+kgg
+NDE :
+Tamb :
+:
+F AA
+V~
+P.C. : INPUT
+TEFC
+Typype :
+P.N. : Uin :
+I 1/1 :
+f in Hz
+P
+I SF Ampp:
+:
+PB
+FM
+HMI
+CIM
+VARIANT
+Hp
+rpm
+:
+:
+:
+:
+PB :
+HMI:
+CIM :
+Hp
+rpm
+
+[[page 11]]
+Українська  (UA)
+11
+5.4.1 Клеми з’єднань, стандартний  функціональний  
+модуль (FM 200)
+Стандартний  модуль має наступні  підключення :
+• два аналогових  входи;
+• два цифрових  входи або один цифровий  вхід та один вихід 
+з відкритим  колектором ;
+• вхід та вихід цифрового  датчика  Grundfos;*
+• два виходи сигнального  реле;
+• Підключення  GENIbus.
+* Не застосовується  до насосів  TPE, TPED серії 2000.
+Див. мал. 9.
+• Входи та виходи
+Всі входи та виходи зсередини  ізольовані  від підключених  
+до електромережі  частин за допомогою  посиленої  ізоляції 
+та гальванічно  ізольовані  від інших ланцюгів .
+На всі клеми керування  подається  безпечна наднизька  
+напруга(SELV), що забезпечує  захист від удару струмом.
+• Виходи сигнального  реле
+– Сигнальне  реле 1:
+LIVE:
+До цього виходу може бути підключена  напруга до 250 В 
+змінного  струму.
+SELV:
+Вихід гальванічно  ізольовано  від інших ланцюгів . 
+Таким чином , за бажанням  до виходу можна підключити  
+напругу живлення  або безпечну наднизьку  напругу.
+– Сигнальне  реле 2:
+SELV:
+Вихід гальванічно  ізольовано  від інших ланцюгів . 
+Таким чином , за бажанням  до виходу можна підключити  
+напругу живлення  або безпечну наднизьку  напругу.
+• Живлення  від мережі (клеми N, PE, L або L1, L2, L3, PE).
+Гальванічна  розв'язка повинна  відповідати  вимогам посиленої  
+ізоляції, включаючи  вимоги щодо довжини шляху струму 
+витоку та допуски , вказані  в стандарті  EN 61800-5-1.
+Вказівка
+Цифровий  вхід 1 встановлено  на заводі. 
+Він слугує  для запуску /зупинки, розімкнений  
+ланцюг - для зупинки. Між клемами  2 та 6 на 
+заводі була встановлена  перемичка . 
+Зніміть перемичку , якщо цифровий  
+вхід 1 буде використовуватися  у якості 
+зовнішнього  запуску /зупинки або для 
+будь-якої іншої зовнішньої  функції.
+Вказівка
+Для виконання  вимог з техніки безпеки  
+проводи, які відносяться  до нижчевказаних  
+груп, повинні  бути надійно  ізольовані  один 
+від одного по всій довжині за допомогою  
+посиленої  ізоляції .
+
+[[page 12]]
+Українська (UA)
+12
+* У разі використання  зовнішнього  джерела живлення  
+необхідно  заземлення .
+Рис. 9 Клеми з’єднань, FM 200
+TM05 3510 3512
+3
+15
+8
+26
+23
+25
+24
+7
+B
+Y
+6
+5
+2
+4
+10
+A
+AI2
+GDS RX
+GDS TX
+GND
+GENIbus A
+GENIbus B
++5 V
++24 V
++24 V
+GND
+GENIbus Y
+GND
++5 V
+DI1
+AI1
+DI3/OC1
++24 V* + ++24 V*/5 V*+24 V* 
++5 V*
+NC
+C2
+NO
+NC
+C1
+NO
++24 V* + ++24 V*/5 V*+24 V* 
++24 V*OC DIGND
+Клема Тип Функція
+NC Нормально  замкнений  контакт
+Сигнальне  реле 1
+(LIVE або SELV)
+C1 Загальний
+NO
+Нормально  
+розімкнений  
+контакт
+NC Нормально  замкнений  контакт
+Сигнальне  реле 2
+(лише SELV)
+C2 Загальний
+NO
+Нормально  
+розімкнений  
+контакт
+10 DI3/OC1
+Цифровий  вхід/вихід, 
+конфігуровний .
+Відкритий  колектор : Макс. 24 В, 
+резистивний  або індуктивний .
+4A I 1
+Аналоговий  вхід:
+0-20 мА / 4-20 мА
+0,5 - 3,5 В / 0-5 В / 0-10 В
+2D I 1 Цифровий  вхід, конфігуровний
+5+ 5  В Живлення  до потенціометра  та датчика
+6G N D Заземлення
+A GENIbus, A GENIbus, A (+)
+Y GENIbus, Y GENIbus, GND
+B GENIbus, B GENIbus, B (-)
+3G N D Заземлення
+15 +24 ВЖ и в л е н н я
+8 +24 ВЖ и в л е н н я
+26 +5 В Живлення  до потенціометру  та датчику
+23 GND Заземлення
+25 GDS TX Вихід цифрового  датчика  Grundfos
+24 GDS RX Вхід цифрового  датчика  Grundfos
+7A I 2
+Аналоговий  вхід:
+0-20 мА / 4-20 мА
+0,5 - 3,5 В / 0-5 В / 0-10 В
+
+[[page 13]]
+Українська  (UA)
+13
+5.4.2 Клеми з’єднань, розширений  функціональний  
+модуль (FM 300)
+Розширений  функціональний  модуль може бути тільки як 
+опція.
+Розширений  модуль має наступні  підключення :
+• три аналогових  входи;
+• один аналоговий  вихід;
+• два некомутованих  цифрових  входи;
+• два конфігурованих  цифрових  входи або виходи з 
+відкритим  колектором ;
+• вхід та вихід цифрового  датчика  Grundfos;*
+• два входи Pt100/1000;
+• два входи датчика  LiqTec;*
+• два виходи сигнального  реле;
+• Підключення  GENIbus.
+* Не застосовується  до насосів  TPE, TPED серії 2000.
+Див. мал. 10.
+• Входи та виходи
+Всі входи та виходи зсередини  ізольовані  від підключених  
+до електромережі  частин за допомогою  посиленої  ізоляції 
+та гальванічно  ізольовані  від інших ланцюгів .
+На всі клеми керування  подається  безпечна наднизька  
+напруга(SELV), що забезпечує  захист від удару струмом.
+• Виходи сигнального  реле
+– Сигнальне  реле 1:
+LIVE:
+До цього виходу може бути підключена  напруга до 250 В 
+змінного  струму.
+SELV:
+Вихід гальванічно  ізольовано  від інших ланцюгів . 
+Таким чином , за бажанням  до виходу можна підключити  
+напругу живлення  або безпечну наднизьку  напругу.
+– Сигнальне  реле 2:
+SELV:
+Вихід гальванічно  ізольовано  від інших ланцюгів . 
+Таким чином , за бажанням  до виходу можна підключити  
+напругу живлення  або безпечну наднизьку  напругу.
+• Живлення  від мережі (клеми N, PE, L або L1, L2, L3, PE).
+Гальванічна  розв'язка повинна  відповідати  вимогам посиленої  
+ізоляції, включаючи  вимоги щодо довжини шляху струму 
+витоку та допуски , вказані  в стандарті  EN 61800-5-1.
+Вказівка
+Цифровий  вхід 1 встановлено  на заводі. 
+Він слугує  для запуску /зупинки, розімкнений  
+ланцюг - для зупинки. Між клемами  2 та 6 на 
+заводі була встановлена  перемичка . 
+Зніміть перемичку , якщо цифровий  
+вхід 1 буде використовуватися  у якості 
+зовнішнього  запуску /зупинки або для 
+будь-якої іншої зовнішньої  функції.
+Вказівка
+Для виконання  вимог з техніки безпеки  
+проводи, які відносяться  до нижчевказаних  
+груп, повинні  бути надійно  ізольовані  один 
+від одного по всій довжині за допомогою  
+посиленої  ізоляції .
+
+[[page 14]]
+Українська (UA)
+14
+* У разі використання  зовнішнього  джерела живлення  
+необхідно  заземлення .
+Рис. 10 Клеми з’єднань, FM 300 ( факультативно )
+TM05 3509 3512
+3
+15
+8
+26
+23
+25
+24
+7
+21
+20
+22
+B
+Y
+6
+5
+2
+4
+10
+A
++24 V* 
+1
+14
+9
+12
+17
+19
+11
+18
++24 V* +
++24 V*OC DI
++24 V*/5 V*+24 V* +
++ ++24 V*/5 V*+24 V* 
++24 V* + ++24 V*/5 V*+24 V* 
++5 V* AI2
+GDS RX
+GDS TX
+GND
+GENIbus A
+GENIbus B
++5 V
++24 V
++24 V
+GND
+GENIbus Y
+GND
++5 V
+DI1
+AI1
+DI3/OC1
+LiqTec
+AI3
+GND
+DI2
+LiqTec
+GND
+AO
+Pt100/1000
+Pt100/1000
+DI4/OC2
+GND
++24 V*OC DIGND
+NC
+C2
+NO
+NC
+C1
+NO
++5 V*
+Клема Тип Функція
+NC Нормально  замкнений  контакт
+Сигнальне  реле 1
+(LIVE або SELV)C1 Загальний
+NO Нормально  розімкнений  контакт
+NC Нормально  замкнений  контакт
+Сигнальне  реле 2
+(лише SELV)C2 Загальний
+NO Нормально  розімкнений  контакт
+18 GND Заземлення
+11 DI4/OC2
+Цифровий  вхід/вихід, 
+конфігуровний .
+Відкритий  колектор : 
+Макс.2 4  В, резистивний  
+або індуктивний .
+19 Pt100/1000, вхід 2 Вхід датчика  Pt100/1000
+17 Pt100/1000, вхід 1 Вхід датчика  Pt100/1000
+12 AO
+Аналоговий  вихід:
+0-20 мА / 4-20 мА
+0-10 В
+9G N D Заземлення
+14 AI3
+Аналоговий  вхід:
+0-20 мА / 4-20 мА
+0-10 В
+1D I 2 Цифровий  вхід, конфігуровний
+21 Вхід 1 датчика  LiqTec Вхід датчика  LiqTec(білий провід)
+20 GND
+Заземлення
+(коричневі  та чорні 
+проводи)
+22 Вхід 2 датчика  LiqTec Вхід датчика  LiqTec(синій провід)
+10 DI3/OC1
+Цифровий  вхід/вихід, 
+конфігуровний .
+Відкритий  колектор : 
+Макс.2 4  В, резистивний  
+або індуктивний .
+4A I 1
+Аналоговий  вхід:
+0-20 мА / 4-20 мА
+0,5 - 3,5 В / 0-5 В / 0-10 В
+2D I 1 Цифровий  вхід, конфігуровний
+5+ 5  В Живлення  до потенціометра  та датчика
+6G N D Заземлення
+A GENIbus, A GENIbus, A (+)
+Y GENIbus, Y GENIbus, GND
+B GENIbus, B GENIbus, B (-)
+3G N D Заземлення
+15 +24 В Живлення
+8+ 2 4  В Живлення
+26 +5 В Живлення  до потенціометру  та датчику
+23 GND Заземлення
+25 GDS TX Вихід цифрового  датчика  Grundfos
+24 GDS RX Вхід цифрового  датчика  Grundfos
+7A I 2
+Аналоговий  вхід:
+0-20 мА / 4-20 мА
+0,5 - 3,5 В / 0-5 В / 0-10 В
+
+[[page 15]]
+Українська  (UA)
+15
+5.5 Сигнальні  кабелі
+• Для зовнішнього  вимикача  ВКЛ/ВИКЛ, цифрових  входів, 
+заданого  значення  та сигналів  датчика  використовуйте  
+екрановані  кабелі з площею поперечного  перерізу  не 
+менше 0,5 мм2 та не більше 1,5 мм2.
+• Екрани кабелів підключаються  до рами з обох боків за 
+допомогою  правильно  виконаних  з’єднань. Екрани повинні  
+бути максимально  близько до клем. Див. мал. 11.
+Рис. 11 Неізольований  кабель з екраном  та провідними  
+з’єднаннями
+• Незалежно  від встановлення  кабелю гвинти на рамі завжди 
+повинні  бути затягнуті .
+• Проводи в клемній  коробці  двигуна  повинні  бути 
+максимально  короткими .
+5.6 Кабель для підключення  шини
+5.6.1 Нові установки
+Для підключення  по шині зв’язку необхідно  використовувати  
+трижильний  екранований  кабель з площею поперечного  
+перерізу  не менше 0,5 мм2 та не більше 1,5 мм2.
+• Якщо двигун підключається  до пристрою , який має такий 
+же кабельний  затискач , до цього кабельного  затискача  
+необхідно  підключити  екран.
+• Якщо пристрій  не має такого кабельного  затискача , 
+екран залишають  непід’єднаним  з цього боку, як показано  
+на мал.1 2 .
+Рис. 12 Підключення  трижильного  екранованого  кабелю
+5.6.2 Заміна існуючого двигуна
+• Якщо під час установки  старого насоса  застосовувався  
+екранований  двожильний  кабель, підключення  повинно  
+бути виконано  так, як показано  на мал. 13.
+Рис. 13 Підключення  двожильного  екранованого  кабелю
+• Якщо під час установки  старого насоса  застосовувався  
+екранований  трижильний  кабель, дотримуйтесь  інструкцій , 
+приведених  в розділі 5.6.1 Нові установки .
+6. Умови експлуатації
+6.1 Максимальна  кількість  запусків та зупинок
+Кількість  пусків і зупинок  насоса шляхом подачі і відключення  
+напруги живлення  не повинна  перевищувати  чотирьох разів 
+протягом однієї години.
+Якщо насос вмикається  через мережу, він запуститься  через 
+приблизно  5 секунд.
+Якщо потрібно  частіше  вмикати та вимикати  насос необхідно  
+використовувати  вхід для зовнішнього  сигналу  запуску /зупики 
+при запуску /зупинці насоса.
+У разі запуску  за допомогою  зовнішнього  вимикача  насос 
+починає працювати  негайно.
+6.2 Почергова робота насосів з двома головками
+У разі використання  насосів  з двома головками  робочий та 
+резервний  насоси повинні  працювати  по черзі, наприклад , 
+мінятися  раз на тиждень  для рівномірного  розподілу  робочих 
+годин на обох насосах . За промовчанням , насоси чергуються  
+автоматично . Див. розділ 11.1 Настройка  декількох  насосів .
+Якщо насоси з двома головками  використовуються  для 
+перекачування  води побутових  систем гарячого 
+водопостачання , робочий та резервний  насоси повинні  
+постійно  чергуватися , наприклад , раз на день, щоб уникнути  
+засмічення  резервного  насоса  через відкладення  (вапняні  
+відкладення , тощо). За промовчанням , насоси чергуються  
+автоматично . Див. розділ 11.1 Настройка  декількох  насосів .
+6.3 Температура  навколишнього  середовища
+6.3.1 Температура  навколишнього  середовища  при 
+зберіганні  та транспортуванні
+від -30 до +60 °C.
+6.3.2 Температура  навколишнього  середовища  при 
+експлуатації  
+від -20 до +50 °C.
+Двигун може працювати  з номінальною  вихідною  потужністю  
+(Р2) при температурі  50 °C, проте безперервна  робота при 
+вищій температурі  скоротить  очікуваний  строк служби  виробу. 
+За необхідності  роботи при температурі  навколишнього  
+середовища  від +50 до +60 °C слід обрати двигун більших  
+розмірів . За детальнішою  інформацією  звертайтесь  у 
+компанію  Grundfos.
+TM02 1325 4402TM05 3973 1812TM02 8842 0904
+A
+Y
+B
+A
+Y
+B
+1
+2
+3
+1
+2
+3
+Двигун
+A
+Y
+B
+A
+Y
+B
+1
+2
+1
+2
+Двигун
+
+[[page 16]]
+Українська (UA)
+16
+6.4 Висота монтажу
+Висота монтажу  - це висота точки установки  над рівнем моря.
+• Двигуни , встановлені  на висоті до 1000 метрів над рівнем 
+моря, можуть працювати  з навантаженням  100 %.
+• Двигуни , встановлені  на висоті понад 1000 м над рівнем 
+моря, не повинні  бути повністю  навантажені  через низьку 
+щільність  повітря і, як наслідок , гірше охолодження  
+двигуна . Див. мал. 14.
+Рис. 14 Зниження  вихідної  потужності  двигуна  (P2) в 
+залежності  від висоти над рівнем моря
+6.5 Вологість повітря
+Максимальна  вологість  повітря: 95 %.
+Якщо вологість  повітря постійно  висока  та становить  понад 
+85 %, один зі зливних отворів у фланці з боку приводу 
+повинен  бути відкритим . Див. розділ 4. Монтаж механічної  
+частини  обладнання .
+6.6 Охолодження двигуна
+Для забезпечення  охолодження  двигуна  та електроніки  
+дотримуйтесь  наступних  вимог:
+• Розмістіть  насос таким чином, щоб забезпечити  достатнє 
+охолодження . Див. розділ 4.3 Забезпечення  охолодження  
+двигуна .
+• Температура  охолоджувального  повітря  не повинна  
+перевищувати  50 °C.
+• Держіть  охолоджувальні  ребра та лопаті вентилятора  в 
+чистоті.
+7. Інтерфейси  користувача
+Настройки  насоса можна зробити  за допомогою  наступних  
+інтерфейсів  користувача :
+• Розширена панель керування .
+Див. розділ 8. Розширена  панель керування .
+• Grundfos GO Remote.
+Див. розділ 9. Grundfos GO Remote .
+У разі відключення  джерела живлення  насоса  настройки  
+будуть збережені .
+Заводські  настройки
+Насоси TPE серії 2000 встановлені  на заводі на режим 
+керування  пропорційного  тиску. 
+Див. розділ 10.4.1 Пропорційний  тиск.
+Увага Забороняється  монтаж двигуна  на висоті понад 2000 метрів над рівнем моря.
+TM05 6400 4712
+1
+0.99
+0.98
+0.97
+0.96
+0.95
+0.94
+0.93
+0.92
+0.91
+0.90
+0.89
+0.88
+0
+0
+1000 1200 1400 1600 1800 2000 2200
+Altitude [m]
+P2
+[%]
+Висота [м]
+P2 
+[%]
+Попередження
+Виріб може бути настільки  гарячим, що 
+можна торкатись  лише кнопок, щоб 
+уникнути  опіків.
+
+[[page 17]]
+Українська  (UA)
+17
+8. Розширена  панель керування
+Ця панель керування  встановлена  в стандартній  комплектації  
+на насосах  TPE серії 2000.
+Рис. 15 Розширена панель керування
+8.1 Структура  меню
+У пам'ять насоса  вбудована програма  керівництва  по 
+первинних  налаштуваннях , яка відкривається  при першому  
+запуску. Після програми  по первинних  налаштуваннях  на 
+дисплеї  відображаються  чотири основні  меню.
+1. Home
+У меню представлений  огляд параметрів  (до чотирьох), що 
+задаються  користувачем , які супроводжуються  ярликами  або 
+графічною  ілюстрацією  експлуатаційної  характеристики  Q/H.
+2. Стан
+Це меню відображає  стан насоса  і системи, а також 
+попередження  і аварійні  сигнали .
+3. Настройки
+Це меню надає доступ  до всіх параметрів  налаштування . 
+Уц ь о м у меню можливе детальне налаштування  насоса .
+Див. розділ 10. Опис обраних  функцій.
+4. Assist
+У цьому меню можливе налаштування  насоса  з підказками , 
+тут приводиться  короткий  опис режимів управління  і даються 
+поради по усуненню  несправностей . Див. розділ 11. Assist.
+TM05 4849 1013
+Поз. Символ Опис
+1
+Grundfos Eye
+Відображення  робочого стану насоса.
+Для отримання  додаткової  інформації  
+див. розділ 16. Grundfos Eye .
+2- Графічний кольоровий  дисплей .
+3 Повернення  на крок назад.
+4
+Перехід між пунктами  головного меню, 
+дисплеями  і знаками .
+При переході в інше меню дисплей , що 
+відображується , завжди буде верхнім 
+дисплеєм  нового меню.
+Перехід між підменю .
+Збереження  змінених  значень, скидання  
+аварійних  сигналів  і розширення  поля 
+значень.
+Забезпечує  зв'язок за допомогою  
+Grundfos GO Remote.
+5
+Перехід до стану готовності / запуск та 
+зупинка  насоса .
+Запуск:
+При натисканні  кнопки у разі, коли насос 
+знаходиться  у виключеному  стані, насос 
+запуститься , лише якщо не були задіяні  
+інші функції вищої пріоритетності . 
+Див. розділ 15. Пріоритет  параметрів  
+настройки .
+Зупинка :
+При натисканні  кнопки під час роботи 
+насоса  він обов’язково зупиниться . У разі 
+зупинки насоса за допомогою  цієї кнопки 
+біля неї загориться  повідомлення  "Стоп".
+6 Перехід до меню "Home".
+1
+2
+3
+4
+5
+6
+Вказівка У даному меню не виконуються  жодні налаштування .
+
+[[page 18]]
+Українська (UA)
+18
+8.2 Огляд меню для розширеної  панелі керування
+8.2.1 Головні меню
+Home 
+Стан
+Робочий стан
+Робочий режим, із
+Режим керування
+Характеристики насоса
+Факт. регулир. значення
+Отримане зад. знач.
+Швидкість
+Енергоспоживання
+Вимірювані значення
+Аналоговий вхід 1
+Аналоговий вхід 2
+Аналоговий вхід 3
+Вхід 1 Pt100/1000
+Вхід 2 Pt100/1000
+Аналоговий вихід
+Застереження та сигналізація
+Діюче застереж. або сигналіз.
+Журнал застережень
+Журнал сигналізації
+Журнал роботи
+Час роботи
+Придатні модулі
+Дата та час
+Ідентифікація виробу
+Контроль підшипників двигуна
+Багатонасосна система
+Робочий ст ан системи
+Характеристика системи
+Вхідн. потуж. та енергія сис-ми
+Насос 1, багатонасосна сис-ма
+Насос 2, багатонасосна сис-ма
+Насос 3, багатонасосна сис-ма
+
+[[page 19]]
+Українська  (UA)
+19
+Настройки Розділ Сторінка  
+Задане значення 10.1 Задане значення 23
+Робочий режим 10.2 Робочий режим 23
+Встан. ручн. настр. швидкості 10.3 Встан. ручн. настр. швидкості 23
+Режим керування 10.4 Режим експлуатації 23
+Аналогові входи 10.5 Аналогові  входи 24
+Аналоговий вхід 1, настройка
+Аналоговий вхід 2, настройка
+Аналоговий вхід 3, настройка
+Входи Pt100/1000 10.6 Входи Pt100/1000 24
+Pt100/1000, настройка
+Цифрові входи 10.7 Цифрові  входи 25
+Цифровий вхід 1, настройка
+Цифровий вхід 2, настройка
+Цифрові входи/виходи 10.8 Цифрові  входи/виходи 25
+Цифровий вхід/вихід 3, настр.
+Цифровий вхід/вихід 4, настр.
+Виходи реле 10.9 Виходи реле 26
+Вихід реле 1
+Вихід реле 2
+Аналоговий вихід 10.10 Аналоговий  вихід 26
+Вихідний сигнал
+Функція аналогового виходу
+Робочий діапазон 10.11 Робочий діапазон 26
+Вплив заданого значення 10.12 Вплив заданого  значення 26
+Функція зовн. зад. значення 10.12.1 Вплив зовнішнього  заданого  значення 26
+Задані уставки 10.12.2 Задані значення 27
+Функції контролю 10.13 Зв'язок 27
+Контроль підшипників двигуна
+Обслугов. підшипників двигуна
+Нагрівання під час простою
+Зв'язок 10.13 Зв'язок 27
+Загальні настройки 10.14 Загальні  настройки 27
+Assist Розділ Сторінка  
+Допомога при нас тройці насоса
+Настройка, аналоговий вхід
+Настройка дати і часу
+Настройка декількох насосів 11.1 Настройка  декількох  насосів 28
+Опис режиму керування
+Вирішення помилок
+
+[[page 20]]
+Українська (UA)
+20
+9. Grundfos GO Remote
+Насос розроблено  для безпровідного  радідозв ’язку або 
+зв’язку в ІЧ-діапазоні  з системою  дистанційного  керування  
+Grundfos GO Remote.
+Grundfos GO Remote дозволяє настройку  функцій та надає 
+доступ до огляду стану, технічних  даних про продукт та 
+фактичних  робочих параметрів .
+Grundfos GO Remote працює з трьома різними  мобільними  
+інтерфейсами  (MI). Див. мал. 16.
+Рис. 16 Насос з'єднаний  з Grundfos GO Remote через 
+радіозв 'язок або ІЧ-світло.
+9.1 Зв'язок
+Під час зв’язку між Grundfos GO Remote та насосом  світловий  
+індикатор  в центрі Grundfos Eye буде блимати зеленим 
+світлом. Див. розділ 16. Grundfos Eye .
+Необхідно  встановлювати  зв'язок, використовуючи  один з 
+наступних  типів зв'язку:
+• радіозв'язок;
+• зв’язок в ІЧ-діапазоні .
+9.1.1 Радіозв'язок
+Радіозв'язок може відбуватися  на відстані  до 30 метрів. 
+Необхідно  активувати  зв'язок, натиснувши   або  на 
+панелі керування  насоса.
+9.1.2 Зв’язок в ІЧ-діапазоні
+Під час сеансу зв’язку в ІЧ-діапазоні  слід спрямувати  Grundfos 
+GO Remote на панель керування  насоса .
+TM05 5383 4312
+Поз. Опис
+1
+Grundfos MI 201:
+Складається  з Apple iPod touch 4G та корпусу  
+Grundfos.
+2
+Grundfos MI 202:
+Додатковий  модуль може бути використаний  в 
+поєднанні  з Apple iPod touch 4G, iPhone 4G або 
+4GS.
+Grundfos MI 204:
+Додатковий  модуль може бути використаний  в 
+поєднанні  з Apple iPod touch 5G або iPhone 5.
+3
+Grundfos MI 301:
+Окремий  модуль, який забезпечує  радіозв ’язок 
+або зв’язок в ІЧ-діапазоні . Модуль може бути 
+використаний  в поєднанні  зі смартфоном  на базі 
+Android або iOS ( з Bluetooth).
++
+1
+2
+3
++
++
+
+[[page 21]]
+Українська  (UA)
+21
+9.2 Основний  огляд Grundfos GO Remote
+9.2.1 Головні меню
+Приладова  панель 
+Статус
+Підсумкова  роб. точка
+Дійсне регульоване  значення
+Швидк. двигуна
+Споживана  потужність
+Енергоспоживання
+Години роботи
+Температура  рідини
+Струм двигуна
+Кількість  пусків
+Pt100/1000, вхід 1
+Pt100/1000, вхід 2
+Аналоговий  вихід
+Аналоговий  вхід 1
+Аналоговий  вхід 2
+Аналоговий  вхід 3
+Цифровий  вхід 1
+Цифровий  вхід 2
+Цифровий  вхід 3
+Цифровий  вхід 4
+Встановлені  модулі
+
+[[page 22]]
+Українська (UA)
+22
+Настройки Розділ Сторінка
+Задане значення  10.1 Задане значення 23
+Реж. роботи 10.2 Робочий режим 23
+Режим управління 10.4 Режим експлуатації 23
+Дата і час
+Кнопки на насосі
+Робочий діапазон 10.11 Робочий діапазон 26
+Номер насоса 10.13.1 Номер насоса 27
+Радіозв'язок
+Аналоговий  вхід 1
+10.5 Аналогові  входи 24Аналоговий  вхід 2
+Аналоговий  вхід 3
+Pt100/1000, вхід 1
+10.6 Входи Pt100/1000 24
+Pt100/1000, вхід 2
+Цифровий  вхід 1
+10.7 Цифрові  входи 25
+Цифровий  вхід 2
+Цифровий  вхід/вихід 3
+10.8 Цифрові  входи/виходи 25
+Цифровий  вхід/вихід 4
+Аналоговий  вихід 10.10 Аналоговий  вихід 26
+Ф-ція зовн. зад. зн. 10.12.1 Вплив зовнішнього  заданого  значення 26
+Сигнальне  реле 1
+10.9 Виходи реле 26
+Сигнальне  реле 2
+Підігрів  при очікуванні
+Перевірка  підшипників
+Сервіс
+Скидання  до заводських  настройок
+Збер. настройки
+Відм. настройки
+Назад
+Назва насоса
+Конфігурація
+Аварійні  сигнали  і попередження ;
+Журнал аварійних  сигналів
+Журнал попереджень
+Кнопка  "Скинути  аварію"
+Допомога
+Доп. при настр. насоса
+Підказка  помилки
+Настройка  декількох  насосів
+Інформація  про продукт
+Інформація  про продукт
+
+[[page 23]]
+Українська  (UA)
+23
+10. Опис обраних  функцій
+10.1 Задане значення
+Задані значення  для всіх режимів  керування  можуть бути 
+змінені  в підменю , якщо бажаний режим керування  був 
+вибраний . Див. розділ 10.4 Режим експлуатації .
+10.2 Робочий режим
+Доступні  режими роботи:
+• Нормал.
+Насос працює в залежності  від обраного  режиму 
+керування .
+• Стоп
+Насос зупиняється .
+• Мін.
+Режим експлуатації  у відповідності  з мінімальною  
+характеристикою  може використовуватись  у періоди, коли 
+потрібна  мінімальна  витрата. 
+• Макс.
+Режим експлуатації  у відповідності  з максимальною  
+характеристикою  може використовуватись  у періоди, коли 
+потрібна  максимальна  витрата. 
+Такий робочий режим, наприклад , може застосовуватися  
+для систем з пріоритетом  гарячого водопостачання .
+• Ручний
+Насос працює з частотою обертання , яка встановлена  
+вручну.
+Див. розділ 10.3 Встан. ручн. настр. швидкості .
+Насос може перемикатися  в режим експлуатації  відповідно  до 
+максимальної  або мінімальної  характеристики , тобто в 
+режим, аналогічний  режиму експлуатації  нерегульованого  
+насоса. Див. мал. 17.
+Рис. 17 Макс. та мін. характеристики
+10.3 Встан. ручн. настр. швидкості
+Настройка  цього насоса може бути здійснена  в %. Коли режим 
+роботи встановлено  на "Ручний", насос буде працювати  з 
+заданою  швидкістю .
+10.4 Режим експлуатації
+Можливі  режими керування :
+• Пропорц. тиск  (пропорційний  тиск)
+• Пост. пер. тис.  (постійний  перепад  тиску)
+• Постійна х-ка  (крива постійних  значень).
+Задане значення  для всіх режимів управління  може бути 
+змінено  в підменю  "Задане значення " в розділі ''Настройки " 
+після вибору бажаного режиму управління .
+10.4.1 Пропорційний  тиск
+Напір насоса зменшується  у разі зменшення  витрати води та 
+збільшується  у разі збільшення  її витрати. Див. мал. 18.
+Цей режим керування  підходить  для більшості  систем 
+опалення , особливо для систем з відносно  великими 
+втратами тиску в розподільних  трубах. Напір насоса буде 
+збільшуватися  пропорційно  витраті в системі з метою 
+компенсації  високих  втрат тиску в розподільних  
+трубопроводах .
+Задане значення  може бути встановлене  з точністю до 
+0,1 метра. Напір при закритому  клапані  дорівнює  половині  
+заданого  значення , Hset.
+Рис. 18 Пропорційний  тиск
+Для цього режиму керування  потрібен встановлений  на заводі 
+зовнішній  датчик перепаду  тиску, як показано  на прикладах  
+нижче:
+Рис. 19 Пропорційний  тиск
+TM00 5547 0995Q
+H
+Макс.
+Мін.
+Вказівка Перед включенням  режиму управління  має бути виставлений  робочий режим "Нормал. ".
+TM05 7909 1613
+Приклад
+• Встановлений  на заводі датчик перепаду  тиску.
+H
+Q
+Hset
+Hset
+2
+p
+
+[[page 24]]
+Українська (UA)
+24
+10.4.2 Постійний  перепад  тиску
+Насос підтримує  постійний  перепад  тиску, незалежно  від 
+витрати в системі . Див. мал. 20. Цей режим керування , 
+головним чином, підходить  для систем з відносно  невеликими  
+втратами тиску.
+Рис. 20 Постійний  перепад  тиску
+Для цього режиму керування  потрібен встановлений  на заводі 
+вбудований або зовнішній  датчик перепаду  тиску або два 
+зовнішні  датчики тиску, як показано  на прикладах  нижче:
+Рис. 21 Постійний  перепад  тиску
+10.4.3 Постійна  характеристика
+Насос може перемикатися  в режим експлуатації  відповідно  до 
+постійної  характеристики , тобто в режим, аналогічний  
+експлуатації  нерегульованого  насоса. Див. мал. 22.
+Бажана швидкість  може бути задана у % від максимальної  
+швидкості  в діапазоні  від 25 до 100 % (110 %).
+Рис. 22 Постійна  характеристика
+10.5 Аналогові входи
+Доступні  входи в залежності  від функціонального  модуля, 
+встановленого  на насосі:
+Для настройки  аналогового  входу виконайте  нижчевказані  
+настройки .
+Функція
+Аналогові  входи можна настроїти  на наступні  функції:
+• Неактивний
+• Датчик зворот. зв.
+• Впл. зов. зад.зн.
+Див розділ 10.12 Вплив заданого  значення.
+• Інша функція .
+Вимірюваний  параметр
+Виберіть  один з параметрів , наприклад , параметр , що 
+вимірюється  в системі датчиком , підключеним  до фактичного  
+аналогового  входу.
+Одиниця
+Доступні  одиниці вимірювання :
+Електричний  сигнал
+Виберіть  тип сигналу  (0,5 - 3,5 В, 0-5 В, 0-10 В, 0-20 мА або 
+4-20 мА).
+Діапазон  датчика , мін. знач.
+Встановіть  мін. значення  підключеного  датчика .
+Діапазон  датчика , макс. знач.
+Встановіть  макс. значення  підключеного  датчика .
+10.6 Входи Pt100/1000
+Доступні  входи в залежності  від функціонального  модуля, 
+встановленого  на насосі:
+Функція
+Входи Pt100/1000 можна настроїти  на наступні  функції:
+• Неактивний
+• Датчик зворот. зв.
+• Впл. зов. зад.зн.
+Див. розділ 10.12 Вплив заданого  значення.
+• Інша функція .
+Вимірюваний  параметр
+Виберіть  один з параметрів , наприклад , параметр , що 
+вимірюється  в системі.
+TM05 7901 1613
+Приклади
+• Встановлений  на заводі датчик перепаду  тиску.
+• Один зовнішній  датчик перепаду  тиску.
+• Два зовнішні  датчики тиску.
+TM05 7957 1713
+H
+Q
+p
+p
+p
+p
+p
+H
+Q
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Аналоговий вхід 1, 
+настройка  (4) ●●
+Аналоговий вхід 2, 
+настройка  (7) ●●
+Аналоговий вхід 3, 
+настройка  (14) - ●
+Параметр Можливі  одиниці  
+Тиск бар , м, кПа, фунт/кв.дюйм, фут
+Потік насоса м3/г, л/с, ярд3/г, гал/хв
+Температура рідини °C, °F
+Інший параметр %
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Вхід 1 Pt100/1000, 
+настройка  (17 та 18) - ●
+Вхід 2 Pt100/1000, 
+настройка  (18 та 19) - ●
+
+[[page 25]]
+Українська  (UA)
+25
+10.7 Цифрові входи
+Доступні  входи в залежності  від функціонального  модуля, 
+встановленого  на насосі:
+Для настройки  цифрового  входу виконайте  нижчевказані  
+настройки .
+Функція
+Виберіть  одну з наступних  функцій:
+• Неактивний
+При виборі функції "Неактивний " вхід не виконує  ніяких 
+функцій.
+• Зовнішня зупинка
+Якщо вхід дезактивовано  (розімкнуте  коло), насос 
+зупиниться .
+• Мін. (мін. швидкість )
+Якщо вхід активовано , насос буде працювати  з 
+мінімальною  заданою  швидкістю .
+• Макс. (макс. швидкість )
+Якщо вхід активовано , насос буде працювати  з 
+максимальною  заданою  швидкістю .
+• Зовнішня помилка
+Якщо вхід активовано , буде запущений  таймер. 
+Насос відключається  та з’являється  індикація  сигналу  
+несправності , якщо вхід активовано  більше 5 секунд .
+• Скидання сигналізації
+Якщо вхід активовано , буде виконано  скидання  можливої  
+аварійної  індикації .
+• Робота насухо
+Якщо вибрана  ця функція, може бути виявлена  відсутність  
+тиску на вході або нестача води.
+У разі виявлення  недостатнього  тиску на вході або нестачі 
+води (сухий хід) насос зупиниться . 
+Забороняється перезапускати  насос, поки вхід не 
+активовано .
+Для цього необхідні  додаткові  пристрої , такі як:
+– реле тиску, встановлене  на стороні всмоктування  насоса;
+– поплавцевий  вимикач , встановлений  на стороні  
+всмоктування  насоса.
+• Заздал. зад. знач., число 1  (застосовується  лише до 
+цифрового  входу 2)
+Якщо цифрові  входи настроюються  на попередньо  задане 
+значення , насос буде працювати  згідно із заданим  
+значенням  на основі комбінації  активованих  цифрових  
+входів.
+Див. розділ 10.12.2 Задані значення.
+Пріоритет  вибраних  функцій по відношенню  однієї до іншої 
+див. в розділі 15. Пріоритет  параметрів  настройки .
+Команда  зупинки завжди має найбільший  пріоритет.
+10.8 Цифрові входи/виходи
+Доступні  входи/виходи в залежності  від функціонального  
+модуля, встановленого  на насосі:
+Для настройки  цифрового  входу/виходу виконайте  
+нижчевказані  настройки .
+Режим
+Цифровий  вхід/вихід 3 та 4 можуть бути встановлені  в якості 
+цифрового  входу або цифрового  виходу:
+• Цифровий вхід
+• Цифровий вихід .
+Функція
+Цифровий  вхід/вихід 3 та 4 можна настроїти  на наступні  
+функції:
+Можливі  функції , цифровий  вхід/вихід 3
+Можливі  функції , цифровий  вхід/вихід 4
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Цифровий вхід 1, 
+настройка  (2 та 6) ●●
+Цифровий вхід 2, 
+настройка  (1 та 9) - ●
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Цифровий вхід/вихід 3, 
+настр. (10 та 16) ●●
+Цифровий вхід/вихід 4, 
+настр. (11 та 18) - ●
+Функція, якщо вхід Фу нкція, якщо вихід
+• Неактивний
+• Зовнішня зупинка
+• Мін.
+• Макс.
+• Зовнішня помилка
+• Скидання сигналізації
+• Робота насухо
+• Заздал. зад. знач., число 2
+• Неактивний
+• Готово
+• Сигналізація
+• Операція
+• Насос працює
+• Попередження
+Функція, якщо вхід Фу нкція, якщо вихід
+• Неактивний
+• Зовнішня зупинка
+• Мін.
+• Макс.
+• Зовнішня помилка
+• Скидання сигналізації
+• Робота насухо
+• Заздал. зад. знач., число 3
+• Неактивний
+• Готово
+• Сигналізація
+• Операція
+• Насос працює
+• Попередження
+
+[[page 26]]
+Українська (UA)
+26
+10.9 Виходи реле
+Насос включає два сигнальні  реле для безпотенційної  
+сигналізації . Для отримання  додаткової  інформації  див. 
+розділ 17. Сигнальні  реле.
+Сигнальні  реле можна настроїти  таким чином, щоб вони 
+активувалися  в одній з нижченаведених  ситуацій :
+• Готово
+• Операція
+• Сигналізація
+• Попередження
+• Насос працює
+• Контроль зовніш. вент.
+• Неактивний .
+10.10 Аналоговий вихід
+Доступність  або недоступність  аналогового  виходу залежить  
+від функціонального  модуля, встановленого  в насосі :
+Для настройки  аналогового  виходу виконайте  нижчевказані  
+настройки .
+Вихідний сигнал
+• 0-10 V
+• 0-20 mA
+• 4-20 mA .
+Функція аналогового виходу
+• Фактична швидкість
+• Фактичне значення
+• Отримане зад. знач.
+• Навантаж. двиг.
+• Струм двигуна .
+10.11 Робочий діапазон
+Робочий діапазон  можна задати таким чином:
+• Встановіть  мінімальну  швидкість  в межах від фіксованої  
+мінімальної  швидкості  до максимальної  швидкості , яка 
+задається  користувачем .
+• Встановіть  максимальну  швидкість  в межах від мінімальної  
+швидкості , яка задається  користувачем , до фіксованої  
+максимальної  швидкості .
+Діапазон  між мінімальною  та максимальною  швидкістю , 
+яка задається  користувачем , буде робочим діапазоном . 
+Див. мал. 23.
+Рис. 23 Приклад  мінімальних  та максимальних  настройок
+10.12 Вплив заданого значення
+10.12.1 Вплив зовнішнього  заданого  значення
+Можливо впливати на задане значення  за допомогою  
+зовнішнього  сигналу  через один з аналогових  входів або, при 
+установці  розширеного  функціонального  модуля, - через один 
+з входів Pt100/1000.
+Якщо більше одного входу настроєно  на параметр "Вплив на 
+задане значення ", функція  вибере аналоговий  вхід з 
+найменшим  номером , наприклад , "Аналоговий вхід 2 ", та 
+проігнорує  інші входи, наприклад , "Аналоговий вхід 3 " або 
+"Вхід 1 Pt100/1000 ".
+Приклад
+Див. мал. 24.
+Якщо нижнє значення датчика дорівнює 0 бар, задане 
+значення 2 бар, а зовнішнє задане значення 60 %, то фактичне 
+задане значення дорівнює 0,60 x (2 - 0) + 0 = 1,2 бар.
+Фактичне  задане значення  = фактичний  вхідний  сигнал x 
+(задане значення  - нижнє значення ) + нижнє значення .
+Рис. 24 Приклад  впливу заданого  значення
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Вихід реле 1  (NC, C1, NO) ●●
+Вихід реле 2  (NC, C2, NO) ●●
+Функція  (клема) FM 200(стандартний ) FM 300(розширений )
+Аналоговий вихід - ●
+Вказівка У разі швидкості  нижче 25 % на ущільненні  вала може виникнути  шум.
+TM00 6785 5095
+Вказівка
+Перед активацією  "Цифрові входи " потрібно  
+встановити  один з аналогових  входів або 
+входів Pt100/1000 на "Функція зовн. зад. 
+значення ".
+Див. розділи  10.5 Аналогові  входи та 
+10.6 Входи Pt100/1000.
+TM05 6279 4612
+Макс. швидкість  (фіксована )
+Макс. швидкість , яка 
+задається  користувачем
+Робочий діапазон
+Мін. швидкість , яка 
+задається  користувачем
+Мін. швидкість  (фіксована )
+24 %
+12 %
+0 %
+67 %
+100 % (110 %)
+100
+0
+0 100
+0
+1.2
+2
+[bar]
+Вплив заданого значення  [%]
+Сигнал 
+зовнішнього  
+заданого  
+значення  
+[%]
+Фактичний  
+вхідний  
+сигнал 
+Фактичне
+задане
+значення
+Задане
+значення
+Верхнє
+значення
+Нижнє
+значення
+
+[[page 27]]
+Українська  (UA)
+27
+Типи впливу заданого  значення
+• Неактивний
+• Лінійна функція
+• Лінійна з мін.
+Ці функції можна вибрати:
+• Неактивний
+У разі встановлення  "Неактивний " задане значення не буде 
+залежати ні від якої зовнішньої  функції .
+• Лінійна функція
+Під зовнішнім  впливом задане значення  міняється  лінійно  
+від 0 до 100 %. Див. мал. 25.
+Рис. 25 Лінійна функція
+– Лінійна з мін.
+Якщо вхідний  сигнал варіюється  від 20 до 100 %, задане 
+значення  змінюється  при такому впливі лінійно .
+Якщо вхідний  сигнал нижче 10 %, насос переключиться  в 
+робочий режим "Мін.".
+Якщо вхідний  сигнал стає більше 15 %, знову 
+включається  робочий режим "Нормал. ".
+Див. мал. 26.
+Рис. 26 Лінійна з мін.
+10.12.2 Задані значення
+Комбінуючи  вхідні сигнали  на цифрових  входах 2, 3 та 4 
+(як показано  в таблиці нижче), можна задати та активувати  
+сім заданих  значень.
+10.13 Зв'язок
+10.13.1 Номер насоса
+Насосу можна надати унікальний  номер. Це дозволяє 
+розрізняти  насоси при з'єднанні  з комунікаційною  шиною.
+10.14 Загальні настройки
+10.14.1 Мова
+Доступно  декілька  мов.
+Одиниці вимірювання  автоматично  змінюються  відповідно  до 
+вибраної  мови.
+TM05 6280 4612TM05 6281 4612
+100
+0
+10020 40 60 80
+Вплив заданого значення  [%]
+Зовнішній  
+вхід [%]
+100
+0
+10020 40 60 80
+Вплив заданого значення  [%]
+Зовнішній  
+вхід [%]
+Нормал.
+Мін.
+Цифрові входи
+Задане значення
+234
+000 Нормальне  задане значення
+100 Задане значення  1
+010 Задане значення  2
+110 Задане значення  3
+001 Задане значення  4
+101 Задане значення  5
+011 Задане значення  6
+111 Задане значення  7
+
+[[page 28]]
+Українська (UA)
+28
+11. Assist
+11.1 Настройка декі лькох насосів
+Багатонасосна  функція  дозволяє керувати  насосами  з однією 
+головкою , з'єднаними  паралельно , та насосами  з двома 
+головками  без використання  зовнішніх  регуляторів . Насоси  в 
+багатонасосній  системі з'єднані один з одним через 
+безпровідне  з'єднання  GENIair або провідне  з'єднання  GENI.
+Налаштування  системи  з декількома  насосами  здійснюється  
+за допомогою  обраного  насоса , наприклад  основного  
+(першого обраного ) насоса . Всі насоси Grundfos, оснащені  
+модулем безпровідного  зв'язку GENIair, можна підключити  до 
+багатонасосної  системи.
+Функції  роботи з декількома  насосами  описані  в подальших  
+розділах.
+11.1.1 Позмінний  режим роботи
+Одночасно  може працювати  лише один насос. Перехід від 
+одного насоса до іншого залежить  від часу або 
+енергоспоживання . При виході насоса  з ладу інший насос 
+запускається  автоматично .
+Насосна  система:
+• Здвоєний  насос.
+• Два одинарні  насоси з'єднані паралельно .
+Насоси повинні  бути однакового  розміру і типу. 
+Послідовно з  кожним насосом  потрібно  встановити  
+зворотний  клапан.
+11.1.2 Робота з резервним  насосом
+Один насос працює постійно . Резервний насос включається  
+періодично , щоб запобігти  його заїданню . Якщо працюючий  
+основний  насос зупиняється  внаслідок  несправності , 
+резервний  насос запускається  автоматично .
+Насосна  система:
+• Здвоєний  насос.
+• Два одинарні  насоси з'єднані паралельно .
+Насоси повинні  бути однакового  розміру і типу. 
+Послідовно з  кожним насосом  потрібно  встановити  
+зворотний  клапан.
+11.1.3 Робота у каскадному  режимі
+Робота в каскадному  режимі забезпечує  автоматичне  
+налаштування  продуктивності  системи  залежно від рівня 
+споживання  шляхом вмикання  або вимикання  насосів . 
+Таким чином  забезпечується  робота системи з максимальним  
+енергозбереженням  при постійному  перепаді  тиску і 
+обмеженій  кількості  насосів .
+Всі включені  насоси працюють  з рівною частотою обертання . 
+Перемикання  насосів  відбувається  автоматично  і залежить  
+від енергоспоживання , робочих годин і несправностей .
+Насосна  система:
+• Два-чотири насоси з однією головкою  з'єднані паралельно .
+Насоси повинні  бути однакового  розміру і типу. 
+Послідовно з  кожним насосом  потрібно  встановити  
+зворотний  клапан.
+Треба обрати режим управління  "Пост. пер. тис. " або 
+"Постійна х-ка ".
+
+[[page 29]]
+Українська  (UA)
+29
+12. Вибір режиму керування
+Застосування  системи Виберіть  цей режим керування
+У системах  з відносно  великими втратами тиску в розподільних  трубопроводах  і в 
+системах  кондиціонування  і охолоджування  повітря.
+• Двотрубні  системи  опалення  з терморегулюючими  клапанами  та
+– дуже довгими  розподільчими  трубами
+– балансувальними  клапанами  в трубах з сильно дросельованим  потоком
+– з контролерами  перепаду  тиску
+– з великими втратами тиску в тих частинах  системи, де потік розділяється  на багато 
+потоків (наприклад , бойлер, теплообмінник  та розподільний  трубопровід  до першого 
+розгалуження ).
+• Насоси головного контуру  в системах  з великими втратами тиску в головному  контурі .
+• Системи кондиціонування  повітря з
+– теплообмінниками  (фанкойлами )
+– охолоджувальними  стелями 
+– охолоджувальними  поверхнями .
+Пропорційний  тиск
+В системах  з відносно  невеликою  втратою тиску в розподільних  трубах.
+• Двотрубні  системи  опалення  з терморегулюючими  клапанами  та
+– розраховані  на природну  циркуляцію
+– з невеликими  втратами тиску в тих частинах  системи, де потік розділяється  на багато 
+потоків (наприклад , бойлер, теплообмінник  та розподільний  трубопровід  до першого 
+розгалуження ), або
+– модифіковані  для високої  різниці  температур  між подаючим трубопроводом  та 
+зворотнім  трубопроводом  (наприклад , центральне  опалення ).
+• Системи опалювання  підлоги  з терморегулюючими  клапанами .
+• Однотрубні  системи  опалення  з терморегулюючими  або балансувальними  клапанами .
+• Насоси головного контуру  в системах  з малими втратами тиску в головному  контурі .
+Постійний  перепад  тиску
+В системах  з фіксованою  характеристикою .
+Приклади :
+• однотрубні  системи опалення ;
+• шунти котлів;
+• системи з триходовими  клапанами ;
+• циркуляція  гарячої води.
+Постійна  температура  та постійний  
+перепад  температури
+Якщо використовується  зовнішній  контролер , то насос може перемикатися  з однієї 
+постійної  характеристики  на іншу залежно від значення  зовнішнього  сигналу.
+Насос також може перемикатися  в режим експлуатації  відповідно  до максимальної  або 
+мінімальної  характеристики , тобто в режим, аналогічний  режиму експлуатації  
+нерегульованого  насоса:
+• Режим роботи по максимальній  характеристиці  слід вибирати  в періоди, коли 
+необхідна  максимальна  витрата.
+Такий робочий режим, наприклад , може застосовуватися  для систем з пріоритетом  
+гарячого водопостачання .
+• Режим роботи по мінімальній  характеристиці  слід вибирати  в періоди, коли необхідна  
+мінімальна  витрата.
+Постійна  характеристика
+В системах  з насосами , що працюють  паралельно .
+Багатонасосна  функція  дозволяє керувати  насосами  з однією головкою , з'єднаними  
+паралельно  (два-чотирі насоси), та насосами  з двома головками  без використання  
+зовнішніх  регуляторів . Насоси  в багатонасосній  системі з'єднані один з одним через 
+безпровідне  з'єднання  GENIair або провідне  з'єднання  GENI.
+Меню "Assist"
+"Настройка декількох насосів "
+H
+Q
+Hset
+Hset
+2
+H
+Q
+H
+Q
+H
+Q
+
+[[page 30]]
+Українська (UA)
+30
+13. Зміна положення  панелі керування
+Панель керування  можна повернути  на 180 °. 
+Необхідно виконувати  вказівки , що наведені нижче.
+1. Відкрутіть  чотири гвинта (TX25), що утримують  кришку 
+клемної  коробки .
+Рис. 27 Відкручування  гвинтів
+2. Зніміть  кришку клемної  коробки .
+Рис. 28 Знімання  кришки клемної  коробки
+3. Натисніть  на два стопорних  виступи  (поз. А) та утримуйте  
+їх в цьому положенні , одночасно  з цим обережно  підніміть  
+пластмасову  кришку  (поз. В).
+Рис. 29 Піднімання  пластмасової  кришки
+4. Поверніть  пластмасову  кришку на 180 °.
+Рис. 30 Поворот пластмасової  кришки
+5. Помістіть  пластмасову  кришку назад на чотири гумових 
+виступи  (поз. С). Переконайтеся , що стопорні  виступи  
+(поз. А) розміщені  правильно .
+Рис. 31 Повторне  встановлення  пластмасової  кришки
+6. Встановіть  кришку клемної  коробки  та переконайтеся , що 
+вона також повернута  на 180 °, а кнопки на панелі 
+керування  співпадають  з кнопками  на пластмасовій  
+кришці.
+Затягніть  чотири гвинта (TX25) із зусиллям  5 Нм.
+Рис. 32 Встановлення  кришки клемної  коробки
+TM05 5351 3612TM05 5352 3612TM05 5353 3612
+Вказівка Не перекручуйте  кабель  більше ніж на 90 °.
+TM05 5354 3612TM05 5355 3612TM05 5356 3612
+
+[[page 31]]
+Українська  (UA)
+31
+14. Сигнал шини зв'язку
+Двигун дає можливість  встановлювати  зв'язок через вхід 
+RS-485. Зв'язок відбувається  згідно з протоколом  шини 
+GENIbus фірми Grundfos, причому  забезпечується  з'єднання  з 
+системою  керування  будинком або з іншою зовнішньою  
+системою  керування .
+За допомогою  сигналу  шини можна дистанційно  
+встановлювати  такі параметри  роботи двигуна , як робоча 
+точка та режим роботи. Одночасно  двигун може передавати  
+через шину статусну  інформацію  щодо важливих  параметрів : 
+фактичне  значення  параметру  керування , вхідна потужність  
+та аварійні  сигнали .
+За детальнішою  інформацією  звертайтесь  у компанію  
+Grundfos.
+15. Пріоритет  параметрів  настройки
+Двигун може завжди бути встановлений  на режим 
+експлуатації  на макс. швидкості  або зупинений  за допомогою  
+Grundfos GO Remote.
+Якщо одночасно  працює дві або більше функцій, двигун 
+працюватиме  у відповідності  з функцією , що має найвищий  
+пріоритет.
+Приклад : Якщо через цифровий  вхід двигуну  була задана 
+макс. швидкість , то на його панелі керування  чи через 
+Grundfos GO Remote можна вибрати лише режими двигуна  
+"Ручний" або "Стоп".
+Пріоритет  настройок  наведено в таблиці нижче:
+* Якщо зв'язок по шині переривається , двигун перейде  до свого попереднього  режиму роботи, наприклад , "Стоп", вибраного  за 
+допомогою  Grundfos GO Remote або на панелі керування  двигуна .
+Вказівка
+У разі використання  сигналу  шини зв'язку 
+кількість  настройок , доступних  через 
+Grundfos GO Remote, зменшується .
+Пріоритет Кнопка запуску /зупинки Grundfos GO Remote або панель  керування  на двигуні Цифровий  вхід Зв 'язок по шині
+1 Стоп
+2 Стоп*
+3 Ручний
+4 Макс. швидкість *
+5 Стоп
+6 Стоп
+7 Макс. швидкість
+8 Мін. швидкість
+9 Пуск
+10 Макс. швидкість
+11 Мін. швидкість
+12 Мін. швидкість
+13 Пуск
+14 Пуск
+
+[[page 32]]
+Українська (UA)
+32
+16. Grundfos Eye
+Робочий режим насоса  вказується  системою  Grundfos Eye, 
+розташованою  на панелі керування . Див. мал. 33, поз. A.
+Рис. 33 Grundfos Eye
+TM05 5993 4312
+Grundfos Eye Індикація Опис
+Не горять індикатори . Живлення  вимкнено .Двигун не працює.
+Два протилежних  зелених світлових  
+індикатори  обертаються  у напрямку  
+обертання  двигуна , якщо дивитися  з 
+неповідного  кінця.
+Живлення  ввімкнено .
+Двигун працює.
+Два протилежних  зелених індикатора  
+горять постійно .
+Живлення  ввімкнено .
+Двигун не працює.
+Один жовтий світловий  індикатор  
+обертається  у напрямку  обертання  
+двигуна , якщо дивитися  з неповідного  
+кінця.
+Попередження .
+Двигун працює.
+Один жовтий індикатор  горить постійно . Попередження .Двигун зупинився .
+Два протилежних  червоних  індикатора  
+блимають одночасно .
+Аварійна  сигналізація .
+Двигун зупинився .
+Зелений світловий  індикатор  в центрі 
+швидко  блимає чотири рази.
+Дистанційне  керування  за допомогою  Grundfos 
+GO Remote з використанням  радіозв'язку.
+Двигун намагається  зв’язатися з Grundfos GO 
+Remote. Двигун, який розглядається , 
+підсвічується  на екрані Grundfos GO Remote, 
+сповіщаючи  користувача  про розташування  
+двигуна .
+Зелений світловий  індикатор  в центрі 
+блимає постійно .
+У разі вибору потрібного  двигуна  в меню 
+Grundfos GO Remote зелений світловий  
+індикатор  в центрі буде блимати постійно . 
+Натисніть   на панелі керування  двигуна , щоб 
+почати дистанційне  керування  та обмін даними 
+через Grundfos GO Remote.
+Зелений світловий  індикатор  в центрі 
+постійно  ввімкнений . Дистанційне  керування  за допомогою  Grundfos GO Remote з використанням  радіозв'язку.
+Відбувається  передача даних між двигуном  та 
+Grundfos GO Remote через радіозв'язок.
+Зелений світловий  індикатор  в центрі 
+швидко  блимає, поки йде обмін даними 
+між Grundfos GO Remote та двигуном . 
+Це займе  декілька  секунд.
+Дистанційне  керування  за допомогою  Grundfos 
+GO Remote з використанням  інфрачервоного  
+світла.
+Відбувається  отримання  двигуном  даних від 
+Grundfos GO Remote через інфрачервоний  
+зв'язок.
+A
+
+[[page 33]]
+Українська  (UA)
+33
+17. Сигнальні  реле
+Двигун оснащений  двома виходами для без потенційних  
+сигналів  через два внутрішніх  реле.
+Сигнальні  виходи можна встановити  на "Операція ", "Насос 
+працює", "Готово", "Сигналізація " та "Попередження ".
+Функції  двох реле сигналізації  наведені в таблиці нижче:
+Опис Grundfos Eye
+Положення  контактів  реле сигналізації  в активованому  
+стані
+Робочий режим
+Операція Насос працює Готово Сигналізація Попередження
+Живлення  
+вимкнено .
+Не горить
+-
+Насос працює в 
+режимі "Нормал. "
+Зелений, обертається
+Нормал. , 
+Мін. або Макс.
+Насос працює в 
+режимі "Ручний"
+Зелений, обертається
+Ручний
+Насос знаходиться  
+в режимі "Стоп".
+Зелений, нерухомий
+Стоп
+Попередження , але 
+насос працює.
+Жовтий, обертається
+Нормал. , 
+Мін. або Макс.
+Попередження , але 
+насос працює в 
+режимі "Ручний". Жовтий, обертається
+Ручний
+Попередження , але 
+насос було 
+зупинено  через 
+команду  "Стоп". Жовтий, нерухомий
+Стоп
+Аварійний  сигнал, 
+але насос працює.
+Червоний , обертається
+Нормал. , 
+Мін. або Макс.
+Аварійний  сигнал, 
+але насос працює в 
+режимі "Ручний". Червоний , обертається
+Ручний
+Насос зупинено  
+через аварійний  
+сигнал. Червоний , мигає
+Стоп
+NCNOC NCNOC NCNOC NCNOC NCNOC
+C NO NC C NO NC C NO NC NCNOC NCNOC
+C NO NC C NO NC NCNOC NCNOC NCNOC
+NCNOC NCNOC C NO NC NCNOC NCNOC
+C NO NC C NO NC C NO NC NCNOC C NO NC
+C NO NC C NO NC NCNOC NCNOC C NO NC
+NCNOC NCNOC C NO NC NCNOC C NO NC
+C NO NC C NO NC NCNOC C NO NC NCNOC
+C NO NC C NO NC NCNOC C NO NC NCNOC
+NCNOC NCNOC NCNOC C NO NC NCNOC
+
+[[page 34]]
+Українська (UA)
+34
+18. Вимірювання  опору ізоляції
+19. Технічні дані, однофазні  двигуни
+19.1 Напруга живлення
+• 1 x 200-240 В - 10 %/+ 10 %, 50/60 Гц, захисне  заземлення .
+Перевірте , щоб напруга живлення  та частота відповідали  
+значенням , вказаним  на заводській  табличці.
+Рекомендований  розмір плавкого  запобіжника
+Можуть  використовуватися  стандартні  плавкі запобіжники , а 
+також швидкодіючі  або інерційні  запобіжники .
+19.2 Струм витоку
+Струм витоку на землю < 3,5 мА (живлення  змінного  струму).
+Струм витоку на землю < 10 мА (живлення  постійного  струму).
+Струм витоку вимірюється  згідно з EN 61800-5-1:2007.
+20. Технічні дані, трифазні  двигуни
+20.1 Напруга живлення
+• 3 x 380-500 В - 10 %/+ 10 %, 50/60 Гц, захисне  заземлення .
+Перевірте , щоб напруга живлення  та частота відповідали  
+значенням , вказаним  на заводській  табличці.
+Рекомендований  розмір плавкого  запобіжника
+Можуть  використовуватися  стандартні  плавкі запобіжники , а 
+також швидкодіючі  або інерційні  запобіжники .
+20.2 Струм витоку
+Струм витоку вимірюється  згідно з EN 61800-5-1:2007.
+21. Входи/виходи
+Точка заземлення  (GND)
+Вся напруга йде на заземлення .
+Весь струм повертається  до заземлення .
+Абсолютна  максимальна  напруга  та граничний  струм
+Перевищення  наступних  електричних  лімітів  може призвести  
+до суттєвого  скорочення  експлуатаційної  надійності  та 
+довговічності  двигуна :
+Реле 1:
+Максимальне  навантаження  контакту : ~ 250 В, 2 А або = 30 В, 
+2 А.
+Реле 2:
+Максимальне  навантаження  контакту : = 30 В, 2 А.
+Клеми GENI: -5,5 - 9,0 В пост. струму або < 25 мА пост. струму.
+Інші клеми входу/виходу: -0,5 - 26 В пост. струму або < 15 мА 
+пост. струму.
+Цифрові  входи (DI)
+Внутрішній  струм щільного  притискання  > 10 мА при Vi = 0 В 
+пост. струму.
+Внутрішнє  підвищення  напруги до = 5 В 
+(без струму для Vi > = 5 В).
+Певний низький  логічний  рівень: Vi < = 1,5 В.
+Певний високий  логічний  рівень: Vi > = 3,0 В.
+Гістерезис : Ні.
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Максимальна  довжина кабелю: 500 м.
+Цифрові  виходи з відкритим  колектором  (OC)
+Можливість  зниження  струму: 75 мА пост. струму, відсутність  
+збільшення  струму.
+Типи навантаження : Резистивне  або/та індуктивне .
+Напруга низького  рівня при струмі навантаження  75 мА пост. 
+струму: Макс. = 1,2 В.
+Напруга низького  рівня при струмі навантаження  10 мА пост. 
+струму: Макс. = 0,6 В.
+Захист від перевищення  максимального  струму: Так.
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Максимальна  довжина кабелю: 500 м.
+Аналогові  входи (AI)
+Діапазони  сигналів  напруги:
+•0 , 5  -  3 , 5  В пост. струму, AL AU.
+•0 - 5  В пост. струму, AU.
+• 0-10 В пост. струму, AU.
+Сигнал напруги: Ri > 100 кОм при +25 °C.
+Струм витоку може з'явитися  при високій  робочій температурі . 
+Слідкуйте  за тим, щоб внутрішній  опір джерела залишався  
+низьким .
+Діапазони  сигналу  струму:
+• 0-20 мА пост. струму, AU.
+• 4-20 мА пост. струму, AL AU.
+Сигнал струму: Ri = 292 Ом.
+Захист від перенавантаження  струму: Так. Змінити  на сигнал 
+напруги.
+Допуски  вимірювання : - 0/+ 3 % від максимуму  значення , яке 
+вимірюється  (охоплення  макс. точок).
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Максимальна  довжина кабелю: 500 м (окрім потенціометра ).
+Потенціометр , підключений  до +5 В, заземлення  та 
+аналогового  входу:
+Використовуйте  максимум  10 кОм.
+Максимальна  довжина кабелю: 100 м.
+Увага
+Вимірювання  опору ізоляції  при підключених  
+двигунах  MGE заборонено , оскільки  це може 
+призвести  до пошкодження  вбудованої  
+електроніки .
+Розмір двигуна
+[кВт]
+Мін.
+[A]
+Макс.
+[A]
+0,12 to 0,75 6 10
+1,1 - 1,5 10 16
+Розмір двигуна
+[кВт]
+Мін.
+[A]
+Макс.
+[A]
+0,12 to 1,1 6 6
+1,5 - 2,2 6 10
+Розмір двигуна
+[кВт]
+Струм витоку
+[мA]
+0,75 - 2,2
+(напруга живлення  < 400 В) < 3,5
+0,75 - 2,2
+(напруга живлення  > 400 В) < 5
+
+[[page 35]]
+Українська  (UA)
+35
+Аналоговий  вихід (AO)
+Лише здатність  збільшення  струму.
+Сигнал напруги:
+• Діапазон : = 0-10 В.
+• Мінімальне  навантаження  між аналоговим  виходом та 
+заземленням : 1 кОм.
+• Захист від короткого  замикання : Так.
+Сигнал струму:
+• Діапазони : 0-20 та 4-20 мА пост. струму.
+• Максимальне  навантаження  між аналоговим  виходом та 
+заземленням : 500 Ом.
+• Захист від розмикання  кола: Так.
+Допуск: - 0/+ 4 % від максимуму  значення , яке вимірюється  
+(охоплення  макс. точок).
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Максимальна  довжина кабелю: 500 м.
+Входи Pt100/1000 (PT)
+Діапазон  температури :
+• Мінімум  -30 °C (88 Ом / 882 Ом).
+• Максимум  +180 °C (168 Ом / 1685 Ом).
+Допуски  вимірювання : ± 1,5 °C.
+Роздільна здатність  вимірювального  приладу : < 0,3 °C.
+Автоматичне  визначення  діапазону  (Pt100 або Pt1000): Так.
+Сигнал про несправність  датчика : Так.
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Використовуйте  Pt100 для коротких  проводів.
+Використовуйте  Pt1000 для довгих проводів.
+Входи датчика  LiqTec*
+Використовуйте  лише датчик Grundfos LiqTec.
+Екранований  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Вхід та вихід цифрового  датчика  Grundfos (GDS)*
+Використовуйте  лише цифровий  датчик Grundfos.
+* Не застосовується  до насосів  TPE, TPED серії 2000.
+Живлення  (+5 В, +24 В)
++5 В:
+• Вихідна  напруга: = 5 В - 5 %/+ 5 %.
+• Максимальний  струм: 50 мА пост. струм (лише 
+збільшення ).
+• Захист від перенавантаження : Так.
++24 В:
+• Вихідна  напруга: = 24 В - 5 %/+ 5 %.
+• Максимальний  струм: 60 мА пост. струм (лише 
+збільшення ).
+• Захист від перенавантаження : Так.
+Цифрові  виходи (реле)
+Безпотенційні  перемикаючі  контакти .
+Мінімальне  навантаження  на контакти  під час використання : 
+= 5 В, 10 мА.
+Екранований  кабель: 0,5 - 2,5 мм2 / 28-12 AWG.
+Максимальна  довжина кабелю: 500 м.
+Вхід шини
+Протокол GENIbus, RS-485.
+Екранований  3-жильний  кабель: 0,5 - 1,5 мм2 / 28-16 AWG.
+Максимальна  довжина кабелю: 500 м.
+22. Інші технічні  дані
+ЕМС (електромагнітна  сумісність )
+EN 61800-3.
+Жилі райони, необмежене  розповсюдження , згідно з 
+CISPR 11, клас B, група 1.
+Промислові  райони, необмежене  розповсюдження , згідно з 
+CISPR 11, клас A, група 1.
+За детальнішою  інформацією  звертайтесь  у компанію  
+Grundfos.
+Клас захисту
+Стандарт: IP55 (IEC 34-5).
+За замовленням : IP66 (IEC 34-5).
+Клас ізоляції
+F (IEC 85).
+22.1 Крутні моменти
+22.2 Рівень звукового тиску
+Сірі поля означають, что двигун ще не випускається  у цій 
+номенклатурі  двигунів  MGE, але випускається  у попередній  
+номенклатурі  двигунів  MGE.
+23. Утилізація  відходів
+Даний виріб, а також вузли і деталі повинні  збиратися  і 
+видалятися  відповідно  до вимог екології :
+1. Використовуйте  державні  або приватні служби  збору 
+сміття.
+2. Якщо такі організації  або фірми відсутні , зв’яжіться  
+з найближчою  філією або Сервісним  центром Grundfos.
+Відпрацьована  батарея повинна  утилізуватися  згідно 
+національних  правил. У разі виникнення  сумнівів  зверніться  
+до місцевого  представництва  компанії  Grundfos.
+Зберігається  право на внесення  технічних  змін.
+Клема Розмір  різі
+Макс. крутний  
+момент
+[Нм]
+L1, L2, L3, L, N M4 1,8
+NC, C1, C2, NO M2,5 0,5
+1 - 26 та A, Y , B M2 0,5
+Двигун
+[кВт]
+Макс. 
+швидкість , 
+зазначена  на 
+заводській  
+табличці
+[хв-1]
+Швидкість
+[хв-1]
+Рівень звукового  
+тиску
+ISO 3743
+[дБ(A)]
+1-фазні 
+двигуни
+3-фазні 
+двигуни
+0,12 to 
+0,75
+2000
+1500 38 38
+2000 42 42
+4000
+3000 53 53
+4000 58 58
+1,1
+2000
+1500 38
+2000 42
+4000
+3000 53 53
+4000 58 58
+1,5 4000
+3000 57 57
+4000 64 64
+2,2 4000
+3000 57
+4000 64
+
+[[page 36]]
+Додаток
+36
+Додаток 1
+24. Installation in the USA and Canada
+24.1 Electrical codes
+For USA
+This product complies with t he Canadian Electrical Code and 
+the US National Electrical Code.
+This product has been tested according to the national standards 
+for Electronically Protected Motors:
+CSA 22.2 100.04: 2009 (applies to Canada only).
+UL 1004-1: June 2011 (applies to USA only).
+Pour le Canada
+Codes de l'électricité
+Ce produit est conforme au Code  canadien de l'électricité et 
+au Code national de l'électricité américain.
+Ce produit a été testé selon les normes nationales s'appliquant 
+aux moteurs protégés électroniquement:
+CSA 22.2 100.04: 2009 (s'applique au Canada uniquement).
+UL 1004-1: Juin 2011 (s'appli que aux États-Unis uniquement).
+24.2 Radio communication
+For USA
+This device complies with part 15 of the FCC rules and RSS210 
+of IC rules.
+Operation is subject to t he following two conditions:
+• This device may not cause interference.
+• This device must accept any interference, including 
+interference that may cause undesired operation of the device.
+Pour le Canada
+Communication radio
+Ce dispositif est conforme à la partie 15 des règles de la FCC et 
+aux normes RSS210 de l'IC.
+Son fonctionnement est soumis aux deux conditions suivantes:
+• Ce dispositif ne doit pas provoqu er de brouillage préjudiciable.
+• Il doit accepter tout brouillage reçu, y compris le brouillage 
+pouvant entraîner un mauvais fonctionnement.
+24.3 Identification numbers
+For USA
+Grundfos Holding A/S
+Contains FCC ID: OG3-RADIOM01-2G4. 
+For Canada
+Grundfos Holding A/S 
+Model: RADIOMODULE 2G4
+Contains IC: 10447A-RA2G4M01.
+Pour le Canada
+Numéros d'identification
+Grundfos Holding A/S 
+Modèle: RADIOMODULE 2G4
+Contient IC: 10447A-RA2G4M01.
+Location of identification numbers
+ 
+Рис. 1 Identification numbers
+Рис. 2 Identification numbers
+24.4 Electrical connection
+24.4.1 Conductors
+Use 140/167 °F (60/75 °C) copper conductors only.
+24.4.2 Torques
+Maximum tightening torques for the terminals can be found in 
+section Torques, page 38.
+24.4.3 Line reactors
+Maximum line reactor size must not exceed 1.5 mH.
+24.4.4 Fuse size/circuit breaker
+If a short-circuit occurs, the pum p can be used on a mains supply 
+delivering not more than 5000 RMS symmetrical amperes, 600 V 
+maximum.
+Fuses
+When the motor is protected by fuses, they must be rated for 
+480 V. Maximum sizes are stated in the table above.
+Motors up to and including 2.2 kW require class K5 UR fuses.
+Circuit breaker
+When the pump is protected by a circuit breaker, this must be 
+rated for a maximum voltage of 480 V. The circuit breaker must 
+be of the "inverse time" type.
+The interrupting rating (RMS symmetrical amperes) must not be 
+less than the values stated in the table above.
+24.4.5 Overload protection
+Degree of overload protection prov ided internally by the drive, 
+in percent of full-load current: 102 %.
+Зберігається  право на внесення  технічних  змін.
+Вказівка
+In order to maintain the cURus approval, 
+follow these additional installation instructions. 
+The UL approval is according to UL 1004-1.
+TM05 7572 1213TM05 7573 1213
+Motor size Fuse size Circuit breaker type/model
+0.25 to 2.2 kW 25 A 25 A / inverse time
+Stop
+Identification numbers
+Identification numbers
+
+[[page 37]]
+Компанії Grundfos
+Argentina
+Bombas GRUNDFOS de Argentina S.A.
+Ruta Panamericana km. 37.500 Centro 
+Industrial Garin
+1619 Garín Pcia. de B.A.
+Phone: +54-3327 414 444
+Telefax: +54-3327 45 3190
+Australia
+GRUNDFOS Pumps Pty. Ltd. 
+P .O. Box 2040 
+Regency Park 
+South Australia 5942 
+Phone: +61-8-8461-4611 
+Telefax: +61-8-8340 0155 
+Austria
+GRUNDFOS Pumpen Vertrieb Ges.m.b.H.
+Grundfosstraße 2 
+A-5082 Grödig/Salzburg 
+Tel.: +43-6246-883-0 
+Telefax: +43-6246-883-30 
+Belgium
+N.V. GRUNDFOS Bellux S.A. 
+Boomsesteenweg 81-83 
+B-2630 Aartselaar 
+Tél.: +32-3-870 7300 
+Télécopie: +32-3-870 7301
+Belarus
+Представительство  ГРУНДФОС в 
+Минске
+220125, Минск
+ул. Шафарнянская , 11, оф. 56, БЦ 
+«Порт»
+Тел.: +7 (375 17) 286 39 72/73
+Факс: +7 (375 17) 286 39 71
+E-mail: minsk@grundfos.com
+Bosna and Herzegovina
+GRUNDFOS Sarajevo
+Zmaja od Bosne 7-7A,
+BH-71000 Sarajevo
+Phone: +387 33 592 480
+Telefax: +387 33 590 465
+www.ba.grundfos.com
+e-mail: grundfos@bih.net.ba
+Brazil
+BOMBAS GRUNDFOS DO BRASIL
+Av. Humberto de Alencar Castelo Branco, 
+630
+CEP 09850 - 300
+São Bernardo do Campo - SP
+Phone: +55-11 4393 5533
+Telefax: +55-11 4343 5015
+Bulgaria
+Grundfos Bulgaria EOOD
+Slatina District
+Iztochna Tangenta street no. 100
+BG - 1592 Sofia
+Tel. +359 2 49 22 200
+Fax. +359 2 49 22 201
+email: bulgaria@grundfos.bg
+Canada
+GRUNDFOS Canada Inc. 
+2941 Brighton Road 
+Oakville, Ontario 
+L6H 6C9 
+Phone: +1-905 829 9533 
+Telefax: +1-905 829 9512 
+China
+GRUNDFOS Pumps (Shanghai) Co. Ltd.
+50/F Maxdo Center No. 8 XingYi Rd.
+Hongqiao development Zone
+Shanghai 200336
+PRC
+Phone: +86 21 612 252 22
+Telefax: +86 21 612 253 33
+Croatia
+GRUNDFOS CROATIA d.o.o.
+Buzinski prilaz 38, Buzin
+HR-10010 Zagreb
+Phone: +385 1 6595 400 
+Telefax: +385 1 6595 499
+www.hr.grundfos.com
+Czech Republic
+GRUNDFOS s.r.o.
+Čajkovského 21
+779 00 Olomouc
+Phone: +420-585-716 111
+Telefax: +420-585-716 299
+Denmark
+GRUNDFOS DK A/S 
+Martin Bachs Vej 3 
+DK-8850 Bjerringbro 
+Tlf.: +45-87 50 50 50 
+Telefax: +45-87 50 51 51 
+E-mail: info_GDK@grundfos.com
+www.grundfos.com/DK
+Estonia
+GRUNDFOS Pumps Eesti OÜ
+Peterburi tee 92G
+11415 Tallinn
+Tel: + 372 606 1690
+Fax: + 372 606 1691
+Finland
+OY GRUNDFOS Pumput AB 
+Mestarintie 11 
+FIN-01730 Vantaa 
+Phone: +358-(0)207 889 900
+Telefax: +358-(0)207 889 550
+France
+Pompes GRUNDFOS Distribution S.A. 
+Parc d’Activités de Chesnes 
+57, rue de Malacombe 
+F-38290 St. Quentin Fallavier (Lyon) 
+Tél.: +33-4 74 82 15 15 
+Télécopie: +33-4 74 94 10 51 
+Germany
+GRUNDFOS GMBH
+Schlüterstr. 33
+40699 Erkrath
+Tel.: +49-(0) 211 929 69-0 
+Telefax: +49-(0) 211 929 69-3799
+e-mail: infoservice@grundfos.de
+Service in Deutschland:
+e-mail: kundendienst@grundfos.de
+HILGE GmbH & Co. KG
+Hilgestrasse 37-47
+55292 Bodenheim/Rhein
+Germany
+Tel.: +49 6135 75-0
+Telefax: +49 6135 1737
+e-mail: hilge@hilge.de
+Greece
+GRUNDFOS Hellas A.E.B.E. 
+20th km. Athinon-Markopoulou Av. 
+P.O . B ox 71 
+GR-19002 Peania 
+Phone: +0030-210-66 83 400 
+Telefax: +0030-210-66 46 273
+Hong Kong
+GRUNDFOS Pumps (Hong Kong) Ltd. 
+Unit 1, Ground floor 
+Siu Wai Industrial Centre 
+29-33 Wing Hong Street & 
+68 King Lam Street, Cheung Sha Wan 
+Kowloon 
+Phone: +852-27861706 / 27861741 
+Telefax: +852-27858664 
+Hungary
+GRUNDFOS Hungária Kft.
+Park u. 8
+H-2045 Törökbálint, 
+Phone: +36-23 511 110
+Telefax: +36-23 511 111
+India
+GRUNDFOS Pumps India Private Limited
+118 Old Mahabalipuram Road
+Thoraipakkam
+Chennai 600 096
+Phone: +91-44 2496 6800
+Indonesia
+PT GRUNDFOS Pompa 
+Jl. Rawa Sumur III, Blok III / CC-1 
+Kawasan Industri, Pulogadung 
+Jakarta 13930 
+Phone: +62-21-460 6909 
+Telefax: +62-21-460 6910 / 460 6901 
+Ireland
+GRUNDFOS (Ireland) Ltd. 
+Unit A, Merrywell Business Park
+Ballymount Road Lower
+Dublin 12 
+Phone: +353-1-4089 800 
+Telefax: +353-1-4089 830 
+Italy
+GRUNDFOS Pompe Italia S.r.l. 
+Via Gran Sasso 4
+I-20060 Truccazzano (Milano)
+Tel.: +39-02-95838112 
+Telefax: +39-02-95309290 / 95838461 
+Japan
+GRUNDFOS Pumps K.K.
+Gotanda Metalion Bldg., 5F, 
+5-21-15, Higashi-gotanda
+Shiagawa-ku, Tokyo
+141-0022 Japan
+Phone: +81 35 448 1391
+Telefax: +81 35 448 9619
+Korea
+GRUNDFOS Pumps Korea Ltd.
+6th Floor, Aju Building 679-5
+Yeoksam-dong, Kangnam-ku, 135-916
+Seoul, Korea
+Phone: +82-2-5317 600
+Telefax: +82-2-5633 725
+Latvia
+SIA GRUNDFOS Pumps Latvia 
+Deglava biznesa centrs
+Augusta Deglava ielā 60, LV-1035, Rīga,
+Tālr.: + 371 714 9640, 7 149 641
+Fakss: + 371 914 9646
+Lithuania
+GRUNDFOS Pumps UAB
+Smolensko g. 6
+LT-03201 Vilnius
+Tel: + 370 52 395 430
+Fax: + 370 52 395 431
+Malaysia
+GRUNDFOS Pumps Sdn. Bhd.
+7 Jalan Peguam U1/25
+Glenmarie Industrial Park
+40150 Shah Alam
+Selangor 
+Phone: +60-3-5569 2922
+Telefax: +60-3-5569 2866
+Mexico
+Bombas GRUNDFOS de México S.A. de 
+C.V. 
+Boulevard TLC No. 15
+Parque Industrial Stiva Aeropuerto
+Apodaca, N.L. 66600
+Phone: +52-81-8144 4000 
+Telefax: +52-81-8144 4010
+Netherlands
+GRUNDFOS Netherlands
+Veluwezoom 35
+1326 AE Almere
+Postbus 22015
+1302 CA ALMERE 
+Tel.: +31-88-478 6336 
+Telefax: +31-88-478 6332
+E-mail: info_gnl@grundfos.com
+New Zealand
+GRUNDFOS Pumps NZ Ltd.
+17 Beatrice Tinsley Crescent
+North Harbour Industrial Estate
+Albany, Auckland
+Phone: +64-9-415 3240
+Telefax: +64-9-415 3250
+Norway
+GRUNDFOS Pumper A/S 
+Strømsveien 344 
+Postboks 235, Leirdal 
+N-1011 Oslo 
+Tlf.: +47-22 90 47 00 
+Telefax: +47-22 32 21 50 
+Poland
+GRUNDFOS Pompy Sp. z o.o.
+ul. Klonowa 23
+Baranowo k. Poznania
+PL-62-081 Prze źmierowo
+Tel: (+48-61) 650 13 00
+Fax: (+48-61) 650 13 50
+Portugal
+Bombas GRUNDFOS Portugal, S.A. 
+Rua Calvet de Magalhães, 241
+Apartado 1079
+P-2770-153 Paço de Arcos
+Tel.: +351-21-440 76 00
+Telefax: +351-21-440 76 90
+Romania
+GRUNDFOS Pompe România SRL
+Bd. Biruintei, nr 103 
+Pantelimon county Ilfov
+Phone: +40 21 200 4100
+Telefax: +40 21 200 4101
+E-mail: romania@grundfos.ro
+Russia
+ООО Грундфос Россия
+109544, г. Москва, ул. Школьная , 39-41, 
+стр. 1
+Тел. (+7) 495 564-88-00 (495) 737-30-00
+Факс (+7) 495 564 88 11
+E-mail grundfos.moscow@grundfos.com
+Serbia 
+Grundfos Srbija d.o.o.
+Omladinskih brigada 90b
+11070 Novi Beograd 
+Phone: +381 11 2258 740
+Telefax: +381 11 2281 769
+www.rs.grundfos.com
+Singapore
+GRUNDFOS (Singapore) Pte. Ltd.
+25 Jalan Tukang 
+Singapore 619264 
+Phone: +65-6681 9688 
+Telefax: +65-6681 9689
+Slovenia
+GRUNDFOS d.o.o.
+Šlandrova 8b, SI-1231 Ljubljana- Črnuče
+Phone: +386 31 718 808
+Telefax: +386 (0)1 5680 619
+E-mail: slovenia@grundfos.si
+South Africa
+GRUNDFOS (PTY) LTD
+Corner Mountjoy and George Allen Roads
+Wilbart Ext. 2
+Bedfordview 2008
+Phone: (+27) 11 579 4800
+Fax: (+27) 11 455 6066
+E-mail: lsmart@grundfos.com
+Spain
+Bombas GRUNDFOS España S.A. 
+Camino de la Fuentecilla, s/n 
+E-28110 Algete (Madrid) 
+Tel.: +34-91-848 8800 
+Telefax: +34-91-628 0465 
+Sweden
+GRUNDFOS AB 
+Box 333 (Lunnagårdsgatan 6) 
+431 24 Mölndal 
+Tel.: +46 31 332 23 000
+Telefax: +46 31 331 94 60 
+Switzerland
+GRUNDFOS Pumpen AG 
+Bruggacherstrasse 10 
+CH-8117 Fällanden/ZH 
+Tel.: +41-1-806 8111 
+Telefax: +41-1-806 8115 
+Taiwan
+GRUNDFOS Pumps (Taiwan) Ltd. 
+7 Floor, 219 Min-Chuan Road 
+Taichung, Taiwan, R.O.C. 
+Phone: +886-4-2305 0868
+Telefax: +886-4-2305 0878
+Thailand
+GRUNDFOS (Thailand) Ltd. 
+92 Chaloem Phrakiat Rama 9 Road,
+Dokmai, Pravej, Bangkok 10250
+Phone: +66-2-725 8999
+Telefax: +66-2-725 8998
+Turkey
+GRUNDFOS POMPA San. ve Tic. Ltd. Sti.
+Gebze Organize Sanayi Bölgesi 
+Ihsan dede Caddesi,
+2. yol 200. Sokak No. 204
+41490 Gebze/ Kocaeli
+Phone: +90 - 262-679 7979
+Telefax: +90 - 262-679 7905
+E-mail: satis@grundfos.com
+Ukraine
+ТОВ ГРУНДФОС УКРАЇНА 
+01010 Київ, Вул. Московська  8б, 
+Тел.:(+38 044) 390 40 50 
+Фах.: (+38 044) 390 40 59
+E-mail: ukraine@grundfos.com
+United Arab Emirates
+GRUNDFOS Gulf Distribution
+P .O. Box 16768
+Jebel Ali Free Zone
+Dubai
+Phone: +971 4  8815 166
+Telefax: +971 4 8815 136
+United Kingdom
+GRUNDFOS Pumps Ltd. 
+Grovebury Road 
+Leighton Buzzard/Beds. LU7 4TL 
+Phone: +44-1525-850000 
+Telefax: +44-1525-850011 
+U.S.A.
+GRUNDFOS Pumps Corporation 
+17100 West 118th Terrace
+Olathe, Kansas 66061
+Phone: +1-913-227-3400 
+Telefax: +1-913-227-3500 
+Uzbekistan
+Grundfos Tashkent, Uzbekistan The Repre-
+sentative Office of Grundfos Kazakhstan in 
+Uzbekistan
+38a, Oybek street, Tashkent
+Телефон: (+998) 71 150 3290 / 71 150 
+3291
+Факс: (+998) 71 150 3292
+Addresses Revised 10.02.2014
+
+[[page 38]]
+98476041 0813
+ECM: 1116724
+The name Grundfos, the Grundfos logo, and be think innovate  are registered trademarks owned by Grundfos Holding A/S or Gru ndfos A/S, Denmark. All rights r eserved worldwide. © Copyright G rundfos Holding A/S
+www.grundfos.com

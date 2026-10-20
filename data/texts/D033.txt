@@ -1,0 +1,373 @@
+[[page 1]]
+Seite: 1/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+63.3.7
+* ABSCHNITT 1: Bezeichnung des Stoffs beziehungsweise des Gemischs und des
+Unternehmens
+· 1.1 Produktidentifikator
+· Handelsname: PressurePro Systempflege RM 110
+· 1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen
+abgeraten wird
+Außer Reichweite von Kindern aufbewahren.
+· Verwendung des Stoffes / des Gemisches Kesselsteininhibitor
+· 1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt
+· Hersteller/Lieferant:
+Alfred Kärcher SE & Co. KG
+Alfred-Kärcher-Str. 28-40
+D - 71364 Winnenden
+Tel.: +49-7195-14-0
+Alfred Kärcher GmbH
+Maculangasse 4
+A - 1220 Wien
+Tel.: +43-1-25060-0
+Kärcher AG
+Industriestr. 16
+CH - 8108 Dällikon
+Fon: +41-44-8466-777
+Internet: www.karcher.com
+· Auskunftgebender Bereich:
+Regulatory Affairs
+Tel.: +49-7195-14-0
+productsafety.management.de@karcher.com
+· 1.4 Notrufnummer:
+Tox Info Suisse
+24-h-Notfallnummer: 145  (aus dem Ausland: +41 44 251 51 51)
+Auskunft: +41 44 251 66 66
+Bei Ereignissen mit Gefahrstoffen [oder Gefahrgütern]
+Auslauf, Leckage, Feuer, Exposition oder Unfall:
+Rufen Sie CHEMTREC an, rund um die Uhr.
+Außerhalb der USA und Kanada: +1-703-527-3887 (R-Gespräche sind möglich)
+Innerhalb der USA und Kanada: 1-800-424-9300
+ DE 
+(Fortsetzung auf Seite 2)
+
+[[page 2]]
+Seite: 2/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 1)
+63.3.7
+ABSCHNITT 2: Mögliche Gefahren
+· 2.1 Einstufung des Stoffs oder Gemischs
+· Einstufung gemäß Verordnung (EG) Nr. 1272/2008 Das Produkt ist gemäß CLP-Verordnung nicht eingestuft.
+· 2.2 Kennzeichnungselemente
+· Kennzeichnung gemäß Verordnung (EG) Nr. 1272/2008 entfällt
+· Gefahrenpiktogramme entfällt
+· Signalwort entfällt
+· Gefahrenhinweise entfällt
+· 2.3 Sonstige Gefahren
+· Ergebnisse der PBT- und vPvB-Beurteilung
+· PBT: Nicht anwendbar
+· vPvB: Nicht anwendbar
+· Feststellung endokrinschädlicher Eigenschaften Nicht anwendbar
+ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen
+· 3.2 Gemische
+· Beschreibung: Dispergiermittel
+· Gefährliche Inhaltsstoffe: entfällt
+· zusätzl. Hinweise: Der Wortlaut der angeführten Gefahrenhinweise ist dem Abschnitt 16 zu entnehmen.
+ABSCHNITT 4: Erste-Hilfe-Maßnahmen
+· 4.1 Beschreibung der Erste-Hilfe-Maßnahmen
+· Allgemeine Hinweise: Keine besonderen Maßnahmen erforderlich.
+· nach Einatmen: Frischluftzufuhr, bei Beschwerden Arzt aufsuchen.
+· nach Hautkontakt: Im allgemeinen ist das Produkt nicht hautreizend.
+· nach Augenkontakt: Augen bei geöffnetem Lidspalt mehrere Minuten mit fließendem Wasser spülen.
+· nach Verschlucken:
+Mund ausspülen und reichlich Wasser nachtrinken.
+Bei anhaltenden Beschwerden Arzt konsultieren.
+· 4.2 Wichtigste akute und verzögert auftretende Symptome und Wirkungen
+Keine weiteren relevanten Informationen verfügbar.
+· 4.3 Hinweise auf ärztliche Soforthilfe oder Spezialbehandlung
+Keine weiteren relevanten Informationen verfügbar.
+ DE 
+(Fortsetzung auf Seite 3)
+
+[[page 3]]
+Seite: 3/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 2)
+63.3.7
+ABSCHNITT 5: Maßnahmen zur Brandbekämpfung
+· 5.1 Löschmittel
+· Geeignete Löschmittel:
+CO2, Löschpulver oder Wassersprühstrahl. Größeren Brand mit Wassersprühstrahl oder alkoholbeständigem Schaum
+bekämpfen.
+· 5.2 Besondere vom Stoff oder Gemisch ausgehende Gefahren
+Keine weiteren relevanten Informationen verfügbar.
+· 5.3 Hinweise für die Brandbekämpfung
+· Besondere Schutzausrüstung: Keine besonderen Maßnahmen erforderlich.
+ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung
+· 6.1 Personenbezogene Vorsichtsmaßnahmen, Schutzausrüstungen und in Notfällen anzuwendende
+Verfahren
+Nicht erforderlich
+· 6.2 Umweltschutzmaßnahmen:
+Mit viel Wasser verdünnen.
+Nicht in die Kanalisation/Oberflächenwasser/Grundwasser gelangen lassen.
+Nicht in den Untergrund/Erdreich gelangen lassen.
+· 6.3 Methoden und Material für Rückhaltung und Reinigung:
+Mit flüssigkeitsbindendem Material (Sand, Kieselgur, Säurebinder, Universalbinder) aufnehmen.
+· 6.4 Verweis auf andere Abschnitte
+Informationen zur sicheren Handhabung siehe Abschnitt 7.
+Informationen zur persönlichen Schutzausrüstung siehe Abschnitt 8.
+Informationen zur Entsorgung siehe Abschnitt 13.
+ABSCHNITT 7: Handhabung und Lagerung
+· 7.1 Schutzmaßnahmen zur sicheren Handhabung Keine besonderen Maßnahmen erforderlich.
+· Hinweise zum Brand- und Explosionsschutz: Keine besonderen Maßnahmen erforderlich.
+· 7.2 Bedingungen zur sicheren Lagerung unter Berücksichtigung von Unverträglichkeiten
+· Lagerung:
+· Anforderung an Lagerräume und Behälter: Keine besonderen Anforderungen.
+· Zusammenlagerungshinweise: nicht erforderlich
+· Weitere Angaben zu den Lagerbedingungen: keine
+· Lagerklasse nach TRGS 510: 12
+· Klassifizierung nach Betriebssicherheitsverordnung (BetrSichV): - 
+· 7.3 Spezifische Endanwendungen Keine weiteren relevanten Informationen verfügbar.
+ DE 
+(Fortsetzung auf Seite 4)
+
+[[page 4]]
+Seite: 4/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 3)
+63.3.7
+ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche
+Schutzausrüstungen
+· 8.1 Zu überwachende Parameter
+· Bestandteile mit arbeitsplatzbezogenen, zu überwachenden Grenzwerten:
+Das Produkt enthält keine relevanten Mengen von Stoffen mit arbeitsplatzbezogenen, zu überwachenden Grenzwerten.
+· 8.2 Begrenzung und Überwachung der Exposition
+· Geeignete technische Steuerungseinrichtungen Keine weiteren Angaben, siehe Abschnitt 7.
+· Individuelle Schutzmaßnahmen, zum Beispiel persönliche Schutzausrüstung
+· Allgemeine Schutz- und Hygienemaßnahmen:
+Die üblichen Vorsichtsmaßnahmen beim Umgang mit Chemikalien sind zu beachten.
+· Atemschutz Bei guter Raumbelüftung nicht erforderlich.
+· Handschutz Nicht erforderlich
+· Handschuhmaterial Nicht erforderlich
+· Durchdringungszeit des Handschuhmaterials Nicht erforderlich
+· Augen-/Gesichtsschutz Nicht erforderlich
+ABSCHNITT 9: Physikalische und chemische Eigenschaften
+· 9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften
+· Allgemeine Angaben
+· Aggregatzustand Flüssig
+· Farbe gelb
+· Geruch: produktspezifisch
+· Geruchsschwelle: Nicht bestimmt
+· Schmelzpunkt/Gefrierpunkt: 0 °C
+· Siedepunkt oder Siedebeginn und Siedebereich 100 °C
+· Entzündbarkeit Nicht anwendbar
+· Untere und obere Explosionsgrenze
+· untere: Nicht bestimmt
+obere: Nicht bestimmt
+· Flammpunkt: Nicht anwendbar
+· Zündtemperatur nicht zutreffend
+· Zersetzungstemperatur: Nicht bestimmt
+· pH-Wert bei 20 °C: 9 
+· pH 1% 7-9
+· Viskosität:
+· Kinematische Viskosität Nicht bestimmt
+· dynamisch bei 20 °C: 1,5 mPas
+· Löslichkeit
+· Wasser: vollständig mischbar
+· Verteilungskoeffizient n-Oktanol/Wasser (log-Wert) Nicht bestimmt
+· Dampfdruck: Nicht bestimmt
+· Dichte und/oder relative Dichte
+· Dichte bei 20 °C: 1,017 g/cm³
+· Relative Dichte Nicht bestimmt
+· Dampfdichte Nicht bestimmt
+· Relative Dampfdichte Nicht bestimmt
+(Fortsetzung auf Seite 5)
+ DE
+
+[[page 5]]
+Seite: 5/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 4)
+63.3.7
+· Partikeleigenschaften Nicht anwendbar
+· 9.2 Sonstige Angaben
+· Aussehen:
+· Form: flüssig
+· Wichtige Angaben zum Gesundheits- und
+Umweltschutz sowie zur Sicherheit
+· Zündtemperatur: Das Produkt ist nicht selbstentzündlich.
+· Explosive Eigenschaften: Das Produkt ist nicht explosionsgefährlich. (EEC 92/69/EWG,
+A4)
+· Lösemittelgehalt:
+· VOCV (CH) 0,00 %
+· Zustandsänderung
+· Verdampfungsgeschwindigkeit Nicht bestimmt
+· Angaben über physikalische Gefahrenklassen
+· Explosive Stoffe/Gemische und Erzeugnisse mit
+Explosivstoff entfällt
+· Entzündbare Gase entfällt
+· Aerosole entfällt
+· Oxidierende Gase entfällt
+· Gase unter Druck entfällt
+· Entzündbare Flüssigkeiten entfällt
+· Entzündbare Feststoffe entfällt
+· Selbstzersetzliche Stoffe und Gemische entfällt
+· Pyrophore Flüssigkeiten entfällt
+· Pyrophore Feststoffe entfällt
+· Selbsterhitzungsfähige Stoffe und Gemische entfällt
+· Stoffe und Gemische, die in Kontakt mit Wasser
+entzündbare Gase entwickeln entfällt
+· Oxidierende Flüssigkeiten entfällt
+· Oxidierende Feststoffe entfällt
+· Organische Peroxide entfällt
+· Gegenüber Metallen korrosiv wirkende Stoffe und
+Gemische entfällt
+· Desensibilisierte Stoffe/Gemische und Erzeugnisse mit
+Explosivstoff entfällt
+ABSCHNITT 10: Stabilität und Reaktivität
+· 10.1 Reaktivität entspricht 10.3
+· 10.2 Chemische Stabilität
+· Thermische Zersetzung / zu vermeidende Bedingungen:
+Keine Zersetzung bei bestimmungsgemäßer Verwendung.
+· 10.3 Möglichkeit gefährlicher Reaktionen Keine gefährlichen Reaktionen bekannt.
+· 10.4 Zu vermeidende Bedingungen Keine weiteren relevanten Informationen verfügbar.
+(Fortsetzung auf Seite 6)
+ DE
+
+[[page 6]]
+Seite: 6/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 5)
+63.3.7
+· 10.5 Unverträgliche Materialien: Keine weiteren relevanten Informationen verfügbar.
+· 10.6 Gefährliche Zersetzungsprodukte: Keine gefährlichen Zersetzungsprodukte bekannt.
+ABSCHNITT 11: Toxikologische Angaben
+· 11.1 Angaben zu den Gefahrenklassen im Sinne der Verordnung (EG) Nr. 1272/2008
+· Akute Toxizität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Primäre Reizwirkung:
+· Ätz-/Reizwirkung auf die Haut Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Schwere Augenschädigung/-reizung Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Sensibilisierung der Atemwege/Haut Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Keimzellmutagenität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Karzinogenität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Reproduktionstoxizität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Spezifische Zielorgan-Toxizität bei einmaliger Exposition
+Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Spezifische Zielorgan-Toxizität bei wiederholter Exposition
+Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· Aspirationsgefahr Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.
+· 11.2 Angaben über sonstige Gefahren
+· Endokrinschädliche Eigenschaften
+Keiner der Inhaltsstoffe ist enthalten.
+ABSCHNITT 12: Umweltbezogene Angaben
+· 12.1 Toxizität
+· Aquatische Toxizität: Keine weiteren relevanten Informationen verfügbar.
+· 12.2 Persistenz und Abbaubarkeit Keine weiteren relevanten Informationen verfügbar.
+· 12.3 Bioakkumulationspotenzial Keine weiteren relevanten Informationen verfügbar.
+· 12.4 Mobilität im Boden Keine weiteren relevanten Informationen verfügbar.
+· 12.5 Ergebnisse der PBT- und vPvB-Beurteilung
+· PBT: Nicht anwendbar
+· vPvB: Nicht anwendbar
+· 12.6 Endokrinschädliche Eigenschaften Das Produkt enthält keine Stoffe mit endokrinschädlichen Eigenschaften.
+· 12.7 Andere schädliche Wirkungen
+· Weitere ökologische Hinweise:
+· CSB-Wert: 18.000 mg/l
+· Allgemeine Hinweise:
+Das Produkt ist frei von organisch gebundenen Halogenen (AOX-frei).
+(Fortsetzung auf Seite 7)
+ DE
+
+[[page 7]]
+Seite: 7/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 6)
+63.3.7
+Das Produkt ist frei von organischen Komplexbildnern.
+Nicht in das Grundwasser, in Gewässer oder in die Kanalisation gelangen lassen.
+Trinkwassergefährdung bereits beim Auslaufen geringer Mengen in den Untergrund.
+Wassergefährdungsklasse 2 (Selbsteinstufung): deutlich wassergefährdend
+ABSCHNITT 13: Hinweise zur Entsorgung
+· 13.1 Verfahren der Abfallbehandlung
+· Empfehlung:
+Sonderabfallsammler übergeben oder zu Problemstoffsammelstelle bringen.
+Kleine Mengen können mit reichlich Wasser verdünnt und weggespült werden. Größere Mengen sind gemäß örtlicher
+behördlicher Vorschriften zu entsorgen.
+· Europäischer Abfallkatalog
+20 01 30 Reinigungsmittel mit Ausnahme derjenigen, die unter 20 01 29 fallen
+· Ungereinigte Verpackungen:
+· Empfehlung:
+Kontaminierte Verpackungen sind optimal zu entleeren, sie können dann nach entsprechender Reinigung einer
+Wiederverwertung zugeführt werden.
+· Empfohlenes Reinigungsmittel: Wasser, gegebenenfalls mit Zusatz von Reinigungsmitteln.
+ABSCHNITT 14: Angaben zum Transport
+· 14.1 UN-Nummer oder ID-Nummer
+· ADR, IMDG, IATA entfällt
+· 14.2 Ordnungsgemäße UN-Versandbezeichnung
+· ADR, ADN, IMDG, IATA entfällt
+· 14.3 Transportgefahrenklassen
+· ADR, ADN, IMDG, IATA
+· Klasse entfällt
+· 14.4 Verpackungsgruppe
+· ADR, IMDG, IATA entfällt
+· 14.5 Umweltgefahren: Nicht anwendbar
+· 14.6 Besondere Vorsichtsmaßnahmen für den
+Verwender Nicht anwendbar
+· 14.7 Massengutbeförderung auf dem Seeweg
+gemäß IMO-Instrumenten Nicht anwendbar
+(Fortsetzung auf Seite 8)
+ DE
+
+[[page 8]]
+Seite: 8/8
+Sicherheitsdatenblatt
+gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31
+Druckdatum: 02.10.2026 überarbeitet am: 11.05.2026Versionsnummer 15 (ersetzt Version 14)
+Handelsname: PressurePro Systempflege RM 110
+(Fortsetzung von Seite 7)
+63.3.7
+· UN "Model Regulation": entfällt
+ABSCHNITT 15: Rechtsvorschriften
+· 15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für
+den Stoff oder das Gemisch
+· Richtlinie 2012/18/EU
+· Namentlich aufgeführte gefährliche Stoffe - ANHANG I Keiner der Inhaltsstoffe ist enthalten.
+· Nationale Vorschriften:
+· Wassergefährdungsklasse:
+Selbsteinstufung gemäß AwSV vom 18.04.17, Anlage 1
+WGK 2 (Selbsteinstufung): deutlich wassergefährdend.
+· 15.2 Stoffsicherheitsbeurteilung: Eine Stoffsicherheitsbeurteilung wurde nicht durchgeführt.
+ABSCHNITT 16: Sonstige Angaben
+Die Angaben stützen sich auf den heutigen Stand unserer Kenntnisse, sie stellen jedoch keine Zusicherung von
+Produkteigenschaften dar und begründen kein vertragliches Rechtsverhältnis.
+Ein Produktinformationsblatt liegt vor und wird auf Wunsch zugesandt.
+· Ansprechpartner:
+Regulatory Affairs
+Tel.: +49-7195-14-0
+productsafety.management.de@karcher.com
+· Versionsnummer der Vorgängerversion: 14
+· Abkürzungen und Akronyme:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the International Carriage of
+Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+VOCV: Lenkungsabgabe auf flüchtigen organischen Verbindungen, Schweiz (Swiss Ordinance on volatile organic compounds)
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+· * Daten gegenüber der Vorversion geändert   
+·   0·011-730·0                      RM110/24                      2·651
+ DE

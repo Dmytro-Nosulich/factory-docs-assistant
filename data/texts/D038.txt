@@ -1,0 +1,269 @@
+[[page 1]]
+SICHERHEITSDATENBLATT   
+gemäß 1907/2006/EG (REACH-VO) 
+Seite 1 von 4 
+Version : 4.4 
+Erstellt  am  : 10.09.2004 
+Überarbeitet am  : 30.01.2018 
+STICKSTOFF, verdichtet  SDB-03 
+ 
+ 
+ SDB-03-Stickstoff, verdichtet (REACH)_V4.4 
+1 Stoff- / Zubereitungs- und Firmenbezeichnung 
+1.1 Produktidentifikator 
+Handelsname : Stickstoff, verdichtet 
+REACH Registrierungs-Nr. : Ausgenommen von der Registrierung, gem. Annex IV/V der Verordnung  
+    1907/2006 EC (REACH-VO)  
+1.2  Verwendung : Gewerbliche und industrielle Anwendungen in den Bereichen Lebensmittel und  
+    Getränke, Metallurgie, Technik, Labor u.a.  
+1.3  Hersteller/Lieferant : CARBO Kohlensäurewerke GmbH & Co. KG*)  
+      Sprudelstr. 1, 53557 Bad Hönningen 
+    Tel. 02635-789-0   Fax 02635-789-10 
+  SDB-Auskunft : e-mail: sdb.info@carbo.de (Technik – Qualitätsicherung) 
+1.4  Notfallnummer  : 02635-789-42  
+ 
+ 
+*) Geltungsbereich : CARBO Kohlensäurewerke GmbH & Co. KG, CARBO Kohlensäurewerk Hannover GmbH, sowie  
+    Mitgliedsfirmen der CARBUNION eV  
+2 Mögliche Gefahren 
+2.1 Einstufung des Stoffes  
+Gefahreneinstufung : Nicht genannt in Anhang VI von  RL 1272/2008/EC. 
+gem. RL 1272/2008/EC (CLP)   Unter Druck stehendes Gas, verdichtet, H280.  - Achtung -. 
+Physikalische Risiken :   Enthält Gas unter Druck; kann bei Erwärmung explodieren.   
+Gesundheitsrisiken : Wirkt in hohen Konzentrationen erstickend.  
+2.2  Kennzeichnungselemente 
+GHS-Einstufung : Gase unter Druck, Kategorie verdichtes Gas, H280  
+Gefahrenpiktogramme : GHS04  
+  Signalwort   : Achtung 
+  Gefahrenhinweise   : H280 Enthält Gas unter Druck; kann bei Erhitzen explodieren  
+ 
+Sicherheitshinweise   :     
+ - Lagerung   : P403 An einem gut belüfteten Ort aufbewahren. 
+ 
+ EG-Einstufung gem.  : Nicht als gefährlicher Stoff eingestuft. (Nicht aufgeführt in 67/548/EC Anhang I)  
+67/548/EC u. 1999/45/EC 
+ EG-Kennzeichnung  : nicht erforderlich 
+R-Sätze   :  Keine 
+ S-Sätze   :  Keine     
+2.3  Sonstige Gefahren : EIGA-As Erstickend in hohen Konzentrationen  
+3 Zusammensetzung / Angaben-zu Bestandteilen 
+Enthält keine anderen Komponenten oder Verunreinigungen, die die Einstufung dieses Produktes beeinflussen . 
+4 Erste-Hilfe-Maßnahmen 
+4.1 Beschreibung der Erste-Hilfe-Maßnahmen  
+ 
+Nach Einatmen : Die Personen sind in frische Luft zu bringen. Selbstschutz beachten, ggf. um- 
+    luftunabängiges Atemschutzgerät verwenden. Atem wege freihalten. Bei Atem-  
+    stillstand künstliche Beatmung, ggf. Sauerstoff zufuhr. 
+Nach Hautkontakt : Bei Kaltverbrennungen mindestens 15 Minuten mit lauwarmem Wasser   
+    spülen. Steril abdecken.   
+ 
+  
+Gefahrzettel 2.2 
+Nicht entzünd-
+bare, nicht giftige 
+Gase 
+   
+ 
+ACHTUNG  
+ 
+  
+H280 Unter 
+Druck stehende 
+Gase, verdichtet 
+ 
+            
+ 
+ 
+ 
+ 
+Chemische 
+Charakterisierung  Bezeichnung  Chemische Formel Inhalt % CAS-Nr. EG-Nr. Index-Nr.  Einstufung EG GHS/CLP 
+3.1    Stoff Stickstoff N 2 ≥99,5  7727-37-9 231-783-9 - - Pressgas, H280
+
+[[page 2]]
+SICHERHEITSDATENBLATT   
+gemäß 1907/2006/EG (REACH-VO) 
+Seite 2 von 4 
+Version : 4.4 
+Erstellt  am  : 10.09.2004 
+Überarbeitet am  : 30.01.2018 
+STICKSTOFF, verdichtet  SDB-03 
+ 
+ 
+ SDB-03-Stickstoff, verdichtet (REACH)_V4.4 
+4    Erste-Hilfe-Maßnahmen (Fortsetzung) 
+Nach Augenkontakt : Die Augen sofort mindestens 15 Minuten bei geöffnetem Lidspalt mit  
+    lauwarmem Wasser spülen.  
+Nach Verschlucken : Verschlucken wird nicht als möglicher Weg der Aufnahme angesehen.  
+ 
+4.2  Wichtige akute und verzögert auftretende Symptome und Wirkungen      
+    Hohe Konzentrationen können Ersticken verursachen. Symptome können Ver- 
+    lust der Bewegungsfähigkeit und des Bewusstsein s sein. Das Opfer bemerkt  
+   das Ersticken nicht.  
+4.3  Allgemeine Hinweise  : Bei Auftreten von Gesundheitsstörungen einen Arzt hinzuziehen . 
+5 Maßnahmen zur Brandbekämpfung  
+5.1 Geeignete Löschmittel : Alle bekannten Löschmittel können eingesetzt werden.  
+ 
+5.2  Besondere vom Stoff ausgehende Gefahren 
+Spezielle Gefahren :  Der Stoff ist nicht brennbar:  Bei Umgebungsbränden können hohe Tempera- 
+     turen Behälter zum Bertsten bringen.  
+Gefährliche Verbrennungs-: Keine  
+produkte   
+5.3  Hinweise für die Brandbe- : Behälter aus Gefahrenzone bringen, wenn gefahrlos möglich. Ansonsten aus    
+ kämpfung   geschützter Stellung mit Sprühwasserstrahl kühlen . Weiträumig absperren. 
+Spezielle Schutzausrüstung: In geschlossenen Räumen umluftunabhängiges Atemgerät (Pressluftatmer)  
+für die Feuerwehr    benutzen 
+    
+6 Maßnahmen bei unbabsichtigter Freisetzung 
+6.1 Personenbezogene : Bei Gasaustritt Raum verlassen, Umgebung räumen, Personen warnen, für 
+Vorsichtsmaßnahmen   ausreichende Lüftung sorgen. Bei Betreten des Bereiches umluftunabhängiges 
+   Atemgerät benutzen, wenn die Ungefährlichkeit de r Atmosphäre nicht nachge- 
+   wiesen ist. Im Freien den Bereich in windzugewan dter Richtung verlassen. 
+6.2  Umweltschutzmaßnahmen: Versuchen, den Gasaustritt zu stoppen. Eindringen in Kanalisation, Keller,  
+    Arbeitsgruben oder andere Orte, an denen eine A nreicherung möglich ist, 
+     verhindern. Selbstschutz beachten.  
+6.3  Verfahren zur Rückhaltung: Undichte Behälter in Sicherheit bringen und fachgerecht entsorgen. Räume  
+ und Reinigung  gründlich Lüften. 
+6.4 Verweis auf andere Abschnitte:  siehe auch Abschitt 8 un 13 
+7 Handhabung und Lagerung 
+7.1  Schutzmaßnahmen zur  Vor Umgang mit verdichten Gasen hat der Arbeitgebe r eine Gefährdungsanaly-    
+ sicheren Handhabung :  se zu erstellen. Nur erfahrenes und geschultes Pesonal sollte verdichtete Gase 
+   handhaben und anwenden.  Eindringen von Fremdstoffen in den Druckbehälter  
+   verhindern.Rückströmung aus anwenderseitiger Anl age in den Druckbehälter  
+   verhindern. Von Wärmequellen und offenen Flammen  fernhalten. Nur solche  
+   Ausrüstung verwenden, die für dieses Produkt und  den vorgesehenen Druck  
+   und Temperatur geeignet ist. Im Zweifelsfall Aus kunft durch den Lieferanten. 
+7.2  Lagerung : Lagerung an einem gut belüfteten Ort. Behälter gegen Schlag, Stoß und  
+     Umfallen sichern, vor direkter Sonneneinstrahl ung schützen, nicht über 50 °C  
+    erwärmen.  
+7.3  Spezifische Endanwendung: Keine
+
+[[page 3]]
+SICHERHEITSDATENBLATT   
+gemäß 1907/2006/EG (REACH-VO) 
+Seite 3 von 4 
+Version : 4.4 
+Erstellt  am  : 10.09.2004 
+Überarbeitet am  : 30.01.2018 
+STICKSTOFF, verdichtet  SDB-03 
+ 
+ 
+ SDB-03-Stickstoff, verdichtet (REACH)_V4.4 
+8 Expositionsbegrenzung und persönliche Schutzausrü stung  
+8.1 Expositionsgrenzwert : Es liegen keine Arbeitsplatzgrenzwerte (AGW) vor.  
+8.2  Begrenzung und Überwachung der Exposition  
+  
+ Allgemeine Schutz- und : Angemessene Lüftung sicherstellen. Essen, Trinken Rauchen und Aufbewahren  
+Hygienemaßnahmen    von Nahrungsmitteln und Tabakwaren im Arbeitsrau m vermeiden. Gas nicht  
+    einatmen. Im Betrieb geschlossene Apparate verw enden, Gase wirksam ablei-  
+    ten. Dichtigkeit von Anlagen Armaturen und Behä ltern überwachen. 
+Persönliche  : Sicherheitsschuhe, normale Arbeitskleidung, Schutzhandschuhe, ggf. Schutz-
+Schutzausrüstung   brille.  
+   Atemschutz nur bei unklaren bzw. gerfährlichen  Atmosphärenverhältnissen  
+   (Sauerstoffmangel), dann umluftunabhängiges Atem schutzgerät verwenden.  
+9 Physikalische und chemische Eigenschaften 
+9.1  Grundlegende physikalische und chemische Eigenschaften 
+9.2  Sonstige Angaben  : keine  
+10 Stabilität und Reaktivität 
+10.1 Reaktivität        : Inert  
+10.2 Chemische Stabilität       : Stabil unter normalen Bedingungen.  
+10.3 Möglichkeit gefährlicher Reaktionen : Keine Angaben     
+10.4 Zu vermeidende Bedingungen      : Keine Angaben     
+10.5 Unverträgliche Materialien      : Keine Angaben     
+10.6 Gefährliche Zersetzungsprodukte      : Keine  
+11 Angaben zur Toxikologie 
+11.1  Angaben zu toxikologischen Wirkungen: Toxische Wirkungen des Produktes sind nicht bekannt 
+12 Umweltspezifische Angaben 
+12.1 Toxizität  :  Es sind keine schädlichen Wirkungen des Produkts auf die Umwelt bekannt.  
+     Nicht wassergefährdender Stoff Kenn-Nr. 1351 ( gemäß VwVwS; Anhang 1)  
+12.2 Persistenz und Abbaubarkeit   :  Keine Daten verfügbar   
+12.3 Bioakkumulationspotential   :   Keine Daten verfügbar  
+12.4 Mobilität im Boden:    :  Keine Daten verfügbar   
+12.5 Ergebnisse der PBT- und vPvB-Beurteilung :  Keine Daten verfügbar 
+12.6 Andere schädliche Wirkungen  :  Keine Daten verfügbar  
+13 Hinweise zur Entsorgung 
+13.1 Verfahren der   :  Nicht mehr benötigtes  Produkt an den Hersteller/Lieferanten zurückgeben.   
+        Abfallbehandlung      Das Ablassen großer Mengen in die Atmosphäre sollte vermieden werden.  
+     Nicht in die Kanalisation, Keller, Arbeitsgruben und ähnliche Plätze, an denen  
+      die Ansammlung des Gases gefährlich werden kö nnte, ausströmen  
+      lassen. An einem gut gelüfteten Platz in die Atmosphäre ablassen. Rückfrage  
+      beim Gaselieferanten, wenn eine Beratung nöti g ist.   
+      EAK Nr. 16 05 05 
+Form : Verdichtetes Gas   
+Farbe : Farblos   
+Geruch :  Geruchlos   
+Molekulargewicht :  28 g/mol   
+Relative Dampfdichte :  0,97 (Luft = 1) 
+Zündtemperatur : Entfällt  
+Explosionsgrenze (Vol.% in Luft) : Entfällt  
+Relative Dichte   : Nicht anwendbar  
+Siedepunkt   : -196 °C   
+Kritische Temperatur   :  -147 °C   
+Schmelzpunkt   : -210 °C   
+Wasserlöslichkeit   :  0,02 g/l
+
+[[page 4]]
+SICHERHEITSDATENBLATT   
+gemäß 1907/2006/EG (REACH-VO) 
+Seite 4 von 4 
+Version : 4.4 
+Erstellt  am  : 10.09.2004 
+Überarbeitet am  : 30.01.2018 
+STICKSTOFF, verdichtet  SDB-03 
+ 
+ 
+ SDB-03-Stickstoff, verdichtet (REACH)_V4.4 
+ 
+14  Angaben zum Transport 
+14.6 Besondere Vorsichtsmaßnahmen für den Verwender:     Der Fahrer muß die möglichen Gefahren der 
+Ladung kennen und er muß wissen, was bei einem Unfall oder Notfall zu tun ist. 
+Möglichst nicht in Fahrzeugen transportieren, deren Laderaum nicht von der Fahrerkabine getrennt ist.  
+- Behälter während des Transportes gegen Umfallen und Verrutschen sichern. Liegende Gasflaschen quer zur  
+  Fahrtrichtung transportieren.  
+- Das Flaschenventil muß dicht und mit einem Ventilschutz versehen sein. Die Ventilschutzeinrichtung muß  
+  korrekt befestigt sein.  
+- Ausreichende Lüftung sicherstellen.  
+- Im und am Fahrzeug nicht rauchen. GGVSEB beachten. 
+14.7 Massengutbeförderung gemäß Anhang II des MARPOL-Übereinkommens 73/78 und gemäß  IBC-Code : 
+   Nicht eingestuft gemäß Anhang II 
+15  Rechtsvorschriften   
+15.1 Vorschriften zur Sicherheit, Gesundheits- und  Umweltschutz/spezifische Rechtsvorschriften für den 
+Stoff oder das Gemisch :   Betriebsicherheitsverordnung, Technische Regeln zur Betriebssicherheitsver- 
+   ordnung (TRBS), Gefahrstoffverordnung, Technisch e Regeln zur Gefahrstoff- 
+   verordnung (TRGS), DGUV, VwVwS 
+15.2 Stoffsicherheitsbeurteilung: keine Angaben 
+16 Sonstige Angaben 
+Alle nationalen/örtlichen Vorschriften beachten. Das Risiko des Erstickens wird oft übersehen und muss bei der 
+Unterweisung der Mitarbeiter besonders hervorgehoben werden. Bevor das Produkt in irgendeinem neuen Pro- 
+zess oder Versuch benutzt wird, sollte eine sorgfältige Studie über die Materialverträglichkeit und die Sicherheit 
+durchgeführt werden. 
+Die vorstehenden Angaben stützen sich auf den derzeitigen Stand der Kenntsnisse und stellen keine Zusicherung von Eigenschaften dar und 
+begründen kein vertragliches Rechtsverhältnis. Gesetze, Verordnungen, Technische Regeln sind vom Empfänger und Nutzer unserer 
+Produkte in eigener Verantwortung zu beachten. 
+ 
+    Kennzeichnung der  Änderungen  mit Seitenstrich                                                                                                                                     
+Landtransport :  ADR/RID   
+14.1 UN-Nr. : 1066 
+14.2 Offizielle Benennung : STICKSTOFF,          
+(ADR/RID, IMDG, IATA)   VERDICHTET 
+14.3 Gefahrnummer :  20 
+        Klasse  : 2 
+        Klassifizierungscode :  1A 
+        Gefahrzettel :  2.2 
+        Tunnelbeschränkungscode :  (E) 
+14.4  Verpackungsgruppe : Entfällt      
+        Verpackungsanweisung : P200 
+14.5 Umweltgefahren :  Nicht anwendbar 
+    
+Seeschiffstransport : IMDG  
+Klasse :  2 
+Unfallmerkblatt EmS – Feuer : F-C 
+Unfallmerkblatt EmS – Leckage : S-V 
+Marine pollutant :  Nein   
+ 
+Lufttransport : ICAO/IATA-DGR  
+Klasse  : 2 
+UN-Nr. :  1066 
+Bezeichnung :  NITROGEN, COMPRESSED  
+Gefahrzettel :  2.2 
+Verpackungsvorschrift : P200

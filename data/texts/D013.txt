@@ -1,0 +1,53 @@
+[[page 1]]
+SRM 1767  Page 1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE:  16 June 2025 
+ 
+Product Identifier 
+SRM Number: 1767 
+SRM Name: Low Alloy Steel 
+Under the U.S. Department of Labor, Occupational Safety and Health Administration (OSHA) 29 CFR 1910.1200, 
+this Standard Reference Material  (SRM) is NOT classified as a physical hazard or a health hazard, a simple 
+asphyxiant, combustible dust, pyrophoric gas, or hazard not otherwise classified.   There are no hazard pictograms, 
+hazard statements or signal word associated with it.  Safety Data Sheet information is not required.  This document 
+may be used in conjunction with your hazard communication program.   Articles are exempted per 1910.1200(c). 
+ 
+Description:  This SRM is a low alloy steel and is intended for use in optical emission and X -ray spectrometric 
+methods of analysis.  A unit of SRM 1767 consists of a disk approximately 34 mm in diameter and 19 mm thick. 
+ 
+Disposal:  SRM 1767 should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Transport Information:  This material is not regulated by the U.S. Department of Transportation  (DOT) and/or 
+International Air Transportation Association (IATA). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  The NIST information in this document is specific to the NIST product and is believed to be correct, 
+based upon our current knowledge.  This document may not necessarily be all inclusive and should be used only as a 
+guide.  NIST does not guarantee the accuracy or completeness of this information.   The only official source for 
+specific values and uncertainties is the certificate or report. 
+Users of  this SRM should ensure that this document and the corresponding  Certificate of Analysis in their 
+possession are current. This can be  accomplished by contacting the SRM Program:   telephone (301)  975-2200; 
+e-mail srmmsds@nist.gov; or via the Internet at https://www.nist.gov/srm.
