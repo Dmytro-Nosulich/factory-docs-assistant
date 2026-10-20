@@ -62,8 +62,10 @@ def main() -> None:
 
     ids = args.ids or stage1_ids()
     TEXTS.mkdir(parents=True, exist_ok=True)
-    # Re-extracting a few IDs keeps the other index rows; a full run rebuilds the index.
-    rows: dict[str, dict] = read_index() if args.ids else {}
+    # Keep index rows of other text files that still exist (e.g. non-SDS texts kept for stage 2).
+    rows: dict[str, dict] = {
+        doc_id: r for doc_id, r in read_index().items() if (TEXTS / f"{doc_id}.txt").exists()
+    }
     for doc_id in ids:
         rows[doc_id] = extract_one(doc_id)
         print(f"{doc_id}: {rows[doc_id]['pages']} pages, ~{rows[doc_id]['est_tokens']} tokens")

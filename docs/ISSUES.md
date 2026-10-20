@@ -3,6 +3,17 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-002: Stage 1 has 15 texts, below the course minimum of 30
+- **Date / task:** 2026-10-20, S1-02 (corpus manifest)
+- **Problem:** The course teacher advised focusing stage 1 on safety data sheets (SDS), because the other document types (manuals, certificates, declarations, datasheets) are hard to read. The corpus has only 15 SDS (D001, D002, D003, D006, D007, D008, D010, D032-D039; en, sv, pl, uk, de), while the assignment asks for at least 30 texts.
+- **Options considered:**
+  - Add about 15 more public SDS (same issuers as D006/D032 and D007/D033) to reach 30.
+  - Ask the teacher whether fewer than 30 is acceptable for an SDS-only set.
+  - Proceed with the 15 SDS we have.
+- **Current selection:** proceed with the 15 SDS. The 20 non-SDS documents move to stage 2 (RAG) in `data/manifest.csv`; their texts stay in `data/texts/` for stage 2. The golden set keeps its 4 SDS (D001, D002, D006, D033) and gets 6 SDS replacements.
+- **Revisit if:** the reviewer or rubric penalizes fewer than 30 texts, or the metrics on 15 documents are too noisy to compare models. Then add more SDS (only manifest rows and PDFs; the pipeline needs no change).
+- **Status:** accepted risk.
+
 ## I-001: Which PDF-to-text converter to use
 - **Date / task:** 2026-10-19, S1-03 (text extraction)
 - **Problem:** The corpus is PDFs (EN, SV, PL, UK, DE, FR, IT; some scanned pages), but the models and the golden set work from plain text. The converter must keep page boundaries (stage 2 cites pages) and must work from a fresh clone with one command.
