@@ -1,0 +1,30 @@
+{
+  "product_name": "STIHL Універсальний засіб для очищення Profi CP 200 [18.12.2018]",
+  "language": "uk",
+  "signal_word": "none",
+  "physical_state": "liquid",
+  "components": [
+    {
+      "name": "sodium-p-cumene sulphonate",
+      "cas_number": "15763-76-5",
+      "concentration": {
+        "min": 1,
+        "max": 3,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "Phenol polyethoxilate",
+      "cas_number": "9004-78-8",
+      "concentration": {
+        "min": 1,
+        "max": 3,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [],
+  "flash_point": null,
+  "un_number": null,
+  "revision_date": "2020-08-06"
+}

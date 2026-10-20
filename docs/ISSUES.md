@@ -28,6 +28,8 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Typical noise: words split by stray spaces ("Nitroge n", "1907/200 6").
   - Pages without a text layer come out empty: D014 pp. 3-9 (scans), D019 pp. 37-39, D021 p. 47. No OCR in stage 1.
   - D002 (2026-10-20, user's visual check): a table is converted with some loss of its structure. Not critical; accepted as natural noise, and the text file is not edited by hand.
+  - D038 (2026-10-20, S1-05 labeling): the PDF's column and box layout breaks the reading order. The section 3 table (line 77) comes after section 4 and the hazard-label box, and "Form : Verdichtetes Gas" from section 9 (line 192) comes right after the section 13 disposal text. All values are present, but not inside their sections. Accepted as noise; check it first if D038 components or physical_state fail.
+  - Other noise seen while labeling the golden set (S1-05): split digits in a value (D008 flash point "> 6 5 ° C") and words hyphenated across lines (D010 "наслід- ками"). The golden labels hold the document's real values ("> 65 °C", "наслідками").
   - D001 makes pypdf warn about 200 times that `fontTools` is needed for a font that holds only the space character. The text is unaffected, so the script logs pypdf errors only instead of adding `fontTools`.
 - **Revisit if:** extraction errors (not model errors) show up in the S1-18 error analysis, or stage 2 needs table structure. Then try PyMuPDF or pdfplumber on the failing documents.
 - **Status:** decided.

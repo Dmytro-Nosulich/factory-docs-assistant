@@ -1,0 +1,42 @@
+{
+  "product_name": "Acetone, Borvida B™ Acetone, Borvida C™ Acetone",
+  "language": "pl",
+  "signal_word": "danger",
+  "physical_state": "liquid",
+  "components": [
+    {
+      "name": "aceton",
+      "cas_number": "67-64-1",
+      "concentration": {
+        "min": 99,
+        "max": null,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [
+    {
+      "code": "H225",
+      "text": "Wysoce łatwopalna ciecz i pary."
+    },
+    {
+      "code": "H319",
+      "text": "Działa drażniąco na oczy."
+    },
+    {
+      "code": "H336",
+      "text": "Może wywoływać uczucie senności lub zawroty głowy."
+    },
+    {
+      "code": "EUH066",
+      "text": "Powtarzające się narażenie może powodować wysuszanie lub pękanie skóry."
+    }
+  ],
+  "flash_point": {
+    "min": -17,
+    "max": -17,
+    "unit": "celsius"
+  },
+  "un_number": "UN1090",
+  "revision_date": "2024-08-07"
+}

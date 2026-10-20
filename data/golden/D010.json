@@ -1,0 +1,39 @@
+{
+  "product_name": "PREPARAT OCHRONNY DO RAK-BASIC-1000ML",
+  "language": "uk",
+  "signal_word": "none",
+  "physical_state": null,
+  "components": [
+    {
+      "name": "Жирні кислоти, кокосова олія, солі натрію",
+      "cas_number": "61789-89-7",
+      "concentration": {
+        "min": 2.5,
+        "max": 10,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "C16-18 Етоксильований спирт",
+      "cas_number": "68439-49-6",
+      "concentration": {
+        "min": 2.5,
+        "max": 10,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [
+    {
+      "code": "H412",
+      "text": "Шкідливо для водних організмів із тривалимі наслідками."
+    }
+  ],
+  "flash_point": {
+    "min": 190,
+    "max": null,
+    "unit": "celsius"
+  },
+  "un_number": null,
+  "revision_date": "2021-04-09"
+}

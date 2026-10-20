@@ -1,0 +1,34 @@
+{
+  "product_name": "Motorbike Visierreiniger",
+  "language": "uk",
+  "signal_word": "none",
+  "physical_state": "liquid",
+  "components": [
+    {
+      "name": "2-пропанол",
+      "cas_number": "67-63-0",
+      "concentration": {
+        "min": 1,
+        "max": 10,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [
+    {
+      "code": "EUH208",
+      "text": "Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію."
+    },
+    {
+      "code": "EUH210",
+      "text": "Паспорт безпеки можна отримати за запитом."
+    }
+  ],
+  "flash_point": {
+    "min": 65,
+    "max": null,
+    "unit": "celsius"
+  },
+  "un_number": null,
+  "revision_date": "2020-01-21"
+}

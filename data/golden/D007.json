@@ -1,0 +1,88 @@
+{
+  "product_name": "Літній очищувач скла, концентрат 1:100 RM 672",
+  "language": "uk",
+  "signal_word": "danger",
+  "physical_state": "liquid",
+  "components": [
+    {
+      "name": "sodium lauryl ether sulfate",
+      "cas_number": "68891-38-3",
+      "concentration": {
+        "min": 10,
+        "max": 20,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "sec. n-alkane C14-C17 sulphonate, sodium salt",
+      "cas_number": "97489-15-1",
+      "concentration": {
+        "min": 5,
+        "max": 10,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "docusate sodium",
+      "cas_number": "577-11-7",
+      "concentration": {
+        "min": 1,
+        "max": 3,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "1,2-бензізотіазол-3(2Н)-он",
+      "cas_number": "2634-33-5",
+      "concentration": {
+        "min": null,
+        "max": 0.05,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine",
+      "cas_number": "2372-82-9",
+      "concentration": {
+        "min": null,
+        "max": 0.025,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "2-метил-2Н-ізотіазол-3-он",
+      "cas_number": "2682-20-4",
+      "concentration": {
+        "min": 0.0015,
+        "max": 0.025,
+        "unit": "percent"
+      }
+    },
+    {
+      "name": "піритіон натрію",
+      "cas_number": "3811-73-2",
+      "concentration": {
+        "min": null,
+        "max": 0.0025,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [
+    {
+      "code": "H315",
+      "text": "Спричиняє подразнення шкіри."
+    },
+    {
+      "code": "H318",
+      "text": "Спричиняє серйозне пошкодження очей."
+    },
+    {
+      "code": "H317",
+      "text": "Може спричинити алергічну реакцію на шкірі."
+    }
+  ],
+  "flash_point": null,
+  "un_number": null,
+  "revision_date": "2022-10-10"
+}

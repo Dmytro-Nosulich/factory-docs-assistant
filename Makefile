@@ -1,10 +1,13 @@
-.PHONY: run texts test lint format
+.PHONY: run texts golden-check test lint format
 
 run:
 	uv run python -m factory_docs
 
 texts:
 	uv run python scripts/extract_texts.py
+
+golden-check:
+	uv run python scripts/check_golden.py
 
 test:
 	uv run pytest
