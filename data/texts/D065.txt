@@ -1,0 +1,1263 @@
+[[page 1]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 1/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+  
+Ficha de Datos de Seguridad 
+En conformidad con Anexo II del REACH - Reglamento (UE) 2020/878 
+ 
+ 
+ SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa 
+ 
+ 1.1. Identificador del producto  Denominación F 80 DESENGRASANTE  
+   
+ 
+ 1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados  Descripción/Uso: Desengrasante disolvente multiuso. 
+ 
+ 
+ 1.3. Datos del proveedor de la ficha de datos de seguridad  Razón social: SK SOLKEM INDUSTRIES SRLA SOCIO UNICO   Dirección: Corso Europa 85/91   Localidad y Estado: 20033 Solaro (Mi)  
+  Italia  
+  Tel. 0039 02 84505  
+  Fax 0039 02 84505479  
+ dirección electrónica de la persona competente,  
+ responsable de la ficha de datos de seguridad regulatory@sksolkem.com  
+   
+ 
+ 1.4. Teléfono de emergencia  Para informaciones urgentes dirigirse a Servicio de Información Toxicológica 
+Teléfono: + 34 91 562 04 20 (solo emergencias toxicológicas) 
+Información en español (24h/365 días)  
+ 
+ SECCIÓN 2. Identificación de los peligros 
+ 
+2.1. Clasificación de la sustancia o de la mezcla 
+ 
+ 
+El producto está  clasificado como peligroso según las disposiciones del Reglamento (CE) 1272/2008 (CLP) (y sucesivas modificaciones y 
+adaptaciones). Por lo tanto, el producto requiere una ficha de datos de seguridad conforme a las disposiciones del Reglamento (UE) 2020/878. 
+Eventual información adicional sobre los riesgos para la salud y/o el ambiente están disponibles en las secciones 11 y 12 de la presente ficha. 
+ 
+Clasificación e indicación de peligro:  
+ Aerosoles, categoría 1 H222 Aerosol extremadamente inflamable. 
+  H229 Recipiente a presión: puede reventar si se calienta. 
+ Toxicidad específica en determinados órganos - 
+exposiciones repetidas, categoría 1 
+H372 Provoca daños en los órganos tras exposiciones prolongadas 
+o repetidas.  Peligro por aspiración, categoría 1 H304 Puede ser mortal en caso de ingestión y penetración en las 
+vías respiratorias.  Lesiones oculares graves, categoría 1 H318 Provoca lesiones oculares graves.  Irritación cutáneas, categoría 2 H315 Provoca irritación cutánea.  Sensibilización cutánea, categoría 1B H317 Puede provocar una reacción alérgica en la piel.  Toxicidad específica en determinados órganos - 
+exposiciones única, categoría 3 
+H336 Puede provocar somnolencia o vértigo. 
+ Peligroso para el medio ambiente acuático, toxicidad H411 Tóxico para los organismos acuáticos, con efectos nocivos
+
+[[page 2]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 2/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+crónico, categoría 2 duraderos. 
+    
+ 
+2.2. Elementos de la etiqueta 
+ 
+ 
+Etiquetas de peligro en conformidad con el Reglamento (CE) 1272/2008 (CLP) y sucesivas modificaciones y adaptaciones. 
+ 
+ Pictogramas de peligro:  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ Palabras de advertencia: Peligro 
+ 
+ 
+Indicaciones de peligro: 
+ 
+ H222 Aerosol extremadamente inflamable.  H229 Recipiente a presión: puede reventar si se calienta.  H372 Provoca daños en los órganos tras exposiciones prolongadas o repetidas.  H318 Provoca lesiones oculares graves.  H315 Provoca irritación cutánea.  H317 Puede provocar una reacción alérgica en la piel.  H336 Puede provocar somnolencia o vértigo.  H411 Tóxico para los organismos acuáticos, con efectos nocivos duraderos. 
+ 
+Consejos de prudencia: 
+ 
+ P210 Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de cualquier otra fuente de ignición. 
+No fumar.  P251 No perforar ni quemar, incluso después de su uso.  P410+P412 Proteger de la luz del sol. No exponer a temperaturas superiores a 50°C / 122°F.  P211 No pulverizar sobre una llama abierta u otra fuente de ignición.  P260 No respirar el polvo / el humo / el gas / la niebla / los vapores / el aerosol.  P305+P351+P338 EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos. Quitar las 
+lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado. 
+   
+ Contiene: HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%) 
+  (R)-P-MENTHA-1,8-DIENE 
+  BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE 
+  Alcoholes C12-16, etoxilados 
+ 
+Las indicaciones relativas a la clasificación como tóxico por aspiració n han sido excluidas de los elementos de la etiqueta en base al punto 1.3.3 del 
+Anexo I del CLP. 
+ 
+Ingredientes en conformidad con el Reglamento (CE) Nº 648/2004 
+ 
+ Inferior al 5% tensioactivos aniónicos  Entre el 5% y el 15% tensioactivos no iónicos 
+ 
+perfumes, Limonene
+
+[[page 3]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 3/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+2.3. Otros peligros 
+ 
+ 
+Sobre la base de los datos disponibles, el producto no contiene sustancias PBT o vPvB en porcentaje ≥ al 0,1%. 
+ 
+El producto no contiene sustancias con propiedades de alteración del sistema endocrino en concentración ≥ 0,1%. 
+ 
+ SECCIÓN 3. Composición/información sobre los componentes 
+ 
+ 3.2. Mezclas 
+ 
+Contiene: 
+ 
+ Identificación x = Conc. % Clasificación (CE) 1272/2008 (CLP)  
+ HIDROCARBUROS, C9-C12, n-
+ALKANS, CICLOS, AROMATICOS 
+(2 - 25%) 
+   
+ INDEX   - 45 ≤ x <  49 Flam. Liq. 3 H226, STOT RE 1 H372, Asp. Tox. 1 H304, STOT SE 3 H336, 
+Aquatic Chronic 2 H411, EUH066   CE   919-446-0    
+ CAS   -    
+ Reg. REACH   01-2119458049-33-
+XXXX     PROPANO    
+ INDEX   601-003-00-5 12,5 ≤ x <  14 Flam. Gas 1A H220, Press. Gas (Liq.) H280, Nota de clasificación según el 
+anexo VI del Reglamento CLP: U   CE   200-827-9    
+ CAS   74-98-6    
+ Reg. REACH   01-2119486944-21    
+ BUTANO    
+ INDEX   601-004-00-0 10,5 ≤ x <  12 Flam. Gas 1A H220, Press. Gas (Liq.) H280, Nota de clasificación según el 
+anexo VI del Reglamento CLP: C, U   CE   203-448-7    
+ CAS   106-97-8    
+ Reg. REACH   01-2119474691-32-
+XXXX     (R)-P-MENTHA-1,8-DIENE    
+ INDEX   601-096-00-2 8,5 ≤ x <  10 Flam. Liq. 3 H226, Asp. Tox. 1 H304, Skin Irrit. 2 H315, Skin Sens. 1B H317, 
+Aquatic Acute 1 H400 M=1, Aquatic Chronic 3 H412   CE   227-813-5    
+ CAS   5989-27-5    
+ Reg. REACH   01-2119529223-47-
+XXXX     ISOBUTANO    
+ INDEX   601-004-00-0 4 ≤ x <  5 Flam. Gas 1A H220, Press. Gas H280, Nota de clasificación según el anexo 
+VI del Reglamento CLP: C, U   CE   200-857-2    
+ CAS   75-28-5    
+ Reg. REACH   01-2119485395-27-
+XXXX     Alcoholes C12-16, etoxilados
+
+[[page 4]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 4/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ INDEX 3 ≤ x <  4 Acute Tox. 4 H302, Eye Dam. 1 H318, Aquatic Chronic 3 H412  
+ CE   -  STA Oral: 500 mg/kg  
+ CAS   68551-12-2    
+ Alcoli, da cocco, etossilato (>=2,5 
+< 5 EO)     INDEX 3 ≤ x <  4 Eye Irrit. 2 H319, Aquatic Acute 1 H400 M=1, Aquatic Chronic 3 H412  
+ CE   -    
+ CAS   61791-13-7    
+ BENZENSULFONIC ACID, MONO-
+C10-14-ALKYL DERIVS, COMPDS. 
+WITH TRIETHANOLAMINE 
+   
+ INDEX   - 2 ≤ x <  2,5 Acute Tox. 4 H302, Eye Dam. 1 H318, Skin Irrit. 2 H315  
+ CE   290-652-4  STA Oral: 500 mg/kg  
+ CAS   90194-42-6    
+ AMIDAS, COCO    
+ INDEX   - 1,5 ≤ x <  2 Eye Dam. 1 H318, Skin Irrit. 2 H315, Aquatic Chronic 2 H411  
+ CE   931-329-6  Eye Dam. 1 H318: ≥ 5%  
+ CAS   -    
+ Reg. REACH   01-2119490100-53-
+XXXX     MORFOLINA    
+ INDEX   613-028-00-9 0 ≤ x <  0,05 Flam. Liq. 3 H226, Acute Tox. 3 H311, Acute Tox. 4 H302, Acute Tox. 4 
+H332, Skin Corr. 1B H314, Eye Dam. 1 H318   CE   203-815-1  LD50 Oral: 1050 mg/kg, LD50 Cutánea: 500 mg/kg, STA Inhalación nieblas/polvos: 1,5 mg/l   CAS   110-91-8    
+ 
+El texto completo de las indicaciones de peligro (H) se encuentra en la sección 16 de la ficha. 
+ 
+El producto es un aerosol que contiene agentes propulsores. A los efectos de evaluar los peligros para la salud, los agentes propulsores no son 
+tomados en cuenta (a menos que presenten peligros para la salud). Los porcentajes indicados incluyen los agentes propulsores. 
+ 
+Porcentaje de agentes propulsores: 28,00 % 
+ 
+ SECCIÓN 4. Primeros auxilios 
+ 
+4.1. Descripción de los primeros auxilios 
+ 
+OJOS: Quite las eventuales lentes de contacto. Lave inmediatamente con abundante agua durante al menos 30/60 minutos, abriendo bien los párpados. 
+Consulte inmediatamente a un médico. 
+PIEL: Quítese la indumentaria contaminada. Dúchese inmediatamente. Consulte inmediatamente a un médico. 
+INGESTIÓN: Beba mayor cantidad de agua posible. Consulte inmediatamente a un médico. No provoque el vómito sin expresa autorización del médico. 
+INHALACIÓN: Llame mediatamente a un médico. Lleve al sujeto al aire libre, lejos del lugar del accidente. Si la respiración cesa, practique respiración 
+artificial. Se deben tomar precauciones adecuadas para el socorrista. 
+ 
+4.2. Principales síntomas y efectos, agudos y retardados 
+ 
+No hay información específica sobre síntomas y efectos provocados por el producto. 
+ 
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente 
+ 
+Información no disponible.
+
+[[page 5]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 5/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+ 
+ SECCIÓN 5. Medidas de lucha contra incendios 
+ 
+5.1. Medios de extinción 
+ 
+MEDIOS DE EXTINCIÓN IDÓNEOS 
+Los medios de extinción son los tradicionales: anhídrido carbónico, espuma, polvos y agua nebulizada. 
+MEDIOS DE EXTINCIÓN NO IDÓNEOS 
+Ninguno en particular. 
+ 
+5.2. Peligros específicos derivados de la sustancia o la mezcla 
+ 
+PELIGROS DEBIDOS A LA EXPOSICIÓN EN CASO DE INCENDIO 
+En caso de recalentamiento, los recipientes aerosol pueden deformarse, estallar y ser proyectados a gran distancia. Use un ca sco de protección antes 
+de acercarse al incendio. Evite respirar los productos de la combustión. 
+ 
+5.3. Recomendaciones para el personal de lucha contra incendios 
+ 
+INFORMACIÓN GENERAL 
+Enfríe los recipientes con chorros de agua para evitar la descomposición del producto y la formación de sustancias potencialm ente peligrosas para la 
+salud. Use siempre el equipo de protección antiincendio completo. 
+EQUIPO 
+Elementos normales para la lucha contra el fuego, como un respirador autónomo de aire comprimido de circuito abierto (EN 137), traje ignífugo (EN469), 
+guantes ignífugos (EN 659) y botas de bomberos (HO A29 o A30). 
+ 
+ 
+ SECCIÓN 6. Medidas en caso de vertido accidental 
+ 
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia 
+ 
+Elimine toda fuente de ignición (cigarrillos, llamas, chispas, etc.) o de calor en el á rea en que se ha verificado la pérdida. Aleje a las personas 
+desprovistas de equipo. Llevar guantes / prendas / gafas / máscara de protección. 
+ 
+6.2. Precauciones relativas al medio ambiente 
+ 
+Impida su dispersión en el ambiente. 
+ 
+6.3. Métodos y material de contención y de limpieza 
+ 
+Absorba el producto derramado con material absorbente inerte. Proceda a una suficiente ventilación del lugar afectado por la pérdida. La eliminación del 
+material contaminado se debe realizar según las disposiciones del punto 13. 
+ 
+6.4. Referencia a otras secciones 
+ 
+Eventual información sobre la protección individual y la eliminación está disponible en las secciones 8 y 13. 
+ 
+ 
+ SECCIÓN 7. Manipulación y almacenamiento 
+ 
+7.1. Precauciones para una manipulación segura 
+ 
+Evite la acumulación de cargas electrostáticas. No rocíe el producto sobre llamas o cuerpos incandescentes. Los vapores podrí an incendiarse y
+
+[[page 6]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 6/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+explotar; por lo tanto, se debe evitar su acumulació n manteniendo las puertas y ventanas abiertas y garantizando una ventilación cruzada. No coma, 
+beba ni fume durante el uso. No respirar el aerosol. 
+ 
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades 
+ 
+Conserve el producto en un lugar bien ventilado, a una temperatura inferior a 50°C / 122°F, lejos de la acción directa de los rayos del sol y de cualq uier 
+fuente de combustión. 
+ 
+Clase de almacenamiento TRGS 510 (Alemania): 
+2B 
+ 
+7.3. Usos específicos finales 
+ 
+Información no disponible.  
+ 
+ SECCIÓN 8. Controles de exposición/protección individual 
+ 
+ 8.1. Parámetros de control 
+ 
+Referencias Normativas: 
+  CZE Česká Republika Nařízení vlády č. 41/2020 Sb. Nařízení vlády, kterým se mění nařízení vlády č. 361/2007 Sb., kterým se 
+stanoví podmínky ochrany zdraví při práci, ve znění pozdějších předpisů  DEU Deutschland Technischen Regeln für Gefahrstoffe (TRGS 900) - Liste der Arbeitsplatzgrenzwerte und Kurzzeitwerte. 
+MAK- und BAT-Werte-Liste 2020, Ständige Senatskommission zur Prüfung ges undheitsschädlicher 
+Arbeitsstoffe, Mitteilung 56  DNK Danmark Bekendtgørelse om grænseværdier for stoffer og materialer - BEK nr 1458 af 13/12/2019  ESP España Límites de exposición profesional para agentes químicos en España 2021  FRA France Valeurs limites d'exposition professionnelle aux agents chimiques en France. ED 984 - INRS  FIN Suomi HTP-VÄRDEN 2020. Koncentrationer som befunnits skadliga. SOCIAL - OCH 
+HÄLSOVÅRDSMINISTERIETS PUBLIKATIONER 2020:25  GRC Ελλάδα Π.Δ. 26/2020 (ΦΕΚ 50/Α` 6.3.2020) Εναρμόνιση της ελληνικής νομοθεσίας προς τις διατάξεις των οδηγιών 
+2017/2398/EΕ, 2019/130/ΕΕ και 2019/983/ΕΕ «για την τροποποίηση της οδηγίας 2004/37/ΕΚ ``σχετικά με 
+την προστασία των εργαζομένων από τους κινδύνους που συνδέονται με την έκθεση σε καρκινογόνους ή 
+μεταλλαξιγόνους παράγοντες κατά την εργασία``»  HRV Hrvatska Pravilnik o izmjenama i dopunama Pravilnika o zaštiti radnika od izloženosti opasnimkemikalijama na radu, 
+graničnim vrijednostima izloženosti i biološkim graničnim vrijednostima (NN 1/2021)  ITA Italia Decreto Legislativo 9 Aprile 2008, n.81  NOR Norge Forskrift om endring i forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i 
+arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks - og grenseverdier), 21. 
+august 2018 nr. 1255  NLD Nederland Arbeidsomstandighedenregeling. Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste 
+lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit  PRT Portugal Decreto-Lei n.º 1/2021 de 6 de janeiro, valores-limite de exposição profissional indicativos para os agentes 
+químicos. Decreto-Lei n.º 35/2020 de 13 de julho, proteção dos trabalhadores contra os riscos ligados à 
+exposição durante o trabalho a agentes cancerígenos ou mutagénicos  POL Polska Rozporządzenie ministra rozwoju, pracy i technologii  z dnia 18 lutego 2021 r. Zmieniające rozporządzenie 
+w sprawie najwyższych dopuszczalnych stężeń i natężeń  czynników szkodliwych  dla zdrowia w 
+środowisku pracy  SWE Sverige Hygieniska gränsvärden, Arbetsmiljöverkets föreskrifter och allmänna råd om hygieniska gränsvärden (AFS 
+2018:1)  GBR United Kingdom EH40/2005 Workplace exposure limits (Fourth Edition 2020)  EU OEL EU Directiva (UE) 2022/431; Directiva (UE) 2019/1831; Directiva (UE) 2019/130; Directiva (UE) 2019/983; 
+Directiva (UE) 2017/2398; Directiva (UE) 2017/164; Directiva 2009/161/UE; Directiva 2006/15/CE; Directiva 
+2004/37/CE; Directiva 2000/39/CE; Directiva 98/24/CE; Directiva 91/322/CEE. 
+  TLV-ACGIH ACGIH 2021 
+ 
+ HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)  Salud - Nivel sin efecto derivado - DNEL/DMEL 
+  Efectos sobre los 
+consumidores 
+   Efectos sobre los 
+trabajadores 
+   
+ Vía de exposición Locales agudos Sistém agudos Locales 
+crónicos 
+Sistém 
+crónicos 
+Locales 
+agudos 
+Sistém 
+agudos 
+Locales 
+crónicos 
+Sistém 
+crónicos
+
+[[page 7]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 7/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ Oral   VND 26 mg/kg VND 570 mg/m3   
+ Inhalación VND 570 mg/m3 VND 71 mg/m3   VND 330 mg/m3 
+ Dérmica   VND 26 mg/kg   VND 44 mg/kg 
+ 
+ PROPANO  Valor límite de umbral  Tipo Estado TWA/8h  STEL/15min  Notas / Observaciones  
+   mg/m3 ppm mg/m3 ppm   
+ AGW DEU 1800 1000 7200 4000   
+ MAK DEU 1800 1000 7200 4000   
+ TLV DNK 1800 1000     
+ VLA ESP  1000     
+ HTP FIN 1500  800 2000 1100   
+ TLV GRC 1800 1000     
+ TLV NOR  900  500     
+ NDS/NDSCh POL 1800      
+ 
+ BUTANO  Valor límite de umbral  Tipo Estado TWA/8h  STEL/15min  Notas / Observaciones  
+   mg/m3 ppm mg/m3 ppm   
+ AGW DEU 2400 1000 9600 4000   
+ MAK DEU 2400 1000 9600 4000   
+ TLV DNK 1200  500     
+ VLA ESP  1000    Gases 
+ VLEP FRA 1900  800     
+ HTP FIN 1900  800 2400 1000   
+ TLV GRC 2350 1000     
+ GVI/KGVI HRV 1450  600 1810  750   
+ TLV NOR  600  250     
+ TGG NLD 1430      
+ NDS/NDSCh POL 1900  3000    
+ WEL GBR 1450  600 1810  750   
+ WEL GBR     4   RESPIR  
+ TLV-ACGIH     1000   
+ 
+ (R)-P-MENTHA-1,8-DIENE  Valor límite de umbral  Tipo Estado TWA/8h  STEL/15min  Notas / Observaciones  
+   mg/m3 ppm mg/m3 ppm   
+ AGW DEU   28    5  112   20 PIEL  
+ MAK DEU   28    5  112   20 PIEL  
+ VLA ESP  168   30   PIEL
+
+[[page 8]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 8/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ HTP FIN  140   25  280   50   
+ TLV NOR  140   25     
+ Concentración prevista sin efectos sobre el ambiente - PNEC    
+ Valor de referencia en agua dulce 0,0054 mg/l  
+ Valor de referencia en agua marina 0,00054 mg/l  
+ Valor de referencia para sedimentos en agua dulce 1,32 mg/kg  
+ Valor de referencia para sedimentos en agua marina 0,13 mg/kg  
+ Valor de referencia para los microorganismos STP 1,8 mg/l  
+ Valor de referencia para el medio terrestre 0,262 mg/kg  
+ Valor de referencia para la atmósfera 3,33 mg/m3  
+ Salud - Nivel sin efecto derivado - DNEL/DMEL 
+  Efectos sobre los 
+consumidores 
+   Efectos sobre los 
+trabajadores 
+   
+ Vía de exposición Locales agudos Sistém agudos Locales 
+crónicos 
+Sistém 
+crónicos 
+Locales 
+agudos 
+Sistém 
+agudos 
+Locales 
+crónicos 
+Sistém 
+crónicos  Oral    4,76 mg/kg/d     
+ Inhalación    8,33 mg/m3    33,3 mg/m3 
+ 
+ ISOBUTANO  Valor límite de umbral  Tipo Estado TWA/8h  STEL/15min  Notas / Observaciones  
+   mg/m3 ppm mg/m3 ppm   
+ AGW DEU 2400 1000 9600 4000   
+ HTP FIN 1900  800 2400 1000   
+ 
+ AMIDAS, COCO  Concentración prevista sin efectos sobre el ambiente - PNEC    
+ Valor de referencia en agua dulce 7 mg/l  
+ Valor de referencia en agua marina 0,7 mg/l  
+ Valor de referencia para los microorganismos STP 830 mg/l  
+ Salud - Nivel sin efecto derivado - DNEL/DMEL 
+  Efectos sobre los 
+consumidores 
+   Efectos sobre los 
+trabajadores 
+   
+ Vía de exposición Locales agudos Sistém agudos Locales 
+crónicos 
+Sistém 
+crónicos 
+Locales 
+agudos 
+Sistém 
+agudos 
+Locales 
+crónicos 
+Sistém 
+crónicos  Oral   VND 6,25 mg/kg     
+ Inhalación   VND 21,73 mg/kg   VND 73,4 mg/m3 
+ Dérmica   0,056 mg/kg 2,5 mg/kg   0,09 mg/kg 4,16 mg/kg 
+ 
+ MORFOLINA  Valor límite de umbral  Tipo Estado TWA/8h  STEL/15min  Notas / Observaciones  
+   mg/m3 ppm mg/m3 ppm   
+ TLV CZE   35 9,66   70 19,32   
+ AGW DEU   36   10   72   20 PIEL  
+ MAK DEU   36   10   72   20
+
+[[page 9]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 9/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ TLV DNK   36   10   PIEL E 
+ VLA ESP   36   10   72   20   
+ VLEP FRA   36   10   72   20   
+ HTP FIN   36   10   72   20 PIEL  
+ TLV GRC   36   10   72   20   
+ VLEP ITA   36   10   72   20 PIEL  
+ TLV NOR   36   10   PIEL  
+ TGG NLD   36    72  PIEL  
+ VLE PRT   36   10   72   20   
+ NDS/NDSCh POL   36    72  PIEL  
+ NGV/KGV SWE   35   10   72   20   
+ WEL GBR   36   10   72   20 PIEL  
+ OEL EU   36   10   72   20   
+ TLV-ACGIH    71   20   PIEL  
+ 
+Leyenda: 
+ 
+ 
+(C) = CEILING   ;   INHAL = Fracción inhalable   ;   RESPIR = Fracción respirable   ;   TORAC = Fracción torácica. 
+ 
+VND = peligro identificado pero ningún DNEL/PNEC disponible   ;   NEA = ninguna exposición esperada   ;   NPI = ningún peligro identificado   ;   LOW = 
+bajo peligro   ;   MED = medio peligro   ;   HIGH = alto peligro. 
+ 
+ 8.2. Controles de la exposición 
+ 
+Considerando que el uso de medidas técnicas adecuadas debería tener prioridad respecto a los equipos de protección personales, asegurar una buena 
+ventilación en el lugar de trabajo a través de una eficaz aspiración local. 
+Durante la elección de los equipos protectores personales pedir consejo a los proveedores de sustancias químicas. 
+Los dispositivos de protección individual deben ser conformes a las normativas vigentes y deberán llevar el marcado CE. 
+ 
+Prever un sistema para el lavado ocular y una ducha de emergencia. 
+ 
+Es necesario mantener los niveles de exposición lo más bajo posible para evitar acumulaciones en el organismo. Gestionar los equipos de protección 
+individual de modo que quede garantizada la máxima protección (ej. reducción del tiempo de sustitución). 
+ 
+PROTECCIÓN DE LAS MANOS 
+No necesario. 
+ 
+PROTECCIÓN DE LA PIEL 
+Usar indumentos de trabajo con mangas largas y calzado de protección para uso profesional de categoría III (ref. Reglamento 2 016/425 y norma EN 
+ISO 20344). Lavarse con agua y jabón después de haber extraído los indumentos de protección. 
+ 
+PROTECCIÓN DE LOS OJOS 
+Usar gafas de protección herméticas (ref. norma EN 166). 
+ 
+En caso de que exista riesgo de exposició n a salpicaduras o chorros en relación a las elaboraciones realizadas, es necesario prever una adecuada 
+protección de las mucosas (boca, nariz y ojos) para evitar absorciones accidentales. 
+ 
+PROTECCIÓN RESPIRATORIA 
+En caso de superación del valor umbral (ej. TLV-TWA) de una o varias sustancias presentes en el preparado, se aconseja llevar una mascarilla con filtro
+
+[[page 10]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 10/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+de tipo AX combinado con filtro de tipo P (ref. norma EN 14387). 
+La utilización de medios de protección de las vías respiratorias es necesaria en ausencia de medidas técnicas para limitar la exposición del trabajador. 
+La protección ofrecida por las mascarillas es, en todo caso, limitada. 
+ 
+CONTROLES DE LA EXPOSICIÓN AMBIENTAL 
+Las emisiones de los procesos productivos, incluidas las de los dispositivo s de ventilación, deberían ser controladas para garantizar el respeto de la 
+normativa de protección ambiental. 
+ 
+No verter sin control los residuos del producto en los alcantarillados ni en los cursos de agua. 
+ SECCIÓN 9. Propiedades físicas y químicas 
+ 9.1. Información sobre propiedades físicas y químicas básicas 
+ 
+ Propiedades Valor Información  Estado físico líquido Temperatura: 20 °C  Color pajizo Temperatura: 20 °C  Olor característico  
+ Punto de fusión / punto de congelación no disponible  
+ Punto inicial de ebullición no aplicable  
+ Inflamabilidad gas inflamable  
+ Límites inferior de explosividad no disponible  
+ Límites superior de explosividad no disponible  
+ Punto de inflamación no aplicable  
+ Temperatura de auto-inflamación no disponible  
+ Temperatura de descomposición no disponible  
+ pH no disponible Motivo para falta de dato:Non applicabile ai 
+solventi organici.  Viscosidad cinemática no disponible  
+ Solubilidad soluble en agua Temperatura: 20 °C  Coeficiente de repartición: n-octanol/agua no disponible  
+ Presión de vapor no disponible  
+ Densidad y/o densidad relativa 0,725 kg/l  Método:ASTM D 1298 
+   Temperatura: 20 °C 
+ Densidad de vapor relativa no disponible  
+ Características de las partículas no aplicable  
+ 
+ 9.2. Otros datos 
+ 
+ 9.2.1. Información relativa a las clases de peligro físico 
+ 
+ 
+ Información no disponible.  
+ 
+ 9.2.2. Otras características de seguridad 
+ 
+ VOC (Directiva 2010/75/UE) 89,13 %    -    646,18    gr/litro  
+ VOC (carbono volátil) 79,09 %    -    573,37    gr/litro  
+ 
+ SECCIÓN 10. Estabilidad y reactividad 
+ 
+10.1. Reactividad
+
+[[page 11]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 11/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+En condiciones de uso normales, no hay particulares peligros de reacción con otras sustancias. 
+ 
+Alcoli, da cocco, etossilato (>=2,5 < 5 EO) 
+ 
+Estable en las condiciones normales de uso y almacenamiento. 
+ 
+AMIDAS, COCO 
+ 
+Reacciona con: ácidos fuertes. 
+ 
+MORFOLINA 
+ 
+En contacto con: agentes oxidantes fuertes,agentes reductores,ácidos fuertes,bases fuertes.Puede liberar: calor. 
+ 
+10.2. Estabilidad química 
+ 
+El producto es estable en las condiciones normales de uso y almacenamiento. 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+Estable en las condiciones normales de uso y almacenamiento. 
+ 
+Alcoholes C12-16, etoxilados 
+ 
+Estable en las condiciones normales de uso y almacenamiento. 
+ 
+Alcoli, da cocco, etossilato (>=2,5 < 5 EO) 
+ 
+Estable en las condiciones normales de uso y almacenamiento. 
+ 
+10.3. Posibilidad de reacciones peligrosas 
+ 
+En condiciones de uso y almacenamiento normales, no se prevén reacciones peligrosas. 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+Puede reaccionar peligrosamente con: agentes oxidantes fuertes,ácidos minerales. 
+ 
+10.4. Condiciones que deben evitarse 
+ 
+Evite el recalentamiento. 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+Evitar la exposición a: calor,llamas libres,descargas electrostáticas. 
+ 
+10.5. Materiales incompatibles 
+ 
+Fuertes reductores y oxidantes, bases y ácidos fuertes, materiales a elevada temperatura. 
+ 
+HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)
+
+[[page 12]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 12/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+Incompatible con: agentes oxidantes. 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+Incompatible con: ácidos fuertes,agentes oxidantes. 
+ 
+Alcoli, da cocco, etossilato (>=2,5 < 5 EO) 
+ 
+Evite el contacto con: agentes oxidantes fuertes. 
+ 
+AMIDAS, COCO 
+ 
+Incompatible con: ácidos fuertes. 
+ 
+10.6. Productos de descomposición peligrosos 
+ 
+HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%) 
+ 
+Puede liberar: óxidos de carbono. 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+Por descomposición, libera: anhídrido carbónico,óxido de nitrógeno. 
+ 
+AMIDAS, COCO 
+ 
+Calentado hasta su descomposición, libera: gases tóxicos,óxidos de nitrógeno. 
+ 
+ 
+ SECCIÓN 11. Información toxicológica 
+ 
+ 
+En ausencia de datos toxicológicos exp erimentales sobre el producto, los eventuales peligros para la salud han sido evaluados en base a las 
+propiedades de las sustancias contenidas, según los criterios previstos por la normativa de referencia para su clasificación. 
+Por lo tanto, se debe considerar la concentración de cada sustancia peligrosa eventualmente citada en la secc. 3, para evaluar los efectos toxicológicos 
+derivados de la exposición al producto. 
+ 
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/2008 
+ 
+ 
+Metabolismo, cinética, mecanismo de acción y otras informaciones 
+ 
+ 
+Información no disponible.  
+ 
+ 
+Información sobre posibles vías de exposición 
+ 
+ 
+Información no disponible.
+
+[[page 13]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 13/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+ 
+Efectos retardados e inmediatos, así como efectos crónicos producidos por una exposición a corto y largo plazo 
+ 
+ 
+Información no disponible.  
+ 
+ 
+Efectos interactivos 
+ 
+ 
+Información no disponible.  
+ 
+TOXICIDAD AGUDA 
+ 
+ 
+ ATE (Inhalación) de la mezcla: No clasificado (ningún componente relevante)  ATE (Oral) de la mezcla: >2000 mg/kg  ATE (Cutánea) de la mezcla: No clasificado (ningún componente relevante) 
+ 
+HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%) 
+ 
+ LD50 (Cutánea): > 3400 mg/kg  LD50 (Oral): > 15000 mg/kg  LC50 (Inhalación vapores): > 13,1 mg/l/4h 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+ LD50 (Cutánea): > 5000 mg/kg (Rabbit)  LD50 (Oral): > 2000 mg/kg (Rat) 
+ 
+ISOBUTANO 
+ 
+ LC50 (Inhalación vapores): 52000 ppm/2h (Rat) 
+ 
+Alcoholes C12-16, etoxilados 
+ 
+ STA (Oral): 500 mg/kg estimación de la tabla 3.1.2 del Anexo I del CLP 
+  (dato utilizado para el cálculo de la estimación de la toxicidad aguda de la mezcla) 
+ 
+Alcoli, da cocco, etossilato (>=2,5 < 5 EO) 
+ 
+ LD50 (Oral): > 2000 mg/kg (Rat) 
+ 
+BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE 
+ 
+ STA (Oral): 500 mg/kg estimación de la tabla 3.1.2 del Anexo I del CLP 
+  (dato utilizado para el cálculo de la estimación de la toxicidad aguda de la mezcla) 
+ 
+AMIDAS, COCO
+
+[[page 14]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 14/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ LD50 (Cutánea): > 2000 mg/kg  LD50 (Oral): > 2000 mg/kg 
+ 
+MORFOLINA 
+ 
+ LD50 (Cutánea): 500 mg/kg Rabbit  LD50 (Oral): 1050 mg/kg Rat  LC50 (Inhalación vapores): 35,1 mg/l/1h Rat 
+ 
+CORROSIÓN O IRRITACIÓN CUTÁNEAS 
+ 
+ 
+Provoca irritación cutánea 
+ 
+ 
+LESIONES OCULARES GRAVES O IRRITACIÓN OCULAR 
+ 
+ 
+Provoca lesiones oculares graves 
+ 
+ 
+SENSIBILIZACIÓN RESPIRATORIA O CUTÁNEA 
+ 
+ 
+Sensibilizante para la piel 
+ 
+ 
+MUTAGENICIDAD EN CÉLULAS GERMINALES 
+ 
+ 
+No responde a los criterios de clasificación para esta clase de peligro 
+ 
+ 
+CARCINOGENICIDAD 
+ 
+ 
+No responde a los criterios de clasificación para esta clase de peligro 
+ 
+ 
+TOXICIDAD PARA LA REPRODUCCIÓN 
+ 
+ 
+No responde a los criterios de clasificación para esta clase de peligro 
+ 
+ 
+TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIÓN ÚNICA 
+ 
+ 
+Puede provocar somnolencia o vértigo
+
+[[page 15]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 15/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIÓN REPETIDA 
+ 
+ 
+Provoca daños en los órganos 
+ 
+ 
+PELIGRO POR ASPIRACIÓN 
+ 
+ 
+Tóxico por aspiración 
+ 
+11.2. Información sobre otros peligros 
+ 
+ 
+Según los datos disponibles, el producto no contiene sustancias que figuren entre las principales listas europeas de alterado res endocrinos potenciales 
+o sospechosos con efectos en la salud humana que estén en proceso de evaluación. 
+ 
+ SECCIÓN 12. Información ecológica 
+ 
+El producto debe ser considerado peligroso para el medio ambiente y es tóxico para los organismos acuáticos. Provocar, a larg o plazo, efectos 
+negativos en el ambiente acuático. 
+12.1. Toxicidad 
+ 
+ (R)-P-MENTHA-1,8-DIENE   
+ LC50 - Peces  0,702 mg/l/96h (Pimephales promelas) 
+ EC50 - Crustáceos  0,577 mg/l/48h (Daphnia magna) 
+ 
+ AMIDAS, COCO   
+ LC50 - Peces  2,4 mg/l/96h 
+ EC50 - Algas / Plantas Acuáticas  3,2 mg/l/72h 
+ 
+ HIDROCARBUROS, C9-C12, n-ALKANS, 
+CICLOS, AROMATICOS (2 - 25%)    LC50 - Peces  10 mg/l/96h (Pimephales promelas) 
+ EC50 - Crustáceos  10 mg/l/48h (Daphnia magna) 
+ EC50 - Algas / Plantas Acuáticas  4,6 mg/l/72h (Pseudokirchneriella subcapitata) 
+ 
+ Alcoli, da cocco, etossilato (>=2,5 < 5 EO)   
+ LC50 - Peces  > 0,1 mg/l/96h (Carassius Auratus) 
+ EC50 - Crustáceos  > 0,1 mg/l/48h (Daphnie) 
+ EC50 - Algas / Plantas Acuáticas  > 0,1 mg/l/72h (Algae) 
+12.2. Persistencia y degradabilidad 
+ 
+ MORFOLINA   
+ Solubilidad en agua  1000 - 10000 mg/l 
+ 
+ (R)-P-MENTHA-1,8-DIENE
+
+[[page 16]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 16/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ Solubilidad en agua  13,8 mg/l  
+   Rápidamente degradable 
+   100% 28d 
+ BUTANO   
+ Solubilidad en agua  0,1 - 100 mg/l 
+   Rápidamente degradable 
+ PROPANO   
+ Solubilidad en agua  0,1 - 100 mg/l 
+   Rápidamente degradable 
+ AMIDAS, COCO   
+   Rápidamente degradable 
+   92,5 % (OECD 301B) 
+ HIDROCARBUROS, C9-C12, n-ALKANS, 
+CICLOS, AROMATICOS (2 - 25%)   
+   Rápidamente degradable 
+ Alcoholes C12-16, etoxilados   
+   Rápidamente degradable 
+   60% - 28 d OECD 301/F 
+ Alcoli, da cocco, etossilato (>=2,5 < 5 EO)   
+   Rápidamente degradable 
+   60% 28d 
+12.3. Potencial de bioacumulación 
+ 
+ MORFOLINA   
+ Coeficiente de distribución: n-octanol/agua  -2,55  
+ BCF  < 0,65  
+ 
+ (R)-P-MENTHA-1,8-DIENE   
+ Coeficiente de distribución: n-octanol/agua  4,83  
+ BCF  660  
+ 
+ BUTANO   
+ Coeficiente de distribución: n-octanol/agua  < 2,8  
+ 
+ PROPANO   
+ Coeficiente de distribución: n-octanol/agua  1,09  
+ 
+ AMIDAS, COCO   
+ Coeficiente de distribución: n-octanol/agua  3,75 Log Kow 
+ 
+12.4. Movilidad en el suelo 
+ 
+ MORFOLINA   
+ Coeficiente de distribución: suelo/agua  -0,6196  
+ 
+12.5. Resultados de la valoración PBT y mPmB 
+ 
+Sobre la base de los datos disponibles, el producto no contiene sustancias PBT o vPvB en porcentaje ≥ al 0,1%.
+
+[[page 17]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 17/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+12.6. Propiedades de alteración endocrina 
+ 
+Según los datos disponibles, el producto no contiene sustancias que figuren entre las principales lis tas europeas de alteradores endocrinos potenciales 
+o sospechosos con efectos en el medio ambiente que estén en proceso de evaluación. 
+ 
+12.7. Otros efectos adversos 
+ 
+Información no disponible.  
+ 
+ 
+ SECCIÓN 13. Consideraciones relativas a la eliminación 
+ 
+13.1. Métodos para el tratamiento de residuos 
+ 
+Reutilizar si es posible. Los deshechos del producto tienen que considerarse especialmente peligrosos. La peligrosidad de los  residuos que contiene en 
+parte este producto debe valorarse en función de las disposiciones legislativas vigentes. 
+La eliminación debe encargarse a una sociedad autorizada para la gestión de basuras, según cuanto dispuesto por la normativa nacional y 
+eventualmente local. 
+El transporte de residuos puede estar sujeto al ADR. 
+EMBALAJES CONTAMINADOS 
+Los embalajes contaminados deben enviarse a la recuperación o eliminación según las normas nacionales sobre la gestión de residuos. 
+ 
+ 
+ SECCIÓN 14. Información relativa al transporte 
+ 
+14.1. Número ONU o número ID 
+ 
+ ADR / RID, IMDG, IATA: 1950      
+ 
+14.2. Designación oficial de transporte de las Naciones Unidas 
+ 
+ ADR / RID: AEROSOLS      
+ IMDG: AEROSOLS      
+ IATA: AEROSOLS, FLAMMABLE      
+ 
+14.3. Clase(s) de peligro para el transporte 
+ 
+ ADR / RID: Clase: 2 Etiqueta: 2.1 
+ 
+   
+ IMDG: Clase: 2 Etiqueta: 2.1 
+ 
+   
+ IATA: Clase: 2 Etiqueta: 2.1 
+ 
+   
+ 
+14.4. Grupo de embalaje 
+ 
+ ADR / RID, IMDG, IATA: -      
+ 
+14.5. Peligros para el medio ambiente
+
+[[page 18]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 18/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ 
+ ADR / RID: Peligroso para el 
+Medio Ambiente  
+ 
+   
+ IMDG: Marine Pollutant  
+ 
+   
+ IATA: NO      
+Para el transporte aéreo, la marca de peligro para el medio ambiente es obligatoria solo para los números ONU 3077 y 3082. 
+ 
+14.6. Precauciones particulares para los usuarios 
+ 
+ ADR / RID:  HIN - Kemler: --  Cantidades Limitadas: 1 
+L 
+ Código de restricción en 
+túnel: (D) 
+   Disposiciónes especiales: -     
+ IMDG:  EMS: F-D, S-U  Cantidades Limitadas: 1 
+L 
+  
+ IATA:  Cargo:  Cantidad máxima: 150 
+Kg 
+ Instrucciones embalaje: 
+203 
+   Pass.:  Cantidad máxima: 75 
+Kg 
+ Instrucciones embalaje: 
+203 
+   Disposiciónes especiales:  A145, A167, A802   
+ 
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI 
+ 
+ 
+Información no pertinente.  
+ 
+ SECCIÓN 15. Información reglamentaria 
+ 
+ 15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la mezcla 
+ 
+Categoría  
+Seveso - Directivo  
+2012/18/UE: P3a-E2 
+ 
+Restricciones relativas al producto o a las sustancias contenidas según el anexo XVII Reglamento (CE) 1907/2006  
+ 
+Producto 
+ Punto 40  
+ 
+Sustancias contenidas 
+ 
+ Punto 75  
+ 
+Reglamento (UE) 2019/1148 - sobre la comercialización y la utilización de precursores de explosivos 
+ 
+no aplicable
+
+[[page 19]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 19/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+Sustancias en Candidate List (Art. 59 REACH) 
+ 
+Sobre la base de los datos disponibles, el producto no contiene sustancias SVHC en porcentaje ≥ al 0,1%. 
+ 
+Sustancias sujetas a autorización (Anexo XIV REACH) 
+ 
+Ninguna 
+ 
+Sustancias sujetas a obligación de notificación de exportación Reglamento (UE) 649/2012: 
+ 
+Ninguna 
+ 
+Sustancias sujetas a la Convención de Rotterdam: 
+ 
+Ninguna 
+ 
+Sustancias sujetas a la Convención de Estocolmo: 
+ 
+Ninguna 
+ 
+Controles sanitarios 
+ 
+Los trabajadores expuestos a este agente químico no deben ser sometidos a la vigilancia sanitaria, siempre y cuando los resultados de la evaluación de 
+los riesgos demuestren que existe sólo un moderado riesgo para la seguridad y la salud de los trabajadores y que las medidas previstas por la directiva 
+98/24/CE estén siendo respetadas y sean suficientes para reducir el riesgo. 
+ 
+Reglamento (CE) Nº 648/2004 
+ 
+Ingredientes en conformidad con el Reglamento (CE) Nº 648/2004 
+ 
+El tensioactivo(s) contenido(s) en esta prepara ción cumple(n) con el criterio de biodegradabilidad estipulado en el Reglamento (CE) Nº 648/2004 sobre 
+detergentes. Los datos para justificar esta afirmación están a disposición de las autoridades competentes de los Estados Miem bros y les serán 
+mostrados bajo su requerimiento directo o bajo requerimiento de un productor de detergentes. 
+ 
+ 
+ 15.2. Evaluación de la seguridad química 
+ 
+Ha sido realizada una evaluación de seguridad química para las siguientes sustancias contenidas:  
+ 
+PROPANO 
+ 
+BUTANO 
+ 
+(R)-P-MENTHA-1,8-DIENE 
+ 
+ISOBUTANO 
+ 
+ SECCIÓN 16. Otra información 
+ 
+Texto de las indicaciones de peligro (H) citadas en la secciones 2-3 de la ficha: 
+  Flam. Gas 1A Gases inflamables, categoría 1A
+
+[[page 20]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 20/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+ Aerosol 1 Aerosoles, categoría 1   Aerosol 3 Aerosoles, categoría 3   Flam. Liq. 3 Líquidos inflamables, categoría 3   Press. Gas (Liq.) Gas licuado   Press. Gas Gas presurizado   Acute Tox. 3 Toxicidad aguda, categoría 3   Acute Tox. 4 Toxicidad aguda, categoría 4   STOT RE 1 Toxicidad específica en determinados órganos - exposiciones repetidas, categoría 1   Asp. Tox. 1 Peligro por aspiración, categoría 1   Skin Corr. 1B Corrosión cutáneas, categoría 1B   Eye Dam. 1 Lesiones oculares graves, categoría 1   Eye Irrit. 2 Irritación ocular, categoría 2   Skin Irrit. 2 Irritación cutáneas, categoría 2   Skin Sens. 1B Sensibilización cutánea, categoría 1B   STOT SE 3 Toxicidad específica en determinados órganos - exposiciones única, categoría 3   Aquatic Acute 1 Peligroso para el medio ambiente acuático, toxicidad aguda, categoría 1   Aquatic Chronic 2 Peligroso para el medio ambiente acuático, toxicidad crónico, categoría 2   Aquatic Chronic 3 Peligroso para el medio ambiente acuático, toxicidad crónico, categoría 3   H220 Gas extremadamente inflamable.   H222 Aerosol extremadamente inflamable.   H229 Recipiente a presión: puede reventar si se calienta.   H226 Líquidos y vapores inflamables.   H280 Contiene gas a presión; puede reventar si se calienta.   H311 Tóxico en contacto con la piel.   H302 Nocivo en caso de ingestión.   H332 Nocivo en caso de inhalación.   H372 Provoca daños en los órganos tras exposiciones prolongadas o repetidas.   H304 Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.   H314 Provoca quemaduras graves en la piel y lesiones oculares graves.   H318 Provoca lesiones oculares graves.   H319 Provoca irritación ocular grave.   H315 Provoca irritación cutánea.   H317 Puede provocar una reacción alérgica en la piel.   H336 Puede provocar somnolencia o vértigo.   H400 Muy tóxico para los organismos acuáticos.   H411 Tóxico para los organismos acuáticos, con efectos nocivos duraderos.   H412 Nocivo para los organismos acuáticos, con efectos nocivos duraderos.   EUH066 La exposición repetida puede provocar sequedad o formación de grietas en la piel.  
+ 
+LEYENDA: 
+- ADR: Acuerdo europeo para el transporte de las mercancías peligrosas por carretera 
+- ATE: Estimación de Toxicidad Aguda 
+- CAS: Número del Chemical Abstract Service 
+- CE50: Concentración que tiene efecto sobre el 50 % de la población sometida a prueba 
+- CE: Número identificativo en ESIS (archivo europeo de las sustancias existentes) 
+- CLP: Reglamento (CE) 1272/2008
+
+[[page 21]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 21/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+- DNEL: Nivel derivado sin efecto 
+- EmS: Emergency Schedule 
+- GHS: Sistema armonizado global para la clasificación y el etiquetado de los productos químicos 
+- IATA DGR: Reglamento para el transporte de mercancías peligrosas de la Asociación internacional de transporte aéreo 
+- IC50: Concentración de inmovilización del 50 % de la población sometida a prueba 
+- IMDG: Código marítimo internacional para el transporte de mercancías peligrosas 
+- IMO: International Maritime Organization 
+- INDEX: Número identificativo en el anexo VI del CLP 
+- LC50: Concentración letal 50 % 
+- LD50: Dosis letal 50 % 
+- OEL: Nivel de exposición ocupacional 
+- PBT: Persistente, bioacumulable y tóxico según el REACH 
+- PEC: Concentración ambiental previsible 
+- PEL: Nivel previsible de exposición 
+- PNEC: Concentración previsible sin efectos 
+- REACH: Reglamento (CE)  1907/2006 
+- RID: Reglamento para el transporte internacional de mercancías peligrosas por ferrocarril 
+- TLV: Valor límite de umbral 
+- TLV VALOR MÁXIMO: Concentración que no se debe superar en ningún momento de la exposición laboral. 
+- TWA: Límite de exposición media ponderada 
+- TWA STEL: Límite de exposición a corto plazo 
+- VOC: Compuesto orgánico volátil 
+- vPvB: Muy persistente y muy bioacumulable según el REACH 
+- WGK: Wassergefährdungsklassen (Deutschland). 
+ 
+ 
+BIBLIOGRAFÍA GENERAL: 
+1. Reglamento (CE) 1907/2006 del Parlamento Europeo (REACH) 
+2. Reglamento (CE) 1272/2008 del Parlamento Europeo (CLP) 
+3. Reglamento (UE) 2020/878 (Anexo II Reglamento REACH) 
+4. Reglamento (CE) 790/2009 del Parlamento Europeo (I Atp. CLP) 
+5. Reglamento (UE) 286/2011 del Parlamento Europeo (II Atp. CLP) 
+6. Reglamento (UE) 618/2012 del Parlamento Europeo (III Atp. CLP) 
+7. Reglamento (UE) 487/2013 del Parlamento Europeo (IV Atp. CLP) 
+8. Reglamento (UE) 944/2013 del Parlamento Europeo (V Atp. CLP) 
+9. Reglamento (UE) 605/2014 del Parlamento Europeo (VI Atp. CLP) 
+10. Reglamento (UE) 2015/1221 del Parlamento Europeo (VII Atp. CLP) 
+11. Reglamento (UE) 2016/918 del Parlamento Europeo (VIII Atp. CLP) 
+12. Reglamento (UE) 2016/1179 (IX Atp. CLP) 
+13. Reglamento (UE) 2017/776 (X Atp. CLP) 
+14. Reglamento (UE) 2018/669 (XI Atp. CLP) 
+15. Reglamento (UE) 2019/521 (XII Atp. CLP) 
+16. Reglamento delegado (UE) 2018/1480 (XIII Atp. CLP) 
+17. Reglamento (UE) 2019/1148 
+18. Reglamento delegado (UE) 2020/217 (XIV Atp. CLP) 
+19. Reglamento delegado (UE) 2020/1182 (XV Atp. CLP) 
+20. Reglamento delegado (UE) 2021/643 (XVI Atp. CLP) 
+21. Reglamento delegado (UE) 2021/849 (XVII Atp. CLP) 
+22. Reglamento delegado (UE) 2022/692 (XVIII Atp. CLP) 
+- The Merck Index. - 10th Edition 
+- Handling Chemical Safety 
+- INRS - Fiche Toxicologique (toxicological sheet) 
+- Patty - Industrial Hygiene and Toxicology 
+- N.I. Sax - Dangerous properties of Industrial Materials-7, 1989 Edition 
+- Sitio web IFA GESTIS 
+- Sitio web Agencia ECHA 
+- Banco de datos de modelos de SDS de sustancias químicas - Ministerio de Salud e Instituto Superior de Sanidad 
+ 
+ 
+Nota para el usuario: 
+La información contenida en esta ficha se basa en los conocimientos disponibles hasta la fecha de la última versión. El usuario debe cercior arse de la 
+idoneidad y completeza de la información en lo que se refiere al específico uso del producto. 
+Este documento no debe ser interpretado como garantía de alguna propiedad específica del producto.
+
+[[page 22]]
+SK SOLKEM INDUSTRIES SRLA SOCIO UNICO 
+Revisión N. 11 
+   Fecha de revisión 08/11/2022 
+F 80 DESENGRASANTE 
+Imprimida el 08/11/2022 
+   Pag. N. 22/22 
+   Sustituye la revisión10 (Imprimida el: 07/03/2022) 
+ 
+ 
+Visto que la utilización del producto no puede ser controlada directamente por nosotros, será obligación del usuario respetar , bajo su responsabilidad, 
+las leyes y las disposiciones vigentes en lo que se refiere a higiene y seguridad. No se asumen responsabilidades por usos inadecuados. 
+Ofrezca una adecuada formación al personal encargado del uso de productos químicos. 
+MÉTODOS DE CÁLCULO DE LA CLASIFICACIÓN 
+Peligros químicos y físicos : La clasificación del producto ha sido derivada de los criterios establecidos por el Reglamento CLP, Anexo I, Parte 2. Los 
+métodos de evaluación de las propiedades químico-físicas se indican en la sección 9. 
+Peligros para la salud: La clasificación del pr oducto se basa en los métodos de cálculo previstos en el Anexo I del CLP, Parte 3, a menos que se 
+especifique lo contrario en la sección 11. 
+Peligros para el medio ambiente: La clasificación del producto se basa en los métodos de cálculo previstos en el Anexo I del CLP, Parte 4, a menos que 
+se especifique lo contrario en la sección 12. 
+ 
+Modificaciones con respecto a la revisión precedente: 
+Han sido realizadas variaciones en las siguientes secciones: 
+03 / 07 / 08 / 09 / 11 / 14 / 15 / 16.

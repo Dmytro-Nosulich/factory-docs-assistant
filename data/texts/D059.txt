@@ -1,0 +1,1952 @@
+[[page 1]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 1 de  24 
+Fiche de données de sécurité
+Copyright,2026, Compagnie 3M  Tous droits réservés. La copie et/ou le chargement de cette information dans le but 
+d'utiliser correctement les produits 3M est autorisé à condition que (1) l'information soit copiée dans sa totalité, sans aucun 
+changement, sauf accord écrit préalable 3M, et (2) ni la copie, ni l'original ne soit revendu ou distribué autrement avec 
+l'intention d'en tirer un quelconque profit.
+Référence FDS: 08-9434-5  Numéro de version: 8.01
+Date de révision: 26/02/2026 Annule et remplace la 
+version du :
+04/12/2025
+ Cette fiche de données de sécurité a été préparée conformément au règlement REACH (1907/2006) tel que modifié par le 
+règlement (UE) 2020/878
+1. IDENTIFICATION DE LA SUBSTANCE / DU MELANGE ET DE LA 
+SOCIETE / ENTREPRISE
+1.1 Identification de la substance ou du mélange:
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.       
+Numéros d'identification de produit
+DE-2729-2774-5  DE-2729-2778-6  DE-2729-2782-8  DE-2729-2786-9  DS-2729-9110-2  
+FI-3000-0089-5  FI-3000-0168-7
+7000061752  7000061749  7000070289  7000061750  7000061751  
+7000077229  7000077274
+1.2. Utilisations identifiées pertinentes de la substance ou du mélange et utilisations déconseillées:
+- Utilisations identifiées:
+Mastic.
+1.3. Details du fournisseur de la fiche de données de sécurité
+ADRESSE: 3M France 1 PARVIS DE L’INNOVATION CS 20203 95006 CERGY PONTOISE CEDEX
+Téléphone: 01 30 31 61 61
+E-mail: SER-productstewardship@mmm.com
+Site internet htpp://3m.quickfds.com
+1.4 Numéro d'appel d'urgence:
+Téléphone ORFILA: 01.45.42.59.59
+ 2. IDENTIFICATION DES DANGERS
+2.1. Classification de la substance ou du mélange:
+Règlement Européen CLP N° 1272/2008/CE
+Les classifications santé et environnement de ce matériau ont été établies en utilisant la méthode de calcul, sauf si des 
+données de tests sont disponibles ou si la forme physique affecte la classification. Les classifications fondées sur des données 
+de tests ou sur la forme physique sont notées ci-dessous, le cas échéant.
+Un mélange similaire a été testé pour les lésions oculaires/irritations oculaires et les résultats de test ne répondent pas aux 
+critères de classification.
+
+[[page 2]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 2 de  24 
+CLASSIFICATION:
+Corrosion / irritation cutanée, Catégorie 2 - H315
+Sensibilisation des voies respiratoires, Catégorie 1 - Sens. Resp. 1; H334
+Sensibilisation de la peau, Catégorie 1 - Sens. pour la peau 1; H317
+Cancérogène catégorie 2 - H351
+Pour le texte intégral des phrases H, voir section 16.
+2.2. Eléments de l'étiquette
+Règlement Européen CLP N° 1272/2008/CE
+MENTION D'AVERTISSEMENT:
+DANGER.
+Symboles :
+SGH08 (Danger pour la santé) |
+Pictogrammes
+Ingrédients :
+Ingrédient Numéro CAS EC No. % par poids
+Diisocyanate de 4,4'-méthylènediphényle  101-68-8 202-966-0    1 -  2
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle 
+et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+ 915-687-0   < 0,2
+Chlorure de tosyle  98-59-9 202-684-8   < 0,02
+MENTIONS DE DANGER:
+H315 Provoque une irritation cutanée.
+H334 Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par 
+inhalation.
+H317 Peut provoquer une allergie cutanée.
+H351 Susceptible de provoquer le cancer.
+MENTIONS DE MISE EN GARDE
+Prévention:
+P261A Eviter de respirer les vapeurs.
+P280K Porter des gants de protection et un équipement de protection respiratoire.
+Intervention ::
+P304 + P340 EN CAS D'INHALATION: Transporter la victime à l'extérieur et la maintenir au repos dans une 
+position où elle peut confortablement respirer.
+P333 + P313 En cas d'irritation ou d'éruption cutanée: consulter un médecin.
+P342 + P311 En cas de symptômes respiratoires : appeler un CENTRE ANTIPOISON ou un médecin.
+Pour les conditionnements <= 125 ml, les mentions de danger et d'avertissement suivantes doivent être utilisées :
+
+[[page 3]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 3 de  24 
+<= 125 ml mention de danger
+H334 Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par 
+inhalation.
+H317 Peut provoquer une allergie cutanée.
+H351 Susceptible de provoquer le cancer.
+<= 125 ml mention d'avertissement
+Prévention:
+P261A Eviter de respirer les vapeurs.
+P280K Porter des gants de protection et un équipement de protection respiratoire.
+Intervention ::
+P304 + P340 EN CAS D'INHALATION: Transporter la victime à l'extérieur et la maintenir au repos dans 
+une position où elle peut confortablement respirer.
+P333 + P313 En cas d'irritation ou d'éruption cutanée: consulter un médecin.
+P342 + P311 En cas de symptômes respiratoires : appeler un CENTRE ANTIPOISON ou un médecin.
+Information requise par le règlement (UE) 2020/1149 en ce qui concerne les diisocyanates
+À partir du 24 août 2023, une formation adéquate est requise avant toute utilisation industrielle ou professionnelle. 
+Vous trouverez de plus amples informations sur feica.eu/Puinfo
+2.3 .Autres dangers
+Les personnes déjà sensibilisées aux isocyanates peuvent développer une réaction de sensibilisation croisée à d'autres 
+isocyanates.
+Ce produit ne contient aucune substance considérée comme PBT ou vPvB. 
+3. COMPOSITION / INFORMATIONS SUR LES COMPOSANTS
+3.1. Substances
+Ne s'applique pas.
+3.2. Mélanges
+Ingrédient Identifiant(s) % Classification selon le règlement (CE) 
+n ° 1272/2008 [CLP]
+Polymère uréthanne Confidentiel   30 -  40 Substance non classée comme dangereuse
+C14-17 alcanes, acides seconononiques et 
+disulfoniques, esters de phényle
+(N° CE) 701-257-8
+(N° REACH) 01-
+2119485386-26
+  20 -  40 Substance non classée comme dangereuse
+Polychlorure de vinyle (N° CAS) 9002-86-2   20 -  30 Substance avec une limite nationale 
+d'exposition professionnelle
+Masse de réaction d’éthylbenzène et de 
+xylène
+(N° CE) 905-588-0
+(N° REACH) 01-
+2119488216-32
+  3 -  7 Tox. aigüe 4, H332
+Tox. aigüe 4, H312
+Tox.aquatique chronique 3, H412 
+Liq. Inflamm. 3, H226
+Tox.aspiration 1, H304
+Irr. de la peau 2, H315
+Irr. des yeux 2, H319
+STOT SE 3, H335
+STOT RE 2, H373 
+Produit de réaction du diméthylsiloxane 
+et
+(N° CAS) 67762-90-7
+(N° REACH) 01-
+  1 -  5 Substance non classée comme dangereuse
+
+[[page 4]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 4 de  24 
+de la silice 2119379499-16
+Oxyde de calcium (N° CAS) 1305-78-8
+(N° CE) 215-138-9
+(N° REACH) 01-
+2119475325-36
+  1 - < 3 EUH071
+Corr. cutanée 1C, H314
+Lésions oculaires 1, H318 
+Dioxyde de titane (N° CAS) 13463-67-7
+(N° CE) 236-675-5
+(N° REACH) 01-
+2119489379-17
+ < 2,5 Substance avec une limite nationale 
+d'exposition professionnelle
+Diisocyanate de 4,4'-méthylènediphényle (N° CAS) 101-68-8
+(N° CE) 202-966-0
+(N° REACH) 01-
+2119457014-47
+  1 -  2 Tox. aigüe 4, H332
+Irr. de la peau 2, H315
+Irr. des yeux 2, H319
+Sens. resp. 1, H334
+Sens. cutanée 1, H317
+Carc. 2, H351
+STOT SE 3, H335
+STOT RE 2, H373
+Nota 2,C 
+Hydrocarbures, C11-C14, n-alcanes, 
+isoalcanes, cycliques,  < 2% 
+aromatiques
+(N° CE) 926-141-6
+(N° REACH) 01-
+2119456620-43
+  0,5 -  1,5 Tox.aspiration 1, H304
+EUH066 
+Noir de carbone (N° CAS) 1333-86-4
+(N° CE) 215-609-9
+(N° REACH) 01-
+2119384822-32
+ < 0,3 Substance avec une limite nationale 
+d'exposition professionnelle
+Masse de réaction de Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-4-pipéridyle) et 
+de Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+(N° CAS) 915-687-0
+(N° CE) 915-687-0
+(N° REACH) 01-
+2119491304-40
+ < 0,2 Sens. de la peau 1A, H317
+Repr. 2, H361f
+Aquatique aigüe 1, H400,M=1
+Tox. aquatique chronique 1, H410,M=1 
+Chlorure de tosyle (N° CAS) 98-59-9
+(N° CE) 202-684-8
+ < 0,02 Met. Corr. 1, H290
+Irr. de la peau 2, H315
+Lésions oculaires 1, H318
+Sens. de la peau 1A, H317
+Toute entrée dans la colonne Identifiant (s) qui commence par les chiffres 6, 7, 8 ou 9 est un numéro de liste provisoire fourni 
+par l'ECHA en attendant la publication du numéro d'inventaire CE officiel de la substance.
+Voir en section 16 pour le texte complet des phrases H de cette section. 
+Limites de concentration spécifique
+Ingrédient Identifiant(s) Limites de concentration spécifique
+Oxyde de calcium (N° CAS) 1305-78-8
+(N° CE) 215-138-9
+(N° REACH) 01-
+2119475325-36
+(C >= 50%)EUH071
+(C >= 50%) Corr. cutanée 1C, H314
+(10% =< C < 50%) Irr. de la peau 2, H315
+(C >= 3%) Lésions oculaires 1, H318
+(1% =< C < 3%) Irr. des yeux 2, H319
+(20% =< C < 50%) STOT SE 3, H335
+Diisocyanate de 4,4'-méthylènediphényle (N° CAS) 101-68-8
+(N° CE) 202-966-0
+(N° REACH) 01-
+2119457014-47
+(C >= 5%) Irr. de la peau 2, H315
+(C >= 5%) Irr. des yeux 2, H319
+(C >= 0.1%) Sens. resp. 1, H334
+(C >= 5%) STOT SE 3, H335
+Pour les informations relatives aux valeurs limites d'exposition des ingrédients ou au statut PBT ou vPvB, consulter les 
+sections 8 et 12 de cette Fiche de Données de Sécurité.
+
+[[page 5]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 5 de  24 
+4. PREMIERS SOINS
+4.1. Description des premiers secours:
+Inhalation:
+Transporter la personne à l'air frais. En cas de malaise, consulter un médecin.
+Contact avec la peau:
+ Laver immédiatement avec de l'eau et du savon. Enlever les vêtements contaminés et les laver avant de les réutiliser. Si les 
+signes et les symptômes se développent, consulter un médecin.
+Contact avec les yeux:
+ Laver les yeux immédiatement avec beaucoup d'eau pendant au moins 15 minutes. Enlever les lentilles de contact si celà est 
+facile à faire. Continuer à rincer. Consulter immédiatement un ophtalmologiste.
+En cas d'ingestion:
+Rincer la bouche. En cas de malaise, consulter un médecin.
+4.2. Symptômes et effets principaux, aigus et différés:
+Les symptômes et effets les plus importants basés sur la classification CLP comprennent:
+Réaction allergique respiratoire (difficulté à respirer, respiration sifflante, toux et oppression thoracique). Irritation cutanée 
+(rougeur localisée, gonflement, démangeaisons et sécheresse). Réaction cutanée allergique (rougeur, gonflement, cloques et 
+démangeaisons).
+4.3. Indication des soins médicaux immédiats et traitements particuliers nécessaires:
+Non applicable
+5. MESURES DE LUTTE CONTRE L'INCENDIE
+5.1. Moyens d'extinction:
+En cas d'incendie: Utiliser un agent d'extinction adapté pour le matériel combustible tel que l'eau ou mousse.
+5.2. Dangers particuliers résultant de la substance ou du mélange:
+Aucun inhérent à ce produit 
+Décomposition dangereuse ou sous-produits 
+Substance Condition
+Monoxyde de carbone Pendant la combustion.
+Dioxyde de carbone Pendant la combustion.
+Chlorure d'hydrogène Pendant la combustion.
+Cyanure d'hydrogène Pendant la combustion.
+Oxydes d'azote. Pendant la combustion.
+Oxides de soufre Pendant la combustion.
+ 
+5.3. Conseils aux pompiers:
+Portez un vêtement de protection intégral comprenant : casque, système de protection respiratoire autonome avec adduction 
+d'air créant une pression positive à l'intérieur du casque, tablier et pantalon et manches resserrées autour des bras et des 
+jambes, masque facial et chasuble pour protéger la tête.
+6. Mesures à prendre en cas de dispersion accidentelle
+6.1. Précautions individuelles, équipement de protection et procédures d'urgence:
+Évacuer la zone.  Ventiler la zone.  En cas déversement important dans des zones confinées, apporter une ventilation 
+mécanique pour disperser ou extraire les vapeurs selon les bonnes pratiques HSE.  Utiliser un équipement de protection
+
+[[page 6]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 6 de  24 
+individuelle en fonction des résultats d'une évaluation de l'exposition. Se reporter à la section 8 pour les recommandations 
+relatives aux EPI. Si l'exposition prévue résultant d'un rejet accidentel dépasse les capacités de protection des EPI répertoriés 
+à la section 8, ou est inconnue, sélectionner un EPI qui offre un niveau de protection approprié. Tenir compte des dangers 
+physiques et chimiques du produit lors de cette opération. Des exemples d'ensembles d'EPI pour une intervention d'urgence 
+pourraient inclure le port d'une tenue de protection en cas de rejet de matière inflammable ; le port de vêtements de protection 
+chimique si la matière déversée est corrosive, sensibilisante, irritante cutanée importante ou peut être absorbée par la peau ; 
+ou le port d'un respirateur à adduction d'air à pression positive pour les produits chimiques présentant des risques d'inhalation. 
+Pour obtenir des informations sur les dangers physiques et pour la santé, se reporter aux sections 2 et 11 de la FDS.
+6.2. Précautions pour la protection de l'environnement:
+Eviter le rejet dans l'environnement. Consulter les instructions.
+6.3. Méthodes et matériel de confinement et de nettoyage:
+Verser une solution décontaminante pour les isocyanates (90% eau, 8% ammoniaque concentré et 2% de détergent)et laisser 
+réagir pendant 10 minutes, ou verser de l'eau et laisser réagir pendant plus de 30 minutes. Couvrir avec un matériau absorbant.  
+Récupérer le matériau répandu.  Mettre dans un récipient homologué pour le transport par les Autorités compétentes, mais 
+ne pas sceller le récipient pendant 48 heures pour éviter une augmentation de la pression.  Nettoyer les résidus.  Éliminer le 
+produit collecté dès que possible conformément aux règlementations locales / régionales / nationales / internationales 
+applicables
+6.4. Références à d'autres sections:
+Se référer à  la section 8 et à la section 13 pour plus d'informations
+ 7. Manipulation et stockage
+7.1. Précautions à prendre pour une manipulation sans danger:
+Ne pas manipuler avant d’avoir lu et compris toutes les précautions de sécurité.  Ne pas respirer les 
+poussières/fumées/gaz/brouillards/vapeurs/aérosol  Eviter tout contact avec les yeux, la peau ou les vêtements.  Ne pas 
+manger, ne pas boire et ne pas fumer pendant l'utilisation.  Se laver soigneusement après manipulation.  Les vêtements de 
+travail contaminés ne devraient pas sortir du lieu de travail.  Eviter le rejet dans l'environnement. Consulter les instructions.  
+Nettoyer les vêtements souillés avant réemploi.  Utiliser l’équipement de protection individuel requis (p.e. des gants, des 
+masques de respiration,...) 
+7.2. Conditions d'un stockage sûr, y compris d'éventuelles incompatibilités:
+Conserver le récipient bien fermé pour éviter la contamination avec de l'eau ou l'air. Si on soupçonne une contamination, ne 
+pas refermer le récipient. Stocker à l'écart de la chaleur. Stocker à l'écart des amines.
+7.3. Utilisation(s) finale(s) particulière(s):
+Pour plus d'informations: voir section 7.1 et 7.2 pour des recommandations de manutention et de stockage. Voir section 8 
+pour les contrôles d'exposition et les recommandations de protection individuelle.
+ 8. Contrôles de l'exposition/protection individuelle
+8.1. Valeurs limites d'exposition:
+Limites d'exposition professionnelle
+Si un composant est divulgué à l'article 3, mais n'apparaît pas dans le tableau ci-dessous, une limite d'exposition 
+professionnelle n'est pas disponible pour le composant.
+Ingrédient Numéro 
+CAS
+Agence: Type de limite Informations 
+complémentaires:
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 VLEPs France VLEP (8 heures): 0.1 mg/m3 
+(0.01 ppm); VLCT (15 
+minutes): 0.2 mg/m3 (0.02 
+ppm)
+Risque d'allerge cutanée. 
+Cancérogène de 
+catégorie 3.i
+Oxyde de calcium 1305-78-8 VLEPs France VLEP(fraction respirable)(8
+
+[[page 7]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 7 de  24 
+heures) : 1 mg/m3 VLCT 
+(fraction respirable)(15  
+minutes) 4 mg/m3
+Noir de carbone 1333-86-4 VLEPs France VLEP (8 heures): 3.5 mg/m3
+Poussières réputées sans effet 
+spécifique
+13463-67-7 VLEPs France VLEP (VME)(Poussière 
+totale)(8 heures) : 4 mg/m3; 
+VLEP (VME)(Poussière 
+respirable)(8 heures) : 0.9 
+mg/m3
+Poussières réputées sans effet 
+spécifique
+9002-86-2 VLEPs France VLEP (VME)(Poussière 
+totale)(8 heures) : 4 mg/m3; 
+VLEP (VME)(Poussière 
+respirable)(8 heures) : 0.9 
+mg/m3
+VLEPs France : Valeurs Limites d'Exposition Professionnelle (VLEP) aux agents chimiques en France (INRS)
+VLEP
+Valeurs limites de moyenne d''exposition
+/
+Valeurs limites biologiques
+Il n'existe pas de limites biologiques pour les composants listés à la section 3 de cette fiche de données de sécurité.
+Les procédures de surveillance recommandées:Les informations sur les procédures de surveillance recommandées peuvent 
+être obtenues auprès de l’Institut National de Recherche et de Sécurité pour la prévention des accidents du travail et des 
+maladies professionnelles (INRS).
+8.2. Contrôles de l'exposition:
+8.2.1. Contrôles techniques appropriés
+Utiliser une ventilation générale et/ou une ventilation extractive locale pour maintenir les expositions à l'air en dessous des 
+valeurs limites d'exposition et/ou contrôler la poussière / fumées /gaz / brouillards / vapeurs / aérosols. Si la ventilation n'est 
+pas appropriée, utiliser une protection respiratoire.
+8.2.2. Mesures de protection individuelle, telles que les équipements de protection individuelle (EPI)
+Protection des yeux/du visage:
+Sur la base des résultats d'évaluation de l'exposition, sélectionner et utiliser une protection des yeux / du visage pour éviter 
+tout contact. La protection des yeux / du visage suivante est recommandée:
+Lunettes de sécurité avec protection latérale.
+Normes applicables / Standards
+Utiliser une protection oculaire conforme à l'EN 16321
+Protection de la peau/la main
+Sur la base des résultats d'évaluation de l'exposition, sélectionner et utiliser des gants et/ou des habits de protection pour 
+éviter le contact avec la peau. Consulter le fabricant de gants et/ou d'habits de protection pour sélectionner les matériaux 
+appropriés.  Les gants en nitrile peuvent être portés par-dessus des gants de polymère stratifié pour améliorer la dextérité.
+Des gants  constitués du/des matériaux suivants sont recommandés: 
+Matériel Epaisseur (mm) Temps de pénétration
+Polymère laminé Pas de données disponibles Pas de données disponibles
+Normes applicables / Standards
+Utiliser des gants testés conformément à l'EN 374.
+Si ce produit est utilisé d'une manière qui présente un potentiel d'exposition plus élevé (par exemple, pulvérisation, risque
+
+[[page 8]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 8 de  24 
+élevé d'éclaboussures, etc.), l'utilisation d'un tablier de protection peut être nécessaire. Voir le(s) matériau(x) de gants 
+recommandé(s) pour déterminer le tablier approprié.
+Protection respiratoire:
+Une évaluation de l'exposition peut être nécessaire de décider si un appareil respiratoire est nécessaire.  Si un appareil 
+respiratoire est nécessaire, utiliser des masques dans le cadre d'un programme de protection respiratoire complet.  Basé sur 
+les résultats de l'évaluation de l'exposition, sélectionnez un des types de respirateur suivants afin de réduire l'exposition par 
+inhalation:
+Demi-masque respiratoire ou masque complet pour des vapeurs organiques et particules
+Pour des questions concernant une utilisation spécifique, consulter le fabricant de votre appareil respiratoire.
+Normes applicables / Standards
+Utiliser un appareil respiratoire conforme à la norme EN 140 ou EN 136: Filtres types A &P
+ 9. PROPRIETES PHYSIQUES ET CHIMIQUES
+9.1. Informations sur les propriétés physiques et chimiques essentielles:
+Etat physique: Solide 
+Aspect physique spécifique:: Pâte
+Couleur Multicolore
+Odeur Douce de xylène
+Valeur de seuil d'odeur Pas de données de tests disponibles.
+Point de fusion / point de congélation Pas de données de tests disponibles.
+Point/intervalle d'ébullition: >=137 °C
+Inflammabilité Non applicable.
+Limites d'inflammabilité (LEL) Non applicable.
+Limites d'inflammabilité (UEL) Non applicable.
+Point d'éclair: Pas de point d'éclair
+Température d'inflammation spontanée >=200 °C
+Température de décomposition Pas de données de tests disponibles.
+pH la substance / le mélange n'est pas soluble (dans l'eau)
+Viscosité cinématique 256 410 mm²/s
+Hydrosolubilité Nulle
+Solubilité (non-eau) Pas de données de tests disponibles.
+Coefficient de partage n-octanol / eau Pas de données de tests disponibles.
+Pression de vapeur Non applicable.
+Densité 1,17 g/ml
+Densité relative 1,17  [Réf. Standard :Eau = 1]
+Densité de vapeur relative Non applicable.
+Caractéristiques des particules Non applicable.
+9.2. Autres informations:
+9.2.2 Autres caractéristiques de sécurité
+Composés Organiques Volatils  Pas de données de tests disponibles.
+Taux d'évaporation:  Pas de données de tests disponibles.
+Masse moléculaire:  Pas de données de tests disponibles.
+Teneur en solides:  > 95 %
+
+[[page 9]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 9 de  24 
+10. STABILITE ET REACTIVITE
+10.1 Réactivité:
+Ce produit peut être réactif avec certains agents sous certaines conditions - voir les autres rubriques de cette section.
+10.2 Stabilité chimique:
+Stable.  
+  
+10.3. Possibilité de réactions dangereuses:
+Une polymérisation dangereuse ne se produira pas.  
+10.4. Conditions à éviter:
+Chaleur.
+ 
+10.5 Matériaux à éviter:
+Amines
+Alcools
+Eau
+10.6. Produits de décomposition dangereux:
+Substance Condition
+ Non applicable  
+Regarder section 5.2 pour les produits de décomposition pendant la combustion
+11.  INFORMATIONS TOXICOLOGIQUES
+Les informations ci-dessous peuvent ne pas être en accord avec la classification européenne du produit en section 2 
+et/ou la classification des ingrédients en section 3 si une classification pour des ingrédients spécifiques est prescrite par 
+une autorité compétente. De plus, les déclarations et données indiquées en section 11 sont fondées sur les règles de 
+calcul du SGH des nation unies et les classifications qui en dérivent à partir des évaluations des risques internes.
+11.1. Informations sur les classes de danger telles que définies dans le règlement (CE) n ° 1272/2008
+Les signes et symptômes d'exposition
+Sur la base de données de tests et/ou d'informations sur les composants, ce produit peut provoquer les effets suivants 
+sur la santé:
+Inhalation:
+Irritation de l'appareil respiratoire : les signes et symptômes peuvent inclure toux, écoulement nasal, maux de tête, 
+éternuements,douleur nasale et maux de gorge.  Sensibilisation respiratoire: les symptômes peuvent inclure difficultés 
+respiratoires, respiration sifflante, oppression thoracique et arrêt respiratoire.  Peut provoquer des effets additionnels sur la 
+santé (voir ci-dessous).
+Contact avec la peau:
+Légère irritation cutanée: Signes / symptômes peuvent inclure une rougeur locale, un gonflement, des démangeaisons et la 
+sécheresse.  Sensibilisation de contact (autre que photosensibilisation) : les symptômes peuvent inclure rougeurs, enflures, 
+cloques et démangeaisons.
+Contact avec les yeux:
+Une irritation significative des yeux est peu probable en cas de contact, pendant l'utilisation du produit.
+Ingestion:
+
+[[page 10]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 10 de  24 
+Irritation gastro-intestinale : les signes et symptômes peuvent inclure douleur abdominale, troubles de l'estomac, nausées, 
+vomissements et diarrhée.  Peut provoquer des effets additionnels sur la santé (voir ci-dessous).
+Autres effets de santé:
+Une exposition unique peut provoquer des effets sur l'organe cible:
+Effets auditifs : les symptômes peuvent inclure un affaiblissement de l'ouïe, un dysfonctionnement de la balance auditive et 
+résonnance dans les oreilles.
+Une exposition répétée ou prolongée peut provoquer des effets sur un organe cible:
+Effets auditifs : les symptômes peuvent inclure un affaiblissement de l'ouïe, un dysfonctionnement de la balance auditive et 
+résonnance dans les oreilles.  Effets neurologiques: Les symptômes peuvent inclure: changement de personnalité, manque de 
+coordination, perte sensorielle, picotement ou engourdissement des extrémités, faiblesse, tremblements, et/ou variations de la 
+pression artérielle et du rythme cardiaque.  Effets respiratoires : Les signes et les symtômes peuvent inclure toux, difficulté 
+respiratoire, oppression de la poitrine, respiration asthmatique, augmentation du rythme cardiaque, cyanose (coloration bleue 
+de la peau), crachats, modification des tests fonctionnels des poumons et/ou dépression respiratoire.
+Toxicité pour la reproduction / le développement
+Contient un produit chimique ou des produits chimiques qui peuvent causer des malformations congénitales ou d'autres 
+anomalies de la reproduction.
+Cancérogénicité:
+Contient une substance chimique / des substances chimiques qui peut/peuvent causer du cancer.
+Information complémentaire:
+Les personnes précédemment sensibilisées aux isocyanates peuvent développer une réaction de sensibilisation croisée à 
+d'autres isocyanates.
+Données toxicologiques
+Si un composant est listé en section 3 mais n'apparait pas dans une table ci-dessous, soit aucune donnée n'est disponible pour 
+ce danger, soit les données ne sont pas suffisantes pour établir une classification.
+Toxicité aigüe
+Nom Route Organis
+mes
+Valeur
+Produit Cutané Pas de données disponibles. Calculé.5 000 mg/kg
+Produit Inhalation - 
+Vapeur(4 h)
+Pas de données disponibles. Calculé.50 mg/l
+Produit Ingestion Pas de données disponibles. Calculé.5 000 mg/kg
+Polychlorure de vinyle Cutané LD50 Estimé pour être > 5 000 mg/kg
+Polychlorure de vinyle Ingestion LD50 Estimé pour être > 5 000 mg/kg
+C14-17 alcanes, acides seconononiques et disulfoniques, esters de 
+phényle
+Cutané Rat LD50 > 1 000 mg/kg
+C14-17 alcanes, acides seconononiques et disulfoniques, esters de 
+phényle
+Ingestion Rat LD50 > 5 000 mg/kg
+Masse de réaction d’éthylbenzène et de xylène Cutané Lapin LD50 > 4 200 mg/kg
+Masse de réaction d’éthylbenzène et de xylène Inhalation - 
+Vapeur (4 
+heures)
+Rat LC50  29 mg/l
+Masse de réaction d’éthylbenzène et de xylène Ingestion Rat LD50  3 523 mg/kg
+Dioxyde de titane Cutané Lapin LD50 > 10 000 mg/kg
+Dioxyde de titane Inhalation - 
+Poussières/
+Brouillards 
+(4 heures)
+Rat LC50 > 6,82 mg/l
+Dioxyde de titane Ingestion Rat LD50 > 10 000 mg/kg
+Oxyde de calcium Ingestion Rat LD50 > 2 500 mg/kg
+Oxyde de calcium Cutané Composa LD50 > 2 500 mg/kg
+
+[[page 11]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 11 de  24 
+nts 
+similaire
+s
+Diisocyanate de 4,4'-méthylènediphényle Cutané Lapin LD50 > 5 000 mg/kg
+Diisocyanate de 4,4'-méthylènediphényle Inhalation - 
+Poussières/
+Brouillards 
+(4 heures)
+Rat LC50  0,368 mg/l
+Diisocyanate de 4,4'-méthylènediphényle Ingestion Rat LD50  31 600 mg/kg
+Produit de réaction du diméthylsiloxane et
+de la silice
+Cutané Lapin LD50 > 5 000 mg/kg
+Produit de réaction du diméthylsiloxane et
+de la silice
+Inhalation - 
+Poussières/
+Brouillards 
+(4 heures)
+Rat LC50 > 0,691 mg/l
+Produit de réaction du diméthylsiloxane et
+de la silice
+Ingestion Rat LD50 > 5 110 mg/kg
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 
+2% aromatiques
+Ingestion Rat LD50 > 15 000 mg/kg
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 
+2% aromatiques
+Cutané Composa
+nts 
+similaire
+s
+LD50 > 5 000 mg/kg
+Noir de carbone Cutané Lapin LD50 > 3 000 mg/kg
+Noir de carbone Ingestion Rat LD50 > 8 000 mg/kg
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-
+pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Cutané Jugement 
+professio
+nnel
+LD50 estimé à 2 000 - 5 000 mg/kg
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-
+pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion Rat LD50  3 125 mg/kg
+Chlorure de tosyle Cutané Lapin LD50 Estimé pour être > 5 000 mg/kg
+Chlorure de tosyle Ingestion Rat LD50 > 5 000 mg/kg
+TAE = Toxicité Aigüe Estimée
+Corrosion / irritation cutanée
+Nom Organis
+mes
+Valeur
+Polychlorure de vinyle Jugement 
+professio
+nnel
+Aucune irritation significative
+Masse de réaction d’éthylbenzène et de xylène Lapin Moyennement irritant
+Dioxyde de titane Lapin Aucune irritation significative
+Oxyde de calcium Humain Corrosif
+Diisocyanate de 4,4'-méthylènediphényle Classifica
+tion 
+officielle
+Irritant
+Produit de réaction du diméthylsiloxane et
+de la silice
+Lapin Aucune irritation significative
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques Composa
+nts 
+similaires
+Moyennement irritant
+Noir de carbone Lapin Aucune irritation significative
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+Lapin Irritation minimale.
+Chlorure de tosyle Lapin Irritant
+Lésions oculaires graves / irritation oculaire
+Nom Organis
+mes
+Valeur
+Produit Lapin Moyennement irritant
+Masse de réaction d’éthylbenzène et de xylène Lapin Moyennement irritant
+Dioxyde de titane Lapin Aucune irritation significative
+Oxyde de calcium Lapin Corrosif
+Diisocyanate de 4,4'-méthylènediphényle Classifica Irritant sévère
+
+[[page 12]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 12 de  24 
+tion 
+officielle
+Produit de réaction du diméthylsiloxane et
+de la silice
+Lapin Aucune irritation significative
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques Composa
+nts 
+similaires
+Aucune irritation significative
+Noir de carbone Lapin Aucune irritation significative
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+Lapin Moyennement irritant
+Chlorure de tosyle Lapin Corrosif
+Sensibilisation de la peau
+Nom Organis
+mes
+Valeur
+Dioxyde de titane Homme 
+et animal
+Non-classifié
+Diisocyanate de 4,4'-méthylènediphényle Souris Sensibilisant
+Produit de réaction du diméthylsiloxane et
+de la silice
+Homme 
+et animal
+Non-classifié
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques Composa
+nts 
+similaires
+Non-classifié
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+Cochon 
+d'Inde
+Sensibilisant
+Chlorure de tosyle Souris Sensibilisant
+Sensibilisation des voies respiratoires
+Nom Organis
+mes
+Valeur
+Diisocyanate de 4,4'-méthylènediphényle Humain Sensibilisant
+Mutagénicité cellules germinales
+Nom Route Valeur
+Polychlorure de vinyle In vitro Non mutagène
+Masse de réaction d’éthylbenzène et de xylène In vitro Non mutagène
+Masse de réaction d’éthylbenzène et de xylène In vivo Non mutagène
+Dioxyde de titane In vitro Non mutagène
+Dioxyde de titane In vivo Non mutagène
+Oxyde de calcium In vitro Non mutagène
+Diisocyanate de 4,4'-méthylènediphényle In vitro Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Produit de réaction du diméthylsiloxane et
+de la silice
+In vitro Non mutagène
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques In vitro Non mutagène
+Noir de carbone In vitro Non mutagène
+Noir de carbone In vivo Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+In vivo Non mutagène
+Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle
+In vitro Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Chlorure de tosyle In vivo Non mutagène
+Chlorure de tosyle In vitro Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Cancérogénicité
+Nom Route Organis Valeur
+
+[[page 13]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 13 de  24 
+mes
+Polychlorure de vinyle Non 
+spécifié
+Rat Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Masse de réaction d’éthylbenzène et de xylène Cutané Rat Non-cancérogène
+Masse de réaction d’éthylbenzène et de xylène Ingestion Multiples 
+espèces 
+animales.
+Non-cancérogène
+Masse de réaction d’éthylbenzène et de xylène Inhalation Humain Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Dioxyde de titane Ingestion Multiples 
+espèces 
+animales.
+Non-cancérogène
+Dioxyde de titane Inhalation Rat Cancérogène
+Diisocyanate de 4,4'-méthylènediphényle Inhalation Rat Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Produit de réaction du diméthylsiloxane et
+de la silice
+Non 
+spécifié
+Souris Certaines données positives existent, mais ces 
+données ne sont pas suffisantes pour justifier une 
+classification.
+Noir de carbone Cutané Souris Non-cancérogène
+Noir de carbone Ingestion Souris Non-cancérogène
+Noir de carbone Inhalation Rat Cancérogène
+Toxicité pour la reproduction
+Effets sur la reproduction et / ou sur le développement
+Nom Route Valeur Organis
+mes
+Test résultat Durée 
+d'exposition
+Polychlorure de vinyle Non 
+spécifié
+Non classifié pour les effets sur le 
+développement
+Souris NOAEL Non 
+disponible 
+ Pendant la 
+grossesse
+Masse de réaction d’éthylbenzène et de 
+xylène
+Inhalation Non classifié pour les effets sur la 
+fertilité féminine
+Humain NOAEL Non 
+disponible 
+ Exposition 
+professionnell
+e
+Masse de réaction d’éthylbenzène et de 
+xylène
+Ingestion Non classifié pour les effets sur le 
+développement
+Souris NOAEL Non 
+disponible 
+ Pendant 
+l'organogenès
+e
+Masse de réaction d’éthylbenzène et de 
+xylène
+Inhalation Non classifié pour les effets sur le 
+développement
+Multiples 
+espèces 
+animales.
+NOAEL Non 
+disponible 
+ Pendant la 
+grossesse
+Diisocyanate de 4,4'-méthylènediphényle Inhalation Non classifié pour les effets sur le 
+développement
+Rat NOAEL 
+0,004 mg/l
+ Pendant 
+l'organogenès
+e
+Produit de réaction du diméthylsiloxane et
+de la silice
+Ingestion Non classifié pour les effets sur la 
+fertilité féminine
+Rat NOAEL 509 
+mg/kg/jour
+1 génération
+Produit de réaction du diméthylsiloxane et
+de la silice
+Ingestion Non classifié pour les effets sur la 
+fertilité masculine
+Rat NOAEL 497 
+mg/kg/jour
+1 génération
+Produit de réaction du diméthylsiloxane et
+de la silice
+Ingestion Non classifié pour les effets sur le 
+développement
+Rat NOAEL 
+1 350 
+mg/kg/jour
+ Pendant 
+l'organogenès
+e
+Masse de réaction de Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion Non classifié pour les effets sur la 
+fertilité masculine
+Rat NOAEL 
+1 493 
+mg/kg/jour
+29 jours
+Masse de réaction de Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion Non classifié pour les effets sur le 
+développement
+Rat NOAEL 209 
+mg/kg/jour
+ Avant 
+l'accouplemen
+t - Lactation
+Masse de réaction de Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-4-pipéridyle) et de 
+Sébaçate de méthyle et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion Toxique pour la reproduction des 
+femelles
+Rat NOAEL 804 
+mg/kg/jour
+ Avant 
+l'accouplemen
+t - Lactation
+Chlorure de tosyle Ingestion Non classifié pour les effets sur la 
+fertilité féminine
+Rat NOAEL 750 
+mg/kg/jour
+ Avant 
+l'accouplemen
+t - Lactation
+
+[[page 14]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 14 de  24 
+Chlorure de tosyle Ingestion Non classifié pour les effets sur la 
+fertilité masculine
+Rat NOAEL 750 
+mg/kg/jour
+34 jours
+Chlorure de tosyle Ingestion Non classifié pour les effets sur le 
+développement
+Rat NOAEL 750 
+mg/kg/jour
+ Avant 
+l'accouplemen
+t - Lactation
+Lactation
+Nom Route Organis
+mes
+Valeur
+Masse de réaction d’éthylbenzène et de xylène Ingestion Souris Non classifié pour les effets sur ou via l’allaitement
+Organe(s) cible(s)
+Toxicité pour certains organes cibles - exposition unique
+Nom Route Organe(s) cible(s) Valeur Organis
+mes
+Test résultat Durée 
+d'exposition
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Système auditif Risque avéré d'effets graves pour 
+les organes.
+Rat LOAEL 6,3 
+mg/l
+8 heures
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Dépression du 
+système nerveux 
+central
+Peut provoquer somnolence ou 
+vertiges
+Humain NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Irritation des voies 
+respiratoires
+Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Humain NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation des yeux Non-classifié Rat NOAEL 3,5 
+mg/l
+Pas disponible
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Foie Non-classifié Multiples 
+espèces 
+animales.
+NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion Dépression du 
+système nerveux 
+central
+Peut provoquer somnolence ou 
+vertiges
+Multiples 
+espèces 
+animales.
+NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion des yeux Non-classifié Rat NOAEL 250 
+mg/kg
+Non 
+applicable
+Oxyde de calcium Inhalation Irritation des voies 
+respiratoires
+Peut provoquer une irritation 
+respiratoire.
+Non 
+disponibl
+e
+NOAEL Non 
+disponible 
+Exposition 
+professionnell
+e
+Diisocyanate de 4,4'-
+méthylènediphényle
+Inhalation Irritation des voies 
+respiratoires
+Peut provoquer une irritation 
+respiratoire.
+Classific
+ation 
+officielle
+NOAEL Non 
+disponible 
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Inhalation Irritation des voies 
+respiratoires
+Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Risques 
+pour la 
+santé 
+similaire
+s
+NOAEL Non 
+disponible 
+Chlorure de tosyle Inhalation Irritation des voies 
+respiratoires
+Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Risques 
+pour la 
+santé 
+similaire
+s
+NOAEL Non 
+disponible 
+Toxicité pour certains organes cibles - exposition répétée
+Nom Route Organe(s) cible(s) Valeur Organis
+mes
+Test résultat Durée 
+d'exposition
+Polychlorure de vinyle Inhalation Système respiratoire Non-classifié Multiples 
+espèces 
+animales.
+NOAEL 
+0,013 mg/l
+22 Mois
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Système nerveux Risque avéré d'effets graves pour 
+les organes à la suite 
+d'expositions répétées ou d'une 
+exposition prolongée
+Rat LOAEL 0,4 
+mg/l
+4 semaines
+
+[[page 15]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 15 de  24 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Système auditif Risque présumé d'effets graves 
+pour les organes à la suite 
+d'expositions répétées ou d'une 
+exposition prolongée.
+Rat LOAEL 7,8 
+mg/l
+5 jours
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Foie Non-classifié Multiples 
+espèces 
+animales.
+NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Inhalation Coeur | Système 
+endocrine | tractus 
+gastro-intestinal | 
+système 
+hématopoïétique | 
+muscles | Rénale et / 
+ou de la vessie | 
+Système respiratoire
+Non-classifié Multiples 
+espèces 
+animales.
+NOAEL 3,5 
+mg/l
+13 semaines
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion Système auditif Non-classifié Rat NOAEL 900 
+mg/kg/jour
+2 semaines
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion Rénale et / ou de la 
+vessie
+Non-classifié Rat NOAEL 
+1 500 
+mg/kg/jour
+90 jours
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion Foie Non-classifié Multiples 
+espèces 
+animales.
+NOAEL Non 
+disponible 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+Ingestion Coeur | la peau | 
+Système endocrine | 
+os, dents, ongles et / 
+ou les cheveux | 
+système 
+hématopoïétique | 
+système 
+immunitaire | 
+Système nerveux | 
+Système respiratoire
+Non-classifié Souris NOAEL 
+1 000 
+mg/kg/jour
+103 semaines
+Dioxyde de titane Inhalation Système respiratoire Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Rat LOAEL 0,01 
+mg/l
+2 années
+Dioxyde de titane Inhalation Fibrose pulmonaire Non-classifié Humain NOAEL Non 
+disponible 
+Exposition 
+professionnell
+e
+Diisocyanate de 4,4'-
+méthylènediphényle
+Inhalation Système respiratoire Risque avéré d'effets graves pour 
+les organes à la suite 
+d'expositions répétées ou d'une 
+exposition prolongée
+Rat LOAEL 
+0,004 mg/l
+13 semaines
+Produit de réaction du 
+diméthylsiloxane et
+de la silice
+Inhalation Système respiratoire 
+| silicose
+Non-classifié Humain NOAEL Non 
+disponible 
+Exposition 
+professionnell
+e
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Inhalation Foie Non-classifié Rat NOAEL 6 
+mg/l
+13 semaines
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Inhalation Rénale et / ou de la 
+vessie
+Non-classifié Rat LOAEL 1,5 
+mg/l
+13 semaines
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Inhalation système 
+hématopoïétique
+Non-classifié Rat NOAEL 6 
+mg/l
+13 semaines
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Ingestion Foie Non-classifié Rat NOAEL 
+1 000 
+mg/kg/jour
+13 semaines
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Ingestion Rénale et / ou de la 
+vessie
+Non-classifié Rat LOAEL 100 
+mg/kg/jour
+13 semaines
+
+[[page 16]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 16 de  24 
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+Ingestion système 
+hématopoïétique | 
+des yeux
+Non-classifié Rat NOAEL 
+1 000 
+mg/kg/jour
+13 semaines
+Noir de carbone Inhalation pneumoconiosis Non-classifié Humain NOAEL Non 
+disponible 
+Exposition 
+professionnell
+e
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle 
+et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion des yeux Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Rat NOAEL 300 
+mg/kg/jour
+28 jours
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle 
+et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+Ingestion tractus gastro-
+intestinal | Foie | 
+système 
+immunitaire | Coeur 
+| Système endocrine 
+| système 
+hématopoïétique | 
+Système nerveux | 
+Rénale et / ou de la 
+vessie
+Non-classifié Rat NOAEL 
+1 493 
+mg/kg/jour
+29 jours
+Chlorure de tosyle Ingestion tractus gastro-
+intestinal
+Certaines données positives 
+existent, mais ces données ne sont 
+pas suffisantes pour justifier une 
+classification.
+Rat NOAEL 750 
+mg/kg/jour
+34 jours
+Chlorure de tosyle Ingestion Coeur | Système 
+endocrine | système 
+hématopoïétique | 
+Système nerveux | 
+Rénale et / ou de la 
+vessie | Foie | 
+système 
+immunitaire | 
+Système respiratoire
+Non-classifié Rat NOAEL 750 
+mg/kg/jour
+34 jours
+Danger par aspiration
+Nom Valeur
+Masse de réaction d’éthylbenzène et de xylène Risque d'aspiration
+Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques Risque d'aspiration
+Contacter l'adresse ou le numéro de téléphone indiqué sur la première page de la FDS pour informations 
+toxicologiques sur cette matière et / ou de ses composants.
+11.2. Informations sur d'autres dangers
+Ce produit ne contient aucune substance considérée comme un perturbateur endocrinien pour la santé humaine.
+Section 12 : Informations écologiques
+Il est possible que les informations suivantes ne correspondent pas à la classification de documents de l'UE en section 2 
+et / ou les classifications de certains ingrédients en section 3 si les classifications de certains ingrédients sont attribuées 
+par une autorité compétente. En outre, les données en section 12 sont fondées sur les règles de classification selon SGH 
+UN et selon les classifications dérivées d'avis 3M.
+12.1 Toxicité:
+Aucun test sur le produit disponible
+Matériel N° CAS Organisme Type Exposition Test point 
+final
+Test résultat
+
+[[page 17]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 17 de  24 
+C14-17 alcanes, acides 
+seconononiques et 
+disulfoniques, esters de 
+phényle
+701-257-8 N/A Données non 
+disponibles ou 
+insuffisantes pour 
+la classification
+N/A N/A N/A 
+Polymère uréthanne Confidentiel N/A Données non 
+disponibles ou 
+insuffisantes pour 
+la classification
+N/A N/A NA 
+Polychlorure de vinyle 9002-86-2 N/A Données non 
+disponibles ou 
+insuffisantes pour 
+la classification
+N/A N/A N/A 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Algues vertes Composant 
+analogue
+73 heures ErC50 4,36 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Truite arc-en-ciel Composant 
+analogue
+96 heures LC50 2,6 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Puce d'eau Composant 
+analogue
+48 heures EC50 3,82 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Algues vertes Composant 
+analogue
+73 heures NOEC 0,44 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Truite arc-en-ciel Composant 
+analogue
+56 jours NOEC 1,3 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Puce d'eau Composant 
+analogue
+7 jours NOEC 0,96 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Boue activée Composant 
+analogue
+30 minutes EC50 >198 mg/l
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Ver rouge Composant 
+analogue
+56 jours NOEC 42,6 mg/kg (poids sec)
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Microbes du sol Composant 
+analogue
+28 jours EC50 >1 000 mg/kg (poids sec)
+Produit de réaction du 
+diméthylsiloxane et
+de la silice
+67762-90-7 N/A Données non 
+disponibles ou 
+insuffisantes pour 
+la classification
+N/A N/A N/A 
+Oxyde de calcium 1305-78-8 Carpe commune Expérimental 96 heures LC50 1 070 mg/l
+Dioxyde de titane 13463-67-7 Boue activée Expérimental 3 heures NOEC >=1 000 mg/l
+Dioxyde de titane 13463-67-7 Diatomée Expérimental 72 heures EC50 >10 000 mg/l
+Dioxyde de titane 13463-67-7 Vairon de Fathead Expérimental 96 heures LC50 >100 mg/l
+Dioxyde de titane 13463-67-7 Puce d'eau Expérimental 48 heures EC50 >100 mg/l
+Dioxyde de titane 13463-67-7 Diatomée Expérimental 72 heures NOEC 5 600 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Boue activée Estimé 3 heures EC50 >100 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Algues vertes Estimé 72 heures EC50 >1 640 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Puce d'eau Estimé 24 heures EC50 >1 000 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Poisson zèbre Estimé 96 heures LC50 >1 000 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Algues vertes Estimé 72 heures NOEC 1 640 mg/l
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Puce d'eau Estimé 21 jours NOEC 10 mg/l
+
+[[page 18]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 18 de  24 
+Hydrocarbures, C11-
+C14, n-alcanes, 
+isoalcanes, cycliques,  
+< 2% aromatiques
+926-141-6 Algues vertes Expérimental 72 heures EL50 >1 000 mg/l
+Hydrocarbures, C11-
+C14, n-alcanes, 
+isoalcanes, cycliques,  
+< 2% aromatiques
+926-141-6 Truite arc-en-ciel Expérimental 96 heures LL50 >1 000 mg/l
+Hydrocarbures, C11-
+C14, n-alcanes, 
+isoalcanes, cycliques,  
+< 2% aromatiques
+926-141-6 Puce d'eau Expérimental 48 heures EL50 >1 000 mg/l
+Hydrocarbures, C11-
+C14, n-alcanes, 
+isoalcanes, cycliques,  
+< 2% aromatiques
+926-141-6 Algues vertes Expérimental 72 heures NOEL 1 000 mg/l
+Noir de carbone 1333-86-4 Algues vertes Expérimental 72 heures Aucune 
+observation de 
+toxicité à la limite 
+de la solubilité 
+dans l'eau
+>100 mg/l
+Noir de carbone 1333-86-4 Poisson zèbre Expérimental 96 heures Aucune 
+observation de 
+toxicité à la limite 
+de la solubilité 
+dans l'eau
+>100 mg/l
+Noir de carbone 1333-86-4 Algues vertes Expérimental 72 heures Aucune 
+observation de 
+toxicité à la limite 
+de la solubilité 
+dans l'eau
+100 mg/l
+Noir de carbone 1333-86-4 Boue activée Expérimental 3 heures NOEC >800 mg/l
+Masse de réaction de 
+Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-
+4-pipéridyle) et de 
+Sébaçate de méthyle et 
+de 1,2,2,6,6-
+pentaméthyl-4-
+pipéridyle
+915-687-0 Algues vertes Expérimental 72 heures ErC50 1,68 mg/l
+Masse de réaction de 
+Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-
+4-pipéridyle) et de 
+Sébaçate de méthyle et 
+de 1,2,2,6,6-
+pentaméthyl-4-
+pipéridyle
+915-687-0 Poisson zèbre Expérimental 96 heures LC50 0,9 mg/l
+Masse de réaction de 
+Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-
+4-pipéridyle) et de 
+Sébaçate de méthyle et 
+de 1,2,2,6,6-
+pentaméthyl-4-
+pipéridyle
+915-687-0 Algues vertes Expérimental 72 heures ErC10 0,34 mg/l
+Masse de réaction de 
+Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-
+4-pipéridyle) et de 
+Sébaçate de méthyle et 
+de 1,2,2,6,6-
+pentaméthyl-4-
+pipéridyle
+915-687-0 Puce d'eau Expérimental 21 jours NOEC 1 mg/l
+Masse de réaction de 
+Sébaçate de bis 
+(1,2,2,6,6-pentaméthyl-
+4-pipéridyle) et de 
+915-687-0 Boue activée Expérimental 3 heures IC50 >=100 mg/l
+
+[[page 19]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 19 de  24 
+Sébaçate de méthyle et 
+de 1,2,2,6,6-
+pentaméthyl-4-
+pipéridyle
+Chlorure de tosyle 98-59-9 Boue activée Estimé 3 heures EC10 240 mg/l
+Chlorure de tosyle 98-59-9 Algues vertes Expérimental 72 heures EC50 >100 mg/l
+Chlorure de tosyle 98-59-9 Medaka Expérimental 96 heures LC50 >100 mg/l
+Chlorure de tosyle 98-59-9 Puce d'eau Expérimental 48 heures EC50 >334 mg/l
+Chlorure de tosyle 98-59-9 Algues vertes Expérimental 72 heures NOEC 2,6 mg/l
+12.2 Persistance et dégradabilité:
+Matériel N° CAS Type de test Durée Type d'étude Test 
+résultat
+Protocole
+C14-17 alcanes, acides 
+seconononiques et 
+disulfoniques, esters de 
+phényle
+701-257-8  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Polymère uréthanne Confidentiel  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Polychlorure de vinyle 9002-86-2  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Masse de réaction 
+d’éthylbenzène et de xylène
+905-588-0 Composant 
+analogue 
+Biodégradation
+28 jours Demande 
+biologique en 
+oxygène
+94 %BOD/ThO
+D
+OECD 301F - Manometric 
+Respiro
+Produit de réaction du 
+diméthylsiloxane et
+de la silice
+67762-90-7  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Oxyde de calcium 1305-78-8  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Dioxyde de titane 13463-67-7  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Estimé Hydrolyse  Demi-vie hydrolytique 20 heures (t 1/2)
+Hydrocarbures, C11-C14, n-
+alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+926-141-6 Expérimental 
+Biodégradation
+28 jours Demande 
+biologique en 
+oxygène
+69 %BOD/ThO
+D
+OECD 301F - Manometric 
+Respiro
+Noir de carbone 1333-86-4  Données non 
+disponibles ou 
+insuffisantes
+N/A N/A N/A N/A
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle et 
+de 1,2,2,6,6-pentaméthyl-4-
+pipéridyle
+915-687-0 Expérimental 
+Biodégradation
+28 jours Déplétion du 
+carbone organique
+38 % 
+Suppression de 
+carbone 
+organique 
+dissous COD
+OCDE 301E - Screening 
+modifié de l'OCDE
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle et 
+de 1,2,2,6,6-pentaméthyl-4-
+pipéridyle
+915-687-0 Expérimental 
+Hydrolyse  Demi-vie hydrolytique (pH 7) 68 jours (t 1/2) OCDE 111 Fonction d'hydrolyse du pH
+Chlorure de tosyle 98-59-9 Expérimental 
+Biodégradation
+28 jours Demande 
+biologique en 
+oxygène
+60 %BOD/ThO
+D
+OCDE 301D
+Chlorure de tosyle 98-59-9 Expérimental 
+Hydrolyse  Demi-vie hydrolytique 2.2 minutes (t 1/2)
+
+[[page 20]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 20 de  24 
+12.3. Potentiel de bioaccumulation:
+Matériel CAS N° Type de test Durée Type d'étude Test 
+résultat
+Protocole
+C14-17 alcanes, acides 
+seconononiques et 
+disulfoniques, esters de 
+phényle
+701-257-8  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Polymère uréthanne Confidentiel  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Polychlorure de vinyle 9002-86-2  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Composant 
+analogue BCF - 
+Poisson
+56 jours Facteur de 
+bioaccumulation
+<=25.9 
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Composant 
+analogue 
+Bioconcentratie
+ Lod du Coefficient de partage 
+octanol/eau
+3.2 
+Produit de réaction du 
+diméthylsiloxane et
+de la silice
+67762-90-7  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Oxyde de calcium 1305-78-8  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Dioxyde de titane 13463-67-7 Expérimental BCF - 
+Poisson
+42 jours Facteur de 
+bioaccumulation
+9.6 
+Diisocyanate de 4,4'-
+méthylènediphényle
+101-68-8 Expérimental BCF - 
+Poisson
+28 jours Facteur de 
+bioaccumulation
+200 OECD305-Bioconcentration
+Hydrocarbures, C11-C14, 
+n-alcanes, isoalcanes, 
+cycliques,  < 2% 
+aromatiques
+926-141-6  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Noir de carbone 1333-86-4  Données non 
+disponibles ou 
+insuffisantes pour la 
+classification
+N/A N/A N/A N/A
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle 
+et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+915-687-0 Composant 
+analogue BCF - 
+Poisson
+56 jours Facteur de 
+bioaccumulation
+<31.4 
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle 
+et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+915-687-0 Expérimental 
+Bioconcentratie  Lod du Coefficient de partage 
+octanol/eau
+2.77 OECD 107 log Kow shke 
+flsk mtd
+Chlorure de tosyle 98-59-9 Estimé 
+Bioconcentratie  Lod du Coefficient de partage 
+octanol/eau
+0.93 
+12.4. Mobilité dans le sol:
+Matériel CAS N° Type de test Type d'étude Test résultat Protocole
+Masse de réaction 
+d’éthylbenzène et de 
+xylène
+905-588-0 Composant 
+analogue Mobilité 
+dans le sol
+Koc 537 l/kg
+Diisocyanate de 4,4'- 101-68-8 Estimé Mobilité Koc 34 000 l/kg Episuite™
+
+[[page 21]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 21 de  24 
+méthylènediphényle dans le sol
+Masse de réaction de 
+Sébaçate de bis (1,2,2,6,6-
+pentaméthyl-4-pipéridyle) 
+et de Sébaçate de méthyle 
+et de 1,2,2,6,6-
+pentaméthyl-4-pipéridyle
+915-687-0 Modelé Mobilité 
+dans le sol
+Koc 7 l/kg Episuite™
+12.5. Résultats de l'évaluation PBT et vPvB:
+Ce produit ne contient aucune substance considérée comme PBT ou vPvB. 
+12.6. Propriétés de perturbation endocrinienne
+Ce produit ne contient aucune substance évaluée comme un perturbateur endocrinien pour les effets sur l'environnement
+12.7. Autres effets indésirables
+Pas d'information disponible.
+ 13. CONSIDERATIONS RELATIVES A L'ELIMINATION
+13.1. Méthode de traitement des déchets:
+Éliminer le contenu/récipient conformément à la réglementation locale.
+Eliminer le matériel complètement durci (ou polymérisé) dans une installation autorisée de déchets industriels. Comme une 
+alternative d'élimination, incinérer le produits durci dans une installation d'incinération de déchets autorisée La destruction 
+adéquate peut nécessiter l'utilisation de carburant supplémentaire pendant les procédés d'incinération. Les produits de 
+combustion comprendront l'acide halogénique (HCl / HF / HBr). L'installation doit être capable de traiter les matériaux 
+halogénés. Les conteneurs vides et utilisés pour le transport et la manutention des produits chimiques dangereux (substances 
+chimiques / mélanges / préparations classées comme dangereuses conformément à la réglementation applicable) doivent être 
+considérés, stockés, traités et éliminés comme des déchets dangereux à moins d'indication définie par la réglementation des 
+déchets applicables. Consulter les autorités de régulation respectives afin de déterminer les traitements disponibles et les 
+installations d'élimination.
+Le code déchets est basé sur l'application du produit par le client.Puisque cet aspect est hors de contrôle 3M, aucun code 
+déchets pour les produits après utilisation ne sera fourni. Merci de vous référer au Code Déchets Européen (EWC-
+2000/532/CE et ses amendements) pour attibuer le code déchets correct à votre propre résidu. Assurez vous d'étre en 
+conformité avec les réglementations nationales et/ou locales applicables et utilisez toujours un opérateur de traitement des 
+déchets agrée.
+Code déchets EU (produit tel que vendu)
+08 04 09* Déchets de colles et mastics contenant des solvants organiques ou d'autres substances dangereuses.
+20 01 27* Peintures, encres, colles et résines contenant des substances dangereuses.
+ 14. INFORMATIONS RELATIVES AU TRANSPORT
+Non classé dangereux pour le transport
+   Transport routier 
+(ADR)
+ Transport aérien (IATA)  Transport maritime 
+(IMDG)
+ 14.1 Numéro ONU ou 
+numéro d’identification
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+
+[[page 22]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 22 de  24 
+ 14.2 Désignation officielle de 
+transport de l'ONU
+Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ 14.3 Classe(s) de danger 
+pour le transport
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ 14.4 Groupe d'emballage  Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ 14.5 Dangers pour 
+l’environnement
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ 14.6 Précautions spéciales 
+pour l’utilisateur
+ Veuillez-vous référer aux 
+autres sections de la FDS 
+pour plus d’informations
+ Veuillez-vous référer aux 
+autres sections de la FDS pour 
+plus d’informations
+ Veuillez-vous référer aux 
+autres sections de la FDS 
+pour plus d’informations
+ 14.7 Transport maritime en 
+vrac conformément aux 
+instruments de l’OMI
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Température de régulation  Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Température critique  Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Code de classification ADR  Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Code de ségrégation IMDG  Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+ Pas de données de tests 
+disponibles.
+Veuillez prendre contact à l’adresse ou le numéro de téléphone figurant sur la première page de la FDS pour plus 
+d’informations sur le transport / expédition du produit par voie ferroviaire (RID) ou par voies de navigation intérieure (ADN).
+15. INFORMATIONS REGLEMENTAIRES
+15.1. Législations spécifiques relatives à la sécurité, santé et réglementations environnementales de la substance ou du 
+mélange  
+Cancérogénicité
+Ingrédient Numéro CAS Classification Réglementation
+Noir de carbone 1333-86-4 Grp. 2B: Possibilité carc. 
+des hommes
+Centre International de 
+Recherche sur le 
+Cancer (CIRC)
+Diisocyanate de 4,4'-méthylènediphényle 101-68-8 Carc. 2 Règlement (CE) N° 
+1272/2008, table 3.1
+Diisocyanate de 4,4'-méthylènediphényle 101-68-8 Gr.3: non classifié Centre International de 
+Recherche sur le 
+Cancer (CIRC)
+Polychlorure de vinyle 9002-86-2 Gr.3: non classifié Centre International de 
+Recherche sur le 
+Cancer (CIRC)
+Dioxyde de titane 13463-67-7 Grp. 2B: Possibilité carc. Centre International de
+
+[[page 23]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 23 de  24 
+des hommes Recherche sur le 
+Cancer (CIRC)
+Statut des inventaires
+Contacter le fournisseur pour plus d'informations.  Les composants de ce produit sont conformes à l'inventaire Chemical 
+Control Act Coréen. Pour de plus amples informations veuillez contacter la division de ventes.  Les composants de ce 
+produit sont en conformité avec les dispositions du "Japan Chemical Substance Control Law. Certaines restrictions peuvent 
+s'appliquer . Contacter la division de vente pour plus d'informations.  Les composants de ce produit sont conformes avec la 
+réglementation des Philippines RA 6969. Certaines restrictions peuvent s'appliquer.  Ce produit est conforme aux mesures 
+sur la gestion environnementale des nouvelles substances chimiques . Tous les ingrédients sont listés ou exemptés de 
+l'inventaire Chinois IECSC .
+DIRECTIVE 2012/18/UE
+Catégories de danger Seveso, annexe 1, partie 1
+Aucun
+Substances dangereuses désignées Seveso, Annexe 1, Partie 2
+Aucun
+ Règlement  (EU) No 649/2012
+Aucun produit chimique répertorié
+          Tableau des maladies professionnelles
+4bis Affections gastro-intestinales provoquées par le benzène, le toluène, les xylènes et tous les produits en 
+renfermant
+62 Affections professionnelles provoquées par les isocyanates organiques
+84 Affections engendrées par les solvants organiques liquides à usage professionnel : hydrocarbures 
+liquides aliphatiques ou cycliques saturés ou insaturés et leurs mélanges ; hydrocarbures halogénés 
+liquides ; dérivés nitrés des hydrocarbures aliphatiques ; alcools ; glycols, éthers ; diméthylformamide et 
+dimétylacétamine ; acétonitrile et propionitrile ; pyridine ; diméthylsulfone et diméthylsulfoxyde.
+15.2. Evaluation de la Sécurité Chimique
+Une évaluation de la sécurité chimique n'a pas été réalisée pour ce mélange. Des évaluations de la sécurité chimique pour les 
+substances contenues peuvent avoir été effectuées par les déclarants des substances conformément au règlement (CE) n ° 
+1907/2006, tel que modifié.
+16. AUTRES INFORMATIONS
+Liste des codes des mentions de dangers H
+EUH066 L'exposition répétée peut provoquer dessèchement ou gerçures de la peau.
+EUH071 Corrosif pour l'appareil respiratoire.
+H226 Liquide et vapeurs inflammables.
+H290 Peut être corrosif pour les métaux.
+H304 Peut être mortel en cas d'ingestion et de pénétration dans les voies respiratoires.
+H312 Nocif par contact cutané.
+H314 Provoque de graves brûlures de la peau et de graves lésions des yeux.
+H315 Provoque une irritation cutanée.
+H317 Peut provoquer une allergie cutanée.
+H318 Provoque des lésions oculaires graves.
+H319 Provoque une sévère irritation des yeux.
+
+[[page 24]]
+3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.                                                      
+__________________________________________________________________________________________
+Page: 24 de  24 
+H332 Nocif par inhalation.
+H334 Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation.
+H335 Peut irriter les voies respiratoires.
+H351 Susceptible de provoquer le cancer.
+H361f Susceptible de nuire à la fertilité.
+H373 Risque présumé d'effets graves pour les organes à la suite d'expositions répétées ou d'une exposition 
+prolongée.
+H400 Très toxique pour les organismes aquatiques.
+H410 Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme.
+H412 Nocif pour les organismes aquatiques, entraîne des effets néfastes à long terme.
+Liste des notes pertinentes
+Nota 2  La concentration d'isocyanates donnée est le pourcentage en poids du monomère libre, calculé par 
+rapport au poids total du mélange.
+Nota C Certaines substances organiques peuvent être commercialisées soit sous une forme isomérique bien 
+définie, soit sous forme de mélange de plusieurs isomères. Dans ces cas-là, le fournisseur doit 
+préciser sur l'étiquette si la substance est un isomère spécifique ou un mélange d'isomères.
+Raison de la révision:
+CLP: Tableau ingrédient  - L'information a été modifiée.
+Section 3 : Composition / Information des ingrédients  - L'information a été modifiée.
+Valeurs limites de moyenne d'exposition :Valeurs limites de moyenne d'exposition :Valeurs limites de moyenne d'exposition :  
+- L'information a été modifiée.
+Section 11: Toxicité aigüe (Tableau)  - L'information a été modifiée.
+Section 12 : Informations écologiques  - L'information a été modifiée.
+12.3 Persistance et dégradation  - L'information a été modifiée.
+12.4 Potentiel de bioaccumulation  - L'information a été modifiée.
+Section 16 : Tableau à deux colonnes affichant la liste unique des Notes pour tous les composants du matériau donné.  - 
+L'information a été ajoutée.
+Les renseignements contenus dans cette fiche de données de sécurité sont basés sur l'état actuel de nos connaissances relatives 
+au produit concerné , à la date indiquée. Ils sont donnés de bonne foi. L'attention des utilisateurs est en outre attirée sur les 
+risques éventuellement encourus lorsqu'un produit est utilisé à d'autres usages que ceux pour lesquels il est conçu. Elle ne 
+dispense en aucun cas l'utilisateur de connaitre et d'appliquer l'ensemble des textes réglementaires applicables à son activité. 
+Nous ne sommes pas responsables pour quelconque dommage (matériel et immatériel aussi bien que direct et indirect) qui est 
+la conséquence d'un usage qui n'est pas en accord avec les notices d'utilisation et les recommandations qui se trouvent dans la 
+fiche de données de sécurité. De plus, cette FDS est fournie pour transmettre des informations sur la santé et sécurité. Si vous 
+êtes l’importateur officiel de ce produit dans l’Union Européenne, vous êtes responsables de toutes les exigences 
+réglementaires, y compris, sans toutefois vous y limiter, en ce qui concerne les enregistrements/notifications des produits, le 
+suivi des volume des substances et l’enregistrement éventuel de substance.
+Les FDS de 3M en France sont disponibles sur le site www.3m.fr

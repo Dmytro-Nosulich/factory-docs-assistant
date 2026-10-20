@@ -1,0 +1,456 @@
+[[page 1]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 1 of 9
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifier
+Trade name: Antifreeze
+This safety data sheet pertains to the following products:
+LZB 125:   5 L
+LZB 225: 10 L
+LZB 325: 20 L
+UFI: 5P20-V05D-R000-APF5
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+General use: Functional fluids, Refrigerant
+Industrial use
+Professional uses / Public domain
+1.3 Details of the supplier of the safety data sheet
+Company name: Lauda Dr. R. Wobser GmbH & Co. KG
+Street/POB-No.: Laudaplatz 1
+Postal Code, city: DE-97922 Lauda-Königshofen
+WWW: www.lauda.de
+E-mail: info@lauda.de
+Telephone: +49 (0)9343-503-0
+Telefax: +49 (0)9343-503-222
+Department responsible for information:
+Department Quality Management,
+Telephone: +49 9343 503-331, e-mail info@lauda.de
+1.4 Emergency telephone number
+National Poisons Information Service (Birmingham Unit)
+Telephone: 844 892 0111
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Classification according to EC regulation 1272/2008 (CLP)
+Acute Tox. 4; H302 Harmful if swallowed.
+STOT RE 2; H373 May cause damage to organs through prolonged or repeated exposure.
+2.2 Label elements
+Labelling (CLP)
+Signal word: Warning
+Hazard statements: H302 Harmful if swallowed.
+H373 May cause damage to organs through prolonged or repeated exposure.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 2]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 2 of 9
+Precautionary statements: P260 Do not breathe mist/vapours/spray.
+P264 Wash hands and face thoroughly after handling.
+P270 Do not eat, drink or smoke when using this product.
+P280 Wear protective gloves/protective clothing/eye protection/face protection.
+P314 Get medical advice/attention if you feel unwell.
+Special labelling
+Text for labelling: Contains: ethylene glycol
+2.3 Other hazards
+Special danger of slipping by leaking/spilling product.
+Endocrine disrupting properties, Results of PBT and vPvB assessment:
+No data available
+SECTION 3: Composition/information on ingredients
+3.1 Substances: not applicable
+3.2 Mixtures
+Chemical characterisation: Ethane diol (ethylene glycol) and corrosion inhibitors
+Hazardous ingredients:
+Identifiers Designation
+Classification
+Content
+REACH 01-2119456816-28-xxxx
+EC No. 203-473-3
+CAS 107-21-1
+Ethylene glycol
+Acute Tox. 4; H302.  STOT RE 2; H373.
+90 - 95 %
+Full text of H- and EUH-statements: see section 16.
+SECTION 4: First aid measures
+4.1 Description of first aid measures
+General information: Take off immediately all contaminated clothing.
+In case of inhalation: Remove the casualty into fresh air and keep them calm.
+In the events of symptoms take medical treatment.
+Following skin contact: After contact with skin, wash immediately with plenty of water.
+Consult a doctor if skin irritation persists.
+After eye contact: Immediately flush eyes with plenty of flowing water for 10 to 15 minutes holding eyelids apart. Remove 
+contact lenses, if present and easy to do. Continue rinsing.
+Subsequently consult an ophthalmologist.
+After swallowing: Rinse mouth immediately and drink plenty of water. Immediately get medical attention.
+4.2 Most important symptoms and effects, both acute and delayed
+May cause damage to organs through prolonged or repeated exposure. Harmful if swallowed.
+4.3 Indication of any immediate medical attention and special treatment needed
+Treat symptomatically.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 3]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 3 of 9
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media: Water spray jet, alcohol resistant foam, extinguishing powder, carbon dioxide
+Extinguishing media which must not be used for safety reasons:
+Full water jet
+5.2 Special hazards arising from the substance or mixture
+In case of fire may be liberated: nitrogen oxides (NOx), formaldehyde, hydrogen, methane, Carbon 
+monoxide and carbon dioxide.
+5.3 Advice for firefighters
+Special protective equipment for firefighters:
+Wear a self-contained breathing apparatus and chemical protective clothing.
+Additional information: Hazchem-Code: -
+Cool endangered containers with water jetspray.
+Do not allow fire water to penetrate into surface or ground water.
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Avoid the formation of aerosol. Avoid contact with the substance. Do not breathe mist/vapours/spray.
+Provide adequate ventilation. Wear appropriate protective equipment. Keep unprotected people away. 
+Eliminate all ignition sources if safe to do so.
+6.2 Environmental precautions
+Do not allow to penetrate into soil, waterbodies or drains.
+6.3 Methods and material for containment and cleaning up
+Absorb with liquid-binding material (e.g. sand, diatomaceous earth, acid- or universal binding agents) 
+and place in closed containers for disposal. Final cleaning.
+Additional information: Special danger of slipping by leaking/spilling product.
+6.4 Reference to other sections
+Refer additionally to section 8 and 13.
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Advices on safe handling: Avoid the formation of aerosol. Avoid contact with the substance. Avoid contact with skin and eyes. Do 
+not breathe mist/vapours/spray.
+Provide adequate ventilation, and local exhaust as needed. Handle and open container with care. Wear 
+appropriate protective equipment. Take off contaminated clothing. When using do not eat or drink. Wash 
+hands before breaks and after work.
+Precautions against fire and explosion:
+Take care of general rules for industrial preventive fire protection.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 4]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 4 of 9
+7.2 Conditions for safe storage, including any incompatibilities
+Requirements for storerooms and containers:
+Keep container tightly closed and in a well-ventilated place. Keep only in the original container.
+Hints on joint storage: Do not store together with: alkalis, strong oxidizing agents
+Keep away from food, drink and animal feedingstuffs.
+7.3 Specific end use(s)
+No information available.
+SECTION 8: Exposure controls/personal protection
+8.1 Control parameters
+Occupational exposure limit values:
+CAS No. Designation Type Limit value
+107-21-1 Ethylene glycol Great Britain: WEL-STEL 104 mg/m³; 40 ppm  
+(vapour, may be absorbed through the skin)
+Great Britain: WEL-TWA 10 mg/m³  (may be absorbed through the skin)
+Great Britain: WEL-TWA 52 mg/m³; 20 ppm  (vapour, may be absorbed through the skin)
+DNEL/DMEL: Information about ethylene glycol:
+DNEL workers, long-term, local, inhalative: 35 mg/m³
+DNEL workers, long-term, systemic, dermal: 106 mg/kg bw/d
+DNEL consumers, long-term, local, inhalative: 7 mg/m³
+DNEL consumers, long-term, systemic, dermal: 53 mg/kg bw/d
+PNEC: Information about ethylene glycol:
+PNEC water (freshwater): 10 mg/L
+PNEC water (marine water): 1 mg/L
+PNEC water (intermittent release): 10 mg/L
+PNEC sediment (freshwater): 20.9 mg/kg dw
+PNEC soil: 1.53 mg/kg dw
+PNEC sewage treatment plant stp: 199.5 mg/L
+8.2 Exposure controls
+Provide good ventilation and/or an exhaust system in the work area.
+Transfer and handle product only in closed systems.
+Personal protection equipment
+Occupational exposure controls
+Respiratory protection: Respiratory protection must be worn whenever the WEL levels have been exceeded.
+In the event of aerosol or fog formation: full mask, filter A.
+Have a breathing apparatus that is not dependent on the circulating air ready for emergencies.
+Hand protection: Protective gloves according to EN 374.
+Glove material: Nitrile rubber
+Layer thickness: 0.4 mm.
+Breakthrough time: 30 min.
+Glove material: Butyl caoutchouc (butyl rubber)
+Layer thickness: > 0.7 mm.
+Breakthrough time: >480 min.
+Observe glove manufacturer's instructions concerning penetrability and breakthrough time.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 5]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 5 of 9
+Eye protection: Tightly sealed goggles according to EN 166.
+Protection goggles; in case of increased danger, use a face protection shield.
+Body protection: Wear suitable protective clothing.
+General protection and hygiene measures:
+Avoid contact with skin and eyes. Avoid the formation of aerosol.
+Take off immediately all contaminated clothing.
+Keep away from food, drink and animal feedingstuffs.
+Wash hands before breaks and after work.
+Environmental exposure controls
+Refer to "6.2 Environmental precautions".
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Appearance: Physical state at 20 °C and 101.3 kPa: liquid
+Colour: yellow
+Odour: weak
+Odour threshold: No data available
+pH: at 20 °C, 100 g/L: 8  (DIN 19268)
+Melting point/freezing point: -32 °C  (DIN 51583)
+Initial boiling point and boiling range: approx. 165 °C  (ASTM D 1120)
+Flash point/flash point range: 119 °C  (c.c., ASTM D6450)
+Evaporation rate: No data available
+Flammability: No data available
+Explosion limits: LEL (Lower Explosion Limit):  3.00 Vol-% (ethylene glycol)
+Vapour pressure: at 20 °C: <= 0.1 hPa
+Vapour density: No data available
+Density: at 20 °C: 1.1138 g/mL (DIN 51757)
+Water solubility: at 20 °C: multimiscible 
+Partition coefficient: n-octanol/water: No data available
+Auto-ignition temperature: No data available
+Decomposition temperature: > 300 °C (DSC/nitrogen)
+Viscosity, dynamic: at 20 °C: 20.3 mPa*s
+Viscosity, kinematic: at 20 °C: 20.3 mm²/s (DIN 51562)
+Explosive properties: Product is not explosive.
+Oxidizing characteristics: No data available
+9.2 Other information
+Ignition temperature: > 400 °C  (DIN 51794)
+Additional information: Surface tension: 33.8 mN/m
+SECTION 10: Stability and reactivity
+10.1 Reactivity
+refer to 10.3
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 6]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 6 of 9
+10.2 Chemical stability
+Stable under recommended storage conditions.
+10.3 Possibility of hazardous reactions
+Reactions with oxidizing agents, alkalis.
+10.4 Conditions to avoid
+Keep away from sources of ignition and heat. Heating causes rise in pressure with risk of bursting.
+10.5 Incompatible materials
+Oxidizing agents, alkalis
+10.6 Hazardous decomposition products
+Formaldehyde, hydrogen, methane, nitrogen oxides (NOx), Carbon monoxide and carbon dioxide.
+Thermal decomposition: > 300 °C (DSC/nitrogen)
+SECTION 11: Toxicological information
+11.1 Information on toxicological effects
+Toxicological effects: The statements are derived from the properties of the single components. No toxicological data is 
+available for the product as such.
+Acute toxicity (oral): Acute Tox. 4; H302 = Harmful if swallowed.
+ATEmix calculated: 519.54 mg/kg
+Acute toxicity (dermal): Lack of data.
+Acute toxicity (inhalative): Lack of data.
+Skin corrosion/irritation: Lack of data.
+Serious eye damage/irritation: Lack of data.
+Sensitisation to the respiratory tract: Lack of data.
+Skin sensitisation: Lack of data.
+Germ cell mutagenicity/Genotoxicity: Lack of data.
+Carcinogenicity: Lack of data.
+Reproductive toxicity: Lack of data.
+Effects on or via lactation: Lack of data.
+Specific target organ toxicity (single exposure): Lack of data.
+Specific target organ toxicity (repeated exposure): STOT RE 2; H373 = May cause damage to organs through 
+prolonged or repeated exposure.
+Possible: damage of kidneys
+Aspiration hazard: Lack of data.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 7]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 7 of 9
+Other information: Information about ethylene glycol:
+LD50 Mouse, dermal: > 3,500 mg/kg
+LC50 Rat, inhalative: > 2.5 mg/L/6h
+Irritant effect on the skin: Not an irritant (Rabbit, 20h)
+Irritant effect on the eye: Not an irritant (Rabbit, 24h)
+Skin sensitisation: not sensitising (Guinea pig, OECD 406)
+Repeated dose toxicity: NOAEL Rat, oral: 150 mg/kg (OECD 408)
+Mutagenicity: Negative in the Ames test. (OECD 471)
+Reproduction toxicity: During animal experiments no indications of reproductive toxicity were observed.
+Symptoms
+Depression of central nervous system, Nausea, vomiting, Dizziness, inebriation, pulmonary oedema, Risk 
+of kidney damage because of precipitation of calcium oxalate.
+Symptoms may occur with delay. Bluish skin colour
+SECTION 12: Ecological information
+12.1 Toxicity
+Aquatic toxicity: Information about ethylene glycol:
+Algae toxicity:
+EC50 Chlamydomonas angulosa: 3,536 mg/L/96h
+Daphnia toxicity:
+EC50 Daphnia magna (Big water flea): > 100 mg/L/48h (OECD 202)
+NOEC Ceriodaphnia spec: 8,590 mg/L/7d
+Fish toxicity:
+LC50 Pimephales promelas (fathead minnow): > 72,860 mg/L/96 h
+NOEC: 2,629 mg/L/30d
+12.2 Persistence and degradability
+Further details: Information about ethylene glycol: Biodegradation: 90 - 100 %/10 d (OECD 301 A)
+Effects in sewage plants: Bacterial toxicity:
+EC20 activated sludge: > 1,995 mg/L/30 min
+12.3 Bioaccumulative potential
+Partition coefficient: n-octanol/water:
+No data available
+12.4 Mobility in soil
+No data available
+12.5 Results of PBT and vPvB assessment
+No data available
+12.6 Other adverse effects
+General information: Do not allow to penetrate into soil, waterbodies or drains.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 8]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 8 of 9
+SECTION 13: Disposal considerations
+13.1 Waste treatment methods
+Product
+Waste key number: 16 01 14* = antifreeze fluids containing hazardous substances
+* = Evidence for disposal must be provided.
+Recommendation: Dispose of waste according to applicable legislation.
+Package
+Recommendation: Dispose of waste according to applicable legislation. Handle contaminated packages in the same way as 
+the substance itself. Non-contaminated packages may be recycled.
+SECTION 14: Transport information
+14.1 UN number
+ADR/RID, IMDG, IATA-DGR: not applicable
+14.2 UN proper shipping name
+ADR/RID, IMDG, IATA-DGR: Not restricted
+14.3 Transport hazard class(es)
+ADR/RID, IMDG, IATA-DGR: not applicable
+14.4 Packing group
+ADR/RID, IMDG, IATA-DGR: not applicable
+14.5 Environmental hazards
+Marine pollutant: no
+14.6 Special precautions for user
+No dangerous good in sense of these transport regulations.
+14.7 Transport in bulk according to Annex II of Marpol and the IBC Code
+No data available
+SECTION 15: Regulatory information
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+National regulations - Great Britain
+Hazchem-Code: -
+No data available
+15.2 Chemical Safety Assessment
+For the following substances of this mixture a chemical safety assessment has been carried out: ethylene 
+glycol
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT
+
+[[page 9]]
+SAFETY DATA SHEET
+according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]
+Antifreeze
+Material number LZB x25
+ Revision date: 9/1/2023
+Version: 4.0
+Replaces version: 3.0
+Language: en-GB
+Date of print: 20/3/2023
+Page: 9 of 9
+SECTION 16: Other information
+Further information
+Wording of the H-phrases under paragraph 2 and 3:
+H302 = Harmful if swallowed.
+H373 = May cause damage to organs through prolonged or repeated exposure.
+Abbreviations and acronyms: Acute Tox.: Acute toxicity
+ADN: European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways
+ADR: European Agreement concerning the International Carriage of Dangerous Goods by Road
+AS/NZS: Australian Standards/New Zealand Standards
+ATEmix: Acute Toxicity Estimate of mixture
+CAS: Chemical Abstracts Service
+CFR: Code of Federal Regulations
+CLP: Classification, Labelling and Packaging
+DMEL: Derived minimal effect level
+DNEL: Derived no-effect level
+EC: European Community
+EC50: Effective Concentration 50%
+EN: European Standard
+EQ: Excepted quantities
+IATA: International Air Transport Association
+IATA-DGR: Interna onal Air Transport Associa on – Dangerous Goods Regula ons
+IBC Code: International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk
+IMDG Code: International Maritime Dangerous Goods Code
+LC50: Median lethal concentration
+LD50: Lethal dose 50%
+LEL: Lower Explosion Limit
+MARPOL: Maritime Pollution: The International Convention for the Prevention of Pollution from Ships
+OEL: Occupational Exposure Limit Value
+OSHA: Occupational Safety and Health Administration
+PBT: Persistent, bioaccumulative and toxic
+PNEC: Predicted no-effect concentration
+RID: Regulations Concerning the International Carriage of Dangerous Goods by Rail
+STOT RE: Specific target organ toxicity - repeated exposure
+TLV: Threshold Limit Value
+TRGS: Technical Rules for Hazardous Substances
+vPvB: Very persistent and very bioaccumulative
+WEL: Workplace Exposure Limit
+Reason of change: General revision
+Date of first version: 25/9/2017
+Department issuing data sheet
+Contact person: see section 1: Department responsible for information
+The information in this data sheet has been established to our best knowledge and was up-to-date at time of revision. It does not represent a guarantee for the properties of the product described in terms 
+of the legal warranty regulations.
+Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT

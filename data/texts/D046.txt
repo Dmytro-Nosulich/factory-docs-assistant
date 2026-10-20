@@ -1,0 +1,560 @@
+[[page 1]]
+Page 1/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+62.0.14
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+· 1.1 Product identifier
+· Trade name: PressurePro Facade Cleaner, Gel RM 43
+· 1.2 Relevant identified uses of the substance or mixture and uses advised against
+Restricted to professional users.
+· Application of the substance / the mixture High pressure cleaner
+· 1.3 Details of the supplier of the safety data sheet
+· Manufacturer/Supplier:
+Alfred Kärcher SE & Co. KG
+Alfred-Kärcher-Str. 28-40
+D - 71364 Winnenden
+Tel.: +49-7195-14-0
+Kärcher (UK) Ltd.
+Kärcher House
+Brookhill Way
+Banbury
+Oxon OX16 3ED
+Great Britain
+Tel.: +44-1295-752-000
+Internet: www.karcher.com
+· Further information obtainable from:
+Regulatory Affairs
+Tel.: +49-7195-14-0
+productsafety.management.de@karcher.com
+· 1.4 Emergency telephone number:
+For Hazardous Materials [or Dangerous Goods] Incidents
+Spill, Leak, Fire, Exposure, or Accident
+Call CHEMTREC Day or Night
+Within USA and Canada: 1-800-424-9300
+Outside USA and Canada: +1-703-527-3887 (collect calls accepted)
+SECTION 2: Hazards identification
+· 2.1 Classification of the substance or mixture
+· Classification according to Regulation (EC) No 1272/2008
+Met. Corr.1 H290 May be corrosive to metals.
+Skin Corr. 1B H314 Causes severe skin burns and eye damage.
+Eye Dam. 1 H318 Causes serious eye damage.
+· 2.2 Label elements
+· Labelling according to Regulation (EC) No 1272/2008
+The product is classified and labelled according to the GB CLP regulation.
+(Contd. on page 2)
+ GB
+
+[[page 2]]
+Page 2/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 1)
+62.0.14
+· Hazard pictograms
+GHS05
+· Signal word Danger
+· Hazard-determining components of labelling:
+sodium hydroxide
+potassium silicate
+sodium metasilicate
+tetradecyl dimethylaminoxide
+· Hazard statements
+H290 May be corrosive to metals.
+H314 Causes severe skin burns and eye damage.
+· Precautionary statements
+P280 Wear protective gloves/protective clothing/eye protection/face protection.
+P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower].
+P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and
+easy to do. Continue rinsing.
+P310 Immediately call a POISON CENTER/doctor.
+P405 Store locked up.
+P501 Dispose of contents/container in accordance wit h local/regional/national/international regulations.
+SECTION 3: Composition/information on ingredients
+· 3.2 Mixtures
+· Description: Cleaning agent
+· Dangerous components:
+CAS: 67656-24-0
+EINECS: 266-840-7
+Reg.nr.: 01-2120781516-47-0000
+sodium 2-butoxyethyl sulphate
+ Eye Dam. 1, H318
+Specific concentration limit: Eye Dam. 1; H318: C ≥ 50 %
+1-5%
+CAS: 1310-73-2
+EINECS: 215-185-5
+Index number: 011-002-00-6
+Reg.nr.: 01-2119457892-27-xxxx
+sodium hydroxide
+ Met. Corr.1, H290; Skin Corr. 1A, H314; Eye Dam. 1, H318
+Specific concentration limits: Skin Corr. 1A; H314: C ≥ 5 %
+Skin Corr. 1B; H314: 2 % ≤ C < 5 %
+Skin Irrit. 2; H315: 0.5 % ≤ C < 2 %
+Eye Irrit. 2; H319: 0.5 % ≤ C < 2 %
+≥2-<3%
+CAS: 1312-76-1
+EINECS: 215-199-1
+Reg.nr.: 01-2119456888-17
+potassium silicate
+ Met. Corr.1, H290; Skin Corr. 1B, H314; Eye Dam. 1, H318
+≥1-<3%
+(Contd. on page 3)
+ GB
+
+[[page 3]]
+Page 3/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 2)
+62.0.14
+CAS: 3332-27-2
+EINECS: 222-059-3
+Reg.nr.: 01-2119949262-37-0000
+tetradecyl dimethylaminoxide
+ Eye Dam. 1, H318;  Aquatic Acute 1, H400; Aquatic Chronic 2, H411;
+ Acute Tox. 4, H302; Skin Irrit. 2, H315
+≥1-<2.5%
+CAS: 10213-79-3
+EINECS: 229-912-9
+Index number: 014-010-00-8
+Reg.nr.: 01-2119449811-37
+sodium metasilicate
+ Met. Corr.1, H290; Skin Corr. 1B, H314; Eye Dam. 1, H318;  STOT
+SE 3, H335
+≥1-<3%
+· Additional information For the wording of the listed hazard phrases refer to section 16.
+SECTION 4: First aid measures
+· 4.1 Description of first aid measures
+· General information Immediately remove any clothing soiled by the product.
+· After inhalation
+In case of unconsciousness place patient stably in side position for transportation.
+Supply fresh air; consult doctor in case of complaints.
+· After skin contact
+Immediately wash with water and soap and rinse thoroughly.
+Immediately rinse with water.
+· After eye contact Rinse opened eye for several minutes under running water. Then consult a doctor.
+· After swallowing
+Rinse out mouth and then drink plenty of water.
+Do not induce vomiting; call for medical help immediately.
+Drink plenty of water and provide fresh air. Call for a doctor immediately.
+· 4.2 Most important symptoms and effects, both acute and delayed No further relevant information available.
+· 4.3 Indication of any immediate medical attention and special treatment needed
+No further relevant information available.
+SECTION 5: Firefighting measures
+· 5.1 Extinguishing media
+· Suitable extinguishing agents
+CO2, powder or water spray. Fight larger fires with water spray or alcohol resistant foam.
+· 5.2 Special hazards arising from the substance or mixture No further relevant information available.
+· 5.3 Advice for firefighters
+· Protective equipment: No special measures required.
+· Additional information Collect contaminated fire fighting water separately. It must not enter the sewage system.
+ GB 
+(Contd. on page 4)
+
+[[page 4]]
+Page 4/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 3)
+62.0.14
+SECTION 6: Accidental release measures
+· 6.1 Personal precautions, protective equipment and emergency procedures
+Wear protective equipment. Keep unprotected persons away.
+· 6.2 Environmental precautions:
+Dilute with plenty of water.
+Do not allow to enter sewers/ surface or ground water.
+Do not allow to penetrate the ground/soil.
+· 6.3 Methods and material for containment and cleaning up:
+Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders).
+Use neutralising agent.
+Dispose contaminated material as waste according to section 13.
+Ensure adequate ventilation.
+· 6.4 Reference to other sections
+See Section 7 for information on safe handling
+See Section 8 for information on personal protection equipment.
+See Section 13 for disposal information.
+SECTION 7: Handling and storage
+· 7.1 Precautions for safe handling
+Ensure good ventilation/exhaustion at the workplace.
+Prevent formation of aerosols.
+Avoid contact with eyes and skin.
+· Information about fire - and explosion protection: No special measures required.
+· 7.2 Conditions for safe storage, including any incompatibilities
+· Storage
+· Requirements to be met by storerooms and receptacles: Store only in the original receptacle.
+· Information about storage in one common storage facility:
+Do not store together with acids.
+Keep away from food, beverages and feed.
+· Further information about storage conditions: Keep receptacle tightly sealed.
+· 7.3 Specific end use(s) No further relevant information available.
+SECTION 8: Exposure controls/personal protection
+· 8.1 Control parameters
+· Ingredients with limit values that require monitoring at the workplace:
+1310-73-2 sodium hydroxide
+WEL Short-term value: 2 mg/m³
+(Contd. on page 5)
+ GB
+
+[[page 5]]
+Page 5/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 4)
+62.0.14
+· DNELs
+1310-73-2 sodium hydroxide
+Inhalative DNEL 1 mg/m3 (employee)
+1 mg/m3 (consumer)
+· PNECs
+10213-79-3 sodium metasilicate
+PNEC 1000 mg/l (STP)
+PNEC aqua 7.5 mg/l (freshwater)
+1 mg/l (marine water)
+· 8.2 Exposure controls
+· Appropriate engineering controls No further data; see section 7.
+· Individual protection measures, such as personal protective equipment
+· General protective and hygienic measures
+Keep away from foodstuffs, beverages and feed.
+Immediately remove all soiled and contaminated clothing
+Wash hands before breaks and at the end of work.
+Avoid contact with the eyes and skin.
+· Respiratory protection:
+In case of brief exposure or low pollution use respiratory filter device. In case of intensive or longer exposure use self-
+contained respiratory protective device.
+Filter A/P2.
+· Hand protection
+Protective gloves.
+· Material of gloves Butyl rubber, BR
+· Penetration time of glove material
+The exact break trough time has to be found out by the manufacturer of the protective gloves and has to be observed.
+· Eye/face protection
+Tightly sealed goggles (EN 166)
+* SECTION 9: Physical and chemical properties
+· 9.1 Information on basic physical and chemical properties
+· General Information
+· Physical state Liquid
+· Colour: Yellow
+· Odour: Specific type
+· Odour threshold: Not determined
+· Melting point/freezing point: -7 °C
+(Contd. on page 6)
+ GB
+
+[[page 6]]
+Page 6/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 5)
+62.0.14
+· Boiling point or initial boiling point and boiling range undetermined
+· Flammability Not applicable
+· Lower and upper explosion limit
+· Lower: Not determined
+· Upper: Not determined
+· Flash point: Not applicable
+· Auto-ignition temperature: not applicable
+· Decomposition temperature: Not determined
+· pH at 20 °C 13.8
+· pH-value 1 %: 11-12
+· Viscosity:
+· Kinematic viscosity Not determined
+· dynamic at 20 °C: 6 mPas
+· Solubility
+· Water: Fully miscible
+· Partition coefficient n-octanol/water (log value) Not determined
+· Vapour pressure: Not determined
+· Density and/or relative density
+· Density at 20 °C: 1.153 g/cm³
+· Relative density Not determined
+· Vapour density Not determined
+· Relative gas density Not determined
+· 9.2 Other information
+· Appearance:
+· Form: Fluid
+· Important information on protection of health and
+environment, and on safety.
+· Ignition temperature: Product is not selfigniting.
+· Explosive properties: Product does not present an explosion hazard.
+· Change in condition
+· Evaporation rate Not determined
+· Information with regard to physical hazard classes
+· Explosives Void
+· Flammable gases Void
+· Aerosols Void
+· Oxidising gases Void
+· Gases under pressure Void
+· Flammable liquids Void
+· Flammable solids Void
+· Self-reactive substances and mixtures Void
+· Pyrophoric liquids Void
+· Pyrophoric solids Void
+· Self-heating substances and mixtures Void
+· Substances and mixtures, which emit flammable gases
+in contact with water Void
+· Oxidising liquids Void
+· Oxidising solids Void
+(Contd. on page 7)
+ GB
+
+[[page 7]]
+Page 7/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 6)
+62.0.14
+· Organic peroxides Void
+· Corrosive to metals May be corrosive to metals.
+· Desensitised explosives Void
+SECTION 10: Stability and reactivity
+· 10.1 Reactivity corresponds to 10.3
+· 10.2 Chemical stability
+· Thermal decomposition / conditions to be avoided: No decomposition if used according to specifications.
+· 10.3 Possibility of hazardous reactions
+Strong exothermic reaction with acids
+Reacts with light alloys to form hydrogen
+Corrodes aluminium
+· 10.4 Conditions to avoid No further relevant information available.
+· 10.5 Incompatible materials: Not compatible with alkali-sensitive substances like Sn, Zn, Al and paintings.
+· 10.6 Hazardous decomposition products: No dangerous decomposition products known
+SECTION 11: Toxicological information
+· 11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008
+· Acute toxicity Based on available data, the classification criteria are not met.
+· LD/LC50 values relevant for classification:
+3332-27-2 tetradecyl dimethylaminoxide
+Oral LD50 1495 mg/kg (Rat)
+10213-79-3 sodium metasilicate
+Dermal LD50 >5000 mg/kg (Rat)
+· Primary irritant effect:
+· Skin corrosion/irritation Causes severe skin burns and eye damage.
+· Serious eye damage/irritation Causes serious eye damage.
+· Respiratory or skin sensitisation Based on available data, the classification criteria are not met.
+· Germ cell mutagenicity Based on available data, the classification criteria are not met.
+· Carcinogenicity Based on available data, the classification criteria are not met.
+· Reproductive toxicity Based on available data, the classification criteria are not met.
+· STOT-single exposure Based on available data, the classification criteria are not met.
+· STOT-repeated exposure Based on available data, the classification criteria are not met.
+· Aspiration hazard Based on available data, the classification criteria are not met.
+(Contd. on page 8)
+ GB
+
+[[page 8]]
+Page 8/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 7)
+62.0.14
+· 11.2 Information on other hazards
+· Endocrine disrupting properties
+None of the ingredients is listed.
+SECTION 12: Ecological information
+· 12.1 Toxicity
+· Aquatic toxicity:
+1310-73-2 sodium hydroxide
+LC50/96 h 125 mg/l (Gambusia affinis)
+EC50/48 h 76 mg/l (Daphnia magna)
+40.4 mg/l (Ceriodaphnia dubia)
+EC50/15 min 22 mg/l (Photobacterium phosphoreum)
+3332-27-2 tetradecyl dimethylaminoxide
+LC50 2.4 mg/l (fish)
+EC50 0.19 mg/l (Water plants)
+2.64 mg/l (Daphnia magna)
+NOEC 0.42 mg/l /302 d (Pimephales promelas)
+0.067 mg/l (Water plants)
+0.7 mg/l /21 d (OECD (Daphnia magna)
+10213-79-3 sodium metasilicate
+LC50/96 h 210 mg/l (Brachydanio rerio)
+EC50/48 h 1700 mg/l (Daphnia magna)
+EC50/72 h >345 mg/l (Desmodesmus subspicatus) (DIN 3 8412 T9)
+EC50/96 h 216 mg/l (Daphnia magna)
+EC50/3h >100 mg/l (STP) (OECD 209 / ISO 8192)
+· 12.2 Persistence and degradability No further relevant information available.
+· 12.3 Bioaccumulative potential No further relevant information available.
+· 12.4 Mobility in soil No further relevant information available.
+· 12.5 Results of PBT and vPvB assessment
+· PBT: Not applicable
+· vPvB: Not applicable
+· 12.6 Endocrine disrupting properties The product does not contain substances with endocrine disrupting properties.
+· 12.7 Other adverse effects
+· Additional ecological information:
+· COD-value: 204000 mg/l
+(Contd. on page 9)
+ GB
+
+[[page 9]]
+Page 9/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 8)
+62.0.14
+· General notes:
+The product does not contain organically bounded halogens (AOX-free).
+The product does not contain organic complexing agents.
+The surfactant(s) contained in this preparation complies(comply) with the biodegradability criteria as laid down in
+Regulation (EC) No.648/2004 on detergents. Data to support this assertion are held at the disposal of the competent
+authorities of the Member States and will be made available to them, at their direct request or at the request of a detergent
+manufacturer.
+Do not allow undiluted product or large quantities of it to reach ground water, water course or sewage system.
+Rinse off of bigger amounts into drains or the aquatic environment may lead to increased pH-values. A high pH-value
+harms aquatic organisms. In the dilution of the use-level the pH-value is considerably reduced, so that after the use of the
+product the aqueous waste, emptied into drains, is only low water-dangerous.
+SECTION 13: Disposal considerations
+· 13.1 Waste treatment methods
+· Recommendation
+Must not be disposed together with household garbage. Do not allow product to reach sewage system.
+Must be specially treated adhering to official regulations.
+· European waste catalogue
+20 01 29* detergents containing hazardous substances
+· Uncleaned packaging:
+· Recommendation:
+Empty contaminated packagings thoroughly. They may be recycled after thorough and proper cleaning.
+· Recommended cleansing agents: Water, if necessary together with cleaning agents.
+SECTION 14: Transport information
+· 14.1 UN number or ID number
+· ADR, IMDG, IATA UN1824
+· 14.2 UN proper shipping name
+· ADR 1824 SODIUM HYDROXIDE SOLUTION
+· IMDG, IATA SODIUM HYDROXIDE SOLUTION
+(Contd. on page 10)
+ GB
+
+[[page 10]]
+Page 10/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 9)
+62.0.14
+· 14.3 Transport hazard class(es)
+· ADR
+· Class 8 (C5) Corrosive substances.
+· Label 8 
+· IMDG, IATA
+· Class 8 Corrosive substances.
+· Label 8 
+· 14.4 Packing group
+· ADR, IMDG, IATA III
+· 14.5 Environmental hazards: Not applicable
+· 14.6 Special precautions for user Warning: Corrosive substances.
+· Hazard identification number (Kemler code): 80
+· EMS Number: F-A,S-B
+· Segregation groups (SGG18) Alkalis
+· Stowage Category A 
+· Segregation Code SG35 Stow "separated from" SGG1-acids
+· 14.7 Maritime transport in bulk according to IMO
+instruments Not applicable
+· Transport/Additional information:
+· ADR
+· Limited quantities (LQ) 5L
+· Excepted quantities (EQ) Code: E1
+Maximum net quantity per inner packaging: 30 ml
+Maximum net quantity per outer packaging: 1000 ml
+· Transport category 3 
+· Tunnel restriction code E 
+· IMDG
+· Limited quantities (LQ) 5L
+· Excepted quantities (EQ) Code: E1
+Maximum net quantity per inner packaging: 30 ml
+Maximum net quantity per outer packaging: 1000 ml
+(Contd. on page 11)
+ GB
+
+[[page 11]]
+Page 11/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 10)
+62.0.14
+· UN "Model Regulation": UN 1824 SODIUM HYDROXIDE SOLUTION, 8, III
+SECTION 15: Regulatory information
+· 15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+· Poisons Act
+· Regulated explosives precursors
+None of the ingredients is listed.
+· Regulated poisons
+None of the ingredients is listed.
+· Reportable explosives precursors
+None of the ingredients is listed.
+· Reportable poisons
+1310-73-2 sodium hydroxide 12% of total caustic alkalinity
+1310-58-3 potassium hydroxide 17% of total caustic alkalinity
+· Directive 2012/18/EU
+· Named dangerous substances - ANNEX I None of the ingredients is listed.
+· National regulations
+· Information about limitation of use: Employment restrictions concerning juveniles must be observed.
+· 15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+SECTION 16: Other information
+This information is based on our present knowledge. However, this shall not constitute a guarantee for any specific product
+features and shall not establish a legally valid contractual relationship.
+A product information sheet can be provided if requested.
+· Relevant phrases
+H290 May be corrosive to metals.
+H302 Harmful if swallowed.
+H314 Causes severe skin burns and eye damage.
+H315 Causes skin irritation.
+H318 Causes serious eye damage.
+H319 Causes serious eye irritation.
+H335 May cause respiratory irritation.
+H400 Very toxic to aquatic life.
+H411 Toxic to aquatic life with long lasting effects.
+· Contact:
+Regulatory Affairs
+Tel.: +49-7195-14-0
+productsafety.management.de@karcher.com
+(Contd. on page 12)
+ GB
+
+[[page 12]]
+Page 12/12
+Safety data sheet
+according to UK REACH
+Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+Trade name: PressurePro Facade Cleaner, Gel RM 43
+(Contd. of page 11)
+62.0.14
+· Abbreviations and acronyms:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the International Carriage of
+Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+DNEL: Derived No-Effect Level (UK REACH)
+PNEC: Predicted No-Effect Concentration (UK REACH)
+LC50: Lethal concentration, 50 percent
+LD50: Lethal dose, 50 percent
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+Met. Corr.1: Corrosive to metals – Category 1
+Acute Tox. 4: Acute toxicity – Category 4
+Skin Corr. 1A: Skin corrosion/irritation – Category 1A
+Skin Corr. 1B: Skin corrosion/irritation – Category 1B
+Skin Irrit. 2: Skin corrosion/irritation – Category 2
+Eye Dam. 1: Serious eye damage/eye irritation – Category 1
+STOT SE 3: Specific target organ toxicity (single exposure) – Category 3
+Aquatic Acute 1: Hazardous to the aquatic environment - acute aquatic hazard – Category 1
+Aquatic Chronic 2: Hazardous to the aquatic environment - long-term aquatic hazard – Category 2
+· * Data compared to the previous version altered.   
+·    0·011-667·0                    RM 43/3                    2·921
+ GB

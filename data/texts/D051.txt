@@ -1,0 +1,587 @@
+[[page 1]]
+___________________________________________________________________________________________  
+SAFETY DATA SHEET
+This safety data sheet was created pursuant to the requirements of:
+Regulation (EC) No. 1907/2006 and Regulation (EC) No. 1272/2008
+This SDS is for generic information purposes and does not reflect required country specific 
+information for OEL  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+SECTION 1: Identification of the substance/mixture and of the company/undertaking 
+1.1. Product Identifier  
+Product Name 
+Pure substance/mixture 
+BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Mixture  
+1.2. Relevant identified uses of the substance or mixture and uses advised against 
+Recommended use Building and construction work. Cement. 
+Uses advised against None known.  
+1.3. Details of the supplier of the safety data sheet 
+E-mail address SDS.box-EU@bostik.com  
+1.4. Emergency telephone number  
+Emergency Telephone 
+SECTION 2: Hazards identification 
+2.1. Classification of the substance or mixture 
+Regulation (EC) No 1272/2008 
+Skin corrosion/irritation Category 2  - (H315)  
+Serious eye damage/eye irritation Category 1  - (H318)  
+Specific target organ toxicity (single exposure) Category 3  - (H335)  
+2.2. Label Elements  
+Contains: Cement, portland, chemicals (Chromium VI reduced), Flue dust, Cement Portland 
+Signal word
+DANGER  
+Hazard statements 
+H315 - Causes skin irritation.
+H318 - Causes serious eye damage.
+Company Name
+Bostik AB 
+Strandbadsvaegen 22 
+PO Box 903 
+25109 Helsingborg, Sweden 
+Tel: +46 42 19 50 00 
+Fax: +46 42 19 50 20  
+Europe  - BE  Page   1 / 12
+
+[[page 2]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+H335 - May cause respiratory irritation.  
+Precautionary statements
+P102 - Keep out of reach of children.
+P261 - Avoid breathing dust/fume/gas/mist/vapours/spray.
+P280 - Wear protective gloves and eye/face protection.
+P284 - Wear respiratory protection.
+P302 + P352 - IF ON SKIN: Wash with plenty of water and soap.
+P305 + P351 + P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and 
+easy to do. Continue rinsing.  
+Additional information
+Cement product for which the amount of chromium VI was decreased to < 0,0002 % by a reduction agent (related to the total 
+dry weight).  
+2.3. Other Hazards  
+Product dust may be irritating to eyes, skin and respiratory system
+When cement reacts with water a strong alkaline solution is produced.  Prolonged contact with wet cement or wet concrete 
+may cause serious burns because they develop without pain being felt e.g. when kneeling in wet cement even when wearing 
+trousers
+Frequent inhalation of large quantities of cement dust over a long period of time increases the risk of developing lung disease 
+PBT & vPvB
+This mixture contains no substance considered to be persistent, bioaccumulating or toxic (PBT) This mixture contains no 
+substance considered to be very persistent nor very bioaccumulating (vPvB)  
+SECTION 3: Composition/information on ingredients 
+3.1  Substances  
+Not applicable  
+3.2. Mixtures  
+Chemical name EC No CAS No Weight-% Classification 
+according to 
+Regulation (EC) 
+No. 1272/2008 
+[CLP] 
+Specific 
+concentration limit 
+(SCL) 
+REACH 
+Registration 
+Number 
+Quartz 238-878-4 14808-60-7 40 - <80 ^ [4] 
+Cement, portland, 
+chemicals (Chromium VI 
+reduced) 
+266-043-4 65997-15-1 >25 - <40 STOT SE 3 
+(H335) 
+ Skin Irrit. 2 
+(H315) 
+ Eye Dam. 1 
+(H318) 
+Exempt 
+Flue dust, Cement 
+Portland 
+270-659-9 68475-76-3 1 - <2.5 STOT SE 3 
+(H335) 
+ Skin Irrit. 2 
+(H315) 
+ Eye Dam. 1 
+(H318) 
+01-2119486767-
+17-XXXX
+Calcium hydroxide 215-137-3 1305-62-0 0.1- <1 STOT SE 3 
+(H335) 
+ Skin Irrit. 2 
+(H315) 
+ Eye Dam. 1 
+(H318) 
+01-2119475151-
+45-XXXX
+Europe  - BE  Page   2 / 12
+
+[[page 3]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+Full text of H- and EUH-phrases: see section 16 
+Note:  ^ indicates not classified, however, the substance is listed in section 3 as it has an OEL 
+This product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No. 
+1907/2006 (REACH), Article 59)  
+SECTION 4: First aid measures 
+4.1. Description of first aid measures 
+General advice If medical advice is needed, have product container or label at hand.  
+Inhalation Remove to fresh air. Get medical attention immediately if symptoms occur. 
+Eye contact Immediately flush with plenty of water. After initial flushing, remove any contact lenses 
+and continue flushing for at least 15 minutes. Consult an ophthalmologist.  
+Skin contact Wash off immediately with soap and plenty of water for at least 15 minutes. Get medical 
+attention if irritation develops and persists.  
+Ingestion Do NOT induce vomiting. Never give anything by mouth to an unconscious person. 
+Clean mouth with water. Drink 1 or 2 glasses of water. Call a doctor or poison control 
+centre immediately.  
+Self-protection of the first aider Avoid contact with skin, eyes or clothing. Wear personal protective clothing (see section 
+8).  
+4.2. Most important symptoms and effects, both acute and delayed 
+Symptoms Causes serious eye damage. Inhalation of dust in high concentration may cause irritation 
+of respiratory system. Irritating to skin.  
+4.3. Indication of any immediate medical attention and special treatment needed 
+Note to doctors Treat symptomatically.  
+SECTION 5: Firefighting measures 
+5.1. Extinguishing media  
+Suitable extinguishing media Use extinguishing measures that are appropriate to local circumstances and the 
+surrounding environment.  
+Unsuitable extinguishing media Full water jet. Do not scatter spilled material with high pressure water streams. 
+5.2. Special hazards arising from the substance or mixture  
+Specific hazards arising from the 
+chemical 
+Thermal decomposition can lead to release of toxic and corrosive gases/vapours. 
+5.3. Advice for firefighters  
+Special protective equipment for 
+fire-fighters 
+Firefighters should wear self-contained breathing apparatus and full firefighting turnout 
+gear. Use personal protection equipment.  
+Europe  - BE  Page   3 / 12 
+SECTION 6: Accidental release measures
+
+[[page 4]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+6.1. Personal precautions, protective equipment and emergency procedures  
+Personal precautions Avoid generation of dust. Do not get in eyes, on skin, or on clothing. Use personal 
+protective equipment as required.  
+Other information Ventilate the area. Prevent further leakage or spillage if safe to do so. 
+For emergency responders Use personal protection recommended in Section 8. Sweep up to prevent slipping 
+hazard.  
+6.2. Environmental precautions  
+Environmental precautions Prevent entry into waterways, sewers, basements or confined areas. Do not flush into 
+surface water or sanitary sewer system. Prevent further leakage or spillage if safe to do 
+so. See Section 12 for additional Ecological Information.  
+6.3. Methods and material for containment and cleaning up 
+Methods for containment Cover powder spill with plastic sheet or tarp to minimise spreading and keep powder dry. 
+Prevent dust cloud.  
+Methods for cleaning up Take up mechanically, placing in appropriate containers for disposal. 
+6.4. Reference to other sections  
+Reference to other sections See section 8 for more information. See section 13 for more information. 
+SECTION 7: Handling and storage 
+7.1. Precautions for safe handling  
+Advice on safe handling Ensure adequate ventilation. Avoid generation of dust. Avoid contact with skin, eyes or 
+clothing. Use personal protective equipment as required.  
+General hygiene considerations Do not eat, drink or smoke when using this product. Wash hands before breaks and after 
+work. Take off all contaminated clothing and wash it before reuse.  
+7.2. Conditions for safe storage, including any incompatibilities 
+Storage Conditions Keep the packing dry and well sealed to prevent contamination and absorption of 
+humidity. After absorption of moisture or exceeding the shelf life the reducing agent for 
+chromate will lose its efficiency and sensitisation by skin contact  may occur.  
+7.3. Specific end use(s)  
+Specific Use(s)
+Building and construction work. Cement. 
+Risk Management Methods (RMM) The information required is contained in this Safety Data Sheet. 
+Other information Observe technical data sheet.  
+SECTION 8: Exposure controls/personal protection 
+8.1. Control parameters  
+Exposure Limits 
+Europe  - BE  Page   4 / 12 
+Only European Community Occupational Exposure Limits will be shown in this document.  Please refer to regional
+
+[[page 5]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+SDS for further information.  
+Chemical name European Union 
+Quartz 
+ 14808-60-7 
+TWA: 0.1 mg/m3 
+Derived No Effect Level (DNEL) No information available  
+Derived No Effect Level (DNEL) 
+Quartz (14808-60-7) 
+Calcium hydroxide (1305-62-0) 
+Type Exposure route Derived No Effect Level 
+(DNEL) 
+Safety factor 
+worker Short term Local health 
+effects 
+Inhalation 4 mg/m³ 
+worker Long term Local health 
+effects 
+Inhalation 1 mg/m³ 
+Derived No Effect Level (DNEL) 
+Calcium hydroxide (1305-62-0) 
+Type Exposure route Derived No Effect Level 
+(DNEL) 
+Safety factor 
+Consumer Short term Local health 
+effects 
+Inhalation 4 mg/m³ 
+Consumer Long term Local health 
+effects 
+Inhalation 1 mg/m³ 
+Predicted No Effect Concentration 
+(PNEC) 
+No information available.  
+Predicted No Effect Concentration (PNEC) 
+Calcium hydroxide (1305-62-0) 
+Environmental compartment Predicted No Effect Concentration (PNEC) 
+Freshwater 0.49 mg/l 
+Marine water 0.32 mg/l 
+Sewage treatment plant 3 mg/l 
+Soil 1080 mg/kg dry weight 
+8.2. Exposure controls  
+Engineering controls Ensure adequate ventilation, especially in confined areas. 
+Personal Protective Equipment 
+Eye/face protection Wear safety glasses with side shields (or goggles).  Eye protection must conform to 
+standard EN 166  
+Hand protection Wear suitable gloves. Gloves must conform to standard EN 374. Recommended Use:. 
+Nitrile rubber. The breakthrough time for the mentioned glove material is in general 
+greater than 480 min. Ensure that the breakthrough time of the glove material is not 
+exceeded. Refer to glove supplier for information on breakthrough time for specific 
+gloves. Gloves should be replaced regularly and if there is any sign of damage to the 
+glove material. Unsuitable gloves materials:. Leather.  
+Skin and body protection Wear appropriate personal protective clothing to prevent skin contact.  
+Respiratory protection Avoid generation of dust. Ensure adequate ventilation, especially in confined areas. In 
+case of inadequate ventilation wear respiratory protection.  
+Recommended filter type: Particle filter device (DIN EN 143).  
+Environmental exposure controls Do not allow into any sewer, on the ground or into any body of water. 
+SECTION 9: Physical and chemical properties 
+Europe  - BE  Page   5 / 12
+
+[[page 6]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+9.1. Information on basic physical and chemical properties  
+Physical state Solid  
+Appearance Powder  
+Colour Grey  
+Odour Characteristic  
+Odour threshold No information available  
+Explosive properties No data available  
+Oxidising properties No data available  
+9.2. Other information  
+Solid content (%) 100  
+Softening Point Not relevant  
+Bulk density 1.6  
+SECTION 10: Stability and reactivity 
+10.1. Reactivity  
+Reactivity No information available.  
+10.2. Chemical stability  
+Stability Stable under normal conditions.  
+Explosion Data 
+Sensitivity to mechanical 
+impact 
+None.  
+Sensitivity to static discharge None.  
+10.3. Possibility of hazardous reactions  
+Possibility of hazardous reactions None under normal processing.  
+10.4. Conditions to avoid  
+Property Values  Remarks  • Method 
+pH Not applicable  .   
+pH (as aqueous solution) > 11
+Melting point / freezing point Not applicable  .  °C
+Boiling point / boiling range .  °C
+Flash point .  °C
+Evaporation rate Not applicable  .
+Flammability (solid, gas) No data available
+Flammability Limit in Air 
+Upper flammability or explosive 
+limits 
+No data available  
+Lower flammability or explosive 
+limits 
+No data available  
+Vapour pressure No data available  
+Vapour density No data available  
+Relative density No data available  
+Water solubility Reacts with water  
+Solubility(ies) No data available  
+Partition coefficient No data available  
+Autoignition temperature No data available  
+Decomposition temperature No data available  
+Kinematic viscosity Not applicable  .  mm²/s 
+Dynamic viscosity Not applicable  .  
+VOC Content (%) No information available   
+Density No information available  g/cm³ 
+Europe  - BE  Page   6 / 12
+
+[[page 7]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+Conditions to avoid Protect from moisture. Product cures with moisture.  
+10.5. Incompatible materials 
+Incompatible materials Strong acids. Strong bases. Strong oxidising agents. 
+10.6. Hazardous decomposition products  
+Hazardous decomposition 
+products 
+None under normal use conditions. Stable under recommended storage conditions. 
+SECTION 11: Toxicological information 
+11.1. Information on toxicological effects 
+Information on likely routes of exposure 
+Product Information . 
+Inhalation Inhalation of dust in high concentration may cause irritation of respiratory system. 
+Eye contact Causes serious eye damage.  
+Skin contact Causes skin irritation.  
+Ingestion Based on available data, the classification criteria are not met.  
+Symptoms related to the physical, chemical and toxicological characteristics 
+Symptoms Redness. Burning. May cause blindness. May cause redness and tearing of the eyes. 
+Numerical measures of toxicity 
+Acute Toxicity  
+The following values are calculated based on chapter 3.1 of the GHS document 
+ATEmix (dermal) 51,835.40  mg/kg  
+Component Information 
+Chemical name Oral LD50 Dermal LD50 Inhalation LC50 
+Quartz 
+ 14808-60-7 
+>2000 mg/kg  (Rattus)
+Cement, portland, chemicals 
+(Chromium VI reduced) 
+ 65997-15-1 
+>2000 Kg/mg (Lapin) >5 g/m3 (Rattus)
+Calcium hydroxide 
+ 1305-62-0 
+=7340 mg/kg  (Rattus) LD50 > 2500 mg/kg bw (OECD 
+402, Oryctolagus cuniculus) 
+Delayed and immediate effects as well as chronic effects from short and long-term exposure 
+Skin corrosion/irritation Causes skin irritation.  
+Component Information 
+Calcium hydroxide (1305-62-0) 
+Method Species Exposure route Effective dose Exposure time Results 
+OECD Test No. 404: 
+Acute Dermal 
+Irritation/Corrosion 
+Rabbit Dermal irritant 
+Europe  - BE  Page   7 / 12
+
+[[page 8]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+Serious eye damage/eye irritation Causes serious eye damage.  
+Component Information 
+Calcium hydroxide (1305-62-0) 
+Method Species Exposure route Effective dose Exposure time Results 
+Rabbit eye Eye Damage 
+Respiratory or skin sensitisation Based on available data, the classification criteria are not met. 
+Germ cell mutagenicity Based on available data, the classification criteria are not met. 
+Carcinogenicity Based on available data, the classification criteria are not met. 
+Reproductive toxicity Based on available data, the classification criteria are not met. 
+STOT - single exposure May cause respiratory irritation.  
+STOT - repeated exposure Based on available data, the classification criteria are not met. 
+Aspiration hazard Based on available data, the classification criteria are not met. 
+SECTION 12: Ecological information 
+12.1. Toxicity  
+Ecotoxicity . 
+Chemical name Algae/aquatic 
+plants 
+Fish Toxicity to 
+Micro-organisms 
+Crustacea M-Factor M-Factor
+(long-term)
+Calcium hydrox
+ide 
+ 1305-62-0 
+EC50 = 184.57 
+g/ml (72Hr) 
+LC50: 
+=160mg/L (96h, 
+Gambusia 
+affinis) 
+- EC50 = 49.1 
+g/ml (48 hr) 
+12.2. Persistence and degradability  
+Persistence and degradability No information available.  
+12.3. Bioaccumulative potential  
+Bioaccumulation No information available.  
+Chemical name Partition coefficient Bioconcentration factor (BCF) 
+Quartz 
+ 14808-60-7 
+- 0 
+12.4. Mobility in soil  
+Mobility in soil No information available.  
+Europe  - BE  Page   8 / 12 
+12.5. Results of PBT and vPvB assessment
+
+[[page 9]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+PBT and vPvB assessment The components in this formulation do not meet the criteria for classification as PBT or 
+vPvB.  
+Chemical name PBT and vPvB assessment 
+Flue dust, Cement Portland 
+ 68475-76-3 
+PBT assessment does not apply 
+Calcium hydroxide 
+ 1305-62-0 
+The substance is not PBT / vPvB
+PBT assessment does not apply 
+12.6. Other adverse effects 
+Other adverse effects No information available.  
+SECTION 13: Disposal considerations 
+13.1. Waste treatment methods  
+Waste from residues/unused 
+products 
+Dispose of contents/container in accordance with local, regional, national, and 
+international regulations as applicable.  
+Contaminated packaging Do not reuse empty containers. Handle contaminated packages in the same way as the 
+product itself.  
+European Waste Catalogue 16 03 03* inorganic wastes containing hazardous substances
+17 09 04 mixed construction and demolition wastes other than those mentioned in 17 09 
+01, 17 09 02 and 17 09 03  
+Other information Waste codes should be assigned by the user based on the application for which the 
+product was used.  
+SECTION 14: Transport information 
+Land transport (ADR/RID) 
+14.1  UN Number Not regulated  
+14.2  Proper Shipping Name Not regulated  
+14.3  Transport hazard class(es) Not regulated  
+14.4  Packing Group Not regulated  
+14.5  Environmental hazards Not applicable  
+14.6  Special Provisions None 
+IMDG 
+14.1  UN number Not regulated  
+14.2  Proper Shipping Name Not regulated  
+14.3  Transport hazard class(es) Not regulated  
+14.4  Packing group Not regulated  
+14.5  Marine Pollutant Np 
+14.6  Special Provisions None 
+14.7  Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable  
+Air transport (ICAO-TI / IATA-DGR) 
+14.1  UN number Not regulated  
+14.2  Proper Shipping Name Not regulated  
+14.3  Transport hazard class(es) Not regulated  
+14.4  Packing group Not regulated  
+14.5  Environmental hazards Not applicable  
+14.6  Special Provisions None 
+Europe  - BE  Page   9 / 12
+
+[[page 10]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+Section 15: REGULATORY INFORMATION 
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture 
+European Union 
+Take note of Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents 
+at work   
+Check whether measures in accordance with Directive 94/33/EC for the protection of young people at work must be taken. 
+Take note of Directive 92/85/EC on the protection of pregnant and breastfeeding women at work   
+Registration, Evaluation, Authorization, and Restriction of Chemicals (REACh) Regulation (EC 1907/2006)
+SVHC: Substances of Very High Concern for Authorisation:
+This product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No. 
+1907/2006 (REACH), Article 59)  
+EU-REACH (1907/2006) - Annex XVII - Substances subject to Restriction
+This product contains one or more substance(s) subject to restriction (Regulation (EC) No. 1907/2006 (REACH), Annex XVII). 
+Chemical name CAS No Restricted substance per REACH 
+Annex XVII 
+Cement, portland, chemicals (Chromium VI reduced) 65997-15-1 item 47 
+Cellulose 9004-34-6 9[f] 
+ 47  where product supplied with reducing agent the packaging must be marked with the storage conditions and storage 
+period appropriate to maintaining the activity of the reducing agent to keep the content of soluble chromium VI below 2mg/Kg 
+Substance subject to authorisation per REACH Annex XIV
+This product does not contain substances subject to authorisation (Regulation (EC) No. 1907/2006 (REACH), Annex XIV) 
+Ozone-depleting substances (ODS) regulation (EC) 1005/2009
+Not applicable  
+Persistent Organic Pollutants
+Not applicable  
+National Regulations 
+France 
+Occupational Illnesses (R-463-3, France) 
+Chemical name French RG number 
+Quartz 
+ 14808-60-7 
+RG 25 
+Cement, portland, chemicals (Chromium VI reduced) 
+ 65997-15-1 
+RG 8,RG 10 RG 8 
+Germany  
+Europe  - BE  Page  10 / 12 
+Ordinance on Industrial Safety and Health - Germany - BetrSichV
+No flammable liquids in accordance with BetrSichV
+
+[[page 11]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+Water hazard class (WGK) slightly hazardous to water (WGK 1)  
+Netherlands 
+List of Carcinogenic, mutagenic and reproductive toxin substances in accordance with Inspectorate SZW 
+(Netherlands)
+Chemical name Netherlands 
+Quartz 
+ 14808-60-7 
+Present (respirable dust, crystalline) 
+MAL-Code  00-4 
+Sweden
+Occupational exposure limits AFS 2018:1
+Swedish Work Environment Authority's Statute (AFS 2015:2) QUARTZ AFS 2015:2
+Special care should be applied for employees under the age of 18. Young people under the age of 18 may not carry out any 
+work causing harmful exposure to this product. AFS 2012:3  
+15.2. Chemical safety assessment 
+Chemical Safety Assessments have been carried out by the Reach registrants for substances registered at >10 tpa.   No 
+Chemical Safety Assessment has been carried out for this mixture  
+SECTION 16: Other information 
+Key or legend to abbreviations and acronyms used in the safety data sheet
+Full text of H-Statements referred to under section 3
+H315 - Causes skin irritation
+H318 - Causes serious eye damage
+H335 - May cause respiratory irritation  
+Legend  
+TWA TWA (time-weighted average) 
+STEL STEL (Short Term Exposure Limit) 
+Ceiling Ceiling Limit Value 
+* Skin designation 
+SVHC Substance(s) of Very High Concern 
+PBT Persistent, Bioaccumulative, and Toxic (PBT) Chemicals  
+vPvB Very Persistent and very Bioaccumulative (vPvB) Chemicals 
+STOT RE Specific target organ toxicity - Repeated exposure  
+STOT SE Specific target organ toxicity - Single exposure  
+EWC European Waste Catalogue  
+Key literature references and sources for data
+No information available  
+Prepared By Product Safety & Regulatory Affairs  
+Revision date 19-May-2020
+Indication of changes 
+Revision note Not applicable.  
+Training Advice No information available  
+Further information No information available  
+Europe  - BE  Page  11 / 12
+
+[[page 12]]
+SAFETY DATA SHEET
+___________________________________________________________________________________________  
+Revision date  19-May-2020  BOSTIK TILE ADHESIVE 8020 FLOOR&WALL 
+Supercedes Date:  19-May-2020  Revision Number  1 
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006
+Disclaimer
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the date of 
+its publication. The information given is designed only as a guidance for safe handling, use, processing, storage, 
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information relates only 
+to the specific material designated and may not be valid for such material used in combination with any other materials or in 
+any process, unless specified in the text.  
+End of Safety Data Sheet  
+Europe  - BE  Page  12 / 12

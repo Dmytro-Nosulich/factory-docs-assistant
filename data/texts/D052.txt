@@ -1,0 +1,523 @@
+[[page 1]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 1 of 10
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1. Product identifier
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+UFI: K6CW­UKXY­000E­SSPK
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+Use of the substance/mixture
+Radiator antifreeze
+1.3. Details of the supplier of the safety data sheet
+Company name: ROWE Mineralölwerk GmbH
+Street: Langgewann 101
+Place: D­67547 Worms
+Telephone: +49 (0)6241 5906­0 Telefax: +49 (0)6241 5906­999
+E­mail: info@rowe­oil.com
+Contact person: Product Compliance
+E­mail (Contact person): sdb@rowe­oil.com
+Internet: www.rowe­oil.com
+1.4. Emergency telephone 
+number:
+Ireland: Public (8am­10pm) +353 180 921 66, Healthcare Professionals +353
+1809 2566 other Countries: Emergency CONTACT (24­Hour­Number): GBK
+GmbH +49 (0)6132­84463
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+Regulation (EC) No 1272/2008
+Acute Tox. 4; H302
+STOT RE 2; H373
+Full text of hazard statements: see SECTION 16.
+2.2. Label elements
+Regulation (EC) No 1272/2008
+Hazard components for labelling
+ethanediol; ethylene glycol
+Signal word:
+Warning
+Pictograms:
+Hazard statements
+H302 Harmful if swallowed.
+H373 May cause damage to organs through prolonged or repeated exposure.
+Precautionary statements
+P260 Do not breathe dust/fume/gas/mist/vapours/spray.
+P264 Wash hands thoroughly after handling.
+P270 Do not eat, drink or smoke when using this product.
+P301+P312 IF SWALLOWED: Call a POISON CENTER/doctor if you feel unwell.
+P330 Rinse mouth.
+P314 Get medical advice/attention if you feel unwell.
+P501 Dispose of contents/container to of the disposal according to local regulations.
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 2]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 2 of 10
+2.3. Other hazards
+No information available.
+SECTION 3: Composition/information on ingredients
+3.2. Mixtures
+Relevant ingredients
+CAS No Chemical name Quantity
+EC No Index No REACH No
+Classification (Regulation (EC) No 1272/2008)
+107­21­1 ethanediol; ethylene glycol 30 ­ < 60 %
+203­473­3 603­027­00­1 01­2119456816­28
+Acute Tox. 4, STOT RE 2; H302 H373
+Full text of H and EUH statements: see section 16.
+Specific Conc. Limits, M­factors and ATE
+CAS No EC No Chemical name Quantity
+Specific Conc. Limits, M­factors and ATE
+107­21­1 203­473­3 ethanediol; ethylene glycol 30 ­ < 60 %
+dermal: LD50 = 10600 mg/kg; oral: LD50 = 4700 mg/kg
+SECTION 4: First aid measures
+4.1. Description of first aid measures
+General information
+When in doubt or if symptoms are observed, get medical advice.
+After inhalation
+Provide fresh air. Medical treatment necessary.
+After contact with skin
+Take off contaminated clothing and wash it before reuse. After contact with skin, wash immediately with plenty of
+water and soap. Medical treatment necessary.
+After contact with eyes
+Rinse immediately carefully and thoroughly with eye­bath or water. In case of eye irritation consult an
+ophthalmologist.
+After ingestion
+Observe risk of aspiration if vomiting occurs. If accidentally swallowed rinse the mouth with plenty of water (only if
+the person is conscious) and obtain immediate medical attention.
+4.2. Most important symptoms and effects, both acute and delayed
+No information available.
+4.3. Indication of any immediate medical attention and special treatment needed
+Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1. Extinguishing media
+Suitable extinguishing media
+Water spray jet. alcohol resistant foam. Carbon dioxide (CO2).
+Co­ordinate fire­fighting measures to the fire surroundings.
+5.2. Special hazards arising from the substance or mixture
+Non­flammable. Vapours can form explosive mixtures with air.
+5.3. Advice for firefighters
+In case of fire: Wear self­contained breathing apparatus. Full protection suit.
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 3]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 3 of 10
+Additional information
+Use water spray jet to protect personnel and to cool endangered containers. Collect contaminated fire
+extinguishing water separately. Do not allow entering drains or surface water.
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+General advice
+Remove all sources of ignition. Do not breathe gas/fumes/vapour/spray. Avoid contact with skin, eyes and
+clothes.
+For non­emergency personnel
+Provide adequate ventilation. Use personal protection equipment. Remove persons to safety.
+For emergency responders
+Wear personal protection equipment (refer to section 8).
+6.2. Environmental precautions
+Do not allow uncontrolled discharge of product into the environment.
+6.3. Methods and material for containment and cleaning up
+For containment
+Prevent spread over a wide area (e.g. by containment or oil barriers). Cover drains. Stop leak if safe to do so.
+For cleaning up
+Absorb with liquid­binding material (sand, diatomaceous earth, acid­ or universal binding agents). Treat the
+recovered material as prescribed in the section on waste disposal.
+Other information
+Clean contaminated articles and floor according to the environmental legislation.
+6.4. Reference to other sections
+Safe handling: see section 7
+Personal protection equipment: see section 8
+Disposal: see section 13
+SECTION 7: Handling and storage
+7.1. Precautions for safe handling
+Advice on safe handling
+Provide adequate ventilation. Do not breathe gas/fumes/vapour/spray. Avoid contact with eyes and skin. Use
+personal protection equipment.
+Advice on protection against fire and explosion
+Usual measures for fire prevention.
+Advice on general occupational hygiene
+Remove contaminated, saturated clothing immediately. Draw up and observe skin protection programme. Wash
+hands before breaks and after work. When using do not eat, drink, smoke, sniff.
+7.2. Conditions for safe storage, including any incompatibilities
+Requirements for storage rooms and vessels
+Keep container tightly closed in a cool, well­ventilated place. Store in a dry place.
+Hints on joint storage
+Do not store together with: Oxidizing agent, Reducing agent, Strong acid, Strong alkali.
+Further information on storage conditions
+Keep away from heat.
+maximum storage temperature: 80 °C
+7.3. Specific end use(s)
+Lubricating agent, Additive
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 4]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 4 of 10
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+Occupational exposure limits
+CAS No Substance ppm mg/m³ fib/cm³ Category Origin
+107­21­1 1,2­Dihydroxyethane, vapour 20 52 TWA (8 h)
+40 104 STEL (15 min)
+107­21­1 Ethane­1,2­diol, vapour 20 52 TWA (8 h)
+40 104 STEL (15 min)
+107­21­1 Ethylene glycol, vapour 20 52 TWA (8 h)
+40 104 STEL (15 min)
+57­55­6 Propane­1,2­diol, particulates ­ 10 TWA (8 h)
+57­55­6 Propane­1,2­diol, total (vapour and particulates) 150 470 TWA (8 h)
+DNEL/DMEL values
+CAS No Substance
+DNEL type Exposure route Effect Value
+107­21­1 ethanediol; ethylene glycol
+Worker DNEL, long­term inhalation local 35 mg/m³
+Worker DNEL, long­term dermal systemic 106 mg/kg bw/day
+Consumer DNEL, long­term inhalation local 7 mg/m³
+Consumer DNEL, long­term dermal systemic 53 mg/kg bw/day
+57­55­6 Propane 1,2 ­diol
+Worker DNEL, long­term inhalation local 10 mg/m³
+Worker DNEL, long­term inhalation systemic 168 mg/m³
+Consumer DNEL, long­term inhalation systemic 50 mg/m³
+Consumer DNEL, long­term inhalation local 10 mg/m³
+PNEC values
+CAS No Substance
+Environmental compartment Value
+107­21­1 ethanediol; ethylene glycol
+Freshwater 10 mg/l
+Freshwater (intermittent releases) 10 mg/l
+Marine water 1 mg/l
+Freshwater sediment 37 mg/kg
+Marine sediment 3,7 mg/kg
+Microorganisms in sewage treatment plants (STP) 199,5 mg/l
+Soil 1,53 mg/kg
+57­55­6 Propane 1,2 ­diol
+Freshwater 260 mg/l
+Freshwater (intermittent releases) 183 mg/l
+Marine water 26 mg/l
+Freshwater sediment 572 mg/kg
+Marine sediment 57,2 mg/kg
+Microorganisms in sewage treatment plants (STP) 20000 mg/l
+Soil 50 mg/kg
+8.2. Exposure controls
+Appropriate engineering controls
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 5]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 5 of 10
+Provide adequate ventilation as well as local exhaustion at critical locations.
+Individual protection measures, such as personal protective equipment
+Eye/face protection
+Wear eye protection/face protection. (EN 166)
+Hand protection
+Tested protective gloves must be worn (EN ISO 374)
+When handling with chemical substances, protective gloves must be worn with the CE­label including the four
+control digits. The quality of the protective gloves resistant to chemicals must be chosen as a function of the
+specific working place concentration and quantity of hazardous substances. For special purposes, it is
+recommended to check the resistance to chemicals of the protective gloves mentioned above together with the
+supplier of these gloves.
+Skin protection
+Wear suitable protective clothing.
+Respiratory protection
+In case of inadequate ventilation wear respiratory protection.
+Thermal hazards
+No information available.
+Environmental exposure controls
+Avoid release to the environment.
+SECTION 9: Physical and chemical properties
+9.1. Information on basic physical and chemical properties
+Physical state: Liquid
+Colour: colourless
+Odour: No information available.
+Odour threshold: not determined
+Test method
+Melting point/freezing point: ­40 °C
+Boiling point or initial boiling point and
+boiling range:
+108 °C
+Flammability: Non­flammable. Vapours can form
+explosive mixtures with air.
+Lower explosion limits: not determined
+Upper explosion limits: not determined
+Flash point: 135 °C
+Auto­ignition temperature: not determined
+Decomposition temperature: not determined
+pH­Value: 7,8 ASTM D 1287
+Viscosity / kinematic: not determined
+Water solubility: easily soluble
+Solubility in other solvents
+not determined
+Partition coefficient n­octanol/water: not determined
+Vapour pressure: not determined
+Density (at 20 °C): 1,07 g/cm³ ASTM D 1122
+Relative vapour density: not determined
+Particle characteristics: not applicable
+9.2. Other information
+Information with regard to physical hazard classes
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 6]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 6 of 10
+Explosive properties
+The product is not: Explosive.
+Oxidizing properties
+The product is not: oxidising.
+Further Information
+No information available.
+SECTION 10: Stability and reactivity
+10.1. Reactivity
+No hazardous reaction when handled and stored according to provisions.
+10.2. Chemical stability
+The product is stable under storage at normal ambient temperatures.
+10.3. Possibility of hazardous reactions
+No known hazardous reactions.
+10.4. Conditions to avoid
+none
+10.5. Incompatible materials
+Oxidizing agent, Reducing agent, Strong acid, Strong alkali.
+10.6. Hazardous decomposition products
+In case of fire may be liberated: Carbon monoxide (CO), Carbon dioxide (CO2), Pyrolysis products, toxic.
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Acute toxicity
+Harmful if swallowed.
+ATEmix calculated
+ATE (oral) 1197 mg/kg; ATE (dermal) > 2000 mg/kg; ATE (inhalation vapour) > 20 mg/l; ATE (inhalation
+dust/mist) > 5 mg/l
+CAS No Chemical name
+Exposure route Dose Species Source Method
+107­21­1 ethanediol; ethylene glycol
+oral LD50 4700 mg/kg Rat GESTIS
+dermal LD50 10600
+mg/kg
+Rabbit GESTIS
+Irritation and corrosivity
+Skin corrosion/irritation: Based on available data, the classification criteria are not met.
+Serious eye damage/eye irritation: Based on available data, the classification criteria are not met.
+Sensitising effects
+Based on available data, the classification criteria are not met.
+Carcinogenic/mutagenic/toxic effects for reproduction
+Germ cell mutagenicity: Based on available data, the classification criteria are not met.
+Carcinogenicity: Based on available data, the classification criteria are not met.
+Reproductive toxicity: Based on available data, the classification criteria are not met.
+STOT­single exposure
+Based on available data, the classification criteria are not met.
+STOT­repeated exposure
+May cause damage to organs through prolonged or repeated exposure. (ethanediol; ethylene glycol)
+Aspiration hazard
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 7]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 7 of 10
+Based on available data, the classification criteria are not met.
+Information on likely routes of exposure
+Inhalation, oral, Skin contact, Eye contact.
+11.2. Information on other hazards
+Endocrine disrupting properties
+This product does not contain a substance that has endocrine disrupting properties with respect to humans as no
+components meets the criteria.
+Other information
+The mixture is classified as hazardous according to regulation (EC) No 1272/2008 [CLP].
+SECTION 12: Ecological information
+12.1. Toxicity
+Based on available data, the classification criteria are not met.
+12.2. Persistence and degradability
+The product has not been tested.
+CAS No Chemical name
+Method Value d Source
+Evaluation
+107­21­1 ethanediol; ethylene glycol
+OECD Guideline 301 C 83 14
+Readily biodegradable (according to OECD criteria).
+12.3. Bioaccumulative potential
+The product has not been tested.
+Partition coefficient n­octanol/water
+CAS No Chemical name Log Pow
+107­21­1 ethanediol; ethylene glycol ­1,36
+12.4. Mobility in soil
+The product has not been tested.
+12.5. Results of PBT and vPvB assessment
+The substances in the mixture do not meet the PBT/vPvB criteria according to REACH, annex XIII.
+The product has not been tested.
+12.6. Endocrine disrupting properties
+This product does not contain a substance that has endocrine disrupting properties with respect to non­target
+organisms as no components meets the criteria.
+12.7. Other adverse effects
+No information available.
+Further information
+Avoid release to the environment.
+SECTION 13: Disposal considerations
+13.1. Waste treatment methods
+Disposal recommendations
+Do not allow to enter into surface water or drains. Do not allow to enter into soil/subsoil. Dispose of waste
+according to applicable legislation.
+Contaminated packaging
+Hazardous waste according to Directive 2008/98/EC (waste framework directive). Handle contaminated packages
+in the same way as the substance itself.
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 8]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 8 of 10
+SECTION 14: Transport information
+Land transport (ADR/RID)
+14.1. UN number or ID number:
+No dangerous good in sense of this transport regulation.
+14.2. UN proper shipping name:
+No dangerous good in sense of this transport regulation.
+14.3. Transport hazard class(es):
+No dangerous good in sense of this transport regulation.
+14.4. Packing group:
+No dangerous good in sense of this transport regulation.
+Inland waterways transport (ADN)
+14.1. UN number or ID number:
+No dangerous good in sense of this transport regulation.
+14.2. UN proper shipping name:
+No dangerous good in sense of this transport regulation.
+14.3. Transport hazard class(es):
+No dangerous good in sense of this transport regulation.
+14.4. Packing group:
+No dangerous good in sense of this transport regulation.
+Marine transport (IMDG)
+14.1. UN number or ID number:
+No dangerous good in sense of this transport regulation.
+14.2. UN proper shipping name:
+No dangerous good in sense of this transport regulation.
+14.3. Transport hazard class(es):
+No dangerous good in sense of this transport regulation.
+14.4. Packing group:
+No dangerous good in sense of this transport regulation.
+Air transport (ICAO­TI/IATA­DGR)
+14.1. UN number or ID number:
+No dangerous good in sense of this transport regulation.
+14.2. UN proper shipping name:
+No dangerous good in sense of this transport regulation.
+14.3. Transport hazard class(es):
+No dangerous good in sense of this transport regulation.
+14.4. Packing group:
+No dangerous good in sense of this transport regulation.
+14.5. Environmental hazards
+ENVIRONMENTALLY HAZARDOUS: No
+14.6. Special precautions for user
+No dangerous good in sense of this transport regulation.
+14.7. Maritime transport in bulk according to IMO instruments
+No dangerous good in sense of this transport regulation.
+SECTION 15: Regulatory information
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+EU regulatory information
+Restrictions on use (REACH, annex XVII):
+Entry 3, Entry 75
+Information according to Directive
+2012/18/EU (SEVESO III):
+Not subject to 2012/18/EU (SEVESO III)
+National regulatory information
+Employment restrictions: Observe restrictions to employment for juveniles according to the 'juvenile
+work protection guideline' (94/33/EC).
+Water hazard class (D): 1 ­ slightly hazardous to water
+Additional information
+Observe in addition any national regulations!
+15.2. Chemical safety assessment
+Chemical safety assessments for substances in this mixture were not carried out.
+SECTION 16: Other information
+Changes
+This data sheet contains changes from the previous version in section(s): 1,5.
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 9]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 9 of 10
+Abbreviations and acronyms
+Acute Tox. 4: Acute toxicity, hazard category 4
+STOT RE 2: Specific target organ toxicity ­ repeated exposure, hazard category 2
+CLP: Classification, labelling and Packaging
+REACH: Registration, Evaluation and Authorization of Chemicals
+GHS: Globally Harmonised System of Classification, Labelling and Packaging of Chemicals
+UN: United Nations
+EC/EEC: European Community/European Economic Community
+EU: European Union
+CAS: Chemical Abstracts Service
+DNEL: Derived No Effect Level
+DMEL: Derived Minimal Effect Level
+PNEC: Predicted No Effect Concentration
+ATE: Acute toxicity estimate
+LC50: Lethal concentration, 50%
+LD50: Lethal dose, 50%
+LL50: Lethal loading, 50%
+EL50: Effect loading, 50%
+EC50: Effective Concentration 50%
+ErC50: Effective Concentration 50%, growth rate
+NOEC: No Observed Effect Concentration
+BCF: Bio­concentration factor
+PBT: persistent, bioaccumulative, toxic
+vPvB: very persistent, very bioaccumulative
+M­factor: Multiplying factor
+ADR: Accord européen sur le transport des marchandises dangereuses par Route
+(European Agreement concerning the International Carriage of Dangerous Goods by Road)
+RID: Regulations concerning the international carriage of dangerous goods by rail
+ADN: European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways
+(Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures)
+IMDG: International Maritime Code for Dangerous Goods
+EmS: Emergency Schedules
+MFAG: Medical First Aid Guide
+IATA: International Air Transport Association
+DGR: Dangerous Goods Regulations
+ICAO: International Civil Aviation Organization
+TI: Technical Instructions
+MARPOL: International Convention for the Prevention of Marine Pollution from Ships
+IBC: Intermediate Bulk Container
+SVHC: Substance of Very High Concern
+For abbreviations and acronyms, see: ECHA Guidance on information requirements and chemical safety
+assessment, chapter R.20 (Table of terms and abbreviations).
+Key literature references and sources for data
+For abbreviations and acronyms, see: ECHA Guidance on information requirements and chemical safety
+assessment, chapter R.20 (Table of terms and abbreviations). (v.1.2, 2013)
+Classification for mixtures and used evaluation method according to Regulation (EC) No 1272/2008 [CLP]
+Classification Classification procedure
+Acute Tox. 4; H302 Calculation method
+STOT RE 2; H373 Calculation method
+Relevant H and EUH statements (number and full text)
+H302 Harmful if swallowed.
+H373 May cause damage to organs through prolonged or repeated exposure.
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026
+
+[[page 10]]
+ROWE Mineralölwerk GmbH
+Safety Data Sheet
+according to Regulation (EC) No 1907/2006
+HIGHTEC ANTIFREEZE COOLANT LCC 100
+Revision: 02/02/2026 Product code: 21172 Page 10 of 10
+Further Information
+The information is based on the present level of our knowledge. It does not, however, give assurance of product
+properties and establishes no contract legal rights. The receiver of our product is singularly responsible for
+adhering to existing laws and regulations.
+(The data for the relevant ingredients were taken respectively from the last version of the sub­contractor's safety data
+sheet.)
+Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026

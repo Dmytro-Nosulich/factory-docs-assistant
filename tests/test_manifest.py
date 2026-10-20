@@ -63,9 +63,9 @@ def test_field_formats(rows):
         assert re.fullmatch(r"[a-z]{2,3}(/[a-z]{2,3})*", r["language"]), r["id"]
 
 
-def test_stage1_is_15_sds_documents(rows):
-    # Stage 1 is SDS only (decision 10); 15 is below the course minimum of 30 (ISSUES.md I-002).
+def test_stage1_is_at_least_30_sds_documents(rows):
+    # Stage 1 is SDS only (decision 10); the course asks for at least 30 texts (ISSUES.md I-002).
     stage1 = [r for r in rows if "1" in r["stage"].split(",")]
     not_sds = [r["id"] for r in stage1 if r["doc_type"] != "sds"]
     assert not not_sds, f"stage 1 must be SDS only: {not_sds}"
-    assert len(stage1) >= 15, f"only {len(stage1)} stage 1 documents"
+    assert len(stage1) >= 30, f"only {len(stage1)} stage 1 documents"

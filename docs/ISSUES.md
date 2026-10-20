@@ -3,7 +3,7 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
-## I-002: Stage 1 has 15 texts, below the course minimum of 30
+## I-002: Stage 1 had 15 texts, below the course minimum of 30 (resolved: 35)
 - **Date / task:** 2026-10-20, S1-02 (corpus manifest)
 - **Problem:** The course teacher advised focusing stage 1 on safety data sheets (SDS), because the other document types (manuals, certificates, declarations, datasheets) are hard to read. The corpus has only 15 SDS (D001, D002, D003, D006, D007, D008, D010, D032-D039; en, sv, pl, uk, de), while the assignment asks for at least 30 texts.
 - **Options considered:**
@@ -12,7 +12,8 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Proceed with the 15 SDS we have.
 - **Current selection:** proceed with the 15 SDS. The 20 non-SDS documents move to stage 2 (RAG) in `data/manifest.csv`; their texts stay in `data/texts/` for stage 2. The golden set keeps its 4 SDS (D001, D002, D006, D033) and gets 6 SDS replacements.
 - **Revisit if:** the reviewer or rubric penalizes fewer than 30 texts, or the metrics on 15 documents are too noisy to compare models. Then add more SDS (only manifest rows and PDFs; the pipeline needs no change).
-- **Status:** accepted risk.
+- **Update 2026-10-20:** the user chose to close the gap. 20 more public SDS were added (D046-D065: 13 English, 3 of them US format under OSHA HCS; 2 French, 2 Dutch, 2 Spanish, 1 Italian), so stage 1 has 35 SDS. Each was checked before adding: real PDF, text layer on every page, all 16 sections present, readable by `make texts` without new packages, under the runner cap of about 20k estimated tokens, and not a product already in the corpus. Rejected candidates: a scrambled text layer (Tytan, IT), AES encryption that would need the `cryptography` package (Novol, ES), a missing last page (older Nyrstar revision), and two documents of about 24k tokens that the runner would truncate. `tests/test_manifest.py` now requires at least 30 stage-1 SDS. The golden set stays at 10.
+- **Status:** resolved (2026-10-20).
 
 ## I-001: Which PDF-to-text converter to use
 - **Date / task:** 2026-10-19, S1-03 (text extraction)

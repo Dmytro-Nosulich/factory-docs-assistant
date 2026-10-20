@@ -1,0 +1,499 @@
+[[page 1]]
+Bladzijde: 1/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+61.0.42
+* RUBRIEK 1: Identificatie van de stof of het mengsel en van de vennootschap/
+onderneming
+· 1.1 Productidentificatie
+· Handelsnaam: 8461
+· Andere identificatiemiddelen: wit lithiumvet
+· Verwant onderdeelnummer: 8461, 8461-85ML, 8461-1P
+· 1.2 Relevant geïdentificeerd gebruik van de stof of het mengsel en ontraden gebruik
+· Toepassing van de stof / van de bereiding Glijmiddel/smeermiddel
+· Ontraden gebruik Niet beschikbaar
+· 1.3 Details betreffende de verstrekker van het veiligheidsinformatieblad
+· Fabrikant/leverancier:
+MG Chemicals Ltd. (Hoofdkantoor)
+1210 Corporate Drive
+Burlington, Ontario L7L 5R6
+CANADA
++(1) 905-331-1396
+info@mgchemicals.com
+MG Chemicals
+Heame House, 23 Bliston Street
+Sedgely Dudley DY3 1JA.
+United Kingdom
++(44) 1663 362888
+MG Chemicalst Ltd.
+18-20, Msida Road,
+Gzira, GZR 1401
+MALTA
+· Inlichtingengevende sector: sds@mgchemicals.com
+· 1.4 Telefoonnummer voor noodgevallen:
+3E (toegangscode: 335388), +(44) 20 3514787
+Andere telefoonnummers voor noodgevallen: +(1) 760 476 3961
+Nationaal Vergiftigingen Informatie
++31 (0)88 755 8000
+RUBRIEK 2: Identificatie van de gevaren
+· 2.1 Indeling van de stof of het mengsel
+· Indeling overeenkomstig Verordening (EG) nr. 1272/2008
+Aquatic Chronic 2 H411 Giftig voor in het water levende o rganismen, met langdurige gevolgen.
+· 2.2 Etiketteringselementen
+· Etikettering overeenkomstig Verordening (EG) nr. 1272/2008
+Het product is geclassificeerd en geëtiketteerd volgens de CLP-verordening.
+(Vervolg op blz. 2)
+ NL
+
+[[page 2]]
+Bladzijde: 2/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 1)
+61.0.42
+· Gevarenpictogrammen
+GHS09
+· Signaalwoord Niet van toepassing
+· Gevarenaanduidingen
+H411 Giftig voor in het water levende organismen, met langdurige gevolgen.
+· Veiligheidsaanbevelingen
+P273 Voorkom lozing in het milieu.
+P391 Gelekte/gemorste stof opruimen.
+P501 Inhoud en verpakking afvoeren naar in overeenstemming met de lokale, regionale en nationale
+regelgeving.
+· 2.3 Andere gevaren
+· Resultaten van PBT- en zPzB-beoordeling
+· PBT: Niet bruikbaar
+· zPzB: Niet bruikbaar
+· Vaststelling van hormoonontregelende eigenschappen Hormoonverstorende stof   0,1% = geen
+* RUBRIEK 3: Samenstelling en informatie over de bestanddelen
+· 3.2 Mengsels
+· Beschrijving: Mengsel van na elkaar aangevoerde stoffen met ongevaarlijke bijmengingen.
+· Gevaarlijke inhoudstoffen:
+CAS: 64742-65-0
+EINECS: 265-169-7
+destillaten (aardolie), met solvent van was ontdane paraffinehoudende 62,0%
+CAS: 64742-62-7
+EINECS: 265-166-0
+residu-oliën (aardolie), met solvent van was ontdaan 27,0 %
+CAS: 7620-77-1 lithium 12-hydroxystearate 5,0%
+CAS: 1314-13-2
+EINECS: 215-222-5
+zinkoxide
+ Aquatic Acute 1, H400; Aquatic Chronic 1, H410
+4,0%
+CAS: 13463-67-7
+EINECS: 236-675-5
+titaniumdioxide 1,0%
+· Aanvullende gegevens:
+De woordelijke inhoud van de opgegeven aanwijzingen inzake de mogelijke gevaren is te vinden in
+hoofdstuk 16.
+RUBRIEK 4: Eerstehulpmaatregelen
+· 4.1 Beschrijving van de eerstehulpmaatregelen
+· Na het inademen: Frisse lucht toedienen; bij klachten arts ontbieden.
+· Na huidcontact: Over het algemeen is het produkt niet prikkelend voor de huid
+· Na oogcontact: Ogen bij geopend ooglid meerdere minuten met stromend water spoelen
+· Na inslikken: Als de klachten niet minderen, een arts raadplegen
+(Vervolg op blz. 3)
+ NL
+
+[[page 3]]
+Bladzijde: 3/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 2)
+61.0.42
+· 4.2 Belangrijkste acute en uitgestelde symptomen en effecten
+Geen verdere relevante informatie verkrijgbaar.
+· 4.3 Vermelding van eventueel noodzakelijke onmiddellijke medische verzorging en speciale
+behandeling
+Geen verdere relevante informatie verkrijgbaar.
+* RUBRIEK 5: Brandbestrijdingsmaatregelen
+· 5.1 Blusmiddelen
+· Geschikte blusmiddelen: Brandblusmaatregelen op omgeving afstemmen.
+· 5.2 Speciale gevaren die door de stof of het mengsel worden veroorzaakt
+· Gevaarlijke verbrandingsproducten:
+Koolstofoxiden (COx)
+Zinkoxiden
+· 5.3 Advies voor brandweerlieden
+· Speciale beschermende kleding: Geen bijzondere maatregelen nodig.
+RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het
+mengsel
+· 6.1 Persoonlijke voorzorgsmaatregelen, beschermingsmiddelen en noodprocedures Niet nodig
+· 6.2 Milieuvoorzorgsmaatregelen:
+Mag niet in riolering of afvalwater terechtkomen.
+Bij indringen in afvalwater of riolering moet de bevoegde instantie gewaarschuwd worden.
+Niet in de riolering/het oppervlaktewater/het grondwater laten terechtkomen.
+· 6.3 Insluitings- en reinigingsmethoden en -materiaal:
+Besmet materiaal zoals afval volgens punt 13 verwijderen.
+· 6.4 Verwijzing naar andere rubrieken
+Informatie inzake veilig gebruik - zie hoofdstuk 7.
+Informatie inzake persoonlijke beschermingsuitrusting - zie hoofdstuk 8.
+Informatie inzake berging - zie hoofdstuk 13.
+* RUBRIEK 7: Hantering en opslag
+· 7.1 Voorzorgsmaatregelen voor het veilig hanteren van de stof of het mengsel
+Bij een deskundig gebruik zijn geen bijzondere maatregelen vereist.
+· Informatie m.b.t. brand- en ontploffingsgevaar: Geen bijzondere maatregelen noodzakelijk.
+· 7.2 Voorwaarden voor een veilige opslag, met inbegrip van incompatibele producten
+· Opslag:
+· Eisen ten opzichte van opslagruimte en tanks: Geen bijzondere eisen.
+· Informatie m.b.t. gezamenlijke opslag: Niet noodzakelijk
+· Verdere inlichtingen over eisen m.b.t. de opslag: Geen.
+(Vervolg op blz. 4)
+ NL
+
+[[page 4]]
+Bladzijde: 4/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 3)
+61.0.42
+· Opslagklasse: 11
+· 7.3 Specifiek eindgebruik Geen verdere relevante informatie verkrijgbaar.
+RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke
+bescherming
+· 8.1 Controleparameters
+· Bestanddelen met grenswaarden die m.b.t. de werkruimte in acht genomen moeten
+worden:
+Het produkt bevat geen relevante hoeveelheden van stoffen, die met betrekking tot de werkplaatsen, qua
+grenswaarden gecontroleerd moeten worden.
+· Aanvullende gegevens: Als basis dienden lijsten die bij opstelling geldig waren.
+· 8.2 Maatregelen ter beheersing van blootstelling
+· Passende technische maatregelen Geen aanvullende gegevens. Zie 7.
+· Individuele beschermingsmaatregelen, zoals persoonlijke beschermingsmiddelen
+· Algemene beschermings- en gezondheidsmaatregelen:
+Vóór de pauze en aan het einde van werktijd handen wassen.
+· Bescherming van de ademhalingswegen Niet noodzakelijk
+· Bescherming van de handen
+Het handschoenmateriaal moet ondoorlatend en bestand zijn tegen het product / de stof / de bereiding.
+Op grond van falende testen kan geen aanbeveling voor handschoenmateriaal voor het product / de
+bereiding / het chemicaliënmengsel afgegeven worden.
+Kies handschoenmateriaal rekening houdend met de penetratietijden, de permeatiegraden en de
+degradatie.
+· Handschoenmateriaal
+De keuze van een geschikte handschoen is niet alleen afhankelijk van het materiaal, maar ook van
+andere kwaliteitskenmerken en verschilt van fabrikant tot fabrikant. Aangezien het product uit
+meerdere stoffen is samengesteld, is de duurzaamheid van de handschoenmaterialen niet vooraf
+berekenbaar en moet derhalve vóór het gebruik worden getest.
+· Doordringingstijd van het handschoenmateriaal
+De precieze penetratietijd kunt u te weten komen bij de handschoenfabrikant; houd er rekening mee.
+· Bescherming van de ogen/het gezicht Niet noodzakelijk
+* RUBRIEK 9: Fysische en chemische eigenschappen
+· 9.1 Informatie over fysische en chemische basiseigenschappen
+· Fysische toestand Vast
+· Vorm: Vet
+· Kleur: Witachtig
+· Geur: Reukloos
+· Geurdrempelwaarde: Niet bepaald
+· Smeltpunt/vriespunt 185 ° C
+· Kookpunt of beginkookpunt en kooktraject 371 ° C
+· Ontvlambaarheid Niet bepaald
+· Onderste en bovenste explosiegrens
+· Onderste: Niet bepaald
+· Bovenste: Niet bepaald
+· Vlampunt: 185 ° C
+(Vervolg op blz. 5)
+ NL
+
+[[page 5]]
+Bladzijde: 5/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 4)
+61.0.42
+· Zelfontbrandingstemperatuur: Niet bepaald
+· Ontledingstemperatuur: Niet bepaald
+· pH Niet bruikbaar
+· Viscositeit
+· Kinematische viscositeit Niet bruikbaar
+· Dynamisch: Niet bruikbaar
+· Oplosbaarheid
+· Water: Oplosbaar.
+· Verdelingscoëfficiënt n-octanol/water
+(logwaarde) Niet bepaald
+· Dampspanning: Niet bruikbaar
+· Relatieve dichtheid bij 25 ° C: 0,89
+· Dampdichtheid (lucht=1): Niet bruikbaar
+· Deeltjeskenmerken Zie sectie 3.
+· 9.2 Overige informatie
+· 9.2.1 Informatie inzake fysische
+gevarenklassen Niet van toepassing
+· 9.2.2 Andere veiligheidskenmerken
+· Verdampingssnelheid Niet bruikbaar.
+· Ontstekingstemperatuur: Het produkt ontbrandt niet uit zichzelf.
+· Ontploffingseigenschappen: Het produkt is niet ontploffingsgevaarlijk.
+· Oplosmiddelgehalte:
+· Gehalte aan vaste bestanddelen: 100,0 %
+RUBRIEK 10: Stabiliteit en reactiviteit
+· 10.1 Reactiviteit Geen verdere relevante informatie verkrijgbaar.
+· 10.2 Chemische stabiliteit
+· Thermische afbraak / te vermijden omstandigheden:
+Geen afbraak bij gebruik volgens voorschrift.
+· 10.3 Mogelijke gevaarlijke reacties Geen gevaarlijke reacties bekend.
+· 10.4 Te vermijden omstandigheden Geen verdere relevante informatie verkrijgbaar.
+· 10.5 Chemisch op elkaar inwerkende materialen: Geen verdere relevante informatie verkrijgbaar.
+· 10.6 Gevaarlijke ontledingsproducten: Geen gevaarlijke ontbindingsprodukten bekend.
+* RUBRIEK 11: Toxicologische informatie
+· 11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008
+· Acute toxiciteit Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Indelingsrelevantie LD/LC50-waarden:
+1314-13-2 zinkoxide
+Oraal LD50 7.950 mg/kg (rat)
+(Vervolg op blz. 6)
+ NL
+
+[[page 6]]
+Bladzijde: 6/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 5)
+61.0.42
+13463-67-7 titaniumdioxide
+Oraal LD50 >20.000 mg/kg (rat)
+Dermaal LD50 >10.000 mg/kg (rabbit)
+Inhalatief LC50/4 h >6,82 mg/L (rat)
+· Primaire aandoening:
+· Huidcorrosie/-irritatie
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Ernstig oogletsel/oogirritatie
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Sensibilisatie van de luchtwegen/de huid
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Mutageniteit in geslachtscellen
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Carcinogeniteit Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Giftigheid voor de voortplanting
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· STOT bij eenmalige blootstelling
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· STOT bij herhaalde blootstelling
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Gevaar bij inademing Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+· Samenvatting van effecten en symptomen per blootstellingsroute
+· De ogen:
+kan lichte irritatie veroorzaken
+kan roodheid veroorzaken
+· Huid: roodheid, kan lichte irritatie veroorzaken
+· Inademen: geen bekend of verwacht
+· Doorgeslikt:
+Lage toxiciteit:
+misselijkheid
+diarree
+buikpijn
+braken
+· Subacute tot chronische toxiciteit:
+· Uitgestelde en onmiddellijke effecten alsook chronische effecten van kortstondige en
+langdurige blootstelling
+Geen verdere relevante informatie beschikbaar.
+· 11.2 Informatie over andere gevaren
+· Hormoonontregelende eigenschappen
+geen der bestanddelen staat op de lijst.
+* RUBRIEK 12: Ecologische informatie
+· 12.1 Toxiciteit
+· Aquatische toxiciteit:
+1314-13-2 zinkoxide
+LC50 0,042 mg/L (fis)
+(Vervolg op blz. 7)
+ NL
+
+[[page 7]]
+Bladzijde: 7/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 6)
+61.0.42
+· 12.2 Persistentie en afbreekbaarheid Geen verdere relevante informatie verkrijgbaar.
+· 12.3 Bioaccumulatie Geen verdere relevante informatie verkrijgbaar.
+· 12.4 Mobiliteit in de bodem Geen verdere relevante informatie verkrijgbaar.
+· 12.5 Resultaten van PBT- en zPzB-beoordeling
+· PBT: Niet bruikbaar
+· zPzB: Niet bruikbaar
+· 12.6 Hormoonontregelende eigenschappen
+Het product bevat geen stoffen met hormoonontregelende eigenschappen.
+· 12.7 Andere schadelijke effecten
+· Opmerking: Giftig voor vissen.
+· Verdere ecologische informatie:
+· Algemene informatie:
+Waterbezwaarlijkheid (NL): A(2) vergiftig voor in water levende organismen kan in het aquatische
+milieu op lange termijn schadelijke effecten veroorzaken
+In oppervlaktewater ook giftig voor vissen en plankton.
+giftig voor in het water levende organismen
+Gevaar voor water klasse 2 (D) (Zelfclassificatie): gevaar voor water
+Niet lozen in grondwater, in oppervlaktewater of in riolering.
+Gevaar voor drinkwater zelfs bij uitlopen van geringe hoeveelheden in de ondergrond.
+RUBRIEK 13: Instructies voor verwijdering
+· 13.1 Afvalverwerkingsmethoden
+· Aanbeveling: Mag niet tesamen met huisvuil gestort worden of in de riolering terechtkomen.
+· Europese afvalcatalogus
+HP14 Ecotoxisch
+· Niet gereinigde verpakkingen:
+· Aanbeveling: Afvalverwijdering volgens overheidsbepalingen.
+· Aanbevolen reinigingsmiddel: Water, eventueel met toevoeging van reinigingsmiddelen.
+* RUBRIEK 14: Informatie met betrekking tot het vervoer
+· 14.1 VN-nummer of ID-nummer
+· ADR, IMDG, IATA UN3077
+· 14.2 Juiste ladingnaam overeenkomstig de modelreglementen van de VN
+· ADR NIET REGULATED by Ground ADR Speciale
+Bepaling 375 voor maten van 5 kg of minder.
+MILIEUGEVAARLIJKE VASTE STOF, N.E.G.
+(zinkoxide)
+(Vervolg op blz. 8)
+ NL
+
+[[page 8]]
+Bladzijde: 8/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 7)
+61.0.42
+· IMDG NIET IMDG-gereguleerd voor zeevracht volgens
+2.10.2.7 voor inhoudsmaten tot 5 kg.
+ENVIRONMENTALLY HAZARDOUS
+SUBSTANCE, SOLID, N.O.S. (zinc oxide)
+· IATA NOT REGULATED by Air IATA Special Provision
+A197 voor maten van 5 kg of minder.
+Environmentally hazardous substance, solid, n.o.s.
+(zinc oxide)
+· 14.3 Transportgevarenklasse(n)
+· ADR, IMDG
+· klasse 9 Diverse gevaarlijke stoffen en voorwerpen
+· Etiket 9 
+· IATA
+· Class 9 Diverse gevaarlijke stoffen en voorwerpen
+· Label 9 
+· 14.4 Verpakkingsgroep:
+· ADR, IMDG, IATA III
+· 14.5 Milieugevaren:
+· Bijzondere kenmerking (IATA): Symbool (vis en boom)
+· 14.6 Bijzondere voorzorgen voor de gebruiker Niet bruikbaar
+· Gevaarsidentificatienummer (Kemler-getal): 90
+· EMS-nummer: F-A,S-F
+· Stowage Category A 
+· Stowage Code SW23 When transported in BK3 bulk container,
+see 7.6.2.12 and 7.7.3.9.
+· 14.7 Zeevervoer in bulk overeenkomstig IMO-
+instrumenten Niet bruikbaar
+· Transport/verdere gegevens:
+· ADR
+· Beperkte hoeveelheden (LQ) 5 kg
+· Uitgezonderde hoeveelheden (EQ) Code: E1
+Grootste netto hoeveelheid per
+binnenverpakking: 30 g
+Grootste netto hoeveelheid per
+buitenverpakking: 1000 g
+· Vervoerscategorie 3 
+· Tunnelbeperkingscode (-)
+(Vervolg op blz. 9)
+ NL
+
+[[page 9]]
+Bladzijde: 9/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 8)
+61.0.42
+· IMDG
+· Limited quantities (LQ) 5 kg
+· Excepted quantities (EQ) Code: E1
+Maximum net quantity per inner packaging:
+30 g
+Maximum net quantity per outer packaging:
+1000 g
+· VN "Model Regulation": UN 3077 MILIEUGEVAARLIJKE VASTE STOF,
+N.E.G. (ZINKOXIDE), 9, III
+RUBRIEK 15: Regelgeving
+· 15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof
+of het mengsel
+· SZW-lijst van kankerverwekkende stoffen
+geen der bestanddelen staat op de lijst.
+· SZW-lijst van mutagene stoffen
+64742-65-0 destillaten (aardolie), met solvent van was on tdane paraffinehoudende
+64742-62-7 residu-oliën (aardolie), met solvent van was o ntdaan
+· NIET-limitatieve lijst van voor de voortplanting gi ftige stoffen - Vruchtbaarheid
+geen der bestanddelen staat op de lijst.
+· NIET-limitatieve lijst van voor de voortplanting gi ftige stoffen - Ontwikkeling
+geen der bestanddelen staat op de lijst.
+· NIET-limitatieve lijst van voor de voortplanting gi ftige stoffen - Borstvoeding
+geen der bestanddelen staat op de lijst.
+· Lijst Zeer Zorgwekkende Stoffen (ZZS)
+geen der bestanddelen staat op de lijst.
+· Lijst van Potentieel Zeer Zorgwekkende Stoffen
+geen der bestanddelen staat op de lijst.
+· Richtlijn 2012/18/EU
+· Gevaarlijke stoffen die met naam genoemd worden - B IJLAGE I
+geen der bestanddelen staat op de lijst.
+· Seveso-categorie E2  Gevaar voor het aquatisch milieu
+· Drempelwaarde (ton) voor toepassing van voorschriften voor lagedrempelinrichtingen 200 t
+· Drempelwaarde (ton) voor toepassing van voorschriften voor hogedrempelinrichtingen 500 t
+· Richtlijn 2011/65/EU betreffende beperking van het gebruik van bepaalde gevaarlijke
+stoffen in elektrische en elektronische apparatuur - Bijlage II
+geen der bestanddelen staat op de lijst.
+· Bijlage I - PRECURSOREN VOOR EXPLOSIEVEN WAARVOOR EEN BEPERKING GELDT
+(Bovengrenswaarde ten behoeve van vergunningverlening op grond van artikel 5, lid 3)
+geen der bestanddelen staat op de lijst.
+· Bijlage II - PRECURSOREN VOOR EXPLOSIEVEN DIE MOETEN WORDEN GEMELD
+geen der bestanddelen staat op de lijst.
+(Vervolg op blz. 10)
+ NL
+
+[[page 10]]
+Bladzijde: 10/10Veiligheidsinformatieblad
+volgens Verordening (EG) nr. 1907/2006, Artikel 31
+datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+Handelsnaam: 8461
+(Vervolg van blz. 9)
+61.0.42
+· Verordening (EG) nr. 273/2004 inzake drugsprecursoren
+geen der bestanddelen staat op de lijst.
+· Verordening (EG) Nr. 111/2005 houdende voorschriften voor het toezicht op de handel tussen de
+Gemeenschap en derde landen in drugsprecursoren
+geen der bestanddelen staat op de lijst.
+· Nationale voorschriften:
+· Gevaarklasse v. water:
+Waterbezwaarlijkheid (NL): A(2) vergiftig voor in water levende organismen kan in het aquatische
+milieu op lange termijn schadelijke effecten veroorzaken
+· 15.2 Chemischeveiligheidsbeoordeling: Een chemische veiligheidsbeoordeling is niet uitgevoerd.
+RUBRIEK 16: Overige informatie
+Deze gegevens zijn gebaseerd op de huidige stand van onze kennis. Zij beschrijven echter geen garantie van
+produkteigenschappen en vestigen geen contractuele rechtsbetrekking.
+· Relevante zinnen
+H400 Zeer giftig voor in het water levende organismen.
+H410 Zeer giftig voor in het water levende organismen, met langdurige gevolgen.
+· Indeling overeenkomstig Verordening (EG) nr. 1272/2008
+Gevaar voor het aquatisch milieu - (chronisch)
+aquatisch gevaar op lange termijn
+De classificatie van het mengsel is over het algemeen
+gebaseerd op de berekeningsmethode die gebruik
+maakt van stofgegevens volgens Verordening (EG)
+Nr. 1272/2008.
+· Blad met gegevens van de afgifte-sector: Product safety department.
+· Contact-persoon: sds@mgchemicals.com
+· Datum van de vorige versie: 17.05.2024
+· Versienummer van de vorige versie: 4.00
+· Afkortingen en acroniemen:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the International
+Carriage of Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+LC50: Lethal concentration, 50 percent
+LD50: Lethal dose, 50 percent
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+ATE: Acute toxicity estimate values (Waarden van acute toxiciteitsschattingen)
+Aquatic Acute 1: Gevaar voor het aquatisch milieu - acuut aquatisch gevaar – Categorie 1
+Aquatic Chronic 1: Gevaar voor het aquatisch milieu - aquatisch gevaar op lange termijn – Categorie 1
+Aquatic Chronic 2: Gevaar voor het aquatisch milieu - aquatisch gevaar op lange termijn – Categorie 2
+· * Gegevens die ten opzichte van de voorgaande versie zijn veranderd   
+ NL

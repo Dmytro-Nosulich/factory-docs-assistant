@@ -1,0 +1,655 @@
+[[page 1]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 1 of 14
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+274 Industrial Degreaser (Aerosol)
+1.1. Product identifier
+VM12-MWA2-05K5-0VFSUFI:
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+Petroleum base cleaner. Dissolves grease, oil, tar and other similar water insoluble soils generally encountered 
+in the industrial and marine environments.
+Use of the substance/mixture
+No information available.
+Uses advised against
+1.3. Details of the supplier of the safety data sheet
+Chesterton International GmbHCompany name:
+Street: Am Lenzenfleck 23
+Place: D-85737 Ismaning GERMANY
+Telephone: Telefax:+49 89 99 65 46 - 0 +49 89 99 65 46 - 50
+eu-sds@chesterton.comE-mail:
+eu-sds@chesterton.comContact person: +49 89 99 65 46 - 0Telephone:
+E-mail: eu-sds@chesterton.com
+www.chesterton.comInternet:
+eu-sds@chesterton.comResponsible Department:
++49(0) 551 - 1 92 40 (GIZ-Nord, 24h)1.4. Emergency telephone 
+number:
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+Regulation (EC) No 1272/2008
+Aerosol 1; H222-H229
+Compressed gas; H280
+Asp. Tox. 1; H304
+Full text of hazard statements: see SECTION 16.
+2.2. Label elements
+Regulation (EC) No 1272/2008
+Hazard components for labelling
+Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated naphtha
+Signal word: Danger
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 2]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 2 of 14
+Pictograms:
+H222 Extremely flammable aerosol.
+H229 Pressurised container: May burst if heated.
+Hazard statements
+P211 Do not spray on an open flame or other ignition source.
+P251 Do not pierce or burn, even after use.
+P260 Do not breathe gas.
+P262 Do not get in eyes, on skin, or on clothing.
+P301+P310 IF SWALLOWED: Immediately call a doctor.
+P331 Do NOT induce vomiting.
+P403 Store in a well-ventilated place.
+P405 Store locked up.
+P410+P412 Protect from sunlight. Do not expose to temperatures exceeding 50 °C/122 °F.
+P501 Dispose of contents/container to an appropriate recycling or disposal facility.
+Precautionary statements
+Special labelling of certain mixtures
+EUH066 Repeated exposure may cause skin dryness or cracking.
+The substances in the mixture do not meet the PBT/vPvB criteria according to REACH, annex XIII. 
+This product does not contain a substance that has endocrine disrupting properties with respect to humans as 
+no components meets the criteria. 
+This product does not contain a substance that has endocrine disrupting properties with respect to non-target 
+organisms as no components meets the criteria.
+2.3. Other hazards
+SECTION 3: Composition/information on ingredients
+3.2. Mixtures
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 3]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 3 of 14
+Relevant ingredients
+QuantityChemical nameCAS No
+EC No Index No REACH No
+Classification (Regulation (EC) No 1272/2008)
+85 - < 90 %64742-48-9 Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated naphtha
+265-150-3 649-327-00-6 01-2119486659-16
+Asp. Tox. 1; H304
+5 - 10 %106-97-8 butane
+203-448-7 601-004-00-0
+Flam. Gas 1; H220
+5 - 10 %74-98-6 propane
+200-827-9 601-003-00-5 01-2119486944-21
+Flam. Gas 1; H220
+Full text of H and EUH statements: see section 16.
+Specific Conc. Limits, M-factors and ATE
+QuantityChemical nameCAS No EC No
+Specific Conc. Limits, M-factors and ATE
+64742-48-9 265-150-3 85 - < 90 %Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated 
+naphtha
+inhalation:  LC50 = > 4,96 mg/l (vapours); dermal:  LD50 = > 2000 mg/kg; oral:  LD50 = > 5000 
+mg/kg
+106-97-8 203-448-7 5 - 10 %butane
+inhalation:  LC50 = 273000 ppm (gases)
+Further Information
+zu CAS 64742-48-9: contains less than 0,1 % w/w Benzene
+SECTION 4: First aid measures
+4.1. Description of first aid measures
+In case of accident or unwellness, seek medical advice immediately (show directions for use or safety data 
+sheet if possible).
+General information
+Remove casualty to fresh air and keep warm and at rest. If breathing is irregular or stopped, administer artificial 
+respiration. Call a doctor.
+After inhalation
+After contact with skin, wash immediately with plenty of water and soap. Remove contaminated, saturated 
+clothing immediately. In case of skin irritation, consult a physician.
+After contact with skin
+Protect uninjured eye. In case of contact with eyes flush immediately with plenty of flowing water for 10 to 15 
+minutes holding eyelids apart and consult an ophthalmologist. 
+After contact with eyes
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 4]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 4 of 14
+Remove contact lenses, if present and easy to do. Continue rinsing.
+If accidentally swallowed rinse the mouth with plenty of water (only if the person is conscious) and obtain 
+immediate medical attention. Let 1 glass of water be drunken in little sips (dilution effect). 
+ 
+Do NOT induce vomiting.
+After ingestion
+4.2. Most important symptoms and effects, both acute and delayed
+Causes eye irritation. Causes skin irritation. Repeated exposure may cause skin dryness or cracking. 
+Most important symptoms and effects, both acute and delayed: Headache, Dizziness, Pulmonary oedema 
+Vapours may cause drowsiness and dizziness.
+4.3. Indication of any immediate medical attention and special treatment needed
+First Aid, decontamination, treatment of symptoms.
+SECTION 5: Firefighting measures
+5.1. Extinguishing media
+- alcohol resistant foam 
+- Water spray jet 
+- Carbon dioxide (CO2) 
+- Dry extinguishing powder
+Suitable extinguishing media
+- Full water jet
+Unsuitable extinguishing media
+5.2. Special hazards arising from the substance or mixture
+Heating causes rise in pressure with risk of bursting. 
+Vapours can form explosive mixtures with air.
+5.3. Advice for firefighters
+Co-ordinate fire-fighting measures to the fire surroundings. 
+In case of fire: Wear self-contained breathing apparatus. 
+Special protective equipment for firefighters: Protective clothing.
+Collect contaminated fire extinguishing water separately. Do not allow entering drains or surface water. 
+Dispose of waste according to applicable legislation.
+Additional information
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+Provide adequate ventilation. 
+Safe handling: see section 7 
+Personal protection equipment: see section 8
+General advice
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 5]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 5 of 14
+For non-emergency personnel
+No information available.
+For emergency responders
+No information available.
+Do not allow to enter into surface water or drains. Cover drains.
+6.2. Environmental precautions
+6.3. Methods and material for containment and cleaning up
+Absorb with liquid-binding material (sand, diatomaceous earth, acid- or universal binding agents). Treat the 
+recovered material as prescribed in the section on waste disposal.
+For containment
+Clean contaminated articles and floor according to the environmental legislation.
+For cleaning up
+Safe handling: see section 7 
+Personal protection equipment: see section 8 
+Disposal: see section 13
+6.4. Reference to other sections
+SECTION 7: Handling and storage
+7.1. Precautions for safe handling
+Do not breathe aerosol. 
+Personal protection equipment: see section 8
+Advice on safe handling
+Pressurized container: protect from sunlight and do not expose to temperatures exceeding 50 °C. Do not 
+pierce or burn, even after use. 
+Vapours are heavier than air, spread along floors and form explosive mixtures with air.
+Advice on protection against fire and explosion
+Work in well-ventilated zones or use proper respiratory protection.  
+Wash hands before breaks and after work. Only wear fitting, comfortable and clean protective clothing. Used 
+working clothes should not be worn outside the work area. Street clothing should be stored separately from 
+work clothing.
+Advice on general occupational hygiene
+Observe instructions for use. 
+Do not pierce or burn, even after use.
+Further information on handling
+7.2. Conditions for safe storage, including any incompatibilities
+Keep cool. Protect from sunlight. 
+Pressurised container: May burst if heated.
+Requirements for storage rooms and vessels
+Keep away from food, drink and animal feedingstuffs.
+Hints on joint storage
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 6]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 6 of 14
+Keep away from: 
+- Frost 
+- Heat 
+- Humidity
+Further information on storage conditions
+7.3. Specific end use(s)
+No information available.
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+Occupational exposure limits
+Categoryfib/cm³mg/m³ppmSubstanceCAS No Origin
+Asphyxiant-Aliphatic hydrocarbon gases, Alkanes 
+(C1-C3), Propane
+74-98-6 -
+STEL (15 min)1000Butane, all isomers - n-butane106-97-8 -
+DNEL/DMEL values
+CAS No Substance
+DNEL type Exposure route Effect Value
+64742-48-9 Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated naphtha
+Worker DNEL, long-term inhalation systemic 1,9 mg/m³
+Consumer DNEL, long-term inhalation systemic 0,41 mg/m³
+Worker DNEL, acute inhalation systemic 1286,4 mg/m³
+Worker DNEL, long-term inhalation local 837,5 mg/m³
+Worker DNEL, acute inhalation local 1066,67 mg/m³
+Consumer DNEL, acute inhalation systemic 1152 mg/m³
+Consumer DNEL, long-term inhalation local 178,57 mg/m³
+Consumer DNEL, acute inhalation local 640 mg/m³
+8.2. Exposure controls
+Provide adequate ventilation as well as local exhaustion at critical locations.
+Appropriate engineering controls
+Individual protection measures, such as personal protective equipment
+Suitable eye protection: 
+- Eye glasses with side protection 
+- goggles
+Eye/face protection
+Tested protective gloves must be worn: EN ISO 374 
+Hand protection
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 7]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 7 of 14
+NBR (Nitrile rubber), 
+Wearing time with permanent contact: Thickness of the glove material: >= 0,4 mm, Breakthrough time: >480 
+min
+Wearing time with occasional contact (splashes): Thickness of the glove material: >= 0,1 mm, Breakthrough 
+time: > 30 min
+For special purposes, it is recommended to check the resistance to chemicals of the protective gloves 
+mentioned above together with the supplier of these gloves. 
+Breakthrough times and swelling properties of the material must be taken into consideration.
+For the protection against direct skin contact, body protective clothing is essential (in addition to the usual 
+working clothes).
+Skin protection
+If technical exhaust or ventilation measures are not possible or insufficient, respiratory protection must be 
+worn. 
+Filtering device (full mask or mouthpiece) with filter:  AX
+Respiratory protection
+Thermal hazards
+No data available
+No special measures are necessary.
+Environmental exposure controls
+LiquidPhysical state:
+9.1. Information on basic physical and chemical properties
+SECTION 9: Physical and chemical properties
+Colour: colourless
+characteristicOdour:
+Test method
+No data availableMelting point/freezing point:
+ 188 °CBoiling point or initial boiling point and 
+boiling range:
+No data availableFlammability:
+No data availableLower explosion limits:
+No data availableUpper explosion limits:
+Flash point:   > 61 °C
+Auto-ignition temperature:  227 °C
+Decomposition temperature: No data available
+pH-Value: not applicable
+Viscosity / kinematic: No data available
+Water solubility: Immiscible
+No information available.
+Solubility in other solvents
+No data availableDissolution rate:
+Partition coefficient n-octanol/water: No data available
+Dispersion stability: No data available
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 8]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 8 of 14
+Vapour pressure: <1 hPa
+Vapour pressure: No data available
+Density: No data available
+0,77 kg/lRelative density:
+Bulk density: No data available
+Relative vapour density: (Air=1) >1
+9.2. Other information
+Information with regard to physical hazard classes
+No information available.
+Explosive properties
+Self-ignition temperature
+No data availableSolid:
+No data availableGas:
+No information available.
+Oxidizing properties
+Other safety characteristics
+Evaporation rate: (n-butyl acetate = 1)<1
+Sublimation point: No data available
+Softening point: No data available
+< -20 °CPour point:
+Viscosity / dynamic: No data available
+Further Information
+No information available.
+SECTION 10: Stability and reactivity
+10.1. Reactivity
+The product is stable under storage at normal ambient temperatures.
+10.2. Chemical stability
+The product is chemically stable under recommended conditions of storage, use and temperature.
+10.3. Possibility of hazardous reactions
+This material is considered to be non-reactive under normal use conditions.
+This material is combustible and can be ignited by heat, sparks, flames, or other sources of ignition (e.g. static 
+electricity, pilot lights, or mechanical/electrical equipment). 
+Pressurized container: protect from sunlight and do not expose to temperatures exceeding 50 °C. Do not 
+pierce or burn, even after use.
+10.4. Conditions to avoid
+Oxidising agent, strong
+10.5. Incompatible materials
+- Nitrogen oxides (NOx), 
+- Carbon dioxide (CO2), 
+10.6. Hazardous decomposition products
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 9]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 9 of 14
+- Carbon monoxide
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Acute toxicity
+Based on available data, the classification criteria are not met.
+ATEmix calculated
+ATE (oral) > 2000 mg/kg; ATE (dermal) > 2000 mg/kg; ATE (inhalation vapour) > 20 mg/l; ATE (inhalation 
+dust/mist) > 5 mg/l
+Chemical nameCAS No
+SourceSpeciesDoseExposure route Method
+64742-48-9 Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated naphtha
+RatLD50 > 5000 
+mg/kg
+Study report (1986)oral OECD Guideline 401
+RabbitLD50 > 2000 
+mg/kg
+Study report (1986)dermal OECD Guideline 402
+inhalation (4 h) vapour LC50 > 4,96 
+mg/l
+Rat Study report (1992) OECD Guideline 403
+106-97-8 butane
+inhalation (4 h) gas LC50 273000 
+ppm
+Rat GESTIS
+Skin corrosion/irritation: Based on available data, the classification criteria are not met.
+Serious eye damage/eye irritation: Based on available data, the classification criteria are not met.
+Repeated exposure may cause skin dryness or cracking.
+Irritation and corrosivity
+Sensitising effects
+Based on available data, the classification criteria are not met.
+Carcinogenic/mutagenic/toxic effects for reproduction
+Germ cell mutagenicity: Based on available data, the classification criteria are not met.
+Carcinogenicity: Based on available data, the classification criteria are not met.
+Reproductive toxicity: Based on available data, the classification criteria are not met.
+STOT-single exposure
+Based on available data, the classification criteria are not met.
+Based on available data, the classification criteria are not met.
+STOT-repeated exposure
+Aspiration hazard
+May be fatal if swallowed and enters airways.
+11.2. Information on other hazards
+Endocrine disrupting properties
+No data available
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 10]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 10 of 14
+SECTION 12: Ecological information
+12.1. Toxicity
+Based on available data, the classification criteria are not met.
+CAS No Chemical name
+[h] | [d]Aquatic toxicity Dose SourceSpecies Method
+Naphtha (petroleum), hydrotreated heavy; Low boiling point hydrogen treated naphtha64742-48-9
+Acute fish toxicity 96 h Study report 
+(1995)
+LL50 8,2 mg/l Pimephales promelas other: EPA 
+66013-75-009
+Acute algae toxicity 72 h Study report 
+(1995)
+ErC50 3,1 mg/l Raphidocelis 
+subcapitata
+OECD Guideline 
+201
+Acute crustacea toxicity 48 h Study report 
+(1995)
+EL50 4,5 mg/l Daphnia magna OECD Guideline 
+202
+Fish toxicity NOEC 2,6 mg/l 21 d Daphnia magna Study report 
+(1999)
+other: OECD 
+Guideline 211
+Crustacea toxicity NOEC 2,6 mg/l 21 d Daphnia magna Study report 
+(1999)
+OECD Guideline 
+211
+butane106-97-8
+Acute fish toxicity 96 h United States 
+Environmental 
+Protection A
+LC50 49,9 
+mg/l
+Fish, no other 
+information
+The Ecosar class 
+program has been 
+develo
+Acute algae toxicity 96 h USEPA OPPT 
+Risk Assessment 
+Division (200
+ErC50 19,37 
+mg/l
+Calculation using 
+ECOSAR 
+Program v1.00.
+Acute crustacea toxicity 48 h USEPA OPPT 
+Risk Assessment 
+Division (200
+EC50 69,43 
+mg/l
+Daphnia sp. Calculation using 
+ECOSAR 
+Program v1.00.
+propane74-98-6
+Acute fish toxicity 96 h United States 
+Environmental 
+Protection A
+LC50 49,9 
+mg/l
+Fish, no other 
+information
+The Ecosar class 
+program has been 
+develo
+Acute algae toxicity 96 h USEPA OPPT 
+Risk Assessment 
+Division (200
+ErC50 19,37 
+mg/l
+Algae Calculation using 
+ECOSAR 
+Program v1.00.
+Acute crustacea toxicity 48 h USEPA OPPT 
+Risk Assessment 
+Division (200
+EC50 69,43 
+mg/l
+Daphnia sp. Calculation using 
+ECOSAR 
+Program v1.00.
+12.2. Persistence and degradability
+No information available.
+12.3. Bioaccumulative potential
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 11]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 11 of 14
+Partition coefficient n-octanol/water
+Log PowChemical nameCAS No
+106-97-8 1,09butane
+74-98-6 1,09propane
+No information available.
+12.4. Mobility in soil
+12.5. Results of PBT and vPvB assessment
+The substances in the mixture do not meet the PBT/vPvB criteria according to REACH, annex XIII.
+This product does not contain a substance that has endocrine disrupting properties with respect to non-target 
+organisms as no components meets the criteria.
+12.6. Endocrine disrupting properties
+12.7. Other adverse effects
+No information available.
+SECTION 13: Disposal considerations
+13.1. Waste treatment methods
+Disposal recommendations
+Dispose of waste according to applicable legislation.
+Non-contaminated packages may be recycled. Packing which cannot be properly cleaned must be disposed of. 
+Dispose of waste according to applicable legislation.
+Contaminated packaging
+SECTION 14: Transport information
+Land transport (ADR/RID)
+14.1. UN number or ID number: UN 1950
+14.2. UN proper shipping name: AEROSOLS
+14.3. Transport hazard class(es): 2
+14.4. Packing group: -
+Hazard label: 2.1
+Classification code: 5F
+Special Provisions: 190 327 344 625
+Limited quantity: 1 L
+Excepted quantity: E0
+Transport category: 2
+Tunnel restriction code: D
+Inland waterways transport (ADN)
+14.1. UN number or ID number: UN 1950
+14.2. UN proper shipping name: AEROSOLS
+14.3. Transport hazard class(es): 2
+14.4. Packing group: -
+Hazard label: 2.1
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 12]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 12 of 14
+Classification code: 5F
+Special Provisions: 190 327 344 625
+Limited quantity: 1 L
+Excepted quantity: E0
+Marine transport (IMDG)
+14.1. UN number or ID number: UN 1950
+14.2. UN proper shipping name: AEROSOLS
+14.3. Transport hazard class(es): 2.1
+14.4. Packing group: -
+Hazard label: 2.1
+Special Provisions: 63, 190, 277, 327, 344, 381, 959
+Limited quantity: 1000 mL
+Excepted quantity: E0
+EmS: F-D, S-U
+Air transport (ICAO-TI/IATA-DGR)
+14.1. UN number or ID number: UN 1950
+14.2. UN proper shipping name: AEROSOLS, FLAMMABLE
+14.3. Transport hazard class(es): 2.1
+14.4. Packing group: -
+Hazard label: 2.1
+Special Provisions: A145 A167 A802
+Limited quantity Passenger: 30 kg G
+Passenger LQ: Y203
+Excepted quantity: E0
+IATA-packing instructions - Passenger: 203
+IATA-max. quantity - Passenger: 75 kg
+IATA-packing instructions - Cargo: 203
+IATA-max. quantity - Cargo: 150 kg
+14.5. Environmental hazards
+NoENVIRONMENTALLY HAZARDOUS: 
+14.6. Special precautions for user
+No information available.
+14.7. Maritime transport in bulk according to IMO instruments
+No information available.
+SECTION 15: Regulatory information
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+EU regulatory information
+Restrictions on use (REACH, annex XVII):
+Entry 3, Entry 28, Entry 29, Entry 40
+National regulatory information
+2 - obviously hazardous to waterWater hazard class (D):
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 13]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 13 of 14
+15.2. Chemical safety assessment
+For the following substances of this mixture a chemical safety assessment has been carried out:
+butane
+propane
+SECTION 16: Other information
+Abbreviations and acronyms
+Flam. Gas: Flammable gases
+Aerosol: Aerosol
+Compressed gas
+Asp. Tox: Aspiration hazard
+ADR: Accord européen sur le transport des marchandises dangereuses par Route
+(European Agreement concerning the International Carriage of Dangerous Goods by Road)
+RID:Règlement international conernat le transport des marchandises dangereuses par chemin de fer 
+(Regulations Concerning the International Transport of Dangerous Goods by Rail)
+IMDG: International Maritime Code for Dangerous Goods 
+IATA: International Air Transport Association
+IATA-DGR: Dangerous Goods Refulations by the "International Air Transport Association" (IATA)
+ICAO: International Civil Aviation Organization
+ICAO-TI: Technical Instructions by the "International Civil Aviation Organization" (ICAO)
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+GHS: Globally Harmonized System of Classification and Labelling of Chemicals
+CLP: Regulation on Classification, Labelling and Packaging of Substances and Mixtures,
+LC50: Lethal concentration, 50 percent
+LD50: Lethal dose, 50 percent
+EC50: Effectice concentration, 50 percent
+DNEL: Derived No Effect Level
+PNEC: Predicted No Effect Concentration
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+Classification for mixtures and used evaluation method according to Regulation (EC) No 1272/2008 [CLP]
+Classification procedureClassification
+Aerosol 1; H222-H229 On basis of test data
+Compressed gas; H280
+Asp. Tox. 1; H304 Calculation method
+Relevant H and EUH statements (number and full text)
+H220 Extremely flammable gas.
+H222 Extremely flammable aerosol.
+H229 Pressurised container: May burst if heated.
+H280 Contains gas under pressure; may explode if heated.
+H304 May be fatal if swallowed and enters airways.
+EUH066 Repeated exposure may cause skin dryness or cracking.
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office
+
+[[page 14]]
+according to Regulation (EC) No 1907/2006
+Safety Data Sheet
+274 Industrial Degreaser (Aerosol)
+Revision date: 03.12.2024 Page 14 of 14
+(The data for the relevant ingredients were taken respectively from the last version of the sub-contractor's safety 
+data sheet.)
+Print date: 04.12.2024 IRL - enRevision No: 1,00
+©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office

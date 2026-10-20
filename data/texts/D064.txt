@@ -1,0 +1,751 @@
+[[page 1]]
+HOJA DE DATOS DE SEGURIDAD (HDS)
+1. Identificación
+Limpiador de partes de frenos Brakleen® - 5 galIdentificador de producto
+Otros medios de identificación
+No. 05186 (Item# 1003747)Código del producto
+Limpiador de frenosUso recomendado
+Ninguno conocido/Ninguna conocida.Restricciones recomendadas
+Información sobre el fabricante/importador/proveedor/distribuidor
+Fabricados o vendidos
+por:
+CRC Industries, Inc.Nombre de la empresa
+885 Louis Dr.Dirección
+Warminster, PA 18974 EE.UU.
+Teléfono
+215-674-4300Información General
+800-521-3168Asistencia técnica
+800-272-4620Servicio al Cliente
+800-424-9300 (EE.UU. )Emergencias las 24 horas
+(CHEMTREC)
+www.crcindustries.comPágina web
+2. Identificación de peligros
+Categoría 2Líquidos inflamablesPeligros físicos
+Categoría 2Corrosión/irritación cutáneasPeligros para la salud
+Categoría 2ALesiones oculares graves/irritación ocular
+Categoría 3, efectos narcóticosToxicidad sistémica específica de órganos
+diana tras una exposición única
+Categoría 1Peligro por aspiración
+Categoría 1Peligro para el medio ambiente acuático,
+peligro agudo
+Peligros para el medio
+ambiente
+Categoría 1Peligro para el medio ambiente acuático,
+peligro a largo plazo
+No clasificado.Peligros definidos por OSHA
+Elementos de etiqueta
+Palabra de advertencia Peligro
+Indicación de peligro Líquido y vapores muy inflamables. Puede ser mortal en caso de ingestión y de penetración en
+las vías respiratorias. Provoca irritación cutánea. Provoca irritación ocular grave. Puede provocar
+somnolencia o vértigo.
+1 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 2]]
+Consejos de prudencia
+Prevención Mantener alejado del calor/de chispas/de llamas al descubierto/de superficies calientes. – No
+fumar. Mantener el recipiente herméticamente cerrado. Toma de tierra/enlace equipotencial del
+recipiente y del equipo receptor. Utilizar un material eléctrico/de ventilación/iluminación
+antideflagrante. No utilizar herramientas que produzcan chispas. Tomar medidas de precaución
+contra las descargas electrostáticas. Utilizar sólo al aire libre o en un lugar bien ventilado.
+Mantenga la ventilación durante la utilización del producto hasta que el vapor haya desaparecido.
+Abra las puertas y ventanas y utilice otros medios para asegurar la provisión de aire fresco al
+utilizar el producto y mientras se esté secando. Si presenta algunos de los síntomas enumerados
+en esta etiqueta, aumente la ventilación o deje el área. Evitar respirar nieblas/vapores. Lavarse
+cuidadosamente después de la manipulación. Usar guantes/ropa de protección/equipo de
+protección para los ojos/la cara.
+Respuesta En caso de ingestión: Llamar inmediatamente a un centro de toxicología o a un médico. NO
+provocar el vómito. En caso de contacto con los ojos: Enjuagar con agua cuidadosamente
+durante varios minutos. Quitar las lentes de contacto cuando estén presentes y pueda hacerse
+con facilidad. Proseguir con el lavado. Si la irritación ocular persiste, consultar a un médico. En
+caso de contacto con la piel (o el pelo): Quitar inmediatamente la ropa contaminada. Enjuagar la
+piel con agua/ducharse. En caso de irritación cutánea: Consultar a un médico. Lavar la ropa
+contaminada antes de volverla a usar. En caso de inhalación: Transportar la persona al aire libre
+y mantenerla en una posición que le facilite la respiración. Llamar a un CENTRO DE
+TOXICOLOGÍA o a un médico si la persona se encuentra mal. En caso de incendio: Utilizar los
+medios apropiados para la extinción.
+Almacenamiento Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente cerrado. Mantener
+fresco. Guardar bajo llave.
+Eliminación Eliminar el contenido/recipiente conforme a las reglamentaciones
+local/regional/nacional/internacional.
+Peligros no clasificados en
+otra parte (HNOC, por sus
+siglas en inglés)
+Un líquido inflamable que acumule cargas estáticas puede cargarse electrostáticamente incluso
+en equipos con toma de tierra y enlace equipotencial. Las chispas pueden inflamar el líquido y el
+vapor. Puede provocar inflamación instantánea o explosión.
+Información suplementaria Ninguno.
+3. Composición/información sobre los componentes
+Mezclas
+Número CAS %Nombre químico Nombre común y sinónimos
+64742-49-0nafta ligera hidrotratada (petróleo) 40 - 50
+142-82-5n-Heptano 20 - 30
+426260-76-6Heptanos, ramificados, cíclicos y
+lineales
+10 - 20
+67-63-0Alcohol isopropílico 5 - 10
+64742-89-8solvente, nafta (petróleo), alifáticos
+ligeros
+3 - 5
+La identidad química específica y/o porcentaje de composición no han sido divulgados por ser secretos comerciales.
+4. Primeros auxilios
+Transportar a la víctima al aire libre y mantenerla en reposo una posición que le facilite la
+respiración. Llamar a un centro de toxicología/médico si la persona se encuentra mal.
+Inhalación
+Quitar inmediatamente toda la ropa contaminada. Enjuagar la piel con agua/ducharse. En caso de
+irritación cutánea: Consultar a un médico. Lavar la ropa contaminada antes de volverla a usar.
+Contacto con la cutánea
+Enjuague los ojos de inmediato con abundante agua durante al menos 15 minutos. Quitar las
+lentes de contacto, cuando estén presentes y pueda hacerse con facilidad. Proseguir con el
+lavado. Busque atención médica si la irritación se desarrolla y persiste.
+Contacto con los ocular
+Llame al médico o centro de control de intoxicaciones inmediatamente. Enjuagarse la boca. No
+inducir el vómito. En caso de vómito, colocar la cabeza a un nivel más bajo que el estómago para
+evitar que el vómito entre en los pulmones.
+Ingestión
+Su inhalación puede causar edema pulmonar y neumonía. Puede provocar somnolencia o vértigo.
+Dolor de cabeza. Náusea, vómitos. Grave irritación de los ojos. Los síntomas pueden incluir
+escozor, lagrimeo, enrojecimiento, hinchazón y visión borrosa. Irritación de la piel. Puede causar
+enrojecimiento y dolor.
+Síntomas/efectos más
+importantes, agudos o
+retardados
+Proporcione las medidas de apoyo generales y de tratamiento sintomático. En caso de
+quemaduras: Enjuáguese inmediatamente con agua. Bajo el chorro de agua corriente, quítese la
+ropa que no esté pegada a la piel. Llame a una ambulancia. Continúe enjuagándose durante el
+transporte. Mantenga a la víctima bajo observación. Los síntomas pueden retrasarse.
+Indicación de la necesidad de
+recibir atención médica
+inmediata y, en su caso, de
+tratamiento especial
+2 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 3]]
+Quítese inmediatamente la ropa contaminada. Asegúrese de que el personal médico tenga
+conocimiento de los materiales involucrados y tome las precauciones adecuadas para su propia
+protección. Lavar la ropa contaminada antes de volverla a usar.
+Información general
+5. Medidas de lucha contra incendios
+Neblina de agua. Espuma. Bióxido de carbono (CO2). El polvo químico seco, el dióxido de
+carbono, la arena y la tierra se pueden usar solamente en incendios pequeños.
+Medios de extinción
+apropiados
+No utilizar agua a presión, puede extender el incendio.Medios no adecuados de
+extinción 
+Los vapores pueden formar mezclas explosivas con el aire. Los vapores pueden desplazarse una
+distancia bastante larga hacia una fuente de ignición y dar lugar a retroceso de la llama. Este
+producto es un mal conductor de la electricidad y puede cargarse electrostáticamente. Si se
+acumula suficiente carga, las mezclas inflamables pueden encenderse. Para reducir la posibilidad
+de descargas estáticas se deben usar procedimientos adecuados de conexión equipotencial y
+puesta a tierra. Este líquido puede acumular electricidad estática cuando se están llenando
+recipientes conectados a tierra. La acumulación de electricidad estática puede incrementarse
+significativamente debido a la presencia de pequeñas cantidades de agua u otros contaminantes.
+El material flotará y puede encenderse sobre la superficie del agua. En caso de incendio se
+pueden formar gases nocivos.
+Peligros específicos del
+producto químico
+Use aparato respiratorio autónomo y traje de protección completo en caso de incendio.Equipo especial de protección
+y medias de precaución para
+los bomberos
+Equipo/instrucciones de
+extinción de incendios
+En caso de incendio y/o de explosión no respire los humos. Mueva los recipientes del área del
+incendio si puede hacerlo sin riesgo. Utilizar procedimientos estándar contra incendiosy
+considerar los riesgos de otros materiales involucrados.
+Líquido y vapores muy inflamables.Riesgos generales de incendio
+6. Medidas que deben tomarse en caso de vertido accidental
+Mantenga alejado al personal que no sea necesario. Mantenga alejadas a las personas de la zona
+de la fuga y en sentido opuesto al viento. Eliminar todas las fuentes de ignición (no fumar, teas,
+chispas ni llamas en los alrededores). Use equipo y ropa de protección apropiados durante la
+limpieza. Evitar respirar nieblas/vapores. No toque los recipientes dañados o el material
+derramado a menos que esté usando ropa protectora adecuada. Ventilar los espacios cerrados
+antes de entrar. Utilizar medidas de contención adecuadas para evitar la contaminación del medio
+ambiente. Las autoridades locales deben ser informadas si los derrames importantes no pueden
+contenerse. Para consultar la protección personal, véase la sección 8 de la HDS.
+Precauciones personales,
+equipo protector y
+procedimiento de emergencia
+Eliminar todas las fuentes de ignición (no fumar, teas, chispas ni llamas en los alrededores).
+Mantenga los materiales combustibles (madera, papel, petróleo, etc.) lejos del material
+derramado. Tomar medidas de precaución contra las descargas electrostáticas. No utilizar
+herramientas que produzcan chispas.
+Derrames grandes: Detenga el flujo de material si esto no entraña riesgos. Forme un dique para el
+material derramado donde sea posible. Usar un material no combustible como vermiculita, arena
+o tierra para absorber el producto y colocarlo en un recipiente para su eliminación posterior.
+Después de recuperar el producto, enjuague el área con agua.
+Derrames pequeños: Absorba con tierra, arena u otro material no combustible y transfiera a
+recipientes para su posterior eliminación. Limpie con material absorbente (por ejemplo tela,
+vellón). Limpie cuidadosamente la superficie para eliminar los restos de contaminación.
+Nunca regrese el producto derramado al envase original para reutilizarlo. Para la eliminación de
+los residuos, ver la Sección 13 de la HDS.
+Métodos y materiales para la
+contención y limpieza de
+vertidos
+No dispersar en el medio ambiente. Informar al personal administrativo o de supervisión
+pertinente de todos los escapes al medio ambiente. Impidas nuevos escapes o derrames de
+forma segura. No verter los residuos al desagüe, al suelo o las corrientes de agua. Utilizar
+medidas de contención adecuadas para evitar la contaminación del medio ambiente.
+Precauciones relativas al
+medio ambiente
+3 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 4]]
+7. Manipulación y almacenamiento
+No maneje, almacene o abra cerca de llama abierta, fuentes de calor o fuentes de ignición.
+Proteja el material de la luz solar directa. No fumar durante su utilización. Ventilación de escape
+general y local a prueba de explosiones. Reducir al mínimo los riesgos de incendio debidos a
+materiales inflamables y combustibles (incluidos los polvos combustibles y los líquidos que
+acumulan cargas electrostáticas) o por reacciones peligrosas con materiales incompatibles. Las
+operaciones de manipulación del producto que promueven la acumulación de cargas estáticas
+incluyen, pero no se limitan, a las siguientes: mezclado, filtración, bombeo a velocidad alta de
+flujo, salpicaduras durante el llenado por caída libre, generación de nieblas o aerosoles, llenado
+de tanques y recipientes, limpieza de tanques, toma de muestras, mediciones, cambio del tipo de
+líquido de carga, operaciones en camiones de vacío. Evítese la acumulación de cargas
+electroestáticas. Todo el equipo que se utiliza al manejar el producto debe estar conectado a
+tierra. Use herramientas a prueba de chispa y equipo a prueba de explosión. Evitar respirar
+nieblas/vapores. Evítese el contacto con los ojos, la piel y la ropa. Evitar la exposición prolongada.
+Use equipo protector personal adecuado. Lavarse las manos cuidadosamente después de la
+manipulación. No dispersar en el medio ambiente. Respete las normas para un manejo correcto
+de los químicos.
+Para obtener información adicional sobre la interconexión equipotencial y puesta a tierra de
+equipos, consúltese las Normas de Procedimientos Eléctricos de Canadá, (CSA C22.1), o las
+Prácticas Recomendadas de 2003 del Instituto Americano del Petróleo (API), sobre "Protección
+contra las igniciones producidas por estática, relámpagos y corrientes parásitas" o las "Prácticas
+recomendadas sobre la electricidad estática", de la Asociación Nacional para la Protección contra
+Incendios, NFPA 77 o el "Código Eléctrico Nacional", NFPA 70.
+Para instrucciones para el uso del producto, por favor vea la etiqueta del producto.
+Precauciones que se deben
+tomar para garantizar un
+manejo seguro
+Guardar lejos del calor, las chispas o llamas abiertas. Evite que se acumulen cargas
+electrostáticas usando las técnicas comunes de unión y conexión a tierra. Eliminar las fuentes de
+ignición. Evitar los productores de chispas. Hacer conexiones equipotenciales y de puesta a tierra
+de los recipientes y equipos. Estas medidas por sí solas podrían ser insuficientes para eliminar la
+electricidad estática. Guárdese en un lugar fresco y seco sin exposición a la luz solar directa.
+Almacenar en un recipiente herméticamente cerrado. Almacenar en un lugar bien ventilado.
+Guárdelo en una zona equipada con extintores automáticos. Almacenar alejado de materiales
+incompatibles (véase la Sección 10 de la HDS).
+Condiciones de
+almacenamiento seguro,
+incluida cualquier
+incompatibilidad
+8. Controles de exposición/protección personal
+Límite(s) de exposición ocupacional
+Los siguientes componentes son los únicos de este producto que tienen un PEL, TLV u otro límite de exposición recomendado.
+Actualmente los otros componentes no tienen establecido un límite de exposición.
+OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)
+ValorComponentes Tipo
+Límite de Exposición
+Permisible (LEP)
+980 mg/m3Alcohol isopropílico (CAS
+67-63-0)
+400 ppm
+Límite de Exposición
+Permisible (LEP)
+400 mg/m3nafta ligera hidrotratada
+(petróleo) (CAS
+64742-49-0)
+100 ppm
+Límite de Exposición
+Permisible (LEP)
+2000 mg/m3n-Heptano (CAS 142-82-5)
+500 ppm
+Límite de Exposición
+Permisible (LEP)
+400 mg/m3solvente, nafta (petróleo),
+alifáticos ligeros (CAS
+64742-89-8)
+100 ppm
+EE.UU. Valores umbrales ACGIH
+ValorComponentes Tipo
+STEL 400 ppmAlcohol isopropílico (CAS
+67-63-0)
+TWA 200 ppm
+STEL 500 ppmn-Heptano (CAS 142-82-5)
+4 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 5]]
+EE.UU. Valores umbrales ACGIH
+ValorComponentes Tipo
+TWA 400 ppm
+NIOSH de EUA: Guía de bolsillo acerca de los peligros químicos
+ValorComponentes Tipo
+STEL 1225 mg/m3Alcohol isopropílico (CAS
+67-63-0)
+500 ppm
+TWA 980 mg/m3
+400 ppm
+TWA 400 mg/m3nafta ligera hidrotratada
+(petróleo) (CAS
+64742-49-0)
+100 ppm
+TWA 350 mg/m3n-Heptano (CAS 142-82-5)
+85 ppm
+Valor techo 1800 mg/m3
+440 ppm
+TWA 400 mg/m3solvente, nafta (petróleo),
+alifáticos ligeros (CAS
+64742-89-8)
+100 ppm
+Valores límites biológicos
+Índices biológicos de exposición, ACGIH
+ValorComponentes Determinante Espécimen Hora de muestreo
+40 mg/l Acetona orina *Alcohol isopropílico (CAS
+67-63-0)
+* - Consultar los detalles del muestreo en el documento original.
+Ventilación de escape general y local a prueba de explosiones. Debe haber una ventilación
+general adecuada. La frecuencia de la renovación del aire debe corresponder a las condiciones.
+De ser posible, use campanas extractoras, ventilación aspirada local u otras medidas técnicas
+para mantener los niveles de exposición por debajo de los límites de exposición recomendados. Si
+no se han establecido ningunos límites de exposición, el nivel de contaminantes suspendidos en
+el aire ha de mantenerse a un nivel aceptable. Proveer estación de lavados de ojos y ducha de
+emergencia.
+Controles técnicos apropiados
+Medidas de protección individual, como equipos de protección personal recomendados
+Use gafas de seguridad con protectores laterales (o goggles).Protección para los ojos/la
+cara
+Protección de la piel
+Use guantes de protección tales como: Película laminada.Protección para las
+manos
+Use ropa adecuada resistente a los productos químicos.Otros
+Si no son viables controles de ingeniería o si la exposición supera los límites de exposición
+aplicables, usar un respirador de cartucho aprobado por NIOSH con un cartucho de vapor
+orgánico. Use aparatos respiratorios autónomos en espacios y emergencias. Se necesita
+monitoreo del aire para determinar los niveles efectivos de exposición de los empleados.
+Protección respiratoria
+Llevar ropa adecuada de protección térmica, cuando sea necesario.Peligros térmicos
+No fumar durante su utilización. Seguir siempre buenas medidas de higiene personal, como
+lavarse después de manejar el material y antes de comer, beber y/o fumar. Rutinariamente lave la
+ropa de trabajo y el equipo de protección para eliminar los contaminantes.
+Consideraciones generales
+sobre higiene
+9. Propiedades físicas y químicas
+       Apariencia
+Líquido.Estado físico
+Líquido.Forma
+5 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 6]]
+Incoloro.Color
+Agradable.Olor
+Umbral olfativo No disponible (ND).
+pH No disponible (ND).
+Punto de fusión/punto de
+congelación
+-91.1 °C (-132 °F) estimado
+Punto inicial e intervalo de
+ebullición
+87.8 °C (190 °F) estimado
+Punto de inflamación -9.0 °C (15.8 °F) estimado
+Tasa de evaporación Rápida.
+No disponible (ND).Inflamabilidad (sólido, gas)
+Límites superior/inferior de inflamabilidad o explosividad
+Límite inferior de 
+inflamabilidad (%)
+1 % estimado
+Límite superior de 
+inflamabilidad (%)
+13 % estimado
+Presión de vapor 80.1 hPa estimado
+Densidad de vapor > 1 (Aire = 1)
+Densidad relativa 0.7
+Solubilidad(es)
+Solubilidad (agua) Ligeramente soluble.
+Coeficiente de reparto:
+n-octanol/agua
+No disponible (ND).
+Temperatura de
+auto-inflamación
+222.8 °C (433 °F) estimado
+Temperatura de
+descomposición
+No disponible (ND).
+Viscosidad No disponible (ND).
+Porcentaje de volátiles No disponible (ND).
+10. Estabilidad y reactividad
+El producto es estable y no es reactivo en condiciones normales de uso, almacenamiento y
+transporte.
+Reactividad
+El material es estable bajo condiciones normales.Estabilidad química
+Ninguno bajo el uso normal.Posibilidad de reacciones
+peligrosas
+Evite calor, chispas, llamas abiertas y otras fuentes de ignición. Evitar el contacto con materiales
+incompatibles.
+Condiciones que deben
+evitarse
+Ácidos. Agentes oxidantes fuertes. cloro isocianatosMateriales incompatibles
+óxidos de carbono. Óxidos de azufre.Productos de descomposición
+peligrosos
+11. Información toxicológica
+Información sobre las posibles vías de exposición
+Inhalación Puede provocar somnolencia o vértigo. Dolor de cabeza. Náusea, vómitos. La inhalación
+prolongada puede resultar nociva.
+Contacto con la cutánea Provoca irritación cutánea.
+Contacto con los ocular Provoca irritación ocular grave.
+Ingestión Si el producto entra en contacto con los pulmones por ingestión o vómito, puede provocar una
+seria neumonía química.
+Síntomas relacionados con las
+características físicas,
+químicas y toxicológicas
+Su inhalación puede causar edema pulmonar y neumonía. Puede provocar somnolencia o
+vértigo. Dolor de cabeza. Náusea, vómitos. Grave irritación de los ojos. Los síntomas pueden
+incluir escozor, lagrimeo, enrojecimiento, hinchazón y visión borrosa. Irritación de la piel. Puede
+causar enrojecimiento y dolor.
+Información sobre los efectos toxicológicos
+6 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 7]]
+Toxicidad aguda Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias.
+Resultados de la pruebaComponentes Especies
+Heptanos, ramificados, cíclicos y lineales (CAS 426260-76-6)
+Dérmico
+Agudo
+DL50 conejo > 2000 mg/kg
+Inhalación
+CL50 Rata > 60 mg/l, 4 horas
+Oral
+DL50 Rata > 5000 mg/kg
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+Dérmico
+Agudo
+DL50 Rata > 2000 mg/kg
+Inhalación
+CL50 Rata > 5.2 mg/l, 4 horas
+Vapor
+Oral
+DL50 Rata > 5000 mg/kg
+n-Heptano (CAS 142-82-5)
+Dérmico
+Agudo
+DL50 conejo > 2000 mg/kg
+Inhalación
+CL50 Rata > 73.5 mg/l, 4 horas
+Vapor
+Oral
+DL50 Rata > 5000 mg/kg
+Provoca irritación cutánea.Corrosión/irritación cutáneas
+Provoca irritación ocular grave.Lesiones oculares
+graves/irritación ocular
+Sensibilidad respiratoria o cutánea
+Sensibilización
+respiratoria
+No es un sensibilizante respiratorio.
+No se espera que este producto cause sensibilización cutánea.Sensibilización cutánea
+No hay datos disponibles que indiquen que el producto o cualquier compuesto presente en una
+cantidad superior al 0.1% sea mutagénico o genotóxico.
+Mutagenicidad en células
+germinales
+Carcinogenicidad No está clasificado en cuanto a la carcinogenicidad en seres humanos.
+Monografías del IARC. Evaluación general de la carcinogenicidad
+No listado.
+OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)
+No listado.
+Programa Nacional de Toxicología de EUA (NTP). Reporte sobre carcinógenos
+No listado.
+No se espera que este producto cause efectos reproductivos o al desarrollo.Toxicidad para la reproducción
+Toxicidad sistémica específica
+de órganos diana - Exposición
+única
+Puede provocar somnolencia o vértigo.
+Toxicidad sistémica específica
+de órganos diana -
+Exposiciones repetidas
+No clasificado.
+Peligro por aspiración Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias.
+7 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 8]]
+Efectos crónicos La inhalación prolongada puede resultar nociva.
+12. Información ecotoxicológica
+Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.Ecotoxicidad
+Componentes Resultados de la pruebaEspecies
+n-Heptano (CAS 142-82-5)
+Acuático/a
+Agudo
+EC50Crustáceos > 10 mg/l, 24 horasPulga de agua (Daphnia magna)
+1.5 mg/l, 48 horas
+CL50Peces 375 mg/l, 96 horasPeces de agua dulce
+4 mg/l, 24 horaspez dorado (carassius auratus)
+No existen datos disponibles sobre la degradabilidad de cualquiera de los elementos en la
+  mezcla.      
+Persistencia y degradabilidad
+No hay datos disponibles.Potencial de bioacumulación
+Factor de bioconcentración (FBC)
+nafta ligera hidrotratada (petróleo) 10 - 2500
+Coeficiente de reparto octanol/agua log Kow
+Alcohol isopropílico 0.05
+n-Heptano 4.66
+No hay datos disponibles.Movilidad en el suelo
+Otros efectos adversos No se esperan otros efectos adversos para el medio ambiente (p. ej. agotamiento del ozono,
+posible generación fotoquímica de ozono, perturbación endocrina, potencial para el
+calentamiento global) debido a este componente.
+13. Información relativa a la eliminación de los productos
+Si este producto se elimina se considera un residuo que puede encenderse, de acuerdo con
+RCRA, D001. El recipiente vació puede reciclarse. Recoger y recuperar o botar en recipientes
+sellados en un vertedero oficial. No deje que el material entre en el drenaje o en el suministro de
+agua. No contamine los estanques, ríos o acequias con producto químico ni envases usados.
+Eliminar el contenido/recipiente conforme a las reglamentaciones
+local/regional/nacional/internacional.
+Instrucciones para la
+eliminación
+D001: Material de Residuos Inflamables con una temperatura de inflamación <140º FCódigo de residuo peligroso
+Ya que los recipientes vacíos pueden contener restos de producto, obsérvense las advertencias
+indicadas en la etiqueta después de vaciarse el recipiente. Los contenedores vacíos deben ser
+llevados a un sitio de manejo aprobado para desechos, para el reciclado o eliminación.
+Envases contaminados
+14. Información relativa al transporte
+DOT
+UN1993Número ONU
+Líquidos inflamables , n.o.s. (Heptanes, Isopropyl alcohol), CONTAMINANTE MARINO
+(HEPTANOS)
+Designación oficial de
+transporte de las Naciones
+Unidas
+3Clase
+Clase(s) relativas al transporte
+-Riesgo secundario
+3Etiquetas
+IIGrupo de embalaje/envase,
+cuando aplique
+SíContaminante marino
+Peligros para el medio ambiente
+Leer las instrucciones de seguridad, la HDS y los procedimientos de emergencia antes de
+manipular el producto.
+Precauciones especiales
+para el usuario
+IB2, T7, TP1, TP8, TP28Disposiciones especiales
+150Excepciones de embalaje
+202Embalaje no a granel
+242Embalaje a granel
+IATA
+UN1993UN number
+8 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 9]]
+Flammable liquid, n.o.s. (Heptanes, Isopropyl alcohol)UN proper shipping name
+3Class
+Transport hazard class(es)
+-Subsidiary risk
+IIPacking group
+YesEnvironmental hazards
+3HERG Code
+Read safety instructions, SDS and emergency procedures before handling.Special precautions for user
+ForbiddenPassenger and cargo
+aircraft
+Other information
+Allowed with restrictions.Cargo aircraft only
+IMDG
+UN1993UN number
+FLAMMABLE LIQUID, N.O.S. (Heptanes, Isopropyl alcohol), MARINE POLLUTANT (Heptanes)UN proper shipping name
+3Class
+Transport hazard class(es)
+-Subsidiary risk
+IIPacking group
+YesMarine pollutant
+Environmental hazards
+F-E, S̲ -E̲EmS
+Read safety instructions, SDS and emergency procedures before handling.Special precautions for user
+DOT
+IATA; IMDG
+Contaminante marino
+Contaminante marino reglamentado por el IMDG Contaminante Marino Regulado por el
+Departamento de Transporte (DOT).
+Información general
+9 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 10]]
+15. Información reguladora
+Este producto es calificado como "químicamente peligroso" según el Estándar de Comunicación
+de Riesgos de la OSHA Hazard Communication Standard, 29 CFR 1910.1200.
+Reglamentos federales de
+EE.UU.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subapartado D) (Notificación de exportación)
+No regulado.
+SARA Sección 304 Notificación de emergencia sobre la liberación de sustancias
+No regulado.
+OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)
+No listado.
+Lista de sustancias peligrosas de CERCLA (40 CFR 302.4)
+No listado.
+CERCLA Lista de Sustancias Peligrosas : Cantidad reportable
+No listado.
+Los derrames o liberaciones con pérdida de cualquier ingrediente en su RQ o en cantidades superiores requieren notificación
+inmediata al Centro Nacional de Respuesta (800-424-8802) y a su Comité Local de Planificación de Emergencias.
+Otras disposiciones federales
+Ley de Aire Limpio (CAA), sección 112, lista de contaminantes peligrosos del aire (CPA)
+No regulado.
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130) (Ley de aire limpio, Prevención de
+liberación accidental)
+No regulado.
+Contiene componentes regulados según la Ley del agua potable segura.Ley de Agua Potable
+Segura (SDWA, siglas en
+inglés)
+FEMA Sustancias Prioritarias para la Salud y Seguridad Respiratoria en el lugar de trabajo en la fabricación de
+aromatizantes
+Alcohol isopropílico (CAS 67-63-0) Prioridad baja
+No regulado.Dirección de Alimentos y
+Medicamentos de los EUA
+(FDA)
+Ley de Enmiendas y Reautorización del Superfondo de 1986 (SARA)
+Inflamables (gases, aerosoles, líquidos o sólidos)
+Corrosión/irritación cutánea
+Lesión ocular grave/irritación ocular
+Toxicidad específica del órgano blanco- (Exposición única o repetida)
+Peligro por aspiración
+Peligro no clasificado en otra parte (HNOC)
+Categorías de peligro
+clasificadas
+SARA 302 Sustancia extremadamente peligrosa
+No listado.
+SíSARA 311/312 Sustancias
+químicas peligrosas
+SARA 313 (Reporte TRI, acerca del Inventario de liberación de sustancias tóxicas) 
+No regulado.
+Regulaciones de un estado de EUA
+Estados Unidos. Listado de sustancias candidatas de California. Regulaciones sobre los Productos de Consumo más
+Seguros (Cal. Code Regs, tit. 22, 69502.3, subd. (a))
+Alcohol isopropílico (CAS 67-63-0)
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+n-Heptano (CAS 142-82-5)
+solvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)
+Ley del derecho a la información de los trabajadores y la comunidad de Nueva Jersey, EUA
+Alcohol isopropílico (CAS 67-63-0)
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+n-Heptano (CAS 142-82-5)
+solvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)
+Derecho a la información de Massachusetts – Lista de sustancias
+Alcohol isopropílico (CAS 67-63-0)
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+10 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 11]]
+n-Heptano (CAS 142-82-5)
+solvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)
+US. Ley del Derecho a la Información de los Trabajadores y la Comunidad de Pennsylvania
+Alcohol isopropílico (CAS 67-63-0)
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+n-Heptano (CAS 142-82-5)
+solvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)
+Derecho a la información de Rhode Island, EUA
+Alcohol isopropílico (CAS 67-63-0)
+nafta ligera hidrotratada (petróleo) (CAS 64742-49-0)
+n-Heptano (CAS 142-82-5)
+solvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)
+Proposición 65 de California 
+Cáncer y Daño Reproductivo - www.P65Warnings.ca.govATENCIÓN: 
+Proposición 65 de California - CRT: Fecha de Listado/sustancia carcinogénica
+benceno (CAS 71-43-2) Listado: 27 de febrero de 1987
+cumeno (CAS 98-82-8) Listado: 6 de abril de 2010
+etilbenceno (CAS 100-41-4) Listado: 11 de junio de 2004
+metil isobutil cetona (CAS 108-10-1) Listado: 4 de noviembre de 2011
+naftaleno (CAS 91-20-3) Listado: 19 de abril de 2002
+Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en la mujer
+benceno (CAS 71-43-2) Listado: 26 de diciembre de 1997
+Metanol (CAS 67-56-1) Listado: 16 de marzo de 2012
+metil isobutil cetona (CAS 108-10-1) Listado: 28 de marzo de 2014
+Tolueno (CAS 108-88-3) Listado: 1 de enero de 1991
+Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en el hombre
+benceno (CAS 71-43-2) Listado: 26 de diciembre de 1997
+n-hexano (CAS 110-54-3) Listado: 15 de diciembre de 2017
+Reglamentos de Compuestos Orgánicos Volátiles (COV)
+Agencia de Protección Ambiental de los Estados Unidos de América (EPA)
+Contenido de COV (40
+CFR 51.100(s))
+100 %
+No reguladoProductos de
+consumo (40 CFR 59,
+subparte C)
+Estado
+Este producto está regulado como Limpiador de Frenos. This product is not compliant to be sold
+for use in California, Colorado, Connecticut, Delaware, the District of Columbia, Illinois, Indiana,
+Maine, Maryland, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Ohio,
+Pennsylvania, Rhode Island and parts of Utah and Virginia. Este producto cumple con las normas
+de todos los demás estados.
+Productos de
+consumo
+Contenido de COV
+(CA)
+100 %
+Contenido de COV
+(OTC)
+100 %
+Inventarios Internacionales 
+País(es) o región Nombre del inventario Listado (sí/no)* 
+NoAustralia Inventario Australiano de Sustancias químicas de la Industria
+(AICIS)
+SíCanadá Lista de Sustancias Nacionales (DSL)
+NoCanadá Lista de Sustancias No Nacionales (NDSL)
+NoChina Inventario de Sustancias Químicas Existentes en China (IECSC,
+Inventory of Existing Chemical Substances in China)
+NoEuropa Inventario Europeo de Sustancias Químicas Comerciales
+(EINECS)
+NoEuropa Lista Europea de Sustancias Químicas Notificadas (ELINCS)
+NoJapón Inventario de Sustancias Químicas Nuevas y Existentes (ENCS)
+11 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US
+
+[[page 12]]
+País(es) o región Nombre del inventario Listado (sí/no)* 
+SíCorea Lista de Sustancias Químicas Existentes (ECL)
+NoNueva Zelanda Inventario de Nueva Zelanda
+SíFilipinas Inventario de Sustancias Químicas de Filipinas (PICCS)
+SíTaiwán Inventario de Sustancias Químicas de Taiwán (TCSI)
+SíEstados Unidos y Puerto Rico Inventario de la Ley del Control de Sustancias Tóxicas (TSCA)
+*Un "Sí" indica que todos los componentes de este producto cumplen con los requisitos del inventario administrado por el(los) país(es)
+responsable(s)
+Un "No" indica que uno o más componentes del producto no están listados o están exentos de los requisitos del inventario administrado por
+el(los) país(es) responsable(s).
+16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la
+HDS
+01-Agosto-2019La fecha de emisión
+20-Diciembre-2021La fecha de revisión
+Danica FulmerPreparado por
+Indicación de la versión 03
+CRC # 937A/1002953Información adicional
+La información que este documento contiene se refiere al material específico como fue
+suministrado. Podrá no ser válida para este material si se lo usa combinado con cualquier otro
+material. Al mejor entender de CRC, esta información es precisa o ha sido obtenida de fuentes
+que CRC considera precisas. Antes de utilizar cualquier producto, lea todas las advertencias e
+instrucciones en la etiqueta. Para mayores aclaraciones sobre cualquier información contenida en
+esta (M)SDS, consulte a su supervisor, un profesional de salud y seguridad o CRC Industries,
+Inc..
+Cláusula de exención de
+responsabilidad
+Este documento ha sido sometido a importantes modificaciones y deberá ser revisado en su
+totalidad.
+Fecha de revisión
+12 / 12 
+Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal 
+No. 05186 (Item# 1003747)     Indicación de la versión: 03    La fecha de revisión: 20-Diciembre-2021    Fecha de publicación: 01-Agosto-2019 
+SDS US

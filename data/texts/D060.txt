@@ -1,0 +1,750 @@
+[[page 1]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 1 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+RUBRIQUE 1: IDENTIFICATION DE LA SUBSTANCE/DU MÉLANGE ET DE LA 
+SOCIÉTÉ/L'ENTREPRISE. 
+ 
+1.1 Identificateur de produit. 
+ 
+Nom du produit:  BRICO MASTIC COLLE 
+Code du produit:  B-31 
+Code interne:  B31NF1311A20 
+ 
+ 
+1.2 Utilisations identifiées pertinentes de la substance ou du mélange et utilisations déconseillées. 
+ 
+Mastic-colle haute adhérence. 
+ 
+Nous recommandons la lecture attentive de la Fiche Technique correspondante. 
+ 
+Usages non recommandés: 
+Usages différents de ceux recommandés. 
+ 
+ 
+1.3 Renseignements concernant le fournisseur de la fiche de données de sécurité. 
+ 
+Entreprise:   ESTABLECIMIENTOS BAIXENS S.L. 
+Adresse:    Pol. Industrial Moncarra, s/nº 
+Ville:    46230  ALGINET  
+Province ou région:   VALENCIA - ESPAGNE 
+Numéro Vert:             08 00 90 14 37  
+Fax:     96 175 93 92 / 08 00 90 20 52 
+E-mail:     laboratorio@baixens.com 
+Web:   www.baixens.com 
+ 
+1.4 Numéro d'appel d'urgence: 961 750 834 (Disponible seulement en horaire de bureaux; Lundi-Vendredi; 08:00-18:00) 
+ 
+RUBRIQUE 2: IDENTIFICATION DES DANGERS. 
+ 
+2.1 Classification de la substance ou du mélange. 
+Le produit n'est pas classé comme dangereux au sens de le Règlement (CE) No 1272/2008. 
+ 
+2.2 Éléments d'étiquetage.  . 
+. 
+Phrases EUH: 
+EUH208 Contient 1,2 -benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-
+one.  Peut produire une réaction allergique. 
+EUH210 Fiche de données de sécurité disponible sur demande. 
+ 
+2.3 Autres dangers. 
+ 
+Le mélange ne contient pas de substances classées PBT. 
+Le mélange ne contient pas de substances classées vPvB. 
+Le mélange ne contient pas de substances avec des propriétés perturbant le système endocrinien.  
+ 
+En conditions normales d'utilisation et dans sa forme originale, le produit ne présente pas d'autres dangers pour la santé et  pour 
+l'environnement. 
+ 
+RUBRIQUE 3: COMPOSITION/INFORMATIONS SUR LES COMPOSANTS. 
+ 
+3.1 Substances. 
+Pas Applicable.
+
+[[page 2]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 2 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+3.2 Mélanges. 
+Substances qui présentent des risques pour la sante ou pour l'environnement conformément a le Règlement (CE) No.1272/2008, 
+qui ont une limite d'exposition professionnelle assignée, qui sont classifiées comme PBT/vPvB ou qui figurent sur la liste de s 
+substances candidates: 
+ 
+Identifiants Nom Concentration 
+(*)Classification Règlement (CE) 
+No 1272/2008 
+Classification 
+Limites de 
+concentration 
+spécifiques et 
+Estimation de la 
+toxicité aiguë 
+Index No: 613-088-
+00-6 
+CAS No: 2634-33-5 
+CE No: 220-120-9 
+Registration No: 01-
+2120761540-60-XXXX 
+1,2-benzisothiazol-3(2H)-one,1,2-
+benzisothiazolin-3-one 0.01375 % 
+Acute Tox. 2, 
+H330 - Acute 
+Tox. 4, H302 - 
+Aquatic Acute 
+1, H400 (M=1) 
+- Aquatic 
+Chronic 1, 
+H410 (M=1) - 
+Eye Dam. 1, 
+H318 - Skin 
+Irrit. 2, H315 - 
+Skin Sens. 1A, 
+H317 
+Skin Sens. 1A, 
+H317: C ≥ 
+0,036 % 
+Par inhalation: 
+ETA = 0.21 
+mg/L (ATP 21) 
+Par voie orale: 
+ETA = 450 
+mg/kg bw (ATP 
+21) 
+Index No: 613-167-
+00-5 
+CAS No: 55965-84-9 
+masse de réaction de 5-chloro2-méthyl-2H-
+isothiazol-3-one et de 2-méthyl-2H-isothiazol3-
+one (3:1) 
+0.00112 % 
+Acute Tox. 2, 
+H310 - Acute 
+Tox. 2, H330 - 
+Acute Tox. 3, 
+H301 - Aquatic 
+Acute 1, H400 
+(M=100) - 
+Aquatic Chronic 
+1, H410 
+(M=100) - Eye 
+Dam. 1, H318 - 
+Skin Corr. 1C, 
+H314 - Skin 
+Sens. 1A, H317, 
+ EUH071 
+Skin Corr. 1C, 
+H314: C ≥ 0,6 
+% 
+Skin Irrit. 2, 
+H315: 0,06 % 
+≤ C < 0,6 % 
+Eye Irrit. 2, 
+H319: 0,06 % 
+≤ C < 0,6 % 
+Skin Sens. 1A, 
+H317: C ≥ 
+0,0015 % 
+Eye Dam. 1, 
+H318: C ≥ 0,6 
+% 
+(*) Le texte complet des phrases H est détaillé dans le rubrique 16 de cette fiche de sécurité. 
+* Voir le règlement (CE) n ° 1272/2008, annexe VI, section 1.2.   
+ 
+ 
+RUBRIQUE 4: PREMIERS SECOURS. 
+ 
+4.1 Description des mesures de premiers secours. 
+Compte tenu de la composition et de la typologie des substances présentes dans le produit, aucun avertissement particulier ne  
+s’avère nécessaire. 
+ 
+En cas d’inhalation. 
+Si la respiration s'arrête, appliquer la respiration artificielle et demander une prise en charge médicale urgente. Mettre la victime de 
+l’accident à l’air libre, la maintenir au chaud et en position de repos, si sa respiration est irrégulière ou s’interro mpt, pratiquer sur 
+cette dernière la technique de la respiration artificielle. 
+ 
+En cas de contact avec les yeux. 
+Enlever les lentilles de contact si la victime en porte et si elles peuvent être facilement enlevées. Rincer abondamment les yeux à  
+l’eau claire et fraîche, pendant au moins 10 minutes, tout en étirant régulièrement les paupières vers le haut et demander l’aide 
+d’un médecin. 
+ 
+En cas de contact avec la peau. 
+Retirer les vêtements souillés.
+
+[[page 3]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 3 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+En cas d’ingestion. 
+Maintenir la victime en position de repos. NE JAMAIS provoquer le vomissement. 
+ 
+4.2 Principaux symptômes et effets, aigus et différés. 
+Aucun effet connu aigus et retardés d'une exposition au produit. 
+ 
+4.3 Indication des éventuels soins médicaux immédiats et traitements particuliers nécessaires. 
+En cas de doute ou si les symptômes persistent, demander l’assistance d’un médecin. Ne rien administrer par voie orale à une 
+personne inconsciente. 
+ 
+ 
+RUBRIQUE 5: MESURES DE LUTTE CONTRE L'INCENDIE. 
+ 
+5.1 Moyens d'extinction. 
+Moyens d'extinction appropriés: 
+Extincteur de type poudre ou CO2. En cas d’incendies plus importants il est aussi possible d'utiliser de la mousse résistante à l'alcool 
+ou pulvériser de l'eau. 
+ 
+Moyens d'extinction inappropriés: 
+Pour l’extinction ne jamais utiliser un jet direct d’eau. En presence de tension électrique ne pas utiliser de l'eau ou de la  mousse 
+comme moyen d'extinction. 
+ 
+5.2 Dangers particuliers résultant de la substance ou du mélange. 
+Risques particuliers. 
+L’exposition aux substances produites suite à la combustion ou à la décomposition peut être dangereuse pour la santé. 
+ 
+5.3 Conseils aux pompiers. 
+Rafraîchir par pulvérisation d’eau tout réservoir, citerne ou récipient proche du feu ou de toute autre source de chaleur. Te nir 
+compte de la direction du vent. 
+ 
+Équipement de protection anti-incendies. 
+En fonction de la magnitude ou de l’importance de l’incendie, l’utilisation de combinaisons de protection thermique, d’appareils de 
+respiration individuels, de gants, de lunettes de protection ou de masques anatomiques faciaux et de bottes peut s’avérer nécessaire. 
+ 
+ 
+RUBRIQUE 6: MESURES À PRENDRE EN CAS DE DISPERSION ACCIDENTELLE . 
+ 
+6.1 Précautions individuelles, équipement de protection et procédures d'urgence. 
+Pour tout contrôle d’exposition et mesures de protection individuelle, voir rubrique 8. 
+ 
+6.2 Précautions pour la protection de l'environnement. 
+Le produit n’est pas classé comme dangereux pour l’environnement, éviter dans la mesure du possible de le déverser. 
+ 
+6.3 Méthodes et matériel de confinement et de nettoyage. 
+Retenir et récupérer le produit déversé avec un matériau absorbant inerte (terre, sable, vermiculite, terre de diatomée...) et nettoyer 
+immédiatement la zone avec un décontaminant approprié. 
+Déposer les déchets dans des récipients fermés et adaptés en vue de leur élimination, conformément aux normes locales et 
+nationales (voir rubrique 13). 
+ 
+6.4 Référence à d'autres rubriques. 
+Pour tout contrôle d’exposition et mesures de protection individuelle, voir rubrique 8. 
+Pour l’ultérieure élimination des résidus, se reporter aux recommandations décrites dans la rubrique 13. 
+ 
+ 
+RUBRIQUE 7: MANIPULATION ET STOCKAGE. 
+ 
+7.1 Précautions à prendre pour une manipulation sans danger. 
+Le produit ne requiert aucune mesure spéciale de manipulation, il est recommandé de suivre les mesures générales: 
+Pour la protection personnelle se reporter à la section 8.
+
+[[page 4]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 4 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+Il est formellement interdit de fumer, manger ou boire dans la zone d’application du produit. 
+Respecter la législation relative à la Sécurité et à l’Hygiène dans le cadre du travail. 
+Ne jamais utiliser la pression pour vider les containers, ces derniers n’ayant pas été conçus pour résister à la pression. Conserver le 
+produit dans un récipient de même matériau que le récipient ou container original. 
+ 
+7.2 Conditions d'un stockage sûr, y compris d'éventuelles incompatibilités. 
+Le produit ne requiert aucune mesure spéciale de stockage. 
+Comme normes générales de stockage, éviter les sources de chaleur ou les rayons du soleil, l’électricité et le contact avec l es 
+aliments. 
+Éloigner de tout agent oxydant ou matériau hautement acide ou alcalin. 
+Conserver les containers entre 5 et 25 ºC, dans un endroit sec et bien aéré.Magasiner le produit en accord avec la législation locale 
+correspondante. Tenir compte des indications portées sur l’étiquette. Une fois ouvert, tout container doit être précaution nement 
+refermé et positionné verticalement afin d’éviter toute chute ou renversement. 
+ 
+Le produit n'est pas affecté par la Directive 2012/18/UE (SEVESO III). 
+ 
+7.3 Utilisation(s) finale(s) particulière(s). 
+Application du produit dans les conditions et supports indiqués dans le FT de celui-ci. Utilisations spécifiées à la section 1.2. 
+ 
+ 
+RUBRIQUE 8: CONTRÔLES DE L'EXPOSITION/PROTECTION INDIVIDUELLE . 
+ 
+8.1 Paramètres de contrôle. 
+ 
+Le produit NE contient PAS de substances avec des Valeurs Limites Environnementale d’Exposition Professionnelle. Le produit ne 
+contient pas de substances avec des Valeurs Limites Biologiques. 
+ 
+8.2 Contrôles de l'exposition.          
+ 
+Mesures d’ordre technique: 
+ Prévoir un système d’aération adapté, au moyen de l’installation d’une unité d’extraction- ventilation locale ainsi que d’un 
+système général d’extraction. 
+  
+Concentration: 100 % 
+Utilisation(s): Mastic 
+Protection respiratoire: 
+PPE: Masque filtrant pour se protéger contre les gaz et les particules. 
+ 
+Caractéristiques: Marquage «CE» Catégorie III. Le masque doit offrir un champ de vision large posséder une forme anatomique et être étanche et hermétique. 
+Normes CEN: EN 136, EN 140, EN 405 
+Maintenance: 
+Il ne doit pas être stocké dans des endroits exposés à des températures élevées ou humides avant son 
+utilisation. Il faut contrôler particulièrement l'état des valves d'inhalation et exhalation de l'adaptateur 
+facial. 
+Observations: 
+Lire attentivement les instructions du fabricant concernant l'utilisation et l'entretien de l'équipement. 
+Coupler à l'équipement les filtres nécessaires, en fonction des caractéristiques spécifiques du risque 
+(particules et aérosols: P1-P2-P3, Gaz et vapeurs : A-B-E-K-AX) en les changeant selon les 
+recommandations du fabricant. 
+Type de filtre 
+nécessaire: A2 
+Protection des mains: 
+PPE: Gants non jetables de protection contre les produits chimiques 
+ 
+Caractéristiques: Marquage «CE» Catégorie III. Vérifier la liste de produits chimiques contre lesquels le gant a été testé. 
+Normes CEN: EN 374-1, En 374-2, EN 374-3, EN 420 
+Maintenance: 
+Il faudra établir un calendrier pour remplacer les gants fréquemment afin de garantir qu'ils sont 
+remplacés avant d'être contaminés. L'utilisation de gants contaminés peut s'avérer plus dangereuse que 
+la non utilisation, car le contaminant peut s'accumuler sur le matériel de composition du gant. 
+Observations: Remplacer les gants s'ils présentent des ruptures, des fissures ou des déformations, et lorsque la saleté extérieure peut les rendre moins résistants.
+
+[[page 5]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 5 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+Matériaux: PVC (Polychlorure de vinyle) Temps de pénétration (min.): > 480 Epaisseur du matériau (mm): 0,35 
+Protection des yeux: 
+PPE: Lunettes de protection contre les impacts de particules 
+ 
+Caractéristiques: Marquage «CE» Catégorie II. Protecteur des yeux contre la poussière et les fumées. 
+Normes CEN: EN 165, EN 166, EN 167, EN 168 
+Maintenance: La visibilité au travers des lunettes doit être optimale, c'est pourquoi il faut les nettoyer tous les jours et les désinfecter régulièrement, conformément aux instructions du fabricant. 
+Observations: Indicateurs de détérioration tels que: Lunettes présentant une couleur jaunâtre, des rayures superficielles ou plus profondes, etc. 
+Protection de la peau: 
+PPE: Vêtements de protection contre les produits chimiques 
+ 
+Caractéristiques: 
+Marquage «CE» Catégorie III. Les vêtements doivent être portés près du corps. Il 
+faut fixer le niveau de protection en fonction d'un paramètre d'essai appelé «Temps 
+de passage» (BT. Breakthrough Time) qui indique le temps que le produit chimique 
+tarde à traverser le matériel. 
+Normes CEN: EN 464,EN 340, EN 943-1, EN 943-2, EN ISO 6529, EN ISO 6530, EN 13034 
+Maintenance: Appliquer les instructions de lavage et de conservation fournies par le fabricant pour garantir une protection invariable. 
+Observations: 
+Le design des vêtements de protection devrait permettre de les porter facilement et près du corps sans 
+qu'ils bougent, pendant toute la durée d'utilisation prévue, en tenant compte des facteurs 
+environnementaux, des mouvements et des positions que l'utilisateur adoptera pendant l'exercice de son 
+activité. 
+PPE: Chaussures de sécurité aux propriétés antistatiques, de protection contre les produits chimiques 
+ 
+Caractéristiques: Marquage «CE» Catégorie III. Vérifier la liste de produits chimiques contre lesquels les chaussures ont été testées. 
+Normes CEN: EN ISO 13287, EN 13832-1, EN 13832-2, EN 13832-3, EN ISO 20344, EN ISO 20345 
+Maintenance: Pour bien entretenir ce type de chaussures de sécurité, il est indispensable de suivre les instructions spécifiées par le fabricant. Les chaussures doivent être remplacées dès qu'elles sont abîmées. 
+Observations: Nettoyer les chaussures régulièrement et les sécher lorsqu'elles sont humides, mais les placer trop près d'une source de chaleur, afin d'éviter tout changement brusque de température. 
+ 
+ 
+ 
+RUBRIQUE 9: PROPRIÉTÉS PHYSIQUES ET CHIMIQUES. 
+ 
+9.1 Informations sur les propriétés physiques et chimiques essentielles. 
+État physique: Pâte 
+Couleur:Caractéristique 
+Odeur: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Seuil olfactif: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Point de fusion: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Point de congélation: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Point d’ébullition ou point initial d’ébullition et intervalle d’ébullition: Non applicable/Non disponible en raison de la nature/des 
+propriétés du produit. 
+Inflammabilité: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Limites inférieure d’explosion: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Limites supérieure d’explosion: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Point d’éclair: >60ºC 
+Température d’auto-inflammation: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Température de décomposition: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+pH: 7.0-8.0 
+Viscosité cinématique: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Solubilité: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Hydro solubilité: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Liposolubilité: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Coefficient de partage n-octanol/eau (valeur log): Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Pression de vapeur: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Densité absolue: Non applicable/Non disponible en raison de la nature/des propriétés du produit.
+
+[[page 6]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 6 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+Densité relative: 1.36±0.07 gr/cm3 
+Densité de vapeur relative: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Caractéristiques des particules: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+ 
+9.2 Autres informations. 
+Viscosité: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Propriétés explosives: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Propriétés comburantes: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Point de goutte: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+Scintillation: Non applicable/Non disponible en raison de la nature/des propriétés du produit. 
+%Solides: 67-71% 
+ 
+ 
+RUBRIQUE 10: STABILITÉ ET RÉACTIVITÉ. 
+ 
+10.1 Réactivité. 
+Le produit ne présente pas de danger par leur réactivité. 
+ 
+10.2 Stabilité chimique. 
+Stable dans les conditions de manipulation et de conservation recommandées (voir épigraphe 7). 
+ 
+10.3 Possibilité de réactions dangereuses. 
+Le produit ne présentent possibilité de réactions dangereuses. 
+ 
+10.4 Conditions à éviter. 
+Eviter tout type de manipulation incorrecte 
+ 
+10.5 Matières incompatibles. 
+Maintenir éloigné tout agent oxydant ou matériau hautement alcalin ou acide, afin d’éviter une réaction exothermique. 
+ 
+10.6 Produits de décomposition dangereux. 
+Aucune décomposition se présente, si c'est utilisé dans les conditions recommandées 
+ 
+ 
+RUBRIQUE 11: INFORMATIONS TOXICOLOGIQUES. 
+ 
+11.1 Informations sur les classes de danger telles que définies dans le règlement (CE) no 1272/2008. 
+. 
+Information Toxicologique des substances présentes dans la composition. 
+ 
+Nom Toxicité aigue Type Essai Espèce Valeur 
+1,2-benzisothiazol-3(2H)-one,1,2-
+benzisothiazolin-3-one 
+Oral 
+LD50 Rat 1020 mg/kg bw [1] 
+ 
+[1] Pharmacological Research Communications. Vol. 3, Pg. 
+385, 1971 
+Cutané      
+Inhalation     CAS No: 2634-33-5 EC No: 220-120-9  
+a) toxicité aiguë; 
+Données non concluantes pour la classification. 
+ 
+b) corrosion cutanée/irritation cutanée; 
+Compte tenu des données disponibles, les critères de classification ne sont pas remplis. 
+ 
+c) lésions oculaires graves/irritation oculaire; 
+Compte tenu des données disponibles, les critères de classification ne sont pas remplis. 
+ 
+d) sensibilisation respiratoire ou cutanée; 
+Compte tenu des données disponibles, les critères de classification ne sont pas remplis.
+
+[[page 7]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 7 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+ 
+e) mutagénicité sur les cellules germinales; 
+Données non concluantes pour la classification. 
+ 
+f) cancérogénicité; 
+Données non concluantes pour la classification. 
+ 
+g) toxicité pour la reproduction; 
+Données non concluantes pour la classification. 
+ 
+h) toxicité spécifique pour certains organes cibles - exposition unique; 
+Données non concluantes pour la classification. 
+ 
+i) toxicité spécifique pour certains organes cibles – exposition répétée; 
+Données non concluantes pour la classification. 
+ 
+j) danger par aspiration. 
+Données non concluantes pour la classification. 
+ 
+11.2 Informations sur les autres dangers. 
+Propriétés perturbant le système endocrinien 
+Ce produit ne contient pas de composants ayant des propriétés perturbant le système endocrinien avec des effets sur la santé 
+humaine. 
+Autres informations 
+Il n'existe pas d'information disponible sur d'autres effets indésirables sur la santé. 
+ 
+ 
+RUBRIQUE 12: INFORMATIONS ÉCOLOGIQUES. 
+ 
+12.1 Toxicité. 
+ 
+Nom Écotoxicité Type Essai Espèce Valeur 
+1,2-benzisothiazol-3(2H)-one,1,2-
+benzisothiazolin-3-one 
+Poissons 
+LC50 Fish 10 mg/l (96 h) [1] 
+ 
+[1] Linden, E., B.E. Bengtsson, O. Svanberg, and G. 
+Sundstrom 1979.  The Acute Toxicity of 78 Chemicals and 
+Pesticide Formulations Against Two Brackish Water 
+Organisms, the Bleak (Alburnus alburnus) and the 
+Harpacticoid Nitocra spinipes.  Chemosphere 8(11/12):843-
+851 (Author Communication Used) (OECDG Data File) 
+Invertébrés 
+aquatiques 
+EC50 Crustacean 4,4 mg/l (48 h) [1] 
+ 
+[1] Office of Pesticide Programs 2000.  Pesticide Ecotoxicity 
+Database (Formerly:  Environmental Effects Database 
+(EEDB)).  Environmental Fate and Effects Division, U.S.EPA, 
+Washington, D.C 
+Plantes 
+aquatiques 
+    
+CAS No: 2634-33-5 EC No: 220-120-9  
+ 
+12.2 Persistance et dégradabilité. 
+Il n'y a pas d'information sur la biodégradabilité des substances présentes. 
+Il n'y a pas d'information sur la dégradabilité des substances présentes. 
+Aucune information n'est disponible sur la persistance et la dégradabilité du produit. 
+ 
+12.3 Potentiel de bioaccumulation. 
+Aucune information n'est disponible sur la bioaccumulation des substances présentes.
+
+[[page 8]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 8 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+ 
+ 
+ 
+12.4 Mobilité dans le sol. 
+Aucune information n'est disponible sur la mobilité dans le sol. 
+Éviter tout déversement dans les égouts ou les cours d'eau. 
+Éviter qu’il ne pénètre dans le sol. 
+ 
+12.5 Résultats des évaluations PBT et vPvB. 
+Aucune information n'est disponible sur les résultats de l'évaluation PBT et vPvB du produit. 
+ 
+12.6 Propriétés perturbant le système endocrinien. 
+Ce produit ne contient pas de components avec des propriétés propriétés perturbant le système endocrinien dans 
+l'environnement.  
+ 
+12.7 Autres effets néfastes. 
+Aucune information n'est disponible sur d'autres effets néfastes pour l'environnement. 
+ 
+ 
+RUBRIQUE 13: CONSIDÉRATIONS RELATIVES À L'ÉLIMINATION. 
+ 
+13.1 Méthodes de traitement des déchets. 
+Il est interdit de le déverser dans les égouts ou cours d’eau. Les résidus et containers vides doivent être manipulés et éliminés en 
+accord avec la législation locale / nationale correspondante en vigueur. 
+Suivre les dispositions de la Directive 2008/98/CE relative à la gestion des déchets. 
+ 
+ 
+RUBRIQUE 14: INFORMATIONS RELATIVES AU TRANSPORT. 
+ 
+Transport non-dangereux. En cas d’accident et de renversement du produit, procéder conformément au point 6. 
+ 
+14.1 Numéro ONU ou numéro d’identification. 
+Transport non-dangereux. 
+ 
+14.2 Désignation officielle de transport de l'ONU. 
+Description: 
+ADR/RID: Transport non-dangereux. 
+IMDG: Transport non-dangereux. 
+OACI/IATA: Transport non-dangereux. 
+ 
+14.3 Classe(s) de danger pour le transport. 
+Transport non-dangereux. 
+ 
+14.4 Groupe d'emballage. 
+Transport non-dangereux. 
+ 
+14.5 Dangers pour l'environnement. 
+Transport non-dangereux. 
+ Transport par bateau, FEm – Fiches d’urgence (F – Incendie, S – Dispersions):  Pas Applicable. 
+ 
+14.6 Précautions particulières à prendre par l'utilisateur. 
+Transport non-dangereux. 
+ 
+14.7 Transport maritime en vrac conformément aux instruments de l’OMI. 
+Transport non-dangereux.
+
+[[page 9]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 9 de 10 
+ 
+ 
+ 
+-Continue à la page suivante.- 
+ 
+ 
+RUBRIQUE 15: INFORMATIONS RELATIVES À LA RÉGLEMENTATION. 
+ 
+15.1 Réglementations/législation particulières à la substance ou au mélange en matière de sécurité, de santé et 
+d'environnement. 
+Le produit n'est pas affecté par le Règlement (CE) no 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif 
+à des substances qui appauvrissent la couche d’ozone. 
+ 
+ 
+Composé organique volatil (COV) 
+Sous-catégorie de produits: Revêtements monocomposants à fonction speciale, phase aqueuse. 
+Phase I* (à partir du 1.1.2007): 140 
+Phase II* (à partir du 1.1.2010): 140 
+* g/l de produit prêt à l´emploi 
+ 
+Teneur en COV: <140 g/l 
+ 
+ 
+Classification du produit en accord avec l'Annexe I de la Directive 2012/18/UE (SEVESO III): N/A 
+Le produit n'est pas affecté par le Règlement (UE) No 528/2012 relatif à la commercialisation et à l'utilisation des biocides. 
+Le produit ne se trouve pas affecté par le processus établi dans le Règlement (UE) No 649/2012, relatif à l'exportation et à 
+l'importation de produits chimiques dangereux. 
+ 
+ 
+15.2 Évaluation de la sécurité chimique. 
+Il n’a pas procédé à une évaluation de la sécurité chimique du produit. 
+ 
+ 
+RUBRIQUE 16: AUTRES INFORMATIONS. 
+ 
+Texte complet des phrases H apparaissant dans la rubrique 3: 
+ 
+H301  Toxique en cas d'ingestion. 
+H302  Nocif en cas d'ingestion. 
+H310  Mortel par contact cutané. 
+H311  Toxique par contact cutané. 
+H314  Provoque de graves brûlures de la peau et de graves lésions des yeux. 
+H315  Provoque une irritation cutanée. 
+H317  Peut provoquer une allergie cutanée. 
+H318  Provoque de graves lésions des yeux. 
+H319  Provoque une sévère irritation des yeux. 
+H330  Mortel par inhalation. 
+H400  Très toxique pour les organismes aquatiques. 
+H410  Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme. 
+ 
+Texte complet des phrases EUH apparaissant dans la rubrique 3: 
+ 
+EUH071  Corrosif pour les voies respiratoires. 
+ 
+ 
+Codes de classification: 
+ 
+Acute Tox. 2 : Toxicité aiguë (voie cutanée), Catégorie 2 
+Acute Tox. 2 : Toxicité aiguë (Inhalation), Catégorie 2 
+Acute Tox. 3 : Toxicité aiguë (voie cutanée), Catégorie 3 
+Acute Tox. 3 : Toxicité aiguë (voie orale), Catégorie 3 
+Acute Tox. 4 : Toxicité aiguë (voie orale), Catégorie 4 
+Aquatic Acute 1 : Toxicité aiguë pour le milieu aquatique, Catégorie 1 
+Aquatic Chronic 1 : Effets chroniques pour le milieu aquatique, Catégorie 1
+
+[[page 10]]
+FICHE DE DONNÉES DE SÉCURITÉ 
+(conformément au RÈGLEMENT (UE) 2020/878) 
+ BRICO MASTIC COLLE 
+Version 1 Date d'établissement: 12/12/2022 
+Version 2 (substitue a la version 1)  Date de révision: 31/10/2025 
+Page 10 de 10 
+ 
+ 
+ 
+-Fin de la fiche de données de sécurité.- 
+Eye Dam. 1 : Lésions oculaires graves, Catégorie 1 
+Skin Corr. 1B : Corrosif cutanée, Catégorie 1B 
+Skin Corr. 1C : Corrosif cutanée, Catégorie 1C 
+Skin Irrit. 2 : Irritant pour la peau, Catégorie 2 
+Skin Sens. 1 : Sensibilisant cutané, Catégorie 1 
+Skin Sens. 1A : Sensibilisant cutané, Catégorie 1A 
+ 
+ 
+Modifications par rapport à la version précédente: 
+ 
+-Modifications des limites de concentration spécifiques du BIT (ATP-21) (SECTION 3.2) 
+ 
+Classification et procédure utilisées pour établir la classification des mélanges conformément au règlement (CE) 1272/2008 [CLP]: 
+Dangers physiques D'après les données d'essais 
+Dangers pour la santé Méthode de calcul 
+Dangers pour l’environnement Méthode de calcul 
+ 
+Classification et procédure utilisées pour établir la classification des mélanges conformément au règlement (CE) 
+1272/2008 [CLP]: 
+Dangers physiques   D'après les données d'essais 
+Dangers pour la santé  Méthode de calcul 
+Dangers pour l’environnement Méthode de calcul 
+ 
+ 
+ 
+Il est recommandé d’utiliser le produit uniquement aux fins prévues. 
+ 
+ 
+ 
+Abréviations et acronymes utilisés: 
+CEN: Comité européen de normalisation. 
+EC50: Concentration efficace moyenne. 
+PPE: Équipements de protection individuelle. 
+LC50: Concentration létale, 50%. 
+LD50: Dose létale, 50%. 
+ 
+Principales références de la litterature et sources de données: 
+http://eur-lex.europa.eu/homepage.html 
+http://echa.europa.eu/ 
+Règlement (UE) 2020/878. 
+Règlement (CE) No 1907/2006. 
+Règlement (CE) No 1272/2008. 
+ 
+Les informations contenues dans cette fiche de Sécurité ont été rédigées conformément au RÈGLEMENT (UE) 2020/878 DE LA  
+COMMISSION du 18 juin 2020 modifiant l’Annexe II du règlement  (CE) no 1907/2006 du Parlement européen et du Conseil 
+concernant l'enregistrement, l'évaluation et l'autorisation des substances et mélanges chimiques (REACH). 
+ 
+L’information contenue dans cette Fiche de Données de Sécurité du Produit se base sur les connaissances actuelles relatives à 
+ce produit ainsi que sur les lois nationales et européennes en vigueur, sachant que les conditions de travail de ses utilisateurs 
+ne nous sont pas connues et échappent ainsi à notre contrôle.L e produit doit en aucun cas être utilisé à des fins autres que 
+celles pour lesquelles il a été conçu et préparé, il  ne peut être utilisé sans connaissance préalable et écrite des instruct ions 
+relatives à son maniement. Il incombe à l’utilisateur de prendre toutes les mesures nécessaires afin de suivre et respecter les 
+exigences prévues par la loi.

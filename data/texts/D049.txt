@@ -1,0 +1,2385 @@
+[[page 1]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Safety data sheet
+according to Regulation (EC) No 1907/2006, Annex II (last amended by
+Regulation (EU) 2020/878)
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifier
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Relevant identified uses of the substance or mixture:
+Degreaser
+Uses advised against:
+No information available at present.
+1.3 Details of the supplier of the safety data sheet
+WD-40 Company Limited
+252 Upper Third Street
+Milton Keynes, MK9 1DZ, United Kingdom
+WD-40 Company Limited
+PO Box 440
+GB-Kiln Farm, Milton Keynes, MK11 3LF, United Kingdom
+Tel.: +44 (0) 1908 555400
+Fax: +44 (0) 1908 266900
+E-Mail: Compliance@wd40.co.uk
+Homepage: www.wd40.co.uk
+WD-40 Company Limited
+Noorderpoort 93E
+NL- 5916PJ Venlo
+Tel.: +31 85 487 46 91
+Qualified person's e-mail address: info@chemical-check.de, k.schnurbusch@chemical-check.de  Please DO NOT use for 
+requesting Safety Data Sheets.
+1.4 Emergency telephone number
+Emergency information services / official advisory body:
+National Poisons Information Centre, Beaumont Hospital, Dublin 9, Ireland, Tel.:
++353 (0)1 809 2166 (Public Poisons Info Line, 8am-10pm, 7 days a week)
++353 (0)1 809 2566 (Info for Healthcare Professionals ONLY, 24 h, 7 days a week)
+Telephone number of the company in case of emergencies:
++44 20 3807 3798
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Classification according to Regulation (EC) 1272/2008 (CLP)
+Hazard class Hazard category Hazard statement
+Eye Irrit. 2 H319-Causes serious eye irritation.
+Skin Sens. 1 H317-May cause an allergic skin reaction.
+Page  1 of 29
+
+[[page 2]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Aquatic Chronic 2 H411-Toxic to aqua tic life with long lasting effects.
+Aerosol 1 H222-Extremely flammable aerosol.
+Aerosol 1 H229-Pressurised container: May burst if heated.
+2.2 Label elements
+Labeling according to Regulation (EC) 1272/2008 (CLP)
+Danger
+H319-Causes serious eye irritation.  H317-May cause an allergic skin reaction.  H411-Toxic to aquatic life with long lasting effects.  
+H222-Extremely flammable aerosol.  H229-Pressurised container: May burst if heated.
+P101-If medical advice is needed, have product container or label at hand.  P102-Keep out of reach of children.
+P210-Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  P211-Do not spray on an 
+open flame or other ignition source.  P251-Do not pierce or burn, even after use.  P261-Avoid breathing vapours or spray.  P273-
+Avoid release to the environment.  P280-Wear protective gloves / protective clothing and eye protection / face protection.
+P314-Get medical advice / attention if you feel unwell.
+P410+P412-Protect from sunlight. Do not expose to temperatures exceeding 50 °C.
+P501-Dispose of contents / container to an approved waste disposal facility.
+Without adequate ventilation, formation of explosive mixtures may be possible.
+Orange, sweet, ext.
+(R)-p-mentha-1,8-diene
+2.3 Other hazards
+The mixture does not contain any vPvB substance (vPvB = very persistent, very bioaccumulative) or is not included under XIII of the 
+regulation (EC) 1907/2006 (< 0,1 %).
+The mixture does not contain any PBT substance (PBT = persistent, bioaccumulative, toxic) or is not included under XIII of the 
+regulation (EC) 1907/2006 (< 0,1 %).
+The mixture does not contain any substance with endocrine disrupting properties (< 0,1 %).
+SECTION 3: Composition/information on ingredients
+Aerosol
+3.1 Substances
+n.a.
+3.2 Mixtures
+Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% 
+aromatics
+Registration number (REACH) 01-2119463258-33-XXXX
+Index ---
+EINECS, ELINCS, NLP, REACH-IT List-No. 919-857-5
+CAS ---
+content % 1-<10 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+EUH066
+Flam. Liq. 3, H226
+STOT SE 3, H336
+Asp. Tox. 1, H304
+2-Butoxyethanol Substance for which an EU exposure limit value 
+applies.
+Registration number (REACH) 01-2119475108-36-XXXX
+Page  2 of 29
+
+[[page 3]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Index 603-014-00-0
+EINECS, ELINCS, NLP, REACH-IT List-No. 203-905-0
+CAS 111-76-2
+content % 1-<5 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+Acute Tox. 3, H331
+Acute Tox. 4, H302
+Skin Irrit. 2, H315
+Eye Irrit. 2, H319
+Specific Concentration Limits and ATE ATE (oral): 1200 mg/kg     
+ATE (as inhalation, Aerosol): 0,5 mg/l/4h   
+ATE (as inhalation, Vapours): 3 mg/l      
+Alcohols, C9-11, ethoxylated
+Registration number (REACH) ---
+Index ---
+EINECS, ELINCS, NLP, REACH-IT List-No. ---
+CAS 68439-46-3
+content % 1-<3 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+Acute Tox. 4, H302
+Eye Dam. 1, H318
+Specific Concentration Limits and ATE ATE (oral): 1378 mg/kg     
+Orange, sweet, ext.
+Registration number (REACH) 01-2119493353-35-XXXX
+Index ---
+EINECS, ELINCS, NLP, REACH-IT List-No. 232-433-8
+CAS 8028-48-6
+content % <3 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+Flam. Liq. 3, H226
+Skin Irrit. 2, H315
+Skin Sens. 1, H317
+Asp. Tox. 1, H304
+Aquatic Acute 1, H400 (M=1)
+Aquatic Chronic 1, H410 (M=1)
+(R)-p-mentha-1,8-diene
+Registration number (REACH) 01-2119529223-47-XXXX
+Index 601-096-00-2
+EINECS, ELINCS, NLP, REACH-IT List-No. 227-813-5
+CAS 5989-27-5
+content % <3 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+Flam. Liq. 3, H226
+Skin Irrit. 2, H315
+Skin Sens. 1B, H317
+Asp. Tox. 1, H304
+Aquatic Acute 1, H400 (M=1)
+Aquatic Chronic 3, H412
+Ammonia Substance for which an EU exposure limit value 
+applies.
+Registration number (REACH) 01-2119982985-14-XXXX
+Index 007-001-01-2
+EINECS, ELINCS, NLP, REACH-IT List-No. 215-647-6
+CAS 1336-21-6
+content % 0,1-<1 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-
+factors
+Skin Corr. 1B, H314
+Eye Dam. 1, H318
+Aquatic Acute 1, H400 (M=1)
+Specific Concentration Limits and ATE STOT SE  3, H335: >=5 %
+Impurities, test data and additional information may have been taken into account in classifying and labelling the product.
+For the text of the H-phrases and classification codes (GHS/CLP), see Section 16.
+The substances named in this section are given with their actual, appropriate classification!
+For substances that are listed in appendix VI, table 3.1 of the regulation (EC) no. 1272/2008 (CLP regulation) this means that all 
+notes that may be given here for the named classification have been taken into account.
+Page  3 of 29
+
+[[page 4]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+If, for example, the note P is applied for a hydrocarbon then this has already been taken into account for the classification named 
+here.
+Quote: "Note P - The classification as a carcinogen or mutagen need not apply if it can be shown that the substance contains less 
+than 0,1 % w/w benzene (EINECS No 200-753-7)."
+Article 4 of the regulation (EC) no. 1272/2008 (CLP regulation) was also observed and taken into account for the classification 
+named here.
+The addition of the highest concentrations listed here can result in a classification. Only when this classification is listed in Section 2 
+does it apply. In all other cases the total concentration is below the classification.
+SECTION 4: First aid measures
+4.1 Description of first aid measures
+First-aiders should ensure they are protected!
+Never pour anything into the mouth of an unconscious person!
+Inhalation
+Remove person from danger area.
+Supply person with fresh air and consult doctor according to symptoms.
+Skin contact
+Remove polluted, soaked clothing immediately, wash thoroughly with plenty of water and soap, in case of irritation of the skin (flare), 
+consult a doctor.
+Eye contact
+Remove contact lenses.
+Wash thoroughly for several minutes using copious water. Seek medical help if necessary.
+Ingestion
+Typically no exposure pathway.
+Rinse the mouth thoroughly with water.
+Do not induce vomiting - give copious water to drink. Consult doctor immediately.
+4.2 Most important symptoms and effects, both acute and delayed
+In certain cases, the symptoms of poisoning may only appear after an extended period / after several hours.
+eyes, reddened
+watering eyes
+reddening of the skin
+Allergic reaction
+4.3 Indication of any immediate medical attention and special treatment needed
+Symptomatic treatment.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media
+CO2
+Extinction powder
+Water jet spray
+Alcohol resistant foam
+Unsuitable extinguishing media
+High volume water jet
+5.2 Special hazards arising from the substance or mixture
+In case of fire the following can develop:
+Oxides of carbon
+Oxides of sulphur
+Oxides of nitrogen
+Toxic gases
+Danger of bursting (explosion) when heated
+Possible build up of explosive/highly flammable vapour/air mixture.
+5.3 Advice for firefighters
+For personal protective equipment see Section 8.
+In case of fire and/or explosion do not breathe fumes.
+Protective respirator with independent air supply.
+According to size of fire
+Full protection, if necessary.
+Cool container at risk with water.
+Dispose of contaminated extinction water according to official regulations.
+Page  4 of 29
+
+[[page 5]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+6.1.1 For non-emergency personnel
+In case of spillage or accidental release, wear personal protective equipment as specified in section 8 to prevent contamination.
+Ensure sufficient ventilation, remove sources of ignition.
+Avoid dust formation with solid or powder products.
+Leave the danger zone if possible, use existing emergency plans if necessary.
+Avoid contact with eyes or skin.
+If applicable,  caution - risk of slipping.
+6.1.2 For emergency responders
+See section 8 for suitable protective equipment and material specifications.
+6.2 Environmental precautions
+Prevent penetration into drains, cellars, working pits or other places in which accumulation could be hazardous.
+Prevent surface and ground-water infiltration, as well as ground penetration.
+If accidental entry into drainage system occurs, inform responsible authorities.
+6.3 Methods and material for containment and cleaning up
+If spray or gas escapes, ensure ample fresh air is available.
+Without adequate ventilation, formation of explosive mixtures may be possible.
+Active substance:
+Soak up with absorbent material (e.g. universal binding agent, sand, diatomaceous earth) and dispose of according to Section 13.
+6.4 Reference to other sections
+For personal protective equipment see Section 8 and for disposal instructions see Section 13.
+SECTION 7: Handling and storage
+In addition to information given in this section, relevant information can also be found in section 8 and 6.1.
+7.1 Precautions for safe handling
+7.1.1 General recommendations
+Ensure good ventilation.
+Avoid inhalation of the vapours.
+Avoid contact with eyes or skin.
+Keep away from sources of ignition - Do not smoke.
+Take measures against electrostatic charging, if appropriate.
+Do not use on hot surfaces.
+Eating, drinking, smoking, as well as food-storage, is prohibited in work-room.
+Observe directions on label and instructions for use.
+Use working methods according to operating instructions.
+7.1.2 Notes on general hygiene measures at the workplace
+General hygiene measures for the handling of chemicals are applicable.
+Wash hands before breaks and at end of work.
+Keep away from food, drink and animal feedingstuffs.
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.
+7.2 Conditions for safe storage, including any incompatibilities
+Keep out of access to unauthorised individuals.
+Not to be stored in gangways or stair wells.
+Store product closed and only in original packing.
+Observe special regulations for aerosols!
+Observe special storage conditions.
+Do not store with flammable or self-igniting materials.
+Keep protected from direct sunlight and temperatures over 50°C.
+Store in a well ventilated place.
+Store cool.
+7.3 Specific end use(s)
+No information available at present.
+Observe the instructions for good working practice and the recommendations for risk assessment.
+Consult hazardous substance information systems, e.g. from the professional associations, the chemical industry or different 
+industries,
+depending on the application (building materials, wood, chemistry, laboratory, leather, metal).
+SECTION 8: Exposure controls/personal protection
+Page  5 of 29
+
+[[page 6]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+8.1 Control parameters
+Workplace exposure limit (WEL) of the total hydrocarbon solvent content of the mixture (RCP method according to EH40):
+800 mg/m3
+Chemical Name Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics
+WEL-TWA:    800 mg/m3 WEL-STEL:    ---    ---
+Monitoring procedures: - Draeger - Hydrocarbons 0,1%/c (81 03 571)
+- Draeger - Hydrocarbons 2/a (81 03 581)
+- Compur - KITA-187 S (551 174)
+BMGV:    --- Other information:    (OEL acc. to RCP-
+method, paragraphs 84-87, EH40)
+Chemical Name Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics
+OELV-8h:    100 ppm (573 mg/m3) ("Stoddard 
+solvent", [White spirit])
+OELV-15min:    ---    ---
+Monitoring procedures: - Draeger - Hydrocarbons 0,1%/c (81 03 571)
+- Draeger - Hydrocarbons 2/a (81 03 581)
+- Compur - KITA-187 S (551 174)
+BLV:    --- Other information:    ---
+Chemical Name 2-Butoxyethanol
+WEL-TWA:    25 ppm (123 mg/m3) (WEL-TWA), 
+20 ppm (98 mg/m3) (EU)
+WEL-STEL:    50 ppm (246 mg/m3) (WEL-STEL, 
+EU)
+   ---
+Monitoring procedures: - Compur - KITA-190 U(C) (548 873)
+-
+DFG Meth.-Nr. 2 (D) (Loesungsmittelgemische 3), DFG (E) (Solvent mixtures 3) -
+2014, 2002 - EU project BC/CEN/ENTR/000/2002-16 card 32-2 (2004)
+- NIOSH 1403 (ALCOHOLS IV) - 2003
+- NIOSH 2549 (VOLATILE ORGANIC COMPOUNDS (SCREENING)) - 1996
+- OSHA 83 (2-Butoxyethanol (Butyl Cellosolve)) - 1990
+BMGV:    240 mmol butoxyacetic acid/mol creatinine in urine, post shift (BMGV) Other information:    Sk (WEL)
+Chemical Name 2-Butoxyethanol
+OELV-8h:    20 ppm (98 mg/m3) (OELV-8h, EU) OELV-15min:    50 ppm (246 mg/m3) (OELV-
+15min, EU)
+   ---
+Monitoring procedures: - Compur - KITA-190 U(C) (548 873)
+-
+DFG Meth.-Nr. 2 (D) (Loesungsmittelgemische 3), DFG (E) (Solvent mixtures 3) -
+2014, 2002 - EU project BC/CEN/ENTR/000/2002-16 card 32-2 (2004)
+- NIOSH 1403 (ALCOHOLS IV) - 2003
+- NIOSH 2549 (VOLATILE ORGANIC COMPOUNDS (SCREENING)) - 1996
+- OSHA 83 (2-Butoxyethanol (Butyl Cellosolve)) - 1990
+BLV:    200 mg/g creatinine (Butoxyacetic acid (BAA) in urine, h) (ACGIH-BEI) Other information:    IOELV, Skin
+Chemical Name Ammonia
+WEL-TWA:    NH3 25 ppm (18 mg/m3) (WEL-
+TWA), 20 ppm (14 mg/m3) (EU)
+WEL-STEL:    NH3 35 ppm (25 mg/m3) (WEL-
+STEL), 50 ppm (36 mg/m3) (EU)
+   ---
+Monitoring procedures: - Draeger - Ammonia 0,25/a (81 01 711)
+- Draeger - Ammonia 0,5%/a (CH 31 901)
+- Draeger - Ammonia 2/a (67 33 231)
+- Draeger - Ammonia 5/a (CH 20 501)
+- Draeger - Ammonia 5/b (81 01 941)
+- Compur - KITA-105 SA (548 642)
+- Compur - KITA-105 SB (548 659)
+- Compur - KITA-105 SC (548 667)
+- Compur - KITA-105 SD (548 675)
+- Compur - KITA-105 SH (548 683)
+- Compur - KITA-105 SM (548 691)
+- NIOSH 6015 (Ammonia) - 1990
+- NIOSH 6016 (AMMONIA by IC) - 2016
+- OSHA ID-164 (Ammonia in Workplace Atmospheres) - 1988
+- OSHA ID-188 (Ammonia in workplace atmospheres – solid sorbent) - 2002
+BMGV:    --- Other information:    ---
+Chemical Name Ammonia
+OELV-8h:    NH3 20 ppm (14 mg/m3) (OELV-8h, 
+EU)
+OELV-15min:    NH3 50 ppm (36 mg/m3) (OELV-
+15min, EU)
+   ---
+Monitoring procedures: - Draeger - Ammonia 0,25/a (81 01 711)
+- Draeger - Ammonia 0,5%/a (CH 31 901)
+- Draeger - Ammonia 2/a (67 33 231)
+Page  6 of 29
+
+[[page 7]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+- Draeger - Ammonia 5/a (CH 20 501)
+- Draeger - Ammonia 5/b (81 01 941)
+- Compur - KITA-105 SA (548 642)
+- Compur - KITA-105 SB (548 659)
+- Compur - KITA-105 SC (548 667)
+- Compur - KITA-105 SD (548 675)
+- Compur - KITA-105 SH (548 683)
+- Compur - KITA-105 SM (548 691)
+- NIOSH 6015 (Ammonia) - 1990
+- NIOSH 6016 (AMMONIA by IC) - 2016
+- OSHA ID-164 (Ammonia in Workplace Atmospheres) - 1988
+- OSHA ID-188 (Ammonia in workplace atmospheres – solid sorbent) - 2002
+BLV:    --- Other information:    IOELV
+Chemical Name Petroleum gases, liquefied
+WEL-TWA:    1000 ppm (1750 mg/m3) (Liquefied 
+petroleum gas (LPG))
+WEL-STEL:    1250 ppm (2180 mg/m3) (Liquefied 
+petroleum gas (LPG))
+   ---
+Monitoring procedures:  ---
+BMGV:    --- Other information:    ---
+Chemical Name Petroleum gases, liquefied
+OELV-8h:    --- OELV-15min:    1000 ppm (Butane)    ---
+Monitoring procedures:  ---
+BLV:    --- Other information:    ---
+Chemical Name Isobutane
+WEL-TWA:    1000 ppm (EX) (ACGIH) WEL-STEL:    ---    ---
+Monitoring procedures: - Compur - KITA-113 SB(C) (549 368)
+BMGV:    --- Other information:    ---
+Chemical Name Isobutane
+OELV-8h:    --- OELV-15min:    1000 ppm    ---
+Monitoring procedures: - Compur - KITA-113 SB(C) (549 368)
+BLV:    --- Other information:    ---
+Chemical Name Propane
+WEL-TWA:    1000 ppm (ACGIH) WEL-STEL:    ---    ---
+Monitoring procedures: - Compur - KITA-125 SA (549 954)
+- OSHA PV2077 (Propane) - 1990
+BMGV:    --- Other information:    ---
+Chemical Name Butane
+WEL-TWA:    600 ppm (1450 mg/m3) WEL-STEL:    750 ppm (1810 mg/m3)    ---
+Monitoring procedures: - Compur - KITA-221 SA (549 459)
+- OSHA PV2010 (n-Butane) - 1993
+BMGV:    --- Other information:    ---
+Chemical Name Butane
+OELV-8h:    --- OELV-15min:    1000 ppm    ---
+Monitoring procedures: - Compur - KITA-221 SA (549 459)
+- OSHA PV2010 (n-Butane) - 1993
+BLV:    --- Other information:    ---
+Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descripto
+r
+Value Unit Note
+Consumer Human - dermal Long term, systemic 
+effects
+DNEL 46 mg/kg 
+bw/day
+Consumer Human - inhalation Long term, systemic 
+effects
+DNEL 185 mg/m3
+Consumer Human - oral Long term, systemic 
+effects
+DNEL 46 mg/kg 
+bw/day
+Workers / employees Human - dermal Long term, systemic 
+effects
+DNEL 77 mg/kg 
+bw/day
+Workers / employees Human - inhalation Long term, systemic 
+effects
+DNEL 871 mg/m3
+Page  7 of 29
+
+[[page 8]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+2-Butoxyethanol
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descripto
+r
+Value Unit Note
+ Environment - freshwater  PNEC 8,8 mg/l
+ Environment - marine  PNEC 0,88 mg/l
+ Environment - sediment, 
+freshwater
+ PNEC 34,6 mg/kg dw
+ Environment - soil  PNEC 2,8 mg/kg dw
+ Environment - sewage 
+treatment plant
+ PNEC 463 mg/l
+ Environment - sediment, 
+marine
+ PNEC 3,46 mg/kg dw
+ Environment - sporadic 
+(intermittent) release
+ PNEC 9,1 mg/l
+ Environment - soil  PNEC 2,33 mg/kg
+ Environment - oral (animal 
+feed)
+ PNEC 20 mg/kg
+Consumer Human - inhalation Long term, local 
+effects
+DNEL 147 mg/m3
+Consumer Human - dermal Short term, systemic 
+effects
+DNEL 44,5 mg/kg 
+bw/d
+Consumer Human - inhalation Short term, systemic 
+effects
+DNEL 426 mg/m3
+Consumer Human - oral Short term, systemic 
+effects
+DNEL 26,7 mg/kg 
+bw/day
+Consumer Human - inhalation Short term, local 
+effects
+DNEL 147 mg/m3
+Consumer Human - dermal Long term, systemic 
+effects
+DNEL 38 mg/kg 
+bw/d
+Consumer Human - inhalation Long term, systemic 
+effects
+DNEL 59 mg/m3
+Consumer Human - oral Long term, systemic 
+effects
+DNEL 6,3 mg/kg 
+bw/day
+Workers / employees Human - dermal Short term, systemic 
+effects
+DNEL 89 mg/kg 
+bw/d
+Workers / employees Human - inhalation Short term, systemic 
+effects
+DNEL 663 mg/m3
+Workers / employees Human - inhalation Short term, local 
+effects
+DNEL 246 mg/m3
+Workers / employees Human - dermal Long term, systemic 
+effects
+DNEL 75 mg/kg 
+bw/d
+Workers / employees Human - inhalation Long term, systemic 
+effects
+DNEL 98 mg/m3
+Orange, sweet, ext.
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descripto
+r
+Value Unit Note
+ Human - inhalation Short term, local 
+effects
+DNEL 7,78 mg/m3
+ Human - dermal Short term DNEL 0,929 mg/cm2
+ Environment - freshwater  PNEC 5,4 mg/l
+ Environment - marine  PNEC 0,54 mg/l
+ Environment - periodic 
+release
+ PNEC 5,77 mg/l
+ Environment - sediment, 
+freshwater
+ PNEC 1,3 mg/kg dry 
+weight
+ Environment - sediment, 
+marine
+ PNEC 0,13 mg/kg dry 
+weight
+ Environment - soil  PNEC 0,261 mg/kg dry 
+weight
+ Environment - sewage 
+treatment plant
+ PNEC 2,1 mg/l
+ Environment - oral (animal 
+feed)
+ PNEC 13,3 mg/kg 
+feed
+Page  8 of 29
+
+[[page 9]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Consumer Human - oral Long term DNEL 4,44 mg/kg 
+body 
+weight/day
+Consumer Human - dermal Long term DNEL 4,44 mg/kg 
+bw/day
+Workers / employees Human - dermal Long term DNEL 8,89 mg/kg 
+bw/day
+Workers / employees Human - dermal Short term DNEL 0,1858 mg/cm2
+Workers / employees Human - inhalation Long term DNEL 31,1 mg/m3
+(R)-p-mentha-1,8-diene
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descripto
+r
+Value Unit Note
+ Environment - freshwater  PNEC 14 µg/l
+ Environment - marine  PNEC 1,4 µg/l
+ Environment - sewage 
+treatment plant
+ PNEC 1,8 mg/l
+ Environment - sediment, 
+freshwater
+ PNEC 3,85 mg/kg dry 
+weight
+ Environment - sediment, 
+marine
+ PNEC 0,3851 mg/kg dry 
+weight
+ Environment - soil  PNEC 0,763 mg/kg dry 
+weight
+ Environment - oral (animal 
+feed)
+ PNEC 133 mg/kg
+Workers / employees Human - inhalation Long term, systemic 
+effects
+DNEL 66,7 mg/m3
+Workers / employees Human - dermal Long term, systemic 
+effects
+DNEL 9,5 mg/kg 
+body 
+weight/day
+Ammonia
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descripto
+r
+Value Unit Note
+ Environment - freshwater  PNEC 0,0011 mg/l
+ Environment - marine  PNEC 0,0011 mg/l
+ Environment - water, 
+sporadic (intermittent) 
+release
+ PNEC 0,0068 mg/l
+Industrial Human - inhalation Long term, local 
+effects
+DNEL 14 mg/m3
+Industrial Human - inhalation Long term, systemic 
+effects
+DNEL 47,6 mg/m3
+Industrial Human - dermal Long term, systemic 
+effects
+DNEL 6,8 mg/kg 
+bw/day
+Industrial Human - inhalation Short term, local 
+effects
+DNEL 36 mg/m3
+Industrial Human - inhalation Short term, systemic 
+effects
+DNEL 47,6 mg/m3
+Industrial Human - dermal Short term, systemic 
+effects
+DNEL 6,8 mg/kg 
+bw/day
+Consumer Human - inhalation Long term, local 
+effects
+DNEL 2,8 mg/m3
+Consumer Human - oral Long term, systemic 
+effects
+DNEL 6,8 mg/kg 
+bw/day
+Consumer Human - dermal Long term, systemic 
+effects
+DNEL 6,8 mg/kg 
+bw/day
+Consumer Human - inhalation Long term, systemic 
+effects
+DNEL 23,8 mg/m3
+Consumer Human - inhalation Short term, local 
+effects
+DNEL 7,2 mg/m3
+Consumer Human - oral Short term, local 
+effects
+DNEL 6,8 mg/kg 
+bw/day
+Page  9 of 29
+
+[[page 10]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Consumer Human - dermal Short term, systemic 
+effects
+DNEL 6,5 mg/kg 
+bw/day
+Consumer Human - inhalation Short term, systemic 
+effects
+DNEL 23,8 mg/m3
+       - United Kingdom | WEL-TWA = Workplace Exposure Limit - Long-term exposure limit - 8-hour TWA (= time weighted average) 
+reference period (EH40/2005 Workplace exposure limits (Fourth Edition 2020)).
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/CE, 2017/164/EU). (9) = Respirable fraction (2004/37/CE, 2017/164/EU). (11) = Inhalable fraction 
+(2004/37/CE). (12) = Inhalable fraction. Respirable fraction in those Member States that implement, on the date of the entry into force 
+of this Directive, a biomonitoring system with a biological limit value not exceeding 0,002 mg Cd/g creatinine in urine (2004/37/CE). |
+ | WEL-STEL = Workplace Exposure Limit - Short-term exposure limit - 15-minute reference period (EH40/2005 Workplace exposure 
+limits (Fourth Edition 2020)).
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/EC, 2017/164/EU). (9) = Respirable fraction (2004/37/EC, 2017/164/EU). (10) = Short-term 
+exposure limit value in relation to a reference period of 1 minute (2017/164/EU). |
+ | BMGV = Biological monitoring guidance value (EH40/2005 Workplace exposure limits (Fourth Edition 2020)).
+(EU) = Directive 98/24/EC or 2004/37/EC or SCOEL (Biological Limit Value - BLV, Recommendation from the Scientific Committee 
+on Occupational Exposure Limits (SCOEL)) |
+ | Other information (EH40/2005 Workplace exposure limits (Fourth Edition 2020)): Sen = Capable of causing occupational asthma. 
+Sk = Can be absorbed through skin. Carc = Capable of causing cancer and/or heritable genetic damage.
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU, 2019/1831/EU or 
+2024/869/EU:
+(13) = The substance can cause sensitisation of the skin and of the respiratory tract (98/24/EC, 2004/37/CE), (14) = The substance 
+can cause sensitisation of the skin (2004/37/CE), (15) = Substantial contribution to the total body burden via dermal exposure 
+possible. |
+       - Ireland/Éire | OELV-8h = Occupational Exposure Limit Value - 8-hour reference period (Chemical Agents and Carcinogens CoP 
+(Code of Practice) 2024, HSA (Health and Safety Authority)):  (IFV) = Inhalable Fraction and Vapour.  (I) = Inhalable Fraction.  (R) = 
+Respirable Fraction.
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/EC, 2017/164/EU). (9) = Respirable fraction (2004/37/EC, 2017/164/EU). (11) = Inhalable fraction 
+(2004/37/CE). (12) = Inhalable fraction. Respirable fraction in those Member States that implement, on the date of the entry into force 
+of this Directive, a biomonitoring system with a biological limit value not exceeding 0,002 mg Cd/g creatinine in urine (2004/37/CE). |
+ | OELV-15min = Occupational Exposure Limit Value - 15-minute reference period (Chemical Agents and Carcinogens CoP (Code of 
+Practice) 2024, HSA (Health and Safety Authority)):  (IFV) = Inhalable Fraction and Vapour.  (I) = Inhalable Fraction.  (R) = 
+Respirable Fraction.
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/EC, 2017/164/EU).  (9) = Respirable fraction (2004/37/EC, 2017/164/EU).  (10) = Short-term 
+exposure limit value in relation to a reference period of 1 minute (2017/164/EU). |
+ | BMGV = Biological Monitoring Guidance Value (Biological Monitoring Guidelines 2011, HSA (Health and Safety Authority)):  
+ACGIH-BEI = BMGV have been sourced from Biological Exposure Indices (BEI) as issued by the American Conference of 
+Governmental Industrial Hygienists (ACGIH).  SCOEL = BMGV have been sourced from the Scientific Committee on Occupational 
+Exposure Limit Values (SCOEL) which was set up by a Commission Decision (95/320/EC) with the mandate to advise the European 
+Commission on occupational exposure limits for chemicals in the workplace.  HSE = BMGV have been sourced from the Health and 
+Safety Executive (HSE), UK.
+(EU) = Directive 98/24/EC or 2004/37/EC or SCOEL (Biological Limit Value - BLV, Recommendation from the Scientific Committee 
+on Occupational Exposure Limits (SCOEL)) |
+ | Other information (Chemical Agents and Carcinogens CoP (Code of Practice) 2024, HSA (Health and Safety Authority)):  Carc1A, 
+Carc1B = carcinogenic substance, Cat. 1A or 1B. Muta1A, Muta1B = mutagenic substance, Cat. 1A or 1B.  Repr1A, Repr1B = 
+Substances known to be toxic for reproduction, Cat. 1A or 1B.  Skin = Can be absorbed through skin.  Asphx = asphyxiant.  Sens = 
+The substance can cause sensitisation.  BOELV = Binding Occupational Exposure Limit Values.  IOELV = Indicative Occupational 
+Exposure Limit Values.
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU, 2019/1831/EU or 
+2024/869/EU:
+(13) = The substance can cause sensitisation of the skin and of the respiratory tract (98/24/EC, 2004/37/CE), (14) = The substance 
+can cause sensitisation of the skin (2004/37/CE), (15) = Substantial contribution to the total body burden via dermal exposure 
+possible. |
+8.2 Exposure controls
+8.2.1 Appropriate engineering controls
+Ensure good ventilation. This can be achieved by local suction or general air extraction.
+If this is insufficient to maintain the concentration under the WEL or AGW values, suitable breathing protection should be worn.
+Applies only if maximum permissible exposure values are listed here.
+Suitable assessment methods for reviewing the effectiveness of protection measures adopted include metrological and non-
+metrological investigative techniques.
+Page  10 of 29
+
+[[page 11]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+These are specified by e.g. EN 14042.
+EN 14042 "Workplace atmospheres. Guide for the application and use of procedures for the assessment of exposure to chemical 
+and biological agents".
+8.2.2 Individual protection measures, such as personal protective equipment
+General hygiene measures for the handling of chemicals are applicable.
+Wash hands before breaks and at end of work.
+Keep away from food, drink and animal feedingstuffs.
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.
+Eye/face protection:
+Tight fitting protective goggles with side protection (EN ISO 16321-1).
+Skin protection - Hand protection:
+Chemical resistant protective gloves (EN ISO 374).
+If applicable
+Protective nitrile gloves (EN ISO 374).
+Minimum layer thickness in mm:
+0,5
+Permeation time (penetration time) in minutes:
+480
+The recommended maximum wearing time is 50% of breakthrough time.
+The breakthrough times determined in accordance with EN 16523-1 were not obtained under practical conditions.
+Protective hand cream recommended.
+Skin protection - Other:
+Protective working garments (e.g. safety shoes EN ISO 20345, long-sleeved protective working garments).
+Respiratory protection:
+Normally not necessary.
+If the workplace limit value is exceeded.
+Filter A2 P2 (EN 14387), code colour brown, white
+Observe wearing time limitations for respiratory protection equipment.
+Thermal hazards:
+Not applicable
+Additional information on hand protection - No tests have been performed.
+In the case of mixtures, the selection has been made according to the knowledge available and the information about the contents.
+Selection of materials derived from glove manufacturer's indications.
+Final selection of glove material must be made taking the breakthrough times, permeation rates and degradation into account.
+Selection of a suitable glove depends not only on the material but also on other quality characteristics and varies from manufacturer 
+to manufacturer.
+In the case of mixtures, the resistance of glove materials cannot be predicted and must therefore be tested before use.
+The exact breakthrough time of the glove material can be requested from the protective glove manufacturer and must be observed.
+8.2.3 Environmental exposure controls
+No information available at present.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical state: Aerosol. Active substance: liquid.
+Colour: White
+Odour: Characteristic
+Melting point/freezing point: There is no information available on this parameter.
+Boiling point or initial boiling point and boiling range: n.a.
+Flammability: Does not apply to aerosols.
+Lower explosion limit: 0,8 Vol-%
+Upper explosion limit: 9,0 Vol-%
+Flash point: Does not apply to aerosols.
+Auto-ignition temperature: Does not apply to aerosols.
+Decomposition temperature: There is no information available on this parameter.
+pH: ~11
+Kinematic viscosity: Does not apply to aerosols.
+Solubility: Mixable
+Page  11 of 29
+
+[[page 12]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Partition coefficient n-octanol/water (log value): Does not apply to mixtures.
+Vapour pressure: There is no information available on this parameter.
+Density and/or relative density: Does not apply to aerosols.
+Relative vapour density: Does not apply to aerosols.
+Particle characteristics: Does not apply to aerosols.
+9.2 Other information
+Explosives: Possible build up of explosive/highly flammable vapour/air 
+mixture. Product is not explosive.
+Oxidising liquids: No
+SECTION 10: Stability and reactivity
+10.1 Reactivity
+The product has not been tested.
+10.2 Chemical stability
+Stable with proper storage and handling.
+10.3 Possibility of hazardous reactions
+No dangerous reactions are known.
+10.4 Conditions to avoid
+Heating, open flame, ignition sources
+Pressure increase will result in danger of bursting.
+10.5 Incompatible materials
+Avoid contact with strong oxidizing agents.
+10.6 Hazardous decomposition products
+No decomposition when used as directed.
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Possibly more information on health effects, see Section 2.1 (classification).
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: ATE >2000 mg/kg     calculated value
+Acute toxicity, by dermal 
+route:
+n.d.a.
+Acute toxicity, by inhalation: ATE >20 mg/l/4h   calculated 
+value, Vapours
+Acute toxicity, by inhalation: ATE >5 mg/l/4h   calculated 
+value, Aerosol
+Skin corrosion/irritation: n.d.a.
+Serious eye 
+damage/irritation:
+n.d.a.
+Respiratory or skin 
+sensitisation:
+n.d.a.
+Germ cell mutagenicity: n.d.a.
+Carcinogenicity: n.d.a.
+Reproductive toxicity: n.d.a.
+Specific target organ toxicity -
+single exposure (STOT-SE):
+n.d.a.
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE):
+n.d.a.
+Aspiration hazard: n.d.a.
+Symptoms: n.d.a.
+Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: LD50 >5000 mg/kg     Rat OECD 401 (Acute 
+Oral Toxicity)
+Acute toxicity, by dermal 
+route:
+LD50 >5000 mg/kg Rabbit OECD 402 (Acute 
+Dermal Toxicity)
+Acute toxicity, by inhalation: LD50 >18,5 mg/l/4h Rat OECD 403 (Acute 
+Inhalation Toxicity)
+Page  12 of 29
+
+[[page 13]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Skin corrosion/irritation: Rabbit OECD 404 (Acute 
+Dermal 
+Irritation/Corrosion)
+Not irritant, 
+Repeated 
+exposure may 
+cause skin 
+dryness or 
+cracking.
+Serious eye 
+damage/irritation:
+Rabbit OECD 405 (Acute 
+Eye 
+Irritation/Corrosion)
+Not irritant
+Respiratory or skin 
+sensitisation:
+Guinea pig OECD 406 (Skin 
+Sensitisation)
+No (skin 
+contact)
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative, 
+Analogous 
+conclusion
+Germ cell mutagenicity: Human being OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative, 
+Analogous 
+conclusion
+Germ cell mutagenicity: Mouse OECD 476 (In Vitro 
+Mammalian Cell Gene 
+Mutation Test)
+Negative, 
+Analogous 
+conclusion
+Germ cell mutagenicity: Rat OECD 478 (Genetic 
+Toxicology - Rodent 
+dominant Lethal Test)
+Negative, 
+Analogous 
+conclusion
+Germ cell mutagenicity: OECD 479 (Genetic 
+Toxicology - In Vitro 
+Sister Chromatid 
+Exchange assay in 
+Mammalian Cells)
+Negative, 
+Analogous 
+conclusion 
+Chinese 
+hamster
+Carcinogenicity: NOAEC 1100 mg/m3    Mouse OECD 453 
+(Combined Chronic 
+Toxicity/Carcinogenicit
+y Studies)
+Female
+Carcinogenicity: NOAEC >= 2200 mg/m3    Mouse OECD 453 
+(Combined Chronic 
+Toxicity/Carcinogenicit
+y Studies)
+Male
+Reproductive toxicity: OECD 414 (Prenatal 
+Developmental 
+Toxicity Study)
+Negative, 
+Analogous 
+conclusion
+Reproductive toxicity (Effects 
+on fertility):
+NOAEL >= 3000 mg/kg 
+bw/d
+Rat OECD 415 (One-
+Generation 
+Reproduction Toxicity 
+Study)
+Male
+Reproductive toxicity (Effects 
+on fertility):
+NOAEL >= 1500 mg/kg 
+bw/d
+Rat OECD 415 (One-
+Generation 
+Reproduction Toxicity 
+Study)
+Female
+Specific target organ toxicity -
+single exposure (STOT-SE):
+May cause 
+drowsiness or 
+dizziness., 
+STOT SE 3, 
+H336
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), oral:
+NOAEL 3000 mg/kg/d  Rat OECD 408 (Repeated 
+Dose 90-Day Oral 
+Toxicity Study in 
+Rodents)
+Analogous 
+conclusion
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), inhalat.:
+NOAEC 1444 ppm       Rat OECD 413 
+(Subchronic Inhalation 
+Toxicity - 90-Day 
+Study)
+Analogous 
+conclusion
+Aspiration hazard: Yes
+Page  13 of 29
+
+[[page 14]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Symptoms: unconsciousnes
+s, headaches, 
+dizziness, 
+discoloration of 
+the skin, 
+vomiting, 
+diarrhoea
+2-Butoxyethanol
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: ATE 1200 mg/kg     
+Acute toxicity, by dermal 
+route:
+LD50 2275 mg/kg     Rabbit OECD 402 (Acute 
+Dermal Toxicity)
+Acute toxicity, by inhalation: ATE 3 mg/l      Vapours
+Acute toxicity, by inhalation: ATE 0,5 mg/l/4h   Aerosol
+Skin corrosion/irritation: Rabbit Regulation (EC) 
+440/2008 B.4 
+(DERMAL 
+IRRITATION/CORRO
+SION)
+Skin Irrit. 2, 
+Product 
+removes fat.
+Serious eye 
+damage/irritation:
+Rabbit OECD 405 (Acute 
+Eye 
+Irritation/Corrosion)
+Eye Irrit. 2
+Respiratory or skin 
+sensitisation:
+Guinea pig OECD 406 (Skin 
+Sensitisation)
+No (skin 
+contact)
+Germ cell mutagenicity: Mouse OECD 474 
+(Mammalian 
+Erythrocyte 
+Micronucleus Test)
+Negative
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative
+Germ cell mutagenicity: OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative
+Germ cell mutagenicity: OECD 476 (In Vitro 
+Mammalian Cell Gene 
+Mutation Test)
+Negative
+Carcinogenicity:  Rat OECD 451 
+(Carcinogenicity 
+Studies)
+Negative
+Carcinogenicity: NOAEC 125 ppm       Mouse OECD 451 
+(Carcinogenicity 
+Studies)
+Negative
+Reproductive toxicity: NOAEL 720 mg/kg 
+bw/d
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), oral:
+NOAEL <69 mg/kg 
+bw/d
+Rat OECD 408 (Repeated 
+Dose 90-Day Oral 
+Toxicity Study in 
+Rodents)
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), dermal:
+NOAEL >150 mg/kg 
+bw/d
+Rabbit OECD 411 
+(Subchronic Dermal 
+Toxicity - 90-day 
+Study)
+Aspiration hazard: No
+Page  14 of 29
+
+[[page 15]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Symptoms: acidosis, 
+ataxia, 
+breathing 
+difficulties, 
+respiratory 
+distress, 
+drowsiness, 
+unconsciousnes
+s, annoyance, 
+coughing, 
+headaches, 
+gastrointestinal 
+disturbances, 
+insomnia, 
+mucous 
+membrane 
+irritation, 
+dizziness, 
+nausea
+Alcohols, C9-11, ethoxylated
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: LD50 1378 mg/kg     Rat
+Acute toxicity, by oral route: ATE 1378 mg/kg     
+Acute toxicity, by dermal 
+route:
+LD50 >2000 mg/kg     Rat OECD 402 (Acute 
+Dermal Toxicity)
+Analogous 
+conclusion
+Acute toxicity, by inhalation: LC50 >20,1 mg/l/4h
+Skin corrosion/irritation: Rabbit OECD 404 (Acute 
+Dermal 
+Irritation/Corrosion)
+Not irritant
+Serious eye 
+damage/irritation:
+Rabbit OECD 405 (Acute 
+Eye 
+Irritation/Corrosion)
+Risk of serious 
+damage to 
+eyes., 
+Analogous 
+conclusion
+Respiratory or skin 
+sensitisation:
+Guinea pig OECD 406 (Skin 
+Sensitisation)
+Not sensitizising
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE):
+NOAEL 250 mg/kg
+Orange, sweet, ext.
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: LD50 4400 mg/kg Rat
+Acute toxicity, by dermal 
+route:
+LD50 >2000 mg/kg Rabbit
+Skin corrosion/irritation: Irritant
+Serious eye 
+damage/irritation:
+Rabbit OECD 405 (Acute 
+Eye 
+Irritation/Corrosion)
+Not irritant
+Respiratory or skin 
+sensitisation:
+OECD 429 (Skin 
+Sensitisation - Local 
+Lymph Node Assay)
+Sensitising 
+(skin contact)
+Germ cell mutagenicity: Negative
+Reproductive toxicity 
+(Developmental toxicity):
+NOAEL 591 mg/kg 
+bw/d
+Rat
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE):
+LOAEL 1000 mg/kg 
+bw/d
+Mouse
+Aspiration hazard: Yes
+Symptoms: mucous 
+membrane 
+irritation
+(R)-p-mentha-1,8-diene
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Page  15 of 29
+
+[[page 16]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Acute toxicity, by oral route: LD50 > 2000 mg/kg     Rat OECD 423 (Acute 
+Oral Toxicity - Acute 
+Toxic Class Method)
+Female
+Acute toxicity, by oral route: LD50 >5000 mg/kg Rat OECD 401 (Acute 
+Oral Toxicity)
+Acute toxicity, by dermal 
+route:
+LD50 >5000 mg/kg     Rabbit OECD 402 (Acute 
+Dermal Toxicity)
+Skin corrosion/irritation: Rabbit Skin Irrit. 2
+Serious eye 
+damage/irritation:
+Rabbit OECD 405 (Acute 
+Eye 
+Irritation/Corrosion)
+Not irritant
+Respiratory or skin 
+sensitisation:
+Mouse OECD 429 (Skin 
+Sensitisation - Local 
+Lymph Node Assay)
+Skin Sens. 1B
+Respiratory or skin 
+sensitisation:
+Mouse OECD 429 (Skin 
+Sensitisation - Local 
+Lymph Node Assay)
+Skin Sens. 1
+Germ cell mutagenicity: Mouse OECD 476 (In Vitro 
+Mammalian Cell Gene 
+Mutation Test)
+Negative
+Germ cell mutagenicity: OECD 479 (Genetic 
+Toxicology - In Vitro 
+Sister Chromatid 
+Exchange assay in 
+Mammalian Cells)
+Negative 
+Chinese 
+hamster
+Germ cell mutagenicity: OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative 
+Chinese 
+hamster
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative
+Carcinogenicity: NOAEL 600 mg/kg 
+bw/d
+Rat
+Symptoms: diarrhoea, 
+rash, itching, 
+gastrointestinal 
+disturbances, 
+mucous 
+membrane 
+irritation, 
+nausea and 
+vomiting.
+Symptoms:           diarrhoea, 
+rash, itching, 
+gastrointestinal 
+disturbances, 
+mucous 
+membrane 
+irritation, 
+nausea and 
+vomiting.
+Ammonia
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: LD50 350 mg/kg     Rat OECD 401 (Acute 
+Oral Toxicity)
+The toxicity is 
+determined by 
+the corrosivity 
+of the product.
+Acute toxicity, by inhalation: LCLo 5000 ppm Human being
+Serious eye 
+damage/irritation:
+Rabbit Risk of serious 
+damage to 
+eyes.
+Respiratory or skin 
+sensitisation:
+Guinea pig Not sensitizising
+Page  16 of 29
+
+[[page 17]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Symptoms: asthmatic 
+symptoms, 
+respiratory 
+distress, 
+unconsciousnes
+s, burning of 
+the membranes 
+of the nose and 
+throat, 
+vomiting, 
+cornea opacity, 
+coughing, 
+cramps, 
+circulatory 
+collapse, 
+shock, nausea
+Petroleum gases, liquefied
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by inhalation: LC50 >5 mg/l      
+Skin corrosion/irritation: Not irritant
+Serious eye 
+damage/irritation:
+Not irritant
+Respiratory or skin 
+sensitisation:
+No (skin 
+contact)
+Aspiration hazard: No
+Isobutane
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by inhalation: LC50 658 mg/l/4h   Rat
+Acute toxicity, by inhalation: LC50 260000 ppmV/4h
+   
+Rat Gasses, Male
+Serious eye 
+damage/irritation:
+Rabbit Not irritant
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative
+Germ cell mutagenicity: Mammalian OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), inhalat.:
+NOAEL 21,394 mg/l      Rat OECD 422 
+(Combined Repeated 
+Dose Tox. Study with 
+the 
+Reproduction/Develop
+m. Tox. Screening 
+Test)
+Aspiration hazard: No
+Symptoms: unconsciousnes
+s, frostbite, 
+headaches, 
+cramps, 
+dizziness, 
+nausea and 
+vomiting.
+Propane
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by inhalation: LC50 658 mg/l/4h   Rat
+Acute toxicity, by inhalation: LC50 260000 ppmV/4h
+   
+Rat Gasses, Male, 
+Analogous 
+conclusion
+Skin corrosion/irritation:           Not irritant
+Serious eye 
+damage/irritation:
+          Not irritant
+Page  17 of 29
+
+[[page 18]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Germ cell mutagenicity: OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative
+Reproductive toxicity 
+(Developmental toxicity):
+NOAEC 21,641 mg/l OECD 422 
+(Combined Repeated 
+Dose Tox. Study with 
+the 
+Reproduction/Develop
+m. Tox. Screening 
+Test)
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), inhalat.:
+NOAEL 7,214 mg/l      Rat OECD 422 
+(Combined Repeated 
+Dose Tox. Study with 
+the 
+Reproduction/Develop
+m. Tox. Screening 
+Test)
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), inhalat.:
+LOAEL 21,641 mg/l      Rat OECD 422 
+(Combined Repeated 
+Dose Tox. Study with 
+the 
+Reproduction/Develop
+m. Tox. Screening 
+Test)
+Aspiration hazard: No
+Symptoms: breathing 
+difficulties, 
+unconsciousnes
+s, frostbite, 
+headaches, 
+cramps, 
+mucous 
+membrane 
+irritation, 
+dizziness, 
+nausea and 
+vomiting.
+Butane
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by inhalation: LC50 658 mg/l/4h   Rat
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation 
+Test)
+Negative
+Germ cell mutagenicity: OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative
+Germ cell mutagenicity: Human being OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative
+Germ cell mutagenicity: Rat OECD 474 
+(Mammalian 
+Erythrocyte 
+Micronucleus Test)
+Negative
+Specific target organ toxicity -
+repeated exposure (STOT-
+RE), inhalat.:
+NOAEC 21,394 mg/l      Rat OECD 422 
+(Combined Repeated 
+Dose Tox. Study with 
+the 
+Reproduction/Develop
+m. Tox. Screening 
+Test)
+Page  18 of 29
+
+[[page 19]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Aspiration hazard: No
+Symptoms: ataxia, 
+breathing 
+difficulties, 
+drowsiness, 
+unconsciousnes
+s, frostbite, 
+disturbed heart 
+rhythm, 
+headaches, 
+cramps, 
+intoxication, 
+dizziness, 
+nausea and 
+vomiting.
+11.2. Information on other hazards
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Endocrine disrupting 
+properties:
+Does not apply 
+to mixtures.
+Other information: No other 
+relevant 
+information 
+available on 
+adverse effects 
+on health.
+SECTION 12: Ecological information
+Possibly more information on environmental effects, see Section 2.1 (classification).
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: n.d.a.
+12.1. Toxicity to 
+daphnia:
+n.d.a.
+12.1. Toxicity to algae: n.d.a.
+Page  19 of 29
+
+[[page 20]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+12.2. Persistence and 
+degradability:
+The 
+surfactant(s) 
+contained in 
+this mixture 
+complies(compl
+y) with the 
+biodegradability 
+criteria as laid 
+down in 
+Regulation 
+(EC) 
+No.648/2004 
+on detergents. 
+Data to support 
+this assertion 
+are held at the 
+disposal of the 
+competent 
+authorities of 
+the Member 
+States and will 
+be made 
+available to 
+them, at their 
+direct request 
+or at the 
+request of a 
+detergent 
+manufacturer.
+12.3. Bioaccumulative 
+potential:
+n.d.a.
+12.4. Mobility in soil: n.d.a.
+12.5. Results of PBT 
+and vPvB assessment
+n.d.a.
+12.6. Endocrine 
+disrupting properties:
+Does not apply 
+to mixtures.
+12.7. Other adverse 
+effects:
+No information 
+available on 
+other adverse 
+effects on the 
+environment.
+Other information: According to 
+the recipe, 
+contains no 
+AOX.
+Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: NOELR 28d 0,13 mg/l Oncorhynchus 
+mykiss
+QSAR
+12.1. Toxicity to fish: LC50 96h >1000 mg/l Oncorhynchus 
+mykiss
+OECD 203 
+(Fish, Acute 
+Toxicity Test)
+ 
+12.1. Toxicity to 
+daphnia:
+EC50 48h >1000 mg/l Daphnia magna OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+12.1. Toxicity to algae: ErC50 72h >1000 mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+12.1. Toxicity to algae: EbC50 72h >1000 mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+12.1. Toxicity to algae: NOELR 72h 100 mg/l Raphidocelis 
+subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+Page  20 of 29
+
+[[page 21]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+12.1. Toxicity to algae: NOELR 72h 3 mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+12.2. Persistence and 
+degradability:
+28d 80 % OECD 301 F 
+(Ready 
+Biodegradability -
+Manometric 
+Respirometry 
+Test)
+Readily 
+biodegradable
+12.3. Bioaccumulative 
+potential:
+5-6,7 High
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+Toxicity to bacteria: EL50 48h 0,95 mg/l QSAR
+2-Butoxyethanol
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 1474 mg/l Oncorhynchus 
+mykiss
+OECD 203 
+(Fish, Acute 
+Toxicity Test)
+ 
+12.1. Toxicity to fish: NOEC/NOEL 21d >100 mg/l Brachydanio rerio OECD 204 
+(Fish, Prolonged 
+Toxicity Test - 
+14-Day Study)
+12.1. Toxicity to 
+daphnia:
+EC50 48h 1550 mg/l Daphnia magna OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+   
+12.1. Toxicity to 
+daphnia:
+NOEC/NOEL 21d 100 mg/l Daphnia magna OECD 211 
+(Daphnia magna 
+Reproduction 
+Test)
+12.1. Toxicity to algae: EC50 72h 1840 mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+  
+12.1. Toxicity to algae: NOEC/NOEL 72h 286 mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+12.2. Persistence and 
+degradability:
+28d 95 % OECD 301 E 
+(Ready 
+Biodegradability -
+Modified OECD 
+Screening Test)
+Readily 
+biodegradable
+12.2. Persistence and 
+degradability:
+28d >99 % OECD 302 B 
+(Inherent 
+Biodegradability -
+Zahn-
+Wellens/EMPA 
+Test)
+Readily 
+biodegradable
+12.3. Bioaccumulative 
+potential:
+BCF 3,2 Slight  
+12.3. Bioaccumulative 
+potential:
+Log Pow 0,81 OECD 107 
+(Partition 
+Coefficient (n-
+octanol/water) - 
+Shake Flask 
+Method)
+Not to be 
+expected
+12.4. Mobility in soil: H (Henry) 0,00000
+16
+atm*m3/
+mol
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB 
+substance  
+Toxicity to bacteria: EC10 16h >700 mg/l Pseudomonas 
+putida
+DIN 38412 T.8   
+Page  21 of 29
+
+[[page 22]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Alcohols, C9-11, ethoxylated
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 11 mg/l
+12.1. Toxicity to fish: LC50 96h 5-7 mg/l Oncorhynchus 
+mykiss
+  
+12.1. Toxicity to 
+daphnia:
+EC50 48h 2,5 mg/l Daphnia magna  
+12.1. Toxicity to 
+daphnia:
+EC50 48h 1-10 mg/l Daphnia magna
+12.1. Toxicity to 
+daphnia:
+NOEC/NOEL 21d 2,11 mg/l Daphnia magna QSAR
+12.1. Toxicity to algae: EC50 72h 1,978 mg/l Desmodesmus 
+subspicatus
+QSAR  
+12.1. Toxicity to algae: EC50 72h 1-10 mg/l Skeletonema 
+costatum
+12.2. Persistence and 
+degradability:
+28d >60 % OECD 301 B 
+(Ready 
+Biodegradability -
+Co2 Evolution 
+Test)
+Readily 
+biodegradable
+12.2. Persistence and 
+degradability:
+99 % OECD 302 B 
+(Inherent 
+Biodegradability -
+Zahn-
+Wellens/EMPA 
+Test)
+Toxicity to bacteria: EC50 4h 410 mg/l Analogous 
+conclusion
+Water solubility: Soluble
+Orange, sweet, ext.
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 0,7 mg/l Pimephales 
+promelas
+OECD 203 
+(Fish, Acute 
+Toxicity Test)
+12.1. Toxicity to 
+daphnia:
+EC50 48h 0,67 mg/l Daphnia magna OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+LIMONENE
+12.1. Toxicity to algae: ErC50 72h 150 mg/l Desmodesmus 
+subspicatus
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+ 
+12.1. Toxicity to algae: NOEC/NOEL 96h 4 mg/l  
+12.2. Persistence and 
+degradability:
+28d 72-83,4 % OECD 301 B 
+(Ready 
+Biodegradability -
+Co2 Evolution 
+Test)
+Readily 
+biodegradable  
+12.2. Persistence and 
+degradability:
+28d >90 % OECD 301 D 
+(Ready 
+Biodegradability -
+Closed Bottle 
+Test)
+Readily 
+biodegradable 
+12.3. Bioaccumulative 
+potential:
+BCF 32-156
+12.3. Bioaccumulative 
+potential:
+Log Pow > 4 A notable 
+biological 
+accumulation 
+potential has to 
+be expected 
+(LogPow > 3).
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB 
+substance 
+Page  22 of 29
+
+[[page 23]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Other information: Does not 
+contain any 
+organically 
+bound 
+halogens which 
+can contribute 
+to the AOX 
+value in waste 
+water.
+(R)-p-mentha-1,8-diene
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 0,70 mg/l Pimephales 
+promelas
+OECD 203 
+(Fish, Acute 
+Toxicity Test)
+12.1. Toxicity to 
+daphnia:
+EC50 48h 0,307-
+0,42
+mg/l Daphnia magna OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+12.1. Toxicity to algae: ErC50 72h 0,214-
+0,32
+mg/l Pseudokirchnerie
+lla subcapitata
+OECD 201 
+(Alga, Growth 
+Inhibition Test)
+12.1. Toxicity to algae: NOEC/NOEL 96h 4 mg/l
+12.2. Persistence and 
+degradability:
+28d 80-92 % OECD 301 D 
+(Ready 
+Biodegradability -
+Closed Bottle 
+Test)
+Readily 
+biodegradable
+12.2. Persistence and 
+degradability:
+28d 71 % OECD 301 B 
+(Ready 
+Biodegradability -
+Co2 Evolution 
+Test)
+Readily 
+biodegradable
+12.3. Bioaccumulative 
+potential:
+Log Kow 4,38 OECD 117 
+(Partition 
+Coefficient (n-
+octanol/water) - 
+HPLC method)
+37 °C, pH = 7.2
+12.4. Mobility in soil: Adsorption in 
+ground.
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+Toxicity to bacteria: EC50 3h 209 mg/l activated sludge OECD 209 
+(Activated 
+Sludge, 
+Respiration 
+Inhibition Test 
+(Carbon and 
+Ammonium 
+Oxidation))
+Other information: Does not 
+contain any 
+organically 
+bound 
+halogens which 
+can contribute 
+to the AOX 
+value in waste 
+water.
+Ammonia
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 8,2 mg/l Pimephales 
+promelas
+Page  23 of 29
+
+[[page 24]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+12.1. Toxicity to fish: LC50 96h 0,53 mg/l Oncorhynchus 
+mykiss
+Anhydrous 
+substance
+12.1. Toxicity to 
+daphnia:
+EC50 48h 0,66 mg/l Daphnia pulex
+12.1. Toxicity to 
+daphnia:
+EC50 48h 1,16 mg/l Daphnia pulicaria Anhydrous 
+substance
+12.2. Persistence and 
+degradability:
+28d <70 % Not readily 
+biodegradable
+12.3. Bioaccumulative 
+potential:
+Not to be 
+expected
+Toxicity to bacteria: EC50 5min 1,16 mg/l Photobacterium 
+phosphoreum
+Anhydrous 
+substance
+Petroleum gases, liquefied
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 147,54 mg/l QSAR
+12.3. Bioaccumulative 
+potential:
+Not to be 
+expected
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+Isobutane
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 27,98 mg/l
+12.1. Toxicity to algae: EC50 96h 7,71 mg/l
+12.2. Persistence and 
+degradability:
+Readily 
+biodegradable
+12.3. Bioaccumulative 
+potential:
+A notable 
+biological 
+accumulation 
+potential is not 
+to be expected 
+(LogPow 1-3).
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+Propane
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 49,9 mg/l
+12.1. Toxicity to algae: EC50 96h 19,37 mg/l
+12.3. Bioaccumulative 
+potential:
+Log Pow 2,28 A notable 
+biological 
+accumulation 
+potential is not 
+to be expected 
+(LogPow 1-3). 
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+Butane
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LC50 96h 24,11 mg/l QSAR
+12.1. Toxicity to 
+daphnia:
+LC50 48h 14,22 mg/l QSAR
+12.3. Bioaccumulative 
+potential:
+Log Pow 2,89 A notable 
+biological 
+accumulation 
+potential is not 
+to be expected 
+(LogPow 1-3).  
+12.4. Mobility in soil: Not to be 
+expected
+Page  24 of 29
+
+[[page 25]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB 
+substance 
+SECTION 13: Disposal considerations
+13.1 Waste treatment methods
+For the substance / mixture / residual amounts
+EC disposal code no.:
+The  waste codes are recommendations based on the scheduled use of this product.
+Owing to the user's specific conditions for use and disposal, other waste codes may be
+allocated under certain circumstances. (2014/955/EU)
+16 05 04 gases in pressure containers (including halons) containing hazardous substances
+20 01 29 detergents containing hazardous substances
+Recommendation:
+Sewage disposal shall be discouraged.
+Pay attention to local and national official regulations.
+Take full aerosol cans to problem waste collection.
+Take emptied aerosol cans to valuable material collection.
+For contaminated packing material
+Pay attention to local and national official regulations.
+Recommendation:
+Do not perforate, cut up or weld uncleaned container.
+Recycling
+15 01 04 metallic packaging
+SECTION 14: Transport information
+General statements
+Transport by road/by rail (ADR/RID)
+14.1. UN number or ID number: 1950
+14.2. UN proper shipping name:
+UN 1950 AEROSOLS
+14.3. Transport hazard class(es): 2.1
+14.4. Packing group: -
+14.5. Environmental hazards: environmentally hazardous
+Tunnel restriction code: D
+Classification code: 5F
+LQ: 1 L
+Transport category: 2
+Transport by sea (IMDG-code)
+14.1. UN number or ID number: 1950
+14.2. UN proper shipping name:
+UN 1950 AEROSOLS
+14.3. Transport hazard class(es): 2.1
+14.4. Packing group: -
+14.5. Environmental hazards: environmentally hazardous
+Marine Pollutant: Yes
+EmS: F-D, S-U
+Transport by air (IATA)
+14.1. UN number or ID number: 1950
+14.2. UN proper shipping name:
+UN 1950 Aerosols, flammable
+14.3. Transport hazard class(es): 2.1
+14.4. Packing group: -
+14.5. Environmental hazards: Not applicable
+14.6. Special precautions for user
+Persons employed in transporting dangerous goods must be trained.
+All persons involved in transporting must observe safety regulations.
+Precautions must be taken to prevent damage.
+14.7. Maritime transport in bulk according to IMO instruments
+Freighted as packaged goods rather than in bulk, therefore not applicable.
+Page  25 of 29
+
+[[page 26]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Minimum amount regulations have not been taken into account.
+Danger code and packing code on request.
+Comply with special provisions.
+SECTION 15: Regulatory information
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+Observe restrictions:
+Comply with national regulations/laws governing the protection of young people at work (national implementation of the Directive 
+94/33/EC)!
+Comply with national regulations/laws governing maternity protection (national implementation of the Directive 92/85/EEC)!
+Comply with trade association/occupational health regulations.
+Directive 2012/18/EU ("Seveso III"), Annex I, Part 1 - The following categories apply to this product (others may also need to be 
+considered according to storage, handling etc.):
+Hazard categories Notes to Annex I Qualifying quantity (tonnes) of 
+dangerous substances as 
+referred to in Article 3(10) for 
+the application of - Lower-tier 
+requirements
+Qualifying quantity (tonnes) of 
+dangerous substances as 
+referred to in Article 3(10) for 
+the application of - Upper-tier 
+requirements
+E2 200 500
+P3a 11.1 150 (netto) 500 (netto)
+The Notes to Annex 1 of Directive 2012/18/EU, in particular those named in the tables here and notes 1-6, must be taken into 
+account when assigning categories and qualifying quantities.
+Directive 2012/18/EU ("Seveso III"), Annex I, Part 2 - This product contains the substances listed below:
+Entry Nr Dangerous substances Notes to Annex I Qualifying quantity 
+(tonnes) for the 
+application of - Lower-
+tier requirements
+Qualifying quantity 
+(tonnes) for the 
+application of - Upper-
+tier requirements
+18 Liquefied flammable 
+gases, Category 1 or 2 
+(including LPG) and 
+natural gas
+19 50 200
+The Notes to Annex 1 of Directive 2012/18/EU, in particular those named in the tables here and notes 1-6, must be taken into 
+account when assigning categories and qualifying quantities.
+Directive 2010/75/EU (VOC): < 19,4 %
+REGULATION (EC) No 648/2004
+5 % or over but less than 15 %
+aliphatic hydrocarbons
+less than 5 %
+non-ionic surfactants
+anionic surfactants
+perfumes
+LIMONENE
+METHYLCHLOROISOTHIAZOLINONE/ METHYLISOTHIAZOLINONE
+BENZISOTHIAZOLINONE
+METHYLISOTHIAZOLINONE
+National requirements/regulations on safety and health protection must be applied when using work equipment.
+15.2 Chemical safety assessment
+A chemical safety assessment is not provided for mixtures.
+SECTION 16: Other information
+EU F0009
+Revised sections: 2, 3, 4, 6, 8, 11, 12, 13, 14, 15, 16
+Employee training in handling dangerous goods is required.
+These details refer to the product as it is delivered.
+Employee instruction/training in handling hazardous materials is required.
+Page  26 of 29
+
+[[page 27]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+Classification and processes used to derive the classification of the mixture in accordance with 
+the ordinance (EG) 1272/2008 (CLP):
+Classification in accordance with regulation 
+(EC) No. 1272/2008 (CLP)
+Evaluation method used
+Eye Irrit. 2, H319 Classification according to calculation procedure.
+Skin Sens. 1, H317 Classification according to calculation procedure.
+Aquatic Chronic 2, H411 Classification according to calculation procedure.
+Aerosol 1, H222 Classification according to calculation procedure.
+Aerosol 1, H229 Classification based on the form or physical state.
+The following phrases represent the posted Hazard Class and Risk Category Code (GHS/CLP) of the product and the constituents.
+H226 Flammable liquid and vapour.
+H317 May cause an allergic skin reaction.
+H302 Harmful if swallowed.
+H304 May be fatal if swallowed and enters airways.
+H314 Causes severe skin burns and eye damage.
+H315 Causes skin irritation.
+H318 Causes serious eye damage.
+H319 Causes serious eye irritation.
+H331 Toxic if inhaled.
+H336 May cause drowsiness or dizziness.
+H400 Very toxic to aquatic life.
+H410 Very toxic to aquatic life with long lasting effects.
+H412 Harmful to aquatic life with long lasting effects.
+EUH066 Repeated exposure may cause skin dryness or cracking.
+Eye Irrit. — Eye irritation
+Skin Sens. — Skin sensitization
+Aquatic Chronic — Hazardous to the aquatic environment - chronic
+Aerosol — Aerosols
+Flam. Liq. — Flammable liquid
+STOT SE — Specific target organ toxicity - single exposure - narcotic effects
+Asp. Tox. — Aspiration hazard
+Acute Tox. — Acute toxicity - inhalation
+Acute Tox. — Acute toxicity - oral
+Skin Irrit. — Skin irritation
+Eye Dam. — Serious eye damage
+Aquatic Acute — Hazardous to the aquatic environment - acute
+Skin Corr. — Skin corrosion
+Key literature references and sources for data:
+Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP) as amended.
+Guidelines for the preparation of safety data sheets as amended (ECHA).
+Guidelines on labelling and packaging according to the Regulation (EG) Nr. 1272/2008 (CLP) as amended (ECHA).
+Safety data sheets for the constituent substances.
+ECHA Homepage - Information about chemicals.
+GESTIS Substance Database (Germany).
+German Environment Agency "Rigoletto" information site on substances that are hazardous to water (Germany).
+EU Occupation Exposure Limits Directives 91/322/EEC, 2000/39/EC, 2006/15/EC, 2009/161/EU, (EU) 2017/164, (EU) 2019/1831, 
+each as amended.
+National Lists of Occupational Exposure Limits for each country as amended.
+Regulations on the transport of hazardous goods by road, rail, sea and air (ADR, RID, IMDG, IATA) as amended.
+Any abbreviations and acronyms used in this document:
+acc., acc. to according, according to
+ADR Accord européen relatif au transport international des marchandises Dangereuses par Route (= European Agreement 
+concerning the International Carriage of Dangerous Goods by Road)
+AOX Adsorbable organic halogen compounds
+approx. approximately
+Art.,  Art. no. Article number
+Page  27 of 29
+
+[[page 28]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+ASTM ASTM International (American Society for Testing and Materials)
+ATE Acute Toxicity Estimate
+BAM Bundesanstalt für Materialforschung und -prüfung (= Fede ral Institute for Materials Research and Testing, Germany)
+BAuA Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (= F ederal Institute for Occupational Health and Safety, Germany)
+BCF Bioconcentration factor
+BSEF The International Bromine Council
+CAS Chemical Abstracts Service
+CLP Classification, Labelling and Packaging (REGULATION (EC) No  1272/2008 on classification, labelling and packaging of 
+substances and mixtures)
+CMR carcinogenic, mutagenic, reproductive toxic
+DMEL Derived Minimum Effect Level
+DNEL Derived No Effect Level
+DOC Dissolved organic carbon
+e.g. for example (abbreviation of Lat in 'exempli gratia'), for instance
+EbCx, EyCx, EbLx (x = 10, 50) Effect Concentration/Level of x % on reduction of the biomass (algae, plants)
+EC European Community
+ECHA European Chemicals Agency
+ECx, ELx (x = 0, 3, 5, 10, 20, 50, 80, 100) Effect Concentration/Level for x % effect
+EEC European Economic Community
+EINECS European Inventory of Existing  Commercial Chemical Substances
+ELINCS European List of Notified Chemical Substances
+EN European Norms
+EPA United States Environmental Protecti on Agency (United States of America)
+ErCx, EµCx, ErLx (x = 10, 50) Effect Concentration/Level of  x % on inhibition of the growth rate (algae, plants)
+etc. et cetera
+EU European Union
+EVAL Ethylene-vinyl alcohol copolymer
+Fax. Fax number
+gen. general
+GHS Globally Harmonized System of Cla ssification and Labelling of Chemicals
+GWP Global warming potential
+Koc Adsorption coefficient of organic carbon in the soil
+Kow octanol-water partition coefficient
+IARC International Agency for Research on Cancer
+IATA International Air Transport Association
+IBC (Code) International Bulk Chemical (Code)
+IMDG-code International Maritime Code for Dangerous Goods
+incl. including, inclusive
+IUCLIDInternational Uniform Chemical Information Database
+IUPAC International Union for Pure Applied Chemistry
+LC50 Lethal Concentration to 50 % of a test population
+LD50 Lethal Dose to 50% of a test population (Median Lethal Dose)
+Log Koc Logarithm of adsorption coeffi cient of organic carbon in the soil
+Log Kow, Log Pow Logarithm of octanol-water partition coefficient
+LQ Limited Quantities
+MARPOL International Convention for the Pr evention of Marine Pollution from Ships
+mg/kg bw mg/kg body weight
+mg/kg bw/d, mg/kg bw/day mg/kg body weight/day
+mg/kg dw mg/kg dry weight
+mg/kg wwt mg/kg wet weight
+n.a. not applicable
+n.av. not available
+n.c. not checked
+n.d.a. no data available
+NIOSHNational Institute for Occupational Safety and Health (USA)
+NLP No-longer-Polymer
+NOEC, NOEL No Observed Effect Concentration/Level
+OECD Organisation for Economic Co-operation and Development
+org. organic
+OSHA Occupational Safety and Health Administration (USA)
+PBT persistent, bioacc umulative and toxic
+PE Polyethylene
+PNEC Predicted No Effect Concentration
+ppm parts per million
+PVC Polyvinylchloride
+REACH Registration, Evaluation, Authorisation and Restrictio n of Chemicals (REGULATION (EC) No 1907/2006 concerning 
+the Registration, Evaluation, Authorisation and Restriction of Chemicals)
+Page  28 of 29
+
+[[page 29]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 10.02.2026  / 0016   
+Replacing version dated / version: 26.06.2025  / 0015  
+Valid from: 10.02.2026  
+PDF print date: 10.02.2026
+3-IN-ONE® Heavy Duty Cleaner Degreaser
+REACH-IT List-No. 6/7/8/9xx-xxx-x No. is automatically assig ned, e.g. to pre-registrations without a CAS No. or other 
+numerical identifier. List Numbers do not have any legal significance, rather they are purely technical identifiers for processing a 
+submission via REACH-IT.
+RID Règlement concernant le transport International ferroviai re de marchandises Dangereuses (= Regulation concerning the 
+International Carriage of Dangerous Goods by Rail)
+SVHC Substances of Very High Concern
+Tel. Telephone
+TOC Total organic carbon
+UN RTDG United Nations Recommendations on the Transport of Dangerous Goods
+VOC Volatile organic compounds
+vPvB very persistent and very bioaccumulative
+The statements made here should describe the product with regard to the necessary safety precautions - they are
+not meant to guarantee definite characteristics - but they are based on our present up-to-date knowledge.
+No responsibility.
+These statements were made by:
+Chemical Check GmbH, Chemical Check Platz 1-7, D-32839 Steinheim, Tel.: +49 5233 94 17 0
+© by Chemical Check GmbH Gefahrstoffberatung. The copying or changing of this document
+is forbidden except with consent of the Chemical Check GmbH Gefahrstoffberatung.
+Page  29 of 29

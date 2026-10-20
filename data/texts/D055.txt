@@ -1,0 +1,655 @@
+[[page 1]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+Issue date: 7/17/2025   Revision date: 10/6/2026   Supersedes version of: 6/15/2026   Version: 1.3
+10/6/2026 (Revision date) EN (English) 1/13
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1. Product identifier
+Product form : Mixture
+Product name : XF Premium S 5w30
+Product code : 8627
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+Relevant identified uses
+Use of the substance/mixture : Engine oil
+1.3. Details of the supplier of the safety data sheet
+1.4. Emergency telephone number
+Emergency number : 112
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+Classification according to Regulation (EC) No. 1272/2008 [CLP]
+Not classified
+Adverse physicochemical, human health and environmental effects
+To our knowledge, this product does not present any particular risk, provided it is handled in accordance with good occupational hygiene and safety 
+practice.
+2.2. Label elements
+Labelling according to Regulation (EC) No. 1272/2008 [CLP]
+EUH-statements : EUH208 - Contains MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL 
+DITHIOCARBAMATE COMPLEX(457-320-2), 1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-
+ethylhexyl)-(91273-04-0), Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.. May 
+produce an allergic reaction.
+2.3. Other hazards
+Contains no PBT and/or vPvB substances ≥ 0.1% assessed in accordance with REACH Annex XIII
+Component
+Substance(s) not meeting the PBT criteria of REACH 
+regulation, in accordance with Annex XIII
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+Substance(s) not meeting the vPvB criteria of REACH 
+regulation, in accordance with Annex XIII
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+The mixture does not contain substance(s) included in the list established in accordance with Article 59(1) of REACH for having endocrine disrupting 
+properties, or substance(s) are not identified as having endocrine disrupting properties in accordance with the criteria set out in Commission 
+Delegated Regulation (EU) 2017/2100 or Commission Regulation (EU) 2018/605 at a concentration equal to or greater than 0,1 %
+Manufacturer
+Millers Oils Ltd
+Hillside Oil Works Hillside Oil works
+Rastrick Common
+GB HD6 3DP Brighouse, West Yorkshire
+United Kingdom
+T +44 (0)1484 713201, F +44 (0)1484 721263
+h.s@millersoils.co.uk
+
+[[page 2]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 2/13
+SECTION 3: Composition/information on ingredients
+3.2. Mixtures
+Name Product identifier % Classification according to 
+Regulation (EC) No. 1272/2008 
+[CLP]
+LUBRICATING OILS (PETROLEUM), C20-50, 
+HYDROTREATED NEUTRAL OIL-BASED
+CAS-No.: 72623-87-1
+EC-No.: 276-738-4
+REACH-no: 01-2119474889-
+13
+≥ 70 Asp. Tox. 1, H304
+DISTILLATES (PETROLEUM) HYDROTREATED 
+HEAVY PARAFFINIC
+substance with national workplace exposure limit(s) 
+(AT, BE, CZ, DE, EE, ES, FI, FR, GB, GR, HR, IE, IT, 
+LV, NL, PL, PT, SI, CH); substance with a Community 
+workplace exposure limit
+CAS-No.: 64742-54-7
+EC-No.: 265-157-1
+REACH-no: 01-2119484627-
+25
+≥ 1 – < 10 Not classified
+Reaction products of diphenylamine with nonene, 
+branched
+CAS-No.: 36878-20-3
+EC-No.: 701-385-4
+REACH-no: 01-2119488911-
+28
+≥ 1 – < 10 Repr. 2, H361f
+LUBRICATING OILS (PETROLEUM), C15-30, 
+HYDROTREATED NEUTRAL OIL-BASED
+CAS-No.: 72623-86-0
+EC-No.: 276-737-9
+REACH-no: 2119474878-16-
+XXXX
+≥ 1 – < 10 Asp. Tox. 1, H304
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED 
+LIGHT PARAFFINIC
+CAS-No.: 64742-56-9
+EC-No.: 265-159-2
+REACH-no: 01-2119480132-
+48
+< 10 Asp. Tox. 1, H304
+DISTILLATES (PETROLEUM), HYDROTREATED 
+LIGHT PARAFFINIC
+CAS-No.: 64742-55-8
+EC-No.: 265-158-7
+REACH-no: 01-2119487077-
+29
+< 10 Asp. Tox. 1, H304
+Distillates (petroleum), solvent-dewaxed heavy 
+paraffinic
+CAS-No.: 64742-65-0
+EC-No.: 265-169-7
+< 10 Asp. Tox. 1, H304
+MOLYBDENUM POLYSULPHIDE LONG CHAIN 
+ALKYL DITHIOCARBAMATE COMPLEX
+CAS-No.: 457-320-2
+REACH-no: 01-0000019337-
+66
+< 1 Skin Irrit. 2, H315
+Skin Sens. 1, H317
+Aquatic Chronic 3, H412
+1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-
+ethylhexyl)-
+CAS-No.: 91273-04-0
+EC-No.: 401-280-0
+EC Index-No.: 613-072-00-9
+< 1 Skin Corr. 1A, H314
+Eye Dam. 1, H318
+Skin Sens. 1, H317
+Aquatic Chronic 1, H410
+Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl 
+derivs.
+- < 1 Skin Sens. 1B, H317
+STOT RE 2, H373
+Full text of H- and EUH-statements: see section 16
+SECTION 4: First aid measures
+4.1. Description of first aid measures
+First-aid measures general : If you feel unwell, seek medical advice.
+First-aid measures after inhalation : Remove person to fresh air and keep comfortable for breathing.
+First-aid measures after skin contact : Wash skin with plenty of water. Take off contaminated clothing and wash it before reuse.
+
+[[page 3]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 3/13
+First-aid measures after eye contact : Rinse eyes with water as a precaution. Remove contact lenses, if present and easy to do. 
+Continue rinsing.
+First-aid measures after ingestion : Get medical advice/attention if you feel unwell. Rinse mouth. Do not induce vomiting.
+Self protection of the first-aider : First aid workers will be equipped with suitable personal protective equipment.
+4.2. Most important symptoms and effects, both acute and delayed
+Symptoms/effects after inhalation : None under normal conditions.
+Symptoms/effects after skin contact : None under normal conditions.
+Symptoms/effects after eye contact : None under normal conditions.
+Symptoms/effects after ingestion : None under normal conditions.
+4.3. Indication of any immediate medical attention and special treatment needed
+Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1. Extinguishing media
+Suitable extinguishing media : Dry powder. Foam. Carbon dioxide.
+Unsuitable extinguishing media : Strong water jet.
+5.2. Special hazards arising from the substance or mixture
+Fire hazard : No fire hazard.
+Explosion hazard : No direct explosion hazard.
+Hazardous decomposition products in case of fire : Toxic fumes may be released.
+5.3. Advice for firefighters
+Firefighting instructions : Fight fire from safe distance and protected location. Do not enter fire area without proper 
+protective equipment, including respiratory protection.
+Protection during firefighting : Do not attempt to take action without suitable protective equipment. Self-contained 
+breathing apparatus. Complete protective clothing.
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+General measures : Stop leak if safe to do so. Notify authorities if product enters sewers or public waters. 
+Absorb spillage to prevent material damage.
+For non-emergency personnel
+Protective equipment : Wear recommended personal protective equipment.
+Emergency procedures : Ventilate spillage area. See section 8 of the SDS for more information on personal 
+protective equipment.
+For emergency responders
+Protective equipment : Do not attempt to take action without suitable protective equipment. For further information 
+refer to section 8: "Exposure controls/personal protection".
+Emergency procedures : Evacuate unnecessary personnel. Stop leak if safe to do so.
+6.2. Environmental precautions
+Avoid release to the environment.
+6.3. Methods and material for containment and cleaning up
+For containment : Absorb spilled material with sand or earth. Contain any spills with dikes or absorbents to 
+prevent migration and entry into sewers or streams. Stop leak without risks if possible.
+Methods for cleaning up : This material and its container must be disposed of in a safe way, and as per local 
+legislation. Absorb spilled material with sand or earth.
+Other information : Dispose of materials or solid residues at an authorized site.
+
+[[page 4]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 4/13
+6.4. Reference to other sections
+For further information refer to section 13.
+SECTION 7: Handling and storage
+7.1. Precautions for safe handling
+Additional hazards when processed : Not expected to present a significant hazard under anticipated conditions of normal use.
+Precautions for safe handling : Ensure good ventilation of the work station. Wear personal protective equipment.
+Hygiene measures : Do not eat, drink or smoke when using this product. Always wash hands after handling the 
+product.
+7.2. Conditions for safe storage, including any incompatibilities
+Technical measures : Keep in a cool, well-ventilated place away from heat.
+Storage conditions : Keep cool. Protect from sunlight.
+Packaging materials : Always store product in container of same material as original container.
+7.3. Specific end use(s)
+No additional information available
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+National occupational exposure and biological limit values
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+EU - Indicative Occupational Exposure Limit (IOEL)
+IOEL TWA 5 mg/m³
+DNEL and PNEC
+LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)
+DNEL/DMEL (Workers)
+Long-term - systemic effects, dermal 0.97 mg/kg bodyweight/day
+Long-term - systemic effects, inhalation 2.73 mg/m³
+Long-term - local effects, inhalation 5.58 mg/m³
+DNEL/DMEL (General population)
+Long-term - systemic effects,oral 0.74 mg/kg bodyweight/day
+PNEC (Oral)
+PNEC oral (secondary poisoning) 9.33 mg/kg food
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+DNEL/DMEL (Workers)
+Long-term - systemic effects, dermal 0.97 mg/kg bodyweight/day
+Long-term - systemic effects, inhalation 2.73 mg/m³
+Long-term - local effects, inhalation 5.58 mg/m³
+DNEL/DMEL (General population)
+Long-term - systemic effects,oral 0.74 mg/kg bodyweight/day
+
+[[page 5]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 5/13
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+PNEC (Oral)
+PNEC oral (secondary poisoning) 9.33 mg/kg food
+8.2. Exposure controls
+Appropriate engineering controls
+Appropriate engineering controls:
+Ensure good ventilation of the work station.
+Personal protection equipment
+Personal protective equipment:
+Wear recommended personal protective equipment.
+Personal protective equipment symbol(s):
+  
+Eye and face protection
+Eye protection:
+Safety glasses
+Skin protection
+Skin and body protection:
+Wear suitable protective clothing
+Hand protection:
+Protective gloves
+Respiratory protection
+Respiratory protection:
+No respiratory protection needed under normal use conditions
+Environmental exposure controls
+Environmental exposure controls:
+Avoid release to the environment.
+SECTION 9: Physical and chemical properties
+9.1. Information on basic physical and chemical properties
+Physical state : Liquid
+Colour : Not available
+Odour : Not available
+Odour threshold : Not available
+Melting point : Not applicable
+Freezing point : Not available
+Boiling point : Not available
+Flammability : Non flammable
+Lower explosion limit : Not available
+Upper explosion limit : Not available
+Flash point : > 200 °C
+Auto-ignition temperature : Not available
+Decomposition temperature : Not available
+pH : Not available
+Viscosity, kinematic : 71.4 mm²/s @40oC
+Solubility : Not available
+Partition coefficient n-octanol/water (Log Kow) : Not available
+Vapour pressure : Not available
+Vapour pressure at 50°C : Not available
+
+[[page 6]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 6/13
+Density : Not available
+Relative density : 0.85 @15oC
+Relative vapour density at 20°C : Not available
+Particle characteristics : Not applicable
+9.2. Other information
+No additional information available
+SECTION 10: Stability and reactivity
+10.1. Reactivity
+The product is non-reactive under normal conditions of use, storage and transport.
+10.2. Chemical stability
+Stable under normal conditions.
+10.3. Possibility of hazardous reactions
+No dangerous reactions known under normal conditions of use.
+10.4. Conditions to avoid
+None under recommended storage and handling conditions (see section 7).
+10.5. Incompatible materials
+No additional information available
+10.6. Hazardous decomposition products
+Under normal conditions of storage and use, hazardous decomposition products should not be produced.
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Acute toxicity (oral) : Not classified
+Acute toxicity (dermal) : Not classified
+Acute toxicity (inhalation) : Not classified
+LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+LD50 dermal rabbit > 5000 mg/kg
+LC50 Inhalation - Rat (Dust/Mist) > 5.53 mg/l/4h
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+LD50 dermal > 5000 mg/kg
+Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+
+[[page 7]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 7/13
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)
+LD50 dermal rat > 2000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 402 (Acute Dermal 
+Toxicity)
+LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)
+LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral 
+Toxicity)
+Skin corrosion/irritation : Not classified
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+pH 7
+Serious eye damage/irritation : Not classified
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+pH 7
+Respiratory or skin sensitisation : Not classified
+Germ cell mutagenicity : Not classified
+Carcinogenicity : Not classified
+Reproductive toxicity : Not classified
+1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)
+NOAEL (animal/male, F0/P) 100 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 421 
+(Reproduction / Developmental Toxicity Screening Test)
+NOAEL (animal/male, F1) 100 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 421 
+(Reproduction / Developmental Toxicity Screening Test)
+STOT-single exposure : Not classified
+STOT-repeated exposure : Not classified
+LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)
+LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408 
+(Repeated Dose 90-Day Oral Toxicity Study in Rodents)
+NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity: 
+28-Day Study)
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408 
+(Repeated Dose 90-Day Oral Toxicity Study in Rodents)
+NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity: 
+28-Day Study)
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408 
+(Repeated Dose 90-Day Oral Toxicity Study in Rodents)
+NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity: 
+28-Day Study)
+Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)
+LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408 
+(Repeated Dose 90-Day Oral Toxicity Study in Rodents)
+
+[[page 8]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 8/13
+Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)
+NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity: 
+28-Day Study)
+Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.
+STOT-repeated exposure May cause damage to organs through prolonged or repeated exposure.
+LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)
+LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408 
+(Repeated Dose 90-Day Oral Toxicity Study in Rodents)
+NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity: 
+28-Day Study)
+Aspiration hazard : Not classified
+XF Premium S 5w30 
+Viscosity, kinematic 71.4 mm²/s @40oC
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+Viscosity, kinematic 15 – 21 mm²/s @40oC
+DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)
+Viscosity, kinematic 990 mm²/s @40
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+Viscosity, kinematic 1.99 – 847 mm²/s Temp.: '40°C' Parameter: 'mm²/smm2/s '
+11.2. Information on other hazards
+Endocrine disrupting properties
+Adverse health effects caused by endocrine 
+disrupting properties
+: The mixture does not contain substance(s) included in the list established in accordance 
+with Article 59(1) of REACH for having endocrine disrupting properties, or substance(s) are 
+not identified as having endocrine disrupting properties in accordance with the criteria set 
+out in Commission Delegated Regulation (EU) 2017/2100 or Commission Regulation (EU) 
+2018/605 at a concentration equal to or greater than 0,1 %
+SECTION 12: Ecological information
+12.1. Toxicity
+Ecology - general : The product is not considered harmful to aquatic organisms nor to cause long-term adverse 
+effects in the environment.
+Hazardous to the aquatic environment, short–term 
+(acute)
+: Not classified
+Hazardous to the aquatic environment, long–term 
+(chronic)
+: Not classified
+DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)
+LC50 - Fish [1] > 100 mg/l
+EC50 - Crustacea [1] > 10 mg/l
+Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)
+EC50 - Other aquatic organisms [1] > 10000 mg/l
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+LC50 - Fish [1] > 0.0013 mg/l Test organisms (species): Oncorhynchus mykiss (previous name: Salmo 
+gairdneri)
+
+[[page 9]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 9/13
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+EC50 - Crustacea [1] > 100 mg/l Test organisms (species): Daphnia magna
+1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)
+LC50 - Fish [1] 1.1 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)
+EC50 - Crustacea [1] 2.2 mg/l Test organisms (species): Daphnia magna
+EC50 72h - Algae [1] 0.66 mg/l Test organisms (species): Desmodesmus subspicatus (previous name: 
+Scenedesmus subspicatus)
+NOEC chronic fish > 100 mg/l Test organisms (species):  Duration: '28 d'
+12.2. Persistence and degradability
+XF Premium S 5w30 
+Persistence and degradability Not established.
+LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)
+Persistence and degradability Not rapidly degradable
+DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)
+Persistence and degradability Not rapidly degradable
+DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)
+Persistence and degradability Not rapidly degradable
+DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)
+Persistence and degradability Not rapidly degradable
+Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)
+Persistence and degradability Not rapidly degradable
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+Persistence and degradability Not rapidly degradable
+MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX (457-320-2)
+Persistence and degradability Not rapidly degradable
+1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)
+Persistence and degradability Not rapidly degradable
+Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.
+Persistence and degradability Not rapidly degradable
+LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)
+Persistence and degradability Not rapidly degradable
+12.3. Bioaccumulative potential
+XF Premium S 5w30 
+Bioaccumulative potential No bioaccumulation data available.
+12.4. Mobility in soil
+No additional information available
+
+[[page 10]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 10/13
+12.5. Results of PBT and vPvB assessment
+Component
+Substance(s) not meeting the PBT criteria of REACH 
+regulation, in accordance with Annex XIII
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+Substance(s) not meeting the vPvB criteria of REACH 
+regulation, in accordance with Annex XIII
+Reaction products of diphenylamine with nonene, branched (36878-20-3)
+12.6. Endocrine disrupting properties
+Adverse effects on the environment caused by 
+endocrine disrupting properties
+: The mixture does not contain substance(s) included in the list established in accordance 
+with Article 59(1) of REACH for having endocrine disrupting properties, or substance(s) are 
+not identified as having endocrine disrupting properties in accordance with the criteria set 
+out in Commission Delegated Regulation (EU) 2017/2100 or Commission Regulation (EU) 
+2018/605 at a concentration equal to or greater than 0,1 %.
+12.7. Other adverse effects
+No additional information available
+SECTION 13: Disposal considerations
+13.1. Waste treatment methods
+Regional waste regulation : Disposal must be done according to official regulations.
+Waste treatment methods : Dispose of contents/container in accordance with licensed collector’s sorting instructions.
+Sewage disposal recommendations : Disposal must be done according to official regulations.
+Product/Packaging disposal recommendations : Dispose of contents/container to hazardous or special waste collection point, in accordance 
+with local, regional, national and/or international regulation. Avoid release to the 
+environment.
+Additional information : Do not re-use empty containers.
+SECTION 14: Transport information
+In accordance with ADR / IMDG / IATA / ADN / RID
+ADR IMDG IATA ADN RID
+14.1. UN number or ID number
+Not regulated for transport
+14.2. UN proper shipping name
+Not regulated Not regulated Not regulated Not regulated Not regulated
+14.3. Transport hazard class(es)
+Not regulated Not regulated Not regulated Not regulated Not regulated
+14.4. Packing group
+Not regulated Not regulated Not regulated Not regulated Not regulated
+14.5. Environmental hazards
+Not regulated Not regulated Not regulated Not regulated Not regulated
+No supplementary information available
+14.6. Special precautions for user
+Overland transport
+Not regulated
+
+[[page 11]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 11/13
+Transport by sea
+Not regulated
+Air transport
+Not regulated
+Inland waterway transport
+Not regulated
+Rail transport
+Not regulated
+14.7. Maritime transport in bulk according to IMO instruments
+Not applicable
+SECTION 15: Regulatory information
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+EU-Regulations
+REACH Annex XVII (Restriction List)
+Contains no substance(s) listed on REACH Annex XVII (Restriction Conditions)
+REACH Annex XIV (Authorisation List)
+Contains no substance(s) listed on REACH Annex XIV (Authorisation List)
+REACH Candidate List (SVHC)
+Contains no substance(s) listed on the REACH Candidate List
+PIC Regulation (Prior Informed Consent)
+Contains no substance(s) listed on the PIC list (Regulation EU 649/2012 concerning the export and import of hazardous chemicals)
+POP Regulation (Persistent Organic Pollutants)
+Contains no substance(s) listed on the POP list (Regulation EU 2019/1021 on persistent organic pollutants)
+Ozone Regulation (2024/590)
+Not listed on the Ozone Depletion list (Regulation EU 2024/590)
+Contains no substance(s) listed on the Ozone Depletion list (Regulation EU 2024/590 on substances that deplete the ozone layer)
+Council Regulation (EC) for the control of dual-use items
+Contains no substance subject to the COUNCIL REGULATION (EC) for the control of dual-use items
+Explosives Precursors Regulation (EU 2019/1148)
+Contains no substance(s) listed on the Explosives Precursors list (Regulation EU 2019/1148 on the marketing and use of explosives precursors)
+Drug Precursors Regulation (EC 273/2004)
+Contains no substance(s) listed on the Drug Precursors list (Regulation EC 273/2004 on the manufacture and the placing on market of certain 
+substances used in the illicit manufacture of narcotic drugs and psychotropic substances)
+15.2. Chemical safety assessment
+No chemical safety assessment has been carried out
+SECTION 16: Other information
+Abbreviations and acronyms:
+ACGIH American Conference of Governmental Industrial Hygienists
+ADN European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways
+ADR European Agreement concerning the International Carriage of Dangerous Goods by Road
+
+[[page 12]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 12/13
+Abbreviations and acronyms:
+ATE Acute Toxicity Estimate
+BCF Bioconcentration factor
+BLV Biological limit value
+BOD Biochemical oxygen demand (BOD)
+CAS-No. Chemical Abstracts Service number
+CLP Classification Labelling Packaging Regulation; Regulation (EC) No 1272/2008
+COD Chemical oxygen demand (COD)
+CSA Chemical safety assessment
+DMEL Derived Minimal Effect level
+DNEL Derived-No Effect Level
+EC-No. European Community number
+EC50 Median effective concentration
+ED Endocrine disruptor
+EN European Standard
+EWC European waste catalogue
+IARC International Agency for Research on Cancer
+IATA International Air Transport Association
+IMDG International Maritime Dangerous Goods
+LC50 Median lethal concentration
+LD50 Median lethal dose
+LOAEL Lowest Observed Adverse Effect Level
+Log Kow Partition coefficient n-octanol/water (Log Kow)
+Log Pow Partition coefficient n-octanol/water (Log Pow)
+MAK maximum workplace concentration
+NOAEC No-Observed Adverse Effect Concentration
+NOAEL No-Observed Adverse Effect Level
+NOEC No-Observed Effect Concentration
+N.O.S. Not Otherwise Specified
+OECD Organisation for Economic Co-operation and Development
+OEL Occupational Exposure Limit
+OSHA Occupational Safety  Health Administration
+PBT Persistent Bioaccumulative Toxic
+PNEC Predicted No-Effect Concentration
+PPE Personal protection equipment
+RID Regulations concerning the International Carriage of Dangerous Goods by Rail
+SDS Safety Data Sheet
+STP Sewage treatment plant
+TF Technical function
+ThOD Theoretical oxygen demand (ThOD)
+
+[[page 13]]
+XF Premium S 5w30
+Safety Data Sheet
+according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+10/6/2026 (Revision date) EN (English) 13/13
+Abbreviations and acronyms:
+TLM Median Tolerance Limit
+TWA Time Weighted Average
+VOC Volatile Organic Compounds
+vPvB Very Persistent and Very Bioaccumulative
+UFI Unique Formula Identifier
+Full text of H- and EUH-statements:
+Aquatic Chronic 1 Hazardous to the aquatic environment – Chronic Hazard, Category 1
+Aquatic Chronic 3 Hazardous to the aquatic environment – Chronic Hazard, Category 3
+Asp. Tox. 1 Aspiration hazard, Category 1
+Eye Dam. 1 Serious eye damage/eye irritation, Category 1
+Repr. 2 Reproductive toxicity, Category 2
+Skin Corr. 1A Skin corrosion/irritation, Category 1, Sub-Category 1A
+Skin Irrit. 2 Skin corrosion/irritation, Category 2
+Skin Sens. 1 Skin sensitisation, Category 1
+Skin Sens. 1B Skin sensitisation, category 1B
+STOT RE 2 Specific target organ toxicity – Repeated exposure, Category 2
+H304 May be fatal if swallowed and enters airways.
+H314 Causes severe skin burns and eye damage.
+H315 Causes skin irritation.
+H317 May cause an allergic skin reaction.
+H318 Causes serious eye damage.
+H361f Suspected of damaging fertility.
+H373 May cause damage to organs through prolonged or repeated exposure.
+H410 Very toxic to aquatic life with long lasting effects.
+H412 Harmful to aquatic life with long lasting effects.
+EUH208 Contains MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX(457-320-2), 1H-
+1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)-(91273-04-0), Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl 
+derivs.. May produce an allergic reaction.
+The classification complies with : ATP 12
+Safety Data Sheet (SDS), EU
+This information is based on our current knowledge and is intended to describe the product for the purposes of health, safety and environmental 
+requirements only. It should not therefore be construed as guaranteeing any specific property of the product.
