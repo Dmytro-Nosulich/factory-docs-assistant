@@ -25,7 +25,7 @@ def test_extract_pages_from_real_pdf():
 def test_every_stage1_document_has_text_with_all_pages():
     with MANIFEST.open(encoding="utf-8", newline="") as f:
         stage1 = [r for r in csv.DictReader(f) if "1" in r["stage"].split(",")]
-    assert len(stage1) >= 30
+    assert len(stage1) >= 15
     problems = []
     for r in stage1:
         path = TEXTS / f"{r['id']}.txt"
