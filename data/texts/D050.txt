@@ -1,0 +1,727 @@
+[[page 1]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Safety data sheet
+according to Regulation (EC) No 1907/2006, Annex II (last amended by
+Regulation (EU) 2020/878)
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifier
+Hydraulikoel HLP 46
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Relevant identified uses of the substance or mixture:
+Hydraulic oil
+Uses advised against:
+No information available at present.
+1.3 Details of the supplier of the safety data sheet
+LIQUI MOLY GmbH
+Jerg-Wieland-Str. 4
+89081 Ulm-Lehr
+Tel.: (+49) 0731-1420-0
+Fax: (+49) 0731-1420-88
+Qualified person's e-mail address: info@chemical-check.de, k.schnurbusch@chemical-check.de  Please DO NOT use for requesting Safety 
+Data Sheets.
+1.4 Emergency telephone number
+Emergency information services / official advisory body:
+Landspitali- The National University Hospital of Iceland, tel. +354 543 2222 or 112 (valid only for Iceland)
+Telephone number of the company in case of emergencies:
++49 (0) 700 / 24 112 112 (LMR) 
++1 872 5888271 (LMR)
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Classification according to Regulation (EC) 1272/2008 (CLP)
+The mixture is not classified as dangerous in the terms of the Regulation (EC) 1272/2008 (CLP).
+2.2 Label elements
+Labeling according to Regulation (EC) 1272/2008 (CLP)
+EUH210-Safety data sheet available on request.
+2.3 Other hazards
+The mixture does not contain any vPvB substance (vPvB = very persistent, very bioaccumulative) or is not included under XIII of the regulation 
+(EC) 1907/2006 (< 0,1 %).
+The mixture does not contain any PBT substance (PBT = persistent, bioaccumulative, toxic) or is not included under XIII of the regulation (EC) 
+1907/2006 (< 0,1 %).
+Page  1 of 11
+
+[[page 2]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+The mixture does not contain any substance with endocrine disrupting properties (< 0,1 %).
+Dangerous vapours heavier than air.
+Product floats on the water surface.
+Product can re-ignite itself.
+SECTION 3: Composition/information on ingredients
+3.1 Substances
+n.a.
+3.2 Mixtures
+Distillates (petroleum), solvent-dewaxed light paraffinic
+Registration number (REACH) 01-2119480132-48-XXXX
+Index 649-469-00-9
+EINECS, ELINCS, NLP, REACH-IT List-No. 265-159-2
+CAS 64742-56-9
+content % 1-<3 
+Classification according to Regulation (EC) 1272/2008 (CLP), M-factors Asp. Tox. 1, H304
+For the text of the H-phrases and classification codes (GHS/CLP), see Section 16.
+The substances named in this section are given with their actual, appropriate classification!
+For substances that are listed in appendix VI, table 3.1 of the regulation (EC) no. 1272/2008 (CLP regulation) this means that all notes that may 
+be given here for the named classification have been taken into account.
+The addition of the highest concentrations listed here can result in a classification. Only when this classification is listed in Section 2 does it 
+apply. In all other cases the total concentration is below the classification.
+SECTION 4: First aid measures
+4.1 Description of first aid measures
+First-aiders should ensure they are protected!
+Never pour anything into the mouth of an unconscious person!
+Inhalation
+Supply person with fresh air and consult doctor according to symptoms.
+Skin contact
+Remove polluted, soaked clothing immediately, wash thoroughly with plenty of water and soap, in case of irritation of the skin (flare), consult a 
+doctor.
+Eye contact
+Remove contact lenses.
+Wash thoroughly for several minutes using copious water. Seek medical help if necessary.
+Ingestion
+Rinse the mouth thoroughly with water.
+Do not induce vomiting - give copious water to drink. Consult doctor immediately.
+4.2 Most important symptoms and effects, both acute and delayed
+If applicable delayed symptoms and effects can be found in section 11 and the absorption route in section 4.1.
+In certain cases, the symptoms of poisoning may only appear after an extended period / after several hours.
+eyes, reddened
+watering eyes
+drying of the skin.
+Dermatitis (skin inflammation)
+Vomiting
+Danger of aspiration.
+4.3 Indication of any immediate medical attention and special treatment needed
+Symptomatic treatment.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media
+Page  2 of 11
+
+[[page 3]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Water jet spray/foam/CO2/dry extinguisher
+Unsuitable extinguishing media
+High volume water jet
+5.2 Special hazards arising from the substance or mixture
+In case of fire the following can develop:
+Carbon dioxide
+Carbon monoxide
+Oxides of sulphur
+Oxides of nitrogen
+Oxides of phosphorus
+5.3 Advice for firefighters
+For personal protective equipment see Section 8.
+In case of fire and/or explosion do not breathe fumes.
+Protective respirator with independent air supply.
+According to size of fire
+Full protection, if necessary.
+Dispose of contaminated extinction water according to official regulations.
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+6.1.1 For non-emergency personnel
+In case of spillage or accidental release, wear personal protective equipment as specified in section 8 to prevent contamination.
+Ensure sufficient ventilation, remove sources of ignition.
+Avoid dust formation with solid or powder products.
+Leave the danger zone if possible, use existing emergency plans if necessary.
+Avoid contact with eyes or skin.
+If applicable,  caution - risk of slipping.
+6.1.2 For emergency responders
+See section 8 for suitable protective equipment and material specifications.
+6.2 Environmental precautions
+If leakage occurs, dam up.
+Resolve leaks if this possible without risk.
+Prevent from entering drainage system.
+Prevent surface and ground-water infiltration, as well as ground penetration.
+If accidental entry into drainage system occurs, inform responsible authorities.
+6.3 Methods and material for containment and cleaning up
+Soak up with absorbent material (e.g. universal binding agent, sand, diatomaceous earth, sawdust) and dispose of according to Section 13.
+Fill the absorbed material into lockable containers.
+6.4 Reference to other sections
+For personal protective equipment see Section 8 and for disposal instructions see Section 13.
+SECTION 7: Handling and storage
+In addition to information given in this section, relevant information can also be found in section 8 and 6.1.
+7.1 Precautions for safe handling
+7.1.1 General recommendations
+Ensure good ventilation.
+Avoid formation of oil mist.
+Avoid contact with eyes.
+Avoid long lasting or intensive contact with skin.
+Do not carry cleaning cloths soaked in product in trouser pockets.
+Eating, drinking, smoking, as well as food-storage, is prohibited in work-room.
+Observe directions on label and instructions for use.
+7.1.2 Notes on general hygiene measures at the workplace
+General hygiene measures for the handling of chemicals are applicable.
+Wash hands before breaks and at end of work.
+Keep away from food, drink and animal feedingstuffs.
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.
+Page  3 of 11
+
+[[page 4]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+7.2 Conditions for safe storage, including any incompatibilities
+Not to be stored in gangways or stair wells.
+Store product closed and only in original packing.
+Store at room temperature.
+Store in a dry place.
+7.3 Specific end use(s)
+No information available at present.
+SECTION 8: Exposure controls/personal protection
+8.1 Control parameters
+Chemical Name Oil mist, mineral
+WEL-TWA:    5 mg/m3 (Mineral oil, excluding metal 
+working fluids, ACGIH)
+WEL-STEL:    ---    ---
+Monitoring procedures: - Draeger - Oil Mist 1/a (67 33 031)
+BMGV:    --- Other information:    ---
+Distillates (petroleum), solvent-dewaxed light paraffinic
+Area of application Exposure route / 
+Environmental 
+compartment
+Effect on health Descriptor Value Unit Note
+ Environment - oral (animal 
+feed)
+ PNEC 9,33 mg/kg feed
+Consumer Human - inhalation Long term, local effects DNEL 1,19 mg/m3
+Consumer Human - oral Long term, systemic 
+effects
+DNEL 0,74 mg/kg 
+bw/day
+Workers / employees Human - inhalation Long term, systemic 
+effects
+DNEL 2,73 mg/m3
+Workers / employees Human - inhalation Long term, local effects DNEL 5,58 mg/m3
+Workers / employees Human - dermal Long term, systemic 
+effects
+DNEL 0,97 mg/kg 
+bw/day
+       - United Kingdom | WEL-TWA = Workplace Exposure Limit - Long-term exposure limit - 8-hour TWA (= time weighted average) reference 
+period (EH40/2005 Workplace exposure limits (Fourth Edition 2020)).
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/CE, 2017/164/EU). (9) = Respirable fraction (2004/37/CE, 2017/164/EU). (11) = Inhalable fraction 
+(2004/37/CE). (12) = Inhalable fraction. Respirable fraction in those Member States that implement, on the date of the entry into force of this 
+Directive, a biomonitoring system with a biological limit value not exceeding 0,002 mg Cd/g creatinine in urine (2004/37/CE). |
+ | WEL-STEL = Workplace Exposure Limit - Short-term exposure limit - 15-minute reference period (EH40/2005 Workplace exposure limits 
+(Fourth Edition 2020)).
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU or 2019/1831/EU:
+(8) = Inhalable fraction (2004/37/EC, 2017/164/EU). (9) = Respirable fraction (2004/37/EC, 2017/164/EU). (10) = Short-term exposure limit value 
+in relation to a reference period of 1 minute (2017/164/EU). |
+ | BMGV = Biological monitoring guidance value (EH40/2005 Workplace exposure limits (Fourth Edition 2020)).
+(EU) = Directive 98/24/EC or 2004/37/EC or SCOEL (Biological Limit Value - BLV, Recommendation from the Scientific Committee on 
+Occupational Exposure Limits (SCOEL)) |
+ | Other information (EH40/2005 Workplace exposure limits (Fourth Edition 2020)): Sen = Capable of causing occupational asthma. Sk = Can be 
+absorbed through skin. Carc = Capable of causing cancer and/or heritable genetic damage.
+(EU) = Directive 91/322/EEC, 98/24/EC, 2000/39/EC, 2004/37/EC, 2006/15/EC, 2009/161/EU, 2017/164/EU, 2019/1831/EU or 2024/869/EU:
+(13) = The substance can cause sensitisation of the skin and of the respiratory tract (98/24/EC, 2004/37/CE), (14) = The substance can cause 
+sensitisation of the skin (2004/37/CE), (15) = Substantial contribution to the total body burden via dermal exposure possible. |
+8.2 Exposure controls
+8.2.1 Appropriate engineering controls
+Ensure good ventilation. This can be achieved by local suction or general air extraction.
+If this is insufficient to maintain the concentration under the WEL or AGW values, suitable breathing protection should be worn.
+Applies only if maximum permissible exposure values are listed here.
+Page  4 of 11
+
+[[page 5]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Suitable assessment methods for reviewing the effectiveness of protection measures adopted include metrological and non-metrological 
+investigative techniques.
+These are specified by e.g. EN 14042.
+EN 14042 "Workplace atmospheres. Guide for the application and use of procedures for the assessment of exposure to chemical and biological 
+agents".
+8.2.2 Individual protection measures, such as personal protective equipment
+General hygiene measures for the handling of chemicals are applicable.
+Wash hands before breaks and at end of work.
+Keep away from food, drink and animal feedingstuffs.
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.
+Eye/face protection:
+Tight fitting protective goggles (EN 166) with side protection, with danger of splashes.
+Skin protection - Hand protection:
+Chemical resistant protective gloves (EN ISO 374).
+If applicable
+Protective gloves made of fluorocarbon rubber (EN ISO 374).
+Protective Neoprene® / polychloroprene gloves (EN ISO 374).
+Protective nitrile gloves (EN ISO 374).
+Minimum layer thickness in mm:
+0,5
+Permeation time (penetration time) in minutes:
+480
+Protective hand cream recommended.
+The breakthrough times determined in accordance with EN 16523-1 were not obtained under practical conditions.
+The recommended maximum wearing time is 50% of breakthrough time.
+Skin protection - Other:
+Protective working garments (e.g. safety shoes EN ISO 20345, long-sleeved protective working garments).
+Respiratory protection:
+Normally not necessary.
+With oil mist formation:
+Filter A P2 (EN 14387), code colour brown, white
+Observe wearing time limitations for respiratory protection equipment.
+Thermal hazards:
+Not applicable
+Additional information on hand protection - No tests have been performed.
+In the case of mixtures, the selection has been made according to the knowledge available and the information about the contents.
+Selection of materials derived from glove manufacturer's indications.
+Final selection of glove material must be made taking the breakthrough times, permeation rates and degradation into account.
+Selection of a suitable glove depends not only on the material but also on other quality characteristics and varies from manufacturer to 
+manufacturer.
+In the case of mixtures, the resistance of glove materials cannot be predicted and must therefore be tested before use.
+The exact breakthrough time of the glove material can be requested from the protective glove manufacturer and must be observed.
+8.2.3 Environmental exposure controls
+No information available at present.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical state: Liquid
+Colour: Clear
+Odour: Characteristic
+Melting point/freezing point: There is no information available on this parameter.
+Boiling point or initial boiling point and boiling range: There is no information available on this parameter.
+Flammability: There is no information available on this parameter.
+Lower explosion limit: There is no information available on this parameter.
+Page  5 of 11
+
+[[page 6]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Upper explosion limit: There is no information available on this parameter.
+Flash point: 243 °C (ISO 2592 (Cleveland, open cup))
+Auto-ignition temperature: There is no information available on this parameter.
+Decomposition temperature: There is no information available on this parameter.
+pH: Mixture is non-soluble (in water).
+Kinematic viscosity: 45,61 mm2/s (40°C, ISO 3104)
+Solubility: Not miscible
+Partition coefficient n-octanol/water (log value): Does not apply to mixtures.
+Vapour pressure: <0,001 hPa
+Density and/or relative density: 0,877 g/cm3 (DIN 51757)
+Relative vapour density: There is no information available on this parameter.
+Particle characteristics: Does not apply to liquids.
+9.2 Other information
+Explosives: There is no information available on this parameter.
+Oxidising liquids: No
+SECTION 10: Stability and reactivity
+10.1 Reactivity
+The product has not been tested.
+10.2 Chemical stability
+Stable with proper storage and handling.
+10.3 Possibility of hazardous reactions
+No dangerous reactions are known.
+10.4 Conditions to avoid
+See also section 7.
+None known
+10.5 Incompatible materials
+See also section 7.
+Avoid contact with strong oxidizing agents.
+10.6 Hazardous decomposition products
+See also section 5.2
+No decomposition when used as directed.
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+Possibly more information on health effects, see Section 2.1 (classification).
+Hydraulikoel HLP 46
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Acute toxicity, by oral route: n.d.a.
+Acute toxicity, by dermal route: n.d.a.
+Acute toxicity, by inhalation: n.d.a.
+Skin corrosion/irritation: n.d.a.
+Serious eye damage/irritation: n.d.a.
+Respiratory or skin 
+sensitisation:
+n.d.a.
+Germ cell mutagenicity: n.d.a.
+Carcinogenicity: n.d.a.
+Reproductive toxicity: n.d.a.
+Specific target organ toxicity - 
+single exposure (STOT-SE):
+n.d.a.
+Specific target organ toxicity - 
+repeated exposure (STOT-RE):
+n.d.a.
+Aspiration hazard: n.d.a.
+Symptoms: n.d.a.
+Distillates (petroleum), solvent-dewaxed light paraffinic
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Page  6 of 11
+
+[[page 7]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Acute toxicity, by oral route: LD50 >5000 mg/kg     Rat OECD 401 (Acute Oral 
+Toxicity)
+Acute toxicity, by dermal route: LD50 >5000 mg/kg     Rabbit OECD 402 (Acute 
+Dermal Toxicity)
+Acute toxicity, by inhalation: LC50 >5,53 mg/l/4h   Rat OECD 403 (Acute 
+Inhalation Toxicity)
+Aerosol
+Skin corrosion/irritation: Rabbit OECD 404 (Acute 
+Dermal 
+Irritation/Corrosion)
+Not irritant
+Serious eye damage/irritation: Rabbit OECD 405 (Acute Eye 
+Irritation/Corrosion)
+Not irritant
+Respiratory or skin 
+sensitisation:
+Guinea pig OECD 406 (Skin 
+Sensitisation)
+No (skin contact)
+Germ cell mutagenicity: Salmonella 
+typhimurium
+OECD 471 (Bacterial 
+Reverse Mutation Test)
+Negative
+Germ cell mutagenicity: Mammalian OECD 474 (Mammalian 
+Erythrocyte 
+Micronucleus Test)
+Negative
+Germ cell mutagenicity: Mammalian OECD 473 (In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test)
+Negative, 
+Analogous 
+conclusion 
+Chinese hamster
+Germ cell mutagenicity: Mouse OECD 476 (In Vitro 
+Mammalian Cell Gene 
+Mutation Test)
+Negative
+Reproductive toxicity: NOAEL >1000 mg/kg 
+bw/d
+Rat OECD 421 
+(Reproduction/Developm
+ental Toxicity Screening 
+Test)
+Negative
+Reproductive toxicity: NOAEL >2000 mg/kg 
+bw/d
+Rat OECD 414 (Prenatal 
+Developmental Toxicity 
+Study)
+Aspiration hazard: Yes
+Symptoms: drying of the 
+skin., vomiting, 
+nausea
+11.2. Information on other hazards
+Hydraulikoel HLP 46
+Toxicity / effect Endpoint Value Unit Organism Test method Notes
+Endocrine disrupting properties: Does not apply 
+to mixtures.
+Other information: No other 
+relevant 
+information 
+available on 
+adverse effects 
+on health.
+SECTION 12: Ecological information
+Possibly more information on environmental effects, see Section 2.1 (classification).
+See section 2.
+Hydraulikoel HLP 46
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: n.d.a.
+12.1. Toxicity to daphnia: n.d.a.
+12.1. Toxicity to algae: n.d.a.
+12.2. Persistence and 
+degradability:
+Mechanical 
+precipitation 
+possible.
+Page  7 of 11
+
+[[page 8]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+12.3. Bioaccumulative 
+potential:
+n.d.a.
+12.4. Mobility in soil: n.d.a.
+12.5. Results of PBT 
+and vPvB assessment
+n.d.a.
+12.6. Endocrine 
+disrupting properties:
+Does not apply 
+to mixtures.
+12.7. Other adverse 
+effects:
+No information 
+available on 
+other adverse 
+effects on the 
+environment.
+Distillates (petroleum), solvent-dewaxed light paraffinic
+Toxicity / effect Endpoint Time Value Unit Organism Test method Notes
+12.1. Toxicity to fish: LL50 96h >100 mg/l Pimephales 
+promelas
+OECD 203 (Fish, 
+Acute Toxicity 
+Test)
+12.1. Toxicity to daphnia: EL50 48h >10000 mg/l Daphnia magna OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+12.1. Toxicity to daphnia: LL50 48h >1000 mg/l Gammarus sp. OECD 202 
+(Daphnia sp. 
+Acute 
+Immobilisation 
+Test)
+12.1. Toxicity to daphnia: NOEC/NOEL 21d 10 mg/l Daphnia magna OECD 211 
+(Daphnia magna 
+Reproduction Test)
+12.1. Toxicity to algae: NOEC/NOEL 72h >100 mg/l Pseudokirchneriell
+a subcapitata
+OECD 201 (Alga, 
+Growth Inhibition 
+Test)
+12.2. Persistence and 
+degradability:
+28d 31 % activated sludge OECD 301 F 
+(Ready 
+Biodegradability - 
+Manometric 
+Respirometry Test)
+Inherent
+12.3. Bioaccumulative 
+potential:
+Log Pow  >3 Low
+12.5. Results of PBT 
+and vPvB assessment
+No PBT 
+substance, No 
+vPvB substance
+12.6. Endocrine 
+disrupting properties:
+Negative
+SECTION 13: Disposal considerations
+13.1 Waste treatment methods
+For the substance / mixture / residual amounts
+Soaked polluted cloths, paper or other organic materials represent a fire hazard and should be controlled, collected and disposed of.
+EC disposal code no.:
+The  waste codes are recommendations based on the scheduled use of this product.
+Owing to the user's specific conditions for use and disposal, other waste codes may be
+allocated under certain circumstances. (2014/955/EU)
+13 01 10 mineral based non-chlorinated hydraulic oils
+Recommendation:
+Sewage disposal shall be discouraged.
+Pay attention to local and national official regulations.
+E.g. dispose at suitable refuse site.
+E.g. suitable incineration plant.
+Page  8 of 11
+
+[[page 9]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+For contaminated packing material
+Pay attention to local and national official regulations.
+Empty container completely.
+Uncontaminated packaging can be recycled.
+Dispose of packaging that cannot be cleaned in the same manner as the substance.
+15 01 10 packaging containing residues of or contaminated by hazardous substances
+SECTION 14: Transport information
+General statements
+Transport by road/by rail (ADR/RID)
+14.1. UN number or ID number: Not applicable
+14.2. UN proper shipping name:
+Not applicable
+14.3. Transport hazard class(es): Not applicable
+14.4. Packing group: Not applicable
+Hazard identification number: Not applicable
+14.5. Environmental hazards: Not applicable
+Tunnel restriction code: Not applicable
+Classification code: Not applicable
+LQ: Not applicable
+Transport category: Not applicable
+Transport by sea (IMDG-code)
+14.1. UN number or ID number: Not applicable
+14.2. UN proper shipping name:
+Not applicable
+14.3. Transport hazard class(es): Not applicable
+14.4. Packing group: Not applicable
+14.5. Environmental hazards: Not applicable
+Marine Pollutant: Not applicable
+EmS: Not applicable
+Transport by air (IATA)
+14.1. UN number or ID number: Not applicable
+14.2. UN proper shipping name:
+Not applicable
+14.3. Transport hazard class(es): Not applicable
+14.4. Packing group: Not applicable
+14.5. Environmental hazards: Not applicable
+14.6. Special precautions for user
+Unless specified otherwise, general measures for safe transport must be followed.
+14.7. Maritime transport in bulk according to IMO instruments
+Non-dangerous material according to Transport Regulations.
+SECTION 15: Regulatory information
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+Observe restrictions:
+General hygiene measures for the handling of chemicals are applicable.
+Directive 2010/75/EU (VOC): < 3 %
+National requirements/regulations on safety and health protection must be applied when using work equipment.
+15.2 Chemical safety assessment
+A chemical safety assessment is not provided for mixtures.
+SECTION 16: Other information
+Page  9 of 11
+
+[[page 10]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+Revised sections: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16
+Classification and processes used to derive the classification of the mixture in accordance with 
+the ordinance (EG) 1272/2008 (CLP):
+Not applicable
+The following phrases represent the posted Hazard Class and Risk Category Code (GHS/CLP) of the product and the constituents.
+H304 May be fatal if swallowed and enters airways.
+Asp. Tox. — Aspiration hazard
+Key literature references and sources for data:
+Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP) as amended.
+Guidelines for the preparation of safety data sheets as amended (ECHA).
+Guidelines on labelling and packaging according to the Regulation (EG) Nr. 1272/2008 (CLP) as amended (ECHA).
+Safety data sheets for the constituent substances.
+ECHA Homepage - Information about chemicals.
+GESTIS Substance Database (Germany).
+German Environment Agency "Rigoletto" information site on substances that are hazardous to water (Germany).
+EU Occupation Exposure Limits Directives 91/322/EEC, 2000/39/EC, 2006/15/EC, 2009/161/EU, (EU) 2017/164, (EU) 2019/1831, each as 
+amended.
+National Lists of Occupational Exposure Limits for each country as amended.
+Regulations on the transport of hazardous goods by road, rail, sea and air (ADR, RID, IMDG, IATA) as amended.
+Any abbreviations and acronyms used in this document:
+acc., acc. to according, according to
+ADR Accord européen relatif au transport international des marchandises Dangereuses par Route (= European Agreement concerning t he 
+International Carriage of Dangerous Goods by Road)
+AOX Adsorbable organic halogen compounds
+approx. approximately
+Art.,  Art. no. Article number
+ASTM ASTM International (American Society for Testing and Materials)
+ATE Acute Toxicity Estimate
+BAM Bundesanstalt für Materialforschung und -prüfung (= Federal Institute for Materials Research and Testing, Germany)
+BAuA Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (= Federal Institute for Occupational Health and Safety, Germany)
+BCF Bioconcentration factor
+BSEF The International Bromine Council
+CAS Chemical Abstracts Service
+CLP Classification, Labelling and Packaging (REGULATION (EC) No  1272/2008 on classification, labelling and packaging of substances 
+and mixtures)
+CMR carcinogenic, mutagenic, reproductive toxic
+DMEL Derived Minimum Effect Level
+DNEL Derived No Effect Level
+DOC Dissolved organic carbon
+e.g. for example (abbreviation of Latin 'exempli gratia'), for instance
+EbCx, EyCx, EbLx (x = 10, 50) Effect Concentration/Level of x % on reduction of the biomass (algae, plants)
+EC European Community
+ECHA European Chemicals Agency
+ECx, ELx (x = 0, 3, 5, 10, 20, 50, 80, 100) Effect Concentration/Level for x % effect
+EEC European Economic Community
+EINECS European Inventory of Existing Commercial Chemical Substances
+ELINCS European List of Notified Chemical Substances
+EN European Norms
+EPA United States Environmental Protection Agency (United States of America)
+ErCx, EµCx, ErLx (x = 10, 50) Effect Concentration/Level of x % on inhibition of the growth rate (algae, plants)
+etc. et cetera
+EU European Union
+EVAL Ethylene-vinyl alcohol copolymer
+Fax. Fax number
+gen. general
+Page  10 of 11
+
+[[page 11]]
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)
+Revision date / version: 06.02.2024  / 0008   
+Replacing version dated / version: 01.11.2021  / 0007  
+Valid from: 06.02.2024  
+PDF print date: 08.05.2025
+Hydraulikoel HLP 46
+GHS Globally Harmonized System of Classification and Labelling of Chemicals
+GWP Global warming potential
+Koc Adsorption coefficient of organic carbon in the soil
+Kow octanol-water partition coefficient
+IARC International Agency for Research on Cancer
+IATA International Air Transport Association
+IBC (Code) International Bulk Chemical (Code)
+IMDG-code International Maritime Code for Dangerous Goods
+incl. including, inclusive
+IUCLID International Uniform Chemical Information Database
+IUPAC International Union for Pure Applied Chemistry
+LC50 Lethal Concentration to 50 % of a test population
+LD50 Lethal Dose to 50% of a test population (Median Lethal Dose)
+Log Koc Logarithm of adsorption coefficient of organic carbon in the soil
+Log Kow, Log Pow Logarithm of octanol-water partition coefficient
+LQ Limited Quantities
+MARPOL International Convention for the Pr evention of Marine Pollution from Ships
+mg/kg bw mg/kg body weight
+mg/kg bw/d, mg/kg bw/day mg/kg body weight/day
+mg/kg dw mg/kg dry weight
+mg/kg wwt mg/kg wet weight
+n.a. not applicable
+n.av. not available
+n.c. not checked
+n.d.a. no data available
+NIOSH National Institute for Occupational Safety and Health (USA)
+NLP No-longer-Polymer
+NOEC, NOEL No Observed Effect Concentration/Level
+OECD Organisation for Economic Co-operation and Development
+org. organic
+OSHA Occupational Safety and Health Administration (USA)
+PBT persistent, bioaccumulative and toxic
+PE Polyethylene
+PNEC Predicted No Effect Concentration
+ppm parts per million
+PVC Polyvinylchloride
+REACHRegistration, Evaluation, Authorisation and Restriction of Chemicals (REGULATION (EC) No 1907/2006 concerning the Registra tion, 
+Evaluation, Authorisation and Restriction of Chemicals)
+REACH-IT List-No. 6/7/8/9xx-xxx-x No. is automatically assigned, e.g. to pre-registrations without a CAS No. or other numerical 
+identifier. List Numbers do not have any legal significance, rather they are purely technical identifiers for processing a submission via REACH-
+IT.
+RID Règlement concernant le transport International ferroviaire de marchandises Dangereuses (= Regulation concerning the Interna tional 
+Carriage of Dangerous Goods by Rail)
+SVHC Substances of Very High Concern
+Tel. Telephone
+TOC Total organic carbon
+UN RTDG United Nations Recommendations on the Transport of Dangerous Goods
+VOC Volatile organic compounds
+vPvB very persistent and very bioaccumulative
+The statements made here should describe the product with regard to the necessary safety precautions - they are
+not meant to guarantee definite characteristics - but they are based on our present up-to-date knowledge.
+No responsibility.
+These statements were made by:
+Chemical Check GmbH, Chemical Check Platz 1-7, D-32839 Steinheim, Tel.: +49 5233 94 17 0, Fax: 
++49 5233 94 17 90
+© by Chemical Check GmbH Gefahrstoffberatung. The copying or changing of this document
+is forbidden except with consent of the Chemical Check GmbH Gefahrstoffberatung.
+Page  11 of 11

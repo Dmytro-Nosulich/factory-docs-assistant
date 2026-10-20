@@ -1,0 +1,464 @@
+[[page 1]]
+Pagina: 1/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+60.0.32
+SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa
+· 1.1 Identificatore del prodotto
+· Denominazione commerciale: OTTOSEAL S 100
+· 1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
+· Utilizzazione della Sostanza / del Preparato Materia sigillante al silicone
+· Usi sconsigliati Osservare le informazioni contenute nella scheda tecnica
+· 1.3 Informazioni sul fornitore della scheda di dati di sicurezza
+· Produttore/fornitore:
+Hermann Otto GmbH
+Krankenhausstraße 14
+D-83413 Fridolfing
+Tel.: 0049/(0)8684/908-0
+Fax.: 0049/(0)8684/908-1840
+· Informazioni fornite da:
+Tel.: 0049- (0)8684- 908- 2363 ( -4300 )
+E-Mail: msds@otto-chemie.de
+· 1.4 Numero telefonico di emergenza:
+800 699 792 (Carechem 24)
+CAV Centro Nazionale di Informazione Tossicologica: 27100 0382-24444
+* SEZIONE 2: Identificazione dei pericoli
+· 2.1 Classificazione della sostanza o della miscela
+· Classificazione secondo il regolamento (CE) n. 1272/2008
+Il prodotto non è classificato conformemente al regolamento CLP.
+· 2.2 Elementi dell’etichetta
+· Etichettatura secondo il regolamento (CE) n. 1272/2008 vien meno
+· Pittogrammi di pericolo vien meno
+· Avvertenza vien meno
+· Indicazioni di pericolo vien meno
+· Ulteriori dati:
+Durante la lavorazione e l'indurimento, è necessario garantire una buona ventilazione.
+Contiene la sostanza attiva biocide 2-ottil-2H-isotiazol-3-one come protezione contro la muffa.
+Conservare fuori della portata dei bambini.
+Evitare il contatto con la pelle.
+EUH208 Contiene 2-ottil-2H-isotiazol-3-one. Può provocare una reazione allergica.
+EUH210 Scheda dati di sicurezza disponibile su richiesta.
+· 2.3 Altri pericoli
+Durante la lavorazione e l'indurimento del materiale, le sostanze chimiche vengono rilasciate
+nell'aria (vedere punto 11). Pertanto, è necessario garantire una buona ventilazione dell'ambiente e,
+se necessario, una ventilazione di scarico.
+· Risultati della valutazione PBT e vPvB
+· PBT: Non applicabile.
+· vPvB: Non applicabile.
+· Determinazione delle proprietà di interferenza con il sistema endocrino
+Questo prodotto non contiene componenti che sono interferenti endocrini secondo l'articolo 57(f) del
+regolamento REACH o il regolamento delegato (UE) 2017/2100 della Commissione o il regolamento
+delegato (UE) 2018/605 della Commissione in quantità pari o superiore allo 0,1%.
+* SEZIONE 3: Composizione/informazioni sugli ingredienti
+· 3.2 Miscele
+· Descrizione: Polidimetilsilossano, materiali riempitivi, materiali ausiliari e acetossireticolatori
+                                                                                                                                                                 · Sostanze pericolose:
+CAS: 17689-77-9
+EINECS: 241-677-4
+Reg.nr.: 01-2119881778-15-xxxx
+ethyltriacetoxysilane
+ Skin Corr. 1B, H314;  Acute Tox. 4, H302, EUH014
+<5%
+(continua a pagina 2)
+ it
+
+[[page 2]]
+Pagina: 2/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 1)
+60.0.32
+CAS: 26530-20-1
+EINECS: 247-761-7
+2-ottil-2H-isotiazol-3-one
+ Acute Tox. 3, H301; Acute Tox. 3, H311; Acute Tox. 2,
+H330;  Skin Corr. 1, H314; Eye Dam. 1, H318;
+ Aquatic Acute 1, H400 (M=100); Aquatic Chronic 1,
+H410 (M=100);  Skin Sens. 1A, H317, EUH071
+ATE: LD50 orale: 125 mg/kg
+LD50 cutaneo: 311 mg/kg
+LC50/4 h per inalazione: 0,27 mg/l
+Limite di concentrazione specifico:
+Skin Sens. 1A; H317: C≥ 0,0015 %
+<0,1%
+· Ulteriori indicazioni:
+Il testo dell'avvertenza dei pericoli citati può essere appreso dal capitolo 16
+Le materie prime particellari a rischio di inalazione sono indissolubilmente legate al prodotto e
+pertanto non comportano la classificazione del prodotto per i rischi di inalazione. A causa delle
+proprietà fisiche del prodotto, l'esposizione all'inalazione di particolato non è possibile.
+SEZIONE 4: Misure di primo soccorso
+· 4.1 Descrizione delle misure di primo soccorso
+· Indicazioni generali: Portare le persone da soccorrere all'aria aperta.
+· Inalazione:
+Portare in zona ben areata, praticare eventualmente la respirazione artificiale, tenere al caldo. Se i
+disturbi persistono consultare il medico.
+· Contatto con la pelle:
+Lavare immediatamente con acqua e sapone sciacquando accuratamente.
+In caso di irritazioni cutanee persistenti consultare il medico.
+· Contatto con gli occhi
+Lavare con acqua corrente per diversi minuti tenendo le palpebre ben aperte e consultare il medico.
+· Ingestione: Non provocare il vomito, chiamare subito il medico.
+· 4.2 Principali sintomi ed effetti, sia acuti che ritardati Non sono disponibili altre informazioni.
+· 4.3 Indicazione dell’eventuale necessità di consultare immediatamente un medico e di
+trattamenti speciali
+Non sono disponibili altre informazioni.
+SEZIONE 5: Misure di lotta antincendio
+· 5.1 Mezzi di estinzione
+· Mezzi di estinzione idonei:
+CO2, polvere o acqua nebulizzata. Estinguere gli incendi di grosse dimensioni con acqua
+nebulizzata o con schiuma resistente all'alcool.
+· 5.2 Pericoli speciali derivanti dalla sostanza o dalla miscela
+Se riscaldato o in caso di incendio il prodotto può sviluppare fumi tossici.
+· 5.3 Raccomandazioni per gli addetti all’estinzione degli incendi
+· Mezzi protettivi specifici:
+Indossare il respiratore
+Non inalare i gas derivanti da esplosioni e incendi.
+SEZIONE 6: Misure in caso di rilascio accidentale
+· 6.1 Precauzioni personali, dispositivi di protezione e procedure in caso di emergenza
+Indossare equipaggiamento protettivo. Allontanare le persone non equipaggiate.
+Garantire una ventilazione sufficiente.
+· 6.2 Precauzioni ambientali:
+Impedire infiltrazioni nella fognatura/nelle acque superficiali/nelle acque freatiche.
+· 6.3 Metodi e materiali per il contenimento e per la bonifica:
+Smaltimento del materiale contaminato conformemente al punto 13
+(continua a pagina 3)
+ it
+
+[[page 3]]
+Pagina: 3/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 2)
+60.0.32
+· 6.4 Riferimento ad altre sezioni
+Per informazioni relative all'equipaggiamento protettivo ad uso personale vedere Capitolo 8.
+SEZIONE 7: Manipolazione e immagazzinamento
+· 7.1 Precauzioni per la manipolazione sicura
+Accurata ventilazione/aspirazione nei luoghi di lavoro.
+vedere punto 8: Mezzi protettivi individuali
+· 7.2 Condizioni per lo stoccaggio sicuro, comprese eventuali incompatibilità
+· Stoccaggio:
+· Requisiti dei magazzini e dei recipienti: Assicurare il pavimento contro infiltrazioni.
+· Indicazioni sullo stoccaggio misto: Non conservare a contatto con alimenti.
+· Ulteriori indicazioni relative alle condizioni di immagazzinamento:
+Conservare in luogo fresco e asciutto in fusti ben chiusi.
+Proteggere dal calore e dai raggi diretti del sole.
+· 7.3 Usi finali particolari Non sono disponibili altre informazioni.
+SEZIONE 8: Controlli dell’esposizione/della protezione individuale
+· 8.1 Parametri di controllo
+· Componenti i cui valori limite devono essere tenuti sotto controllo negli ambienti di lavoro
+                                                                                                                                                                 · DNEL
+17689-77-9 ethyltriacetoxysilane
+Per inalazione Lavoratore, locale (lunga durata) 32,5  mg/m3 (rat)
+Consumatore, locale (acuto) 65 mg/m3 (rat)
+Consumatore, locale (lunga durata) 10,8 mg/m3 (rat)
+· Numero CAS  della sostanza              %     tipo    valore  unità
+                                                                                                                                                                 · Valori limiti d'esposizione addizionali per pericoli possibili durante la lavorazione:
+64-19-7 acido acetico
+TWA Valore a breve termine: 37 mg/m³, 15 ppm
+Valore a lungo termine: 25 mg/m³, 10 ppm
+VL Valore a breve termine: 50 mg/m³, 20 ppm
+Valore a lungo termine: 25 mg/m³, 10 ppm
+· Ulteriori indicazioni: Le liste valide alla data di compilazione sono state usate come base.
+· 8.2 Controlli dell’esposizione
+· Controlli tecnici idonei Nessun dato ulteriore, vedere punto 7
+· Misure di protezione individuale, quali dispositivi di protezione individuale
+· Norme generali protettive e di igiene del lavoro:
+Osservare le misure di sicurezza usuali nella manipolazione di sostanze chimiche.
+Lavarsi le mani prima dell'intervallo o a lavoro terminato.
+Evitare il contatto con gli occhi e la pelle.
+· Protezione delle mani Guanti protettivi.
+· Materiale dei guanti
+La scelta dei guanti adatti non dipende soltanto dal materiale bensí anche da altre caratteristiche di
+qualità variabili da un produttore a un altro.
+Materiale raccomandato per i guanti: Gomma nitrilica
+Spessore del materiale consigliato: > 0,4 mm
+· Tempo di permeazione del materiale dei guanti Tempo di permeazione: 10 - 30 min
+· Protezione degli occhi/del volto Occhiali protettivi.
+· Tuta protettiva: Tuta protettiva.
+ it 
+(continua a pagina 4)
+
+[[page 4]]
+Pagina: 4/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 3)
+60.0.32
+SEZIONE 9: Proprietà fisiche e chimiche
+· 9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali
+· Indicazioni generali
+· Stato fisico Liquido
+· Colore: in conformità con la denominazione del prodotto
+· Odore: pungente
+· Punto di fusione/punto di congelamento: non definito
+· Punto di ebollizione o punto di ebollizione
+iniziale e intervallo di ebollizione non applicabile.
+· Limite di esplosività inferiore e superiore
+· inferiore: viene meno
+· superiore: viene meno
+· Punto di infiammabilità: Non applicabile (i metodi di prova per il punto di
+infiammabilità non sono validi per sostanze pastose
+e liquidi altamente viscosi)
+· Temperatura di decomposizione: Non definito.
+· ph Non applicabile.
+· Viscosità: Non definito.
+· Solubilità
+· Acqua: insolubile
+· Coefficiente di ripartizione n-ottanolo/acqua
+(valore logaritmico) Non definito.
+· Tensione di vapore: Non applicabile.
+· Densità e/o densità relativa
+· Densità: vedi scheda tecnica
+· Densità relativa Non definito.
+· Densità di vapore: Non applicabile.
+· Densità di vapore relativa non definito
+· Caratteristiche delle particelle non definito
+· 9.2 Altre informazioni
+· Forma: pastoso
+· Temperatura di accensione: Prodotto non autoinfiammabile.
+· Proprietà esplosive: Prodotto non esplosivo.
+· Informazioni relative alle classi di pericoli
+fisici
+· Aerosol vien meno
+· Liquidi infiammabili vien meno
+SEZIONE 10: Stabilità e reattività
+· 10.1 Reattività Non sono disponibili altre informazioni.
+· 10.2 Stabilità chimica
+· Decomposizione termica/ condizioni da evitare:
+Il prodotto non si decompone se utilizzato secondo le norme.
+evitare scaldamento forte.
+· 10.3 Possibilità di reazioni pericolose
+L'acido acetico si forma a contatto con l'umidità dell'aria, l'acqua e gli agenti protici.
+· 10.4 Condizioni da evitare Non sono disponibili altre informazioni.
+· 10.5 Materiali incompatibili: Non sono disponibili altre informazioni.
+· 10.6 Prodotti di decomposizione pericolosi:
+Acido acetico
+vedere punto 5.2
+Possibilità di liberazione di piccole quantità di formaldeide.
+ it 
+(continua a pagina 5)
+
+[[page 5]]
+Pagina: 5/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 4)
+60.0.32
+* SEZIONE 11: Informazioni tossicologiche
+· 11.1 Informazioni sulle classi di pericolo definite nel regolamento (CE) n. 1272/2008
+· Tossicità acuta Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+                                                                                                                                                                 · Valori LD/LC50 rilevanti per la classificazione:
+17689-77-9 ethyltriacetoxysilane
+Orale LD50 1.460 mg/kg (rat)
+26530-20-1 2-ottil-2H-isotiazol-3-one
+Orale LD50 125 mg/kg (ATE)
+Cutaneo LD50 311 mg/kg (ATE)
+Per inalazione LC50/4 h 0,27 mg/l (ATE)
+· Irritabilità primaria:
+· Corrosione cutanea/irritazione cutanea
+non irritante
+Fonte: ECHA
+Prova secondo: OECD Guideline 404 (Coniglio)
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Gravi danni oculari/irritazione oculare
+non irritante
+Fonte: ECHA
+Prova secondo: OECD Guideline 405 (Coniglio)
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Sensibilizzazione respiratoria o cutanea
+epidermico: non sensibilizzante
+Fonte: Analogia
+Rapporto di prova secondo la linea guida OCSE 406 (porcellini d'India)
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Mutagenicità sulle cellule germinali
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Cancerogenicità Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Tossicità per la riproduzione
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Tossicità specifica per organi bersaglio (STOT) - esposizione singola
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Tossicità specifica per organi bersaglio (STOT) - esposizione ripetuta
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Pericolo in caso di aspirazione
+Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.
+· Ulteriori dati (relativi alla tossicità sperimentale):
+All' indurimento del materiale si forma acido acetico. Quello potrebbe provocare irritazioni della pelle
+e degli occhi.
+                                                                                                                                                                 · Ulteriori dati tossicologici:
+26530-20-1 2-ottil-2H-isotiazol-3-one
+Orale Acute toxicity estimate (ATE mix) 125 mg/kg (ra t)
+Cutaneo Acute toxicity estimate (ATE mix) 311 mg/kg (rat)
+· 11.2 Informazioni su altri pericoli
+                                                                                                                                                                 · Proprietà di interferenza con il sistema endocrino
+Nessuno dei componenti è contenuto.
+* SEZIONE 12: Informazioni ecologiche
+· 12.1 Tossicità Non sono disponibili altre informazioni.
+· 12.2 Persistenza e degradabilità Non sono disponibili altre informazioni.
+· Ulteriori indicazioni: Il prodotto non è biodegradabile.
+· 12.3 Potenziale di bioaccumulo Non sono disponibili altre informazioni.
+(continua a pagina 6)
+ it
+
+[[page 6]]
+Pagina: 6/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 5)
+60.0.32
+· 12.4 Mobilità nel suolo Non sono disponibili altre informazioni.
+· 12.5 Risultati della valutazione PBT e vPvB
+· PBT: Non applicabile.
+· vPvB: Non applicabile.
+· 12.6 Proprietà di interferenza con il sistema endocrino
+Questo prodotto non contiene componenti che sono interferenti endocrini secondo l'articolo 57(f) del
+regolamento REACH o il regolamento delegato (UE) 2017/2100 della Commissione o il regolamento
+delegato (UE) 2018/605 della Commissione in quantità pari o superiore allo 0,1%.
+· 12.7 Altri effetti avversi
+· Ulteriori indicazioni in materia ambientale:
+· Ulteriori indicazioni:
+Non immettere nelle acque freatiche, nei corsi d'acqua o nelle fognature.
+Pericolosità per le acque classe 1 (D) (Autoclassificazione): poco pericoloso
+SEZIONE 13: considerazioni sullo smaltimento
+· 13.1 Metodi di trattamento dei rifiuti
+· Consigli:
+Smaltimento in conformità con le disposizioni amministrative.
+Il materiale può essere smaltito insieme ai rifiuti della casa. Materiale non usato deve ( liquido,
+pastoso ) essere trattato come rifiuto speciale.
+· Imballaggi non puliti:
+· Consigli:
+Gli imballaggi contaminati devono essere ben svuotati,  possono essere poi riutilizzati dopo aver
+subito appropriato trattamento di pulitura.
+Gli imballaggi non sottoponibili a trattamento di pulitura devono essere smaltiti allo stesso modo
+della sostanza.
+SEZIONE 14: Informazioni sul trasporto
+· 14.1 Numero ONU o numero ID
+· ADR, ADN, IMDG, IATA vien meno
+· 14.2 Designazione ufficiale ONU di trasporto
+· ADR, ADN, IMDG, IATA vien meno
+· 14.3 Classi di pericolo connesso al trasporto
+· ADR, ADN, IMDG, IATA
+· Classe vien meno
+· 14.4 Gruppo d’imballaggio
+· ADR, IMDG, IATA vien meno
+· 14.5 Pericoli per l’ambiente
+· Marine pollutant: No
+· 14.6 Precauzioni speciali per gli utilizzatori Non applicabile.
+· 14.7 Trasporto marittimo alla rinfusa
+conformemente agli atti dell’IMO Non applicabile.
+· Trasporto/ulteriori indicazioni: Nessun prodotto a rischio in base ai regolamenti
+sopra indicati.
+· UN "Model Regulation": vien meno
+* SEZIONE 15: informazioni sulla regolamentazione
+· 15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per
+la sostanza o la miscela
+· REGOLAMENTO (CE) n. 1907/2006 ALLEGATO XVII Restrizioni: 70
+(continua a pagina 7)
+ it
+
+[[page 7]]
+Pagina: 7/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 6)
+60.0.32
+                                                                                                                                                                 · Direttiva 2011/65/UE sulla restrizione dell’uso di determinate sostanze pericolose nelle
+apparecchiature elettriche ed elettroniche - Allegato II
+Nessuno dei componenti è contenuto.
+· REGOLAMENTO (UE) 2019/1148
+                                                                                                                                                                 · Allegato I - PRECURSORI DI ESPLOSIVI SOGGETTI A RESTRIZIONI (Valore limite superiore
+ai fini della concessione di licenze a norma dell’articolo 5, paragrafo 3)
+Nessuno dei componenti è contenuto.
+                                                                                                                                                                 · Allegato II - PRECURSORI DI ESPLOSIVI SOGGETTI A SEGNALAZIONE
+Nessuno dei componenti è contenuto.
+                                                                                                                                                                 · Regolamento (CE) n. 273/2004 relativo ai precursori di droghe
+Nessuno dei componenti è contenuto.
+                                                                                                                                                                 · Regolamento (CE) N. 111/2005 recante norme per il controllo del commercio dei precursori
+di droghe tra la Comunità e i paesi terzi
+Nessuno dei componenti è contenuto.
+· Disposizioni nazionali:
+· Classe di pericolosità per le acque:
+Pericolosità per le acque classe 1 (WGK1) (Autoclassificazione): poco pericoloso
+· Indicazioni sullo stato di registrazione internazionale:
+Elencato in o corrispondente ai seguenti inventari:
+REACH - Europe        elencati
+AICS - Australia            non elencati
+DSL - Canada    elencati
+IECSC - China            elencati
+ENCS - Japan              non elencati
+NZIoC - New Zealand   non elencati
+PICCS - Philippines      elencati
+ECL - Korea        elencati
+TSCA - USA                 elencati
+TCSI - Taiwan             elencati
+· 15.2 Valutazione della sicurezza chimica:
+Una valutazione della sicurezza chimica non è stata effettuata.
+SEZIONE 16: Altre informazioni
+I dati sono riportati sulla base delle nostre conoscenze attuali, non rappresentano tuttavia alcuna
+garanzia delle caratteristiche del prodotto e non motivano alcun rapporto giuridico contrattuale.
+La presente scheda di sicurezza è conforme al Regolamento (CE) n. 1907/2006, Articolo 31 quale
+modificato dal regolamento (UE) 2020/878.
+· Frasi rilevanti
+H301 Tossico se ingerito.
+H302 Nocivo se ingerito.
+H311 Tossico per contatto con la pelle.
+H314 Provoca gravi ustioni cutanee e gravi lesioni o culari.
+H317 Può provocare una reazione allergica cutanea.
+H318 Provoca gravi lesioni oculari.
+H330 Letale se inalato.
+H400 Molto tossico per gli organismi acquatici.
+H410 Molto tossico per gli organismi acquatici con e ffetti di lunga durata.
+EUH014 Reagisce violentemente con l'acqua.
+EUH071 Corrosivo per le vie respiratorie.
+· Data della versione precedente: 27.02.2023
+· Numero di versione della versione precedente: 8 
+· Abbreviazioni e acronimi:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning
+the International Carriage of Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+(continua a pagina 8)
+ it
+
+[[page 8]]
+Pagina: 8/8
+Scheda di dati di sicurezza
+ai sensi del regolamento 1907/2006/CE, Articolo 31
+Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+Denominazione commerciale: OTTOSEAL S 100
+(Segue da pagina 7)
+60.0.32
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+DNEL: Derived No-Effect Level (REACH)
+LC50: Lethal concentration, 50 percent
+LD50: Lethal dose, 50 percent
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+ATE: Acute toxicity estimate values (STAStime della tossicità acuta)
+Acute Tox. 3: Tossicità acuta – Categoria 3
+Acute Tox. 4: Tossicità acuta – Categoria 4
+Acute Tox. 2: Tossicità acuta – Categoria 2
+Skin Corr. 1: Corrosione/irritazione della pelle – Categoria 1
+Skin Corr. 1B: Corrosione/irritazione della pelle – Categoria 1B
+Eye Dam. 1: Gravi lesioni oculari/irritazione oculare – Categoria 1
+Skin Sens. 1A: Sensibilizzazione della pelle – Categoria 1A
+Aquatic Acute 1: Pericoloso per l’ambiente acquatico - pericolo acuto per l’ambiente acquatico – Categoria 1
+Aquatic Chronic 1: Pericoloso per l’ambiente acquatico - pericolo a lungo termine per l’ambiente acquatico – Categoria 1
+· * Dati modificati rispetto alla versione precedente   
+ it

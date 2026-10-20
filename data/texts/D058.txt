@@ -1,0 +1,210 @@
+[[page 1]]
+Date Printed:  12/14/2017
+Safety Data Sheet
+* Trusted Quality Since 1921 *
+www.rustoleum.com
+1. Identification
+Product Name: R-O 2OZ 4PK MTLLC RICH BROWN TS Revision Date: 12/14/2017
+Product Identifier: 255331 Supercedes Date: New SDS
+Product Use/Class: Metallic Paint
+Supplier: Rust-Oleum Corporation
+11 Hawthorn Parkway
+Vernon Hills, IL  60061
+USA
+Manufacturer: Rust-Oleum Corporation
+11 Hawthorn Parkway
+Vernon Hills, IL  60061
+USA
+Preparer: Regulatory Department
+24 Hour Hotline: 847-367-7700Emergency Telephone:
+2. Hazard Identification
+Classification
+Symbol(s) of Product
+Signal Word
+Warning
+Possible Hazards
+8% of the mixture consists of ingredient(s) of unknown acute toxicity.
+GHS HAZARD STATEMENTS
+Carcinogenicity, category 2 H351 Suspected of causing cancer.
+GHS LABEL PRECAUTIONARY STATEMENTS
+P201 Obtain special instructions before use.
+P280 Wear protective gloves/protective clothing/eye protection/face protection.
+P308+P313 IF exposed or concerned: Get medical advice/attention.
+P405 Store locked up.
+P501 Dispose of contents/container in accordance with local, regional and national regulations.
+3. Composition / Information On Ingredients
+Page 1 / 5
+
+[[page 2]]
+Date Printed:  12/14/2017
+HAZARDOUS SUBSTANCES
+Chemical Name CAS-No. Wt.%
+Range
+GHS Symbols GHS Statements
+Mica 12001-26-2 2.5-10 Not Available Not Available
+Titanium Dioxide 13463-67-7 1.0-2.5 Not Available Not Available
+Carbon Black 1333-86-4 1.0-2.5 Not Available Not Available
+Vinyl Acetate 108-05-4 0.1-1.0 GHS02-GHS07-GHS08 H225-332-335-351
+Distillates (Petroleum) Solvent-Dewaxed Heavy
+Paraffinic 64742-65-0 0.1-1.0 Not Available Not Available
+Solvent Naphtha, Light Aromatic 64742-95-6 0.1-1.0 GHS07-GHS08 H304-332
+4. First-Aid Measures
+FIRST AID - EYE CONTACT:  Immediately flush eyes with plenty of water for at least 15 minutes holding eyelids open.  Get medical 
+attention.  Do NOT allow rubbing of eyes or keeping eyes closed.
+FIRST AID - SKIN CONTACT:  Wash skin with soap and water. Remove contaminated clothing. Get medical attention if irritation 
+develops or persists.
+FIRST AID - INHALATION:  Remove to fresh air.  If not breathing, give artificial respiration.  If breathing is difficult, give oxygen.  Get 
+immediate medical attention.  Do NOT use mouth-to-mouth resuscitation.  If you experience difficulty in breathing, leave the area to 
+obtain fresh air.  If continued difficulty is experienced, get medical assistance immediately.
+FIRST AID - INGESTION:  Swallowing less than an ounce will not cause significant harm.  For larger amounts, do not induce 
+vomiting, but give one or two glasses of water to drink and get medical attention.  If swallowed, rinse mouth with water.  If feeling 
+unwell, get medical attention.
+5. Fire-Fighting Measures
+EXTINGUISHING MEDIA: None Known
+UNUSUAL FIRE AND EXPLOSION HAZARDS:  No unusual fire or explosion hazards noted.  Keep containers tightly closed.  FLASH 
+POINT IS TESTED TO BE GREATER THAN 200 DEGREES F.
+SPECIAL FIREFIGHTING PROCEDURES:  Water may be used to cool closed containers to prevent buildup of steam.  If water is 
+used, fog nozzles are preferred.
+Special Fire and Explosion Hazard (Combustible Dust):  No Information
+6. Accidental Release Measures
+STEPS TO BE TAKEN IF MATERIAL IS RELEASED OR SPILLED:  If spilled, contain spilled material and remove with inert 
+absorbent.  Dispose of contaminated absorbent, container, and unused contents in accordance with local, state, and federal 
+regulations. Do not incinerate closed containers
+7. Handling and Storage
+HANDLING: Wash thoroughly after handling.  Wash hands before eating.  Remove contaminated clothing and launder before reuse.  
+Use only with adequate ventilation.  Follow all SDS and label precautions even after container is emptied because it may retain 
+product residues.  Avoid breathing fumes, vapors, or mist.  Avoid contact with eyes, skin and clothing.
+STORAGE: Store in a dry, well ventilated place. Keep container tightly closed when not in use.
+Advice on Safe Handling of Combustible Dust:  No Information
+8. Exposure Controls / Personal Protection
+Chemical Name CAS-No. Weight %Less Than ACGIH TLV-TWA ACGIH TLV-STEL OSHA PEL-TWA OSHA PEL-CEILING
+Page 2 / 5
+
+[[page 3]]
+Date Printed:  12/14/2017
+Mica 12001-26-2 10.0 3 mg/m3 N.E. N.E. N.E.
+Titanium Dioxide 13463-67-7 5.0 10 mg/m3 N.E. 15 mg/m3 N.E.
+Carbon Black 1333-86-4 5.0 3 mg/m3 N.E. 3.5 mg/m3 N.E.
+Vinyl Acetate 108-05-4 1.0 10 ppm 15 ppm N.E. N.E.
+Distillates (Petroleum) Solvent-
+Dewaxed Heavy Paraffinic 64742-65-0 1.0 N.E. N.E. N.E. N.E.
+Solvent Naphtha, Light
+Aromatic 64742-95-6 1.0 N.E. N.E. N.E. N.E.
+PERSONAL PROTECTION
+ENGINEERING CONTROLS:  Use process enclosures, local exhaust ventilation, or other engineering controls to control airborne 
+levels below recommended exposure limits.  Prevent build-up of vapors by opening all doors and windows to achieve cross -
+ventilation.
+RESPIRATORY PROTECTION:  A respiratory protection program that meets OSHA 1910.134 and ANSI Z88.2 requirements must be 
+followed whenever workplace conditions warrant a respirator's use.
+SKIN PROTECTION:  Use gloves to prevent prolonged skin contact.  Nitrile or Neoprene gloves may afford adequate skin protection.
+EYE PROTECTION:  Use safety eyewear designed to protect against splash of liquids.
+OTHER PROTECTIVE EQUIPMENT:  Refer to safety supervisor or industrial hygienist for further guidance regarding types of 
+personal protective equipment and their applications.
+HYGIENIC PRACTICES:  Wash thoroughly with soap and water before eating, drinking or smoking.  Remove contaminated clothing 
+immediately and launder before reuse.
+Engineering Measures for Combustible Dust:  No Information
+9. Physical and Chemical Properties
+Appearance: Liquid Physical State: Liquid
+Odor: Solvent Like Odor Threshold: N.E.
+Relative Density: 1.129 pH: N.D.
+Freeze Point,  °C: N.D. Viscosity: N.D.
+Solubility in Water: Miscible Partition Coefficient, n-octanol/
+water: N.D.Decompostion Temp., °C: N.D.
+Boiling Range, °C: 93 - 537 Explosive Limits, vol%: 2.6 - 12.6
+Flammability: Does not Support Combustion Flash Point, °C: 94
+Evaporation Rate: Slower than Ether Auto-ignition Temp., °C: N.D.
+Vapor Density: Heavier than Air Vapor Pressure: N.D.
+(See "Other information" Section for abbreviation legend)
+10. Stability and Reactivity
+CONDITIONS TO AVOID:  No Information
+INCOMPATIBILITY:  Incompatible with strong oxidizing agents, strong acids and strong alkalies.
+HAZARDOUS DECOMPOSITION:  When heated to decomposition, it emits acrid smoke and irritating fumes.
+HAZARDOUS POLYMERIZATION:  Will not occur under normal conditions.
+STABILITY:  This product is stable under normal storage conditions.
+11. Toxicological Information
+EFFECTS OF OVEREXPOSURE - EYE CONTACT:  Irritating, and may injure eye tissue if not removed promptly.
+EFFECTS OF OVEREXPOSURE - SKIN CONTACT:  Low hazard for usual industrial handling or commercial handling by trained 
+personnel.
+EFFECTS OF OVEREXPOSURE - INHALATION:  High gas, vapor, mist or dust concentrations may be harmful if inhaled.  Avoid 
+breathing fumes, spray, vapors, or mist.
+EFFECTS OF OVEREXPOSURE - INGESTION:  Substance may be harmful if swallowed.
+EFFECTS OF OVEREXPOSURE - CHRONIC HAZARDS:  Contains Titanium Dioxide. Titanium Dioxide is listed as a Group 
+2B-"Possibly carcinogenic to humans" by IARC. No significant exposure to Titanium Dioxide is thought to occur during the use of 
+products in which Titanium Dioxide is bound to other materials, such as in paints during brush application or drying. Risk of 
+overexposure depends on duration and level of exposure to dust from repeated sanding of surfaces or spray mist and the actual 
+concentration of Titanium Dioxide in the formula. (Ref: IARC Monograph, Vol. 93, 2010)Contains residual amounts of vinyl acetate.  
+IARC list vinyl acetate as a possible human carcinogen (Group 2B).  This means there is inadequate evidence of carcinogenicity of 
+Page 3 / 5
+
+[[page 4]]
+Date Printed:  12/14/2017
+vinyl acetate in humans and limited evidence of vinyl acetate in experimental animals.  Risk of cancer depends on duration and 
+exposure and actual concentration of vinyl acetate in the formula.  Contains carbon black.  Chronic inflammation, lung fibrosis, and 
+lung tumors have been observed in some rats experimentally exposed for long periods of time to excessive concentrations of carbon 
+black and several insoluble fine dust particles.  Tumors have not been observed in other animal species (i.e., mouse and hamster) 
+under similar circumstances and study conditions.  Epidemiological  studies of North American workers show no evidence of clinically 
+significant adverse health effects due to occupational exposure to carbon black.
+Carbon black is listed as a Group 2B-"Possibly carcinogenic to humans" by IARC and is proposed to be listed as A4 - "not classified 
+as a human carcinogen" by the American Conference of Governmental Industrial Hygienists.  Significant exposure is not anticipated 
+during brush application or drying.  Risk of overexposure depends on duration and level of exposure to dust from repeated sanding of 
+surfaces or spray mist and the actual concentration of carbon black in the formula.
+PRIMARY ROUTE(S) OF ENTRY:   No Information
+ACUTE TOXICITY VALUES
+The acute effects of this product have not been tested.  Data on individual components are tabulated below:
+CAS-No. Chemical Name Oral LD50 Dermal LD50 Vapor LC50
+13463-67-7 Titanium Dioxide >10000 mg/kg Rat 2500 mg/kg N.E.
+1333-86-4 Carbon Black >15400 mg/kg Rat N.E. N.E.
+108-05-4 Vinyl Acetate 2900 mg/kg Rat 2335 mg/kg Rabbit 11.4 mg/L Rat
+64742-65-0 Distillates (Petroleum) Solvent-Dewaxed
+Heavy Paraffinic >15000 mg/kg Rat >5000 mg/kg Rabbit 21 mg/L
+64742-95-6 Solvent Naphtha, Light Aromatic 8400 mg/kg Rat >2000 mg/kg Rabbit N.E.
+N.E. - Not Established
+12. Ecological Information
+ECOLOGICAL INFORMATION:  Product is a mixture of listed components.
+13. Disposal Information
+DISPOSAL INFORMATION:  No Information
+14. Transport Information
+Domestic (USDOT) International (IMDG) Air (IATA) TDG (Canada)
+UN Number: N.A. N.A. N.A. N.A.
+Proper Shipping Name: Not Regulated Not Regulated Not Regulated Not Regulated
+Hazard Class: N.A. N.A. N.A. N.A.
+Packing Group: N.A. N.A. N.A. N.A.
+Limited Quantity: No No No No
+15. Regulatory Information
+U.S. Federal Regulations:
+CERCLA - SARA Hazard Category
+This product has been reviewed according to the EPA ‘Hazard Categories’ promulgated under Sections 311 and 312 of the
+Superfund Amendment and Reauthorization Act of 1986 (SARA Title III) and is considered, under applicable definitions, to
+meet the following categories:
+No Information
+Sara Section 313:
+This product contains the following substances subject to the reporting requirements of Section 313 of Title III of the
+Superfund Amendment and Reauthorization Act of 1986 and 40 CFR part 372:
+Page 4 / 5
+
+[[page 5]]
+Date Printed:  12/14/2017
+Chemical Name CAS-No.
+Vinyl Acetate 108-05-4
+Toxic Substances Control Act:
+This product contains the following chemical substances subject to the reporting requirements of TSCA 12(b) if exported from
+the United States:
+No TSCA 12(b) components exist in this product.
+16. Other Information
+HMIS RATINGS
+Health: 1* Flammability: 1 Physical Hazard: 0 Personal Protection: X
+NFPA RATINGS
+Health: 1 Flammability: 1 Instability 0
+VOLATILE ORGANIC COMPOUNDS, g/L: 284
+SDS REVISION DATE: 12/14/2017
+REASON FOR REVISION:
+Legend: N.A. - Not Applicable, N.E. - Not Established, N.D. - Not Determined
+Rust-Oleum Corporation believes, to the best of its knowledge, information and belief, the information contained herein to be 
+accurate and reliable as of the date of this safety data sheet.  However, because the conditions of handling, use, and storage of 
+these materials are beyond our control, we assume no responsibility or liability for personal injury or property damage incurred by 
+the use of these materials.  Rust-Oleum Corporation makes no warranty, expressed or implied, regarding the accuracy or 
+reliability of the data or results obtained from their use.  All materials may present unknown hazards and should be used with 
+caution.  The information and recommendations in this material safety data sheet are offered for the users’ consideration and 
+examination.  It is the responsibility of the user to determine the final suitability of this information and to comply with all applicable 
+international, federal, state, and local laws and regulations.
+Page 5 / 5

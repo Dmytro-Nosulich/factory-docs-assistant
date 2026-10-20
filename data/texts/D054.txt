@@ -1,0 +1,1018 @@
+[[page 1]]
+Created by: Brandweerinformatiecentrum voor gevaarlijke stoffen vzw (BIG)
+Technische Schoolstraat 43 A, B-2440 Geel
+http://www.big.be
+© BIG vzw
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+1 / 13
+878-16274-033-en
+BIG number: 51613
+SAFETY DATA SHEET
+Based upon Regulation (EC) No 1907/2006, as amended by Regulation (EU) No 2020/878
+Date of revision: 2022-06-08BIG number: 51613Publication date: 2001-12-29 Revision number: 0200
+sulfuric acid, conc=93-99.5%
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1. Product identifier
+Product name sulfuric acid, conc=93-99.5%:
+Synonyms sulfuric-acid-:
+Registration number REACH 01-2119458838-20-0102 (Nyrstar Belgium NV/SA)
+01-2119458838-20-0086 (Nyrstar Budel BV)
+01-2119458838-20-0103 (Nyrstar France SAS)
+:
+Product type REACH Substance/mono-constituent:
+CAS number 7664-93-9:
+EC index number 016-020-00-8:
+EC number 231-639-5:
+Molecular mass 98.08 g/mol:
+Formula H2SO4:
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+1.2.1 Relevant identified uses
+IU01: Production of sulphuric acid (ES1)
+IU02: Use of sulphuric acid as an intermediate in manufacture of inorganic and organic chemicals incl. fertilizers (ES2)
+IU03: Use of sulphuric acid as a processing aid, catalyst, dehydrating agent, pH regulator (ES3)
+IU04: Use of sulphuric acid for extractions and processing of minerals, ores  (ES4)
+IU05: Use of sulphuric acid in the process of surface treatments, purification and etching (ES5)
+IU06: Use of sulphuric acid in electrolytic processes (ES6)
+IU07: Use of sulphuric acid in gas purification, scrubbing, flue gas scrubbing (ES7)
+IU08: Use of sulphuric acid in production of sulphuric acid contained batteries  (ES8)
+IU09: Use of sulphuric acid in maintenance of sulphuric acid contained batteries (ES9)
+IU10: Use of sulphuric acid in recycling of sulphuric acid contained batteries (ES10)
+IU11: Use of sulphuric acid contained batteries (ES11)
+IU12: Use of sulphuric acid as laboratory chemicals (ES12)
+IU13: Use of sulphuric acid in industrial cleaning (ES13)
+IU14: mixing, preparation and repackaging of sulphuric acid (ES14)
+For more detailed information regarding the Identified Uses and the associated Exposure Scenarios: see attached annex
+1.2.2 Uses advised against
+No uses advised against known
+1.3. Details of the supplier of the safety data sheet
+Supplier of the safety data sheet
+Nyrstar Belgium N.V. on behalf of Nyrstar Sales & Marketing A.G.
+Zinkstraat 1
+B-2490 Balen
+☎ +32 14 44 95 00
+แ +32 14 81 05 31
+infoSDS@nyrstar.com
+Nyrstar Budel B.V. on behalf of Nyrstar Sales & Marketing A.G.
+Hoofdstraat 1
+6024 AA Budel-Dorplein
+☎ +32 14 44 96 80
+แ +32 14 44 95 52
+infoSDS@nyrstar.com
+Nyrstar France S.A.S. on behalf of Nyrstar Sales & Marketing A.G.
+Rue Jean Jacques Rousseau
+F-59950 Auby
+☎ +32 14 44 96 80
+แ +33 3 27 88 39 48
+infoSDS@nyrstar.com
+Manufacturer of the product
+Nyrstar Sales & Marketing SA
+1 Rue de Jargonnant
+CH-1207 Geneva 
+infoSDS@nyrstar.com
+1.4. Emergency telephone number
+
+[[page 2]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+2 / 13BIG number: 51613
+24h/24h (Telephone advice: English, French, German, Dutch) :
++32 14 58 45 45 (BIG)
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+Classified as dangerous according to the criteria of Regulation (EC) No 1272/2008
+Class Category Hazard statements
+Skin Corr. category 1A H314: Causes severe skin burns and eye damage.
+Eye Dam. category 1 H318: Causes serious eye damage.
+2.2. Label elements
+Signal word Danger
+H-statements
+Causes severe skin burns and eye damage .H314
+P-statements
+Wear protecƟve gloves , protecƟve clothing and eye protecƟon /face protecƟon .P280
+Do not breathe vapours /mist .P260
+IF INHALED : Remove person to fresh air and keep comfortable for breathing .P304 + P340
+IF ON SKIN (or hair ): Take oﬀ immediately all contaminated clothing . Rinse simultaneously with neutralizing agent
+Diphoterine or equivalent neutralizing agent . Use complete boƩ le . Rinse under emergency shower for 1 to 2
+minutes and conƟ nue rinsing under regular shower for 10 minutes with water at 35 -36 °C
+P303 + P361 + P352
+IF IN EYES : Rinse cauƟ ously with neutralizaƟ on agent Diphoterine or equivalent neutralizing agent for several
+minutes and conƟ nue rinsing with water for 10 minutes .
+P305 + P351
+Immediately call a POISON CENTER /doctor .P310
+2.3. Other hazards
+The criteria of PBT and vPvB as listed in Annex XIII of Regulation (EC) No 1907/2006 do not apply to inorganic substances
+Strong inorganic acid mists containing sulfuric acid are carcinogenic to humans
+SECTION 3: Composition/information on ingredients
+3.1. Substances
+Name
+REACH Registration No
+CAS No
+EC No
+Conc. (C) Classification according to CLP Note Remark M-factors and
+ATE
+93 %<=C
+<=99 .5%
+7664 -93 -9
+231 -639 -5
+Skin Corr . 1A; H314
+Eye Dam . 1; H318
+Skin Corr . 1A; H314 : C≥15 %,
+(CLP Annex VI (ATP 0))
+Skin Irrit . 2; H315 : 5%≤C<15 %
+, (CLP Annex VI (ATP 0))
+Eye Irrit . 2; H319 : 5%≤C<15 %,
+(CLP Annex VI (ATP 0))
+(1)(2)(10 ) Mono-consƟtuentsulfuric acid , conc =93 -99 .5%
+01 -2119458838 -20
+(1) For H- and EUH-statements in full: see section 16
+(2) Substance with a Community workplace exposure limit
+(10) Subject to restrictions of Annex XVII of Regulation (EC) No. 1907/2006
+3.2. Mixtures
+Not applicable
+SECTION 4: First aid measures
+4.1. Description of first aid measures
+General:
+Observe (own ) safety . If possible , approach vicƟ m and check vital funcƟ ons . In case of injury and /or intoxicaƟon , call the European emergency
+number 112 . Treat symptoms starƟ ng with most life -threatening injuries and disorders . Keep vicƟm under observaƟon , possibility of delayed
+symptoms .
+After inhalation:
+Remove vicƟm into fresh air . Immediately consult a doctor /medical service .
+After skin contact:
+Take oﬀ immediately all contaminated clothing and simultaneously rinse with neutralizing agent (BUMB, Diphoterine or equivalent
+neutralizing agent ). Use complete boƩ le . ConƟnue rinsing under emergency shower for 1 to 2 minutes and conƟ nue rinsing under regular
+shower for 10 minutes with water at 35 -36 °C. Cut clothing ; never remove burnt clothing from the wound . Do not give any pain medicaƟ on .
+Consult a doctor /medical service .
+After eye contact:
+
+[[page 3]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+3 / 13BIG number: 51613
+Rinse cauƟ ously with neutralizaƟ on agent (BUMB, Diphoterine or equivalent neutralizing agent ) for several minutes and conƟ nue rinsing with
+plenty of water during 10 minutes . Consult a doctor /medical service .
+After ingestion:
+Rinse mouth with water . Immediately aŌ er ingesƟ on : give small amount of water to drink . Immediately consult a doctor /medical service . Do
+not wait for symptoms to occur to consult Poison Center .
+4.2. Most important symptoms and effects, both acute and delayed
+4.2.1 Acute symptoms
+After inhalation:
+Dry/sore throat . Coughing . IrritaƟ on of the respiratory tract . IrritaƟ on of the nasal mucous membranes . ON CONTINUOUS
+EXPOSURE /CONTACT: Corrosion of the upper respiratory tract . FOLLOWING SYMPTOMS MAY APPEAR LATER : Possible laryngeal spasm /oedema .
+Risk of pneumonia . Risk of lung oedema . Respiratory diﬃculƟ es .
+After skin contact:
+CausƟ c burns /corrosion of the skin .
+After eye contact:
+Corrosion of the eye Ɵ ssue . Permanent eye damage .
+After ingestion:
+Nausea . Abdominal pain . Blood in stool . Blood in vomit . Burns to the gastric /intesƟ nal mucosa . AFTER INGESTION OF HIGH QUANTITIES : Shock .
+4.2.2 Delayed symptoms
+No eﬀects known .
+4.3. Indication of any immediate medical attention and special treatment needed
+If applicable and available it will be listed below .
+SECTION 5: Firefighting measures
+5.1. Extinguishing media
+5.1.1 Suitable extinguishing media:
+Small fire: Quick-acting ABC powder extinguisher, Quick-acting BC powder extinguisher, Quick-acting CO2 extinguisher.
+Major ﬁre : Class B foam (alcohol -resistant ); aŌ er consulƟ ng specialist .
+5.1.2 Unsuitable extinguishing media:
+Small fire: Water (quick-acting extinguisher, reel); risk of puddle expansion, Quick-acting class B foam extinguisher.
+Major ﬁre : Water .
+5.2. Special hazards arising from the substance or mixture
+On burning : release of toxic and corrosive gases /vapours (sulphur oxides ). Violent exothermic reacƟ on with water (moisture ): release of
+corrosive gases /vapours .
+5.3. Advice for firefighters
+5.3.1 Instructions:
+Cool tanks /drums with water spray /remove them into safety . When cooling /exƟnguishing : no water in the substance . Dilute toxic gases with
+water spray . Take account of toxic /corrosive precipitaƟ on water . Heat exposure : dilute toxic gas /vapour with water spray .
+5.3.2 Special protective equipment for fire-fighters:
+Gloves (EN 374 ). Face shield (EN 166 ). Corrosion -proof suit (EN 14605 ). Large spills /in enclosed spaces : self -contained breathing apparatus (EN
+136 + EN 137 ). Large spills /in enclosed spaces : gas -Ɵ ght suit (EN 943 ). Heat /ﬁre exposure : self -contained breathing apparatus (EN 136 + EN
+137 ).
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+No naked ﬂames . Keep containers closed . Avoid ingress of water in the containers . Large spills /in conﬁned spaces : consider evacuaƟ on .
+6.1.1 Protective equipment for non-emergency personnel
+See section 8.2
+6.1.2 Protective equipment for emergency responders
+Gloves (EN 374 ). Face shield (EN 166 ). Corrosion -proof suit (EN 14605 ). Large spills /in enclosed spaces : self -contained breathing apparatus
+(EN 136 + EN 137 ). Large spills /in enclosed spaces : gas -Ɵ ght suit (EN 943 ).
+Suitable protective clothing
+See section 8.2
+6.2. Environmental precautions
+Contain released product , collect /pump into suitable containers . Plug the leak , cut oﬀ the supply . Dam up the liquid spill . Prevent soil and water
+polluƟon . Prevent spreading in sewers .
+6.3. Methods and material for containment and cleaning up
+Neutralize spill with lime , sodium bicarbonate , soda (sodium carbonate ) or soda ash . Neutralized substance : shovel into closing drums .
+Carefully collect the spill /leŌ overs. Damaged /cooled tanks must be empƟ ed . Clean contaminated surfaces with an excess of water . Take
+collected spill to manufacturer /competent authority . Wash clothing and equipment aŌ er handling .
+6.4. Reference to other sections
+See secƟ on 13 .
+
+[[page 4]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+4 / 13BIG number: 51613
+SECTION 7: Handling and storage
+The informaƟ on in this secƟ on is a general descripƟ on . If applicable and available , exposure scenarios are aƩ ached in annex . Always use the
+relevant exposure scenarios that correspond to your idenƟ ﬁed use .
+7.1. Precautions for safe handling
+Keep away from naked ﬂames /heat . Gas /vapour heavier than air at 20 °C. Observe very strict hygiene - avoid contact . Remove contaminated
+clothing immediately . Do not discharge the waste into the drain . Never add water to this product . Never dilute by pouring water to the acid .
+Always add the acid to the water . Keep container Ɵ ghtly closed .
+7.2. Conditions for safe storage, including any incompatibilities
+7.2.1 Safe storage requirements:
+Store in a dry area . Keep container in a well -venƟ lated place . Keep locked up . Protect against frost . Store at ambient temperature . Provide
+for a tub to collect spills . Unauthorized persons are not admiƩ ed . Under a shelter /in the open . Aboveground . Keep only in the original
+container . Store only in a limited quanƟ ty . Meet the legal requirements .
+7.2.2 Keep away from:
+Heat sources , combusƟ ble materials , reducing agents , (strong ) bases , m etals, cellulosic m aterials , organic materials , oxidizing agents ,
+alcohols , amines , water /moisture .
+7.2.3 Suitable packaging material:
+Carbon steel , polyethylene , polypropylene , glass , stoneware /porcelain .
+7.2.4 Non suitable packaging material:
+Monel steel , lead , aluminium , iron , copper , zinc , nickel , bronze .
+7.3. Specific end use(s)
+If applicable and available , exposure scenarios are aƩ ached in annex . See informaƟon supplied by the manufacturer .
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+8.1.1 Occupational exposure
+a) Occupational exposure limit values
+If lim it values are applicable and available these will be listed below .
+EU
+Sulphur dioxide Time-weighted average exposure limit 8 h (Indicative occupational
+exposure limit value)
+0.5 ppm
+Time-weighted average exposure limit 8 h (Indicative occupational
+exposure limit value)
+1.3 mg/m³
+Short time value (Indicative occupational exposure limit value) 1 ppm
+Short time value (Indicative occupational exposure limit value) 2.7 mg/m³
+Sulphuric acid (mist ) Time-weighted average exposure limit 8 h (Indicative occupational
+exposure limit value)
+0.05 mg/m³
+Belgium
+Acide sulfurique (brume ) Time-weighted average exposure limit 8 h 0.2 mg/m³
+Soufre (dioxyde de ) Time-weighted average exposure limit 8 h 0.5 ppm
+Time-weighted average exposure limit 8 h 1.3 mg/m³
+Short time value 1 ppm
+Short time value 2.7 mg/m³
+The Netherlands
+Zwaveldioxide Time-weighted average exposure limit 8 h (Public occupational exposure
+limit value)
+0.7 mg/m³
+Short time value (Public occupational exposure limit value) 0.7 mg/m³
+Zwavelzuur (nevel ), gedeﬁnieerd als de thoracale fracƟ e Time-weighted average exposure limit 8 h (Public occupational exposure
+limit value)
+0.012 ppm
+Time-weighted average exposure limit 8 h (Public occupational exposure
+limit value)
+0.05 mg/m³
+France
+Acide sulfurique Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire
+indicative)
+0.05 mg/m³
+Short time value (VL: Valeur non réglementaire indicative) 3 mg/m³
+Soufre (dioxyde de ) Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire
+indicative)
+0.5 ppm
+Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire
+indicative)
+1.3 mg/m³
+Short time value (VRI: Valeur réglementaire indicative) 1 ppm
+Short time value (VRI: Valeur réglementaire indicative) 2.7 mg/m³
+Germany
+Schwefeldioxid Time-weighted average exposure limit 8 h (TRGS 900) 1 ppm
+
+[[page 5]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+5 / 13BIG number: 51613
+Schwefeldioxid Time-weighted average exposure limit 8 h (TRGS 900) 2.7 mg/m³
+Schwefelsäure Time-weighted average exposure limit 8 h (TRGS 900) 0.1 mg/m³
+Austria
+Schwefelsäure Tagesmittelwert (MAK) 0.1 mg/m³
+Kurzzeitwert Mow 8x (MAK) 0.2 mg/m³
+UK
+Sulphuric acid (mist ) Time-weighted average exposure limit 8 h (Workplace exposure limit
+(EH40/2005))
+0.05 mg/m³
+USA (TLV-ACGIH)
+Sulfur dioxide Short time value (TLV - Adopted Value) 0.25 ppm
+Sulfuric acid Time-weighted average exposure limit 8 h (TLV - Adopted Value) 0.2 mg/m³ (T)
+(T): Thoracic fraction
+b) National biological limit values
+If limit values are applicable and available these will be listed below.
+8.1.2 Sampling methods
+Test NumberProduct name
+NON-VOLATILE ACIDS (Sulfuric Acid) NIOSH 7908
+Sulfur Dioxide (organic and inorganic gases by Extractive FTIR) NIOSH 3800
+Sulfur Dioxide NIOSH 6004
+Sulfur Dioxide OSHA 1011
+Sulfur Dioxide OSHA ID 104
+Sulfur Dioxide OSHA ID 200
+Sulfuric Acid NIOSH 7903
+Sulfuric Acid OSHA ID 113
+Sulfuric Acid OSHA ID 165SG
+8.1.3 Applicable limit values when using the substance or mixture as intended
+If lim it values are applicable and available these will be listed below .
+8.1.4 Threshold values
+DNEL/DMEL - Workers
+sulfuric acid, conc=93-99.5%
+ValueEffect level (DNEL/DMEL) Type Remark
+0.05 mg/m³DNEL Long-term local effects inhalation
+0.1 mg/m³Acute local effects inhalation
+1.3 mg/m³Long-term local effects inhalation SO2
+2.7 mg/m³Acute local effects inhalation SO2
+DNEL/DMEL - General population
+sulfuric acid, conc=93-99.5%
+ValueEffect level (DNEL/DMEL) Type Remark
+0.53 mg/m³DNEL Long-term local effects inhalation SO2
+8.1.5 Control banding
+If applicable and available it will be listed below .
+8.2. Exposure controls
+The informaƟ on in this secƟ on is a general descripƟ on . If applicable and available , exposure scenarios are aƩ ached in annex . Always use the
+relevant exposure scenarios that correspond to your idenƟ ﬁed use .
+8.2.1 Appropriate engineering controls
+Keep away from naked ﬂames /heat . Measure the concentraƟ on in the air regularly . Carry operaƟ ons in the open /under local
+exhaust /venƟlaƟon or with respiratory protecƟon .
+8.2.2 Individual protection measures, such as personal protective equipment
+Observe very strict hygiene - avoid contact . Do not eat , drink or smoke during work .
+a) Respiratory protection:
+Full face mask with ﬁlter type E , at concentraƟ ons in air higher than the exposure limit for sulfur dioxide (SO2). Dust /aerosol mask with ﬁlter
+type P 3 at concentraƟ ons in air higher than the exposure limit for sulfuric acid (H2SO4).
+b) Hand protection:
+ProtecƟ ve gloves against chemicals (EN 374 ).
+Materials Measured
+breakthrough time
+Thickness Protection index Remark
+butyl rubber > 120 minutes 0.5 mm Class 4
+viton > 480 minutes 0.4 mm Class 6
+natural rubber Poor resistance
+nitrile rubber Poor resistance
+neoprene (chloroprene
+rubber)
+Poor resistance
+leather Poor resistance
+c) Eye protection:
+Face shield (EN 166 ). ProtecƟve goggles (EN 166 ).
+d) Skin protection:
+Corrosion -proof clothing (EN 14605 ).
+
+[[page 6]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+6 / 13BIG number: 51613
+8.2.3 Environmental exposure controls:
+See secƟ ons 6.2, 6.3 and 13
+SECTION 9: Physical and chemical properties
+9.1. Information on basic physical and chemical properties
+Physical form Liquid
+Viscosity Oily
+Odour Odourless
+Odour threshold No data available in the literature
+Colour Colourless to brown
+Translucency Clear
+Particle size Not applicable (liquid )
+Explosion limits Not applicable
+Flammability Not classiﬁed as ﬂammable
+Log Kow Not relevant
+Dynamic viscosity 22 .5 mPa .s ; 20 °C ; 95 %
+15 mPa .s ; 20 °C ; 75 %
+Kinematic viscosity No data available in the literature
+Melting point 10 °C ; 100 % ; Equivalent to OECD 102
+3 °C ; 98 % ; Equivalent to OECD 102
+Boiling point 190 °C ; 98 % ; Equivalent to EU Method A .2
+330 °C ; 96 % ; Equivalent to EU Method A .2
+Relative vapour density No data available in the literature
+Vapour pressure 0.49 hPa ; 20 °C ; 75 % ; Equivalent to OECD 104
+2.14 hPa ; 20 °C ; 65 % ; Equivalent to EU Method A .4
+0.06 hPa ; 20 °C ; 90 % ; Equivalent to EU Method A .4
+Solubility W ater ; m iscible ; EU Method A .6
+Relative density 1.84 ; 20 °C ; 93 % - 100 % ; Equivalent to OECD 109
+Absolute density 1840 kg/m³ ; 20 °C ; Equivalent to OECD 109 ; 93 % - 100 %
+Decomposition temperature No data available in the literature
+Auto-ignition temperature Not applicable
+Flash point Not applicable
+pH No data available in the literature
+9.2. Other information
+No data available
+SECTION 10: Stability and reactivity
+10.1. Reactivity
+Acid reacƟon .
+10.2. Chemical stability
+Unstable on exposure to moisture .
+10.3. Possibility of hazardous reactions
+Violent exothermic reacƟ on with water (moisture ): release of corrosive gases /vapours . Reacts with many compounds : (increased ) risk of
+ﬁre /explosion . Reacts exothermically with organic material : risk of spontaneous igniƟon . Reacts violently with combusƟ ble materials :
+(increased ) risk of ﬁre /explosion . Reacts violently with (some ) bases : heat release resulƟ ng in increased ﬁre or explosion risk . Reacts with
+(strong ) reducers : (increased ) risk of ﬁre /explosion .
+10.4. Conditions to avoid
+Precautionary measures
+Keep away from naked ﬂames /heat .
+10.5. Incompatible materials
+CombusƟ ble materials , reducing agents , (strong ) bases , m etals, cellulosic m aterials , organic materials , oxidizing agents , alcohols , amines ,
+water /moisture .
+10.6. Hazardous decomposition products
+Aqueous soluƟ on reacts with (some ) m etals: release of highly ﬂammable gases /vapours (hydrogen ). On burning : release of toxic and corrosive
+gases /vapours (sulphur oxides ).
+SECTION 11: Toxicological information
+11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008
+11.1.1 Test results
+
+[[page 7]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+7 / 13BIG number: 51613
+- Toxicokinetics: summary
+Basic toxicokinetics: The effects of sulphuric acid are essentially the result of the hydrogen ion (local deposition of H+, pH change) rather than an effect of the
+sulphate ion. Sulphuric acid (as such) is not expected to be absorbed or distributed throughout the body as the acid will rapidly dissociate; the hydrogen ion
+will form water. The sulphate anion will enter the body electrolyte pool, its kinetics will be governed by sulphate homeostatic mechanisms, and is therefore
+not predicted play a specific toxicological role. This supposition is supported by experiments which have studied the active component in inorganic acids on
+various endpoints, using different acids or salts. The results of these studies lead to the conclusion that the observed effects are due to the hydrogen ion,
+while the anion appeared to have no effect.
+In a study of the clearance of radiolabeled sulphuric acid aerosol in different species, the authors observed that the sulphur from sulphuric acid was rapidly
+cleared (from 2 -9 minutes) from the lungs of animals into the blood following inhalation exposure (Dahl, 1983). Sulphate is a normal constituent of the blood 
+(present at 0.8 -1.2 mg/dl) and is a normal metabolite of sulphur-containing amino acids. The body has efficient sulphate homeostatic mechanisms and excess
+sulphate is excreted in the urine (capacity-limited proximal tubular absorption); urinary sulphate concentrations of up to 500 umol/dl/kg bw have been
+reported. The body pool of this anion is large, and it is therefore unlikely that occupational exposure will significantly add to the normal body burden.
+Systemic absorption of the hydrogen ion following dermal or inhalation exposure to sulphuric acid is not predicted to be significant, and the low level of
+hydrogen ions absorbed will be effectively controlled by the homeostatic mechanisms governing pH including the action of the enzyme carbonic anhydrase
+and NA+/H+ exchange in the proximal renal tubule. Although acidaemia and metabolic acidosis have been noted following cases of ingestion exposure, similar
+effects are not predicted following occupational inhalation exposure (which will be much lower and effectively limited by respiratory tract irritation) or
+following dermal exposure (due to low dermal absorption and local dermal irritation).
+The deposition of sulphuric particles in the human lung has been studied extensively. Deposition is influenced by subject age, particle size and breathing rate.
+Sulphuric acid particles are hygroscopic and therefore will absorb moisture present in the airways, thereby increasing particle size and potentially increasing
+particle retention. Respiratory mucus has a limited buffering capacity and may reduce tissue contact.
+The absence of systemic effects in the large number of toxicity studies performed with sulphuric acid is consistent with this assessment of its toxicokinetics.
+The following information is taken into account for any hazard / risk assessment: Primary information is limited to a study of the absorption and kinetics of
+radiolabelled sulphate following the inhalation of sulphuric acid aerosols. Sulphuric acid immediately dissociates to the hydrogen and sulphate ions, with the
+hydrogen ion being responsible for the local toxicity (irritation and corrosivity) of sulphuric acid.
+Dermal absorption: No dermal absorption is predicted under normal conditions of use, based on the physicochemical properties of the substance. However
+dermal absorption may occur when the integrity of the skin is lost (i. e. in accidental exposures resulting in burns).
+The following information is taken into account for any hazard / risk assessment: No studies are proposed for scientific reasons and (given the corrosive
+nature of the substance), also reasons of animal welfare. No dermal absorption is predicted under normal conditions of use, based on the physicochemical
+properties of the substance.
+Acute toxicity
+sulfuric acid, conc=93-99.5%
+Parameter Method Value Exposure time Species Value
+determination
+RemarkRoute of exposure
+LD50 Equivalent to OECD
+401
+2140 mg/kg Rat (m ale /
+female )
+Experimental valueOral
+Data waivingDermal
+LC50 Equivalent to OECD
+403
+0.38 mg/l air Rat (m ale /
+female )
+Experimental valueInhalation (aerosol)
+Conclusion
+Not classified for acute toxicity
+Corrosion/irritation
+sulfuric acid, conc=93-99.5%
+Result Method Exposure time Time point Species Value
+determination
+Route of exposure Remark
+Serious eye
+damage;
+category 1
+Annex VIEye
+Highly corrosive;
+category 1A
+Annex VISkin
+Conclusion
+Causes severe skin burns and eye damage.
+Not classified as irritating to the respiratory system
+Respiratory or skin sensitisation
+sulfuric acid, conc=93-99.5%
+Result Method Exposure time Observation time
+point
+Species Value determinationRoute of exposure Remark
+Data waivingSkin
+Data waivingInhalation
+Conclusion
+Not classified as sensitizing for skin
+Not classified as sensitizing for inhalation
+Specific target organ toxicity
+sulfuric acid, conc=93-99.5%
+Parameter Method Value Organ Effect Exposure timeRoute of exposure Species Value determination
+Data waivingOral
+Data waivingDermal
+
+[[page 8]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+8 / 13BIG number: 51613
+LOAEC OECD 412 0.3 mg/m³
+air
+Histopathology 4 weeks (6h / day ,
+5 days / week )
+Rat (female) Experimental valueInhalation (aerosol) Respiratory
+tract
+Human
+observation
+> 1 mg/m³
+air
+Lung tissue
+affection/dege
+neration
+Human Weight of evidenceInhalation Lungs
+Conclusion
+Not classified for subchronic toxicity
+Mutagenicity (in vitro)
+sulfuric acid, conc=93-99.5%
+Method Test substrate Effect Value determinationResult Remark
+Negative with metabolic
+activation, negative
+without metabolic
+activation
+Equivalent to OECD 471 Bacteria (S.typhimurium) Experimental valueNo effect
+Negative with metabolic
+activation, negative
+without metabolic
+activation
+EU Method B.10 Chinese hamster lung
+fibroblasts (V79)
+Experimental value
+Negative with metabolic
+activation, negative
+without metabolic
+activation
+OECD 476 Mouse (lymphoma L5178Y
+cells)
+Experimental value
+Mutagenicity (in vivo)
+sulfuric acid, conc=93-99.5%
+Method Exposure time Test substrate OrganResult Value determination
+Data waiving
+Conclusion
+Not classified for mutagenic or genotoxic toxicity
+Carcinogenicity
+sulfuric acid, conc=93-99.5%
+Parameter Method Value Exposure time Species EffectRoute of
+exposure
+Organ Value
+determination
+Dose level Carcinogenic
+toxicity study
+200 µl/week Mouse (male /
+female)
+Tumours of the
+gastrointestinal
+tract
+Stomach Weight of
+evidence
+Oral
+(stomach
+tube)
+> 1 year(s)
+Conclusion
+Not classified for carcinogenicity
+Reproductive toxicity
+sulfuric acid, conc=93-99.5%
+Method Value Exposure time Species Effect OrganParameter Value
+determination
+NOAEC Equivalent to
+OECD 414
+19.3 mg/m³
+air
+Mouse Experimental
+value
+10 days (7h / day)Developmental toxicity 
+(Inhalation (aerosol))
+No effect
+NOAEC Equivalent to
+OECD 414
+5.7 mg/m³
+air
+Mouse Experimental
+value
+10 days
+(gestation, daily)
+Maternal toxicity
+(Inhalation (aerosol))
+No effect
+NOEL OECD 421 1000 mg/kg
+bw/day
+Rat (male /
+female)
+Experimental
+value
+4 week(s) - 7
+week(s)
+Effects on fertility (Oral 
+(stomach tube))
+No effect
+Conclusion
+Not classified for reprotoxic or developmental toxicity
+Toxicity other effects
+sulfuric acid, conc=93-99.5%
+No (test)data available
+Chronic effects from short and long-term exposure
+sulfuric acid, conc=93-99.5%
+Red skin. Dry skin. Itching. Skin rash/inflammation. Affection/discolouration of the teeth. Inflammation/damage of the eye tissue.
+11.2. Information on other hazards
+No evidence of endocrine disrupting properties
+
+[[page 9]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+9 / 13BIG number: 51613
+SECTION 12: Ecological information
+12.1. Toxicity
+sulfuric acid, conc=93-99.5%
+Parameter Method Value Duration Species Test design Fresh/salt
+water
+Value determination
+LC50 16 mg/l - 28
+mg/l
+Lepomis
+macrochirus
+Static
+system
+Fresh water Experimental value;
+Nominal
+concentration
+96 hAcute toxicity fishes
+EC50 OECD 202 > 100 mg/l Daphnia magna Static
+system
+Fresh water Experimental value;
+GLP
+48 hAcute toxicity crustacea
+ErC50 OECD 201 > 100 mg/l Desmodesmus
+subspicatus
+Static
+system
+Fresh water Experimental value;
+Nominal
+concentration
+72 hToxicity algae and other
+aquatic plants
+NOEC 26 g/l Activated sludge Static
+system
+Fresh water Weight of evidence;
+Nominal
+concentration
+37 day(s)Toxicity aquatic micro-
+organisms
+Conclusion
+Not classified as dangerous for the environment according to the criteria of Regulation (EC) No 1272/2008
+12.2. Persistence and degradability
+Water
+Biodegradability: not applicable
+12.3. Bioaccumulative potential
+sulfuric acid, conc=93-99.5%
+Log Kow
+Temperature Value determinationMethod ValueRemark
+Not relevant
+Conclusion
+Not bioaccumulative
+12.4. Mobility in soil
+No (test)data on mobility of the substance available
+12.5. Results of PBT and vPvB assessment
+The criteria of PBT and vPvB as listed in Annex XIII of RegulaƟ on (EC) No 1907 /2006 do not apply to inorganic substances .
+12.6. Endocrine disrupting properties
+No evidence of endocrine disrupting properties
+12.7. Other adverse effects
+sulfuric acid, conc=93-99.5%
+Greenhouse gases
+Not included in the list of fluorinated greenhouse gases (Regulation (EU) No 517/2014)
+Ozone-depleting potential (ODP)
+Not classiﬁed as dangerous for the ozone layer (RegulaƟon (EC) No 1005 /2009 )
+Groundwater
+Groundwater pollutant
+Water ecotoxicity pH
+pH shiŌ
+SECTION 13: Disposal considerations
+The informaƟ on in this secƟ on is a general descripƟ on . If applicable and available , exposure scenarios are aƩ ached in annex . Always use the
+relevant exposure scenarios that correspond to your idenƟ ﬁed use .
+13.1. Waste treatment methods
+13.1.1 Provisions relating to waste
+European Union
+Hazardous waste according to DirecƟ ve 2008 /98 /EC, as amended by RegulaƟ on (EU) No 1357 /2014 and RegulaƟon (EU) No 2017 /997 .
+W aste m aterial code (DirecƟve 2008 /98 /EC, Decision 2000 /0532 /EC).
+06 01 01 * (wastes from the manufacture , formulaƟon , supply and use (MFSU) of acids : sulphuric acid and sulphurous acid ). Depending on
+branch of industry and producƟon process , also other waste codes may be applicable .
+13.1.2 Disposal methods
+
+[[page 10]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+10 / 13BIG number: 51613
+Remove waste in accordance with local and /or naƟ onal regulaƟ ons. Hazardous waste shall not be mixed together with other waste .
+Diﬀerent types of hazardous waste shall not be mixed together if this may entail a risk of polluƟ on or create problems for the further
+management of the waste . Hazardous waste shall be managed responsibly . All enƟ Ɵ es that store, transport or handle hazardous waste
+shall take the necessary measures to prevent risks of polluƟ on or damage to people or animals . Do not discharge into drains or the
+environment . Dispose of at authorized waste collecƟ on point .
+13.1.3 Packaging/Container
+European Union
+W aste material code packaging (DirecƟve 2008 /98 /EC).
+15 01 10 * (packaging containing residues of or contaminated by dangerous substances ).
+SECTION 14: Transport information
+Road (ADR)
+14.1. UN number
+UN number 1830
+14.2. UN proper shipping name
+sulphuric acidProper shipping name
+14.3. Transport hazard class(es)
+Hazard identification number 80
+Class 8
+Classification code C1
+14.4. Packing group
+Packing group II
+Labels 8
+14.5. Environmental hazards
+Environmentally hazardous substance mark no
+14.6. Special precautions for user
+Special provisions
+Limited quantities Combination packagings: not more than 1 liter per inner packaging for
+liquids. A package shall not weigh more than 30 kg. (gross mass)
+Rail (RID)
+14.1. UN number
+UN number 1830
+14.2. UN proper shipping name
+sulphuric acidProper shipping name
+14.3. Transport hazard class(es)
+Hazard identification number 80
+Class 8
+Classification code C1
+14.4. Packing group
+Packing group II
+Labels 8
+14.5. Environmental hazards
+Environmentally hazardous substance mark no
+14.6. Special precautions for user
+Special provisions
+Limited quantities Combination packagings: not more than 1 liter per inner packaging for
+liquids. A package shall not weigh more than 30 kg. (gross mass)
+Inland waterways (ADN)
+14.1. UN number
+UN number 1830
+14.2. UN proper shipping name
+sulphuric acidProper shipping name
+14.3. Transport hazard class(es)
+Class 8
+Classification code C1
+14.4. Packing group
+Packing group II
+Labels 8
+14.5. Environmental hazards
+Environmentally hazardous substance mark no
+14.6. Special precautions for user
+Special provisions
+Limited quantities Combination packagings: not more than 1 liter per inner packaging for
+liquids. A package shall not weigh more than 30 kg. (gross mass)
+Sea (IMDG/IMSBC)
+14.1. UN number
+UN number 1830
+14.2. UN proper shipping name
+
+[[page 11]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+11 / 13BIG number: 51613
+sulphuric acidProper shipping name
+14.3. Transport hazard class(es)
+Class 8
+14.4. Packing group
+Packing group II
+Labels 8
+14.5. Environmental hazards
+Marine pollutant -
+Environmentally hazardous substance mark no
+14.6. Special precautions for user
+Special provisions
+Limited quantities Combination packagings: not more than 1 liter per inner packaging for
+liquids. A package shall not weigh more than 30 kg. (gross mass)
+14.7. Maritime transport in bulk according to IMO instruments
+Annex II of MARPOL 73/78 Not applicable, based on available data
+Air (ICAO-TI/IATA-DGR)
+14.1. UN number
+UN number 1830
+14.2. UN proper shipping name
+sulphuric acidProper shipping name
+14.3. Transport hazard class(es)
+Class 8
+14.4. Packing group
+Packing group II
+Labels 8
+14.5. Environmental hazards
+Environmentally hazardous substance mark no
+14.6. Special precautions for user
+Special provisions
+Passenger and cargo transport
+Limited quantities: maximum net quantity per packaging 0.5 L
+SECTION 15: Regulatory information
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+European legislation:
+Explosives precursors
+Acquisition, introduction, possession or use of this product by the general public is restricted by Regulation (EU) 2019/1148. All suspicious transactions,
+and significant disappearances and thefts should be reported to the relevant national contact point.
+VOC content Directive 2010/75/EU
+VOC content Remark
+Not applicable (inorganic)
+Directive 2012/18/EU (Seveso III)
+Not subject to registration according to Directive 2012/18/EU (Seveso III)
+European drinking water standards (98/83/EC and 2020/2184)
+sulfuric acid, conc=93-99.5%
+Parameter Parametric value Note Reference
+Sulphate 250 mg/l Listed in Annex I, Part C, of Directive (EU) 2020/2184 on the
+quality of water intended for human consumption.
+REACH Annex XVII - Restriction
+Subject to restrictions of Annex XVII of Regulation (EC) No. 1907/2006: restrictions on the manufacture, placing on the market and use of certain
+dangerous substances, mixtures and articles.
+Designation of the substance, of the group of
+substances or of the mixture
+Conditions of restriction
+· sulfuric acid, conc=93-99.5% Liquid substances or mixtures fulfilling the
+criteria for any of the following hazard classes
+or categories set out in Annex I to Regulation
+(EC) No 1272/2008:
+(a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8
+types A and B, 2.9, 2.10, 2.12, 2.13 categories
+1 and 2, 2.14 categories 1 and 2, 2.15 types A
+to F;
+(b) hazard classes 3.1 to 3.6, 3.7 adverse
+effects on sexual function and fertility or on
+development, 3.8 effects other than narcotic
+effects, 3.9 and 3.10;
+(c) hazard class 4.1;
+(d) hazard class 5.1.
+1. Shall not be used in:
+— ornamental articles intended to produce light or colour effects by means of different
+phases, for example in ornamental lamps and ashtrays,
+— tricks and jokes,
+— games for one or more participants, or any article intended to be used as such, even with
+ornamental aspects,
+2. Articles not complying with paragraph 1 shall not be placed on the market.
+3. Shall not be placed on the market if they contain a colouring agent, unless required for
+fiscal reasons, or perfume, or both, if they:
+— can be used as fuel in decorative oil lamps for supply to the general public, and,
+— present an aspiration hazard and are labelled with H304,
+4. Decorative oil lamps for supply to the general public shall not be placed on the market
+unless they conform to the European Standard on Decorative oil lamps (EN 14059) adopted
+by the European Committee for Standardisation (CEN).
+5. Without prejudice to the implementation of other Community provisions relating to the
+classification, packaging and labelling of dangerous substances and mixtures, suppliers shall
+ensure, before the placing on the market, that the following requirements
+
+[[page 12]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+12 / 13BIG number: 51613
+are met:
+a) lamp oils, labelled with H304, intended for supply to the general public are visibly, legibly
+and indelibly marked as follows: “Keep lamps filled with this liquid out of the reach of
+children”; and, by 1 December 2010, “Just a sip of lamp oil — or even sucking the wick of
+lamps — may lead to life- threatening lung damage”;
+b) grill lighter fluids, labelled with H304, intended for supply to the general public are legibly
+and indelibly marked by 1 December 2010 as follows: “Just a sip of grill lighter may lead to
+life threatening lung damage”;
+c) lamp oils and grill lighters, labelled with H304, intended for supply to the general public
+are packaged in black opaque containers not exceeding 1 litre by 1 December 2010.
+· sulfuric acid, conc=93-99.5% Substances falling within one or more of the
+following points:
+(a) substances classified as any of the
+following in Part 3 of Annex VI to Regulation
+(EC) No 1272/2008:
+— carcinogen category 1A, 1B or 2, or germ
+cell mutagen category 1A, 1B or
+2, but excluding any such substances classified
+due to effects only following
+exposure by inhalation
+— reproductive toxicant category 1A, 1B or 2
+but excluding any such substances classified
+due to effects only following exposure by
+inhalation
+— skin sensitiser category 1, 1A or 1B
+— skin corrosive category 1, 1A, 1B or 1C or
+skin irritant category 2
+— serious eye damage category 1 or eye
+irritant category 2
+(b) substances listed in Annex II to Regulation
+(EC) No 1223/2009 of the European
+Parliament and of the Council
+(c) substances listed in Annex IV to Regulation 
+(EC) No 1223/2009 for which a condition is
+specified in at least one of the columns g, h
+and i of the table in that Annex (d) substances
+listed in Appendix 13 to this Annex.
+The ancillary requirements in paragraphs 7
+and 8 of column 2 of this entry apply to all
+mixtures for use for tattooing purposes,
+whether or not they contain a substance
+falling within points (a) to (d) of this column of
+this entry.
+Mixtures for tattooing purposes are subject to the restrictions of Regulation (EU) 2020/2081
+National legislation Belgium
+Additional classification Acide sulfurique (brume); C; La mention “C” signifie que l’agent en question relève du champ d’application de l’arrêté
+royal du 2 décembre 1993 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents
+cancérigènes et mutagènes et reprotoxiques au travail.
+National legislation The Netherlands
+Waterbezwaarlijkheid A (3); Algemene Beoordelingsmethodiek (ABM)
+SZW - Lijst van
+kankerverwekkende stoffen
+zwavelzuurnevels; Listed in SZW-list of carcinogenic substances
+National legislation France
+No data available
+National legislation Germany
+Lagerklasse (TRGS510) 8 B: Nicht brennbare ätzende Gefahrstoffe
+WGK 1; Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (AwSV) - 18. April 2017
+TRGS900 - Risiko der
+Fruchtschädigung
+Schwefeldioxid; Y; Risiko der Fruchtschädigung braucht bei Einhaltung des Arbeitsplatzgrenzwertes und des biologischen
+Grenzwertes nicht befürchtet zu werden
+Schwefelsäure; Y; Risiko der Fruchtschädigung braucht bei Einhaltung des Arbeitsplatzgrenzwertes und des biologischen
+Grenzwertes nicht befürchtet zu werden
+National legislation Austria
+No data available
+National legislation United Kingdom
+No data available
+Other relevant data
+TLV - Carcinogen Sulfur dioxide; A4
+Sulfuric acid; A2
+IARC - classification 3; Sulfur dioxide and some sulfites, bisulfites and metabisulfites
+1; Strong-inorganic-acid mists containing sulfuric acid
+15.2. Chemical safety assessment
+A chemical safety assessment has been performed.
+
+[[page 13]]
+sulfuric acid, conc=93-99.5%
+Revision number: 0200
+Reason for revision: 4;8;9;11;12
+Date of revision: 2022-06-08
+Publication date: 2001-12-29
+13 / 13BIG number: 51613
+SECTION 16: Other information
+Full text of any H- and EUH-statements referred to under section 3:
+H314   Causes severe skin burns and eye damage.
+H318   Causes serious eye damage.
+(*) INTERNAL CLASSIFICATION BY BIG
+ADI Acceptable daily intake
+AOEL Acceptable operator exposure level
+ATE Acute Toxicity Estimate
+CLP (EU-GHS) Classification, labelling and packaging (Globally Harmonised System in Europe)
+DMEL Derived Minimal Effect Level
+DNEL Derived No Effect Level
+EC50 Effect Concentration 50 %
+ErC50 EC50 in terms of reduction of growth rate
+LC50 Lethal Concentration 50 %
+LD50 Lethal Dose 50 %
+NOAEL No Observed Adverse Effect Level
+NOEC No Observed Effect Concentration
+OECD Organisation for Economic Co-operation and Development
+PBT Persistent, Bioaccumulative & Toxic
+PNEC Predicted No Effect Concentration
+STP Sludge Treatment Process
+vPvB very Persistent & very Bioaccumulative
+The informaƟ on in this safety data sheet is based on data and samples provided to BIG . The sheet was wriƩ en to the best of our ability and
+according to the state of knowledge at that Ɵ me . The safety data sheet only consƟ tutes a guideline for the safe handling , use , consumpƟon ,
+storage , transport and disposal of the substances /preparaƟons /mixtures menƟoned under point 1. New safety data sheets are wriƩ en from
+Ɵme to Ɵme . Only the most recent versions may be used . Unless indicated otherwise word for word on the safety data sheet , the informaƟon
+does not apply to substances /preparaƟons /mixtures in purer form , mixed with other substances or in processes . The safety data sheet oﬀers
+no quality speciﬁcaƟ on for the substances /preparaƟons /mixtures in quesƟ on . Compliance with the instrucƟ ons in this safety data sheet does
+not release the user from the obligaƟ on to take all measures dictated by common sense , regulaƟ ons and recommendaƟ ons or which are
+necessary and /or useful based on the real applicable circumstances . BIG does not guarantee the accuracy or exhausƟ veness of the
+informaƟ on provided and cannot be held liable for any changes by third parƟ es . This safety data sheet is only to be used within the European
+Union , Switzerland , Iceland , Norway and Liechtenstein . Any use outside of this area is at your own risk . Use of this safety data sheet is
+subject to the licence and liability limiƟ ng condiƟ ons as stated in your BIG licence agreement or when this is failing the general condiƟ ons of
+BIG. All intellectual property rights to this sheet are the property of BIG and its distribuƟ on and reproducƟ on are limited . Consult the
+menƟoned agreement /condiƟ ons for details .

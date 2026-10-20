@@ -1,0 +1,641 @@
+[[page 1]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS)  
+Issue date: 3/5/2025   Version: 1.0 
+  
+   
+3/5/2025 (Issue date) US - en 1/12 
+ 
+SECTION 1: Identification 
+1.1. Identification 
+Trade name : CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Product code : 1003715 
+Part number : 05093 
+1.2. Recommended use and restrictions on use 
+Use of the substance/mixture : Brake cleaners 
+Restrictions on use : After December 8, 2026, this product cannot be distributed in commerce to retailers for any use. 
+After March 8, 2027, chemical substances/products can only be distributed in commerce or 
+processed with a concentration of PCE equal to or greater than 0.1% by weight for the following 
+purposes: (1) Processing as a reactant/intermediate; (2) Processing into formulation, mixture or 
+reaction product; (3) Processing by repackaging; (4) Recycling; (5) Industrial and commercial 
+use as solvent in open-top batch vapor degreasing; (6) Industrial and commercial use as solvent 
+in closed-loop batch vapor degreasing; (7) Industrial and commercial use in maskant for 
+chemical milling; (8) Industrial and commercial use as a processing aid in catalyst regeneration 
+in petrochemical manufacturing; (9) Industrial and commercial use as a processing aid in sectors 
+other than petrochemical manufacturing; (10) Industrial and commercial use as solvent for cold 
+cleaning of tanker vessels; (11) Industrial and commercial use as energized electrical cleaner; 
+(12) Industrial and commercial use in laboratory chemicals; (13) Industrial and commercial use in 
+solvent-based adhesives and sealants; (14) Industrial and commercial use in dry cleaning in 3rd 
+generation machines until December 20, 2027; (15) Industrial and commercial use in all dry 
+cleaning and related spot cleaning until December 19, 2034; (16) Export; and (17) Disposal. 
+1.3. Supplier 
+CRC Industries, Inc. 
+885 Louis Dr. 
+Warminster, PA 18974 
+United States 
+T 1-800-556-5074 
+crcindustries.com 
+1.4. Emergency telephone number 
+Emergency number : 1-800-424-9300 
+24-Hour Emergency 
+SECTION 2: Hazard(s) identification 
+2.1. Classification of the substance or mixture 
+GHS US classification 
+Skin corrosion/irritation, Category 2 Causes skin irritation. 
+Serious eye damage/eye irritation, Category 2B Causes eye irritation. 
+Skin sensitization, Category 1B May cause an allergic skin reaction. 
+Carcinogenicity, Category 1B May cause cancer (Inhalation). 
+Specific target organ toxicity – Single exposure, Category 3, Narcosis May cause drowsiness or dizziness. 
+Hazardous to the aquatic environment — Acute Hazard, Category 2 Toxic to aquatic life. 
+Hazardous to the aquatic environment — Chronic Hazard, Category 2 Toxic to aquatic life with long lasting effects.
+
+[[page 2]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 2/12 
+ 
+2.2. GHS Label elements, including precautionary statements 
+GHS US labeling 
+Hazard pictograms (GHS US) : 
+  
+    
+Signal word (GHS US) : Danger 
+Hazard statements (GHS US) : Causes skin irritation 
+May cause an allergic skin reaction 
+Causes eye irritation 
+May cause drowsiness or dizziness 
+May cause cancer (Inhalation) 
+Precautionary statements (GHS US) : Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Avoid breathing mist, vapors, spray. 
+Use only outdoors or in a well-ventilated area. Maintain ventilation during use and until all vapors 
+are gone. Open doors and windows or use other means to ensure a fresh air supply during use 
+and while product is drying. If you experience any symptoms listed on this label, increase 
+ventilation or leave the area. 
+Wear protective gloves, protective clothing, eye and face protection. 
+Wash hands thoroughly after handling. 
+If on skin: Wash with plenty of soap and water. 
+If skin irritation or rash occurs: Get medical advice or attention. 
+Take off contaminated clothing and wash it before reuse. 
+Contaminated work clothing must not be allowed out of the workplace. 
+If inhaled: Remove person to fresh air and keep comfortable for breathing. 
+Call a poison center or doctor if you feel unwell. 
+If in eyes: Rinse cautiously with water for several minutes. Remove contact lenses, if present 
+and easy to do. Continue rinsing. 
+If eye irritation persists: Get medical advice or attention. 
+If exposed or concerned: Get medical advice/attention. 
+Store locked up. 
+Store in a well-ventilated place. Keep container tightly closed. 
+Dispose of contents/container in accordance with local/regional/national regulations. 
+2.3. Other hazards which do not result in classification 
+Other hazards which do not result in classification : When exposed to extreme heat or hot surfaces, vapors may decompose to harmful or fatal 
+corrosive gases such as hydrogen chloride and possibly phosgene. 
+2.4. Unknown acute toxicity (GHS US) 
+No additional information available 
+SECTION 3: Composition/Information on ingredients 
+3.1. Substances 
+Not applicable
+
+[[page 3]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 3/12 
+ 
+3.2. Mixtures 
+Name Chemical name / 
+Synonyms 
+Product identifier % 
+Ethene, 1,1,2,2-tetrachloro- Ethene, 1,1,2,2-tetrachloro- 
+Tetrachloroethene 
+(Perchloroethylene (PCE)) 
+CAS-No.: 127-18-4 80 - 100 
+ 
+Comments : Specific chemical identity and/or percentage of composition has been withheld as a trade secret. 
+SECTION 4: First-aid measures 
+4.1. Description of first aid measures 
+First-aid measures general : If exposed or concerned, get medical advice and attention. Show this safety data sheet to the 
+doctor in attendance. 
+First-aid measures after inhalation : Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention if 
+you feel unwell. 
+First-aid measures after skin contact : Wash skin with soap and water. Take off contaminated clothing. If skin irritation or rash occurs: 
+Get medical advice/attention. 
+First-aid measures after eye contact : Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to 
+do. Continue rinsing. If eye irritation persists: Get medical advice/attention. 
+First-aid measures after ingestion : Call a poison center/doctor/physician if you feel unwell. 
+4.2. Most important symptoms and effects (acute and delayed) 
+Symptoms/effects : May cause drowsiness or dizziness. Headache, nausea, vomiting. Causes eye irritation. Causes 
+skin irritation. May cause an allergic skin reaction. 
+Symptoms/effects after inhalation : Depression of the central nervous system, headaches, dizziness, drowsiness, loss of 
+coordination. 
+Symptoms/effects after skin contact : Causes skin irritation. May cause an allergic skin reaction. 
+Symptoms/effects after eye contact : Causes eye irritation. 
+Symptoms/effects after ingestion : Ingestion may cause nausea and vomiting. 
+4.3. Immediate medical attention and special treatment, if necessary 
+Treat symptomatically. 
+SECTION 5: Fire-fighting measures 
+5.1. Suitable (and unsuitable) extinguishing media 
+Suitable extinguishing media : Water spray. Dry powder. Foam. Carbon dioxide. 
+Unsuitable extinguishing media : Do not use a heavy water stream. 
+5.2. Specific hazards arising from the chemical 
+Fire hazard : No fire hazard. 
+Explosion hazard : No direct explosion hazard. 
+Hazardous decomposition products in case of fire : Toxic fumes may be released. When exposed to extreme heat or hot surfaces, vapors may 
+decompose to harmful or fatal corrosive gases such as hydrogen chloride and possibly 
+phosgene. 
+5.3. Special protective equipment and precautions for fire-fighters 
+Firefighting instructions : Fight fire from safe distance and protected location. Do not enter fire area without proper 
+protective equipment, including respiratory protection.
+
+[[page 4]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 4/12 
+ 
+Protection during firefighting : Do not attempt to take action without suitable protective equipment. Self-contained breathing 
+apparatus. Complete protective clothing. 
+SECTION 6: Accidental release measures 
+6.1. Personal precautions, protective equipment and emergency procedures 
+General measures : Stop leak if safe to do so. Absorb spillage to prevent material-damage. Notify authorities if 
+product enters sewers or public waters. 
+6.1.1. For non-emergency personnel 
+Protective equipment : Wear recommended personal protective equipment. 
+Emergency procedures : Only qualified personnel equipped with suitable protective equipment may intervene. Avoid 
+breathing dust/fume/gas/mist/vapors/spray. 
+6.1.2. For emergency responders 
+Protective equipment : Do not attempt to take action without suitable protective equipment. For further information refer 
+to section 8: "Exposure controls/personal protection". 
+Emergency procedures : Evacuate unnecessary personnel. Stop leak if safe to do so. 
+6.2. Environmental precautions 
+Avoid release to the environment. Notify authorities if product enters sewers or public waters. 
+6.3. Methods and material for containment and cleaning up 
+For containment : Stop leak, if possible without risk. Collect spillage. Contain any spills with dikes or absorbents to 
+prevent migration and entry into sewers or streams. 
+Methods for cleaning up : Take up liquid spill into absorbent material. Take up mechanically (sweeping, shoveling) and 
+collect in suitable container for disposal. Clean surface thoroughly to remove residual 
+contamination. Notify authorities if product enters sewers or public waters. 
+Additional Regulatory Information : Dispose of materials or solid residues at an authorized site. 
+6.4. Reference to other sections 
+For further information refer to section 13. 
+SECTION 7: Handling and storage 
+7.1. Precautions for safe handling 
+Precautions for safe handling : Ensure good ventilation of the work station. Obtain special instructions before use. Do not handle 
+until all safety precautions have been read and understood. Take all necessary technical 
+measures to avoid or minimize the release of the product on the workplace. Limit quantities of 
+product at the minimum necessary for handling and limit the number of exposed workers. Avoid 
+breathing mist, vapors, spray. Use only outdoors or in a well-ventilated area. Maintain ventilation 
+during use and until all vapors are gone. Open doors and windows or use other means to ensure 
+a fresh air supply during use and while product is drying. If you experience any symptoms listed 
+on this label, increase ventilation or leave the area. Wear personal protective equipment. Avoid 
+contact with skin and eyes. Floors, walls and other surfaces in the hazard area must be cleaned 
+regularly. For product usage instructions, see the product label. 
+Hygiene measures : Do not eat, drink or smoke when using this product. Always wash hands after handling the 
+product. Wash contaminated clothing before reuse. Separate working clothes from town clothes. 
+Launder separately. Contaminated work clothing should not be allowed out of the workplace. 
+7.2. Conditions for safe storage, including any incompatibilities 
+Technical measures : Keep in a cool, well-ventilated place away from heat.
+
+[[page 5]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 5/12 
+ 
+Storage conditions : Store locked up. Store in a well-ventilated place. Keep container tightly closed. Store in a cool, 
+dry place out of direct sunlight. 
+Packaging materials : Store always product in container of same material as original container. 
+SECTION 8: Exposure controls/personal protection 
+8.1. Control parameters 
+ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+USA - ACGIH - Occupational Exposure Limits 
+Local name Tetrachloroethylene 
+ACGIH OEL TWA 25 ppm 
+ACGIH OEL STEL 100 ppm 
+Remark (ACGIH) TLV® Basis: CNS impair. Notations: A3 (Confirmed Animal Carcinogen with Unknown 
+Relevance to Humans); BEI 
+Regulatory reference ACGIH 2024 
+USA - ACGIH - Biological Exposure Indices 
+Local name Tetrachloroethylene 
+BEI 3 ppm Parameter: Tetrachloroethylene - Medium: exhaled air - Sampling time: Prior to shift 
+0.5 mg/l Parameter: Tetrachloroethylene - Medium: blood - Sampling time: Prior to shift 
+Regulatory reference ACGIH 2024 
+USA - OSHA - Occupational Exposure Limits 
+Local name Perchloroethylene (Tetrachloroethylene) 
+OSHA PEL TWA 100 ppm 
+OSHA PEL C 200 ppm 
+Acceptable maximum peak above the acceptable 
+ceiling concentration for an 8-hr shift 
+300 ppm 5 mins. in any 3 hrs. 
+Regulatory reference (US-OSHA) OSHA Annotated Table Z-2 
+USA - NIOSH - Occupational Exposure Limits 
+Local name Perchloroethylene (Tetrachloroethylene) 
+Remark (NIOSH) Ca = Potential occupational carcinogens 
+Regulatory reference (US-NIOSH) OSHA Annotated Table Z-2 (NIOSH Pocket Guide to Chemical Hazards (NPG)) 
+ 
+ 
+8.2. Appropriate engineering controls 
+Appropriate engineering controls : Ensure good ventilation of the work station. 
+Environmental exposure controls : Avoid release to the environment. 
+8.3. Individual protection measures/Personal protective equipment 
+Personal protective equipment: 
+Wear recommended personal protective equipment.
+
+[[page 6]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 6/12 
+ 
+Hand protection: 
+Wear protective gloves such as: Nitrile, Polyvinylalcohol (PVA), Butyl rubber 
+ 
+Eye protection: 
+Wear safety glasses with side shields (or goggles). 
+ 
+Skin and body protection: 
+Wear appropriate chemical resistant clothing. 
+ 
+Respiratory protection: 
+If engineering controls are not feasible or if exposure exceeds the applicable exposure limits, use a NIOSH-approved cartridge respirator with an 
+organic vapor cartridge. Use a self-contained breathing apparatus in confined spaces and for emergencies. Air monitoring is needed to determine 
+actual employee exposure levels. 
+SECTION 9: Physical and chemical properties 
+9.1. Information on basic physical and chemical properties 
+Physical state : Liquid 
+Color : Colorless 
+Odor : Irritating 
+Odor threshold : 50 ppm 
+Melting point : -8.1 °F (-22.3 °C) estimated 
+Freezing point : -8.1 °F (-22.3 °C) estimated 
+Boiling point : 250.3 °F (121.3 °C) estimated 
+Flammability (solid, gas) : Not applicable. 
+Explosion limits : Lower explosion limit: 12 % estimated 
+Upper explosion limit: 29 % estimated 
+Flash point : None 
+Auto-ignition temperature : No data available 
+Decomposition temperature : No data available 
+pH : No data available 
+Viscosity, kinematic : No data available 
+Viscosity, dynamic : No data available 
+Solubility : Insoluble in water. 
+Partition coefficient n-octanol/water (Log Pow) : No data available 
+Vapor pressure : 13 mm Hg (68 °F (20 °C)) 
+Evaporation rate : Very fast 
+Density and/or relative density   
+          Density : 13.52 lb/gal 
+          Relative density : 1.62 
+Relative vapor density at 20°C : 5.76 (air=1) 
+Particle characteristics : No data available 
+Explosive properties : No data available 
+Oxidizing properties : No data available 
+9.2. Additional Regulatory Information 
+No additional information available 
+SECTION 10: Stability and reactivity 
+10.1. Reactivity 
+The product is non-reactive under normal conditions of use, storage and transport.
+
+[[page 7]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 7/12 
+ 
+10.2. Chemical stability 
+Stable under normal conditions. 
+10.3. Possibility of hazardous reactions 
+No dangerous reactions known under normal conditions of use. 
+10.4. Conditions to avoid 
+Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. When exposed to extreme heat or hot surfaces, vapors 
+may decompose to harmful or fatal corrosive gases such as hydrogen chloride and possibly phosgene. 
+10.5. Incompatible materials 
+Strong oxidizing agents. 
+10.6. Hazardous decomposition products 
+Carbon oxides (CO, CO2). Hydrogen chloride. Chlorine. Phosgene. 
+SECTION 11: Toxicological information 
+11.1. Information on toxicological effects 
+Symptoms/effects : May cause drowsiness or dizziness. Headache, nausea, vomiting. Causes eye irritation. Causes 
+skin irritation. May cause an allergic skin reaction. 
+Symptoms/effects after inhalation : Depression of the central nervous system, headaches, dizziness, drowsiness, loss of 
+coordination. 
+Symptoms/effects after skin contact : Causes skin irritation. May cause an allergic skin reaction. 
+Symptoms/effects after eye contact : Causes eye irritation. 
+Symptoms/effects after ingestion : Ingestion may cause nausea and vomiting. 
+Acute toxicity (oral) : Not classified (Based on available data, the classification criteria are not met) 
+Acute toxicity (dermal) : Not classified (Based on available data, the classification criteria are not met) 
+Acute toxicity (inhalation) : Not classified (Based on available data, the classification criteria are not met) 
+ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+LD50 oral rat 3005 mg/kg 
+LD50 dermal rabbit > 10000 mg/kg Source: ECHA 
+LC50 Inhalation - Rat [ppm] 3786 ppm 
+ 
+Skin corrosion/irritation : Causes skin irritation. 
+ 
+Serious eye damage/irritation : Causes eye irritation. 
+ 
+Respiratory or skin sensitization : May cause an allergic skin reaction. 
+ 
+Germ cell mutagenicity : Not classified (Based on available data, the classification criteria are not met) 
+ 
+Carcinogenicity : May cause cancer (Inhalation). 
+ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+IARC group 2A - Probably carcinogenic to humans 
+National Toxicity Program (NTP) Status Reasonably anticipated to be Human Carcinogen 
+ 
+Reproductive toxicity : Not classified (Based on available data, the classification criteria are not met) 
+ 
+STOT-single exposure : May cause drowsiness or dizziness. 
+ 
+STOT-repeated exposure : Not classified (Based on available data, the classification criteria are not met) 
+ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+LOAEL (oral,rat,90 days) 390 mg/kg bw/day 
+ 
+Aspiration hazard : Not classified (Based on available data, the classification criteria are not met)
+
+[[page 8]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 8/12 
+ 
+Viscosity, kinematic : No data available 
+SECTION 12: Ecological information 
+12.1. Toxicity 
+Ecology - general : Toxic to aquatic life with long lasting effects. 
+ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+LC50 - Fish [1] 5 mg/l 
+EC50 - Crustacea [1] 8.5 mg/l 
+LC50 - Fish [2] 5 mg/l Test organisms (species): Limanda limanda 
+EC50 72h - Algae [1] 3.64 mg/l Source: ECHA 
+ErC50 algae 3.64 mg/l 
+NOEC chronic fish 2.34 mg/l 
+NOEC chronic crustacea 0.51 mg/l 
+12.2. Persistence and degradability 
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal  
+Persistence and degradability No data is available on the degradability of this product. 
+12.3. Bioaccumulative potential 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 
+Partition coefficient n-octanol/water (Log Pow) 2.53 
+12.4. Mobility in soil 
+No additional information available 
+12.5. Other adverse effects 
+No additional information available 
+SECTION 13: Disposal considerations 
+13.1. Disposal methods 
+Regional waste regulation : Dispose of contents/container in accordance with local/regional/national regulations. 
+Waste treatment methods : Dispose of contents/container in accordance with licensed collector’s sorting instructions. 
+Sewage disposal recommendations : Disposal must be done according to official regulations. Do not allow to enter sewers, surface or 
+groundwater. 
+Product/Packaging disposal recommendations : Disposal must be done according to official regulations. Empty container can be recycled. 
+Hazardous waste code : Possible RCRA waste code includes: 
+D039: Tetrachloroethylene 
+F001: Waste Tetrachloroethylene - Spent halogenated solvent used in degreasing 
+F002: Waste Tetrachloroethylene - Spent halogenated solvent 
+ 
+However, it is the generator's responsibility to determine the proper classification and disposal 
+method at the time of disposal. 
+Additional information : Do not re-use empty containers. Empty containers retain product residue and can be hazardous.
+
+[[page 9]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 9/12 
+ 
+SECTION 14: Transport information 
+In accordance with DOT / IMDG / IATA 
+DOT IMDG IATA 
+14.1. UN number 
+UN1897 1897 1897 
+14.2. Proper Shipping Name 
+Tetrachloroethylene (Marine pollutant) TETRACHLOROETHYLENE (Marine pollutant) Tetrachloroethylene (Marine pollutant) 
+14.3. Transport hazard class(es) 
+6.1 6.1 6.1 
+   
+14.4. Packing group 
+III III III 
+14.5. Environmental hazards 
+Dangerous for the environment: Yes 
+ 
+Dangerous for the environment: Yes 
+Marine pollutant: Yes 
+ 
+Dangerous for the environment: Yes 
+ 
+No supplementary information available 
+14.6. Special precautions for user 
+DOT 
+Class (DOT) : 6.1 - Class 6.1 - Poisonous materials 49 CFR 173.132 
+UN-No. (DOT) : UN1897  
+DOT Special Provisions (49 CFR 172.102) : IB3 - Authorized IBCs: Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite 
+(31HZ1 and 31HA2, 31HB2, 31HN2, 31HD2 and 31HH2).  Additional Requirement: Only liquids 
+with a vapor pressure less than or equal to 110 kPa at 50 C (1.1 bar at 122 F), or 130 kPa at 55 
+C (1.3 bar at 131 F) are authorized, except for UN2672 (also see Special Provision IP8 in Table 
+2 for UN2672). 
+N36 - Aluminum or aluminum alloy construction materials are permitted only for halogenated 
+hydrocarbons that will not react with aluminum. 
+T4 - 2.65 178.274(d)(2) Normal............. 178.275(d)(3) 
+TP1 - The maximum degree of filling must not exceed the degree of filling determined by the 
+following: Degree of filling = 97 / 1 + a (tr - tf) Where: tr is the maximum mean bulk temperature 
+during transport, and tf is the temperature in degrees celsius of the liquid during filling.  
+DOT Packaging Exceptions (49 CFR 173.xxx) : 153  
+DOT Packaging Non Bulk (49 CFR 173.xxx) : 203  
+DOT Packaging Bulk (49 CFR 173.xxx) : 241 
+DOT Quantity Limitations Passenger aircraft/rail (49 
+CFR 173.27) 
+: 60 L  
+DOT Quantity Limitations Cargo aircraft only (49 
+CFR 175.75) 
+: 220 L  
+DOT Vessel Stowage Location : A - The material may be stowed ‘‘on deck’’ or ‘‘under deck’’ on a cargo vessel and on a 
+passenger vessel.  
+DOT Vessel Stowage Other : 40 - Stow ‘‘clear of living quarters’’
+
+[[page 10]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 10/12 
+ 
+IMDG 
+Class (IMDG) : 6.1 - Toxic substances 
+Limited quantities (IMDG) : 5 L 
+Excepted quantities (IMDG) : E1 
+Packing instructions (IMDG) : P001, LP01 
+IBC packing instructions (IMDG) : IBC03 
+Tank instructions (IMDG) : T4 
+Tank special provisions (IMDG) : TP1 
+EmS-No. (Fire) : F-A - FIRE SCHEDULE Alfa - GENERAL FIRE SCHEDULE 
+EmS-No. (Spillage) : S-A - SPILLAGE SCHEDULE Alfa - TOXIC SUBSTANCES 
+Stowage category (IMDG) : A 
+Stowage and handling (IMDG) : SW2 
+Segregation (IMDG) : SGG10 
+Properties and observations (IMDG) : Colorless liquid with an ethereal odor. When involved in a fire, evolves extremely toxic fumes 
+(phosgene). Toxic if swallowed, by skin contact or by inhalation. 
+ 
+IATA 
+Class (IATA) : 6.1 - Toxic Substances 
+PCA Excepted quantities (IATA) : E1 
+PCA Limited quantities (IATA) : Y642 
+PCA limited quantity max net quantity (IATA) : 2L 
+PCA packing instructions (IATA) : 655 
+PCA max net quantity (IATA) : 60L 
+CAO packing instructions (IATA) : 663 
+CAO max net quantity (IATA) : 220L 
+ERG code (IATA) : 6L 
+14.7. Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code 
+Not applicable 
+SECTION 15: Regulatory information 
+15.1. US Federal regulations 
+Toxic Substances Control Act (TSCA) 
+All components of this product are present and listed as Active on the United States Environmental Protection Agency Toxic Substances 
+Control Act (TSCA) inventory  
+Name CAS-No. Commercial 
+status 
+Flags 
+Ethene, 1,1,2,2-tetrachloro- 127-18-4 Active  
+ 
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) Listed on EPA Hazardous Air Pollutant (HAPS) 
+ 
+Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) Hazardous Substance 
+CERCLA Section 103 (40CFR302.4) Spills or releases resulting in the loss of any ingredient at or above its RQ require immediate 
+notification to the National Response Center (800-424-8802) and to your Local Emergency 
+Planning Committee.
+
+[[page 11]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 11/12 
+ 
+CERCLA RQ 
+Ethene, 1,1,2,2-tetrachloro- (127-18-4) 100 lb 
+ 
+Superfund Amendments and Reauthorization Act of 1986 Title III (Emergency Planning and Community Right-to-Know Act of 1986) 
+Section 302 Extremely Hazardous Substance 
+Not listed 
+ 
+Section 304 Emergency Release Notification 
+Not listed 
+ 
+Sections 311/312 Hazard Classification 
+Not listed 
+ 
+Section 313 (TRI Reporting) 
+Chemical(s) subject to the reporting requirements of Section 313 or Title III of the Superfund Amendments and Reauthorization Act (SARA) of 1986 and 
+40 CFR Part 372. 
+Ethene, 1,1,2,2-tetrachloro- CAS-No.127-18-4 80 - 100% 
+ 
+ 
+Additional Regulatory Information 
+After December 8, 2026, this product cannot be distributed in commerce to retailers for any use. After March 8, 2027, chemical substances/products can 
+only be distributed in commerce or processed with a concentration of PCE equal to or greater than 0.1% by weight for the following purposes: (1) 
+Processing as a reactant/intermediate; (2) Processing into formulation, mixture or reaction product; (3) Processing by repackaging; (4) Recycling; (5) 
+Industrial and commercial use as solvent in open-top batch vapor degreasing; (6) Industrial and commercial use as solvent in closed-loop batch vapor 
+degreasing; (7) Industrial and commercial use in maskant for chemical milling; (8) Industrial and commercial use as a processing aid in catalyst 
+regeneration in petrochemical manufacturing; (9) Industrial and commercial use as a processing aid in sectors other than petrochemical manufacturing; 
+(10) Industrial and commercial use as solvent for cold cleaning of tanker vessels; (11) Industrial and commercial use as energized electrical cleaner; (12) 
+Industrial and commercial use in laboratory chemicals; (13) Industrial and commercial use in solvent-based adhesives and sealants; (14) Industrial and 
+commercial use in dry cleaning in 3rd generation machines until December 20, 2027; (15) Industrial and commercial use in all dry cleaning and related 
+spot cleaning until December 19, 2034; (16) Export; and (17) Disposal. 
+ 
+15.2. International regulations 
+No additional information available 
+15.3. US State regulations 
+California Proposition 65 
+ WARNING: This product can expose you to tetrachloroethylene, which is known to the State of California to cause cancer, and lead, 
+which is known to the State of California to cause birth defects or other reproductive harm. For more information go to 
+www.P65Warnings.ca.gov. 
+ 
+U.S. - California - Proposition 65 - Carcinogens List 
+Tetrachloroethylene (Perchloroethylene)(127-
+18-4) 
+XLISTED 
+Carbon tetrachloride(56-23-5) XLISTED 
+Lead(7439-92-1) XLISTED
+
+[[page 12]]
+CRC® Brakleen® Brake Parts Cleaner, 55 Gal 
+Safety Data Sheet  
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+ 
+ 
+   
+3/5/2025 (Issue date) US - en 12/12 
+ 
+U.S. - California - Proposition 65 - Reproductive Toxicity - Female 
+Lead(7439-92-1) XLISTED 
+ 
+U.S. - California - Proposition 65 - Reproductive Toxicity - Male 
+Lead(7439-92-1) XLISTED 
+Cadmium(7440-43-9) XLISTED 
+ 
+U.S. - California - Proposition 65 - Developmental Toxicity 
+Lead(7439-92-1) XLISTED 
+Cadmium(7440-43-9) XLISTED 
+ 
+ 
+State Regulations 
+Component State Regulations 
+Ethene, 1,1,2,2-tetrachloro-(127-18-4) U.S. - Massachusetts - Right To Know List; U.S. - New Jersey - Right to Know Hazardous 
+Substance List; U.S. - New York City - Right to Know Hazardous Substances List; U.S. - 
+Pennsylvania - RTK (Right to Know) List; U.S. - Rhode Island - Hazardous Substance List 
+ 
+15.4 Other Regulatory Information 
+ 
+Volatile organic compound (VOC) regulation 
+EPA 
+VOC content (40 CFR 51.100(s)) : 0 % 
+Consumer products (40 CFR 59, Subpt. C)) : Not regulated. 
+State 
+Consumer products : This product is regulated as a Brake Cleaner.This product is not compliant to be sold 
+for use in California and New Jersey. This product is compliant in all other states. 
+VOC Content (CA) : 0 % 
+VOC Content (OTC) : 0 % 
+SECTION 16: Other information 
+according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS) 
+Author : Angelina Cibulskis 
+Other information : CRC# 00491G/1002481. 
+Safety Data Sheet (SDS), USA, CRC 
+The information contained in this document applies to this specific material as supplied. It may not be valid for this material if it is used in combination 
+with any other materials. This information is accurate to the best of CRC's knowledge or obtained from sources believed by CRC to be accurate. Before 
+using any product, read all warnings and directions on the label. For further clarification of any information contained on this (M)SDS consult your 
+supervisor, a health & safety professional, or CRC Industries Inc.

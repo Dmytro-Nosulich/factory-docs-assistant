@@ -1,0 +1,308 @@
+[[page 1]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 1 of 6
+1. Identification
+Cutting Fluid Silberschnitt W41
+Product identifier
+BO5002902,    30 l
+BO5002932     200 l
+Further trade names
+Recommended use of the chemical and restrictions on use
+cutting fluid
+Use of the substance/mixture
+Details of the supplier of the safety data sheet
+Manufacturer
+BOHLE AGCompany name:
+Street: Dieselstr. 10
+Place: D-42781 Haan
+Telephone: Telefax:+49 2129 5568-0 +49 2129 5568-282
+info@bohle.deE-mail:
+Dr. Martin SchadeContact person: +49 2129 5568-300Telephone:
+E-mail: MSDS@bohle.de
+www.bohle.comInternet:
+ChemieResponsible Department:
+Supplier
+Company name: Bohle America / Portals Hardware
+925 Lydia AveStreet:
+ Kansas City, MO 64106 USAPlace:
+Telephone: +1 888 838 6006
+E-mail: support@portalshardware.com
+Emergency CONTACT (24-Hour-Number): GBK GmbH +49 (0)6132-84463Emergency phone number:
+2. Hazard(s) identification
+Classification of the chemical
+29 CFR Part 1910.1200
+This mixture is not classified as hazardous in accordance with Regulation 29 CFR 1910.1200(d).
+Label elements
+3. Composition/information on ingredients
+Mixtures
+Hydrocarbons, aliphatic  / Emulsifier
+Chemical characterization
+Relevant ingredients
+QuantityComponentsCAS No
+99.4 %8042-47-5 White mineral oil
+4. First-aid measures
+Description of first aid measures
+First aider: Pay attention to self-protection! 
+General information
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en
+
+[[page 2]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 2 of 6
+Move out of dangerous area. 
+Take off contaminated clothing and shoes immediately.
+Remove casualty to fresh air and keep warm and at rest. 
+If symptoms persist, call a physician.
+After inhalation
+Wash off with soap and plenty of water. 
+If symptoms persist, call a physician.
+After contact with skin
+Rinse thoroughly with plenty of water, also under the eyelids. Remove contact lenses, if present and easy to 
+do. Continue rinsing. 
+Consult a physician.
+After contact with eyes
+Rinse mouth thoroughly with water. 
+Do NOT induce vomiting. 
+Call a physician immediately.
+After ingestion
+Most important symptoms and effects, both acute and delayed
+May be fatal if swallowed and enters airways.
+Indication of any immediate medical attention and special treatment needed
+Treat symptomatically.
+5. Fire-fighting measures
+Extinguishing media
+Carbon dioxide (CO2) 
+Extinguishing powder 
+alcohol resistant foam 
+Water spray jet
+Suitable extinguishing media
+high volume water jet
+Unsuitable extinguishing media
+Specific hazards arising from the chemical
+Heating or fire can release toxic gas. 
+Carbon dioxide, Carbon monoxide
+Special protective equipment and precautions for fire-fighters
+Standard procedure for chemical fires. 
+Self-contained respirator (breathing apparatus) according to OSHA Standard - 29 CFR: 1910.134 or ANSI 
+Z88.2.
+Use water spray to cool unopened containers.
+Additional information
+6. Accidental release measures
+Personal precautions, protective equipment and emergency procedures
+Use personal protective equipment.
+General advice
+Do not flush into surface water or sanitary sewer system. 
+Do not allow to enter into soil/subsoil. 
+In case of gas escape or of entry into waterways, soil or drains, inform the responsible authorities.
+Environmental precautions
+Methods and material for containment and cleaning up
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en
+
+[[page 3]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 3 of 6
+Provide adequate ventilation. 
+Prevent spread over a wide area (e.g. by containment or oil barriers). 
+Absorb with liquid-binding material (sand, diatomaceous earth, acid- or universal binding agents). Collect in 
+closed and suitable containers for disposal. Dispose of waste according to applicable legislation.
+Other information
+Personal protection equipment (PPE): see section 8 
+Disposal: see section 13
+Reference to other sections
+7. Handling and storage
+Precautions for safe handling
+Provide adequate ventilation as well as local exhaustion at critical locations. 
+To avoid risks to man and the environment, comply with the instructions for use.
+Advice on safe handling
+Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. 
+Usual measures for fire prevention. 
+Take precautionary measures against static discharges. 
+Vapors may form explosive mixtures with air.
+Advice on protection against fire and explosion
+Do not breathe vapours or spray mist. 
+Avoid contact with skin, eyes and clothing. Take off all contaminated clothing immediately. 
+Wash hands before breaks and immediately after handling the product. 
+When using do not eat or drink. Do not smoke. 
+Keep away from food, drink and animal feedingstuffs.
+Advice on general occupational hygiene
+Conditions for safe storage, including any incompatibilities
+Keep container tightly closed in a cool, well-ventilated place. 
+Store in a place accessible by authorized persons only. 
+Protect from direct sunlight.
+Requirements for storage rooms and vessels
+Incompatible with oxidizing agents.
+Hints on joint storage
+Recommended storage temperature: 5 - 40°C
+Further information on storage conditions
+8. Exposure controls/personal protection
+Control parameters
+To date, no national critical limit values exist.
+Additional advice on limit values
+Exposure controls
+Provide adequate ventilation as well as local exhaustion at critical locations.
+Appropriate engineering controls
+Individual protection measures, such as personal protective equipment
+safety glasses with side-shields conforming to EN166
+Eye/face protection
+The selected protective gloves have to satisfy the specifications of EU Directive 89/689/EEC and the standard 
+EN 374 derived from it. 
+Glove material:  Butyl caoutchouc (butyl rubber), NBR (Nitrile rubber)
+Hand protection
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en
+
+[[page 4]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 4 of 6
+Take note of the information given by the producer concerning permeability and break through times, and of 
+special workplace conditions (mechanical strain, duration of contact).
+When handling with chemical substances, protective clothing with CE-labels including the four control digits 
+must be worn. 
+EN 13034 (type 6 limited splash-tight)
+Skin protection
+In case of insufficient ventilation, wear suitable respiratory equipment. Combination filtering device
+Respirator with filter for organic vapour,  Recommended Filter type: A-P2
+Respiratory protection
+Do not flush into surface water or sanitary sewer system. 
+Do not allow to enter into soil/subsoil. 
+In case of gas escape or of entry into waterways, soil or drains, inform the responsible authorities.
+Environmental exposure controls
+liquidPhysical state:
+Information on basic physical and chemical properties
+9. Physical and chemical properties
+Color: light yellow
+like: HydrocarbonsOdor:
+Test method
+no data availableMelting point/freezing point:
+no data availableLower explosion limits:
+no data availableUpper explosion limits:
+Flash point: 182 °C ISO 2592
+pH-Value: not applicable
+16 mm²/sViscosity / kinematic:
+  (at 40 °C)
+DIN 51562
+emulsifiableWater solubility:
+<0,1 hPaVapor pressure:
+  (at 20 °C)
+0,87 g/cm³Density (at 20 °C): DIN 51757
+Other information
+Information with regard to physical hazard classes
+Sustained combustibility: No sustained combustibility
+Self-ignition temperature not auto-flammable
+Other safety characteristics
+Pour point: ASTM D 97-66
+25 mPa·sViscosity / dynamic:
+  (at 20 °C)
+DIN 54453
+Further Information
+Vapors may form explosive mixtures with air.
+10. Stability and reactivity
+Reactivity
+No hazardous reaction when handled and stored according to provisions.
+Chemical stability
+Stability: Stable
+The mixture is chemically stable under recommended conditions of storage, use and temperature.
+Possibility of hazardous reactions
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en
+
+[[page 5]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 5 of 6
+Hazardous reactions: Will not occur
+Vapors may form explosive mixtures with air.
+Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. 
+Protect from direct sunlight.
+Conditions to avoid
+oxidizing agents
+Incompatible materials
+No decomposition if used as directed.
+Hazardous decomposition products
+11. Toxicological information
+Information on toxicological effects
+ATEmix calculated
+ATE (oral) > 2000 mg/kg; ATE (dermal) > 2000 mg/kg; ATE (inhalation vapour) > 20 mg/l; ATE (inhalation 
+dust/mist) > 5 mg/l
+Causes skin irritation. May cause eye/skin irritation. 
+May cause eye irritation with susceptible persons.
+Irritation and corrosivity
+Carcinogenicity (OSHA): No ingredient of this mixture is listed.
+No ingredient of this mixture is listed.Carcinogenicity (IARC):
+No ingredient of this mixture is listed.Carcinogenicity (NTP):
+Information on other hazards
+Endocrine disrupting properties
+This information is not available.
+12. Ecological information
+Ecotoxicity
+This product has no known eco-toxicological effects.
+Bioaccumulative potential
+Bioaccumulation is unlikely.
+No data available
+Mobility in soil
+This product does not contain a substance that has endocrine disrupting properties with respect to non-target 
+organisms as no components meets the criteria.
+Endocrine disrupting properties
+Other adverse effects
+Do not flush into surface water or sanitary sewer system. 
+Avoid subsoil penetration.
+13. Disposal considerations
+Waste treatment methods
+Disposal recommendations
+Can be incinerated, when in compliance with local regulations.
+Dispose of completely emptied containers as combustible waste or metal waste depending on the material.
+Contaminated packaging
+14. Transport information
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en
+
+[[page 6]]
+according to 29 CFR 1910.1200(g)
+Safety Data Sheet
+BOHLE AG
+Cutting Fluid Silberschnitt W41
+Revision date: 09/08/2026 Product code: BO5002902 Page 6 of 6
+Environmental hazards
+NoENVIRONMENTALLY HAZARDOUS: 
+15. Regulatory information
+U.S. Regulations
+State Regulations
+This product can not expose you to chemicals known to the State of California to cause cancer, birth defects or 
+other reproductive harm.
+Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65, State of California)
+16. Other information
+Hazardous Materials Identification System (HMIS)
+Health: 0
+Flammability: 1
+Physical Hazard: 0
+0Health:
+0Flammability:
+0Reactivity:
+Unique Hazard:
+00
+0
+NFPA Hazard Ratings
+Changes
+09/08/2026
+1,07
+Revision date:
+Revision No:
+This data sheet contains changes from the previous version in section(s): 1.
+The information is based on the present level of our knowledge. It does not, however, give assurance of 
+product properties and establishes no contract legal rights. The receiver of our product is singularly responsible 
+for adhering to existing laws and regulations.
+Other data
+(The data for the relevant ingredients were taken respectively from the last version of the sub-contractor's safety 
+data sheet.)
+Print date: 09/08/2026 Revision No: 1,07 - Replaces version: 1,06 USA - en

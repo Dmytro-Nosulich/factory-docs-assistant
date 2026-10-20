@@ -1,0 +1,390 @@
+[[page 1]]
+Bladzijde: 1/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+58.0.5
+* RUBRIEK 1: Identificatie van de stof of het mengsel en van de vennootschap/
+onderneming
+1.1 Productidentificatie
+Handelsnaam: Antislip-additief
+Artikelnummer: 0000776583
+1.2 Relevant geïdentificeerd gebruik van de stof of het mengsel en ontraden gebruik
+Geen verdere relevante informatie verkrijgbaar.
+1.3 Details betreffende de verstrekker van het veiligheidsinformatieblad
+Fabrikant/leverancier:
+Nederland:                                                Belgique:
+Remmers B.V.                                          REMMERS BVBA
+Nagelpoelweg 30                                      Bouwelven 19
+NL - 7333 NZ Apeldoorn                           B-2280 Grobbendonk
+Tel:  055-3034800                                     Tel:  014 84 80 80
+                                                                 Fax:  014 84 80 81
+inlichtingengevende sector:
+Remmers BV - Tel. 055-3034800  - info@remmersbv.nl
+Remmers BVBA - Tel. 014 84 80 80 - info@remmers.be
+1.4 Telefoonnummer voor noodgevallen:
+NVIC - Tel.: 030-274 8888 (24 uur per dag en 7 dagen per week). Uitsluitend bestemd om
+professionele hulpverleners te informeren bij acute vergiftiging
+Belgisch Antigifcentrum - Tel.: 070-2450245 (24 uur per dag en 7 dagen per week)
+24h-Transport Emergency Contact Phone Number:
+French / Flemish / German: +32 2808 3237
+within USA and Canada: 1-800-424-9300
+outside USA and Canada: 001-703-527-3887
+RUBRIEK 2: Identificatie van de gevaren
+2.1 Indeling van de stof of het mengsel
+Indeling overeenkomstig Verordening (EG) nr. 1272/2008
+Het product is niet geclassificeerd volgens de CLP-verordening.
+2.2 Etiketteringselementen
+Etikettering overeenkomstig Verordening (EG) nr. 1272/2008 vervalt
+Gevarenpictogrammen vervalt
+Signaalwoord vervalt
+Gevarenaanduidingen vervalt
+Aanvullende gegevens:
+EUH210 Veiligheidsinformatieblad op verzoek verkrijgbaar.
+2.3 Andere gevaren
+Resultaten van PBT- en zPzB-beoordeling
+PBT: Niet bruikbaar.
+zPzB: Niet bruikbaar.
+Vaststelling van hormoonontregelende eigenschappen Niet bruikbaar.
+RUBRIEK 3: Samenstelling en informatie over de bestanddelen
+3.2 Mengsels
+Beschrijving: Mengsel van na elkaar aangevoerde stoffen met ongevaarlijke bijmengingen.
+(Vervolg op blz. 2)
+
+[[page 2]]
+Bladzijde: 2/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 1)
+58.0.5
+Gevaarlijke inhoudstoffen [% w/w]:
+CAS: 105-60-2
+EINECS: 203-313-2
+Catalogusnummer: 613-069-00-2
+Reg.nr.: 01-2119457029-36-
+XXXX
+epsilon-caprolactam
+Acute Tox. 4, H302; Acute Tox. 4, H312; Acute Tox. 4,
+H332; Skin Irrit. 2, H315; Eye Irrit. 2, H319; STOT SE 3,
+H335
+≥1-<2,5%
+aanvullende gegevens:
+De woordelijke inhoud van de opgegeven aanwijzingen inzake de mogelijke gevaren is te vinden in
+hoofdstuk 16.
+RUBRIEK 4: Eerstehulpmaatregelen
+4.1 Beschrijving van de eerstehulpmaatregelen
+Na het inademen: Bij klachten medische behandeling inschakelen.
+na huidcontact: Wanneer de huid geïrriteerd blijft, een arts raadplegen.
+Na oogcontact: Ogen bij geopend ooglid een aantal minuten met stromend water spoelen
+Na inslikken: Onmiddellijk deskundig medisch advies inwinnen.
+4.2 Belangrijkste acute en uitgestelde symptomen en effecten
+Geen verdere relevante informatie verkrijgbaar.
+4.3 Vermelding van eventueel noodzakelijke onmiddellijke medische verzorging en speciale
+behandeling
+Symptomatische behandeling.
+RUBRIEK 5: Brandbestrijdingsmaatregelen
+5.2 Speciale gevaren die door de stof of het mengsel worden veroorzaakt
+Geen verdere relevante informatie verkrijgbaar.
+5.3 Advies voor brandweerlieden
+speciale beschermende kleding: Geen bijzondere maatregelen nodig.
+RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel
+6.1 Persoonlijke voorzorgsmaatregelen, beschermingsmiddelen en noodprocedures
+Omstanders op afstand houden en boven de wind blijven.
+6.2 Milieuvoorzorgsmaatregelen:
+Niet in de riolering/het oppervlaktewater/het grondwater laten terechtkomen.
+6.3 Insluitings- en reinigingsmethoden en -materiaal: Mechanisch opnemen.
+6.4 Verwijzing naar andere rubrieken
+Informatie inzake veilig gebruik - zie hoofdstuk 7.
+Informatie inzake persoonlijke beschermingsuitrusting - zie hoofdstuk 8.
+Informatie inzake berging - zie hoofdstuk 13.
+RUBRIEK 7: Hantering en opslag
+7.1 Voorzorgsmaatregelen voor het veilig hanteren van de stof of het mengsel
+Geen bijzondere maatregelen noodzakelijk.
+Bij een deskundig gebruik zijn geen bijzondere maatregelen vereist.
+7.2 Voorwaarden voor een veilige opslag, met inbegrip van incompatibele producten
+Opslag:
+Eisen ten opzichte van opslagruimte en tanks: Geen bijzondere eisen.
+Verdere inlichtingen over eisen m.b.t. de opslag: Geen
+RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming
+8.1 Controleparameters
+Bestanddelen met grenswaarden die m.b.t. de arbeidsruimte in acht genomen moeten worden:
+CAS: 105-60-2 epsilon-caprolactam
+BGW Lange termijn waarde: 20* 1** mg/m³, 5* ppm
+*damp;**stof
+WGW Lange termijn waarde: 20* 1** mg/m³
+*damp ** stof
+(Vervolg op blz. 3)
+
+[[page 3]]
+Bladzijde: 3/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 2)
+58.0.5
+Aanvullende gegevens: Als basis dienen lijsten die bij de opstelling geldig waren.
+8.2 Maatregelen ter beheersing van blootstelling
+Passende technische maatregelen Geen aanvullende gegevens. Zie 7.
+Individuele beschermingsmaatregelen, zoals persoonlijke beschermingsmiddelen
+Algemene beschermings- en gezondheidsmaatregelen:
+Vóór de pauze en aan het einde van het werk handen wassen.
+De volgende gegevens met betrekking tot persoonlijke beschermingsmiddelen zijn een aanbeveling.
+De keuze van de noodzakelijke persoonlijke beschermingsmiddel is afhankelijk van de uit te voeren
+werkzaamheden en de plaatselijke omstandigheden te beoordelen door de werkgever. Wanneer in het
+kader van risicobeoordeling ter plaatse wordt vastgesteld dat er geen gevaar bestaat voor de
+medewerkers, kan worden afgezien van persoonlijke beschermingsmiddelen respectievelijk kunnen
+deze overeenkomstig worden aangepast.
+Bescherming van de ademhalingswegen niet noodzakelijk.
+Bescherming van de handen
+Het handschoenmateriaal moet ondoorlatend en bestand zijn tegen het product / de stof / de bereiding.
+Kies handschoenmateriaal rekening houdend met de penetratietijden, de permeatiegraden en de
+degradatie.
+Handschoenmateriaal
+Nitrilrubber
+De keuze van een geschikte handschoen is niet alleen afhankelijk van het materiaal, maar ook van
+andere kwaliteitskenmerken en verschilt van fabrikant tot fabrikant. Aangezien het product uit meerdere
+stoffen is samengesteld, is de duurzaamheid van de handschoenmaterialen niet vooraf berekenbaar en
+moet derhalve vóór het gebruik worden getest.
+Doordringingstijd van het handschoenmateriaal
+De precieze penetratietijd kunt u te weten komen bij de handschoenfabrikant; houd er rekening mee.
+Bescherming van de ogen/het gezicht niet noodzakelijk.
+RUBRIEK 9: Fysische en chemische eigenschappen
+9.1 Informatie over fysische en chemische basiseigenschappen
+Algemene gegevens
+Fysische toestand vast
+Kleur: wit
+Geur: reukloos
+Geurdrempelwaarde: Niet bepaald.
+Smeltpunt/vriespunt 120-130 °C
+Kookpunt of beginkookpunt en kooktraject niet bepaald
+Ontvlambaarheid Niet bepaald.
+Onderste en bovenste explosiegrens
+onderste: Niet bepaald.
+bovenste: Niet bepaald.
+Vlampunt: niet bruikbaar
+Zelfontbrandingstemperatuur: >350 °C
+Ontledingstemperatuur: Niet bepaald.
+pH Niet bruikbaar.
+Viscositeit
+Kinematische viscositeit Niet bruikbaar.
+dynamisch: Niet bruikbaar.
+Oplosbaarheid
+Water: niet oplosbaar
+Verdelingscoëfficiënt n-octanol/water
+(logwaarde) Niet bepaald.
+Stoomdruk: Niet bruikbaar.
+Dichtheid en/of relatieve dichtheid
+Dichtheid bij 20 °C: 1,1 g/cm³
+Relatieve dichtheid Niet bepaald.
+Dampdichtheid Niet bruikbaar.
+Deeltjeskenmerken
+Zie sectie 3.
+(Vervolg op blz. 4)
+
+[[page 4]]
+Bladzijde: 4/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 3)
+58.0.5
+9.2 Overige informatie
+Voorkomen:
+Vorm: Poeder
+Belangrijke gegevens over de gezondheids- en
+milieubescherming en over de veiligheid
+Ontploffingseigenschappen: Het produkt is niet ontploffingsgevaarlijk.
+VOC EU
+Gehalte aan vaste bestanddelen: 100,0 %
+Toestandsverandering
+Verdampingssnelheid Niet bruikbaar.
+Informatie inzake fysische gevarenklassen
+Ontplofbare stoffen vervalt
+Ontvlambare gassen vervalt
+Aerosolen vervalt
+Oxiderende gassen vervalt
+Gassen onder druk vervalt
+Ontvlambare vloeistoffen vervalt
+Ontvlambare vaste stoffen vervalt
+Zelfontledende stoffen en mengsels vervalt
+Pyrofore vloeistoffen vervalt
+Pyrofore vaste stoffen vervalt
+Voor zelfverhitting vatbare stoffen en
+mengsels vervalt
+Stoffen en mengsels die in contact met water
+ontvlambare gassen ontwikkelen vervalt
+Oxiderende vloeistoffen vervalt
+Oxiderende vaste stoffen vervalt
+Organische peroxiden vervalt
+Bijtend voor metalen vervalt
+Ongevoelig gemaakte ontplofbare stoffen vervalt
+RUBRIEK 10: Stabiliteit en reactiviteit
+10.1 Reactiviteit Geen verdere relevante informatie verkrijgbaar.
+10.2 Chemische stabiliteit
+Thermische ontbinding / te vermijden omstandigheden:
+Geen ontleding bij gebruik volgens voorschrift.
+10.3 Mogelijke gevaarlijke reacties Geen gevaarlijke reacties bekend.
+10.4 Te vermijden omstandigheden Geen verdere relevante informatie verkrijgbaar.
+10.5 Chemisch op elkaar inwerkende materialen: Geen verdere relevante informatie verkrijgbaar.
+10.6 Gevaarlijke ontledingsproducten: Geen gevaarlijke ontbindingsprodukten bekend.
+RUBRIEK 11: Toxicologische informatie
+11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008
+Acute toxiciteit: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Indelingsrelevantie LD/LC50-waarden:
+CAS: 105-60-2 epsilon-caprolactam
+Oraal LD50 1.370 mg/kg (rat)
+Dermaal LD50 1.438 mg/kg (rabbit)
+Huidcorrosie/-irritatie: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Ernstig oogletsel/oogirritatie:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Sensibilisatie van de luchtwegen/de huid:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Mutageniteit in geslachtscellen:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Carcinogeniteit Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+(Vervolg op blz. 5)
+
+[[page 5]]
+Bladzijde: 5/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 4)
+58.0.5
+Giftigheid voor de voortplanting:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+STOT bij eenmalige blootstelling:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+STOT bij herhaalde blootstelling:
+Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+Gevaar bij inademing: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.
+11.2 Informatie over andere gevaren
+Hormoonontregelende eigenschappen
+geen der bestanddelen staat op de lijst.
+RUBRIEK 12: Ecologische informatie
+12.1 Toxiciteit
+Aquatische toxiciteit: Geen verdere relevante informatie verkrijgbaar.
+12.2 Persistentie en afbreekbaarheid Geen verdere relevante informatie verkrijgbaar.
+12.3 Bioaccumulatie Geen verdere relevante informatie verkrijgbaar.
+12.4 Mobiliteit in de bodem Geen verdere relevante informatie verkrijgbaar.
+12.5 Resultaten van PBT- en zPzB-beoordeling
+PBT: Niet bruikbaar.
+zPzB: Niet bruikbaar.
+12.6 Hormoonontregelende eigenschappen
+Het product bevat geen stoffen met hormoonontregelende eigenschappen.
+12.7 Andere schadelijke effecten Geen verdere relevante informatie verkrijgbaar.
+Verdere ecologische informatie:
+Algemene informatie:
+Waterbezwaarlijkheid (NL): A(4) Weinig schadelijk voor in water levende organismen kan in het
+aquatische milieu op lange termijn schadelijke effecten veroorzaken
+Over het algemeen geen gevaar voor water
+RUBRIEK 13: Instructies voor verwijdering
+Aanbeveling:
+Mag niet tesamen met huisvuil gestort worden of in de riolering komen.
+De aangegeven afvalcode is een aanbeveling op grond van het bepalende gebruik van het produkt. Op
+grond van speciale toepassingen en deponievoorzieningen kan eventueel ook een andere afvalcode
+van kracht zijn.
+Niet gereinigde verpakkingen:
+Aanbeveling:
+Afvalverwijdering volgens overheidsbepalingen.
+De verpakking kan na reiniging opnieuw gebruikt worden of gerecycled worden.
+RUBRIEK 14: Informatie met betrekking tot het vervoer
+14.1 VN-nummer of ID-nummer
+ADR, IMDG, IATA vervalt
+14.2 Juiste ladingnaam overeenkomstig de modelreglementen van de VN
+ADR, IMDG, IATA vervalt
+14.3 Transportgevarenklasse(n)
+ADR, ADN, IMDG, IATA
+klasse vervalt
+14.4 Verpakkingsgroep:
+ADR, IMDG, IATA vervalt
+14.5 Milieugevaren: Niet bruikbaar.
+14.6 Bijzondere voorzorgen voor de gebruiker Niet bruikbaar.
+14.7 Zeevervoer in bulk overeenkomstig IMO-
+instrumenten Niet bruikbaar.
+(Vervolg op blz. 6)
+
+[[page 6]]
+Bladzijde: 6/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 5)
+58.0.5
+VN "Model Regulation": vervalt
+RUBRIEK 15: Regelgeving
+15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof of
+het mengsel
+SZW-lijst van kankerverwekkende stoffen
+geen der bestanddelen staat op de lijst.
+SZW-lijst van mutagene stoffen
+geen der bestanddelen staat op de lijst.
+NIET-limitatieve lijst van voor de voortplanting giftige stoffen - Vruchtbaarheid
+geen der bestanddelen staat op de lijst.
+NIET-limitatieve lijst van voor de voortplanting giftige stoffen - Ontwikkeling
+geen der bestanddelen staat op de lijst.
+NIET-limitatieve lijst van voor de voortplanting giftige stoffen - Borstvoeding
+geen der bestanddelen staat op de lijst.
+Lijst Zeer Zorgwekkende Stoffen (ZZS)
+geen der bestanddelen staat op de lijst.
+Lijst van Potentieel Zeer Zorgwekkende Stoffen
+geen der bestanddelen staat op de lijst.
+Richtlijn 2012/18/EU
+Gevaarlijke stoffen die met naam genoemd worden - BIJLAGE I
+geen der bestanddelen staat op de lijst.
+Richtlijn 2011/65/EU betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in
+elektrische en elektronische apparatuur - Bijlage II
+geen der bestanddelen staat op de lijst.
+VERORDENING (EU) 2019/1148
+Bijlage I - PRECURSOREN VOOR EXPLOSIEVEN WAARVOOR EEN BEPERKING GELDT
+(Bovengrenswaarde ten behoeve van vergunningverlening op grond van artikel 5, lid 3)
+geen der bestanddelen staat op de lijst.
+Bijlage II - PRECURSOREN VOOR EXPLOSIEVEN DIE MOETEN WORDEN GEMELD
+geen der bestanddelen staat op de lijst.
+15.2 Chemischeveiligheidsbeoordeling: Een chemische veiligheidsbeoordeling is niet uitgevoerd.
+RUBRIEK 16: Overige informatie
+De gegevens baseren op de momentele stand van onze kennis. Zij beschrijven echter geen garantie
+van produkteigenschappen en vestigen geen contractuele rechtsbetrekking.
+De leveringsspecifikatie kunnen uit het Technisch Merkblad ontnomen worden.
+Relevante zinnen
+H302 Schadelijk bij inslikken.
+H312 Schadelijk bij contact met de huid.
+H315 Veroorzaakt huidirritatie.
+H319 Veroorzaakt ernstige oogirritatie.
+H332 Schadelijk bij inademing.
+H335 Kan irritatie van de luchtwegen veroorzaken.
+Indeling overeenkomstig Verordening (EG) nr. 1272/2008 Berekeningsmethode
+Blad met gegevens van de afgifte-sector Afdeling produktveiligheid / EHS
+Afkortingen en acroniemen:
+ADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the
+International Carriage of Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+IATA: International Air Transport Association
+GHS: Globally Harmonised System of Classification and Labelling of Chemicals
+EINECS: European Inventory of Existing Commercial Chemical Substances
+ELINCS: European List of Notified Chemical Substances
+(Vervolg op blz. 7)
+
+[[page 7]]
+Bladzijde: 7/7
+Veiligheidsinformatieblad
+volgens 1907/2006/EG, Artikel 31
+datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+Handelsnaam: Antislip-additief
+(Vervolg op blz. 6)
+58.0.5
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
+LC50: Lethal concentration, 50 percent
+LD50: Lethal dose, 50 percent
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+Acute Tox. 4: Acute toxiciteit – Categorie 4
+Skin Irrit. 2: Huidcorrosie/-irritatie – Categorie 2
+Eye Irrit. 2: Ernstig oogletsel/oogirritatie – Categorie 2
+STOT SE 3: Specifieke doelorgaantoxiciteit bij eenmalige blootstelling – Categorie 3
