@@ -1,0 +1,26 @@
+{
+  "product_name": "Stickstoff, verdichtet",
+  "language": "de",
+  "signal_word": "warning",
+  "physical_state": "gas",
+  "components": [
+    {
+      "name": "Stickstoff",
+      "cas_number": "7727-37-9",
+      "concentration": {
+        "min": 99.5,
+        "max": null,
+        "unit": "percent"
+      }
+    }
+  ],
+  "hazard_statements": [
+    {
+      "code": "H280",
+      "text": "Enthält Gas unter Druck; kann bei Erhitzen explodieren"
+    }
+  ],
+  "flash_point": null,
+  "un_number": "UN1066",
+  "revision_date": "2018-01-30"
+}

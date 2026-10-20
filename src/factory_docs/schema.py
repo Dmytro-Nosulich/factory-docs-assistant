@@ -65,7 +65,8 @@ class Component(Strict):
     name: str = Field(description="Substance name as written in the section 3 table.")
     cas_number: str | None = Field(
         pattern=r"^\d{2,7}-\d{2}-\d$",
-        description="CAS number, e.g. '7727-37-9'; null if not given.",
+        description="CAS number, e.g. '7727-37-9'; if alternative CAS numbers are listed, the "
+        "main one only; null if not given.",
     )
     concentration: ValueRange | None = Field(
         description="Concentration in percent; null if not given."
