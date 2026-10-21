@@ -7,52 +7,20 @@ plugin is used, so the share of valid first responses stays an honest measuremen
 
 import time
 from collections.abc import Callable
-from dataclasses import dataclass
 
 import httpx
 
-from factory_docs.config import ModelConfig, OpenRouterSettings
+from factory_docs.config import OpenRouterModel, OpenRouterSettings
+from factory_docs.models import AttemptFailed, ModelResponse, call_with_retry
 
 RETRY_STATUS = {408, 429, 500, 502, 503, 504}
-
-
-class ModelCallError(Exception):
-    """The call failed for good: a non-retryable error, or retries used up."""
-
-    def __init__(self, message: str, status: int | None, attempts: int):
-        super().__init__(message)
-        self.status = status
-        self.attempts = attempts
-
-
-@dataclass(frozen=True)
-class ModelResponse:
-    content: str | None
-    finish_reason: str | None
-    response_model: str | None
-    provider: str | None
-    generation_id: str | None
-    prompt_tokens: int | None
-    completion_tokens: int | None
-    reasoning_tokens: int | None
-    cost_usd: float | None
-    latency_s: float  # the successful attempt
-    total_s: float  # all attempts, including backoff waits
-    attempts: int
-
-
-class _AttemptFailed(Exception):
-    def __init__(self, message: str, status: int | None = None, retryable: bool = True):
-        super().__init__(message)
-        self.status = status
-        self.retryable = retryable
 
 
 class OpenRouterClient:
     def __init__(
         self,
         settings: OpenRouterSettings,
-        model: ModelConfig,
+        model: OpenRouterModel,
         api_key: str,
         transport: httpx.BaseTransport | None = None,
         sleep: Callable[[float], None] = time.sleep,
@@ -89,34 +57,21 @@ class OpenRouterClient:
     def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse:
         """One chat completion; retries timeouts, network errors, 408/429/5xx with backoff."""
         body = self.request_body(messages, schema)
-        start = time.perf_counter()
-        attempts = 0
-        while True:
-            attempts += 1
-            attempt_start = time.perf_counter()
-            try:
-                data = self._post(body)
-            except _AttemptFailed as e:
-                if not e.retryable:
-                    raise ModelCallError(str(e), e.status, attempts) from e
-                if attempts > self.settings.max_retries:
-                    message = f"{e} (gave up after {attempts} attempts)"
-                    raise ModelCallError(message, e.status, attempts) from e
-                self.sleep(self.settings.backoff_s * 2 ** (attempts - 1))
-                continue
-            now = time.perf_counter()
-            return parse_response(data, now - attempt_start, now - start, attempts)
+        data, latency_s, total_s, attempts = call_with_retry(
+            lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep
+        )
+        return parse_response(data, latency_s, total_s, attempts)
 
     def _post(self, body: dict) -> dict:
         try:
             r = self.http.post("/chat/completions", json=body)
         except httpx.TimeoutException as e:
-            raise _AttemptFailed(f"timeout: {e!r}") from e
+            raise AttemptFailed(f"timeout: {e!r}") from e
         except httpx.TransportError as e:
-            raise _AttemptFailed(f"network error: {e!r}") from e
+            raise AttemptFailed(f"network error: {e!r}") from e
         if r.status_code != 200:
             retryable = r.status_code in RETRY_STATUS
-            raise _AttemptFailed(f"HTTP {r.status_code}: {r.text[:500]}", r.status_code, retryable)
+            raise AttemptFailed(f"HTTP {r.status_code}: {r.text[:500]}", r.status_code, retryable)
         data = r.json()
         # OpenRouter can also report an error inside a 200 response, at the top or per choice.
         choices = data.get("choices") or [{}]
@@ -124,9 +79,9 @@ class OpenRouterClient:
         if error:
             code = error.get("code")
             retryable = code in RETRY_STATUS
-            raise _AttemptFailed(f"API error {code}: {error.get('message')}", code, retryable)
+            raise AttemptFailed(f"API error {code}: {error.get('message')}", code, retryable)
         if not data.get("choices"):
-            raise _AttemptFailed(f"no choices in response: {str(data)[:500]}", retryable=False)
+            raise AttemptFailed(f"no choices in response: {str(data)[:500]}", retryable=False)
         return data
 
 

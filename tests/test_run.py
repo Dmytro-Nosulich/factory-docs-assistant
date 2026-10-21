@@ -1,7 +1,7 @@
 import json
 
 from factory_docs.config import BudgetSettings, load_config
-from factory_docs.openrouter import ModelCallError, ModelResponse
+from factory_docs.models import ModelCallError, ModelResponse
 from factory_docs.run import SUMMARY, run_all, spent_usd, stage1_doc_ids
 
 # An invented product, not a corpus document.

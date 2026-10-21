@@ -2,7 +2,7 @@ import json
 
 from factory_docs.config import load_config
 from factory_docs.extract import extract_document
-from factory_docs.openrouter import ModelCallError, ModelResponse
+from factory_docs.models import ModelCallError, ModelResponse
 
 # An invented product, not a corpus document.
 VALID = {

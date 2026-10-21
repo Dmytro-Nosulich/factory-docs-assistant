@@ -7,7 +7,7 @@ retries. Keys are never in it; they come from the environment or from .env.
 import os
 import tomllib
 from pathlib import Path
-from typing import Literal
+from typing import Annotated, Literal
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -39,17 +39,37 @@ class OpenRouterSettings(Settings):
     backoff_s: float = Field(ge=0)
 
 
-class ModelConfig(Settings):
+class OllamaSettings(Settings):
+    base_url: str
+    timeout_s: float = Field(gt=0)
+    max_retries: int = Field(ge=0)
+    backoff_s: float = Field(ge=0)
+
+
+class OpenRouterModel(Settings):
     client: Literal["openrouter"]
     slug: str
     reasoning_effort: str | None = None
     max_tokens: int = Field(gt=0)
 
 
+class OllamaModel(Settings):
+    client: Literal["ollama"]
+    slug: str  # Ollama tag, e.g. gemma4:e4b
+    num_ctx: int = Field(gt=0)  # context window; required, the server default is too small
+    num_predict: int = Field(gt=0)  # max output tokens
+    think: bool = False
+
+
+# The `client` field picks the model type, like an enum with associated values.
+ModelConfig = Annotated[OpenRouterModel | OllamaModel, Field(discriminator="client")]
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
     openrouter: OpenRouterSettings
+    ollama: OllamaSettings
     models: dict[str, ModelConfig]
 
 

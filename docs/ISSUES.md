@@ -3,6 +3,35 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-005: The JSON schema allows a concentration with neither min nor max
+- **Date / task:** 2026-10-21, S1-09 (local model bake-off)
+- **Problem:** `ValueRange` requires at least one of `min` and `max` through a Pydantic validator. That rule is not in the JSON schema sent to the models, where both are simply nullable. So constrained decoding (Ollama `format`, OpenRouter `strict`) cannot enforce it. In the bake-off, `gemma4:e4b` and `gemma4:12b` both returned `{"min": null, "max": null}` for a D007 (uk) component, and the reply was marked `invalid`.
+- **Options considered:**
+  - Express the rule in the JSON schema (e.g. `anyOf` with one bound required). Strict structured output may not support it on every provider; it needs a test.
+  - Say it plainly in the prompt (prompt v2, S1-14): "if no value is stated, set concentration to null, not {min: null, max: null}".
+  - A repair attempt with the validation error (S1-15).
+- **Current selection:** none yet. It is a measured first-response failure and stays counted as one. Handle it in S1-14 (prompt v2) and/or S1-15 (repair), and record the effect.
+- **Status:** open.
+
+## I-004: Ollama context window, silent truncation and prompt cache
+- **Date / task:** 2026-10-21, S1-09 (local model)
+- **Problem:** Ollama's FAQ says the context window (`num_ctx`) defaults to 4096 tokens, but our prompts are about 5k-50k tokens. The docs do not say what happens when a prompt does not fit. Many write-ups say Ollama cuts it off silently, so the model would answer from part of the document while the reply still looks valid.
+- **What we measured** (Ollama 0.40.7, M4 Pro, `gemma4:e4b` default tag, an `nvfp4` build run by Ollama's MLX runner; probe script not committed):
+  - D001 with `num_ctx = 2048`: `prompt_eval_count` was 8826 and the answer was correct. The MLX runner ignored `num_ctx` (`ollama ps` showed CONTEXT 2048) and read the whole prompt. Without `num_ctx`, Ollama 0.40 picks a default from available memory ("vram-based default context", 32768 here), not 4096.
+  - The same D001 request sent twice: `prompt_eval_count` stayed 8826 and `prompt_eval_cached_count` was 8822. So `prompt_eval_count` is the full prompt, cached tokens included. The repeat took 1.5 s instead of 15 s, because Ollama reused the cached prompt.
+  - On an Intel laptop, Ollama would use its llama.cpp runner with a `q4_K_M` build instead. We could not test truncation there, because no such build is installed; the user chose to keep the default tags.
+- **Options considered:**
+  - Trust the runner: fine on this Mac, unknown on a laptop.
+  - Pre-count tokens before sending: Ollama has no documented tokenize endpoint.
+  - Set `num_ctx` explicitly and check every reply: if `prompt_eval_count + num_predict > num_ctx`, the prompt did not fit the configured window, so it may have been cut on another runner.
+- **Current selection:** the third option. `num_ctx` is set per model in `config.toml` and logged in every result. The Ollama client turns an overflow into a non-retryable error (status `error`), so a reply from a possibly cut prompt never counts as valid. Cached prompt tokens are recorded in `call.details`, so S1-11 can see when latency benefited from the cache (the same document run twice in a row, as in S1-10).
+- **Live check (2026-10-21):**
+  - D003, the longest prompt, on `qwen3.5:9b`: 30,627 prompt tokens fit in `num_ctx = 65536`, and the reply was valid. qwen's tokenizer counts about 38% fewer tokens than Claude's for the same prompt (49,477).
+  - The same document with `num_ctx` forced to 16,384 was recorded as `error` ("prompt did not fit"), never as valid. Memory in `ollama ps` at the 64k context: 9.1 GB.
+- **CPU-only timing not measured:** the MLX runner also ignores `num_gpu = 0` (`ollama ps` still showed 100% GPU, and one document took GPU time). A real CPU-only timing needs a llama.cpp build such as `qwen3.5:9b-q4_K_M` (6.6 GB). The user chose not to download it, so REPORT.md reports only M4 Pro GPU latency and says laptop speed was not measured. The `num_gpu` option was removed from the config, because it had no effect here.
+- **Revisit if:** a laptop run (llama.cpp runner) reports a `prompt_eval_count` capped at `num_ctx`. Then the check catches it as designed; confirm that and note it here.
+- **Status:** decided.
+
 ## I-003: The cloud models on OpenRouter do not accept temperature or top_p
 - **Date / task:** 2026-10-21, S1-07 (cloud model client)
 - **Problem:** The assignment asks for sampling parameters (temperature, top_p) in config and a comparison of at least 2 configurations (S1-10). OpenRouter's model list (`GET /api/v1/models`, checked 2026-10-21) shows that the current mid-tier and small cloud models, including the chosen `anthropic/claude-haiku-5.5` and the earlier candidates `anthropic/claude-sonnet-5.5` and `openai/gpt-6.1-sol`, do not list `temperature` or `top_p` among their supported parameters. With `provider.require_parameters: true` (needed so structured output is honored), a request that sends them would find no provider.

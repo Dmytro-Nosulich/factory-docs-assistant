@@ -3,13 +3,14 @@ import json
 import httpx
 import pytest
 
-from factory_docs.config import ModelConfig, OpenRouterSettings
-from factory_docs.openrouter import ModelCallError, OpenRouterClient
+from factory_docs.config import OpenRouterModel, OpenRouterSettings
+from factory_docs.models import ModelCallError
+from factory_docs.openrouter import OpenRouterClient
 
 SETTINGS = OpenRouterSettings(
     base_url="https://openrouter.test/api/v1", timeout_s=5, max_retries=3, backoff_s=2.0
 )
-MODEL = ModelConfig(
+MODEL = OpenRouterModel(
     client="openrouter", slug="vendor/model", reasoning_effort="none", max_tokens=100
 )
 MESSAGES = [{"role": "system", "content": "s"}, {"role": "user", "content": "u"}]

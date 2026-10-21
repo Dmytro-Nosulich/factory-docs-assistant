@@ -18,7 +18,8 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from factory_docs.config import ROOT, Config
-from factory_docs.extract import TEXTS, ChatClient, extract_document
+from factory_docs.extract import TEXTS, extract_document
+from factory_docs.models import ChatClient
 from factory_docs.prompts import load_prompt
 
 MANIFEST = ROOT / "data" / "manifest.csv"

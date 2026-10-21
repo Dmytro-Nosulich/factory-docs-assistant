@@ -1,8 +1,9 @@
 .PHONY: run texts golden-check extract-one test lint format
 
 MODEL ?= haiku-5.5
+DOCS ?=
 run:
-	uv run python -m factory_docs --model $(MODEL)
+	uv run python -m factory_docs --model $(MODEL) $(if $(DOCS),--docs $(DOCS))
 
 texts:
 	uv run python scripts/extract_texts.py

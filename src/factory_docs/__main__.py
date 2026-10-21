@@ -1,14 +1,15 @@
 """Entry point for `python -m factory_docs` (used by `make run`): the full extraction run, S1-08.
 
 Usage: uv run python -m factory_docs [--model haiku-5.5] [--docs D001 D003] [--resume RUN_ID]
-Makes one paid API call per document (retries included); see factory_docs.run for the layout.
+One model call per document (retries included), paid for cloud models and free for local
+(Ollama) ones; see factory_docs.run for the layout.
 """
 
 import argparse
 import json
 
-from factory_docs.config import load_config, load_env, require_env
-from factory_docs.openrouter import OpenRouterClient
+from factory_docs.clients import make_client
+from factory_docs.config import load_config, load_env
 from factory_docs.prompts import load_prompt
 from factory_docs.run import RUNS, SUMMARY, new_run_id, run_all, spent_usd, stage1_doc_ids
 
@@ -67,9 +68,7 @@ def main(argv: list[str] | None = None) -> None:
         doc_ids = args.docs or stage1_doc_ids()
 
     load_env()
-    client = OpenRouterClient(
-        config.openrouter, config.models[args.model], require_env("OPENROUTER_API_KEY")
-    )
+    client = make_client(args.model, config)
     print(f"{len(doc_ids)} documents, model {args.model}, results in results/runs/{run_dir.name}")
     try:
         summary = run_all(

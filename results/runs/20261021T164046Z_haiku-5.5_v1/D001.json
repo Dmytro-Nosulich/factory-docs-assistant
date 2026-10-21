@@ -1,0 +1,67 @@
+{
+  "doc_id": "D001",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5754
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792600846-xFEaXxbIuOwpPVqdVvRW",
+    "prompt_tokens": 14473,
+    "completion_tokens": 168,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0015313,
+    "latency_s": 2.438,
+    "total_s": 2.438,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Nitrogen, compressed\",\"language\":\"en\",\"signal_word\":\"warning\",\"physical_state\":\"gas\",\"components\":[{\"name\":\"Nitrogen\",\"cas_number\":\"7727-37-9\",\"concentration\":{\"min\":100,\"max\":100,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H280\",\"text\":\"Contains gas under pressure; may explode if heated.\"}],\"flash_point\":null,\"un_number\":\"UN1066\",\"revision_date\":\"2020-02-20\"}",
+  "output": {
+    "product_name": "Nitrogen, compressed",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Nitrogen",
+        "cas_number": "7727-37-9",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2020-02-20"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T16:40:46+00:00"
+}
