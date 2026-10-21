@@ -2,7 +2,7 @@ import csv
 import re
 from pathlib import Path
 
-from factory_docs.pdf_text import extract_pages, to_marked_text
+from factory_docs.pdf_text import cap_pages, extract_pages, to_marked_text
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 MANIFEST = DATA / "manifest.csv"
@@ -36,3 +36,29 @@ def test_every_stage1_document_has_text_with_all_pages():
         if pages != list(range(1, int(r["pages"]) + 1)):
             problems.append(f"{r['id']}: markers {len(pages)}, manifest pages {r['pages']}")
     assert not problems, problems
+
+
+def test_cap_pages_keeps_everything_under_the_cap():
+    text = to_marked_text(["a" * 40, "b" * 40])
+    capped = cap_pages(text, max_tokens=1000)
+    assert (capped.text, capped.pages_sent, capped.pages_total) == (text, 2, 2)
+    assert not capped.truncated
+
+
+def test_cap_pages_cuts_at_a_page_boundary():
+    text = to_marked_text(["a" * 400, "b" * 400, "c" * 400])  # ~105 tokens per page
+    capped = cap_pages(text, max_tokens=220)
+    assert (capped.pages_sent, capped.pages_total, capped.truncated) == (2, 3, True)
+    assert capped.text == to_marked_text(["a" * 400, "b" * 400])
+
+
+def test_cap_pages_always_keeps_page_one():
+    capped = cap_pages(to_marked_text(["a" * 4000, "b"]), max_tokens=10)
+    assert (capped.pages_sent, capped.pages_total) == (1, 2)
+
+
+def test_long_real_document_is_truncated():
+    text = (TEXTS / "D003.txt").read_text(encoding="utf-8")
+    capped = cap_pages(text, max_tokens=20000)
+    assert capped.truncated
+    assert MARKER.findall(capped.text) == [str(n) for n in range(1, capped.pages_sent + 1)]

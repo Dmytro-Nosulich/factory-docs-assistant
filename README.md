@@ -14,9 +14,13 @@ Real factory documentation is closed, so this project uses only **public, openly
 ```sh
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
 make run               # run the app
+make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
 make test              # run tests
 make lint              # lint and format check
 ```
+
+## Configuration
+`config.toml` holds everything that changes a run: prompt version, model slug, timeout, retries and the input length cap. Keys are never in it; `OPENROUTER_API_KEY` comes from `.env`.
 
 ## Layout
 - `src/factory_docs/`: application code
