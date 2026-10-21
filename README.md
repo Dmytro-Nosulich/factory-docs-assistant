@@ -24,6 +24,15 @@ make lint              # lint and format check
 
 Budget guard: before each call, the cost recorded in all of `results/` is checked against `budget.stop_at_usd` in `config.toml` ($4); at that point the run stops and lists the remaining documents as `not_run`. Continue a stopped or interrupted run with `uv run python -m factory_docs --resume <run_id>`; it only fills in missing documents.
 
+### Local model (Ollama)
+The same runner works with local models through [Ollama](https://ollama.com). They are sized for an ordinary laptop (32 GB RAM): 4-12B parameters. Install Ollama, pull a model and pass its key from `config.toml`:
+```sh
+ollama pull qwen3.5:9b
+make run MODEL=qwen3.5-9b                       # all 35 documents, no API cost
+make run MODEL=qwen3.5-9b DOCS="D001 D007"      # a subset
+```
+`num_ctx` (the context window) is set explicitly per model. A prompt that does not fit is recorded as `error` and never as a reply, because some Ollama runners cut long prompts silently (`docs/ISSUES.md` I-004).
+
 ## Configuration
 `config.toml` holds everything that changes a run: prompt version, model slug, timeout, retries and the input length cap. Keys are never in it; `OPENROUTER_API_KEY` comes from `.env`.
 

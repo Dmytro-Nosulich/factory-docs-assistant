@@ -1,0 +1,58 @@
+{
+  "doc_id": "D007",
+  "status": "invalid",
+  "model": {
+    "key": "gemma4-e4b",
+    "client": "ollama",
+    "slug": "gemma4:e4b",
+    "response_model": "gemma4:e4b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "num_gpu": null
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 5689
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 11451,
+    "completion_tokens": 1256,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 20.657,
+    "total_s": 20.657,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 0,
+      "load_s": 0.001,
+      "prompt_eval_s": 9.498,
+      "eval_s": 11.145,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Літній очищувач скла, концентрат 1:100 RM 672\",\n  \"language\": \"uk\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"sodium lauryl ether sulfate\",\n      \"cas_number\": \"68891-38-3\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"sec. n-alkane C14-C17 sulphonate, sodium salt\",\n      \"cas_number\": \"97489-15-1\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"docusate sodium\",\n      \"cas_number\": \"577-11-7\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"1,2-бензізотіазол-3(2Н)-он\",\n      \"cas_number\": \"2634-33-5\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine\",\n      \"cas_number\": \"2372-82-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"2-метил-2Н-ізотіазол-3-он\",\n      \"cas_number\": \"2682-20-4\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"піритіон натрію\",\n      \"cas_number\": \"3811-73-2\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H315\",\n      \"text\": \"Спричиняє подразнення шкіри.\"\n    },\n    {\n      \"code\": \"H318\",\n      \"text\": \"Спричиняє серйозне пошкодження очей.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"Може спричинити алергічну реакцію на шкірі.\"\n    },\n    {\n      \"code\": \"H301\",\n      \"text\": \"Токсично при проковтуванні.\"\n    },\n    {\n      \"code\": \"H302\",\n      \"text\": \"Шкідливо при проковтуванні.\"\n    },\n    {\n      \"code\": \"H311\",\n      \"text\": \"Токсично при контакті зі шкірою.\"\n    },\n    {\n      \"code\": \"H314\",\n      \"text\": \"Спричиняє тяжкі опіки шкіри та пошкодження очей .\"\n    },\n    {\n      \"code\": \"H319\",\n      \"text\": \"Спричиняє сильне подразнення очей.\"\n    },\n    {\n      \"code\": \"H330\",\n      \"text\": \"Смертельно при вдиханні.\"\n    },\n    {\n      \"code\": \"H331\",\n      \"text\": \"Токсично при вдиханні.\"\n    },\n    {\n      \"code\": \"H372\",\n      \"text\": \"Спричиняє пошкодження органів при тривалому або багаторазовому впливі.\"\n    },\n    {\n      \"code\": \"H373\",\n      \"text\": \"Може спричинити пошкодження органів при тривало му або багаторазовому впливі.\"\n    },\n    {\n      \"code\": \"H400\",\n      \"text\": \"Дуже токсично для організмів водного середовища .\"\n    },\n    {\n      \"code\": \"H410\",\n      \"text\": \"Дуже токсично для організмів водного середовища з довгостроковими наслідками.\"\n    },\n    {\n      \"code\": \"H411\",\n      \"text\": \"Токсично для організмів водного середовища з до вгостроковими наслідками.\"\n    },\n    {\n      \"code\": \"H412\",\n      \"text\": \"Шкідливо для організмів водного середовища з до вгостроковими наслідками.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2607-07-20\"\n}",
+  "output": null,
+  "errors": [
+    "components[0].concentration: Value error, at least one of min and max must be set",
+    "components[1].concentration: Value error, at least one of min and max must be set",
+    "components[2].concentration: Value error, at least one of min and max must be set",
+    "components[3].concentration: Value error, at least one of min and max must be set",
+    "components[4].concentration: Value error, at least one of min and max must be set",
+    "components[5].concentration: Value error, at least one of min and max must be set",
+    "components[6].concentration: Value error, at least one of min and max must be set"
+  ],
+  "created_at": "2026-10-21T16:32:52+00:00"
+}

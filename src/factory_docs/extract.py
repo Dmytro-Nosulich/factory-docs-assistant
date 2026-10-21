@@ -9,22 +9,17 @@ import json
 from dataclasses import asdict
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import Protocol
 
 from pydantic import ValidationError
 
 from factory_docs.config import ROOT, Config
 from factory_docs.golden import format_loc
-from factory_docs.openrouter import ModelCallError, ModelResponse
+from factory_docs.models import ChatClient, ModelCallError
 from factory_docs.pdf_text import cap_pages, estimate_tokens
 from factory_docs.prompts import load_prompt
 from factory_docs.schema import SafetyDataSheet, schema_text
 
 TEXTS = ROOT / "data" / "texts"
-
-
-class ChatClient(Protocol):
-    def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse: ...
 
 
 def validate_reply(content: str | None) -> tuple[dict | None, list[str]]:

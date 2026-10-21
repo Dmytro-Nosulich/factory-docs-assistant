@@ -14,9 +14,41 @@ timeout_s = 60
 max_retries = 3
 backoff_s = 2.0            # waits 2, 4, 8 s
 
+[ollama]
+base_url = "http://localhost:11434"
+timeout_s = 900            # CPU-only prompt processing can take minutes
+max_retries = 1
+backoff_s = 5.0
+
 # Checked on openrouter.ai 2026-10-21: $0.10 in / $0.50 out per 1M tokens; no temperature/top_p.
 [models."haiku-5.5"]
 client = "openrouter"
 slug = "anthropic/claude-haiku-5.5"
 reasoning_effort = "none"
 max_tokens = 8000
+
+# Local models (decision 3b): sized for a 32 GB laptop, CPU only. Default Ollama tags; on an
+# Apple Silicon Mac they resolve to nvfp4 builds run by the MLX runner (docs/ISSUES.md I-004).
+# num_ctx must hold the longest prompt (D003, about 50k tokens) plus num_predict.
+# Sampling (temperature, top_p) stays at the model defaults until S1-10.
+[models."gemma4-e4b"]
+client = "ollama"
+slug = "gemma4:e4b"
+num_ctx = 65536
+num_predict = 4000
+think = false
+
+[models."gemma4-12b"]
+client = "ollama"
+slug = "gemma4:12b"
+num_ctx = 65536
+num_predict = 4000
+think = false
+
+[models."qwen3.5-9b"]
+client = "ollama"
+slug = "qwen3.5:9b"
+num_ctx = 65536
+num_predict = 4000
+think = false
+

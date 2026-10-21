@@ -1,16 +1,17 @@
 """Extract one document with one model and save the result (S1-07 smoke run).
 
 Usage: uv run python scripts/extract_one.py --doc D001 [--model haiku-5.5]
-Writes results/smoke/<model>_<doc>.json. Makes one paid API call (retries included).
+Writes results/smoke/<model>_<doc>.json. Makes one model call (retries included); cloud
+models are paid.
 """
 
 import argparse
 import json
 from pathlib import Path
 
-from factory_docs.config import load_config, load_env, require_env
+from factory_docs.clients import make_client
+from factory_docs.config import load_config, load_env
 from factory_docs.extract import extract_document
-from factory_docs.openrouter import OpenRouterClient
 
 SMOKE = Path(__file__).resolve().parent.parent / "results" / "smoke"
 
@@ -23,9 +24,7 @@ def main() -> None:
 
     load_env()
     config = load_config()
-    client = OpenRouterClient(
-        config.openrouter, config.models[args.model], require_env("OPENROUTER_API_KEY")
-    )
+    client = make_client(args.model, config)
     try:
         record = extract_document(args.doc, client, args.model, config)
     finally:
