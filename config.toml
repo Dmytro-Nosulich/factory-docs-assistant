@@ -1,0 +1,19 @@
+# Run configuration. No secrets here: OPENROUTER_API_KEY lives in .env.
+
+[extraction]
+prompt = "extract"
+prompt_version = "v1"
+max_input_tokens = 20000   # whole pages up to this estimate (S1-03)
+
+[openrouter]
+base_url = "https://openrouter.ai/api/v1"
+timeout_s = 60
+max_retries = 3
+backoff_s = 2.0            # waits 2, 4, 8 s
+
+# Checked on openrouter.ai 2026-10-21: $0.10 in / $0.50 out per 1M tokens; no temperature/top_p.
+[models."haiku-5.5"]
+client = "openrouter"
+slug = "anthropic/claude-haiku-5.5"
+reasoning_effort = "none"
+max_tokens = 8000

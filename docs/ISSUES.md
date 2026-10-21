@@ -3,6 +3,17 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-003: The cloud models on OpenRouter do not accept temperature or top_p
+- **Date / task:** 2026-10-21, S1-07 (cloud model client)
+- **Problem:** The assignment asks for sampling parameters (temperature, top_p) in config and a comparison of at least 2 configurations (S1-10). OpenRouter's model list (`GET /api/v1/models`, checked 2026-10-21) shows that the current mid-tier and small cloud models, including the chosen `anthropic/claude-haiku-5.5` and the earlier candidates `anthropic/claude-sonnet-5.5` and `openai/gpt-6.1-sol`, do not list `temperature` or `top_p` among their supported parameters. With `provider.require_parameters: true` (needed so structured output is honored), a request that sends them would find no provider.
+- **Options considered:**
+  - Compare sampling configurations on the local model only (Ollama accepts temperature and top_p).
+  - Use reasoning effort as the cloud model's configuration axis instead of sampling.
+  - Switch to an older cloud model that accepts temperature/top_p (e.g. `anthropic/claude-sonnet-4.6`, $3/$15 per 1M tokens).
+- **Current selection:** sampling is compared on the local model only (decision 11). The cloud model runs with fixed settings from `config.toml` (`reasoning_effort = "none"`), and the client sends only the parameters that are set there.
+- **Revisit if:** the reviewer expects a sampling comparison on the cloud model too. Then add a model that accepts temperature as a second cloud entry in `config.toml` (a config change only).
+- **Status:** decided.
+
 ## I-002: Stage 1 had 15 texts, below the course minimum of 30 (resolved: 35)
 - **Date / task:** 2026-10-20, S1-02 (corpus manifest)
 - **Problem:** The course teacher advised focusing stage 1 on safety data sheets (SDS), because the other document types (manuals, certificates, declarations, datasheets) are hard to read. The corpus has only 15 SDS (D001, D002, D003, D006, D007, D008, D010, D032-D039; en, sv, pl, uk, de), while the assignment asks for at least 30 texts.
