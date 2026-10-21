@@ -1,4 +1,4 @@
-.PHONY: run texts golden-check extract-one test lint format
+.PHONY: run texts golden-check extract-one metrics test lint format
 
 MODEL ?= haiku-5.5
 SAMPLING ?=
@@ -16,6 +16,10 @@ golden-check:
 DOC ?= D001
 extract-one:
 	uv run python scripts/extract_one.py --doc $(DOC) --model $(MODEL) $(SAMPLING_ARG)
+
+RUNS ?=
+metrics:
+	uv run python scripts/metrics.py $(RUNS)
 
 test:
 	uv run pytest

@@ -6,6 +6,7 @@ timeouts and retries. Keys are never in it; they come from the environment or fr
 
 import os
 import tomllib
+from datetime import date
 from pathlib import Path
 from typing import Annotated, Literal
 
@@ -51,6 +52,13 @@ class OpenRouterModel(Settings):
     slug: str
     reasoning_effort: str | None = None
     max_tokens: int = Field(gt=0)
+    # USD per 1M tokens and the date they were checked; for metrics only, never sent (S1-11)
+    price_in_usd_per_mtok: float = Field(ge=0)
+    price_out_usd_per_mtok: float = Field(ge=0)
+    price_checked: date
+
+
+PRICE_FIELDS = {"price_in_usd_per_mtok", "price_out_usd_per_mtok", "price_checked"}
 
 
 class OllamaModel(Settings):
@@ -114,7 +122,9 @@ def resolve_sampling(
 
 def run_params(config: Config, model_key: str, sampling: str | None = None) -> dict:
     """The parameters a run sends, as logged in every result record and run.json."""
-    params = config.models[model_key].model_dump(exclude={"client", "slug", "sampling"})
+    params = config.models[model_key].model_dump(
+        exclude={"client", "slug", "sampling", *PRICE_FIELDS}
+    )
     resolved = resolve_sampling(config, model_key, sampling)
     if resolved:
         name, values = resolved

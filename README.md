@@ -15,6 +15,7 @@ Real factory documentation is closed, so this project uses only **public, openly
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
 make run               # extract all 35 stage 1 documents with the cloud model (paid, see below)
 make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
+make metrics           # metrics table of all saved runs (rules: docs/METRICS.md)
 make test              # run tests
 make lint              # lint and format check
 ```

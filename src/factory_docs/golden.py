@@ -5,9 +5,20 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
+from factory_docs.config import ROOT
 from factory_docs.schema import SafetyDataSheet
 
+GOLDEN = ROOT / "data" / "golden"
 PLACEHOLDER = "TODO"
+
+
+def load_golden(doc_id: str, golden_dir: Path = GOLDEN) -> dict | None:
+    """The golden label as schema-normalized JSON (as model outputs are saved); None if absent."""
+    path = golden_dir / f"{doc_id}.json"
+    if not path.exists():
+        return None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return SafetyDataSheet.model_validate(data).model_dump(mode="json")
 
 
 def find_placeholders(value: object, path: str = "") -> list[str]:
