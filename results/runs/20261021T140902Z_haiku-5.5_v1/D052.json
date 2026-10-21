@@ -1,0 +1,74 @@
+{
+  "doc_id": "D052",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 5479
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792591793-oplcWOMkEjKoztsLMKam",
+    "prompt_tokens": 14039,
+    "completion_tokens": 233,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0015204,
+    "latency_s": 2.099,
+    "total_s": 2.099,
+    "attempts": 1
+  },
+  "raw": "{\"product_name\":\"HIGHTEC ANTIFREEZE COOLANT LCC 100\",\"language\":\"en\",\"signal_word\":\"warning\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"ethanediol; ethylene glycol\",\"cas_number\":\"107-21-1\",\"concentration\":{\"min\":30,\"max\":60,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H302\",\"text\":\"Harmful if swallowed.\"},{\"code\":\"H373\",\"text\":\"May cause damage to organs through prolonged or repeated exposure.\"}],\"flash_point\":{\"min\":135,\"max\":135,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2026-02-02\"}",
+  "output": {
+    "product_name": "HIGHTEC ANTIFREEZE COOLANT LCC 100",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "ethanediol; ethylene glycol",
+        "cas_number": "107-21-1",
+        "concentration": {
+          "min": 30.0,
+          "max": 60.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H302",
+        "text": "Harmful if swallowed."
+      },
+      {
+        "code": "H373",
+        "text": "May cause damage to organs through prolonged or repeated exposure."
+      }
+    ],
+    "flash_point": {
+      "min": 135.0,
+      "max": 135.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-02-02"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T14:09:53+00:00"
+}

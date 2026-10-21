@@ -1,0 +1,106 @@
+{
+  "doc_id": "D046",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5363
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792591777-78v4eVRpFqDqZ6z5qK7H",
+    "prompt_tokens": 14118,
+    "completion_tokens": 426,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0016248,
+    "latency_s": 2.962,
+    "total_s": 2.962,
+    "attempts": 1
+  },
+  "raw": "{\"product_name\":\"PressurePro Facade Cleaner, Gel RM 43\",\"language\":\"en\",\"signal_word\":\"danger\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"sodium 2-butoxyethyl sulphate\",\"cas_number\":\"67656-24-0\",\"concentration\":{\"min\":1,\"max\":5,\"unit\":\"percent\"}},{\"name\":\"sodium hydroxide\",\"cas_number\":\"1310-73-2\",\"concentration\":{\"min\":2,\"max\":3,\"unit\":\"percent\"}},{\"name\":\"potassium silicate\",\"cas_number\":\"1312-76-1\",\"concentration\":{\"min\":1,\"max\":3,\"unit\":\"percent\"}},{\"name\":\"tetradecyl dimethylaminoxide\",\"cas_number\":\"3332-27-2\",\"concentration\":{\"min\":1,\"max\":2.5,\"unit\":\"percent\"}},{\"name\":\"sodium metasilicate\",\"cas_number\":\"10213-79-3\",\"concentration\":{\"min\":1,\"max\":3,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H290\",\"text\":\"May be corrosive to metals.\"},{\"code\":\"H314\",\"text\":\"Causes severe skin burns and eye damage.\"}],\"flash_point\":null,\"un_number\":\"UN1824\",\"revision_date\":\"2026-03-10\"}",
+  "output": {
+    "product_name": "PressurePro Facade Cleaner, Gel RM 43",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sodium 2-butoxyethyl sulphate",
+        "cas_number": "67656-24-0",
+        "concentration": {
+          "min": 1.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "sodium hydroxide",
+        "cas_number": "1310-73-2",
+        "concentration": {
+          "min": 2.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "potassium silicate",
+        "cas_number": "1312-76-1",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "tetradecyl dimethylaminoxide",
+        "cas_number": "3332-27-2",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "sodium metasilicate",
+        "cas_number": "10213-79-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H290",
+        "text": "May be corrosive to metals."
+      },
+      {
+        "code": "H314",
+        "text": "Causes severe skin burns and eye damage."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1824",
+    "revision_date": "2026-03-10"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T14:09:37+00:00"
+}
