@@ -3,12 +3,15 @@ import json
 import httpx
 import pytest
 
-from factory_docs.config import OllamaModel, OllamaSettings
+from factory_docs.config import OllamaModel, OllamaSettings, SamplingConfig
 from factory_docs.models import ModelCallError
 from factory_docs.ollama import OllamaClient
 
 SETTINGS = OllamaSettings(base_url="http://ollama.test", timeout_s=5, max_retries=1, backoff_s=5.0)
-MODEL = OllamaModel(client="ollama", slug="vendor:small", num_ctx=1000, num_predict=100)
+MODEL = OllamaModel(
+    client="ollama", slug="vendor:small", num_ctx=1000, num_predict=100, sampling="greedy"
+)
+SAMPLING = SamplingConfig(temperature=0.0, top_p=1.0)
 MESSAGES = [{"role": "system", "content": "s"}, {"role": "user", "content": "u"}]
 SCHEMA = {"type": "object"}
 
@@ -42,7 +45,7 @@ def make_client(*steps, model=MODEL):
         return step
 
     client = OllamaClient(
-        SETTINGS, model, transport=httpx.MockTransport(handler), sleep=waits.append
+        SETTINGS, model, SAMPLING, transport=httpx.MockTransport(handler), sleep=waits.append
     )
     return client, requests, waits
 
@@ -51,7 +54,7 @@ def ok(**kwargs):
     return httpx.Response(200, json=reply(**kwargs))
 
 
-def test_request_has_schema_context_and_no_thinking():
+def test_request_has_schema_context_sampling_and_no_thinking():
     client, requests, _ = make_client(ok())
     client.complete(MESSAGES, SCHEMA)
     [request] = requests
@@ -63,7 +66,7 @@ def test_request_has_schema_context_and_no_thinking():
         "format": SCHEMA,
         "stream": False,
         "think": False,
-        "options": {"num_ctx": 1000, "num_predict": 100},
+        "options": {"num_ctx": 1000, "num_predict": 100, "temperature": 0.0, "top_p": 1.0},
     }
 
 

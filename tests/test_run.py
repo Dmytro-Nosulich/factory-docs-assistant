@@ -2,7 +2,7 @@ import json
 
 from factory_docs.config import BudgetSettings, load_config
 from factory_docs.models import ModelCallError, ModelResponse
-from factory_docs.run import SUMMARY, run_all, spent_usd, stage1_doc_ids
+from factory_docs.run import SUMMARY, new_run_id, run_all, spent_usd, stage1_doc_ids
 
 # An invented product, not a corpus document.
 VALID = {
@@ -126,6 +126,29 @@ def test_resume_fills_only_missing_documents(tmp_path):
 
     assert client.calls == 1  # only D903; the invalid D901 is not re-run
     assert summary["counts"] == {"valid": 2, "invalid": 1, "error": 0, "not_run": 0}
+
+
+def test_summary_logs_sampling(tmp_path):
+    texts = write_texts(tmp_path, ["D901"])
+    run_dir = tmp_path / "results" / "runs" / "test-run"
+    summary = run_all(
+        ["D901"],
+        FakeClient([json.dumps(VALID)]),
+        "qwen3.5-9b",
+        config_with_budget(),
+        run_dir,
+        0.0,
+        texts,
+        sampling="greedy",
+    )
+    assert summary["params"]["sampling"] == {"name": "greedy", "temperature": 0.0, "top_p": 1.0}
+    record = json.loads((run_dir / "D901.json").read_text(encoding="utf-8"))
+    assert record["params"] == summary["params"]
+
+
+def test_run_id_names_model_sampling_and_prompt():
+    assert new_run_id("qwen3.5-9b", "v1", "greedy").endswith("Z_qwen3.5-9b_greedy_v1")
+    assert new_run_id("haiku-5.5", "v1").endswith("Z_haiku-5.5_v1")
 
 
 def test_spent_usd_sums_records_and_skips_summaries(tmp_path):

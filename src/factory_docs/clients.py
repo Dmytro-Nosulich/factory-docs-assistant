@@ -4,15 +4,19 @@ The only place that knows which client class serves which model; the runner and 
 call `make_client` and work with any `ChatClient`.
 """
 
-from factory_docs.config import Config, OllamaModel, OpenRouterModel, require_env
+from factory_docs.config import Config, OllamaModel, OpenRouterModel, require_env, resolve_sampling
 from factory_docs.ollama import OllamaClient
 from factory_docs.openrouter import OpenRouterClient
 
 
-def make_client(model_key: str, config: Config) -> OpenRouterClient | OllamaClient:
+def make_client(
+    model_key: str, config: Config, sampling: str | None = None
+) -> OpenRouterClient | OllamaClient:
+    """sampling: a [sampling] table name; None means the model's default (local models only)."""
     model = config.models[model_key]
+    resolved = resolve_sampling(config, model_key, sampling)
     if isinstance(model, OpenRouterModel):
         return OpenRouterClient(config.openrouter, model, require_env("OPENROUTER_API_KEY"))
     if isinstance(model, OllamaModel):
-        return OllamaClient(config.ollama, model)
+        return OllamaClient(config.ollama, model, resolved[1])
     raise ValueError(f"no client for model {model_key!r}")

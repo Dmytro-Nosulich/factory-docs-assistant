@@ -1,9 +1,10 @@
 """Ollama chat client (local models) with structured output, timeout and retry, S1-09.
 
 Same contract as `openrouter.py`: chat messages plus a JSON schema in, the raw reply with
-tokens and timing out. Thinking is switched off and the context window (`num_ctx`) is set
-explicitly. Some Ollama runners cut a too-long prompt silently, so a prompt that does not fit
-`num_ctx` together with `num_predict` is a hard error, never a reply (docs/ISSUES.md I-004).
+tokens and timing out. Thinking is switched off; the context window (`num_ctx`) and the
+sampling parameters (temperature, top_p; S1-10) are set explicitly. Some Ollama runners cut a
+too-long prompt silently, so a prompt that does not fit `num_ctx` together with `num_predict`
+is a hard error, never a reply (docs/ISSUES.md I-004).
 """
 
 import time
@@ -11,7 +12,7 @@ from collections.abc import Callable
 
 import httpx
 
-from factory_docs.config import OllamaModel, OllamaSettings
+from factory_docs.config import OllamaModel, OllamaSettings, SamplingConfig
 from factory_docs.models import AttemptFailed, ModelCallError, ModelResponse, call_with_retry
 
 
@@ -20,11 +21,13 @@ class OllamaClient:
         self,
         settings: OllamaSettings,
         model: OllamaModel,
+        sampling: SamplingConfig,
         transport: httpx.BaseTransport | None = None,
         sleep: Callable[[float], None] = time.sleep,
     ):
         self.settings = settings
         self.model = model
+        self.sampling = sampling
         self.sleep = sleep
         self.http = httpx.Client(
             base_url=settings.base_url, timeout=settings.timeout_s, transport=transport
@@ -34,7 +37,12 @@ class OllamaClient:
         self.http.close()
 
     def request_body(self, messages: list[dict[str, str]], schema: dict) -> dict:
-        options = {"num_ctx": self.model.num_ctx, "num_predict": self.model.num_predict}
+        options = {
+            "num_ctx": self.model.num_ctx,
+            "num_predict": self.model.num_predict,
+            "temperature": self.sampling.temperature,
+            "top_p": self.sampling.top_p,
+        }
         return {
             "model": self.model.slug,
             "messages": messages,

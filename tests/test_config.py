@@ -1,7 +1,15 @@
 import pytest
 from pydantic import ValidationError
 
-from factory_docs.config import CONFIG, OllamaModel, load_config, load_env, require_env
+from factory_docs.config import (
+    CONFIG,
+    OllamaModel,
+    load_config,
+    load_env,
+    require_env,
+    resolve_sampling,
+    run_params,
+)
 
 
 def test_repo_config_loads():
@@ -20,9 +28,68 @@ def test_local_models_are_ollama_with_explicit_context():
         assert model.num_ctx > model.num_predict
 
 
+def test_sampling_configurations_load_and_local_models_name_one():
+    config = load_config()
+    assert config.sampling["default"].model_dump() == {"temperature": 1.0, "top_p": 0.95}
+    assert config.sampling["greedy"].model_dump() == {"temperature": 0.0, "top_p": 1.0}
+    for model in config.models.values():
+        if isinstance(model, OllamaModel):
+            assert model.sampling in config.sampling
+
+
+def config_with(tmp_path, old: str, new: str):
+    text = CONFIG.read_text(encoding="utf-8")
+    assert old in text
+    path = tmp_path / "config.toml"
+    path.write_text(text.replace(old, new, 1), encoding="utf-8")
+    return path
+
+
+def test_model_naming_a_missing_sampling_table_is_rejected(tmp_path):
+    path = config_with(tmp_path, 'sampling = "default"', 'sampling = "nope"')
+    with pytest.raises(ValidationError, match="no \\[sampling.'nope'\\] table"):
+        load_config(path)
+
+
+def test_out_of_range_temperature_is_rejected(tmp_path):
+    path = config_with(tmp_path, "temperature = 1.0", "temperature = 3.0")
+    with pytest.raises(ValidationError, match="temperature"):
+        load_config(path)
+
+
+def test_resolve_sampling_for_local_model():
+    config = load_config()
+    assert resolve_sampling(config, "qwen3.5-9b")[0] == "default"
+    name, values = resolve_sampling(config, "qwen3.5-9b", "greedy")
+    assert (name, values.temperature, values.top_p) == ("greedy", 0.0, 1.0)
+    with pytest.raises(ValueError, match="unknown sampling 'nope'; config.toml has default"):
+        resolve_sampling(config, "qwen3.5-9b", "nope")
+
+
+def test_cloud_model_takes_no_sampling():
+    config = load_config()
+    assert resolve_sampling(config, "haiku-5.5") is None
+    with pytest.raises(ValueError, match="I-003"):
+        resolve_sampling(config, "haiku-5.5", "greedy")
+
+
+def test_run_params_log_sampling_name_and_values():
+    config = load_config()
+    assert run_params(config, "haiku-5.5") == {"reasoning_effort": "none", "max_tokens": 8000}
+    assert run_params(config, "qwen3.5-9b", "greedy") == {
+        "num_ctx": 65536,
+        "num_predict": 4000,
+        "think": False,
+        "sampling": {"name": "greedy", "temperature": 0.0, "top_p": 1.0},
+    }
+
+
 def test_ollama_model_without_num_ctx_is_rejected(tmp_path):
     path = tmp_path / "config.toml"
-    extra = '\n[models."bad"]\nclient = "ollama"\nslug = "x:1b"\nnum_predict = 100\n'
+    extra = (
+        '\n[models."bad"]\nclient = "ollama"\nslug = "x:1b"\nnum_predict = 100\n'
+        'sampling = "default"\n'
+    )
     path.write_text(CONFIG.read_text(encoding="utf-8") + extra, encoding="utf-8")
     with pytest.raises(ValidationError, match="num_ctx"):
         load_config(path)
