@@ -7,6 +7,7 @@ labeling rules: they guide hand-labeling of the golden set and go into the JSON 
 the models see.
 """
 
+import json
 from datetime import date
 from enum import StrEnum
 from typing import Self
@@ -117,3 +118,8 @@ class SafetyDataSheet(Strict):
         description="Date of the current version (e.g. 'Last revised', 'Revisionsdatum', "
         "'überarbeitet am'), not the print date; null if not given."
     )
+
+
+def schema_text() -> str:
+    """The JSON Schema of SafetyDataSheet as text, for the `{{schema}}` prompt placeholder."""
+    return json.dumps(SafetyDataSheet.model_json_schema(), indent=2, ensure_ascii=False)
