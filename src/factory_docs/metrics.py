@@ -138,6 +138,14 @@ def mean(values: list[float]) -> float | None:
     return sum(values) / len(values) if values else None
 
 
+def is_cached(call: dict) -> bool:
+    """At least half of the prompt came from Ollama's cache; a shared system-prompt prefix
+    alone (about 114 tokens) does not count (docs/METRICS.md)."""
+    cached = (call.get("details") or {}).get("prompt_cached_tokens") or 0
+    prompt = call.get("prompt_tokens") or 0
+    return prompt > 0 and cached >= 0.5 * prompt
+
+
 def load_run(run_dir: Path) -> tuple[dict, list[dict]]:
     """run.json and the result records of the run's documents that have one, in run order."""
     summary = json.loads((run_dir / SUMMARY).read_text(encoding="utf-8"))
@@ -210,9 +218,7 @@ def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dic
             "n": len(latencies),
             "p50": percentile(latencies, 50) if latencies else None,
             "p95": percentile(latencies, 95) if latencies else None,
-            "cached": sum(
-                ((c.get("details") or {}).get("prompt_cached_tokens") or 0) > 0 for c in calls
-            ),
+            "cached": sum(is_cached(c) for c in calls),
         },
         "cost_per_1000": {
             "priced": None if priced is None else 1000 * priced,
@@ -285,7 +291,8 @@ def format_tables(rows: list[dict]) -> str:
         "Valid only: the same over golden documents with a valid output.",
         "Latency: seconds, the successful attempt of each call, nearest-rank percentiles. "
         "OpenRouter latency includes routing and depends on the upstream provider. "
-        "Cached: local calls where Ollama reused a cached prompt (faster than a cold call).",
+        "Cached: local calls where Ollama took at least half of the prompt from its cache "
+        "(faster than a cold call).",
         "$ / 1000 docs: mean tokens x price in config.toml (checked: "
         + (", ".join(checked) or "-")
         + "); reported: OpenRouter's own cost. Local: no API cost; hardware and time not counted.",

@@ -1,0 +1,78 @@
+{
+  "doc_id": "D057",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 2921
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 5156,
+    "completion_tokens": 195,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 14.454,
+    "total_s": 14.454,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.005,
+      "prompt_eval_s": 11.693,
+      "eval_s": 2.752,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Cutting Fluid Silberschnitt W41\",\n  \"language\": \"en\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"White mineral oil\",\n      \"cas_number\": \"8042-47-5\",\n      \"concentration\": {\n        \"min\": 99.4,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 182,\n    \"max\": null,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2026-09-08\"\n}",
+  "output": {
+    "product_name": "Cutting Fluid Silberschnitt W41",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "White mineral oil",
+        "cas_number": "8042-47-5",
+        "concentration": {
+          "min": 99.4,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 182.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-09-08"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T22:11:29+00:00"
+}

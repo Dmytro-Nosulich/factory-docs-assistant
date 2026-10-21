@@ -1,0 +1,140 @@
+{
+  "doc_id": "D049",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 29,
+    "pages_total": 29,
+    "truncated": false,
+    "est_tokens": 18991
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 28472,
+    "completion_tokens": 707,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 85.864,
+    "total_s": 85.864,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 74.405,
+      "eval_s": 11.442,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"3-IN-ONE® Heavy Duty Cleaner Degreaser\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"gas\",\n  \"components\": [\n    {\n      \"name\": \"Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"2-Butoxyethanol\",\n      \"cas_number\": \"111-76-2\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Alcohols, C9-11, ethoxylated\",\n      \"cas_number\": \"68439-46-3\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Orange, sweet, ext.\",\n      \"cas_number\": \"8028-48-6\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"(R)-p-mentha-1,8-diene\",\n      \"cas_number\": \"5989-27-5\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Ammonia\",\n      \"cas_number\": \"1336-21-6\",\n      \"concentration\": {\n        \"min\": 0.1,\n        \"max\": 1,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H319\",\n      \"text\": \"Causes serious eye irritation.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"May cause an allergic skin reaction.\"\n    },\n    {\n      \"code\": \"H411\",\n      \"text\": \"Toxic to aquatic life with long lasting effects.\"\n    },\n    {\n      \"code\": \"H222\",\n      \"text\": \"Extremely flammable aerosol.\"\n    },\n    {\n      \"code\": \"H229\",\n      \"text\": \"Pressurised container: May burst if heated.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1950\",\n  \"revision_date\": \"2026-02-10\"\n}",
+  "output": {
+    "product_name": "3-IN-ONE® Heavy Duty Cleaner Degreaser",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Hydrocarbons, C9-C11, n-alkanes, isoalkanes, cyclics, <2% aromatics",
+        "cas_number": null,
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "2-Butoxyethanol",
+        "cas_number": "111-76-2",
+        "concentration": {
+          "min": 1.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Alcohols, C9-11, ethoxylated",
+        "cas_number": "68439-46-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Orange, sweet, ext.",
+        "cas_number": "8028-48-6",
+        "concentration": {
+          "min": null,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "(R)-p-mentha-1,8-diene",
+        "cas_number": "5989-27-5",
+        "concentration": {
+          "min": null,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Ammonia",
+        "cas_number": "1336-21-6",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H319",
+        "text": "Causes serious eye irritation."
+      },
+      {
+        "code": "H317",
+        "text": "May cause an allergic skin reaction."
+      },
+      {
+        "code": "H411",
+        "text": "Toxic to aquatic life with long lasting effects."
+      },
+      {
+        "code": "H222",
+        "text": "Extremely flammable aerosol."
+      },
+      {
+        "code": "H229",
+        "text": "Pressurised container: May burst if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1950",
+    "revision_date": "2026-02-10"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T22:06:29+00:00"
+}

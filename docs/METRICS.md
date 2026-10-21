@@ -43,7 +43,7 @@ Result: 7 of 9 fields.
 - `call.latency_s` of every result that has a call (`valid` and `invalid`; an `error` has none). It is the time of the successful attempt and excludes retry waits.
 - p50 and p95 by **nearest rank**: sort the n values; the p-th percentile is the value at position ⌈p/100 × n⌉. It is always a real observed time. It is always shown with n; with n = 3, p95 is simply the slowest call.
 - Cloud latency includes OpenRouter's routing and depends on which upstream provider served the call (recorded in each result).
-- **Cached:** the number of local calls where Ollama reused a cached prompt (`details.prompt_cached_tokens > 0`). A cached call is much faster than a cold one (D001: 23 s cold, 3 s cached), so a run with cached calls understates latency.
+- **Cached:** the number of local calls where Ollama took at least half of the prompt from its cache (`details.prompt_cached_tokens >= 0.5 × prompt_tokens`). A cached call is much faster than a cold one (D001: 23 s cold, 3 s cached), so a run with cached calls understates latency. Consecutive documents share the system prompt (about 114 tokens, seen on D033 in the S1-09 bake-off), and Ollama reuses that prefix; that saves almost no time, so it does not count (changed in S1-12; the earlier rule was any cached token).
 - Local timings are from an Apple M4 Pro with Ollama's MLX runner, not a CPU-only laptop (`docs/ISSUES.md` I-004).
 
 ## Cost per 1000 documents

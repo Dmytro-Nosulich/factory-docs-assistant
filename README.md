@@ -16,12 +16,13 @@ cp .env.example .env   # then fill in OPENROUTER_API_KEY
 make run               # extract all 35 stage 1 documents with the cloud model (paid, see below)
 make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
 make metrics           # metrics table of all saved runs (rules: docs/METRICS.md)
+make comparison        # rewrite results/comparison.md from the pinned comparison runs (no model calls)
 make test              # run tests
 make lint              # lint and format check
 ```
 
 ### The full run
-`make run` sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`) to the cloud model, one at a time. One run with `anthropic/claude-haiku-5.5` cost $0.07 and took 90 seconds (first run, 2026-10-21, `results/runs/20261021T140902Z_haiku-5.5_v1/run.json`). It writes `results/runs/<run_id>/`: one `<doc_id>.json` per document with status `valid`, `invalid` (reply not schema-valid) or `error` (call failed), and `run.json` with counts, cost, truncated documents and every failure. Failed documents are saved, not hidden or retried.
+`make run` sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`) to the cloud model, one at a time. One run with `anthropic/claude-haiku-5.5` cost $0.07 and took 83 seconds (2026-10-21, `results/runs/20261021T213726Z_haiku-5.5_v1/run.json`). It writes `results/runs/<run_id>/`: one `<doc_id>.json` per document with status `valid`, `invalid` (reply not schema-valid) or `error` (call failed), and `run.json` with counts, cost, truncated documents and every failure. Failed documents are saved, not hidden or retried.
 
 Budget guard: before each call, the cost recorded in all of `results/` is checked against `budget.stop_at_usd` in `config.toml` ($4); at that point the run stops and lists the remaining documents as `not_run`. Continue a stopped or interrupted run with `uv run python -m factory_docs --resume <run_id>`; it only fills in missing documents.
 
@@ -42,6 +43,6 @@ Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in 
 - `src/factory_docs/`: application code
 - `data/raw/`: source PDFs; `data/manifest.csv`: document list with source and terms
 - `prompts/`: versioned prompts
-- `results/`: model outputs and metrics
+- `results/`: model outputs and metrics; `results/comparison.md`: the model x sampling comparison (S1-12)
 - `scripts/`: helper scripts
 - `tests/`: tests

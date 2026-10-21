@@ -1,0 +1,97 @@
+{
+  "doc_id": "D059",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 24,
+    "pages_total": 24,
+    "truncated": false,
+    "est_tokens": 17267
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792618710-qMzvMnD167T9Nh4JBTI8",
+    "prompt_tokens": 37516,
+    "completion_tokens": 505,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0040041,
+    "latency_s": 3.445,
+    "total_s": 3.445,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.\",\"language\":\"fr\",\"signal_word\":\"danger\",\"physical_state\":\"solid\",\"components\":[{\"name\":\"Diisocyanate de 4,4'-méthylènediphényle\",\"cas_number\":\"101-68-8\",\"concentration\":{\"min\":1,\"max\":2,\"unit\":\"percent\"}},{\"name\":\"Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle\",\"cas_number\":\"915-68-7\",\"concentration\":{\"min\":null,\"max\":0.2,\"unit\":\"percent\"}},{\"name\":\"Chlorure de tosyle\",\"cas_number\":\"98-59-9\",\"concentration\":{\"min\":null,\"max\":0.02,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H315\",\"text\":\"Provoque une irritation cutanée.\"},{\"code\":\"H334\",\"text\":\"Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation.\"},{\"code\":\"H317\",\"text\":\"Peut provoquer une allergie cutanée.\"},{\"code\":\"H351\",\"text\":\"Susceptible de provoquer le cancer.\"}],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2026-02-26\"}",
+  "output": {
+    "product_name": "3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.",
+    "language": "fr",
+    "signal_word": "danger",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "Diisocyanate de 4,4'-méthylènediphényle",
+        "cas_number": "101-68-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle",
+        "cas_number": "915-68-7",
+        "concentration": {
+          "min": null,
+          "max": 0.2,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Chlorure de tosyle",
+        "cas_number": "98-59-9",
+        "concentration": {
+          "min": null,
+          "max": 0.02,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Provoque une irritation cutanée."
+      },
+      {
+        "code": "H334",
+        "text": "Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation."
+      },
+      {
+        "code": "H317",
+        "text": "Peut provoquer une allergie cutanée."
+      },
+      {
+        "code": "H351",
+        "text": "Susceptible de provoquer le cancer."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-02-26"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:38:30+00:00"
+}

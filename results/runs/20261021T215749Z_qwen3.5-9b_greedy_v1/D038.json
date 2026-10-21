@@ -1,0 +1,79 @@
+{
+  "doc_id": "D038",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 4,
+    "pages_total": 4,
+    "truncated": false,
+    "est_tokens": 3079
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 5715,
+    "completion_tokens": 209,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 16.359,
+    "total_s": 16.359,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.008,
+      "prompt_eval_s": 13.285,
+      "eval_s": 3.061,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Stickstoff, verdichtet\",\n  \"language\": \"de\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"gas\",\n  \"components\": [\n    {\n      \"name\": \"Stickstoff\",\n      \"cas_number\": \"7727-37-9\",\n      \"concentration\": {\n        \"min\": 99.5,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H280\",\n      \"text\": \"Enthält Gas unter Druck; kann bei Erhitzen explodieren\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1066\",\n  \"revision_date\": \"2018-01-30\"\n}",
+  "output": {
+    "product_name": "Stickstoff, verdichtet",
+    "language": "de",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Stickstoff",
+        "cas_number": "7727-37-9",
+        "concentration": {
+          "min": 99.5,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Enthält Gas unter Druck; kann bei Erhitzen explodieren"
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2018-01-30"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T22:04:40+00:00"
+}

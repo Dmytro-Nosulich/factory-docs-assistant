@@ -1,0 +1,159 @@
+{
+  "doc_id": "D055",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 13,
+    "pages_total": 13,
+    "truncated": false,
+    "est_tokens": 7615
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 11617,
+    "completion_tokens": 988,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 41.776,
+    "total_s": 41.776,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 27.613,
+      "eval_s": 14.156,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"XF Premium S 5w30\",\n  \"language\": \"en\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED\",\n      \"cas_number\": \"72623-87-1\",\n      \"concentration\": {\n        \"min\": 70,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC\",\n      \"cas_number\": \"64742-54-7\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Reaction products of diphenylamine with nonene, branched\",\n      \"cas_number\": \"36878-20-3\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED\",\n      \"cas_number\": \"72623-86-0\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC\",\n      \"cas_number\": \"64742-56-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC\",\n      \"cas_number\": \"64742-55-8\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Distillates (petroleum), solvent-dewaxed heavy paraffinic\",\n      \"cas_number\": \"64742-65-0\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX\",\n      \"cas_number\": \"457-32-0\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 1,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)-\",\n      \"cas_number\": \"91273-04-0\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 1,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 1,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 200,\n    \"max\": null,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2026-10-06\"\n}",
+  "output": {
+    "product_name": "XF Premium S 5w30",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED",
+        "cas_number": "72623-87-1",
+        "concentration": {
+          "min": 70.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC",
+        "cas_number": "64742-54-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Reaction products of diphenylamine with nonene, branched",
+        "cas_number": "36878-20-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED",
+        "cas_number": "72623-86-0",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC",
+        "cas_number": "64742-56-9",
+        "concentration": {
+          "min": null,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC",
+        "cas_number": "64742-55-8",
+        "concentration": {
+          "min": null,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Distillates (petroleum), solvent-dewaxed heavy paraffinic",
+        "cas_number": "64742-65-0",
+        "concentration": {
+          "min": null,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX",
+        "cas_number": "457-32-0",
+        "concentration": {
+          "min": null,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)-",
+        "cas_number": "91273-04-0",
+        "concentration": {
+          "min": null,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.",
+        "cas_number": null,
+        "concentration": {
+          "min": null,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 200.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-10-06"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:51:15+00:00"
+}
