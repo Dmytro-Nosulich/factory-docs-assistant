@@ -1,0 +1,83 @@
+{
+  "doc_id": "D035",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 9,
+    "pages_total": 9,
+    "truncated": false,
+    "est_tokens": 4938
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 10455,
+    "completion_tokens": 303,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 29.084,
+    "total_s": 29.084,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 121,
+      "load_s": 0.001,
+      "prompt_eval_s": 24.646,
+      "eval_s": 4.43,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"STIHL Спеціальний засіб для чистки Varioclean\",\n  \"language\": \"uk\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Динатрій метасилікат\",\n      \"cas_number\": \"10213-79-3\",\n      \"concentration\": {\n        \"min\": 15,\n        \"max\": 20,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts\",\n      \"cas_number\": \"147170-44-3\",\n      \"concentration\": {\n        \"min\": 4,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": \"UN1719\",\n  \"revision_date\": \"2022-02-24\"\n}",
+  "output": {
+    "product_name": "STIHL Спеціальний засіб для чистки Varioclean",
+    "language": "uk",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Динатрій метасилікат",
+        "cas_number": "10213-79-3",
+        "concentration": {
+          "min": 15.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts",
+        "cas_number": "147170-44-3",
+        "concentration": {
+          "min": 4.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": "UN1719",
+    "revision_date": "2022-02-24"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:44:28+00:00"
+}

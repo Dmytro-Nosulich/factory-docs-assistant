@@ -1,0 +1,114 @@
+{
+  "doc_id": "D063",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 5297
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 9517,
+    "completion_tokens": 520,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 29.815,
+    "total_s": 29.815,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 22.317,
+      "eval_s": 7.489,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"8461\",\n  \"language\": \"nl\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"destillaten (aardolie), met solvent van was ontdane paraffinehoudende\",\n      \"cas_number\": \"64742-65-0\",\n      \"concentration\": {\n        \"min\": 62.0,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"residu-oliën (aardolie), met solvent van was ontdaan\",\n      \"cas_number\": \"64742-62-7\",\n      \"concentration\": {\n        \"min\": 27.0,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"lithium 12-hydroxystearate\",\n      \"cas_number\": \"7620-77-1\",\n      \"concentration\": {\n        \"min\": 5.0,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"zinkoxide\",\n      \"cas_number\": \"1314-13-2\",\n      \"concentration\": {\n        \"min\": 4.0,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"titaniumdioxide\",\n      \"cas_number\": \"13463-67-7\",\n      \"concentration\": {\n        \"min\": 1.0,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 185.0,\n    \"max\": 185.0,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": \"UN3077\",\n  \"revision_date\": \"2025-06-26\"\n}",
+  "output": {
+    "product_name": "8461",
+    "language": "nl",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "destillaten (aardolie), met solvent van was ontdane paraffinehoudende",
+        "cas_number": "64742-65-0",
+        "concentration": {
+          "min": 62.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "residu-oliën (aardolie), met solvent van was ontdaan",
+        "cas_number": "64742-62-7",
+        "concentration": {
+          "min": 27.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "lithium 12-hydroxystearate",
+        "cas_number": "7620-77-1",
+        "concentration": {
+          "min": 5.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "zinkoxide",
+        "cas_number": "1314-13-2",
+        "concentration": {
+          "min": 4.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "titaniumdioxide",
+        "cas_number": "13463-67-7",
+        "concentration": {
+          "min": 1.0,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 185.0,
+      "max": 185.0,
+      "unit": "celsius"
+    },
+    "un_number": "UN3077",
+    "revision_date": "2025-06-26"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:55:35+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "doc_id": "D063",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 5297
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792618720-CtY0r372NJI9KSRKLrZ5",
+    "prompt_tokens": 15860,
+    "completion_tokens": 460,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.001816,
+    "latency_s": 2.382,
+    "total_s": 2.382,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"8461\",\"language\":\"nl\",\"signal_word\":\"none\",\"physical_state\":\"solid\",\"components\":[{\"name\":\"destillaten (aardolie), met solvent van was ontdane paraffinehoudende\",\"cas_number\":\"64742-65-0\",\"concentration\":{\"min\":62.0,\"max\":62.0,\"unit\":\"percent\"}},{\"name\":\"residu-oliën (aardolie), met solvent van was ontdaan\",\"cas_number\":\"64742-62-7\",\"concentration\":{\"min\":27.0,\"max\":27.0,\"unit\":\"percent\"}},{\"name\":\"lithium 12-hydroxystearate\",\"cas_number\":\"7620-77-1\",\"concentration\":{\"min\":5.0,\"max\":5.0,\"unit\":\"percent\"}},{\"name\":\"zinkoxide\",\"cas_number\":\"1314-13-2\",\"concentration\":{\"min\":4.0,\"max\":4.0,\"unit\":\"percent\"}},{\"name\":\"titaniumdioxide\",\"cas_number\":\"13463-67-7\",\"concentration\":{\"min\":1.0,\"max\":1.0,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H411\",\"text\":\"Giftig voor in het water levende organismen, met langdurige gevolgen.\"}],\"flash_point\":{\"min\":185.0,\"max\":185.0,\"unit\":\"celsius\"},\"un_number\":\"UN3077\",\"revision_date\":\"2025-12-05\"}",
+  "output": {
+    "product_name": "8461",
+    "language": "nl",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "destillaten (aardolie), met solvent van was ontdane paraffinehoudende",
+        "cas_number": "64742-65-0",
+        "concentration": {
+          "min": 62.0,
+          "max": 62.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "residu-oliën (aardolie), met solvent van was ontdaan",
+        "cas_number": "64742-62-7",
+        "concentration": {
+          "min": 27.0,
+          "max": 27.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "lithium 12-hydroxystearate",
+        "cas_number": "7620-77-1",
+        "concentration": {
+          "min": 5.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "zinkoxide",
+        "cas_number": "1314-13-2",
+        "concentration": {
+          "min": 4.0,
+          "max": 4.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "titaniumdioxide",
+        "cas_number": "13463-67-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H411",
+        "text": "Giftig voor in het water levende organismen, met langdurige gevolgen."
+      }
+    ],
+    "flash_point": {
+      "min": 185.0,
+      "max": 185.0,
+      "unit": "celsius"
+    },
+    "un_number": "UN3077",
+    "revision_date": "2025-12-05"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:38:40+00:00"
+}

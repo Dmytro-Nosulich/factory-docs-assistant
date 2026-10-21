@@ -1,0 +1,79 @@
+{
+  "doc_id": "D002",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 19,
+    "pages_total": 19,
+    "truncated": false,
+    "est_tokens": 8717
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 14846,
+    "completion_tokens": 215,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 39.438,
+    "total_s": 39.438,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.008,
+      "prompt_eval_s": 36.202,
+      "eval_s": 3.22,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Nitrogen, komprimerad\",\n  \"language\": \"se\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"gas\",\n  \"components\": [\n    {\n      \"name\": \"Nitrogen\",\n      \"cas_number\": \"7727-37-9\",\n      \"concentration\": {\n        \"min\": 100,\n        \"max\": 100,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H280\",\n      \"text\": \"Innehåller gas under tryck. Kan explodera vid uppvärmning.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1066\",\n  \"revision_date\": \"2023-09-18\"\n}",
+  "output": {
+    "product_name": "Nitrogen, komprimerad",
+    "language": "se",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Nitrogen",
+        "cas_number": "7727-37-9",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Innehåller gas under tryck. Kan explodera vid uppvärmning."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2023-09-18"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:58:11+00:00"
+}

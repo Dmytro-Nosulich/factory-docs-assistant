@@ -1,0 +1,74 @@
+{
+  "doc_id": "D056",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 7548
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 10195,
+    "completion_tokens": 179,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 26.977,
+    "total_s": 26.977,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 24.223,
+      "eval_s": 2.746,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"CRC® Brakleen® Brake Parts Cleaner, 55 Gal\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Ethene, 1,1,2,2-tetrachloro-\",\n      \"cas_number\": \"127-18-4\",\n      \"concentration\": {\n        \"min\": 80,\n        \"max\": 100,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": \"UN1897\",\n  \"revision_date\": null\n}",
+  "output": {
+    "product_name": "CRC® Brakleen® Brake Parts Cleaner, 55 Gal",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Ethene, 1,1,2,2-tetrachloro-",
+        "cas_number": "127-18-4",
+        "concentration": {
+          "min": 80.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": "UN1897",
+    "revision_date": null
+  },
+  "errors": [],
+  "created_at": "2026-10-21T22:11:02+00:00"
+}

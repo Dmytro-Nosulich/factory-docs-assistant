@@ -1,0 +1,82 @@
+{
+  "run_id": "20261021T213849Z_qwen3.5-9b_default_v1",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "max_input_tokens": 20000,
+  "docs": [
+    "D001",
+    "D002",
+    "D003",
+    "D006",
+    "D007",
+    "D008",
+    "D010",
+    "D032",
+    "D033",
+    "D034",
+    "D035",
+    "D036",
+    "D037",
+    "D038",
+    "D039",
+    "D046",
+    "D047",
+    "D048",
+    "D049",
+    "D050",
+    "D051",
+    "D052",
+    "D053",
+    "D054",
+    "D055",
+    "D056",
+    "D057",
+    "D058",
+    "D059",
+    "D060",
+    "D061",
+    "D062",
+    "D063",
+    "D064",
+    "D065"
+  ],
+  "started_at": "2026-10-21T21:38:49+00:00",
+  "finished_at": "2026-10-21T21:57:49+00:00",
+  "counts": {
+    "valid": 35,
+    "invalid": 0,
+    "error": 0,
+    "not_run": 0
+  },
+  "cost_usd": 0.0,
+  "spent_total_usd": 0.145369,
+  "budget_stop_at_usd": 4.0,
+  "tokens": {
+    "prompt": 389901,
+    "completion": 13207
+  },
+  "truncated": [
+    "D003"
+  ],
+  "failures": [],
+  "not_run": [],
+  "stopped_by_budget": false
+}

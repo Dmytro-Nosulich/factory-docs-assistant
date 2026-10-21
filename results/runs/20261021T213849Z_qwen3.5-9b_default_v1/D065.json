@@ -1,0 +1,188 @@
+{
+  "doc_id": "D065",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 22,
+    "pages_total": 22,
+    "truncated": false,
+    "est_tokens": 11692
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 18143,
+    "completion_tokens": 1142,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 61.932,
+    "total_s": 61.932,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 44.69,
+      "eval_s": 17.23,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"F 80 DESENGRASANTE\",\n  \"language\": \"es\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"gas\",\n  \"components\": [\n    {\n      \"name\": \"HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 2,\n        \"max\": 25,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"PROPANO\",\n      \"cas_number\": \"74-98-6\",\n      \"concentration\": {\n        \"min\": 12.5,\n        \"max\": 14,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"BUTANO\",\n      \"cas_number\": \"106-97-8\",\n      \"concentration\": {\n        \"min\": 10.5,\n        \"max\": 12,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"(R)-P-MENTHA-1,8-DIENE\",\n      \"cas_number\": \"5989-27-5\",\n      \"concentration\": {\n        \"min\": 8.5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"ISOBUTANO\",\n      \"cas_number\": \"75-28-5\",\n      \"concentration\": {\n        \"min\": 4,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Alcoholes C12-16, etoxilados\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 3,\n        \"max\": 4,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Alcoli, da cocco, etossilato (>=2,5 < 5 EO)\",\n      \"cas_number\": \"68551-12-2\",\n      \"concentration\": {\n        \"min\": 3,\n        \"max\": 4,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE\",\n      \"cas_number\": \"61791-13-7\",\n      \"concentration\": {\n        \"min\": 3,\n        \"max\": 4,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"AMIDAS, COCO\",\n      \"cas_number\": \"90194-42-6\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 2,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"MORFOLINA\",\n      \"cas_number\": \"110-91-8\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H222\",\n      \"text\": \"Aerosol extremadamente inflamable.\"\n    },\n    {\n      \"code\": \"H229\",\n      \"text\": \"Recipiente a presión: puede reventar si se calienta.\"\n    },\n    {\n      \"code\": \"H372\",\n      \"text\": \"Provoca daños en los órganos tras exposiciones prolongadas o repetidas.\"\n    },\n    {\n      \"code\": \"H318\",\n      \"text\": \"Provoca lesiones oculares graves.\"\n    },\n    {\n      \"code\": \"H315\",\n      \"text\": \"Provoca irritación cutánea.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"Puede provocar una reacción alérgica en la piel.\"\n    },\n    {\n      \"code\": \"H336\",\n      \"text\": \"Puede provocar somnolencia o vértigo.\"\n    },\n    {\n      \"code\": \"H411\",\n      \"text\": \"Tóxico para los organismos acuáticos, con efectos nocivos duraderos.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1950\",\n  \"revision_date\": \"2022-11-08\"\n}",
+  "output": {
+    "product_name": "F 80 DESENGRASANTE",
+    "language": "es",
+    "signal_word": "danger",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS",
+        "cas_number": null,
+        "concentration": {
+          "min": 2.0,
+          "max": 25.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "PROPANO",
+        "cas_number": "74-98-6",
+        "concentration": {
+          "min": 12.5,
+          "max": 14.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "BUTANO",
+        "cas_number": "106-97-8",
+        "concentration": {
+          "min": 10.5,
+          "max": 12.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "(R)-P-MENTHA-1,8-DIENE",
+        "cas_number": "5989-27-5",
+        "concentration": {
+          "min": 8.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "ISOBUTANO",
+        "cas_number": "75-28-5",
+        "concentration": {
+          "min": 4.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Alcoholes C12-16, etoxilados",
+        "cas_number": null,
+        "concentration": {
+          "min": 3.0,
+          "max": 4.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)",
+        "cas_number": "68551-12-2",
+        "concentration": {
+          "min": 3.0,
+          "max": 4.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE",
+        "cas_number": "61791-13-7",
+        "concentration": {
+          "min": 3.0,
+          "max": 4.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "AMIDAS, COCO",
+        "cas_number": "90194-42-6",
+        "concentration": {
+          "min": null,
+          "max": 2.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "MORFOLINA",
+        "cas_number": "110-91-8",
+        "concentration": {
+          "min": null,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H222",
+        "text": "Aerosol extremadamente inflamable."
+      },
+      {
+        "code": "H229",
+        "text": "Recipiente a presión: puede reventar si se calienta."
+      },
+      {
+        "code": "H372",
+        "text": "Provoca daños en los órganos tras exposiciones prolongadas o repetidas."
+      },
+      {
+        "code": "H318",
+        "text": "Provoca lesiones oculares graves."
+      },
+      {
+        "code": "H315",
+        "text": "Provoca irritación cutánea."
+      },
+      {
+        "code": "H317",
+        "text": "Puede provocar una reacción alérgica en la piel."
+      },
+      {
+        "code": "H336",
+        "text": "Puede provocar somnolencia o vértigo."
+      },
+      {
+        "code": "H411",
+        "text": "Tóxico para los organismos acuáticos, con efectos nocivos duraderos."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1950",
+    "revision_date": "2022-11-08"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:56:47+00:00"
+}

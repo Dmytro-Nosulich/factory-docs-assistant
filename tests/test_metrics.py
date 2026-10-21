@@ -203,11 +203,14 @@ def test_run_metrics_matches_hand_computed_values(tmp_path):
 def test_local_run_costs_nothing_and_counts_cached_prompts(tmp_path):
     cached = record("G1", "valid", OUTPUT)
     cached["call"]["details"] = {"prompt_cached_tokens": 900}
-    run_dir = write_run(tmp_path, "qwen3.5-9b", "ollama", [cached, record("G2", "valid", OUTPUT)])
+    prefix_only = record("G3", "valid", OUTPUT)  # only the shared system prompt was cached
+    prefix_only["call"]["details"] = {"prompt_cached_tokens": 114}
+    records = [cached, record("G2", "valid", OUTPUT), prefix_only]
+    run_dir = write_run(tmp_path, "qwen3.5-9b", "ollama", records)
 
     row = run_metrics(run_dir, load_config(), tmp_path)
 
     assert row["golden_docs"] == 0
-    assert row["latency"]["cached"] == 1
+    assert row["latency"]["cached"] == 1  # 900/1000 counts, 114/1000 does not
     assert row["cost_per_1000"]["priced"] == 0.0
     assert "0 (local)" in format_tables([row])

@@ -1,0 +1,83 @@
+{
+  "doc_id": "D006",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 3890
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8432,
+    "completion_tokens": 253,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 23.331,
+    "total_s": 23.331,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 19.608,
+      "eval_s": 3.715,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"STIHL Універсальний засіб для очищення Profi CP 200\",\n  \"language\": \"uk\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"sodium-p-cumene sulphonate\",\n      \"cas_number\": \"15763-76-5\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Phenol polyethoxilate\",\n      \"cas_number\": \"9004-78-8\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2020-08-06\"\n}",
+  "output": {
+    "product_name": "STIHL Універсальний засіб для очищення Profi CP 200",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sodium-p-cumene sulphonate",
+        "cas_number": "15763-76-5",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Phenol polyethoxilate",
+        "cas_number": "9004-78-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2020-08-06"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T21:41:19+00:00"
+}
