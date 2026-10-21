@@ -1,0 +1,51 @@
+{
+  "doc_id": "D033",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 8,
+    "pages_total": 8,
+    "truncated": false,
+    "est_tokens": 3965
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792591762-tBgIDpwN6YWogo1dyTTT",
+    "prompt_tokens": 13520,
+    "completion_tokens": 90,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.001397,
+    "latency_s": 1.88,
+    "total_s": 1.88,
+    "attempts": 1
+  },
+  "raw": "{\"product_name\":\"PressurePro Systempflege RM 110\",\"language\":\"de\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[],\"hazard_statements\":[],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2026-05-11\"}",
+  "output": {
+    "product_name": "PressurePro Systempflege RM 110",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-05-11"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T14:09:22+00:00"
+}

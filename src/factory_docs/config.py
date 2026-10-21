@@ -28,6 +28,10 @@ class ExtractionSettings(Settings):
     max_input_tokens: int = Field(gt=0)
 
 
+class BudgetSettings(Settings):
+    stop_at_usd: float = Field(gt=0)
+
+
 class OpenRouterSettings(Settings):
     base_url: str
     timeout_s: float = Field(gt=0)
@@ -44,6 +48,7 @@ class ModelConfig(Settings):
 
 class Config(Settings):
     extraction: ExtractionSettings
+    budget: BudgetSettings
     openrouter: OpenRouterSettings
     models: dict[str, ModelConfig]
 

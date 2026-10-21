@@ -1,0 +1,82 @@
+{
+  "doc_id": "D003",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 38,
+    "pages_total": 45,
+    "truncated": true,
+    "est_tokens": 19995
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1792591746-cpuqTJjr93YJaOhlBWiv",
+    "prompt_tokens": 49477,
+    "completion_tokens": 312,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0051037,
+    "latency_s": 2.611,
+    "total_s": 2.611,
+    "attempts": 1
+  },
+  "raw": "{\"product_name\":\"Acetone, Borvida B™ Acetone, Borvida C™ Acetone\",\"language\":\"pl\",\"signal_word\":\"danger\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"aceton\",\"cas_number\":\"67-64-1\",\"concentration\":{\"min\":99,\"max\":null,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H225\",\"text\":\"Wysoce łatwopalna ciecz i pary.\"},{\"code\":\"H319\",\"text\":\"Działa drażniąco na oczy.\"},{\"code\":\"H336\",\"text\":\"Może wywoływać uczucie senności lub zawroty głowy.\"},{\"code\":\"EUH066\",\"text\":\"Powtarzające się narażenie może powodować wysuszanie lub pękanie skóry.\"}],\"flash_point\":{\"min\":-17,\"max\":-17,\"unit\":\"celsius\"},\"un_number\":\"UN1090\",\"revision_date\":\"2024-08-07\"}",
+  "output": {
+    "product_name": "Acetone, Borvida B™ Acetone, Borvida C™ Acetone",
+    "language": "pl",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "aceton",
+        "cas_number": "67-64-1",
+        "concentration": {
+          "min": 99.0,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H225",
+        "text": "Wysoce łatwopalna ciecz i pary."
+      },
+      {
+        "code": "H319",
+        "text": "Działa drażniąco na oczy."
+      },
+      {
+        "code": "H336",
+        "text": "Może wywoływać uczucie senności lub zawroty głowy."
+      },
+      {
+        "code": "EUH066",
+        "text": "Powtarzające się narażenie może powodować wysuszanie lub pękanie skóry."
+      }
+    ],
+    "flash_point": {
+      "min": -17.0,
+      "max": -17.0,
+      "unit": "celsius"
+    },
+    "un_number": "UN1090",
+    "revision_date": "2024-08-07"
+  },
+  "errors": [],
+  "created_at": "2026-10-21T14:09:06+00:00"
+}
