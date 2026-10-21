@@ -30,13 +30,14 @@ max_tokens = 8000
 # Local models (decision 3b): sized for a 32 GB laptop, CPU only. Default Ollama tags; on an
 # Apple Silicon Mac they resolve to nvfp4 builds run by the MLX runner (docs/ISSUES.md I-004).
 # num_ctx must hold the longest prompt (D003, about 50k tokens) plus num_predict.
-# Sampling (temperature, top_p) stays at the model defaults until S1-10.
+# `sampling` names the [sampling] table used when --sampling is not given.
 [models."gemma4-e4b"]
 client = "ollama"
 slug = "gemma4:e4b"
 num_ctx = 65536
 num_predict = 4000
 think = false
+sampling = "default"
 
 [models."gemma4-12b"]
 client = "ollama"
@@ -44,6 +45,7 @@ slug = "gemma4:12b"
 num_ctx = 65536
 num_predict = 4000
 think = false
+sampling = "default"
 
 [models."qwen3.5-9b"]
 client = "ollama"
@@ -51,4 +53,15 @@ slug = "qwen3.5:9b"
 num_ctx = 65536
 num_predict = 4000
 think = false
+sampling = "default"
 
+# Sampling configurations (S1-10). Local (Ollama) models only: the cloud model does not accept
+# temperature/top_p (decision 11, docs/ISSUES.md I-003). Other Modelfile options (qwen3.5:9b:
+# top_k 20, presence_penalty 1.5) stay at the model's defaults.
+[sampling."default"]       # = qwen3.5:9b Modelfile values, what the S1-09 bake-off ran at
+temperature = 1.0
+top_p = 0.95
+
+[sampling."greedy"]        # deterministic: always the most likely token
+temperature = 0.0
+top_p = 1.0

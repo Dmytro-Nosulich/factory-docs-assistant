@@ -17,7 +17,7 @@ from collections.abc import Callable
 from datetime import UTC, datetime
 from pathlib import Path
 
-from factory_docs.config import ROOT, Config
+from factory_docs.config import ROOT, Config, run_params
 from factory_docs.extract import TEXTS, extract_document
 from factory_docs.models import ChatClient
 from factory_docs.prompts import load_prompt
@@ -34,8 +34,9 @@ def stage1_doc_ids(manifest: Path = MANIFEST) -> list[str]:
         return [r["id"] for r in csv.DictReader(f) if "1" in r["stage"].split(",")]
 
 
-def new_run_id(model_key: str, prompt_version: str) -> str:
-    return f"{datetime.now(UTC):%Y%m%dT%H%M%SZ}_{model_key}_{prompt_version}"
+def new_run_id(model_key: str, prompt_version: str, sampling: str | None = None) -> str:
+    parts = [f"{datetime.now(UTC):%Y%m%dT%H%M%SZ}", model_key, sampling, prompt_version]
+    return "_".join(p for p in parts if p)
 
 
 def record_cost(record: dict) -> float:
@@ -80,10 +81,12 @@ def run_all(
     spent_before: float,
     texts_dir: Path = TEXTS,
     on_result: Callable[[dict], None] = lambda record: None,
+    sampling: str | None = None,
 ) -> dict:
     """Extract every document that has no result in run_dir yet; return the summary.
 
     spent_before is the cost already recorded under results/, including this run_dir.
+    sampling names the [sampling] table the client was built with (None: model default).
     """
     run_dir.mkdir(parents=True, exist_ok=True)
     summary_path = run_dir / SUMMARY
@@ -102,17 +105,25 @@ def run_all(
             stopped_by_budget = True
             break
         try:
-            record = extract_document(doc_id, client, model_key, config, texts_dir)
+            record = extract_document(doc_id, client, model_key, config, texts_dir, sampling)
         except Exception as e:  # one bad document must not stop the run
             record = failed_record(doc_id, model_key, e)
         path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         spent += record_cost(record)
         on_result(record)
-        write_summary(run_dir, doc_ids, model_key, config, started_at, None, spent, False)
+        write_summary(run_dir, doc_ids, model_key, config, started_at, None, spent, False, sampling)
 
     finished_at = datetime.now(UTC).isoformat(timespec="seconds")
     return write_summary(
-        run_dir, doc_ids, model_key, config, started_at, finished_at, spent, stopped_by_budget
+        run_dir,
+        doc_ids,
+        model_key,
+        config,
+        started_at,
+        finished_at,
+        spent,
+        stopped_by_budget,
+        sampling,
     )
 
 
@@ -125,6 +136,7 @@ def write_summary(
     finished_at: str | None,
     spent_total: float,
     stopped_by_budget: bool,
+    sampling: str | None = None,
 ) -> dict:
     """Rebuild run.json from the result files; finished_at is None while the run is going."""
     model = config.models[model_key]
@@ -141,7 +153,7 @@ def write_summary(
         "run_id": run_dir.name,
         "model": {"key": model_key, "client": model.client, "slug": model.slug},
         "prompt": {"name": prompt.name, "version": prompt.version, "sha256": prompt.sha256},
-        "params": model.model_dump(exclude={"client", "slug"}),
+        "params": run_params(config, model_key, sampling),
         "max_input_tokens": settings.max_input_tokens,
         "docs": doc_ids,
         "started_at": started_at,

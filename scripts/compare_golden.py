@@ -28,7 +28,8 @@ def load_golden(doc_id: str) -> dict | None:
 
 def compare_run(run_id: str) -> None:
     summary = json.loads((RUNS / run_id / "run.json").read_text(encoding="utf-8"))
-    print(f"\n{run_id} ({summary['model']['slug']})")
+    sampling = (summary["params"].get("sampling") or {}).get("name")
+    print(f"\n{run_id} ({summary['model']['slug']}" + (f", {sampling})" if sampling else ")"))
     total_match = total_fields = 0
     for doc_id in summary["docs"]:
         golden = load_golden(doc_id)

@@ -43,10 +43,11 @@ class FakeClient:
         )
 
 
-def run(tmp_path, reply):
+def run(tmp_path, reply, model_key="haiku-5.5", sampling=None):
     (tmp_path / "D999.txt").write_text("[[page 1]]\nExample Cleaner SDS\n", encoding="utf-8")
     client = FakeClient(reply)
-    return extract_document("D999", client, "haiku-5.5", load_config(), texts_dir=tmp_path), client
+    record = extract_document("D999", client, model_key, load_config(), tmp_path, sampling)
+    return record, client
 
 
 def test_valid_reply(tmp_path):
@@ -59,6 +60,13 @@ def test_valid_reply(tmp_path):
     assert record["params"] == {"reasoning_effort": "none", "max_tokens": 8000}
     assert (record["input"]["pages_sent"], record["input"]["truncated"]) == (1, False)
     assert "Example Cleaner SDS" in client.messages[1]["content"]
+
+
+def test_local_model_record_logs_sampling(tmp_path):
+    record, _ = run(tmp_path, json.dumps(VALID), "qwen3.5-9b", "greedy")
+    assert record["params"]["sampling"] == {"name": "greedy", "temperature": 0.0, "top_p": 1.0}
+    record, _ = run(tmp_path, json.dumps(VALID), "qwen3.5-9b")  # the model's default
+    assert record["params"]["sampling"]["name"] == "default"
 
 
 def test_schema_invalid_reply(tmp_path):

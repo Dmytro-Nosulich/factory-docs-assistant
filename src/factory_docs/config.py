@@ -1,7 +1,7 @@
 """Run configuration (config.toml) and secrets (.env), S1-07.
 
-config.toml holds everything that changes a run: prompt version, model slugs, timeouts and
-retries. Keys are never in it; they come from the environment or from .env.
+config.toml holds everything that changes a run: prompt version, model slugs, sampling,
+timeouts and retries. Keys are never in it; they come from the environment or from .env.
 """
 
 import os
@@ -9,7 +9,7 @@ import tomllib
 from pathlib import Path
 from typing import Annotated, Literal
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, model_validator
 
 ROOT = Path(__file__).resolve().parents[2]
 CONFIG = ROOT / "config.toml"
@@ -59,6 +59,12 @@ class OllamaModel(Settings):
     num_ctx: int = Field(gt=0)  # context window; required, the server default is too small
     num_predict: int = Field(gt=0)  # max output tokens
     think: bool = False
+    sampling: str  # [sampling] table used when no --sampling is given, S1-10
+
+
+class SamplingConfig(Settings):
+    temperature: float = Field(ge=0, le=2)
+    top_p: float = Field(gt=0, le=1)
 
 
 # The `client` field picks the model type, like an enum with associated values.
@@ -71,11 +77,49 @@ class Config(Settings):
     openrouter: OpenRouterSettings
     ollama: OllamaSettings
     models: dict[str, ModelConfig]
+    sampling: dict[str, SamplingConfig]
+
+    @model_validator(mode="after")
+    def default_sampling_exists(self) -> "Config":
+        for key, model in self.models.items():
+            if isinstance(model, OllamaModel) and model.sampling not in self.sampling:
+                raise ValueError(f"model {key!r}: no [sampling.{model.sampling!r}] table")
+        return self
 
 
 def load_config(path: Path = CONFIG) -> Config:
     with path.open("rb") as f:
         return Config.model_validate(tomllib.load(f))
+
+
+def resolve_sampling(
+    config: Config, model_key: str, name: str | None = None
+) -> tuple[str, SamplingConfig] | None:
+    """The sampling configuration a run uses: `name`, else the model's default.
+
+    None for a cloud model, which takes no temperature/top_p (docs/ISSUES.md I-003).
+    """
+    model = config.models[model_key]
+    if not isinstance(model, OllamaModel):
+        if name is not None:
+            raise ValueError(
+                f"model {model_key!r} does not accept sampling parameters (docs/ISSUES.md I-003)"
+            )
+        return None
+    name = name or model.sampling
+    if name not in config.sampling:
+        raise ValueError(f"unknown sampling {name!r}; config.toml has {', '.join(config.sampling)}")
+    return name, config.sampling[name]
+
+
+def run_params(config: Config, model_key: str, sampling: str | None = None) -> dict:
+    """The parameters a run sends, as logged in every result record and run.json."""
+    params = config.models[model_key].model_dump(exclude={"client", "slug", "sampling"})
+    resolved = resolve_sampling(config, model_key, sampling)
+    if resolved:
+        name, values = resolved
+        params["sampling"] = {"name": name, **values.model_dump()}
+    return params
 
 
 def load_env(path: Path = ENV) -> None:

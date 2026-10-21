@@ -1,9 +1,11 @@
 .PHONY: run texts golden-check extract-one test lint format
 
 MODEL ?= haiku-5.5
+SAMPLING ?=
 DOCS ?=
+SAMPLING_ARG = $(if $(SAMPLING),--sampling $(SAMPLING))
 run:
-	uv run python -m factory_docs --model $(MODEL) $(if $(DOCS),--docs $(DOCS))
+	uv run python -m factory_docs --model $(MODEL) $(SAMPLING_ARG) $(if $(DOCS),--docs $(DOCS))
 
 texts:
 	uv run python scripts/extract_texts.py
@@ -13,7 +15,7 @@ golden-check:
 
 DOC ?= D001
 extract-one:
-	uv run python scripts/extract_one.py --doc $(DOC) --model $(MODEL)
+	uv run python scripts/extract_one.py --doc $(DOC) --model $(MODEL) $(SAMPLING_ARG)
 
 test:
 	uv run pytest

@@ -12,7 +12,7 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
-from factory_docs.config import ROOT, Config
+from factory_docs.config import ROOT, Config, run_params
 from factory_docs.golden import format_loc
 from factory_docs.models import ChatClient, ModelCallError
 from factory_docs.pdf_text import cap_pages, estimate_tokens
@@ -40,8 +40,14 @@ def validate_reply(content: str | None) -> tuple[dict | None, list[str]]:
 
 
 def extract_document(
-    doc_id: str, client: ChatClient, model_key: str, config: Config, texts_dir: Path = TEXTS
+    doc_id: str,
+    client: ChatClient,
+    model_key: str,
+    config: Config,
+    texts_dir: Path = TEXTS,
+    sampling: str | None = None,
 ) -> dict:
+    """sampling names the [sampling] table the client was built with (None: model default)."""
     model = config.models[model_key]
     settings = config.extraction
     prompt = load_prompt(settings.prompt, settings.prompt_version)
@@ -55,7 +61,7 @@ def extract_document(
         "status": None,
         "model": {"key": model_key, "client": model.client, "slug": model.slug},
         "prompt": {"name": prompt.name, "version": prompt.version, "sha256": prompt.sha256},
-        "params": model.model_dump(exclude={"client", "slug"}),
+        "params": run_params(config, model_key, sampling),
         "input": {
             "pages_sent": capped.pages_sent,
             "pages_total": capped.pages_total,
