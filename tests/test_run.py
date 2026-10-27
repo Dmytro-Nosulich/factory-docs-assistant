@@ -31,9 +31,10 @@ VALID = {
 class FakeClient:
     """Replies in order: a string is the model's content, an exception is raised."""
 
-    def __init__(self, replies: list[str | Exception], cost: float = 0.01):
+    def __init__(self, replies: list[str | Exception], cost: float = 0.01, digest=None):
         self.replies = list(replies)
         self.cost = cost
+        self.digest = digest
         self.calls = 0
 
     def complete(self, messages, schema):
@@ -54,6 +55,7 @@ class FakeClient:
             latency_s=0.5,
             total_s=0.5,
             attempts=1,
+            model_digest=self.digest,
         )
 
 
@@ -107,6 +109,14 @@ def test_unexpected_exception_is_recorded_and_run_continues(tmp_path):
     record = json.loads((run_dir / "D901.json").read_text(encoding="utf-8"))
     assert record["status"] == "error"
     assert record["errors"][0].startswith("FileNotFoundError")
+    # the failed record still says which configuration it belongs to (S1-16)
+    assert record["model"] == {
+        "key": "haiku-5.5",
+        "client": "openrouter",
+        "slug": "anthropic/claude-haiku-5.5",
+    }
+    assert record["prompt"] == summary["prompt"]
+    assert record["params"] == summary["params"]
     assert summary["counts"]["valid"] == 1
 
 
@@ -141,12 +151,12 @@ def test_resume_fills_only_missing_documents(tmp_path):
     assert summary["counts"] == {"valid": 2, "invalid": 1, "error": 0, "not_run": 0}
 
 
-def test_summary_logs_sampling(tmp_path):
+def test_summary_logs_sampling_and_digest(tmp_path):
     texts = write_texts(tmp_path, ["D901"])
     run_dir = tmp_path / "results" / "runs" / "test-run"
     summary = run_all(
         ["D901"],
-        FakeClient([json.dumps(VALID)]),
+        FakeClient([json.dumps(VALID)], digest="abc123"),
         "qwen3.5-9b",
         config_with_budget(),
         run_dir,
@@ -157,6 +167,7 @@ def test_summary_logs_sampling(tmp_path):
     assert summary["params"]["sampling"] == {"name": "greedy", "temperature": 0.0, "top_p": 1.0}
     record = json.loads((run_dir / "D901.json").read_text(encoding="utf-8"))
     assert record["params"] == summary["params"]
+    assert (record["model"]["digest"], summary["model"]["digests"]) == ("abc123", ["abc123"])
 
 
 def test_run_id_names_model_sampling_and_prompt():
@@ -231,3 +242,13 @@ def test_repair_run_refuses_a_changed_prompt_or_params(tmp_path):
     config.models["haiku-5.5"].max_tokens = 1
     with pytest.raises(RunMismatch, match="parameters"):
         repair_run(run_dir, FakeClient([]), config, 0.0, texts)
+
+
+def test_repair_run_accepts_params_saved_before_s1_16(tmp_path):
+    run_dir, texts = saved_before_repair(tmp_path)
+    summary = json.loads((run_dir / SUMMARY).read_text(encoding="utf-8"))
+    del summary["params"]["sampling"]  # cloud runs before S1-16 had no sampling key
+    (run_dir / SUMMARY).write_text(json.dumps(summary), encoding="utf-8")
+    client = FakeClient([json.dumps(VALID)])
+    assert repair_run(run_dir, client, config_with_budget(), 0.0, texts)["final_counts"]
+    assert client.calls == 1

@@ -35,6 +35,7 @@ class ModelResponse:
     total_s: float  # all attempts, including backoff waits
     attempts: int
     details: dict | None = None  # client-specific extras, e.g. Ollama's timing breakdown
+    model_digest: str | None = None  # exact local build behind the tag (Ollama), S1-16
 
 
 class ChatClient(Protocol):

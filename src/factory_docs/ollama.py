@@ -32,6 +32,26 @@ class OllamaClient:
         self.http = httpx.Client(
             base_url=settings.base_url, timeout=settings.timeout_s, transport=transport
         )
+        self._digest: str | None = None
+        self._digest_read = False
+
+    def model_digest(self) -> str | None:
+        """Digest of the local build behind the tag (GET /api/tags), read once per client.
+
+        A tag can point to another build after `ollama pull`, so the digest pins the model.
+        None when it cannot be read: logging must never fail an extraction (S1-16).
+        """
+        if not self._digest_read:
+            self._digest_read = True
+            names = {self.model.slug, f"{self.model.slug}:latest"}
+            try:
+                r = self.http.get("/api/tags")
+                r.raise_for_status()
+                models = r.json()["models"]
+                self._digest = next((m["digest"] for m in models if m["name"] in names), None)
+            except (httpx.HTTPError, ValueError, KeyError, TypeError):
+                self._digest = None
+        return self._digest
 
     def close(self) -> None:
         self.http.close()
@@ -59,7 +79,7 @@ class OllamaClient:
             lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep
         )
         check_context(data, self.model, attempts)
-        return parse_response(data, latency_s, total_s, attempts)
+        return parse_response(data, latency_s, total_s, attempts, self.model_digest())
 
     def _post(self, body: dict) -> dict:
         try:
@@ -105,7 +125,9 @@ def seconds(ns: int | None) -> float | None:
     return None if ns is None else round(ns / 1e9, 3)
 
 
-def parse_response(data: dict, latency_s: float, total_s: float, attempts: int) -> ModelResponse:
+def parse_response(
+    data: dict, latency_s: float, total_s: float, attempts: int, model_digest: str | None = None
+) -> ModelResponse:
     message = data.get("message") or {}
     return ModelResponse(
         content=message.get("content"),
@@ -127,4 +149,5 @@ def parse_response(data: dict, latency_s: float, total_s: float, attempts: int) 
             "eval_s": seconds(data.get("eval_duration")),
             "thinking_chars": len(message.get("thinking") or ""),  # 0 when thinking is off
         },
+        model_digest=model_digest,
     )

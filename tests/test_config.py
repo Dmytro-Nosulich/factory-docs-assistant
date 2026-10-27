@@ -6,6 +6,7 @@ from factory_docs.config import (
     OllamaModel,
     load_config,
     load_env,
+    params_match,
     require_env,
     resolve_sampling,
     run_params,
@@ -75,13 +76,27 @@ def test_cloud_model_takes_no_sampling():
 
 def test_run_params_log_sampling_name_and_values():
     config = load_config()
-    assert run_params(config, "haiku-5.5") == {"reasoning_effort": "none", "max_tokens": 8000}
+    assert run_params(config, "haiku-5.5") == {
+        "reasoning_effort": "none",
+        "max_tokens": 8000,
+        "sampling": None,  # not sent: the provider's default (I-003)
+    }
     assert run_params(config, "qwen3.5-9b", "greedy") == {
         "num_ctx": 65536,
         "num_predict": 4000,
         "think": False,
         "sampling": {"name": "greedy", "temperature": 0.0, "top_p": 1.0},
     }
+
+
+def test_params_saved_before_s1_16_still_match():
+    config = load_config()
+    old_cloud = {"reasoning_effort": "none", "max_tokens": 8000}  # no sampling key
+    assert params_match(old_cloud, run_params(config, "haiku-5.5"))
+    assert not params_match({**old_cloud, "max_tokens": 1}, run_params(config, "haiku-5.5"))
+    local = run_params(config, "qwen3.5-9b", "greedy")
+    assert params_match(local, local)
+    assert not params_match(local, run_params(config, "qwen3.5-9b", "default"))
 
 
 def test_ollama_model_without_num_ctx_is_rejected(tmp_path):

@@ -13,7 +13,14 @@ import argparse
 import json
 
 from factory_docs.clients import make_client
-from factory_docs.config import Config, load_config, load_env, resolve_sampling, run_params
+from factory_docs.config import (
+    Config,
+    load_config,
+    load_env,
+    params_match,
+    resolve_sampling,
+    run_params,
+)
 from factory_docs.prompts import load_prompt
 from factory_docs.run import (
     RUNS,
@@ -115,7 +122,7 @@ def main(argv: list[str] | None = None) -> None:
         if (
             previous["model"]["key"] != args.model
             or previous["prompt"]["sha256"] != prompt.sha256
-            or previous["params"] != run_params(config, args.model, sampling)
+            or not params_match(previous["params"], run_params(config, args.model, sampling))
         ):
             parser.error(
                 "model, prompt or parameters differ from the run being resumed; start a new run"

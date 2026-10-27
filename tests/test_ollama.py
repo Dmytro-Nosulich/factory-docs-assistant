@@ -32,12 +32,26 @@ def reply(prompt_tokens=500, cached=0, **extra):
     }
 
 
-def make_client(*steps, model=MODEL):
-    """Client whose transport plays `steps` in order: an exception to raise or a response."""
+TAGS = {
+    "models": [
+        {"name": "other:1b", "digest": "fff000"},
+        {"name": "vendor:small", "digest": "abc123"},
+    ]
+}
+
+
+def make_client(*steps, model=MODEL, tags=None):
+    """Client whose transport plays `steps` in order: an exception to raise or a response.
+
+    GET /api/tags is answered apart from `steps`, with `tags` (default: TAGS); it is not
+    recorded in `requests`, which are the chat requests only.
+    """
     requests, waits = [], []
     queue = list(steps)
 
     def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/api/tags":
+            return tags or httpx.Response(200, json=TAGS)
         requests.append(request)
         step = queue.pop(0)
         if isinstance(step, Exception):
@@ -128,3 +142,39 @@ def test_missing_model_is_not_retried():
     with pytest.raises(ModelCallError, match="ollama pull vendor:small"):
         client.complete(MESSAGES, SCHEMA)
     assert len(requests) == 1
+
+
+def test_model_digest_is_logged_and_read_once():
+    tag_requests = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/api/tags":
+            tag_requests.append(request)
+            return httpx.Response(200, json=TAGS)
+        return ok()
+
+    client = OllamaClient(SETTINGS, MODEL, SAMPLING, transport=httpx.MockTransport(handler))
+    assert client.complete(MESSAGES, SCHEMA).model_digest == "abc123"
+    assert client.complete(MESSAGES, SCHEMA).model_digest == "abc123"
+    assert len(tag_requests) == 1
+
+
+def test_untagged_slug_matches_latest():
+    model = MODEL.model_copy(update={"slug": "vendor"})
+    tags = httpx.Response(200, json={"models": [{"name": "vendor:latest", "digest": "def456"}]})
+    client, _, _ = make_client(ok(), model=model, tags=tags)
+    assert client.complete(MESSAGES, SCHEMA).model_digest == "def456"
+
+
+@pytest.mark.parametrize(
+    "tags",
+    [
+        httpx.Response(200, json={"models": [{"name": "other:1b", "digest": "fff000"}]}),
+        httpx.Response(500, text="boom"),
+        httpx.Response(200, text="not json"),
+    ],
+)
+def test_unknown_digest_is_none_not_an_error(tags):
+    client, _, _ = make_client(ok(), tags=tags)
+    response = client.complete(MESSAGES, SCHEMA)
+    assert (response.content, response.model_digest) == ("{}", None)

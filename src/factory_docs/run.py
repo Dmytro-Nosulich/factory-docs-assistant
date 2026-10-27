@@ -3,7 +3,9 @@
 One run is one directory, results/runs/<run_id>/: a `<doc_id>.json` record per document
 (the record from `extract_document`) and `run.json`, a summary rebuilt from those files
 after every document, so an interrupted run still has an honest summary. Documents run one
-at a time, which keeps latency numbers free of concurrency effects.
+at a time, which keeps latency numbers free of concurrency effects. Every record, a failed one
+too, says which configuration produced it (model, prompt version and hash, parameters; S1-16),
+so a single file can be read without run.json.
 
 Budget guard: before each document (its first call and any repair call), the cost of every
 result under results/ (earlier runs and smoke files included) is compared with
@@ -23,7 +25,7 @@ from collections.abc import Callable
 from datetime import UTC, datetime
 from pathlib import Path
 
-from factory_docs.config import ROOT, Config, run_params
+from factory_docs.config import ROOT, Config, params_match, run_params
 from factory_docs.extract import (
     TEXTS,
     build_messages,
@@ -71,14 +73,21 @@ def spent_usd(results_dir: Path = RESULTS) -> float:
     return total
 
 
-def failed_record(doc_id: str, model_key: str, error: Exception) -> dict:
-    """Record for a document that failed outside the model call (e.g. a missing text file)."""
+def failed_record(
+    doc_id: str, model_key: str, config: Config, sampling: str | None, error: Exception
+) -> dict:
+    """Record for a document that failed outside the model call (e.g. a missing text file).
+
+    It keeps the run's configuration, like any other record; `input` is None (nothing sent).
+    """
+    model = config.models[model_key]
+    settings = config.extraction
     return {
         "doc_id": doc_id,
         "status": "error",
-        "model": {"key": model_key},
-        "prompt": None,
-        "params": None,
+        "model": {"key": model_key, "client": model.client, "slug": model.slug},
+        "prompt": prompt_info(load_prompt(settings.prompt, settings.prompt_version)),
+        "params": run_params(config, model_key, sampling),
         "input": None,
         "call": None,
         "raw": None,
@@ -125,7 +134,7 @@ def run_all(
         try:
             record = extract_document(doc_id, client, model_key, config, texts_dir, sampling)
         except Exception as e:  # one bad document must not stop the run
-            record = failed_record(doc_id, model_key, e)
+            record = failed_record(doc_id, model_key, config, sampling, e)
         path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         spent += record_cost(record)
         on_result(record)
@@ -170,9 +179,17 @@ def write_summary(
     repairs = [r["repair"] for r in records.values() if r.get("repair")]
     calls += [p["call"] for p in repairs if p["status"] != "error"]  # paid tokens too
 
+    # one Ollama digest normally; more than one means the tag was re-pulled during a --resume
+    digests = sorted({d for r in records.values() if (d := (r["model"] or {}).get("digest"))})
+
     summary = {
         "run_id": run_dir.name,
-        "model": {"key": model_key, "client": model.client, "slug": model.slug},
+        "model": {
+            "key": model_key,
+            "client": model.client,
+            "slug": model.slug,
+            "digests": digests,
+        },
         "prompt": prompt_info(prompt),
         "repair_prompt": prompt_info(repair_prompt),
         "params": run_params(config, model_key, sampling),
@@ -245,7 +262,7 @@ def repair_run(
     prompt = load_prompt(settings.prompt, settings.prompt_version)
     if prompt_info(prompt) != previous["prompt"]:
         raise RunMismatch(f"prompt is now {prompt_info(prompt)}, the run used {previous['prompt']}")
-    if run_params(config, model_key, sampling) != previous["params"]:
+    if not params_match(previous["params"], run_params(config, model_key, sampling)):
         raise RunMismatch("parameters in config.toml differ from the run's")
     repair_cost = 0.0
     for doc_id in previous["docs"]:

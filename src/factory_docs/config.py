@@ -123,15 +123,25 @@ def resolve_sampling(
 
 
 def run_params(config: Config, model_key: str, sampling: str | None = None) -> dict:
-    """The parameters a run sends, as logged in every result record and run.json."""
+    """The parameters a run sends, as logged in every result record and run.json.
+
+    `sampling` is None for a cloud model: no temperature/top_p is sent, so the provider's
+    default applies (docs/ISSUES.md I-003).
+    """
     params = config.models[model_key].model_dump(
         exclude={"client", "slug", "sampling", *PRICE_FIELDS}
     )
     resolved = resolve_sampling(config, model_key, sampling)
+    params["sampling"] = None
     if resolved:
         name, values = resolved
         params["sampling"] = {"name": name, **values.model_dump()}
     return params
+
+
+def params_match(saved: dict | None, current: dict) -> bool:
+    """Whether a saved run's params are `current`; runs before S1-16 had no cloud sampling key."""
+    return {"sampling": None, **(saved or {})} == current
 
 
 def load_env(path: Path = ENV) -> None:

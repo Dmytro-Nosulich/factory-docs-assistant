@@ -1,7 +1,10 @@
 """Extract one document: text -> prompt -> model -> validated SafetyDataSheet, S1-07.
 
 The result record says what was sent (prompt version, parameters, pages), what came back
-(raw reply, tokens, cost, timing) and whether it is schema-valid. `status` is the first
+(raw reply, tokens, cost, timing) and whether it is schema-valid. It also records which
+configuration produced it (S1-16): the model (with the Ollama digest of a local build), the
+prompt version and file hash, every parameter sent (`sampling` is None for a cloud model) and
+the input cap. `status` is the first
 response's: `valid`; `invalid` (reply is not JSON or not schema-valid); `error` (the call
 itself failed).
 
@@ -143,6 +146,7 @@ def extract_document(
             "pages_total": capped.pages_total,
             "truncated": capped.truncated,
             "est_tokens": estimate_tokens(capped.text),
+            "max_input_tokens": settings.max_input_tokens,
         },
         "call": None,
         "raw": None,
@@ -156,6 +160,7 @@ def extract_document(
     if first["status"] != "error":
         record["model"]["response_model"] = first["call"].pop("response_model")
         record["model"]["provider"] = first["call"].pop("provider")
+        record["model"]["digest"] = first["call"].pop("model_digest")
     record.update(first)
     if record["status"] == "invalid":
         record["repair"] = repair_reply(messages, record["raw"], record["errors"], client, config)

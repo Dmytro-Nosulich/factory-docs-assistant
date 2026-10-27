@@ -24,8 +24,9 @@ class FakeClient:
     A single reply is repeated for every call.
     """
 
-    def __init__(self, replies: str | Exception | list[str | Exception]):
+    def __init__(self, replies: str | Exception | list[str | Exception], digest=None):
         self.replies = replies
+        self.digest = digest
         self.conversations = []
 
     @property
@@ -50,12 +51,13 @@ class FakeClient:
             latency_s=0.5,
             total_s=0.5,
             attempts=1,
+            model_digest=self.digest,
         )
 
 
-def run(tmp_path, reply, model_key="haiku-5.5", sampling=None):
+def run(tmp_path, reply, model_key="haiku-5.5", sampling=None, digest=None):
     (tmp_path / "D999.txt").write_text("[[page 1]]\nExample Cleaner SDS\n", encoding="utf-8")
-    client = FakeClient(reply)
+    client = FakeClient(reply, digest)
     record = extract_document("D999", client, model_key, load_config(), tmp_path, sampling)
     return record, client
 
@@ -72,14 +74,18 @@ def test_valid_reply(tmp_path):
     assert record["errors"] == []
     assert record["prompt"]["version"] == "v1"
     assert record["model"]["provider"] == "Vendor"
-    assert record["params"] == {"reasoning_effort": "none", "max_tokens": 8000}
+    assert record["model"]["digest"] is None  # cloud model: response_model and provider instead
+    assert record["params"] == {"reasoning_effort": "none", "max_tokens": 8000, "sampling": None}
     assert (record["input"]["pages_sent"], record["input"]["truncated"]) == (1, False)
+    assert record["input"]["max_input_tokens"] == 20000
     assert "Example Cleaner SDS" in client.messages[1]["content"]
 
 
-def test_local_model_record_logs_sampling(tmp_path):
-    record, _ = run(tmp_path, json.dumps(VALID), "qwen3.5-9b", "greedy")
+def test_local_model_record_logs_sampling_and_digest(tmp_path):
+    record, _ = run(tmp_path, json.dumps(VALID), "qwen3.5-9b", "greedy", digest="abc123")
     assert record["params"]["sampling"] == {"name": "greedy", "temperature": 0.0, "top_p": 1.0}
+    assert record["model"]["digest"] == "abc123"
+    assert "model_digest" not in record["call"]  # moved to model, like provider
     record, _ = run(tmp_path, json.dumps(VALID), "qwen3.5-9b")  # the model's default
     assert record["params"]["sampling"]["name"] == "default"
 
