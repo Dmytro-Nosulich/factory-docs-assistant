@@ -33,6 +33,7 @@ ollama pull qwen3.5:9b
 make run MODEL=qwen3.5-9b                       # all 35 documents, no API cost
 make run MODEL=qwen3.5-9b DOCS="D001 D007"      # a subset
 make run MODEL=qwen3.5-9b SAMPLING=greedy       # another sampling configuration
+make run MODEL=qwen3.5-9b PROMPT=v2             # another prompt version (prompts/CHANGELOG.md)
 ```
 Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in `config.toml`: `default` (1.0 / 0.95, the model's own defaults) and `greedy` (0.0 / 1.0). Without `SAMPLING` a model uses the table named in its `sampling` key. The cloud model takes no sampling parameters (`docs/ISSUES.md` I-003). `num_ctx` (the context window) is set explicitly per model. A prompt that does not fit is recorded as `error` and never as a reply, because some Ollama runners cut long prompts silently (`docs/ISSUES.md` I-004).
 

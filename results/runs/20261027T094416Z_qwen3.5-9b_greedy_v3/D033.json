@@ -1,0 +1,64 @@
+{
+  "doc_id": "D033",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 8,
+    "pages_total": 8,
+    "truncated": false,
+    "est_tokens": 3965
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 7497,
+    "completion_tokens": 95,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 17.707,
+    "total_s": 17.707,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 16.162,
+      "eval_s": 1.539,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"PressurePro Systempflege RM 110\",\n  \"language\": \"de\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2026-05-11\"\n}",
+  "output": {
+    "product_name": "PressurePro Systempflege RM 110",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-05-11"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:49:27+00:00"
+}

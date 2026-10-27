@@ -1,0 +1,100 @@
+{
+  "doc_id": "D060",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 7464
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 11553,
+    "completion_tokens": 515,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 34.058,
+    "total_s": 34.058,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 26.347,
+      "eval_s": 7.703,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"BRICO MASTIC COLLE\",\n  \"language\": \"fr\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one\",\n      \"cas_number\": \"2634-33-5\",\n      \"concentration\": {\n        \"min\": 0.01375,\n        \"max\": 0.01375,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)\",\n      \"cas_number\": \"55965-84-9\",\n      \"concentration\": {\n        \"min\": 0.00112,\n        \"max\": 0.00112,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"EUH208\",\n      \"text\": \"Contient 1,2 -benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-one.  Peut produire une réaction allergique.\"\n    },\n    {\n      \"code\": \"EUH210\",\n      \"text\": \"Fiche de données de sécurité disponible sur demande.\"\n    },\n    {\n      \"code\": \"EUH071\",\n      \"text\": \"Corrosif pour les voies respiratoires.\"\n    }\n  ],\n  \"flash_point\": {\n    \"min\": 60,\n    \"max\": 60,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2025-10-31\"\n}",
+  "output": {
+    "product_name": "BRICO MASTIC COLLE",
+    "language": "fr",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one",
+        "cas_number": "2634-33-5",
+        "concentration": {
+          "min": 0.01375,
+          "max": 0.01375,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)",
+        "cas_number": "55965-84-9",
+        "concentration": {
+          "min": 0.00112,
+          "max": 0.00112,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Contient 1,2 -benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-one.  Peut produire une réaction allergique."
+      },
+      {
+        "code": "EUH210",
+        "text": "Fiche de données de sécurité disponible sur demande."
+      },
+      {
+        "code": "EUH071",
+        "text": "Corrosif pour les voies respiratoires."
+      }
+    ],
+    "flash_point": {
+      "min": 60.0,
+      "max": 60.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2025-10-31"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:40:43+00:00"
+}

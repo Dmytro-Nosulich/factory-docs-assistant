@@ -1,7 +1,7 @@
 """Entry point for `python -m factory_docs` (used by `make run`): the full extraction run, S1-08.
 
 Usage: uv run python -m factory_docs [--model haiku-5.5] [--sampling greedy] [--docs D001 D003]
-                                    [--resume RUN_ID]
+                                    [--prompt-version v2] [--resume RUN_ID]
 One model call per document (retries included), paid for cloud models and free for local
 (Ollama) ones; see factory_docs.run for the layout.
 """
@@ -51,6 +51,9 @@ def main(argv: list[str] | None = None) -> None:
         "--sampling", help="[sampling] table from config.toml (local models; default: the model's)"
     )
     parser.add_argument("--docs", nargs="+", help="document IDs (default: all of stage 1)")
+    parser.add_argument(
+        "--prompt-version", help="prompts/<prompt>_<version>.md (default: from config.toml)"
+    )
     parser.add_argument("--resume", metavar="RUN_ID", help="fill in documents missing from a run")
     args = parser.parse_args(argv)
 
@@ -65,14 +68,17 @@ def main(argv: list[str] | None = None) -> None:
         previous = json.loads((run_dir / SUMMARY).read_text(encoding="utf-8"))
         if args.sampling is None:  # resume with the sampling the run started with
             args.sampling = (previous["params"].get("sampling") or {}).get("name")
+        if args.prompt_version is None:  # and with its prompt version
+            args.prompt_version = previous["prompt"]["version"]
+    if args.prompt_version:
+        config.extraction.prompt_version = args.prompt_version
     try:
         resolved = resolve_sampling(config, args.model, args.sampling)
-    except ValueError as e:
+        prompt = load_prompt(config.extraction.prompt, config.extraction.prompt_version)
+    except (ValueError, FileNotFoundError) as e:
         parser.error(str(e))
     sampling = resolved[0] if resolved else None
     if previous:
-        settings = config.extraction
-        prompt = load_prompt(settings.prompt, settings.prompt_version)
         if (
             previous["model"]["key"] != args.model
             or previous["prompt"]["sha256"] != prompt.sha256

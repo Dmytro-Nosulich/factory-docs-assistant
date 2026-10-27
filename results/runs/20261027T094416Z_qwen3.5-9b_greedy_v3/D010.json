@@ -1,0 +1,87 @@
+{
+  "doc_id": "D010",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 15,
+    "pages_total": 15,
+    "truncated": false,
+    "est_tokens": 6806
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 13889,
+    "completion_tokens": 300,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 37.354,
+    "total_s": 37.354,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 32.954,
+      "eval_s": 4.39,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"PREPARAT OCHRONNY DO RAK-BASIC-1000ML\",\n  \"language\": \"uk\",\n  \"signal_word\": \"none\",\n  \"physical_state\": null,\n  \"components\": [\n    {\n      \"name\": \"Жирні кислоти, кокосова олія, солі натрію\",\n      \"cas_number\": \"61789-89-7\",\n      \"concentration\": {\n        \"min\": 2.5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"C16-18 Етоксильований спирт\",\n      \"cas_number\": \"68439-49-6\",\n      \"concentration\": {\n        \"min\": 2.5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": null,\n    \"max\": 190,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2021-04-09\"\n}",
+  "output": {
+    "product_name": "PREPARAT OCHRONNY DO RAK-BASIC-1000ML",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": null,
+    "components": [
+      {
+        "name": "Жирні кислоти, кокосова олія, солі натрію",
+        "cas_number": "61789-89-7",
+        "concentration": {
+          "min": 2.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "C16-18 Етоксильований спирт",
+        "cas_number": "68439-49-6",
+        "concentration": {
+          "min": 2.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": null,
+      "max": 190.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2021-04-09"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:48:29+00:00"
+}

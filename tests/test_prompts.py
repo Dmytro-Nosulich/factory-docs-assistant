@@ -15,6 +15,14 @@ def test_extract_v1_loads_from_file():
     assert prompt.placeholders == {"document", "schema"}
 
 
+@pytest.mark.parametrize("version", ["v2", "v3"])
+def test_later_versions_keep_the_v1_placeholders(version):
+    v1, later = load_prompt("extract", "v1"), load_prompt("extract", version)
+    assert later.version == version
+    assert later.placeholders == v1.placeholders
+    assert later.sha256 != v1.sha256
+
+
 def test_render_fills_document_and_schema():
     prompt = load_prompt("extract", "v1")
     system, user = prompt.render(document="SECTION 1: Example Cleaner", schema=schema_text())

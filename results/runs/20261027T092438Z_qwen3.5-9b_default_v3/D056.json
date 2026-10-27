@@ -1,0 +1,95 @@
+{
+  "doc_id": "D056",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 7548
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 10750,
+    "completion_tokens": 348,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 29.752,
+    "total_s": 29.752,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 24.349,
+      "eval_s": 5.395,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"CRC® Brakleen® Brake Parts Cleaner, 55 Gal\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Ethene, 1,1,2,2-tetrachloro- Tetrachloroethene (Perchloroethylene (PCE))\",\n      \"cas_number\": \"127-18-4\",\n      \"concentration\": {\n        \"min\": 80,\n        \"max\": 100,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H315\",\n      \"text\": \"Causes skin irritation\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"May cause an allergic skin reaction\"\n    },\n    {\n      \"code\": \"H319\",\n      \"text\": \"Causes eye irritation\"\n    },\n    {\n      \"code\": \"H336\",\n      \"text\": \"May cause drowsiness or dizziness\"\n    },\n    {\n      \"code\": \"H350\",\n      \"text\": \"May cause cancer (Inhalation)\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1897\",\n  \"revision_date\": null\n}",
+  "output": {
+    "product_name": "CRC® Brakleen® Brake Parts Cleaner, 55 Gal",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Ethene, 1,1,2,2-tetrachloro- Tetrachloroethene (Perchloroethylene (PCE))",
+        "cas_number": "127-18-4",
+        "concentration": {
+          "min": 80.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Causes skin irritation"
+      },
+      {
+        "code": "H317",
+        "text": "May cause an allergic skin reaction"
+      },
+      {
+        "code": "H319",
+        "text": "Causes eye irritation"
+      },
+      {
+        "code": "H336",
+        "text": "May cause drowsiness or dizziness"
+      },
+      {
+        "code": "H350",
+        "text": "May cause cancer (Inhalation)"
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1897",
+    "revision_date": null
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:38:12+00:00"
+}

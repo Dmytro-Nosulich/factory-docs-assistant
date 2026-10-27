@@ -1,0 +1,208 @@
+{
+  "doc_id": "D059",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 24,
+    "pages_total": 24,
+    "truncated": false,
+    "est_tokens": 17267
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 25116,
+    "completion_tokens": 1418,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 85.893,
+    "total_s": 85.893,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 505,
+      "load_s": 0.002,
+      "prompt_eval_s": 63.614,
+      "eval_s": 22.261,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.\",\n  \"language\": \"fr\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": null,\n  \"components\": [\n    {\n      \"name\": \"Diisocyanate de 4,4'-méthylènediphényle\",\n      \"cas_number\": \"101-68-8\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 2,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle\",\n      \"cas_number\": \"915-68-7\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.2,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Chlorure de tosyle\",\n      \"cas_number\": \"98-59-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.02,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Polymère uréthanne\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 30,\n        \"max\": 40,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"C14-17 alcanes, acides seconononiques et disulfoniques, esters de phényle\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 20,\n        \"max\": 40,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Polychlorure de vinyle\",\n      \"cas_number\": \"9002-86-2\",\n      \"concentration\": {\n        \"min\": 20,\n        \"max\": 30,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Masse de réaction d'éthylbenzène et de xylène\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 3,\n        \"max\": 7,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Produit de réaction du diméthylsiloxane et de la silice\",\n      \"cas_number\": \"67762-90-7\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Oxyde de calcium\",\n      \"cas_number\": \"1305-78-8\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Dioxyde de titane\",\n      \"cas_number\": \"13463-67-7\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques, < 2% aromatiques\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 0.5,\n        \"max\": 1.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Noir de carbone\",\n      \"cas_number\": \"1333-86-4\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle\",\n      \"cas_number\": \"915-68-7\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.2,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Chlorure de tosyle\",\n      \"cas_number\": \"98-59-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.02,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H315\",\n      \"text\": \"Provoque une irritation cutanée.\"\n    },\n    {\n      \"code\": \"H334\",\n      \"text\": \"Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"Peut provoquer une allergie cutanée.\"\n    },\n    {\n      \"code\": \"H351\",\n      \"text\": \"Susceptible de provoquer le cancer.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2026-02-26\"\n}",
+  "output": {
+    "product_name": "3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.",
+    "language": "fr",
+    "signal_word": "danger",
+    "physical_state": null,
+    "components": [
+      {
+        "name": "Diisocyanate de 4,4'-méthylènediphényle",
+        "cas_number": "101-68-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle",
+        "cas_number": "915-68-7",
+        "concentration": {
+          "min": null,
+          "max": 0.2,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Chlorure de tosyle",
+        "cas_number": "98-59-9",
+        "concentration": {
+          "min": null,
+          "max": 0.02,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Polymère uréthanne",
+        "cas_number": null,
+        "concentration": {
+          "min": 30.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "C14-17 alcanes, acides seconononiques et disulfoniques, esters de phényle",
+        "cas_number": null,
+        "concentration": {
+          "min": 20.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Polychlorure de vinyle",
+        "cas_number": "9002-86-2",
+        "concentration": {
+          "min": 20.0,
+          "max": 30.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction d'éthylbenzène et de xylène",
+        "cas_number": null,
+        "concentration": {
+          "min": 3.0,
+          "max": 7.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Produit de réaction du diméthylsiloxane et de la silice",
+        "cas_number": "67762-90-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Oxyde de calcium",
+        "cas_number": "1305-78-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Dioxyde de titane",
+        "cas_number": "13463-67-7",
+        "concentration": {
+          "min": null,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques, < 2% aromatiques",
+        "cas_number": null,
+        "concentration": {
+          "min": 0.5,
+          "max": 1.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Noir de carbone",
+        "cas_number": "1333-86-4",
+        "concentration": {
+          "min": null,
+          "max": 0.3,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle",
+        "cas_number": "915-68-7",
+        "concentration": {
+          "min": null,
+          "max": 0.2,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Chlorure de tosyle",
+        "cas_number": "98-59-9",
+        "concentration": {
+          "min": null,
+          "max": 0.02,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Provoque une irritation cutanée."
+      },
+      {
+        "code": "H334",
+        "text": "Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation."
+      },
+      {
+        "code": "H317",
+        "text": "Peut provoquer une allergie cutanée."
+      },
+      {
+        "code": "H351",
+        "text": "Susceptible de provoquer le cancer."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-02-26"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:00:48+00:00"
+}

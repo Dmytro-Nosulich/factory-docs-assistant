@@ -1,0 +1,87 @@
+{
+  "doc_id": "D052",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 5479
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8782,
+    "completion_tokens": 276,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 23.848,
+    "total_s": 23.848,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 505,
+      "load_s": 0.009,
+      "prompt_eval_s": 19.721,
+      "eval_s": 4.106,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"HIGHTEC ANTIFREEZE COOLANT LCC 100\",\n  \"language\": \"en\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"ethanediol; ethylene glycol\",\n      \"cas_number\": \"107-21-1\",\n      \"concentration\": {\n        \"min\": 30,\n        \"max\": 60,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H302\",\n      \"text\": \"Harmful if swallowed.\"\n    },\n    {\n      \"code\": \"H373\",\n      \"text\": \"May cause damage to organs through prolonged or repeated exposure.\"\n    }\n  ],\n  \"flash_point\": {\n    \"min\": 135,\n    \"max\": 135,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2026-02-02\"\n}",
+  "output": {
+    "product_name": "HIGHTEC ANTIFREEZE COOLANT LCC 100",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "ethanediol; ethylene glycol",
+        "cas_number": "107-21-1",
+        "concentration": {
+          "min": 30.0,
+          "max": 60.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H302",
+        "text": "Harmful if swallowed."
+      },
+      {
+        "code": "H373",
+        "text": "May cause damage to organs through prolonged or repeated exposure."
+      }
+    ],
+    "flash_point": {
+      "min": 135.0,
+      "max": 135.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-02-02"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T08:37:52+00:00"
+}

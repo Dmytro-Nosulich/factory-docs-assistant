@@ -1,8 +1,9 @@
 """Extract one document with one model and save the result (S1-07 smoke run).
 
 Usage: uv run python scripts/extract_one.py --doc D001 [--model haiku-5.5] [--sampling greedy]
-Writes results/smoke/<model>[_<sampling>]_<doc>.json. Makes one model call (retries
-included); cloud models are paid.
+                                           [--prompt-version v2]
+Writes results/smoke/<model>[_<sampling>][_<prompt version>]_<doc>.json. Makes one model call
+(retries included); cloud models are paid.
 """
 
 import argparse
@@ -12,6 +13,7 @@ from pathlib import Path
 from factory_docs.clients import make_client
 from factory_docs.config import load_config, load_env, resolve_sampling
 from factory_docs.extract import extract_document
+from factory_docs.prompts import load_prompt
 
 SMOKE = Path(__file__).resolve().parent.parent / "results" / "smoke"
 
@@ -21,13 +23,17 @@ def main() -> None:
     parser.add_argument("--doc", required=True, help="document ID, e.g. D001")
     parser.add_argument("--model", default="haiku-5.5", help="model key from config.toml")
     parser.add_argument("--sampling", help="[sampling] table from config.toml (local models)")
+    parser.add_argument("--prompt-version", help="prompt version (default: from config.toml)")
     args = parser.parse_args()
 
     load_env()
     config = load_config()
+    if args.prompt_version:
+        config.extraction.prompt_version = args.prompt_version
     try:
         resolved = resolve_sampling(config, args.model, args.sampling)
-    except ValueError as e:
+        load_prompt(config.extraction.prompt, config.extraction.prompt_version)
+    except (ValueError, FileNotFoundError) as e:
         parser.error(str(e))
     sampling = resolved[0] if resolved else None
     client = make_client(args.model, config, sampling)
@@ -37,7 +43,7 @@ def main() -> None:
         client.close()
 
     SMOKE.mkdir(parents=True, exist_ok=True)
-    label = "_".join(p for p in (args.model, sampling) if p)
+    label = "_".join(p for p in (args.model, sampling, args.prompt_version) if p)
     path = SMOKE / f"{label}_{args.doc}.json"
     path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 

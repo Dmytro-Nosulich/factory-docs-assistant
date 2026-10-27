@@ -1,0 +1,74 @@
+{
+  "doc_id": "D047",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 3120
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 5948,
+    "completion_tokens": 164,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 14.742,
+    "total_s": 14.742,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 673,
+      "load_s": 0.001,
+      "prompt_eval_s": 12.341,
+      "eval_s": 2.394,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Abrasive, fine\",\n  \"language\": \"en\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"Ashes (residues), coal\",\n      \"cas_number\": null,\n      \"concentration\": {\n        \"min\": 100.0,\n        \"max\": 100.0,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2021-07-30\"\n}",
+  "output": {
+    "product_name": "Abrasive, fine",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "Ashes (residues), coal",
+        "cas_number": null,
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2021-07-30"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:52:20+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "doc_id": "D061",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 8,
+    "pages_total": 8,
+    "truncated": false,
+    "est_tokens": 5748
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793089553-dB4gguWc309oBOJnb9I4",
+    "prompt_tokens": 15604,
+    "completion_tokens": 294,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0017074,
+    "latency_s": 2.261,
+    "total_s": 2.261,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"OTTOSEAL S 100\",\"language\":\"it\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"ethyltriacetoxysilane\",\"cas_number\":\"17689-77-9\",\"concentration\":{\"min\":null,\"max\":5,\"unit\":\"percent\"}},{\"name\":\"2-ottil-2H-isotiazol-3-one\",\"cas_number\":\"26530-20-1\",\"concentration\":{\"min\":null,\"max\":0.1,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH208\",\"text\":\"Contiene 2-ottil-2H-isotiazol-3-one. Può provocare una reazione allergica.\"},{\"code\":\"EUH210\",\"text\":\"Scheda dati di sicurezza disponibile su richiesta.\"}],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2025-05-05\"}",
+  "output": {
+    "product_name": "OTTOSEAL S 100",
+    "language": "it",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "ethyltriacetoxysilane",
+        "cas_number": "17689-77-9",
+        "concentration": {
+          "min": null,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "2-ottil-2H-isotiazol-3-one",
+        "cas_number": "26530-20-1",
+        "concentration": {
+          "min": null,
+          "max": 0.1,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Contiene 2-ottil-2H-isotiazol-3-one. Può provocare una reazione allergica."
+      },
+      {
+        "code": "EUH210",
+        "text": "Scheda dati di sicurezza disponibile su richiesta."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2025-05-05"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T08:25:53+00:00"
+}

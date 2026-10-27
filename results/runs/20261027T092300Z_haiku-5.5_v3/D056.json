@@ -1,0 +1,91 @@
+{
+  "doc_id": "D056",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 7548
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793093040-lPLydqh4LIuAwUcMuKAn",
+    "prompt_tokens": 18479,
+    "completion_tokens": 344,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0020199,
+    "latency_s": 2.204,
+    "total_s": 2.204,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"CRC® Brakleen® Brake Parts Cleaner, 55 Gal\",\"language\":\"en\",\"signal_word\":\"danger\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"Ethene, 1,1,2,2-tetrachloro-\",\"cas_number\":\"127-18-4\",\"concentration\":{\"min\":80,\"max\":100,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H315\",\"text\":\"Causes skin irritation\"},{\"code\":\"H317\",\"text\":\"May cause an allergic skin reaction\"},{\"code\":\"H319\",\"text\":\"Causes eye irritation\"},{\"code\":\"H336\",\"text\":\"May cause drowsiness or dizziness\"},{\"code\":\"H350\",\"text\":\"May cause cancer (Inhalation)\"},{\"code\":\"H401\",\"text\":\"Toxic to aquatic life\"},{\"code\":\"H411\",\"text\":\"Toxic to aquatic life with long lasting effects\"}],\"flash_point\":null,\"un_number\":\"UN1897\",\"revision_date\":\"2025-03-05\"}",
+  "output": {
+    "product_name": "CRC® Brakleen® Brake Parts Cleaner, 55 Gal",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Ethene, 1,1,2,2-tetrachloro-",
+        "cas_number": "127-18-4",
+        "concentration": {
+          "min": 80.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Causes skin irritation"
+      },
+      {
+        "code": "H317",
+        "text": "May cause an allergic skin reaction"
+      },
+      {
+        "code": "H319",
+        "text": "Causes eye irritation"
+      },
+      {
+        "code": "H336",
+        "text": "May cause drowsiness or dizziness"
+      },
+      {
+        "code": "H350",
+        "text": "May cause cancer (Inhalation)"
+      },
+      {
+        "code": "H401",
+        "text": "Toxic to aquatic life"
+      },
+      {
+        "code": "H411",
+        "text": "Toxic to aquatic life with long lasting effects"
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1897",
+    "revision_date": "2025-03-05"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:23:59+00:00"
+}

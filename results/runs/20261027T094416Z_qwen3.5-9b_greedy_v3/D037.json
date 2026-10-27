@@ -1,0 +1,56 @@
+{
+  "doc_id": "D037",
+  "status": "invalid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 4505
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8441,
+    "completion_tokens": 223,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 21.731,
+    "total_s": 21.731,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.029,
+      "prompt_eval_s": 18.446,
+      "eval_s": 3.246,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Stein- und Fassadenreiniger 3-in-1 RM 611\",\n  \"language\": \"de\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Alkylpolyglycosid\",\n      \"cas_number\": \"68515-73-1\",\n      \"concentration\": {\n        \"min\": 10,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Natriumpyrithion\",\n      \"cas_number\": \"3811-73-2\",\n      \"concentration\": null\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2025-06-16\"\n}",
+  "output": null,
+  "errors": [
+    "components[0].concentration: Value error, min (10.0) is greater than max (5.0)"
+  ],
+  "created_at": "2026-10-27T09:50:52+00:00"
+}

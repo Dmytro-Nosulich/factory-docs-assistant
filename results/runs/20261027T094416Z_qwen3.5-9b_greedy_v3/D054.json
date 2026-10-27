@@ -1,0 +1,83 @@
+{
+  "doc_id": "D054",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 13,
+    "pages_total": 13,
+    "truncated": false,
+    "est_tokens": 11148
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 16061,
+    "completion_tokens": 246,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 41.969,
+    "total_s": 41.969,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.002,
+      "prompt_eval_s": 38.028,
+      "eval_s": 3.922,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"sulfuric acid, conc=93-99.5%\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"sulfuric acid\",\n      \"cas_number\": \"7664-93-9\",\n      \"concentration\": {\n        \"min\": 93,\n        \"max\": 99.5,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H314\",\n      \"text\": \"Causes severe skin burns and eye damage.\"\n    },\n    {\n      \"code\": \"H318\",\n      \"text\": \"Causes serious eye damage.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1830\",\n  \"revision_date\": \"2022-06-08\"\n}",
+  "output": {
+    "product_name": "sulfuric acid, conc=93-99.5%",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sulfuric acid",
+        "cas_number": "7664-93-9",
+        "concentration": {
+          "min": 93.0,
+          "max": 99.5,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H314",
+        "text": "Causes severe skin burns and eye damage."
+      },
+      {
+        "code": "H318",
+        "text": "Causes serious eye damage."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1830",
+    "revision_date": "2022-06-08"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:56:16+00:00"
+}

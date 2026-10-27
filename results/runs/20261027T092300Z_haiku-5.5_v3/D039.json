@@ -1,0 +1,67 @@
+{
+  "doc_id": "D039",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5688
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793093012-Do7NI6WigXlUSsnoXBXB",
+    "prompt_tokens": 14950,
+    "completion_tokens": 288,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.001639,
+    "latency_s": 2.175,
+    "total_s": 2.175,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Argon, Argon 4.0, Argon 4.6, Argon 4.8 PREMIUM, Instrument Argon 5.0, HiQ Argon 6.0, HiQ Argon 7.0, Argon 6.0 Scientific, Argon 5.0 ICP, Argon 5.7 Laboratory, Argon Veriseq Process, Biogon A, PYROGON A\",\"language\":\"en\",\"signal_word\":\"warning\",\"physical_state\":\"gas\",\"components\":[{\"name\":\"Argon\",\"cas_number\":\"7440-37-1\",\"concentration\":{\"min\":100,\"max\":100,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H280\",\"text\":\"Contains gas under pressure; may explode if heated.\"}],\"flash_point\":null,\"un_number\":\"UN1006\",\"revision_date\":\"2020-01-24\"}",
+  "output": {
+    "product_name": "Argon, Argon 4.0, Argon 4.6, Argon 4.8 PREMIUM, Instrument Argon 5.0, HiQ Argon 6.0, HiQ Argon 7.0, Argon 6.0 Scientific, Argon 5.0 ICP, Argon 5.7 Laboratory, Argon Veriseq Process, Biogon A, PYROGON A",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Argon",
+        "cas_number": "7440-37-1",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1006",
+    "revision_date": "2020-01-24"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:23:32+00:00"
+}

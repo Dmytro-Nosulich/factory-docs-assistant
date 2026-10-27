@@ -1,0 +1,71 @@
+{
+  "doc_id": "D050",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 7905
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793093025-5wNBjE2UXhSUb1vRzMAi",
+    "prompt_tokens": 18856,
+    "completion_tokens": 202,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0019866,
+    "latency_s": 2.166,
+    "total_s": 2.166,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Hydraulikoel HLP 46\",\"language\":\"en\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"Distillates (petroleum), solvent-dewaxed light paraffinic\",\"cas_number\":\"64742-56-9\",\"concentration\":{\"min\":1,\"max\":3,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH210\",\"text\":\"Safety data sheet available on request.\"}],\"flash_point\":{\"min\":243,\"max\":243,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2024-02-06\"}",
+  "output": {
+    "product_name": "Hydraulikoel HLP 46",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Distillates (petroleum), solvent-dewaxed light paraffinic",
+        "cas_number": "64742-56-9",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH210",
+        "text": "Safety data sheet available on request."
+      }
+    ],
+    "flash_point": {
+      "min": 243.0,
+      "max": 243.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2024-02-06"
+  },
+  "errors": [],
+  "created_at": "2026-10-27T09:23:44+00:00"
+}
