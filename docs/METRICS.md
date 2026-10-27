@@ -37,17 +37,19 @@ Result: 7 of 9 fields.
 
 ## Valid responses
 - **Valid (1st):** results with status `valid` (the first reply parsed and passed the schema) / all documents in the run. `invalid` and `error` both count as not valid.
-- **Valid after repair:** reported separately, so a repair step cannot hide first-response failures. There is no repair step yet (S1-15), so the column shows `n/a (S1-15)`.
+- **Valid after repair:** results with `final_status` `valid` or `repaired` / all documents in the run. An `invalid` first reply gets one repair attempt (S1-15, `prompts/repair_v1.md`); it is stored next to the first reply, never over it, so this column cannot hide first-response failures. A run with results from before the repair step (no `final_status`) shows `-`; `make repair RUN=<run_id>` adds the step to a saved run.
+- **Field acc. (after repair):** the same as Field acc., but a `repaired` document is scored on its repaired output. A schema-valid repair is not a correct one: on D001 (qwen default, v3) the repair set the concentration to null to pass the schema, while the label says 100 %.
 
 ## Latency
 - `call.latency_s` of every result that has a call (`valid` and `invalid`; an `error` has none). It is the time of the successful attempt and excludes retry waits.
+- First calls only: a repair call is not in the latency numbers, so they stay step 2 (first-response) numbers. Its time is in `repair.call.latency_s`.
 - p50 and p95 by **nearest rank**: sort the n values; the p-th percentile is the value at position ⌈p/100 × n⌉. It is always a real observed time. It is always shown with n; with n = 3, p95 is simply the slowest call.
 - Cloud latency includes OpenRouter's routing and depends on which upstream provider served the call (recorded in each result).
 - **Cached:** the number of local calls where Ollama took at least half of the prompt from its cache (`details.prompt_cached_tokens >= 0.5 × prompt_tokens`). A cached call is much faster than a cold one (D001: 23 s cold, 3 s cached), so a run with cached calls understates latency. Consecutive documents share the system prompt (about 114 tokens, seen on D033 in the S1-09 bake-off), and Ollama reuses that prefix; that saves almost no time, so it does not count (changed in S1-12; the earlier rule was any cached token).
 - Local timings are from an Apple M4 Pro with Ollama's MLX runner, not a CPU-only laptop (`docs/ISSUES.md` I-004).
 
 ## Cost per 1000 documents
-- **$ / 1000 docs** = 1000 × mean over the run's calls of (prompt tokens × input price + completion tokens × output price) / 1,000,000. Token counts are the provider's own usage numbers in each result. Prices are per 1M tokens in `config.toml` (`price_in_usd_per_mtok`, `price_out_usd_per_mtok`, with the date checked in `price_checked`). Haiku 5.5: $0.10 / $0.50, checked 2026-10-21.
-- **$ / 1000 (reported)** = the same mean from the cost that OpenRouter reports per call. It is a cross-check: on the first full run both give $1.96.
+- **$ / 1000 docs** = 1000 × mean over the run's documents with a reply of (prompt tokens × input price + completion tokens × output price) / 1,000,000, summed over the document's first call and its repair call, if any (both are paid). Token counts are the provider's own usage numbers in each result. Prices are per 1M tokens in `config.toml` (`price_in_usd_per_mtok`, `price_out_usd_per_mtok`, with the date checked in `price_checked`). Haiku 5.5: $0.10 / $0.50, checked 2026-10-21.
+- **$ / 1000 (reported)** = the same mean from the cost that OpenRouter reports per call (first call plus repair call). It is a cross-check: on the first full run both give $1.96.
 - `invalid` replies are included, since they were paid for.
 - **Local models:** no API cost (`0 (local)`). Hardware, electricity and time are not counted. The report discusses them separately.

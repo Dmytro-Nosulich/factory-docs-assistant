@@ -4,6 +4,8 @@
 prompt = "extract"
 prompt_version = "v1"
 max_input_tokens = 20000   # whole pages up to this estimate (S1-03)
+repair_prompt = "repair"   # an invalid reply gets one repair attempt with this prompt (S1-15)
+repair_prompt_version = "v1"
 
 [budget]
 stop_at_usd = 4.0          # stop before the next call once all results/ together cost this (course budget $5)

@@ -11,6 +11,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Say it plainly in the prompt (prompt v2, S1-14): "if no value is stated, set concentration to null, not {min: null, max: null}".
   - A repair attempt with the validation error (S1-15).
 - **Current selection:** none yet. It is a measured first-response failure and stays counted as one. Handle it in S1-14 (prompt v2) and/or S1-15 (repair), and record the effect.
+- **S1-15 result (2026-10-27):** the repair attempt (`prompts/repair_v1.md`) made both invalid v3 replies schema-valid (qwen default D001: min/max both null; qwen greedy D037: min 10 > max 5). Both did it by setting the concentration to null, while the documents give 100 % and 1-5 %. So repair fixes validity, not the value; the first-response failures stay counted in "Valid (1st)" (`prompts/CHANGELOG.md`, repair v1).
 - **Status:** open.
 
 ## I-004: Ollama context window, silent truncation and prompt cache

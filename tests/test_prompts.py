@@ -23,6 +23,15 @@ def test_later_versions_keep_the_v1_placeholders(version):
     assert later.sha256 != v1.sha256
 
 
+def test_repair_v1_has_no_system_message():
+    prompt = load_prompt("repair", "v1")
+    assert prompt.system is None
+    assert prompt.placeholders == {"errors"}
+    (user,) = prompt.render(errors="- signal_word: bad value")
+    assert user["role"] == "user"
+    assert "- signal_word: bad value" in user["content"]
+
+
 def test_render_fills_document_and_schema():
     prompt = load_prompt("extract", "v1")
     system, user = prompt.render(document="SECTION 1: Example Cleaner", schema=schema_text())

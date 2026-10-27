@@ -124,5 +124,7 @@
     "revision_date": "2026-02-10"
   },
   "errors": [],
-  "created_at": "2026-10-27T08:25:22+00:00"
+  "created_at": "2026-10-27T08:25:22+00:00",
+  "repair": null,
+  "final_status": "valid"
 }

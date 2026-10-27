@@ -19,3 +19,15 @@ def test_unknown_prompt_version_lists_the_available_ones(capsys):
     with pytest.raises(SystemExit):
         main(["--model", "haiku-5.5", "--prompt-version", "v99"])
     assert "available versions: ['v1', 'v2', 'v3']" in capsys.readouterr().err
+
+
+def test_repair_needs_a_saved_run(capsys):
+    with pytest.raises(SystemExit):
+        main(["--repair", "no-such-run"])
+    assert "no run.json in results/runs/no-such-run" in capsys.readouterr().err
+
+
+def test_repair_and_resume_are_exclusive(capsys):
+    with pytest.raises(SystemExit):
+        main(["--repair", "a", "--resume", "b"])
+    assert "not allowed with argument" in capsys.readouterr().err

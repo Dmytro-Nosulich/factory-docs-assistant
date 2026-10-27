@@ -1,4 +1,4 @@
-.PHONY: run texts golden-check extract-one metrics comparison test lint format
+.PHONY: run repair texts golden-check extract-one metrics comparison test lint format
 
 MODEL ?= haiku-5.5
 SAMPLING ?=
@@ -9,6 +9,11 @@ PROMPT_ARG = $(if $(PROMPT),--prompt-version $(PROMPT))
 run:
 	uv run python -m factory_docs --model $(MODEL) $(SAMPLING_ARG) $(PROMPT_ARG) \
 		$(if $(DOCS),--docs $(DOCS))
+
+# One repair attempt for each invalid reply of a saved run (S1-15): make repair RUN=<run_id>
+RUN ?=
+repair:
+	uv run python -m factory_docs --repair $(RUN)
 
 texts:
 	uv run python scripts/extract_texts.py

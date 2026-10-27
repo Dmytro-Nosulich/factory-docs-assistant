@@ -10,6 +10,11 @@
     "version": "v3",
     "sha256": "5c2e74f757aa"
   },
+  "repair_prompt": {
+    "name": "repair",
+    "version": "v1",
+    "sha256": "819f1c9eb4eb"
+  },
   "params": {
     "num_ctx": 65536,
     "num_predict": 4000,
@@ -66,12 +71,18 @@
     "error": 0,
     "not_run": 0
   },
+  "final_counts": {
+    "valid": 34,
+    "repaired": 1,
+    "failed": 0,
+    "error": 0
+  },
   "cost_usd": 0.0,
   "spent_total_usd": 0.217117,
   "budget_stop_at_usd": 4.0,
   "tokens": {
-    "prompt": 409326,
-    "completion": 14206
+    "prompt": 418074,
+    "completion": 14401
   },
   "truncated": [
     "D003"
@@ -80,9 +91,11 @@
     {
       "doc_id": "D037",
       "status": "invalid",
+      "final_status": "repaired",
       "errors": [
         "components[0].concentration: Value error, min (10.0) is greater than max (5.0)"
-      ]
+      ],
+      "repair_errors": []
     }
   ],
   "not_run": [],

@@ -48,7 +48,7 @@ def main() -> None:
     path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     call, inp = record["call"], record["input"]
-    print(f"{args.doc} {label}: {record['status']}")
+    print(f"{args.doc} {label}: {record['status']} (after repair: {record['final_status']})")
     print(f"  provider: {record['model'].get('provider')}, attempts: {call['attempts']}")
     if record["status"] != "error":
         print(

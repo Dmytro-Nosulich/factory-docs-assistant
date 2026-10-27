@@ -76,5 +76,7 @@
     "revision_date": "2021-04-09"
   },
   "errors": [],
-  "created_at": "2026-10-27T08:24:54+00:00"
+  "created_at": "2026-10-27T08:24:54+00:00",
+  "repair": null,
+  "final_status": "valid"
 }

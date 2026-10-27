@@ -19,16 +19,26 @@ VALID = {
 
 
 class FakeClient:
-    def __init__(self, reply: str | Exception):
-        self.reply = reply
-        self.messages = None
+    """Replies in order: a string is the model's content, an exception is raised.
+
+    A single reply is repeated for every call.
+    """
+
+    def __init__(self, replies: str | Exception | list[str | Exception]):
+        self.replies = replies
+        self.conversations = []
+
+    @property
+    def messages(self):
+        return self.conversations[0]
 
     def complete(self, messages, schema):
-        self.messages = messages
-        if isinstance(self.reply, Exception):
-            raise self.reply
+        self.conversations.append(messages)
+        reply = self.replies.pop(0) if isinstance(self.replies, list) else self.replies
+        if isinstance(reply, Exception):
+            raise reply
         return ModelResponse(
-            content=self.reply,
+            content=reply,
             finish_reason="stop",
             response_model="vendor/model",
             provider="Vendor",
@@ -53,6 +63,11 @@ def run(tmp_path, reply, model_key="haiku-5.5", sampling=None):
 def test_valid_reply(tmp_path):
     record, client = run(tmp_path, json.dumps(VALID))
     assert record["status"] == "valid"
+    assert (record["final_status"], record["repair"], len(client.conversations)) == (
+        "valid",
+        None,
+        1,
+    )
     assert record["output"]["product_name"] == "Example Cleaner"
     assert record["errors"] == []
     assert record["prompt"]["version"] == "v1"
@@ -84,7 +99,52 @@ def test_non_json_reply(tmp_path):
 
 
 def test_failed_call(tmp_path):
-    record, _ = run(tmp_path, ModelCallError("timeout (gave up after 4 attempts)", None, 4))
+    record, client = run(tmp_path, ModelCallError("timeout (gave up after 4 attempts)", None, 4))
     assert record["status"] == "error"
     assert record["call"] == {"attempts": 4, "http_status": None}
     assert "gave up" in record["errors"][0]
+    # no reply to repair: no repair call
+    assert (record["final_status"], record["repair"], len(client.conversations)) == (
+        "error",
+        None,
+        1,
+    )
+
+
+INVALID = json.dumps({**VALID, "flash_point": {"min": 10, "max": 5, "unit": "celsius"}})
+
+
+def test_invalid_reply_is_repaired(tmp_path):
+    record, client = run(tmp_path, [INVALID, json.dumps(VALID)])
+    assert record["final_status"] == "repaired"
+    # the first response stays as it was
+    assert (record["status"], record["output"], record["raw"]) == ("invalid", None, INVALID)
+    assert record["errors"][0].startswith("flash_point:")
+    repair = record["repair"]
+    assert (repair["status"], repair["errors"]) == ("valid", [])
+    assert repair["output"]["product_name"] == "Example Cleaner"
+    assert repair["prompt"]["name"] == "repair" and repair["prompt"]["version"] == "v1"
+    assert repair["call"]["cost_usd"] == 0.00001
+    # the same conversation, plus the invalid reply and a message with the validation errors
+    first, second = client.conversations
+    assert second[: len(first)] == first
+    assert second[len(first)] == {"role": "assistant", "content": INVALID}
+    assert second[-1]["role"] == "user"
+    assert f"- {record['errors'][0]}" in second[-1]["content"]
+
+
+def test_invalid_repair_fails(tmp_path):
+    record, client = run(tmp_path, [INVALID, "still not JSON"])
+    assert (record["status"], record["final_status"]) == ("invalid", "failed")
+    assert record["repair"]["status"] == "invalid"
+    assert record["repair"]["errors"][0].startswith("not valid JSON")
+    assert len(client.conversations) == 2  # one repair attempt only
+
+
+def test_repair_call_error_fails(tmp_path):
+    record, _ = run(
+        tmp_path, [INVALID, ModelCallError("HTTP 503 (gave up after 4 attempts)", 503, 4)]
+    )
+    assert (record["status"], record["final_status"]) == ("invalid", "failed")
+    assert record["repair"]["status"] == "error"
+    assert record["repair"]["call"] == {"attempts": 4, "http_status": 503}

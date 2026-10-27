@@ -10,6 +10,11 @@
     "version": "v1",
     "sha256": "dee1bb73e69d"
   },
+  "repair_prompt": {
+    "name": "repair",
+    "version": "v1",
+    "sha256": "819f1c9eb4eb"
+  },
   "params": {
     "reasoning_effort": "none",
     "max_tokens": 8000
@@ -59,6 +64,12 @@
     "invalid": 0,
     "error": 0,
     "not_run": 0
+  },
+  "final_counts": {
+    "valid": 35,
+    "repaired": 0,
+    "failed": 0,
+    "error": 0
   },
   "cost_usd": 0.068593,
   "spent_total_usd": 0.145369,

@@ -97,5 +97,7 @@
     "revision_date": "2020-05-19"
   },
   "errors": [],
-  "created_at": "2026-10-21T21:49:23+00:00"
+  "created_at": "2026-10-21T21:49:23+00:00",
+  "repair": null,
+  "final_status": "valid"
 }

@@ -52,5 +52,59 @@
   "errors": [
     "components[0].concentration: Value error, min (10.0) is greater than max (5.0)"
   ],
-  "created_at": "2026-10-27T09:50:52+00:00"
+  "created_at": "2026-10-27T09:50:52+00:00",
+  "repair": {
+    "prompt": {
+      "name": "repair",
+      "version": "v1",
+      "sha256": "819f1c9eb4eb"
+    },
+    "status": "valid",
+    "call": {
+      "finish_reason": "stop",
+      "response_model": "qwen3.5:9b",
+      "provider": "ollama",
+      "generation_id": null,
+      "prompt_tokens": 8748,
+      "completion_tokens": 195,
+      "reasoning_tokens": null,
+      "cost_usd": 0.0,
+      "latency_s": 23.455,
+      "total_s": 23.455,
+      "attempts": 1,
+      "details": {
+        "prompt_cached_tokens": 0,
+        "load_s": 0.003,
+        "prompt_eval_s": 20.756,
+        "eval_s": 2.678,
+        "thinking_chars": 0
+      }
+    },
+    "raw": "{\n  \"product_name\": \"Stein- und Fassadenreiniger 3-in-1 RM 611\",\n  \"language\": \"de\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Alkylpolyglycosid\",\n      \"cas_number\": \"68515-73-1\",\n      \"concentration\": null\n    },\n    {\n      \"name\": \"Natriumpyrithion\",\n      \"cas_number\": \"3811-73-2\",\n      \"concentration\": null\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2025-06-16\"\n}",
+    "output": {
+      "product_name": "Stein- und Fassadenreiniger 3-in-1 RM 611",
+      "language": "de",
+      "signal_word": "none",
+      "physical_state": "liquid",
+      "components": [
+        {
+          "name": "Alkylpolyglycosid",
+          "cas_number": "68515-73-1",
+          "concentration": null
+        },
+        {
+          "name": "Natriumpyrithion",
+          "cas_number": "3811-73-2",
+          "concentration": null
+        }
+      ],
+      "hazard_statements": [],
+      "flash_point": null,
+      "un_number": null,
+      "revision_date": "2025-06-16"
+    },
+    "errors": [],
+    "created_at": "2026-10-27T10:21:46+00:00"
+  },
+  "final_status": "repaired"
 }

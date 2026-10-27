@@ -54,5 +54,7 @@
     "revision_date": "2021-07-30"
   },
   "errors": [],
-  "created_at": "2026-10-21T21:38:01+00:00"
+  "created_at": "2026-10-21T21:38:01+00:00",
+  "repair": null,
+  "final_status": "valid"
 }

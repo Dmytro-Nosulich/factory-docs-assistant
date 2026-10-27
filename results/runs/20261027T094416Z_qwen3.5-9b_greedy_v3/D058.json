@@ -140,5 +140,7 @@
     "revision_date": "2017-12-14"
   },
   "errors": [],
-  "created_at": "2026-10-27T09:58:24+00:00"
+  "created_at": "2026-10-27T09:58:24+00:00",
+  "repair": null,
+  "final_status": "valid"
 }

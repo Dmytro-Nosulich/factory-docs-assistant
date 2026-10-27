@@ -1,5 +1,8 @@
 """Step 2 measurements of a run, S1-11: field accuracy on the golden set, % valid, latency, cost.
 
+The first response is measured on its own; the repair step (S1-15) adds separate "after
+repair" numbers, so it cannot hide first-response failures.
+
 Every rule here is written down, with the reasons, in docs/METRICS.md; keep the two in step.
 A run is read only from its files in results/runs/<run_id>/, so the numbers can be re-computed
 at any time without calling a model.
@@ -146,6 +149,25 @@ def is_cached(call: dict) -> bool:
     return prompt > 0 and cached >= 0.5 * prompt
 
 
+def paid_calls(record: dict) -> list[dict]:
+    """The calls of a record that returned a reply: the first one and its repair call, if any."""
+    if record["status"] == "error" or not record["call"]:
+        return []
+    repair = record.get("repair")
+    if repair and repair["status"] != "error" and repair["call"]:
+        return [record["call"], repair["call"]]
+    return [record["call"]]
+
+
+def final_output(record: dict) -> dict | None:
+    """The usable output after the repair step: the first one, else the repaired one."""
+    if record["status"] == "valid":
+        return record["output"]
+    if record.get("final_status") == "repaired":
+        return record["repair"]["output"]
+    return None
+
+
 def load_run(run_dir: Path) -> tuple[dict, list[dict]]:
     """run.json and the result records of the run's documents that have one, in run order."""
     summary = json.loads((run_dir / SUMMARY).read_text(encoding="utf-8"))
@@ -164,7 +186,9 @@ def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dic
 
     per_field = dict.fromkeys(FIELDS, 0)
     items = {name: ItemCounts() for name in ITEM_SCORES}
-    golden_docs = valid_golden_docs = matched_valid = 0
+    golden_docs = valid_golden_docs = matched_valid = matched_repaired = 0
+    # "after repair" numbers only when every record went through the repair step (S1-15)
+    repair_applied = all(r.get("final_status") for r in records)
     for record in records:
         golden = load_golden(record["doc_id"], golden_dir)
         if golden is None:
@@ -179,26 +203,40 @@ def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dic
         if valid:
             valid_golden_docs += 1
             matched_valid += sum(score.fields.values())
+        if repair_applied:
+            matched_repaired += sum(score_document(final_output(record), golden).fields.values())
 
     calls = [r["call"] for r in records if r["status"] != "error" and r["call"]]
     latencies = [c["latency_s"] for c in calls]
     model = config.models.get(model_key)
     priced = None
+    # Cost per document: the first call plus its repair call, if any (both are paid).
+    documents = [paid_calls(r) for r in records if paid_calls(r)]
     if isinstance(model, OllamaModel):
         priced = 0.0
     elif model is not None:
         priced = mean(
             [
-                (
+                sum(
                     c["prompt_tokens"] * model.price_in_usd_per_mtok
                     + c["completion_tokens"] * model.price_out_usd_per_mtok
+                    for c in doc
                 )
                 / 1e6
-                for c in calls
-                if c["prompt_tokens"] is not None and c["completion_tokens"] is not None
+                for doc in documents
+                if all(
+                    c["prompt_tokens"] is not None and c["completion_tokens"] is not None
+                    for c in doc
+                )
             ]
         )
-    reported = mean([c["cost_usd"] for c in calls if c["cost_usd"] is not None])
+    reported = mean(
+        [
+            sum(c["cost_usd"] for c in doc)
+            for doc in documents
+            if all(c["cost_usd"] is not None for c in doc)
+        ]
+    )
 
     return {
         "run_id": summary["run_id"],
@@ -208,8 +246,15 @@ def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dic
         "prompt": summary["prompt"]["version"],
         "docs": len(records),
         "valid": sum(r["status"] == "valid" for r in records),
+        "valid_after_repair": (
+            sum(r["final_status"] in ("valid", "repaired") for r in records)
+            if repair_applied
+            else None
+        ),
+        "repair_attempts": sum(bool(r.get("repair")) for r in records),
         "golden_docs": golden_docs,
         "fields_matched": sum(per_field.values()),
+        "fields_matched_after_repair": matched_repaired if repair_applied else None,
         "valid_golden_docs": valid_golden_docs,
         "fields_matched_valid": matched_valid,
         "per_field": per_field,
@@ -256,9 +301,10 @@ def format_tables(rows: list[dict]) -> str:
                 sampling_label(row),
                 row["prompt"],
                 ratio(row["valid"], row["docs"]),
-                "n/a (S1-15)",
+                after_repair(row["valid_after_repair"], row["docs"]),
                 str(row["golden_docs"]),
                 ratio(row["fields_matched"], len(FIELDS) * row["golden_docs"]),
+                after_repair(row["fields_matched_after_repair"], len(FIELDS) * row["golden_docs"]),
                 ratio(row["fields_matched_valid"], len(FIELDS) * row["valid_golden_docs"]),
                 f"{latency['p50']:.1f} / {latency['p95']:.1f} (n={latency['n']})"
                 if latency["n"]
@@ -286,17 +332,21 @@ def format_tables(rows: list[dict]) -> str:
     notes = [
         "Rules: docs/METRICS.md.",
         "Valid (1st): schema-valid first response over all documents in the run. "
-        "After repair: no repair step yet (S1-15).",
-        "Field acc.: matched fields / (9 x golden documents); a failed document misses all 9. "
-        "Valid only: the same over golden documents with a valid output.",
-        "Latency: seconds, the successful attempt of each call, nearest-rank percentiles. "
+        "Valid after repair: valid on the first response or after one repair attempt "
+        "(S1-15); '-' if the run has results from before the repair step.",
+        "Field acc.: matched fields / (9 x golden documents) on the first response; a failed "
+        "document misses all 9. After repair: the same, with the repaired output of repaired "
+        "documents. Valid only: first response, over golden documents with a valid output.",
+        "Latency: seconds, the successful attempt of each first call (repair calls excluded), "
+        "nearest-rank percentiles. "
         "OpenRouter latency includes routing and depends on the upstream provider. "
         "Cached: local calls where Ollama took at least half of the prompt from its cache "
         "(faster than a cold call).",
-        "$ / 1000 docs: mean tokens x price in config.toml (checked: "
+        "$ / 1000 docs: mean tokens x price per document, repair calls included, with the "
+        "price in config.toml (checked: "
         + (", ".join(checked) or "-")
         + "); reported: OpenRouter's own cost. Local: no API cost; hardware and time not counted.",
-        "Per-field table: documents where the field matches / golden documents; "
+        "Per-field table (first response): documents where the field matches / golden documents; "
         "list F1 is item-level over all golden documents; hazard_codes F1 ignores the text.",
     ]
     return "\n\n".join(
@@ -311,6 +361,7 @@ def format_tables(rows: list[dict]) -> str:
                     "Valid after repair",
                     "Golden docs",
                     "Field acc.",
+                    "Field acc. (after repair)",
                     "Field acc. (valid only)",
                     "Latency p50 / p95 s",
                     "Cached",
@@ -323,6 +374,10 @@ def format_tables(rows: list[dict]) -> str:
             "\n".join(f"- {note}" for note in notes),
         ]
     )
+
+
+def after_repair(matched: int | None, total: int) -> str:
+    return "-" if matched is None else ratio(matched, total)
 
 
 def money(value: float | None) -> str:

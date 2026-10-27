@@ -125,3 +125,24 @@ and after, from the metrics script).
     temperature 1.0. Both invalid responses are cases for S1-15 (one repair attempt).
   - Next step, if any: drop the "never min = max" sentence, which caused D001, and tell the
     model to ignore specific concentration limits ("C ≥ …"), which caused D037.
+
+## repair v1 (2026-10-27)
+- What: a new prompt, not an extraction version. When a reply fails validation, the model gets
+  one repair attempt: the same conversation plus its own invalid reply and this user message,
+  which lists the validation errors and asks for the complete corrected JSON, changing only what
+  the errors require. No system section; it continues the extraction conversation (S1-15).
+- Why: S1-14 produced the first invalid first responses (qwen v3: D001 default, D037 greedy).
+  Both break Pydantic range rules that the JSON schema cannot express, so constrained decoding
+  does not prevent them (`docs/ISSUES.md` I-005). The prompt is generic on purpose: it names no
+  field and suggests no fix.
+- Measured effect (`make repair` on the 9 comparison runs, then `make comparison`; first-response
+  columns unchanged): the two invalid replies were both repaired, so every run is 35/35 valid
+  after repair. Both repairs passed the schema by setting the concentration to null:
+  - D001 (qwen default v3): nitrogen became `concentration: null`; the label is 100 %. The other
+    8 fields match, so field accuracy goes 73/90 (81.1%) -> 81/90 (90.0%) after repair, but
+    `components` is still wrong.
+  - D037 (qwen greedy v3, not in the golden set): the first component became `null`; the text
+    says "1-5%", so the right value is min 1, max 5.
+  - Repair calls: 28.2 s and 23.5 s on the M4 Pro (local, $0).
+  - Caveat: n = 2. Repair restores validity, not accuracy: both fixes chose the easy null over
+    the value in the document.

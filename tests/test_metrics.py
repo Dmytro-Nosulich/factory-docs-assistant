@@ -196,8 +196,55 @@ def test_run_metrics_matches_hand_computed_values(tmp_path):
     # tokens x price per document: 0.00015, 0.0004, 0.0002, 0.0004; mean 0.0002875
     assert row["cost_per_1000"]["priced"] == pytest.approx(0.2875)
     assert row["cost_per_1000"]["reported"] == pytest.approx(1.0)
+    assert row["valid_after_repair"] is None  # results from before the repair step (S1-15)
+    assert row["fields_matched_after_repair"] is None
     table = format_tables([row])
-    assert "16/27 (59.3%)" in table and "16/18 (88.9%)" in table and "n/a (S1-15)" in table
+    assert "16/27 (59.3%)" in table and "16/18 (88.9%)" in table
+    assert "| 3/5 (60.0%) | - | 3 | 16/27 (59.3%) | - |" in table
+
+
+def repaired(record_, status, output=None):
+    """record_ after its repair attempt; status is the repair reply's."""
+    record_["repair"] = {
+        "status": status,
+        "call": {"prompt_tokens": 1500, "completion_tokens": 100, "cost_usd": 0.001},
+        "output": output,
+    }
+    record_["final_status"] = "repaired" if status == "valid" else "failed"
+    return record_
+
+
+def test_after_repair_metrics_match_hand_computed_values(tmp_path):
+    golden_dir = tmp_path / "golden"
+    golden_dir.mkdir()
+    for doc_id in ("G1", "G2", "G3"):
+        (golden_dir / f"{doc_id}.json").write_text(json.dumps(GOLDEN), encoding="utf-8")
+    valid, error = record("G1", "valid", OUTPUT), record("E1", "error")  # 7/9 both ways
+    valid["final_status"], error["final_status"] = "valid", "error"
+    records = [
+        valid,
+        repaired(record("G2", "invalid", latency=2.0), "valid", GOLDEN),  # 0/9 -> 9/9
+        repaired(record("G3", "invalid", latency=3.0), "invalid"),  # 0/9 -> 0/9
+        error,
+    ]
+    run_dir = write_run(tmp_path, "cloud", "openrouter", records)
+    config = load_config()
+    cloud = config.models["haiku-5.5"].model_copy(
+        update={"price_in_usd_per_mtok": 0.10, "price_out_usd_per_mtok": 0.50}
+    )
+    config = config.model_copy(update={"models": {"cloud": cloud}})
+
+    row = run_metrics(run_dir, config, golden_dir)
+
+    assert (row["valid"], row["valid_after_repair"], row["repair_attempts"]) == (1, 2, 2)
+    assert (row["fields_matched"], row["fields_matched_after_repair"]) == (7, 16)  # of 27
+    assert row["per_field"]["signal_word"] == 0  # the per-field table stays first-response
+    assert row["latency"]["n"] == 3  # first calls only: G1, G2, G3
+    # per document: G1 0.00015; G2 and G3 0.00015 + repair 0.0002 = 0.00035; mean 0.000283
+    assert row["cost_per_1000"]["priced"] == pytest.approx(0.85 / 3)
+    assert row["cost_per_1000"]["reported"] == pytest.approx(5 / 3)  # 0.001, 0.002, 0.002
+    table = format_tables([row])
+    assert "| 1/4 (25.0%) | 2/4 (50.0%) | 3 | 7/27 (25.9%) | 16/27 (59.3%) |" in table
 
 
 def test_local_run_costs_nothing_and_counts_cached_prompts(tmp_path):

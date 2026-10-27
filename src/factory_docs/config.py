@@ -27,6 +27,8 @@ class ExtractionSettings(Settings):
     prompt: str
     prompt_version: str
     max_input_tokens: int = Field(gt=0)
+    repair_prompt: str  # one repair attempt for an invalid reply, S1-15
+    repair_prompt_version: str
 
 
 class BudgetSettings(Settings):

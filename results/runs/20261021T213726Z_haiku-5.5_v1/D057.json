@@ -62,5 +62,7 @@
     "revision_date": "2026-09-08"
   },
   "errors": [],
-  "created_at": "2026-10-21T21:38:25+00:00"
+  "created_at": "2026-10-21T21:38:25+00:00",
+  "repair": null,
+  "final_status": "valid"
 }
