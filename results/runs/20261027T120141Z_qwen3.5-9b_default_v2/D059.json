@@ -1,0 +1,85 @@
+{
+  "doc_id": "D059",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 24,
+    "pages_total": 24,
+    "truncated": false,
+    "est_tokens": 17267,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 25116,
+    "completion_tokens": 260,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 67.453,
+    "total_s": 67.453,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 505,
+      "load_s": 0.001,
+      "prompt_eval_s": 63.291,
+      "eval_s": 4.147,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.\",\n  \"language\": \"fr\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"solid\",\n  \"components\": [],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H315\",\n      \"text\": \"Provoque une irritation cutanée.\"\n    },\n    {\n      \"code\": \"H334\",\n      \"text\": \"Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"Peut provoquer une allergie cutanée.\"\n    },\n    {\n      \"code\": \"H351\",\n      \"text\": \"Susceptible de provoquer le cancer.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2026-02-26\"\n}",
+  "output": {
+    "product_name": "3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.",
+    "language": "fr",
+    "signal_word": "danger",
+    "physical_state": "solid",
+    "components": [],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Provoque une irritation cutanée."
+      },
+      {
+        "code": "H334",
+        "text": "Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation."
+      },
+      {
+        "code": "H317",
+        "text": "Peut provoquer une allergie cutanée."
+      },
+      {
+        "code": "H351",
+        "text": "Susceptible de provoquer le cancer."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-02-26"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:16:13+00:00"
+}

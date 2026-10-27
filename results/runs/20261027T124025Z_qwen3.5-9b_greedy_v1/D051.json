@@ -1,0 +1,105 @@
+{
+  "doc_id": "D051",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 6262,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8664,
+    "completion_tokens": 398,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 25.912,
+    "total_s": 25.912,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 20.438,
+      "eval_s": 5.467,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"BOSTIK TILE ADHESIVE 8020 FLOOR&WALL\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"Quartz\",\n      \"cas_number\": \"14808-60-7\",\n      \"concentration\": {\n        \"min\": 40,\n        \"max\": 80,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Cement, portland, chemicals (Chromium VI reduced)\",\n      \"cas_number\": \"65997-15-1\",\n      \"concentration\": {\n        \"min\": 25,\n        \"max\": 40,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Flue dust, Cement Portland\",\n      \"cas_number\": \"68475-76-3\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Calcium hydroxide\",\n      \"cas_number\": \"1305-62-0\",\n      \"concentration\": {\n        \"min\": 0.1,\n        \"max\": 1,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2020-05-19\"\n}",
+  "output": {
+    "product_name": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "Quartz",
+        "cas_number": "14808-60-7",
+        "concentration": {
+          "min": 40.0,
+          "max": 80.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Cement, portland, chemicals (Chromium VI reduced)",
+        "cas_number": "65997-15-1",
+        "concentration": {
+          "min": 25.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Flue dust, Cement Portland",
+        "cas_number": "68475-76-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Calcium hydroxide",
+        "cas_number": "1305-62-0",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2020-05-19"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:51:00+00:00"
+}

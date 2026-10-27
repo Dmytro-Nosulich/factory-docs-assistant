@@ -1,0 +1,91 @@
+{
+  "doc_id": "D032",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 3449,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 7527,
+    "completion_tokens": 306,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 21.668,
+    "total_s": 21.668,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 121,
+      "load_s": 0.001,
+      "prompt_eval_s": 17.36,
+      "eval_s": 4.302,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"STIHL Засіб для мийки автомобілів CC 100\",\n  \"language\": \"uk\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Dimethyl siloxane, (aminoalkyl)methoxymethylsiloxy- and dimethylalkoxy-terminated\",\n      \"cas_number\": \"188627-10-3\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H316\",\n      \"text\": \"Спричиняє легке подразнення шкіри.\"\n    },\n    {\n      \"code\": \"H315\",\n      \"text\": \"Спричиняє подразнення шкіри.\"\n    },\n    {\n      \"code\": \"H319\",\n      \"text\": \"Спричиняє важкі подразнення очей.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2020-09-22\"\n}",
+  "output": {
+    "product_name": "STIHL Засіб для мийки автомобілів CC 100",
+    "language": "uk",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Dimethyl siloxane, (aminoalkyl)methoxymethylsiloxy- and dimethylalkoxy-terminated",
+        "cas_number": "188627-10-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H316",
+        "text": "Спричиняє легке подразнення шкіри."
+      },
+      {
+        "code": "H315",
+        "text": "Спричиняє подразнення шкіри."
+      },
+      {
+        "code": "H319",
+        "text": "Спричиняє важкі подразнення очей."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2020-09-22"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:45:09+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "doc_id": "D053",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000,
+    "sampling": null
+  },
+  "input": {
+    "pages_sent": 9,
+    "pages_total": 9,
+    "truncated": false,
+    "est_tokens": 4775,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793101153-m6bZmx7fOfxX1AaV6ovh",
+    "prompt_tokens": 13096,
+    "completion_tokens": 208,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0014136,
+    "latency_s": 2.14,
+    "total_s": 2.14,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Antifreeze\",\"language\":\"en\",\"signal_word\":\"warning\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"Ethylene glycol\",\"cas_number\":\"107-21-1\",\"concentration\":{\"min\":90,\"max\":95,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H302\",\"text\":\"Harmful if swallowed.\"},{\"code\":\"H373\",\"text\":\"May cause damage to organs through prolonged or repeated exposure.\"}],\"flash_point\":{\"min\":119,\"max\":119,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2023-01-09\"}",
+  "output": {
+    "product_name": "Antifreeze",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Ethylene glycol",
+        "cas_number": "107-21-1",
+        "concentration": {
+          "min": 90.0,
+          "max": 95.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H302",
+        "text": "Harmful if swallowed."
+      },
+      {
+        "code": "H373",
+        "text": "May cause damage to organs through prolonged or repeated exposure."
+      }
+    ],
+    "flash_point": {
+      "min": 119.0,
+      "max": 119.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2023-01-09"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:39:13+00:00"
+}

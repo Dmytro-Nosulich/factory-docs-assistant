@@ -29,3 +29,12 @@ def test_result_file_names_its_configuration(path):
     if model["client"] == "ollama":
         assert params["sampling"]["name"]
         assert params["num_ctx"] and params["num_predict"]
+
+
+def test_report_tables_are_up_to_date():
+    """REPORT.md shows what `make comparison` makes from the committed runs (S1-17)."""
+    from factory_docs.config import load_config
+    from factory_docs.report import REPORT, comparison_section, read_section
+
+    section, _, _ = comparison_section(load_config())
+    assert read_section(REPORT.read_text(encoding="utf-8")) == section, "run `make comparison`"

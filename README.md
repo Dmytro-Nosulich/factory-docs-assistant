@@ -9,28 +9,33 @@ Real factory documentation is closed, so this project uses only **public, openly
 ## Requirements
 - [uv](https://docs.astral.sh/uv/) (installs the right Python version, 3.11, automatically)
 - `make`
+- [Ollama](https://ollama.com) running, with the local model pulled: `ollama pull qwen3.5:9b` (6.6 GB)
+- An [OpenRouter](https://openrouter.ai) key in `.env` for the cloud model (paid, see below)
 
 ## How to run
 ```sh
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
-make run               # extract all 35 stage 1 documents with the cloud model (paid, see below)
+make run               # everything: every model x prompt x sampling on all 35 documents, then REPORT.md
+make run DOCS="D001 D007"   # the same on two documents: a quick check (the REPORT.md tables keep full runs only)
 make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
 make repair RUN=<run_id>    # one repair attempt for each invalid reply of a saved run
 make metrics           # metrics table of all saved runs (rules: docs/METRICS.md)
-make comparison        # rewrite results/comparison.md from the pinned comparison runs (no model calls)
+make comparison        # rewrite the comparison tables in REPORT.md from saved runs (no model calls)
 make test              # run tests
 make lint              # lint and format check
 ```
 
 ### The full run
-`make run` sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`) to the cloud model, one at a time. One run with `anthropic/claude-haiku-5.5` cost $0.07 and took 83 seconds (2026-10-21, `results/runs/20261021T213726Z_haiku-5.5_v1/run.json`). It writes `results/runs/<run_id>/`: one `<doc_id>.json` per document with status `valid`, `invalid` (reply not schema-valid) or `error` (call failed), and `run.json` with counts, cost, truncated documents and every failure. An invalid reply gets one repair attempt: the model sees its reply and the validation errors (`prompts/repair_v1.md`). The result is stored next to the first reply as `repaired` or `failed`, so first-response failures stay visible. Failed documents are saved, not hidden or retried. Every result file also records the configuration that produced it: the model (for a local model, also the Ollama digest of the exact build), the prompt version and file hash, every parameter sent (the sampling configuration for a local model; `null` for the cloud model, which takes none) and the input cap.
+`make run` runs every configuration in `[comparison]` in `config.toml`: the cloud model with prompts v1, v2 and v3, then the local model with each prompt and each sampling configuration (`default`, `greedy`). That makes 9 runs. Each run sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`), one at a time. Before the first call it checks that the key is set, Ollama answers and the model is pulled. At the end it rewrites the comparison tables in `REPORT.md`, using the newest complete run of each configuration. The full run on 2026-10-27 took 2 h 0 min on an Apple M4 Pro and cost $0.21: each cloud run about 1.5 min and $0.07, each local run about 19-20 min and free (the `run.json` files of the 9 runs `20261027T113823Z_haiku-5.5_v1` to `20261027T131907Z_qwen3.5-9b_greedy_v3`). On a laptop without a GPU the local runs take longer; that was not measured (`docs/ISSUES.md` I-004).
 
-Budget guard: before each call, the cost recorded in all of `results/` is checked against `budget.stop_at_usd` in `config.toml` ($4); at that point the run stops and lists the remaining documents as `not_run`. Continue a stopped or interrupted run with `uv run python -m factory_docs --resume <run_id>`; it only fills in missing documents.
+Each run writes `results/runs/<run_id>/`: one `<doc_id>.json` per document with status `valid`, `invalid` (reply not schema-valid) or `error` (call failed), and `run.json` with counts, cost, truncated documents and every failure. An invalid reply gets one repair attempt: the model sees its reply and the validation errors (`prompts/repair_v1.md`). The result is stored next to the first reply as `repaired` or `failed`, so first-response failures stay visible. Failed documents are saved, not hidden or retried. Every result file also records the configuration that produced it: the model (for a local model, also the Ollama digest of the exact build), the prompt version and file hash, every parameter sent (the sampling configuration for a local model; `null` for the cloud model, which takes none) and the input cap.
 
-### Local model (Ollama)
-The same runner works with local models through [Ollama](https://ollama.com). They are sized for an ordinary laptop (32 GB RAM): 4-12B parameters. Install Ollama, pull a model and pass its key from `config.toml`:
+Budget guard: before each call, the cost recorded in all of `results/` is checked against `budget.stop_at_usd` in `config.toml` ($4); at that point the run stops and lists the remaining documents as `not_run`. Continue a stopped or interrupted run with `uv run python -m factory_docs --resume <run_id>`; it only fills in missing documents. Then `make comparison` rebuilds the tables.
+
+### One configuration
+`MODEL`, `SAMPLING` or `PROMPT` runs one configuration instead of all of them (without `MODEL`: the cloud model). Local models run through [Ollama](https://ollama.com) and are sized for an ordinary laptop (32 GB RAM): 4-12B parameters. Pass a model key from `config.toml`:
 ```sh
-ollama pull qwen3.5:9b
+make run MODEL=haiku-5.5                        # the cloud model, all 35 documents
 make run MODEL=qwen3.5-9b                       # all 35 documents, no API cost
 make run MODEL=qwen3.5-9b DOCS="D001 D007"      # a subset
 make run MODEL=qwen3.5-9b SAMPLING=greedy       # another sampling configuration
@@ -45,6 +50,7 @@ Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in 
 - `src/factory_docs/`: application code
 - `data/raw/`: source PDFs; `data/manifest.csv`: document list with source and terms
 - `prompts/`: versioned prompts
-- `results/`: model outputs and metrics; `results/comparison.md`: the model x sampling comparison (S1-12)
+- `results/runs/`: one folder per run, with every model output and its configuration
+- `REPORT.md`: the comparison tables (generated) and the analysis
 - `scripts/`: helper scripts
 - `tests/`: tests

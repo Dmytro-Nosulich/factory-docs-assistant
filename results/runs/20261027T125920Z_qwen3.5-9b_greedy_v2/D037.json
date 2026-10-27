@@ -1,0 +1,83 @@
+{
+  "doc_id": "D037",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 4505,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8277,
+    "completion_tokens": 222,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 22.143,
+    "total_s": 22.143,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 505,
+      "load_s": 0.004,
+      "prompt_eval_s": 18.865,
+      "eval_s": 3.269,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Stein- und Fassadenreiniger 3-in-1 RM 611\",\n  \"language\": \"de\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Alkylpolyglycosid\",\n      \"cas_number\": \"68515-73-1\",\n      \"concentration\": {\n        \"min\": 10,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Natriumpyrithion\",\n      \"cas_number\": \"3811-73-2\",\n      \"concentration\": null\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2025-06-16\"\n}",
+  "output": {
+    "product_name": "Stein- und Fassadenreiniger 3-in-1 RM 611",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Alkylpolyglycosid",
+        "cas_number": "68515-73-1",
+        "concentration": {
+          "min": 10.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Natriumpyrithion",
+        "cas_number": "3811-73-2",
+        "concentration": null
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2025-06-16"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T13:06:03+00:00"
+}

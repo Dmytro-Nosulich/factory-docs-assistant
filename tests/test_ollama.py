@@ -5,7 +5,7 @@ import pytest
 
 from factory_docs.config import OllamaModel, OllamaSettings, SamplingConfig
 from factory_docs.models import ModelCallError
-from factory_docs.ollama import OllamaClient
+from factory_docs.ollama import OllamaClient, check_ollama
 
 SETTINGS = OllamaSettings(base_url="http://ollama.test", timeout_s=5, max_retries=1, backoff_s=5.0)
 MODEL = OllamaModel(
@@ -178,3 +178,33 @@ def test_unknown_digest_is_none_not_an_error(tags):
     client, _, _ = make_client(ok(), tags=tags)
     response = client.complete(MESSAGES, SCHEMA)
     assert (response.content, response.model_digest) == ("{}", None)
+
+
+def tags_transport(response):
+    def handler(request: httpx.Request) -> httpx.Response:
+        assert request.url.path == "/api/tags"
+        if isinstance(response, Exception):
+            raise response
+        return response
+
+    return httpx.MockTransport(handler)
+
+
+def test_check_ollama_accepts_pulled_models():
+    tags = httpx.Response(200, json={**TAGS, "models": [*TAGS["models"], {"name": "bare:latest"}]})
+    check_ollama(SETTINGS, ["vendor:small", "bare"], tags_transport(tags))
+
+
+def test_check_ollama_names_the_model_to_pull():
+    with pytest.raises(RuntimeError, match="run `ollama pull vendor:big`"):
+        check_ollama(SETTINGS, ["vendor:small", "vendor:big"], tags_transport(ok_tags()))
+
+
+def test_check_ollama_explains_an_unreachable_server():
+    refused = httpx.ConnectError("connection refused")
+    with pytest.raises(RuntimeError, match="is `ollama serve` running"):
+        check_ollama(SETTINGS, ["vendor:small"], tags_transport(refused))
+
+
+def ok_tags():
+    return httpx.Response(200, json=TAGS)

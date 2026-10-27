@@ -31,3 +31,32 @@ def test_repair_and_resume_are_exclusive(capsys):
     with pytest.raises(SystemExit):
         main(["--repair", "a", "--resume", "b"])
     assert "not allowed with argument" in capsys.readouterr().err
+
+
+def test_all_takes_no_single_run_options(capsys):
+    with pytest.raises(SystemExit):
+        main(["--all", "--model", "qwen3.5-9b"])
+    assert "it takes only --docs" in capsys.readouterr().err
+
+
+def test_all_checks_ollama_before_any_call(monkeypatch, capsys):
+    def no_ollama(settings, slugs):
+        raise RuntimeError(f"Ollama has no model {slugs[0]!r} (run `ollama pull {slugs[0]}`)")
+
+    def no_runs(*args, **kwargs):
+        raise AssertionError("a run started")
+
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test")
+    monkeypatch.setattr("factory_docs.__main__.check_ollama", no_ollama)
+    monkeypatch.setattr("factory_docs.__main__.run_one", no_runs)
+    with pytest.raises(SystemExit):
+        main(["--all", "--docs", "D001"])
+    assert "ollama pull qwen3.5:9b" in capsys.readouterr().err
+
+
+def test_all_needs_the_cloud_key_before_any_call(monkeypatch, capsys):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "")  # set, so .env cannot fill it in
+    monkeypatch.setattr("factory_docs.__main__.check_ollama", lambda settings, slugs: None)
+    with pytest.raises(SystemExit):
+        main(["--all", "--docs", "D001"])
+    assert "OPENROUTER_API_KEY is not set" in capsys.readouterr().err

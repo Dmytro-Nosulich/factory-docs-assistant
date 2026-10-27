@@ -1,0 +1,72 @@
+{
+  "doc_id": "D039",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000,
+    "sampling": null
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5688,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793101219-EJPlYDNLU9PTpiYBTTvT",
+    "prompt_tokens": 14729,
+    "completion_tokens": 162,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0015539,
+    "latency_s": 2.016,
+    "total_s": 2.016,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Argon, compressed\",\"language\":\"en\",\"signal_word\":\"warning\",\"physical_state\":\"gas\",\"components\":[{\"name\":\"Argon\",\"cas_number\":\"7440-37-1\",\"concentration\":{\"min\":100,\"max\":100,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H280\",\"text\":\"Contains gas under pressure; may explode if heated.\"}],\"flash_point\":null,\"un_number\":\"UN1006\",\"revision_date\":\"2020-01-24\"}",
+  "output": {
+    "product_name": "Argon, compressed",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Argon",
+        "cas_number": "7440-37-1",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1006",
+    "revision_date": "2020-01-24"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:40:19+00:00"
+}

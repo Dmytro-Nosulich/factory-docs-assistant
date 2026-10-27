@@ -105,6 +105,28 @@ class OllamaClient:
         return data
 
 
+def check_ollama(
+    settings: OllamaSettings, slugs: list[str], transport: httpx.BaseTransport | None = None
+) -> None:
+    """Fail with what to do unless Ollama answers and has every model pulled (S1-17 preflight).
+
+    Run before the first call of `make run`, so a missing model does not show up hours in.
+    """
+    try:
+        with httpx.Client(base_url=settings.base_url, timeout=10, transport=transport) as http:
+            r = http.get("/api/tags")
+            r.raise_for_status()
+            pulled = {m["name"] for m in r.json()["models"]}
+    except httpx.TransportError as e:
+        message = f"cannot reach Ollama at {settings.base_url} (is `ollama serve` running?)"
+        raise RuntimeError(f"{message}: {e!r}") from e
+    except (httpx.HTTPError, ValueError, KeyError, TypeError) as e:
+        raise RuntimeError(f"cannot list Ollama models at {settings.base_url}: {e!r}") from e
+    for slug in slugs:
+        if slug not in pulled and f"{slug}:latest" not in pulled:
+            raise RuntimeError(f"Ollama has no model {slug!r} (run `ollama pull {slug}`)")
+
+
 def check_context(data: dict, model: OllamaModel, attempts: int) -> None:
     """Fail unless the whole prompt plus the output budget fit in num_ctx.
 

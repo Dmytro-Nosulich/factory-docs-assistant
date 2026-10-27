@@ -1,0 +1,82 @@
+{
+  "doc_id": "D036",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 3285,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 7256,
+    "completion_tokens": 199,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 19.596,
+    "total_s": 19.596,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 121,
+      "load_s": 0.001,
+      "prompt_eval_s": 16.687,
+      "eval_s": 2.902,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"STIHL Multioil Bio\",\n  \"language\": \"uk\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Алкілнафталінсульфонова кислота, кальцієва сіль\",\n      \"cas_number\": \"61789-86-4\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 324,\n    \"max\": 324,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": null\n}",
+  "output": {
+    "product_name": "STIHL Multioil Bio",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Алкілнафталінсульфонова кислота, кальцієва сіль",
+        "cas_number": "61789-86-4",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 324.0,
+      "max": 324.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": null
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:48:50+00:00"
+}

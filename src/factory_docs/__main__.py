@@ -1,27 +1,36 @@
 """Entry point for `python -m factory_docs` (used by `make run`): the full extraction run, S1-08.
 
-Usage: uv run python -m factory_docs [--model haiku-5.5] [--sampling greedy] [--docs D001 D003]
+Usage: uv run python -m factory_docs --all [--docs D001 D003]
+       uv run python -m factory_docs [--model haiku-5.5] [--sampling greedy] [--docs D001 D003]
                                     [--prompt-version v2] [--resume RUN_ID]
        uv run python -m factory_docs --repair RUN_ID
 One model call per document (retries included), plus one repair call for an invalid reply;
 paid for cloud models and free for local (Ollama) ones; see factory_docs.run for the layout.
+--all (plain `make run`, S1-17) runs every configuration in [comparison] in config.toml, one
+new run each, then rewrites the comparison tables in REPORT.md (factory_docs.report).
 --repair gives the invalid replies of a saved run their repair attempt (S1-15), with the
 run's model, sampling and prompt version.
 """
 
 import argparse
 import json
+from pathlib import Path
 
 from factory_docs.clients import make_client
 from factory_docs.config import (
     Config,
+    OllamaModel,
+    OpenRouterModel,
     load_config,
     load_env,
     params_match,
+    require_env,
     resolve_sampling,
     run_params,
 )
+from factory_docs.ollama import check_ollama
 from factory_docs.prompts import load_prompt
+from factory_docs.report import Cell, cell_label, matrix_cells, update_report
 from factory_docs.run import (
     RUNS,
     SUMMARY,
@@ -79,7 +88,12 @@ def print_summary(summary: dict) -> None:
 
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(description="Extract every stage 1 document with one model.")
-    parser.add_argument("--model", default="haiku-5.5", help="model key from config.toml")
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="every configuration in [comparison] in config.toml, then the REPORT.md tables",
+    )
+    parser.add_argument("--model", help="model key from config.toml (default: haiku-5.5)")
     parser.add_argument(
         "--sampling", help="[sampling] table from config.toml (local models; default: the model's)"
     )
@@ -94,10 +108,16 @@ def main(argv: list[str] | None = None) -> None:
     )
     args = parser.parse_args(argv)
 
+    if args.all:
+        if args.model or args.sampling or args.prompt_version or args.resume or args.repair:
+            parser.error("--all runs every configuration in [comparison]; it takes only --docs")
+        run_matrix(args.docs or stage1_doc_ids(), parser)
+        return
     config = load_config()
     if args.repair:
         repair_saved_run(args.repair, config, parser)
         return
+    args.model = args.model or "haiku-5.5"
     if args.model not in config.models:
         parser.error(f"unknown model {args.model!r}; config.toml has {', '.join(config.models)}")
     previous = None
@@ -133,14 +153,24 @@ def main(argv: list[str] | None = None) -> None:
         doc_ids = args.docs or stage1_doc_ids()
 
     load_env()
-    client = make_client(args.model, config, sampling)
-    model_line = args.model + (f", sampling {sampling}" if sampling else "")
+    run_one(config, args.model, sampling, run_dir, doc_ids)
+
+
+def run_one(
+    config: Config, model_key: str, sampling: str | None, run_dir: Path, doc_ids: list[str]
+) -> dict:
+    """One configuration over doc_ids into run_dir (new or resumed); prints and returns the summary.
+
+    config.extraction.prompt_version must already be the run's.
+    """
+    client = make_client(model_key, config, sampling)
+    model_line = model_key + (f", sampling {sampling}" if sampling else "")
     print(f"{len(doc_ids)} documents, model {model_line}, results in results/runs/{run_dir.name}")
     try:
         summary = run_all(
             doc_ids,
             client,
-            args.model,
+            model_key,
             config,
             run_dir,
             spent_usd(),
@@ -150,6 +180,54 @@ def main(argv: list[str] | None = None) -> None:
     finally:
         client.close()
     print_summary(summary)
+    return summary
+
+
+def run_matrix(doc_ids: list[str], parser: argparse.ArgumentParser) -> None:
+    """Plain `make run` (S1-17): one new run per [comparison] cell, then the REPORT.md tables."""
+    config = load_config()
+    cells = matrix_cells(config)
+    try:
+        preflight(config, cells)
+    except (RuntimeError, FileNotFoundError) as e:
+        parser.error(str(e))
+    print(f"{len(cells)} configurations x {len(doc_ids)} documents")
+    made = []
+    for k, cell in enumerate(cells, 1):
+        model_key, sampling, version = cell
+        print(f"\n[{k}/{len(cells)}] {cell_label(cell)}")
+        config = load_config()  # fresh per cell, so one cell's prompt version cannot leak
+        config.extraction.prompt_version = version
+        run_dir = RUNS / new_run_id(model_key, version, sampling)
+        run_one(config, model_key, sampling, run_dir, doc_ids)
+        made.append(run_dir.name)
+
+    run_ids, missing = update_report(load_config())
+    print(f"\nREPORT.md: comparison tables rebuilt from {len(run_ids)} runs")
+    left_out = [run_id for run_id in made if run_id not in run_ids]
+    if left_out:
+        print(
+            f"  {len(left_out)} of the {len(made)} runs just made are not complete (a DOCS subset "
+            "or a budget stop), so the tables use earlier runs or leave the cell out: "
+            + ", ".join(left_out)
+        )
+    if missing:
+        print("  no complete run: " + ", ".join(cell_label(c) for c in missing))
+
+
+def preflight(config: Config, cells: list[Cell]) -> None:
+    """Everything the matrix needs, checked before the first model call."""
+    settings = config.extraction
+    for _, _, version in cells:
+        load_prompt(settings.prompt, version)
+    load_prompt(settings.repair_prompt, settings.repair_prompt_version)
+    models = [config.models[key] for key in dict.fromkeys(key for key, _, _ in cells)]
+    load_env()
+    if any(isinstance(m, OpenRouterModel) for m in models):
+        require_env("OPENROUTER_API_KEY")
+    local = [m.slug for m in models if isinstance(m, OllamaModel)]
+    if local:
+        check_ollama(config.ollama, local)
 
 
 def repair_saved_run(run_id: str, config: Config, parser: argparse.ArgumentParser) -> None:

@@ -10,6 +10,13 @@ repair_prompt_version = "v1"
 [budget]
 stop_at_usd = 4.0          # stop before the next call once all results/ together cost this (course budget $5)
 
+# What plain `make run` runs (S1-17): every model x prompt version, and for a local model every
+# sampling configuration too (the cloud model takes none, decision 11). Then REPORT.md is rebuilt.
+[comparison]
+models = ["haiku-5.5", "qwen3.5-9b"]
+prompt_versions = ["v1", "v2", "v3"]
+sampling = ["default", "greedy"]
+
 [openrouter]
 base_url = "https://openrouter.ai/api/v1"
 timeout_s = 60

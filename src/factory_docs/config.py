@@ -35,6 +35,14 @@ class BudgetSettings(Settings):
     stop_at_usd: float = Field(gt=0)
 
 
+class ComparisonSettings(Settings):
+    """The matrix plain `make run` runs, S1-17; sampling applies to local models only."""
+
+    models: list[str] = Field(min_length=1)
+    prompt_versions: list[str] = Field(min_length=1)
+    sampling: list[str] = Field(min_length=1)
+
+
 class OpenRouterSettings(Settings):
     base_url: str
     timeout_s: float = Field(gt=0)
@@ -84,6 +92,7 @@ ModelConfig = Annotated[OpenRouterModel | OllamaModel, Field(discriminator="clie
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
+    comparison: ComparisonSettings
     openrouter: OpenRouterSettings
     ollama: OllamaSettings
     models: dict[str, ModelConfig]
@@ -94,6 +103,16 @@ class Config(Settings):
         for key, model in self.models.items():
             if isinstance(model, OllamaModel) and model.sampling not in self.sampling:
                 raise ValueError(f"model {key!r}: no [sampling.{model.sampling!r}] table")
+        return self
+
+    @model_validator(mode="after")
+    def comparison_names_exist(self) -> "Config":
+        for key in self.comparison.models:
+            if key not in self.models:
+                raise ValueError(f"[comparison] model {key!r}: no [models.{key!r}] table")
+        for name in self.comparison.sampling:
+            if name not in self.sampling:
+                raise ValueError(f"[comparison] sampling {name!r}: no [sampling.{name!r}] table")
         return self
 
 

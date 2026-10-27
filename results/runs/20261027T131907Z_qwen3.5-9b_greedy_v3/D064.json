@@ -1,0 +1,118 @@
+{
+  "doc_id": "D064",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 8783,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 13226,
+    "completion_tokens": 521,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 38.888,
+    "total_s": 38.888,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 31.348,
+      "eval_s": 7.53,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Limpiador de partes de frenos Brakleen® - 5 gal\",\n  \"language\": \"es\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"nafta ligera hidrotratada (petróleo)\",\n      \"cas_number\": \"64742-49-0\",\n      \"concentration\": {\n        \"min\": 40,\n        \"max\": 50,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"n-Heptano\",\n      \"cas_number\": \"142-82-5\",\n      \"concentration\": {\n        \"min\": 20,\n        \"max\": 30,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Heptanos, ramificados, cíclicos y lineales\",\n      \"cas_number\": \"426260-76-6\",\n      \"concentration\": {\n        \"min\": 10,\n        \"max\": 20,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Alcohol isopropílico\",\n      \"cas_number\": \"67-63-0\",\n      \"concentration\": {\n        \"min\": 5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"solvente, nafta (petróleo), alifáticos ligeros\",\n      \"cas_number\": \"64742-89-8\",\n      \"concentration\": {\n        \"min\": 3,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": -9.0,\n    \"max\": -9.0,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": \"UN1993\",\n  \"revision_date\": \"2021-12-20\"\n}",
+  "output": {
+    "product_name": "Limpiador de partes de frenos Brakleen® - 5 gal",
+    "language": "es",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "nafta ligera hidrotratada (petróleo)",
+        "cas_number": "64742-49-0",
+        "concentration": {
+          "min": 40.0,
+          "max": 50.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "n-Heptano",
+        "cas_number": "142-82-5",
+        "concentration": {
+          "min": 20.0,
+          "max": 30.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Heptanos, ramificados, cíclicos y lineales",
+        "cas_number": "426260-76-6",
+        "concentration": {
+          "min": 10.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Alcohol isopropílico",
+        "cas_number": "67-63-0",
+        "concentration": {
+          "min": 5.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "solvente, nafta (petróleo), alifáticos ligeros",
+        "cas_number": "64742-89-8",
+        "concentration": {
+          "min": 3.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": -9.0,
+      "max": -9.0,
+      "unit": "celsius"
+    },
+    "un_number": "UN1993",
+    "revision_date": "2021-12-20"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T13:37:15+00:00"
+}

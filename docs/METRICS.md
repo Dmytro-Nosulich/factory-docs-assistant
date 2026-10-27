@@ -1,8 +1,8 @@
 # How the metrics are measured
 
-This file defines every number that `make metrics` prints (code: `src/factory_docs/metrics.py`, tests: `tests/test_metrics.py`). Rules agreed 2026-10-21 (S1-11). When a rule changes, change it here, in the code and in the tests together.
+This file defines every number that `make metrics` prints and that `make comparison` writes into `REPORT.md` (code: `src/factory_docs/metrics.py`, tests: `tests/test_metrics.py`). Rules agreed 2026-10-21 (S1-11). When a rule changes, change it here, in the code and in the tests together.
 
-The script reads only saved results in `results/runs/<run_id>/`, so every number can be re-computed without calling a model. The table has one row per run. A run is one model with one prompt version and one sampling configuration.
+The script reads only saved results in `results/runs/<run_id>/`, so every number can be re-computed without calling a model. The table has one row per run. A run is one model with one prompt version and one sampling configuration. `REPORT.md` shows one run per configuration in `[comparison]` in `config.toml`: the newest one with every stage 1 document, the current prompt file and the current parameters (S1-17, `src/factory_docs/report.py`).
 
 ## Field accuracy on the golden set
 Model outputs are compared with the hand-labeled files in `data/golden/` (10 documents). Each document has 9 fields (`src/factory_docs/schema.py`). Each field either matches or does not.
@@ -53,3 +53,10 @@ Result: 7 of 9 fields.
 - **$ / 1000 (reported)** = the same mean from the cost that OpenRouter reports per call (first call plus repair call). It is a cross-check: on the first full run both give $1.96.
 - `invalid` replies are included, since they were paid for.
 - **Local models:** no API cost (`0 (local)`). Hardware, electricity and time are not counted. The report discusses them separately.
+
+## Per language
+Added in S1-17. Each language from `data/manifest.csv` gets one column, the languages with the most stage 1 documents first. A cell is two numbers, both on the first response:
+- **Valid:** `valid` results / documents in that language (all 35 SDS count).
+- **Fields:** matched fields / (9 × golden documents in that language), with the same rules as Field acc. `-` where the language has no golden document (es, fr, nl, it).
+
+The counts are small (the golden set has 4 uk, 2 en, 2 de, 1 sv and 1 pl document), so one wrong field moves a language a lot. The table shows where errors cluster; it does not rank languages.

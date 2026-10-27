@@ -1,0 +1,91 @@
+{
+  "doc_id": "D060",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 7464,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 10998,
+    "completion_tokens": 335,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 30.979,
+    "total_s": 30.979,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 26.045,
+      "eval_s": 4.926,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"BRICO MASTIC COLLE\",\n  \"language\": \"fr\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one\",\n      \"cas_number\": \"2634-33-5\",\n      \"concentration\": {\n        \"min\": 0.01375,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)\",\n      \"cas_number\": \"55965-84-9\",\n      \"concentration\": {\n        \"min\": 0.00112,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 60,\n    \"max\": null,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2025-10-31\"\n}",
+  "output": {
+    "product_name": "BRICO MASTIC COLLE",
+    "language": "fr",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one",
+        "cas_number": "2634-33-5",
+        "concentration": {
+          "min": 0.01375,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)",
+        "cas_number": "55965-84-9",
+        "concentration": {
+          "min": 0.00112,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 60.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2025-10-31"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:58:14+00:00"
+}

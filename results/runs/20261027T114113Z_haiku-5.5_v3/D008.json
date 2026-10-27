@@ -1,0 +1,80 @@
+{
+  "doc_id": "D008",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000,
+    "sampling": null
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 6727,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793101286-HnC8j1dl7FtaZQTPLr70",
+    "prompt_tokens": 19314,
+    "completion_tokens": 245,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0020539,
+    "latency_s": 2.55,
+    "total_s": 2.55,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Motorbike Visierreiniger\",\"language\":\"uk\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"2-пропанол\",\"cas_number\":\"67-63-0\",\"concentration\":{\"min\":1,\"max\":10,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH208\",\"text\":\"Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію.\"},{\"code\":\"EUH210\",\"text\":\"Паспорт безпеки  можна отримати за запитом.\"}],\"flash_point\":{\"min\":65,\"max\":null,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2020-01-21\"}",
+  "output": {
+    "product_name": "Motorbike Visierreiniger",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "2-пропанол",
+        "cas_number": "67-63-0",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію."
+      },
+      {
+        "code": "EUH210",
+        "text": "Паспорт безпеки  можна отримати за запитом."
+      }
+    ],
+    "flash_point": {
+      "min": 65.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2020-01-21"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:41:26+00:00"
+}

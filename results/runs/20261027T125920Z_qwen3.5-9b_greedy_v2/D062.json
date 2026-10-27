@@ -1,0 +1,78 @@
+{
+  "doc_id": "D062",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 4273,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8058,
+    "completion_tokens": 165,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 20.708,
+    "total_s": 20.708,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 505,
+      "load_s": 0.002,
+      "prompt_eval_s": 18.302,
+      "eval_s": 2.398,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Antislip-additief\",\n  \"language\": \"nl\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"solid\",\n  \"components\": [\n    {\n      \"name\": \"epsilon-caprolactam\",\n      \"cas_number\": \"105-60-2\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2023-01-30\"\n}",
+  "output": {
+    "product_name": "Antislip-additief",
+    "language": "nl",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "epsilon-caprolactam",
+        "cas_number": "105-60-2",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2023-01-30"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T13:16:35+00:00"
+}

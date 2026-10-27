@@ -1,0 +1,148 @@
+{
+  "doc_id": "D058",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 5,
+    "pages_total": 5,
+    "truncated": false,
+    "est_tokens": 3120,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 6089,
+    "completion_tokens": 705,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 22.425,
+    "total_s": 22.425,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.009,
+      "prompt_eval_s": 12.651,
+      "eval_s": 9.76,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"R-O 2OZ 4PK MTLLC RICH BROWN TS\",\n  \"language\": \"en\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Mica\",\n      \"cas_number\": \"12001-26-2\",\n      \"concentration\": {\n        \"min\": 2.5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Titanium Dioxide\",\n      \"cas_number\": \"13463-67-7\",\n      \"concentration\": {\n        \"min\": 1.0,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Carbon Black\",\n      \"cas_number\": \"1333-86-4\",\n      \"concentration\": {\n        \"min\": 1.0,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Vinyl Acetate\",\n      \"cas_number\": \"108-05-4\",\n      \"concentration\": {\n        \"min\": 0.1,\n        \"max\": 1.0,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Distillates (Petroleum) Solvent-Dewaxed Heavy Paraffinic\",\n      \"cas_number\": \"64742-65-0\",\n      \"concentration\": {\n        \"min\": 0.1,\n        \"max\": 1.0,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"Solvent Naphtha, Light Aromatic\",\n      \"cas_number\": \"64742-95-6\",\n      \"concentration\": {\n        \"min\": 0.1,\n        \"max\": 1.0,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H351\",\n      \"text\": \"Suspected of causing cancer.\"\n    },\n    {\n      \"code\": \"H225\",\n      \"text\": \"\"\n    },\n    {\n      \"code\": \"H332\",\n      \"text\": \"\"\n    },\n    {\n      \"code\": \"H335\",\n      \"text\": \"\"\n    },\n    {\n      \"code\": \"H304\",\n      \"text\": \"\"\n    }\n  ],\n  \"flash_point\": {\n    \"min\": null,\n    \"max\": 94,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2017-12-14\"\n}",
+  "output": {
+    "product_name": "R-O 2OZ 4PK MTLLC RICH BROWN TS",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Mica",
+        "cas_number": "12001-26-2",
+        "concentration": {
+          "min": 2.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Titanium Dioxide",
+        "cas_number": "13463-67-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Carbon Black",
+        "cas_number": "1333-86-4",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Vinyl Acetate",
+        "cas_number": "108-05-4",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Distillates (Petroleum) Solvent-Dewaxed Heavy Paraffinic",
+        "cas_number": "64742-65-0",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Solvent Naphtha, Light Aromatic",
+        "cas_number": "64742-95-6",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H351",
+        "text": "Suspected of causing cancer."
+      },
+      {
+        "code": "H225",
+        "text": ""
+      },
+      {
+        "code": "H332",
+        "text": ""
+      },
+      {
+        "code": "H335",
+        "text": ""
+      },
+      {
+        "code": "H304",
+        "text": ""
+      }
+    ],
+    "flash_point": {
+      "min": null,
+      "max": 94.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2017-12-14"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:34:55+00:00"
+}

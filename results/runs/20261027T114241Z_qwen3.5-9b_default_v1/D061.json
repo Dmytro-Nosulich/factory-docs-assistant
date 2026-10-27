@@ -1,0 +1,87 @@
+{
+  "doc_id": "D061",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 8,
+    "pages_total": 8,
+    "truncated": false,
+    "est_tokens": 5748,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8615,
+    "completion_tokens": 249,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 23.964,
+    "total_s": 23.964,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 114,
+      "load_s": 0.001,
+      "prompt_eval_s": 20.076,
+      "eval_s": 3.881,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"OTTOSEAL S 100\",\n  \"language\": \"de\",\n  \"signal_word\": \"none\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"ethyltriacetoxysilane\",\n      \"cas_number\": \"17689-77-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"2-ottil-2H-isotiazol-3-one\",\n      \"cas_number\": \"26530-20-1\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.1,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2025-05-05\"\n}",
+  "output": {
+    "product_name": "OTTOSEAL S 100",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "ethyltriacetoxysilane",
+        "cas_number": "17689-77-9",
+        "concentration": {
+          "min": null,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "2-ottil-2H-isotiazol-3-one",
+        "cas_number": "26530-20-1",
+        "concentration": {
+          "min": null,
+          "max": 0.1,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2025-05-05"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:58:45+00:00"
+}

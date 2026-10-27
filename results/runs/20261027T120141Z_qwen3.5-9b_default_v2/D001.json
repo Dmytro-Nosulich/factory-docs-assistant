@@ -1,0 +1,79 @@
+{
+  "doc_id": "D001",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5754,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8633,
+    "completion_tokens": 292,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 24.486,
+    "total_s": 24.486,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 0,
+      "load_s": 0.001,
+      "prompt_eval_s": 20.331,
+      "eval_s": 4.147,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® Research\",\n  \"language\": \"en\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"gas\",\n  \"components\": [\n    {\n      \"name\": \"Nitrogen\",\n      \"cas_number\": \"7727-37-9\",\n      \"concentration\": null\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H280\",\n      \"text\": \"Contains gas under pressure; may explode if heated.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1066\",\n  \"revision_date\": \"2020-02-20\"\n}",
+  "output": {
+    "product_name": "BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® Research",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Nitrogen",
+        "cas_number": "7727-37-9",
+        "concentration": null
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2020-02-20"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:01:41+00:00"
+}

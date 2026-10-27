@@ -1,0 +1,57 @@
+{
+  "doc_id": "D034",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000,
+    "sampling": null
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 3497,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793101124-4kahQqJOoefTuTUu9H4R",
+    "prompt_tokens": 10107,
+    "completion_tokens": 90,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0010557,
+    "latency_s": 1.933,
+    "total_s": 1.933,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"pH-Pufferlösung 12,00\",\"language\":\"de\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[],\"hazard_statements\":[],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2024-08-20\"}",
+  "output": {
+    "product_name": "pH-Pufferlösung 12,00",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2024-08-20"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:38:44+00:00"
+}

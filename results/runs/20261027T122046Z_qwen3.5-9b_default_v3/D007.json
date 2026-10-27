@@ -1,0 +1,145 @@
+{
+  "doc_id": "D007",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 5689,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 12740,
+    "completion_tokens": 790,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 40.658,
+    "total_s": 40.658,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.005,
+      "prompt_eval_s": 29.184,
+      "eval_s": 11.462,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Літній очищувач скла, концентрат 1:100 RM 672\",\n  \"language\": \"uk\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"sodium lauryl ether sulfate\",\n      \"cas_number\": \"68891-38-3\",\n      \"concentration\": {\n        \"min\": 10,\n        \"max\": 20,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"sec. n-alkane C14-C17 sulphonate, sodium salt\",\n      \"cas_number\": \"97489-15-1\",\n      \"concentration\": {\n        \"min\": 5,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"docusate sodium\",\n      \"cas_number\": \"577-11-7\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"1,2-бензізотіазол-3(2Н)-он\",\n      \"cas_number\": \"2634-33-5\",\n      \"concentration\": {\n        \"min\": 0.05,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine\",\n      \"cas_number\": \"2372-82-9\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.025,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"2-метил-2Н-ізотіазол-3-он\",\n      \"cas_number\": \"2682-20-4\",\n      \"concentration\": {\n        \"min\": 0.0015,\n        \"max\": 0.025,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"піритіон натрію\",\n      \"cas_number\": \"3811-73-2\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 0.0025,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H315\",\n      \"text\": \"Спричиняє подразнення шкіри.\"\n    },\n    {\n      \"code\": \"H318\",\n      \"text\": \"Спричиняє серйозне пошкодження очей.\"\n    },\n    {\n      \"code\": \"H317\",\n      \"text\": \"Може спричинити алергічну реакцію на шкірі.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": null,\n  \"revision_date\": \"2024-07-26\"\n}",
+  "output": {
+    "product_name": "Літній очищувач скла, концентрат 1:100 RM 672",
+    "language": "uk",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sodium lauryl ether sulfate",
+        "cas_number": "68891-38-3",
+        "concentration": {
+          "min": 10.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "sec. n-alkane C14-C17 sulphonate, sodium salt",
+        "cas_number": "97489-15-1",
+        "concentration": {
+          "min": 5.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "docusate sodium",
+        "cas_number": "577-11-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "1,2-бензізотіазол-3(2Н)-он",
+        "cas_number": "2634-33-5",
+        "concentration": {
+          "min": 0.05,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine",
+        "cas_number": "2372-82-9",
+        "concentration": {
+          "min": null,
+          "max": 0.025,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "2-метил-2Н-ізотіазол-3-он",
+        "cas_number": "2682-20-4",
+        "concentration": {
+          "min": 0.0015,
+          "max": 0.025,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "піритіон натрію",
+        "cas_number": "3811-73-2",
+        "concentration": {
+          "min": null,
+          "max": 0.0025,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Спричиняє подразнення шкіри."
+      },
+      {
+        "code": "H318",
+        "text": "Спричиняє серйозне пошкодження очей."
+      },
+      {
+        "code": "H317",
+        "text": "Може спричинити алергічну реакцію на шкірі."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2024-07-26"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:23:40+00:00"
+}

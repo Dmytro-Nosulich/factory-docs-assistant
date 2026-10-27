@@ -1,0 +1,82 @@
+{
+  "doc_id": "D052",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 5479,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 8946,
+    "completion_tokens": 208,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 22.773,
+    "total_s": 22.773,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 19.657,
+      "eval_s": 3.11,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"HIGHTEC ANTIFREEZE COOLANT LCC 100\",\n  \"language\": \"en\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"ethanediol; ethylene glycol\",\n      \"cas_number\": \"107-21-1\",\n      \"concentration\": {\n        \"min\": null,\n        \"max\": 60,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [],\n  \"flash_point\": {\n    \"min\": 135,\n    \"max\": 135,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2026-02-02\"\n}",
+  "output": {
+    "product_name": "HIGHTEC ANTIFREEZE COOLANT LCC 100",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "ethanediol; ethylene glycol",
+        "cas_number": "107-21-1",
+        "concentration": {
+          "min": null,
+          "max": 60.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 135.0,
+      "max": 135.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-02-02"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:32:03+00:00"
+}

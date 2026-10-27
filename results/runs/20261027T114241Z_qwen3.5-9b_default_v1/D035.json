@@ -1,0 +1,100 @@
+{
+  "doc_id": "D035",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 9,
+    "pages_total": 9,
+    "truncated": false,
+    "est_tokens": 4938,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 10455,
+    "completion_tokens": 433,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 30.942,
+    "total_s": 30.942,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 121,
+      "load_s": 0.001,
+      "prompt_eval_s": 24.644,
+      "eval_s": 6.29,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"STIHL Спеціальний засіб для чистки Varioclean\",\n  \"language\": \"uk\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"Динатрій метасилікат\",\n      \"cas_number\": \"10213-79-3\",\n      \"concentration\": {\n        \"min\": 15,\n        \"max\": 20,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts\",\n      \"cas_number\": \"147170-44-3\",\n      \"concentration\": {\n        \"min\": 4,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H290\",\n      \"text\": \"Може викликати корозію металів.\"\n    },\n    {\n      \"code\": \"H314\",\n      \"text\": \"Спричиняє важкі хімічні опіки шкіри і ушкодження очей важкого ступеню.\"\n    },\n    {\n      \"code\": \"H318\",\n      \"text\": \"Спричиняє ушкодження очей важкого ступеню.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1719\",\n  \"revision_date\": \"2022-02-24\"\n}",
+  "output": {
+    "product_name": "STIHL Спеціальний засіб для чистки Varioclean",
+    "language": "uk",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Динатрій метасилікат",
+        "cas_number": "10213-79-3",
+        "concentration": {
+          "min": 15.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts",
+        "cas_number": "147170-44-3",
+        "concentration": {
+          "min": 4.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H290",
+        "text": "Може викликати корозію металів."
+      },
+      {
+        "code": "H314",
+        "text": "Спричиняє важкі хімічні опіки шкіри і ушкодження очей важкого ступеню."
+      },
+      {
+        "code": "H318",
+        "text": "Спричиняє ушкодження очей важкого ступеню."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1719",
+    "revision_date": "2022-02-24"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:48:19+00:00"
+}

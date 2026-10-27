@@ -17,7 +17,7 @@ from pathlib import Path
 
 from factory_docs.config import Config, OllamaModel
 from factory_docs.golden import GOLDEN, load_golden
-from factory_docs.run import SUMMARY
+from factory_docs.run import SUMMARY, doc_languages
 from factory_docs.schema import SafetyDataSheet
 
 FIELDS = list(SafetyDataSheet.model_fields)
@@ -179,23 +179,41 @@ def load_run(run_dir: Path) -> tuple[dict, list[dict]]:
     return summary, records
 
 
-def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dict:
-    """All step 2 metrics of one run, as one table row."""
+def run_metrics(
+    run_dir: Path,
+    config: Config,
+    golden_dir: Path = GOLDEN,
+    languages: dict[str, str] | None = None,
+) -> dict:
+    """All step 2 metrics of one run, as one table row.
+
+    languages maps document ID -> language code (default: data/manifest.csv).
+    """
     summary, records = load_run(run_dir)
     model_key = summary["model"]["key"]
+    languages = doc_languages() if languages is None else languages
 
     per_field = dict.fromkeys(FIELDS, 0)
     items = {name: ItemCounts() for name in ITEM_SCORES}
+    per_language: dict[str, dict[str, int]] = {}
     golden_docs = valid_golden_docs = matched_valid = matched_repaired = 0
     # "after repair" numbers only when every record went through the repair step (S1-15)
     repair_applied = all(r.get("final_status") for r in records)
     for record in records:
+        valid = record["status"] == "valid"
+        language = per_language.setdefault(
+            languages.get(record["doc_id"], "?"),
+            dict.fromkeys(("docs", "valid", "golden_docs", "fields_matched"), 0),
+        )
+        language["docs"] += 1
+        language["valid"] += valid
         golden = load_golden(record["doc_id"], golden_dir)
         if golden is None:
             continue
         golden_docs += 1
-        valid = record["status"] == "valid"
         score = score_document(record["output"] if valid else None, golden)
+        language["golden_docs"] += 1
+        language["fields_matched"] += sum(score.fields.values())
         for f, ok in score.fields.items():
             per_field[f] += ok
         for name, counts in score.items.items():
@@ -259,6 +277,7 @@ def run_metrics(run_dir: Path, config: Config, golden_dir: Path = GOLDEN) -> dic
         "fields_matched_valid": matched_valid,
         "per_field": per_field,
         "items": items,
+        "per_language": per_language,
         "latency": {
             "n": len(latencies),
             "p50": percentile(latencies, 50) if latencies else None,
@@ -289,7 +308,7 @@ def sampling_label(row: dict) -> str:
 
 
 def format_tables(rows: list[dict]) -> str:
-    """The main metrics table, the per-field table and footnotes, as Markdown."""
+    """The main metrics table, the per-field and per-language tables and footnotes, as Markdown."""
     main = []
     for row in rows:
         latency, cost = row["latency"], row["cost_per_1000"]
@@ -322,6 +341,16 @@ def format_tables(rows: list[dict]) -> str:
             + [f"{row['per_field'][f]}/{golden_docs}" if golden_docs else "-" for f in FIELDS]
             + [f"{row['items'][name].f1:.2f}" if golden_docs else "-" for name in ITEM_SCORES]
         )
+    # Languages with the most documents first; one column each, the same for every run.
+    docs_per_language: dict[str, int] = {}
+    for row in rows:
+        for code, counts in row["per_language"].items():
+            docs_per_language[code] = max(docs_per_language.get(code, 0), counts["docs"])
+    language_codes = sorted(docs_per_language, key=lambda code: (-docs_per_language[code], code))
+    by_language = [
+        [row["run_id"]] + [language_cell(row["per_language"].get(code)) for code in language_codes]
+        for row in rows
+    ]
     checked = sorted(
         {
             f"{r['model']} {r['cost_per_1000']['price_checked']}"
@@ -348,6 +377,9 @@ def format_tables(rows: list[dict]) -> str:
         + "); reported: OpenRouter's own cost. Local: no API cost; hardware and time not counted.",
         "Per-field table (first response): documents where the field matches / golden documents; "
         "list F1 is item-level over all golden documents; hazard_codes F1 ignores the text.",
+        "Per-language table (first response): valid / documents in that language, then matched "
+        "fields / (9 x golden documents in that language); '-' where the language has no golden "
+        "document. A few documents per language: read it as a pointer, not a measurement.",
     ]
     return "\n\n".join(
         [
@@ -371,9 +403,22 @@ def format_tables(rows: list[dict]) -> str:
                 main,
             ),
             markdown_table(["Run", *FIELDS, *(f"{name} F1" for name in ITEM_SCORES)], fields),
+            markdown_table(["Run", *language_codes], by_language),
             "\n".join(f"- {note}" for note in notes),
         ]
     )
+
+
+def language_cell(counts: dict[str, int] | None) -> str:
+    """'valid/docs · fields/(9 x golden)' for one language of one run."""
+    if not counts:
+        return "-"
+    fields = (
+        f"{counts['fields_matched']}/{len(FIELDS) * counts['golden_docs']}"
+        if counts["golden_docs"]
+        else "-"
+    )
+    return f"{counts['valid']}/{counts['docs']} · {fields}"
 
 
 def after_repair(matched: int | None, total: int) -> str:

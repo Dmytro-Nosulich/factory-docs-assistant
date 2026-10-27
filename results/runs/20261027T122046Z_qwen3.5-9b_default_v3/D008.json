@@ -1,0 +1,91 @@
+{
+  "doc_id": "D008",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0,
+      "top_p": 0.95
+    }
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 6727,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 14446,
+    "completion_tokens": 292,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 38.129,
+    "total_s": 38.129,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.001,
+      "prompt_eval_s": 33.629,
+      "eval_s": 4.488,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"Motorbike Visierreiniger\",\n  \"language\": \"uk\",\n  \"signal_word\": \"warning\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"2-пропанол\",\n      \"cas_number\": \"67-63-0\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 10,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"EUH208\",\n      \"text\": \"Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію.\"\n    },\n    {\n      \"code\": \"EUH210\",\n      \"text\": \"Паспорт безпеки  можна отримати за запитом.\"\n    }\n  ],\n  \"flash_point\": {\n    \"min\": 65,\n    \"max\": null,\n    \"unit\": \"celsius\"\n  },\n  \"un_number\": null,\n  \"revision_date\": \"2020-01-21\"\n}",
+  "output": {
+    "product_name": "Motorbike Visierreiniger",
+    "language": "uk",
+    "signal_word": "warning",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "2-пропанол",
+        "cas_number": "67-63-0",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію."
+      },
+      {
+        "code": "EUH210",
+        "text": "Паспорт безпеки  можна отримати за запитом."
+      }
+    ],
+    "flash_point": {
+      "min": 65.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2020-01-21"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T12:24:21+00:00"
+}

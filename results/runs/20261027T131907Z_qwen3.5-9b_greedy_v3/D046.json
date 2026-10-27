@@ -1,0 +1,123 @@
+{
+  "doc_id": "D046",
+  "status": "valid",
+  "model": {
+    "key": "qwen3.5-9b",
+    "client": "ollama",
+    "slug": "qwen3.5:9b",
+    "response_model": "qwen3.5:9b",
+    "provider": "ollama",
+    "digest": "d63f830f28d515fefea546f213fca7a75e9dd5176ef51a6deabc952d1c99a911"
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "num_ctx": 65536,
+    "num_predict": 4000,
+    "think": false,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5363,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": null,
+    "prompt_tokens": 9241,
+    "completion_tokens": 526,
+    "reasoning_tokens": null,
+    "cost_usd": 0.0,
+    "latency_s": 28.375,
+    "total_s": 28.375,
+    "attempts": 1,
+    "details": {
+      "prompt_cached_tokens": 669,
+      "load_s": 0.052,
+      "prompt_eval_s": 20.938,
+      "eval_s": 7.377,
+      "thinking_chars": 0
+    }
+  },
+  "raw": "{\n  \"product_name\": \"PressurePro Facade Cleaner, Gel RM 43\",\n  \"language\": \"en\",\n  \"signal_word\": \"danger\",\n  \"physical_state\": \"liquid\",\n  \"components\": [\n    {\n      \"name\": \"sodium 2-butoxyethyl sulphate\",\n      \"cas_number\": \"67656-24-0\",\n      \"concentration\": {\n        \"min\": 50,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"sodium hydroxide\",\n      \"cas_number\": \"1310-73-2\",\n      \"concentration\": {\n        \"min\": 5,\n        \"max\": null,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"potassium silicate\",\n      \"cas_number\": \"1312-76-1\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"tetradecyl dimethylaminoxide\",\n      \"cas_number\": \"3332-27-2\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 2.5,\n        \"unit\": \"percent\"\n      }\n    },\n    {\n      \"name\": \"sodium metasilicate\",\n      \"cas_number\": \"10213-79-3\",\n      \"concentration\": {\n        \"min\": 1,\n        \"max\": 3,\n        \"unit\": \"percent\"\n      }\n    }\n  ],\n  \"hazard_statements\": [\n    {\n      \"code\": \"H290\",\n      \"text\": \"May be corrosive to metals.\"\n    },\n    {\n      \"code\": \"H314\",\n      \"text\": \"Causes severe skin burns and eye damage.\"\n    }\n  ],\n  \"flash_point\": null,\n  \"un_number\": \"UN1824\",\n  \"revision_date\": \"2026-03-10\"\n}",
+  "output": {
+    "product_name": "PressurePro Facade Cleaner, Gel RM 43",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sodium 2-butoxyethyl sulphate",
+        "cas_number": "67656-24-0",
+        "concentration": {
+          "min": 50.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "sodium hydroxide",
+        "cas_number": "1310-73-2",
+        "concentration": {
+          "min": 5.0,
+          "max": null,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "potassium silicate",
+        "cas_number": "1312-76-1",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "tetradecyl dimethylaminoxide",
+        "cas_number": "3332-27-2",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "sodium metasilicate",
+        "cas_number": "10213-79-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H290",
+        "text": "May be corrosive to metals."
+      },
+      {
+        "code": "H314",
+        "text": "Causes severe skin burns and eye damage."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1824",
+    "revision_date": "2026-03-10"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T13:26:57+00:00"
+}

@@ -50,6 +50,12 @@ def stage1_doc_ids(manifest: Path = MANIFEST) -> list[str]:
         return [r["id"] for r in csv.DictReader(f) if "1" in r["stage"].split(",")]
 
 
+def doc_languages(manifest: Path = MANIFEST) -> dict[str, str]:
+    """Document ID -> language code from the manifest (per-language metrics, S1-17)."""
+    with manifest.open(encoding="utf-8", newline="") as f:
+        return {r["id"]: r["language"] for r in csv.DictReader(f)}
+
+
 def new_run_id(model_key: str, prompt_version: str, sampling: str | None = None) -> str:
     parts = [f"{datetime.now(UTC):%Y%m%dT%H%M%SZ}", model_key, sampling, prompt_version]
     return "_".join(p for p in parts if p)

@@ -1,0 +1,71 @@
+{
+  "doc_id": "D057",
+  "status": "valid",
+  "model": {
+    "key": "haiku-5.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-5.5",
+    "response_model": "anthropic/claude-haiku-5.5",
+    "provider": "Azure",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": "none",
+    "max_tokens": 8000,
+    "sampling": null
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 2921,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793101248-NHzw7Zi7zI4HyHmtvZmZ",
+    "prompt_tokens": 10010,
+    "completion_tokens": 166,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.001084,
+    "latency_s": 2.147,
+    "total_s": 2.147,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Cutting Fluid Silberschnitt W41\",\"language\":\"en\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"White mineral oil\",\"cas_number\":\"8042-47-5\",\"concentration\":{\"min\":99.4,\"max\":99.4,\"unit\":\"percent\"}}],\"hazard_statements\":[],\"flash_point\":{\"min\":182,\"max\":182,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2026-09-08\"}",
+  "output": {
+    "product_name": "Cutting Fluid Silberschnitt W41",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "White mineral oil",
+        "cas_number": "8042-47-5",
+        "concentration": {
+          "min": 99.4,
+          "max": 99.4,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 182.0,
+      "max": 182.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-09-08"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-27T11:40:48+00:00"
+}

@@ -261,3 +261,30 @@ def test_local_run_costs_nothing_and_counts_cached_prompts(tmp_path):
     assert row["latency"]["cached"] == 1  # 900/1000 counts, 114/1000 does not
     assert row["cost_per_1000"]["priced"] == 0.0
     assert "0 (local)" in format_tables([row])
+
+
+def test_per_language_counts_and_table(tmp_path):
+    golden_dir = tmp_path / "golden"
+    golden_dir.mkdir()
+    for doc_id in ("G1", "G2"):
+        (golden_dir / f"{doc_id}.json").write_text(json.dumps(GOLDEN), encoding="utf-8")
+    records = [
+        record("G1", "valid", OUTPUT),  # en, 7/9
+        record("X1", "invalid"),  # en, no golden label
+        record("G2", "invalid"),  # uk, 0/9
+        record("X2", "valid", OUTPUT),  # sv, no golden label
+    ]
+    run_dir = write_run(tmp_path, "qwen3.5-9b", "ollama", records)
+    languages = {"G1": "en", "X1": "en", "G2": "uk", "X2": "sv"}
+
+    row = run_metrics(run_dir, load_config(), golden_dir, languages)
+
+    assert row["per_language"] == {
+        "en": {"docs": 2, "valid": 1, "golden_docs": 1, "fields_matched": 7},
+        "uk": {"docs": 1, "valid": 0, "golden_docs": 1, "fields_matched": 0},
+        "sv": {"docs": 1, "valid": 1, "golden_docs": 0, "fields_matched": 0},
+    }
+    # most documents first, then by code
+    table = format_tables([row])
+    assert "| Run | en | sv | uk |\n| --- | --- | --- | --- |\n" in table
+    assert "| run | 1/2 · 7/9 | 1/1 · - | 0/1 · 0/9 |" in table

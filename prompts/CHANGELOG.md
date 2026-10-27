@@ -5,6 +5,16 @@ Every prompt version is a file `prompts/<name>_<version>.md`, loaded by
 is a new version. Each entry states what changed, why, and the measured effect (metrics before
 and after, from the metrics script).
 
+The measured effects below come from these 9 runs (all 35 SDS each), which stay in
+`results/runs/`; re-compute them with `make metrics RUNS="<run IDs>"`. The comparison tables in
+`REPORT.md` use the newest full `make run` (S1-17), so their local-model numbers can differ.
+- v1: `20261021T213726Z_haiku-5.5_v1`, `20261021T213849Z_qwen3.5-9b_default_v1`,
+  `20261021T215749Z_qwen3.5-9b_greedy_v1`
+- v2: `20261027T082437Z_haiku-5.5_v2`, `20261027T082633Z_qwen3.5-9b_default_v2`,
+  `20261027T084610Z_qwen3.5-9b_greedy_v2`
+- v3: `20261027T092300Z_haiku-5.5_v3`, `20261027T092438Z_qwen3.5-9b_default_v3`,
+  `20261027T094416Z_qwen3.5-9b_greedy_v3`
+
 ## extract v1 (2026-10-21)
 - What: baseline. Generic rules (use only the document, null when not stated, keep the
   document's language, JSON only) plus the full JSON schema with its field descriptions in the
@@ -12,7 +22,7 @@ and after, from the metrics script).
 - Why: starting point. The schema goes into the prompt so the cloud and the local model see the
   same field rules; Ollama's `format` only constrains the output and cloud providers handle
   `response_format` differently.
-- Measured effect: baseline (`results/comparison.md`, golden set of 10 documents, all 35 SDS
+- Measured effect: baseline (the v1 runs above, golden set of 10 documents, all 35 SDS
   schema-valid on the first response in every run):
 
   | Run | Field accuracy | Latency p50 / p95 | $ / 1000 docs |
@@ -43,7 +53,7 @@ and after, from the metrics script).
   5. D003, D007, D008, D010: `< 0,05 %` read as a minimum, `1 - 10 %` without its maximum,
      `≥ 99 %` as a maximum (qwen).
   6. D003, D007, D008, D010: missing H315/H317/H318, H412, EUH066, EUH208, EUH210 (qwen).
-- Measured effect (`results/comparison.md`; v1 -> v2, all runs 35/35 valid on the first
+- Measured effect (the v1 and v2 runs above; all runs 35/35 valid on the first
   response):
 
   | Run | Field accuracy | Latency p50 / p95 | $ / 1000 docs |
@@ -94,7 +104,7 @@ and after, from the metrics script).
 - Why: the two v2 regressions. physical_state was null for "KOMPRIMERAD GAS" (D002) and
   "Fluid" (D034), on qwen default. flash_point lower bounds were wrong on qwen greedy: D008
   (min = max = 65), and D010 (max 190 instead of min 190).
-- Measured effect (`results/comparison.md`; v2 -> v3):
+- Measured effect (the v2 and v3 runs above):
 
   | Run | Valid (1st) | Field accuracy | Field accuracy, valid only |
   | --- | --- | --- | --- |
@@ -135,7 +145,7 @@ and after, from the metrics script).
   Both break Pydantic range rules that the JSON schema cannot express, so constrained decoding
   does not prevent them (`docs/ISSUES.md` I-005). The prompt is generic on purpose: it names no
   field and suggests no fix.
-- Measured effect (`make repair` on the 9 comparison runs, then `make comparison`; first-response
+- Measured effect (`make repair` on the 9 runs above, then the metrics script; first-response
   columns unchanged): the two invalid replies were both repaired, so every run is 35/35 valid
   after repair. Both repairs passed the schema by setting the concentration to null:
   - D001 (qwen default v3): nitrogen became `concentration: null`; the label is 100 %. The other

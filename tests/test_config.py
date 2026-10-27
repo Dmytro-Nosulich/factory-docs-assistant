@@ -52,6 +52,18 @@ def test_model_naming_a_missing_sampling_table_is_rejected(tmp_path):
         load_config(path)
 
 
+def test_comparison_naming_a_missing_model_is_rejected(tmp_path):
+    path = config_with(tmp_path, '"haiku-5.5", "qwen3.5-9b"]', '"haiku-5.5", "nope"]')
+    with pytest.raises(ValidationError, match="\\[comparison\\] model 'nope'"):
+        load_config(path)
+
+
+def test_comparison_naming_a_missing_sampling_table_is_rejected(tmp_path):
+    path = config_with(tmp_path, '["default", "greedy"]', '["default", "nope"]')
+    with pytest.raises(ValidationError, match="\\[comparison\\] sampling 'nope'"):
+        load_config(path)
+
+
 def test_out_of_range_temperature_is_rejected(tmp_path):
     path = config_with(tmp_path, "temperature = 1.0", "temperature = 3.0")
     with pytest.raises(ValidationError, match="temperature"):
