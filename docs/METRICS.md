@@ -49,7 +49,7 @@ Result: 7 of 9 fields.
 - Local timings are from an Apple M4 Pro with Ollama's MLX runner, not a CPU-only laptop (`docs/ISSUES.md` I-004).
 
 ## Cost per 1000 documents
-- **$ / 1000 docs** = 1000 × mean over the run's documents with a reply of (prompt tokens × input price + completion tokens × output price) / 1,000,000, summed over the document's first call and its repair call, if any (both are paid). Token counts are the provider's own usage numbers in each result. Prices are per 1M tokens in `config.toml` (`price_in_usd_per_mtok`, `price_out_usd_per_mtok`, with the date checked in `price_checked`). Haiku 5.5: $0.10 / $0.50, checked 2026-10-21.
+- **$ / 1000 docs** = 1000 × mean over the run's documents with a reply of (prompt tokens × input price + completion tokens × output price) / 1,000,000, summed over the document's first call and its repair call, if any (both are paid). Token counts are the provider's own usage numbers in each result. Prices are per 1M tokens in `config.toml` (`price_in_usd_per_mtok`, `price_out_usd_per_mtok`, with the date checked in `price_checked`). Haiku 5.5: $0.10 / $0.50, checked 2026-10-21. Haiku 4.5: $1.00 / $5.00, checked 2026-10-28 (S1-22).
 - **$ / 1000 (reported)** = the same mean from the cost that OpenRouter reports per call (first call plus repair call). It is a cross-check: on the first full run both give $1.96.
 - `invalid` replies are included, since they were paid for.
 - **Local models:** no API cost (`0 (local)`). Hardware, electricity and time are not counted. The report discusses them separately.

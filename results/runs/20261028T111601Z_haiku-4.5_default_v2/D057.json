@@ -1,0 +1,74 @@
+{
+  "doc_id": "D057",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 2921,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186260-2BHSMFYm6EMm0hJcoWmc",
+    "prompt_tokens": 7896,
+    "completion_tokens": 147,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.008631,
+    "latency_s": 2.338,
+    "total_s": 2.338,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"Cutting Fluid Silberschnitt W41\", \"language\": \"en\", \"signal_word\": \"none\", \"physical_state\": \"liquid\", \"components\": [{\"name\": \"White mineral oil\", \"cas_number\": \"8042-47-5\", \"concentration\": {\"min\": 99.4, \"max\": 99.4, \"unit\": \"percent\"}}], \"hazard_statements\": [], \"flash_point\": {\"min\": 182, \"max\": 182, \"unit\": \"celsius\"}, \"un_number\": null, \"revision_date\": \"2026-09-08\"}",
+  "output": {
+    "product_name": "Cutting Fluid Silberschnitt W41",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "White mineral oil",
+        "cas_number": "8042-47-5",
+        "concentration": {
+          "min": 99.4,
+          "max": 99.4,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": {
+      "min": 182.0,
+      "max": 182.0,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2026-09-08"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:17:40+00:00"
+}

@@ -1,0 +1,92 @@
+{
+  "doc_id": "D060",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 10,
+    "pages_total": 10,
+    "truncated": false,
+    "est_tokens": 7464,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186567-J3boh3op3F9JZTDUmLwH",
+    "prompt_tokens": 15242,
+    "completion_tokens": 359,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.017037,
+    "latency_s": 4.644,
+    "total_s": 4.644,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"BRICO MASTIC COLLE\",\"language\":\"fr\",\"signal_word\":\"none\",\"physical_state\":\"solid\",\"components\":[{\"name\":\"1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one\",\"cas_number\":\"2634-33-5\",\"concentration\":{\"min\":0.01375,\"max\":0.01375,\"unit\":\"percent\"}},{\"name\":\"masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)\",\"cas_number\":\"55965-84-9\",\"concentration\":{\"min\":0.00112,\"max\":0.00112,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH208\",\"text\":\"Contient 1,2 -benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-one.  Peut produire une réaction allergique.\"},{\"code\":\"EUH210\",\"text\":\"Fiche de données de sécurité disponible sur demande.\"}],\"flash_point\":{\"min\":60,\"max\":null,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2025-10-31\"}",
+  "output": {
+    "product_name": "BRICO MASTIC COLLE",
+    "language": "fr",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "1,2-benzisothiazol-3(2H)-one,1,2-benzisothiazolin-3-one",
+        "cas_number": "2634-33-5",
+        "concentration": {
+          "min": 0.01375,
+          "max": 0.01375,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "masse de réaction de 5-chloro2-méthyl-2H-isothiazol-3-one et de 2-méthyl-2H-isothiazol3-one (3:1)",
+        "cas_number": "55965-84-9",
+        "concentration": {
+          "min": 0.00112,
+          "max": 0.00112,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Contient 1,2 -benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-one.  Peut produire une réaction allergique."
+      },
+      {
+        "code": "EUH210",
+        "text": "Fiche de données de sécurité disponible sur demande."
+      }
+    ],
+    "flash_point": {
+      "min": 60.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2025-10-31"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:22:47+00:00"
+}

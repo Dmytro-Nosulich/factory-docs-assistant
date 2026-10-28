@@ -1,0 +1,91 @@
+{
+  "doc_id": "D056",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 7548,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186113-U1fHr6g1DfV1K0b48HYV",
+    "prompt_tokens": 13519,
+    "completion_tokens": 252,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.014779,
+    "latency_s": 4.149,
+    "total_s": 4.149,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"CRC® Brakleen® Brake Parts Cleaner, 55 Gal\", \"language\": \"en\", \"signal_word\": \"danger\", \"physical_state\": \"liquid\", \"components\": [{\"name\": \"Ethene, 1,1,2,2-tetrachloro-\", \"cas_number\": \"127-18-4\", \"concentration\": {\"min\": 80, \"max\": 100, \"unit\": \"percent\"}}], \"hazard_statements\": [{\"code\": \"H315\", \"text\": \"Causes skin irritation\"}, {\"code\": \"H317\", \"text\": \"May cause an allergic skin reaction\"}, {\"code\": \"H319\", \"text\": \"Causes eye irritation\"}, {\"code\": \"H336\", \"text\": \"May cause drowsiness or dizziness\"}, {\"code\": \"H350\", \"text\": \"May cause cancer (Inhalation)\"}], \"flash_point\": null, \"un_number\": \"UN1897\", \"revision_date\": \"2025-03-05\"}",
+  "output": {
+    "product_name": "CRC® Brakleen® Brake Parts Cleaner, 55 Gal",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Ethene, 1,1,2,2-tetrachloro-",
+        "cas_number": "127-18-4",
+        "concentration": {
+          "min": 80.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Causes skin irritation"
+      },
+      {
+        "code": "H317",
+        "text": "May cause an allergic skin reaction"
+      },
+      {
+        "code": "H319",
+        "text": "Causes eye irritation"
+      },
+      {
+        "code": "H336",
+        "text": "May cause drowsiness or dizziness"
+      },
+      {
+        "code": "H350",
+        "text": "May cause cancer (Inhalation)"
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1897",
+    "revision_date": "2025-03-05"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:15:13+00:00"
+}

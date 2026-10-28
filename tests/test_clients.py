@@ -25,6 +25,20 @@ def test_local_model_gets_the_chosen_sampling():
         client.close()
 
 
+def test_haiku_4_5_gets_only_the_temperature_of_its_sampling(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test-key")
+    client = make_client("haiku-4.5", load_config(), "greedy")
+    try:
+        assert client.sampling == {"temperature": 0.0}
+    finally:
+        client.close()
+    client = make_client("haiku-5.5", load_config())
+    try:
+        assert client.sampling is None
+    finally:
+        client.close()
+
+
 def test_cloud_model_with_sampling_is_refused(monkeypatch):
     monkeypatch.setenv("OPENROUTER_API_KEY", "test-key")
     with pytest.raises(ValueError, match="I-003"):

@@ -1,0 +1,110 @@
+{
+  "doc_id": "D051",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 6262,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186236-kygkEuiBOHDyYbIwACnn",
+    "prompt_tokens": 11864,
+    "completion_tokens": 335,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.013539,
+    "latency_s": 3.942,
+    "total_s": 3.942,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"BOSTIK TILE ADHESIVE 8020 FLOOR&WALL\", \"language\": \"en\", \"signal_word\": \"danger\", \"physical_state\": \"solid\", \"components\": [{\"name\": \"Quartz\", \"cas_number\": \"14808-60-7\", \"concentration\": {\"min\": 40, \"max\": 80, \"unit\": \"percent\"}}, {\"name\": \"Cement, portland, chemicals (Chromium VI reduced)\", \"cas_number\": \"65997-15-1\", \"concentration\": {\"min\": 25, \"max\": 40, \"unit\": \"percent\"}}, {\"name\": \"Flue dust, Cement Portland\", \"cas_number\": \"68475-76-3\", \"concentration\": {\"min\": 1, \"max\": 2.5, \"unit\": \"percent\"}}, {\"name\": \"Calcium hydroxide\", \"cas_number\": \"1305-62-0\", \"concentration\": {\"min\": 0.1, \"max\": 1, \"unit\": \"percent\"}}], \"hazard_statements\": [{\"code\": \"H315\", \"text\": \"Causes skin irritation.\"}, {\"code\": \"H318\", \"text\": \"Causes serious eye damage.\"}, {\"code\": \"H335\", \"text\": \"May cause respiratory irritation.\"}], \"flash_point\": null, \"un_number\": null, \"revision_date\": \"2020-05-19\"}",
+  "output": {
+    "product_name": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL",
+    "language": "en",
+    "signal_word": "danger",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "Quartz",
+        "cas_number": "14808-60-7",
+        "concentration": {
+          "min": 40.0,
+          "max": 80.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Cement, portland, chemicals (Chromium VI reduced)",
+        "cas_number": "65997-15-1",
+        "concentration": {
+          "min": 25.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Flue dust, Cement Portland",
+        "cas_number": "68475-76-3",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Calcium hydroxide",
+        "cas_number": "1305-62-0",
+        "concentration": {
+          "min": 0.1,
+          "max": 1.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Causes skin irritation."
+      },
+      {
+        "code": "H318",
+        "text": "Causes serious eye damage."
+      },
+      {
+        "code": "H335",
+        "text": "May cause respiratory irritation."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2020-05-19"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:17:15+00:00"
+}

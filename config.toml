@@ -8,12 +8,13 @@ repair_prompt = "repair"   # an invalid reply gets one repair attempt with this 
 repair_prompt_version = "v1"
 
 [budget]
-stop_at_usd = 4.0          # stop before the next call once all results/ together cost this (course budget $5)
+stop_at_usd = 10.0         # stop before the next call once all results/ together cost this (raised from 4.0 in S1-22)
 
-# What plain `make run` runs (S1-17): every model x prompt version, and for a local model every
-# sampling configuration too (the cloud model takes none, decision 11). Then REPORT.md is rebuilt.
+# What plain `make run` runs (S1-17): every model x prompt version, and for a model that takes
+# sampling (Ollama models, haiku-4.5) every sampling configuration too; haiku-5.5 takes none
+# (docs/ISSUES.md I-003). Then REPORT.md is rebuilt.
 [comparison]
-models = ["haiku-5.5", "qwen3.5-9b"]
+models = ["haiku-5.5", "haiku-4.5", "qwen3.5-9b"]
 prompt_versions = ["v1", "v2", "v3"]
 sampling = ["default", "greedy"]
 
@@ -39,6 +40,20 @@ max_tokens = 8000
 price_in_usd_per_mtok = 0.10
 price_out_usd_per_mtok = 0.50
 price_checked = 2026-10-21
+
+# Added in S1-22 as a cloud model that takes sampling. Claude 4+ models reject temperature and
+# top_p in one request, so only temperature is sent: 1.0 (`default`, also the API default) or
+# 0.0 (`greedy`). No reasoning_effort: OpenRouter does not list it for this model. Price checked
+# on GET /api/v1/models; 200K context.
+[models."haiku-4.5"]
+client = "openrouter"
+slug = "anthropic/claude-haiku-4.5"
+max_tokens = 8000
+sampling = "default"
+sampling_params = ["temperature"]
+price_in_usd_per_mtok = 1.00
+price_out_usd_per_mtok = 5.00
+price_checked = 2026-10-28
 
 # Local models (decision 3b): sized for a 32 GB laptop, CPU only. Default Ollama tags; on an
 # Apple Silicon Mac they resolve to nvfp4 builds run by the MLX runner (docs/ISSUES.md I-004).
@@ -68,9 +83,9 @@ num_predict = 4000
 think = false
 sampling = "default"
 
-# Sampling configurations (S1-10). Local (Ollama) models only: the cloud model does not accept
-# temperature/top_p (decision 11, docs/ISSUES.md I-003). Other Modelfile options (qwen3.5:9b:
-# top_k 20, presence_penalty 1.5) stay at the model's defaults.
+# Sampling configurations (S1-10). Ollama models get both values; haiku-4.5 gets only the ones
+# in its sampling_params (S1-22); haiku-5.5 takes none (docs/ISSUES.md I-003). Other Modelfile
+# options (qwen3.5:9b: top_k 20, presence_penalty 1.5) stay at the model's defaults.
 [sampling."default"]       # = qwen3.5:9b Modelfile values, what the S1-09 bake-off ran at
 temperature = 1.0
 top_p = 0.95

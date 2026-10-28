@@ -15,6 +15,12 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
 - v3: `20261027T092300Z_haiku-5.5_v3`, `20261027T092438Z_qwen3.5-9b_default_v3`,
   `20261027T094416Z_qwen3.5-9b_greedy_v3`
 
+Haiku 4.5 (default and greedy) was added later, in S1-22. Its rows below come from its 6 runs,
+which are also the ones in `REPORT.md`:
+- v1: `20261028T111338Z_haiku-4.5_default_v1`, `20261028T112052Z_haiku-4.5_greedy_v1`
+- v2: `20261028T111601Z_haiku-4.5_default_v2`, `20261028T112316Z_haiku-4.5_greedy_v2`
+- v3: `20261028T111825Z_haiku-4.5_default_v3`, `20261028T112541Z_haiku-4.5_greedy_v3`
+
 ## extract v1 (2026-10-21)
 - What: baseline. Generic rules (use only the document, null when not stated, keep the
   document's language, JSON only) plus the full JSON schema with its field descriptions in the
@@ -30,6 +36,8 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
   | Haiku 5.5 | 85/90 (94.4%) | 2.2 / 3.9 s | $1.96 |
   | qwen3.5-9b default | 77/90 (85.6%) | 26.0 / 84.5 s | 0 (local) |
   | qwen3.5-9b greedy | 79/90 (87.8%) | 27.0 / 85.8 s | 0 (local) |
+  | Haiku 4.5 default (S1-22) | 85/90 (94.4%) | 3.9 / 8.3 s | $15.81 |
+  | Haiku 4.5 greedy (S1-22) | 85/90 (94.4%) | 3.8 / 7.7 s | $15.80 |
 
   These numbers use the D006 golden label as corrected on 2026-10-27 (the user removed a
   `[18.12.2018]` that is not part of the trade name). With the old label, S1-12 reported 84, 76
@@ -61,19 +69,26 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
   | Haiku 5.5 | 85 -> 89/90 (94.4% -> 98.9%) | 2.2 / 3.9 -> 2.4 / 4.5 s | $1.96 -> $2.02 |
   | qwen3.5-9b default | 77 -> 80/90 (85.6% -> 88.9%) | 26.0 / 84.5 -> 28.1 / 86.9 s | 0 |
   | qwen3.5-9b greedy | 79 -> 80/90 (87.8% -> 88.9%) | 27.0 / 85.8 -> 28.8 / 86.6 s | 0 |
+  | Haiku 4.5 default (S1-22) | 85 -> 89/90 (94.4% -> 98.9%) | 3.9 / 8.3 -> 3.9 / 8.7 s | $15.81 -> $16.32 |
+  | Haiku 4.5 greedy (S1-22) | 85 -> 89/90 (94.4% -> 98.9%) | 3.8 / 7.7 -> 3.6 / 7.7 s | $15.80 -> $16.33 |
 
   Per field, documents matched out of 10 (v1 -> v2):
 
-  | Field | Haiku | qwen default | qwen greedy |
-  | --- | --- | --- | --- |
-  | product_name | 8 -> 9 | 8 -> 9 | 8 -> 8 |
-  | language | 9 -> 10 | 9 -> 9 | 8 -> 8 |
-  | signal_word | 9 -> 10 | 10 -> 10 | 10 -> 10 |
-  | physical_state | 9 -> 10 | 9 -> **8** | 9 -> 10 |
-  | components (F1) | 10 -> 10 (1.00) | 6 -> 7 (0.50 -> 0.69) | 7 -> 7 (0.69 -> 0.69) |
-  | hazard_statements (F1) | 10 -> 10 (1.00) | 7 -> 8 (0.76 -> 0.87) | 7 -> 9 (0.82 -> 0.96) |
-  | flash_point | 10 -> 10 | 9 -> 9 | 10 -> **8** |
-  | revision_date | 10 -> 10 | 9 -> 10 | 10 -> 10 |
+  | Field | Haiku | qwen default | qwen greedy | Haiku 4.5 (S1-22; default = greedy) |
+  | --- | --- | --- | --- | --- |
+  | product_name | 8 -> 9 | 8 -> 9 | 8 -> 8 | 8 -> 10 |
+  | language | 9 -> 10 | 9 -> 9 | 8 -> 8 | 9 -> 9 |
+  | signal_word | 9 -> 10 | 10 -> 10 | 10 -> 10 | 10 -> 10 |
+  | physical_state | 9 -> 10 | 9 -> **8** | 9 -> 10 | 9 -> 10 |
+  | components (F1) | 10 -> 10 (1.00) | 6 -> 7 (0.50 -> 0.69) | 7 -> 7 (0.69 -> 0.69) | 9 -> 10 (0.94 -> 1.00) |
+  | hazard_statements (F1) | 10 -> 10 (1.00) | 7 -> 8 (0.76 -> 0.87) | 7 -> 9 (0.82 -> 0.96) | 10 -> 10 (1.00) |
+  | flash_point | 10 -> 10 | 9 -> 9 | 10 -> **8** | 10 -> 10 |
+  | revision_date | 10 -> 10 | 9 -> 10 | 10 -> 10 | 10 -> 10 |
+
+  Haiku 4.5 (S1-22): the trade-name rule fixed D001 and D002 (it is the only model that read
+  the Swedish "Varumärke" list as the trade name), the physical_state rule fixed D010, and
+  nitrogen in D001 got its 100 % back. Only D034 language (`de`) is left, in both
+  configurations. The two temperatures gave the same per-field counts with every prompt.
 
   - Helped: Haiku now misses 1 field of 90. The hazard-statement rule worked best on qwen
     (F1 0.76 -> 0.87 default, 0.82 -> 0.96 greedy).
@@ -111,6 +126,8 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
   | Haiku 5.5 | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
   | qwen3.5-9b default | 35/35 -> **34/35** | 80 -> 73/90 (88.9% -> 81.1%) | 80/90 -> 73/81 (90.1%) |
   | qwen3.5-9b greedy | 35/35 -> **34/35** | 80 -> 81/90 (88.9% -> 90.0%) | 80/90 -> 81/90 |
+  | Haiku 4.5 default (S1-22) | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
+  | Haiku 4.5 greedy (S1-22) | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
 
   Latency and cost changed little: Haiku $2.02 -> $2.04 per 1000 docs; qwen p50 about 28 s for
   both versions.
@@ -129,6 +146,10 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
       Konzentrationsgrenze: … C ≥ 10 %" above the concentration "1-5%". qwen took min 10
       from the classification limit and max 5 from the concentration (min > max). The
       stronger "≥ x -> min" examples may have pulled the limit in.
+  - Made worse on Haiku 4.5 (S1-22): D010 physical_state, `solid` instead of null ("крем,
+    паста") at both temperatures; v2 had it right. The new synonym list ("powder, crystals ->
+    solid") seems to have pulled the paste to solid. qwen greedy v3 did the same in the newer
+    run in `REPORT.md`.
   - Unchanged and not targeted: Haiku revision_date for D007 (v2 2022-10-10, right; v3
     null). v3 did not touch dates, so this counts as run-to-run variance.
   - Caveat: one run per configuration and 10 golden documents; qwen default samples at

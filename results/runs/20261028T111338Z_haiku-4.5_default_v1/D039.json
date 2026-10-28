@@ -1,0 +1,71 @@
+{
+  "doc_id": "D039",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5688,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186072-YiB8hKtqXgDJab5ya8cN",
+    "prompt_tokens": 11101,
+    "completion_tokens": 129,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.011746,
+    "latency_s": 2.438,
+    "total_s": 2.438,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"Argon, compressed\", \"language\": \"en\", \"signal_word\": \"warning\", \"physical_state\": \"gas\", \"components\": [{\"name\": \"Argon\", \"cas_number\": \"7440-37-1\", \"concentration\": null}], \"hazard_statements\": [{\"code\": \"H280\", \"text\": \"Contains gas under pressure; may explode if heated.\"}], \"flash_point\": null, \"un_number\": \"UN1006\", \"revision_date\": \"2020-01-24\"}",
+  "output": {
+    "product_name": "Argon, compressed",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Argon",
+        "cas_number": "7440-37-1",
+        "concentration": null
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1006",
+    "revision_date": "2020-01-24"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:14:32+00:00"
+}

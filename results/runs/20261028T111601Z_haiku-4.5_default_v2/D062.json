@@ -1,0 +1,75 @@
+{
+  "doc_id": "D062",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 4273,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186285-5v2I8mShNinaz28HXewj",
+    "prompt_tokens": 10963,
+    "completion_tokens": 137,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.011648,
+    "latency_s": 2.841,
+    "total_s": 2.841,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Antislip-additief\",\"language\":\"nl\",\"signal_word\":\"none\",\"physical_state\":\"solid\",\"components\":[{\"name\":\"epsilon-caprolactam\",\"cas_number\":\"105-60-2\",\"concentration\":{\"min\":1,\"max\":2.5,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH210\",\"text\":\"Veiligheidsinformatieblad op verzoek verkrijgbaar.\"}],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2023-01-30\"}",
+  "output": {
+    "product_name": "Antislip-additief",
+    "language": "nl",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "epsilon-caprolactam",
+        "cas_number": "105-60-2",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH210",
+        "text": "Veiligheidsinformatieblad op verzoek verkrijgbaar."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2023-01-30"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:18:05+00:00"
+}

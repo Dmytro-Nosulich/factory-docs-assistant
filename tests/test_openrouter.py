@@ -35,7 +35,7 @@ REPLY = {
 }
 
 
-def make_client(*steps):
+def make_client(*steps, sampling=None):
     """Client whose transport plays `steps` in order: an exception to raise or a response."""
     requests, waits = [], []
     queue = list(steps)
@@ -48,7 +48,12 @@ def make_client(*steps):
         return step
 
     client = OpenRouterClient(
-        SETTINGS, MODEL, "test-key", transport=httpx.MockTransport(handler), sleep=waits.append
+        SETTINGS,
+        MODEL,
+        "test-key",
+        sampling=sampling,
+        transport=httpx.MockTransport(handler),
+        sleep=waits.append,
     )
     return client, requests, waits
 
@@ -73,6 +78,15 @@ def test_request_has_structured_output_and_routing():
     assert body["provider"] == {"require_parameters": True}
     assert body["reasoning"] == {"effort": "none"}
     assert body["max_tokens"] == 100
+    assert "temperature" not in body and "top_p" not in body  # none given: none sent (I-003)
+
+
+def test_sampling_values_are_sent_at_the_top_level():
+    client, requests, _ = make_client(ok(), sampling={"temperature": 0.0})
+    client.complete(MESSAGES, SCHEMA)
+    body = json.loads(requests[0].content)
+    assert body["temperature"] == 0.0
+    assert "top_p" not in body
 
 
 def test_response_fields_are_parsed():

@@ -1,0 +1,75 @@
+{
+  "doc_id": "D038",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 4,
+    "pages_total": 4,
+    "truncated": false,
+    "est_tokens": 3079,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186210-gWEx2kv14v9waBTWfrau",
+    "prompt_tokens": 9779,
+    "completion_tokens": 159,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.010574,
+    "latency_s": 2.223,
+    "total_s": 2.223,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"Stickstoff, verdichtet\", \"language\": \"de\", \"signal_word\": \"warning\", \"physical_state\": \"gas\", \"components\": [{\"name\": \"Stickstoff\", \"cas_number\": \"7727-37-9\", \"concentration\": {\"min\": 99.5, \"max\": null, \"unit\": \"percent\"}}], \"hazard_statements\": [{\"code\": \"H280\", \"text\": \"Enthält Gas unter Druck; kann bei Erhitzen explodieren\"}], \"flash_point\": null, \"un_number\": \"UN1066\", \"revision_date\": \"2018-01-30\"}",
+  "output": {
+    "product_name": "Stickstoff, verdichtet",
+    "language": "de",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Stickstoff",
+        "cas_number": "7727-37-9",
+        "concentration": {
+          "min": 99.5,
+          "max": null,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Enthält Gas unter Druck; kann bei Erhitzen explodieren"
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2018-01-30"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:16:50+00:00"
+}

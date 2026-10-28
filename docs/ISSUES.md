@@ -42,6 +42,12 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Switch to an older cloud model that accepts temperature/top_p (e.g. `anthropic/claude-sonnet-4.6`, $3/$15 per 1M tokens).
 - **Current selection:** sampling is compared on the local model only (decision 11). The cloud model runs with fixed settings from `config.toml` (`reasoning_effort = "none"`), and the client sends only the parameters that are set there.
 - **Revisit if:** the reviewer expects a sampling comparison on the cloud model too. Then add a model that accepts temperature as a second cloud entry in `config.toml` (a config change only).
+- **Revisited 2026-10-28 (S1-22):** on the teacher's suggestion, `anthropic/claude-haiku-4.5` was added as a second cloud model with the same `default` and `greedy` configurations, on all three prompts. Haiku 5.5 stays as it is.
+  - **Why this model:** OpenRouter lists `temperature`, `top_p` and `top_k` for it (`GET /api/v1/models`, 2026-10-28). It costs $1.00 / $5.00 per 1M tokens, 10x Haiku 5.5.
+  - **Temperature only:** Anthropic's documentation says Claude 4+ models reject `temperature` and `top_p` in one request. So only `temperature` is sent (`sampling_params = ["temperature"]` in `config.toml`): 1.0 for `default` (also the API default) and 0.0 for `greedy`. The logged params show exactly what was sent.
+  - **Smoke test:** D001 with both configurations, schema-valid, served by Amazon Bedrock.
+  - **Risk:** on Anthropic API version `2026-10-21`, `temperature`, `top_p` and `top_k` are rejected on every model. If OpenRouter moves Haiku 4.5 to that version, `require_parameters` finds no provider and the calls fail as `error`; they are not silently sent without temperature.
+  - It needed a small code change, not only config: a cloud model may now name a sampling table and the values it takes (`OpenRouterModel.sampling`, `sampling_params`).
 - **Status:** decided.
 
 ## I-002: Stage 1 had 15 texts, below the course minimum of 30 (resolved: 35)

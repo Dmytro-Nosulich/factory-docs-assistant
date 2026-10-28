@@ -1,0 +1,131 @@
+{
+  "doc_id": "D064",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 8783,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186583-m7cIaLFayY0wwu9WUJOS",
+    "prompt_tokens": 16388,
+    "completion_tokens": 425,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.018513,
+    "latency_s": 5.047,
+    "total_s": 5.047,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Limpiador de partes de frenos Brakleen® - 5 gal\",\"language\":\"es\",\"signal_word\":\"danger\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"nafta ligera hidrotratada (petróleo)\",\"cas_number\":\"64742-49-0\",\"concentration\":{\"min\":40,\"max\":50,\"unit\":\"percent\"}},{\"name\":\"n-Heptano\",\"cas_number\":\"142-82-5\",\"concentration\":{\"min\":20,\"max\":30,\"unit\":\"percent\"}},{\"name\":\"Heptanos, ramificados, cíclicos y lineales\",\"cas_number\":\"426260-76-6\",\"concentration\":{\"min\":10,\"max\":20,\"unit\":\"percent\"}},{\"name\":\"Alcohol isopropílico\",\"cas_number\":\"67-63-0\",\"concentration\":{\"min\":5,\"max\":10,\"unit\":\"percent\"}},{\"name\":\"solvente, nafta (petróleo), alifáticos ligeros\",\"cas_number\":\"64742-89-8\",\"concentration\":{\"min\":3,\"max\":5,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H225\",\"text\":\"Líquido y vapores muy inflamables.\"},{\"code\":\"H304\",\"text\":\"Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias.\"},{\"code\":\"H315\",\"text\":\"Provoca irritación cutánea.\"},{\"code\":\"H319\",\"text\":\"Provoca irritación ocular grave.\"},{\"code\":\"H336\",\"text\":\"Puede provocar somnolencia o vértigo.\"}],\"flash_point\":{\"min\":-9.0,\"max\":-9.0,\"unit\":\"celsius\"},\"un_number\":\"UN1993\",\"revision_date\":\"2021-12-20\"}",
+  "output": {
+    "product_name": "Limpiador de partes de frenos Brakleen® - 5 gal",
+    "language": "es",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "nafta ligera hidrotratada (petróleo)",
+        "cas_number": "64742-49-0",
+        "concentration": {
+          "min": 40.0,
+          "max": 50.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "n-Heptano",
+        "cas_number": "142-82-5",
+        "concentration": {
+          "min": 20.0,
+          "max": 30.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Heptanos, ramificados, cíclicos y lineales",
+        "cas_number": "426260-76-6",
+        "concentration": {
+          "min": 10.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Alcohol isopropílico",
+        "cas_number": "67-63-0",
+        "concentration": {
+          "min": 5.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "solvente, nafta (petróleo), alifáticos ligeros",
+        "cas_number": "64742-89-8",
+        "concentration": {
+          "min": 3.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H225",
+        "text": "Líquido y vapores muy inflamables."
+      },
+      {
+        "code": "H304",
+        "text": "Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias."
+      },
+      {
+        "code": "H315",
+        "text": "Provoca irritación cutánea."
+      },
+      {
+        "code": "H319",
+        "text": "Provoca irritación ocular grave."
+      },
+      {
+        "code": "H336",
+        "text": "Puede provocar somnolencia o vértigo."
+      }
+    ],
+    "flash_point": {
+      "min": -9.0,
+      "max": -9.0,
+      "unit": "celsius"
+    },
+    "un_number": "UN1993",
+    "revision_date": "2021-12-20"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:23:03+00:00"
+}

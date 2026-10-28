@@ -1,0 +1,83 @@
+{
+  "doc_id": "D008",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 11,
+    "pages_total": 11,
+    "truncated": false,
+    "est_tokens": 6727,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186474-a6z25AS6iXbVntFwiTqA",
+    "prompt_tokens": 17341,
+    "completion_tokens": 200,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.018341,
+    "latency_s": 3.934,
+    "total_s": 3.934,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Motorbike Visierreiniger\",\"language\":\"uk\",\"signal_word\":\"none\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"2-пропанол\",\"cas_number\":\"67-63-0\",\"concentration\":{\"min\":1,\"max\":10,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"EUH208\",\"text\":\"Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію.\"},{\"code\":\"EUH210\",\"text\":\"Паспорт безпеки  можна отримати за запитом.\"}],\"flash_point\":{\"min\":65,\"max\":null,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2020-01-21\"}",
+  "output": {
+    "product_name": "Motorbike Visierreiniger",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "2-пропанол",
+        "cas_number": "67-63-0",
+        "concentration": {
+          "min": 1.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "EUH208",
+        "text": "Містить 1,2-бензизотіазол-3(2Н)-он. Може спричинити алергічну реакцію."
+      },
+      {
+        "code": "EUH210",
+        "text": "Паспорт безпеки  можна отримати за запитом."
+      }
+    ],
+    "flash_point": {
+      "min": 65.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2020-01-21"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:21:14+00:00"
+}

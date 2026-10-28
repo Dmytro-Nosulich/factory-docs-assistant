@@ -22,11 +22,14 @@ class OpenRouterClient:
         settings: OpenRouterSettings,
         model: OpenRouterModel,
         api_key: str,
+        sampling: dict[str, float] | None = None,
         transport: httpx.BaseTransport | None = None,
         sleep: Callable[[float], None] = time.sleep,
     ):
+        """sampling: the values to send (`config.sent_sampling`); None sends none (I-003)."""
         self.settings = settings
         self.model = model
+        self.sampling = sampling
         self.sleep = sleep
         self.http = httpx.Client(
             base_url=settings.base_url,
@@ -52,6 +55,8 @@ class OpenRouterClient:
         }
         if self.model.reasoning_effort:
             body["reasoning"] = {"effort": self.model.reasoning_effort}
+        if self.sampling:
+            body.update(self.sampling)
         return body
 
     def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse:

@@ -1,0 +1,79 @@
+{
+  "doc_id": "D006",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 3890,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186318-iKBGbutAwlot1fHBY1Dq",
+    "prompt_tokens": 11697,
+    "completion_tokens": 190,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.012647,
+    "latency_s": 3.247,
+    "total_s": 3.247,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"STIHL Універсальний засіб для очищення Profi CP 200\", \"language\": \"uk\", \"signal_word\": \"none\", \"physical_state\": \"liquid\", \"components\": [{\"name\": \"sodium-p-cumene sulphonate\", \"cas_number\": \"15763-76-5\", \"concentration\": {\"min\": 1, \"max\": 3, \"unit\": \"percent\"}}, {\"name\": \"Phenol polyethoxilate\", \"cas_number\": \"9004-78-8\", \"concentration\": {\"min\": 1, \"max\": 3, \"unit\": \"percent\"}}], \"hazard_statements\": [], \"flash_point\": null, \"un_number\": null, \"revision_date\": \"2020-08-06\"}",
+  "output": {
+    "product_name": "STIHL Універсальний засіб для очищення Profi CP 200",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "sodium-p-cumene sulphonate",
+        "cas_number": "15763-76-5",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Phenol polyethoxilate",
+        "cas_number": "9004-78-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2020-08-06"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:18:38+00:00"
+}

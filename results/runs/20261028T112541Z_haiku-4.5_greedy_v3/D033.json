@@ -1,0 +1,60 @@
+{
+  "doc_id": "D033",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 8,
+    "pages_total": 8,
+    "truncated": false,
+    "est_tokens": 3965,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186774-McqyVTbSRFGZTMvMLYYg",
+    "prompt_tokens": 11326,
+    "completion_tokens": 84,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.011746,
+    "latency_s": 2.779,
+    "total_s": 2.779,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"PressurePro Systempflege RM 110\", \"language\": \"de\", \"signal_word\": \"none\", \"physical_state\": \"liquid\", \"components\": [], \"hazard_statements\": [], \"flash_point\": null, \"un_number\": null, \"revision_date\": \"2026-05-11\"}",
+  "output": {
+    "product_name": "PressurePro Systempflege RM 110",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-05-11"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:26:14+00:00"
+}

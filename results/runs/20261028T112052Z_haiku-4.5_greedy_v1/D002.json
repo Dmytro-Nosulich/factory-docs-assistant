@@ -1,0 +1,75 @@
+{
+  "doc_id": "D002",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 19,
+    "pages_total": 19,
+    "truncated": false,
+    "est_tokens": 8717,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186455-2MHs9dbRpgMOzI8vPIQO",
+    "prompt_tokens": 18748,
+    "completion_tokens": 130,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.019398,
+    "latency_s": 3.266,
+    "total_s": 3.266,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"Nitrogen, komprimerad\",\"language\":\"sv\",\"signal_word\":\"warning\",\"physical_state\":\"gas\",\"components\":[{\"name\":\"Nitrogen\",\"cas_number\":\"7727-37-9\",\"concentration\":{\"min\":100,\"max\":100,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H280\",\"text\":\"Innehåller gas under tryck. Kan explodera vid uppvärmning.\"}],\"flash_point\":null,\"un_number\":\"UN1066\",\"revision_date\":\"2023-09-18\"}",
+  "output": {
+    "product_name": "Nitrogen, komprimerad",
+    "language": "sv",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Nitrogen",
+        "cas_number": "7727-37-9",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Innehåller gas under tryck. Kan explodera vid uppvärmning."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1066",
+    "revision_date": "2023-09-18"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:20:55+00:00"
+}

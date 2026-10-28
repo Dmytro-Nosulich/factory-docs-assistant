@@ -302,9 +302,9 @@ def markdown_table(header: list[str], rows: list[list[str]]) -> str:
 
 
 def sampling_label(row: dict) -> str:
-    if row["client"] != "ollama":
-        return "-"
-    return row["sampling"] or "not logged"  # runs before S1-10 did not log it
+    if row["sampling"]:
+        return row["sampling"]
+    return "not logged" if row["client"] == "ollama" else "-"  # local runs before S1-10
 
 
 def format_tables(rows: list[dict]) -> str:

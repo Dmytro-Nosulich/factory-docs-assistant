@@ -13,6 +13,7 @@ from factory_docs.metrics import (
     percentile,
     ranges_match,
     run_metrics,
+    sampling_label,
     score_document,
 )
 
@@ -288,3 +289,10 @@ def test_per_language_counts_and_table(tmp_path):
     table = format_tables([row])
     assert "| Run | en | sv | uk |\n| --- | --- | --- | --- |\n" in table
     assert "| run | 1/2 · 7/9 | 1/1 · - | 0/1 · 0/9 |" in table
+
+
+def test_sampling_label_for_local_and_cloud_runs():
+    assert sampling_label({"client": "ollama", "sampling": "greedy"}) == "greedy"
+    assert sampling_label({"client": "ollama", "sampling": None}) == "not logged"  # before S1-10
+    assert sampling_label({"client": "openrouter", "sampling": "greedy"}) == "greedy"  # S1-22
+    assert sampling_label({"client": "openrouter", "sampling": None}) == "-"

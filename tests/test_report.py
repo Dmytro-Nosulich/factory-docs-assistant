@@ -20,13 +20,16 @@ CELL = ("qwen3.5-9b", "greedy", "v2")
 
 def test_matrix_is_every_model_sampling_and_prompt_in_table_order():
     cells = matrix_cells(load_config())
-    assert len(cells) == 9
-    assert cells[:4] == [
-        ("haiku-5.5", None, "v1"),  # the cloud model takes no sampling (I-003)
+    assert len(cells) == 15
+    assert cells[:5] == [
+        ("haiku-5.5", None, "v1"),  # Haiku 5.5 takes no sampling (I-003)
         ("haiku-5.5", None, "v2"),
         ("haiku-5.5", None, "v3"),
-        ("qwen3.5-9b", "default", "v1"),
+        ("haiku-4.5", "default", "v1"),  # a cloud model that takes it (S1-22)
+        ("haiku-4.5", "default", "v2"),
     ]
+    assert cells[8] == ("haiku-4.5", "greedy", "v3")
+    assert cells[9] == ("qwen3.5-9b", "default", "v1")
     assert cells[-1] == ("qwen3.5-9b", "greedy", "v3")
 
 
@@ -83,7 +86,7 @@ def test_other_sampling_values_are_not_picked(tmp_path):
 
 def test_cells_without_a_run_are_listed(tmp_path):
     section, run_ids, missing = comparison_section(load_config(), tmp_path, DOCS)
-    assert (run_ids, len(missing)) == ([], 9)
+    assert (run_ids, len(missing)) == ([], 15)
     assert "No complete run yet: haiku-5.5 v1," in section
     assert "No complete runs: run `make run`." in section
 

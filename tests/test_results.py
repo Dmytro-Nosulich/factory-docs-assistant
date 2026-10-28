@@ -1,9 +1,10 @@
 """Every saved result file says which configuration produced it (S1-16).
 
 Checks the committed files under results/: model, prompt version and hash, parameters, and
-for a local model the sampling configuration. Runs from before S1-16 lack the later fields
-(model digest, input cap, explicit `sampling: null` for the cloud model), so only these core
-fields are checked here; the new ones are covered by test_extract.py and test_run.py.
+the sampling configuration for a local model or a cloud model that takes it (S1-22). Runs
+from before S1-16 lack the later fields (model digest, input cap, explicit `sampling: null`
+for the cloud model), so only these core fields are checked here; the new ones are covered
+by test_extract.py and test_run.py.
 """
 
 import json
@@ -29,6 +30,8 @@ def test_result_file_names_its_configuration(path):
     if model["client"] == "ollama":
         assert params["sampling"]["name"]
         assert params["num_ctx"] and params["num_predict"]
+    if model["key"] == "haiku-4.5":  # the cloud model with sampling: temperature only
+        assert set(params["sampling"]) == {"name", "temperature"}
 
 
 def test_report_tables_are_up_to_date():

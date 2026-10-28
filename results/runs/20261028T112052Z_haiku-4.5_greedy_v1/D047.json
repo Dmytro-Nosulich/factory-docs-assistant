@@ -1,0 +1,66 @@
+{
+  "doc_id": "D047",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 7,
+    "pages_total": 7,
+    "truncated": false,
+    "est_tokens": 3120,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186512-H208asBvs6QsvwOgwV7y",
+    "prompt_tokens": 7738,
+    "completion_tokens": 102,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.008248,
+    "latency_s": 2.132,
+    "total_s": 2.132,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"Abrasive, fine\", \"language\": \"en\", \"signal_word\": \"none\", \"physical_state\": \"solid\", \"components\": [{\"name\": \"Ashes (residues), coal\", \"cas_number\": null, \"concentration\": null}], \"hazard_statements\": [], \"flash_point\": null, \"un_number\": null, \"revision_date\": \"2021-07-30\"}",
+  "output": {
+    "product_name": "Abrasive, fine",
+    "language": "en",
+    "signal_word": "none",
+    "physical_state": "solid",
+    "components": [
+      {
+        "name": "Ashes (residues), coal",
+        "cas_number": null,
+        "concentration": null
+      }
+    ],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2021-07-30"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:21:52+00:00"
+}

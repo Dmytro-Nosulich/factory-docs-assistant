@@ -1,0 +1,92 @@
+{
+  "doc_id": "D035",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v1",
+    "sha256": "dee1bb73e69d"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 9,
+    "pages_total": 9,
+    "truncated": false,
+    "est_tokens": 4938,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186058-v6HU8lRFLClkED5UaTvA",
+    "prompt_tokens": 13295,
+    "completion_tokens": 308,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.014835,
+    "latency_s": 5.232,
+    "total_s": 5.232,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"STIHL Спеціальний засіб для чистки Varioclean\",\"language\":\"uk\",\"signal_word\":\"danger\",\"physical_state\":\"liquid\",\"components\":[{\"name\":\"Динатрій метасилікат\",\"cas_number\":\"10213-79-3\",\"concentration\":{\"min\":15,\"max\":20,\"unit\":\"percent\"}},{\"name\":\"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts\",\"cas_number\":\"147170-44-3\",\"concentration\":{\"min\":4,\"max\":10,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H290\",\"text\":\"Може викликати корозію металів.\"},{\"code\":\"H314\",\"text\":\"Спричиняє важкі хімічні опіки шкіри і ушкодження очей важкого ступеню.\"},{\"code\":\"H318\",\"text\":\"Спричиняє ушкодження очей важкого ступеню.\"}],\"flash_point\":null,\"un_number\":\"UN1719\",\"revision_date\":\"2022-02-24\"}",
+  "output": {
+    "product_name": "STIHL Спеціальний засіб для чистки Varioclean",
+    "language": "uk",
+    "signal_word": "danger",
+    "physical_state": "liquid",
+    "components": [
+      {
+        "name": "Динатрій метасилікат",
+        "cas_number": "10213-79-3",
+        "concentration": {
+          "min": 15.0,
+          "max": 20.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-(C8-18(even numbered, C18 unsaturated)) acyl derivs., hydroxides, inner salts",
+        "cas_number": "147170-44-3",
+        "concentration": {
+          "min": 4.0,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H290",
+        "text": "Може викликати корозію металів."
+      },
+      {
+        "code": "H314",
+        "text": "Спричиняє важкі хімічні опіки шкіри і ушкодження очей важкого ступеню."
+      },
+      {
+        "code": "H318",
+        "text": "Спричиняє ушкодження очей важкого ступеню."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1719",
+    "revision_date": "2022-02-24"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:14:17+00:00"
+}

@@ -53,7 +53,7 @@ def test_model_naming_a_missing_sampling_table_is_rejected(tmp_path):
 
 
 def test_comparison_naming_a_missing_model_is_rejected(tmp_path):
-    path = config_with(tmp_path, '"haiku-5.5", "qwen3.5-9b"]', '"haiku-5.5", "nope"]')
+    path = config_with(tmp_path, '"haiku-4.5", "qwen3.5-9b"]', '"haiku-4.5", "nope"]')
     with pytest.raises(ValidationError, match="\\[comparison\\] model 'nope'"):
         load_config(path)
 
@@ -86,6 +86,24 @@ def test_cloud_model_takes_no_sampling():
         resolve_sampling(config, "haiku-5.5", "greedy")
 
 
+def test_haiku_4_5_takes_sampling_but_sends_only_temperature():
+    config = load_config()
+    assert resolve_sampling(config, "haiku-4.5")[0] == "default"
+    assert run_params(config, "haiku-4.5", "greedy") == {
+        "reasoning_effort": None,
+        "max_tokens": 8000,
+        "sampling": {"name": "greedy", "temperature": 0.0},  # no top_p: Claude 4+ rejects both
+    }
+    assert run_params(config, "haiku-4.5")["sampling"] == {"name": "default", "temperature": 1.0}
+
+
+@pytest.mark.parametrize("kept", ['sampling = "default"\n', 'sampling_params = ["temperature"]\n'])
+def test_cloud_sampling_and_its_params_go_together(tmp_path, kept):
+    path = config_with(tmp_path, 'sampling = "default"\nsampling_params = ["temperature"]\n', kept)
+    with pytest.raises(ValidationError, match="sampling and sampling_params together"):
+        load_config(path)
+
+
 def test_run_params_log_sampling_name_and_values():
     config = load_config()
     assert run_params(config, "haiku-5.5") == {
@@ -99,6 +117,14 @@ def test_run_params_log_sampling_name_and_values():
         "think": False,
         "sampling": {"name": "greedy", "temperature": 0.0, "top_p": 1.0},
     }
+
+
+def test_haiku_5_5_params_still_match_its_saved_runs():
+    """S1-22 added cloud sampling fields; the params a Haiku 5.5 run logs must not change, or
+    the comparison would drop the existing runs (report.latest_complete_run)."""
+    config = load_config()
+    saved = {"reasoning_effort": "none", "max_tokens": 8000, "sampling": None}  # S1-17 runs
+    assert run_params(config, "haiku-5.5") == saved
 
 
 def test_params_saved_before_s1_16_still_match():

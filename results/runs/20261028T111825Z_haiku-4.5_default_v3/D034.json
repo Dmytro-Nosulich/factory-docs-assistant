@@ -1,0 +1,60 @@
+{
+  "doc_id": "D034",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v3",
+    "sha256": "5c2e74f757aa"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 6,
+    "pages_total": 6,
+    "truncated": false,
+    "est_tokens": 3497,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186343-02p9hmbnniGLQg6y3Rvv",
+    "prompt_tokens": 8568,
+    "completion_tokens": 82,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.008978,
+    "latency_s": 1.864,
+    "total_s": 1.864,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"pH-Pufferlösung 12,00\", \"language\": \"de\", \"signal_word\": \"none\", \"physical_state\": \"liquid\", \"components\": [], \"hazard_statements\": [], \"flash_point\": null, \"un_number\": null, \"revision_date\": \"2024-08-20\"}",
+  "output": {
+    "product_name": "pH-Pufferlösung 12,00",
+    "language": "de",
+    "signal_word": "none",
+    "physical_state": "liquid",
+    "components": [],
+    "hazard_statements": [],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2024-08-20"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:19:03+00:00"
+}

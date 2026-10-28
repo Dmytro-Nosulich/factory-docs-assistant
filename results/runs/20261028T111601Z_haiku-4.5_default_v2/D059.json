@@ -1,0 +1,186 @@
+{
+  "doc_id": "D059",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 24,
+    "pages_total": 24,
+    "truncated": false,
+    "est_tokens": 17267,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186267-fVSo3w3dI0aCQHMzsnGH",
+    "prompt_tokens": 30727,
+    "completion_tokens": 779,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.034622,
+    "latency_s": 8.669,
+    "total_s": 8.669,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.\",\"language\":\"fr\",\"signal_word\":\"danger\",\"physical_state\":null,\"components\":[{\"name\":\"Polymère uréthanne\",\"cas_number\":null,\"concentration\":{\"min\":30,\"max\":40,\"unit\":\"percent\"}},{\"name\":\"C14-17 alcanes, acides seconononiques et disulfoniques, esters de phényle\",\"cas_number\":null,\"concentration\":{\"min\":20,\"max\":40,\"unit\":\"percent\"}},{\"name\":\"Polychlorure de vinyle\",\"cas_number\":\"9002-86-2\",\"concentration\":{\"min\":20,\"max\":30,\"unit\":\"percent\"}},{\"name\":\"Masse de réaction d'éthylbenzène et de xylène\",\"cas_number\":null,\"concentration\":{\"min\":3,\"max\":7,\"unit\":\"percent\"}},{\"name\":\"Produit de réaction du diméthylsiloxane et de la silice\",\"cas_number\":\"67762-90-7\",\"concentration\":{\"min\":1,\"max\":5,\"unit\":\"percent\"}},{\"name\":\"Oxyde de calcium\",\"cas_number\":\"1305-78-8\",\"concentration\":{\"min\":1,\"max\":3,\"unit\":\"percent\"}},{\"name\":\"Dioxyde de titane\",\"cas_number\":\"13463-67-7\",\"concentration\":{\"min\":null,\"max\":2.5,\"unit\":\"percent\"}},{\"name\":\"Diisocyanate de 4,4'-méthylènediphényle\",\"cas_number\":\"101-68-8\",\"concentration\":{\"min\":1,\"max\":2,\"unit\":\"percent\"}},{\"name\":\"Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques\",\"cas_number\":null,\"concentration\":{\"min\":0.5,\"max\":1.5,\"unit\":\"percent\"}},{\"name\":\"Noir de carbone\",\"cas_number\":\"1333-86-4\",\"concentration\":{\"min\":null,\"max\":0.3,\"unit\":\"percent\"}},{\"name\":\"Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle\",\"cas_number\":\"915-68-7\",\"concentration\":{\"min\":null,\"max\":0.2,\"unit\":\"percent\"}},{\"name\":\"Chlorure de tosyle\",\"cas_number\":\"98-59-9\",\"concentration\":{\"min\":null,\"max\":0.02,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H315\",\"text\":\"Provoque une irritation cutanée.\"},{\"code\":\"H334\",\"text\":\"Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation.\"},{\"code\":\"H317\",\"text\":\"Peut provoquer une allergie cutanée.\"},{\"code\":\"H351\",\"text\":\"Susceptible de provoquer le cancer.\"}],\"flash_point\":null,\"un_number\":null,\"revision_date\":\"2026-02-26\"}",
+  "output": {
+    "product_name": "3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS.",
+    "language": "fr",
+    "signal_word": "danger",
+    "physical_state": null,
+    "components": [
+      {
+        "name": "Polymère uréthanne",
+        "cas_number": null,
+        "concentration": {
+          "min": 30.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "C14-17 alcanes, acides seconononiques et disulfoniques, esters de phényle",
+        "cas_number": null,
+        "concentration": {
+          "min": 20.0,
+          "max": 40.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Polychlorure de vinyle",
+        "cas_number": "9002-86-2",
+        "concentration": {
+          "min": 20.0,
+          "max": 30.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction d'éthylbenzène et de xylène",
+        "cas_number": null,
+        "concentration": {
+          "min": 3.0,
+          "max": 7.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Produit de réaction du diméthylsiloxane et de la silice",
+        "cas_number": "67762-90-7",
+        "concentration": {
+          "min": 1.0,
+          "max": 5.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Oxyde de calcium",
+        "cas_number": "1305-78-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 3.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Dioxyde de titane",
+        "cas_number": "13463-67-7",
+        "concentration": {
+          "min": null,
+          "max": 2.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Diisocyanate de 4,4'-méthylènediphényle",
+        "cas_number": "101-68-8",
+        "concentration": {
+          "min": 1.0,
+          "max": 2.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Hydrocarbures, C11-C14, n-alcanes, isoalcanes, cycliques,  < 2% aromatiques",
+        "cas_number": null,
+        "concentration": {
+          "min": 0.5,
+          "max": 1.5,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Noir de carbone",
+        "cas_number": "1333-86-4",
+        "concentration": {
+          "min": null,
+          "max": 0.3,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Masse de réaction de Sébaçate de bis (1,2,2,6,6-pentaméthyl-4-pipéridyle) et de Sébaçate de méthyle et de 1,2,2,6,6-pentaméthyl-4-pipéridyle",
+        "cas_number": "915-68-7",
+        "concentration": {
+          "min": null,
+          "max": 0.2,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "Chlorure de tosyle",
+        "cas_number": "98-59-9",
+        "concentration": {
+          "min": null,
+          "max": 0.02,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H315",
+        "text": "Provoque une irritation cutanée."
+      },
+      {
+        "code": "H334",
+        "text": "Peut provoquer des symptômes allergiques ou d'asthme ou des difficultés respiratoires par inhalation."
+      },
+      {
+        "code": "H317",
+        "text": "Peut provoquer une allergie cutanée."
+      },
+      {
+        "code": "H351",
+        "text": "Susceptible de provoquer le cancer."
+      }
+    ],
+    "flash_point": null,
+    "un_number": null,
+    "revision_date": "2026-02-26"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:17:47+00:00"
+}

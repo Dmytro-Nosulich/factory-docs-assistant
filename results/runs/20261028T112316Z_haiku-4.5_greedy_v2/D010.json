@@ -1,0 +1,88 @@
+{
+  "doc_id": "D010",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "greedy",
+      "temperature": 0.0
+    }
+  },
+  "input": {
+    "pages_sent": 15,
+    "pages_total": 15,
+    "truncated": false,
+    "est_tokens": 6806,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186621-sMAmbVZORfu2ZsvM5qQV",
+    "prompt_tokens": 18234,
+    "completion_tokens": 223,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.019349,
+    "latency_s": 3.677,
+    "total_s": 3.677,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\":\"PREPARAT OCHRONNY DO RAK-BASIC-1000ML\",\"language\":\"uk\",\"signal_word\":\"none\",\"physical_state\":null,\"components\":[{\"name\":\"Жирні кислоти, кокосова олія, солі натрію\",\"cas_number\":\"61789-89-7\",\"concentration\":{\"min\":2.5,\"max\":10,\"unit\":\"percent\"}},{\"name\":\"C16-18 Етоксильований спирт\",\"cas_number\":\"68439-49-6\",\"concentration\":{\"min\":2.5,\"max\":10,\"unit\":\"percent\"}}],\"hazard_statements\":[{\"code\":\"H412\",\"text\":\"Шкідливо для водних організмів із тривалимі наслідками.\"}],\"flash_point\":{\"min\":190,\"max\":null,\"unit\":\"celsius\"},\"un_number\":null,\"revision_date\":\"2021-04-09\"}",
+  "output": {
+    "product_name": "PREPARAT OCHRONNY DO RAK-BASIC-1000ML",
+    "language": "uk",
+    "signal_word": "none",
+    "physical_state": null,
+    "components": [
+      {
+        "name": "Жирні кислоти, кокосова олія, солі натрію",
+        "cas_number": "61789-89-7",
+        "concentration": {
+          "min": 2.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      },
+      {
+        "name": "C16-18 Етоксильований спирт",
+        "cas_number": "68439-49-6",
+        "concentration": {
+          "min": 2.5,
+          "max": 10.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H412",
+        "text": "Шкідливо для водних організмів із тривалимі наслідками."
+      }
+    ],
+    "flash_point": {
+      "min": 190.0,
+      "max": null,
+      "unit": "celsius"
+    },
+    "un_number": null,
+    "revision_date": "2021-04-09"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:23:41+00:00"
+}

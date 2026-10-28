@@ -1,0 +1,75 @@
+{
+  "doc_id": "D039",
+  "status": "valid",
+  "model": {
+    "key": "haiku-4.5",
+    "client": "openrouter",
+    "slug": "anthropic/claude-haiku-4.5",
+    "response_model": "anthropic/claude-haiku-4.5",
+    "provider": "Amazon Bedrock",
+    "digest": null
+  },
+  "prompt": {
+    "name": "extract",
+    "version": "v2",
+    "sha256": "a540956d4106"
+  },
+  "params": {
+    "reasoning_effort": null,
+    "max_tokens": 8000,
+    "sampling": {
+      "name": "default",
+      "temperature": 1.0
+    }
+  },
+  "input": {
+    "pages_sent": 12,
+    "pages_total": 12,
+    "truncated": false,
+    "est_tokens": 5688,
+    "max_input_tokens": 20000
+  },
+  "call": {
+    "finish_reason": "stop",
+    "generation_id": "gen-1793186212-Co4SAZvQPUbPOYulLhqK",
+    "prompt_tokens": 11534,
+    "completion_tokens": 255,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.012809,
+    "latency_s": 3.921,
+    "total_s": 3.921,
+    "attempts": 1,
+    "details": null
+  },
+  "raw": "{\"product_name\": \"Argon, Argon 4.0, Argon 4.6, Argon 4.8 PREMIUM, Instrument Argon 5.0, HiQ Argon 6.0, HiQ Argon 7.0, Argon 6.0 Scientific, Argon 5.0 ICP, Argon 5.7 Laboratory, Argon Veriseq Process, Biogon A, PYROGON A\", \"language\": \"en\", \"signal_word\": \"warning\", \"physical_state\": \"gas\", \"components\": [{\"name\": \"Argon\", \"cas_number\": \"7440-37-1\", \"concentration\": {\"min\": 100, \"max\": 100, \"unit\": \"percent\"}}], \"hazard_statements\": [{\"code\": \"H280\", \"text\": \"Contains gas under pressure; may explode if heated.\"}], \"flash_point\": null, \"un_number\": \"UN1006\", \"revision_date\": \"2020-01-24\"}",
+  "output": {
+    "product_name": "Argon, Argon 4.0, Argon 4.6, Argon 4.8 PREMIUM, Instrument Argon 5.0, HiQ Argon 6.0, HiQ Argon 7.0, Argon 6.0 Scientific, Argon 5.0 ICP, Argon 5.7 Laboratory, Argon Veriseq Process, Biogon A, PYROGON A",
+    "language": "en",
+    "signal_word": "warning",
+    "physical_state": "gas",
+    "components": [
+      {
+        "name": "Argon",
+        "cas_number": "7440-37-1",
+        "concentration": {
+          "min": 100.0,
+          "max": 100.0,
+          "unit": "percent"
+        }
+      }
+    ],
+    "hazard_statements": [
+      {
+        "code": "H280",
+        "text": "Contains gas under pressure; may explode if heated."
+      }
+    ],
+    "flash_point": null,
+    "un_number": "UN1006",
+    "revision_date": "2020-01-24"
+  },
+  "errors": [],
+  "repair": null,
+  "final_status": "valid",
+  "created_at": "2026-10-28T11:16:52+00:00"
+}
