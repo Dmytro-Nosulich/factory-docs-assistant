@@ -6,17 +6,30 @@ Real factory documentation is closed, so this project uses only **public, openly
 
 > Work in progress: stage 1 (structured extraction).
 
-## Requirements
-- [uv](https://docs.astral.sh/uv/) (installs the right Python version, 3.11, automatically)
-- `make`
-- [Ollama](https://ollama.com) running, with the local model pulled: `ollama pull qwen3.5:9b` (6.6 GB)
-- An [OpenRouter](https://openrouter.ai) key in `.env` for the two cloud models (paid, see below)
+## Quick start
 
-## How to run
+**You need**
+- [uv](https://docs.astral.sh/uv/) (installs the right Python version, 3.11, automatically) and `make`
+- [Ollama](https://ollama.com) running, with the local model pulled: `ollama pull qwen3.5:9b` (6.6 GB)
+- An [OpenRouter](https://openrouter.ai) key with about $4 of credit
+
+**Run**
 ```sh
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
-make run               # everything: every model x prompt x sampling on all 35 documents, then REPORT.md
-make run DOCS="D001 D007"   # the same on two documents: a quick check (the REPORT.md tables keep full runs only)
+make run               # every model x prompt x sampling on all 35 documents, then REPORT.md
+```
+
+**Time:** about 2 h 15 min on an Apple M4 Pro (mostly the local model).
+
+**Cost:** about $3.62 in OpenRouter credit.
+
+**Results:** the comparison tables, the error analysis and the final model choice are in [REPORT.md](REPORT.md). `make comparison` rebuilds the tables from the committed results, with no model calls and no cost.
+
+## Details (optional)
+
+### Other commands
+```sh
+make run DOCS="D001 D007"   # the full matrix on two documents: a quick check (the REPORT.md tables keep full runs only)
 make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
 make repair RUN=<run_id>    # one repair attempt for each invalid reply of a saved run
 make metrics           # metrics table of all saved runs (rules: docs/METRICS.md)
@@ -48,10 +61,10 @@ make run MODEL=qwen3.5-9b PROMPT=v2             # another prompt version (prompt
 ```
 Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in `config.toml`: `default` (1.0 / 0.95, the model's own defaults) and `greedy` (0.0 / 1.0). Without `SAMPLING` a model uses the table named in its `sampling` key. The cloud models: Haiku 5.5 takes no sampling parameters, and Haiku 4.5 gets only the `temperature` of the table, because Claude 4+ models reject `temperature` and `top_p` in one request (`docs/ISSUES.md` I-003). `num_ctx` (the context window) is set explicitly per model. A prompt that does not fit is recorded as `error` and never as a reply, because some Ollama runners cut long prompts silently (`docs/ISSUES.md` I-004).
 
-## Configuration
+### Configuration
 `config.toml` holds everything that changes a run: prompt version, model slug, sampling, timeout, retries and the input length cap. Keys are never in it; `OPENROUTER_API_KEY` comes from `.env`.
 
-## Layout
+### Layout
 - `src/factory_docs/`: application code
 - `data/raw/`: source PDFs; `data/manifest.csv`: document list with source and terms
 - `prompts/`: versioned prompts
