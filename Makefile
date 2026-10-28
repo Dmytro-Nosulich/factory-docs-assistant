@@ -1,4 +1,4 @@
-.PHONY: run repair texts golden-check extract-one metrics comparison test lint format
+.PHONY: run repair texts golden-check extract-one metrics comparison errors test lint format
 
 MODEL ?=
 SAMPLING ?=
@@ -39,6 +39,10 @@ metrics:
 # Rewrite the comparison tables in REPORT.md from saved runs, no model calls (S1-17)
 comparison:
 	uv run python scripts/metrics.py --report
+
+# Every golden-set miss of the comparison runs, for the error analysis in REPORT.md (S1-18)
+errors:
+	uv run python scripts/errors.py
 
 test:
 	uv run pytest
