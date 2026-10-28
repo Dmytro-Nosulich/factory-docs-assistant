@@ -1,4 +1,4 @@
-"""Extraction schema for safety data sheets (SDS), stage 1 (decision 7).
+"""Extraction schema for safety data sheets (SDS), stage 1.
 
 Every field is required in the JSON; a value the document does not give is `null`
 (or an empty list), never left out. "Not stated" and "not applicable" are both `null`.

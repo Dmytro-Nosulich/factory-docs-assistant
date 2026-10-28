@@ -55,7 +55,7 @@ price_in_usd_per_mtok = 1.00
 price_out_usd_per_mtok = 5.00
 price_checked = 2026-10-28
 
-# Local models (decision 3b): sized for a 32 GB laptop, CPU only. Default Ollama tags; on an
+# Local models: sized for a 32 GB laptop, CPU only. Default Ollama tags; on an
 # Apple Silicon Mac they resolve to nvfp4 builds run by the MLX runner (docs/ISSUES.md I-004).
 # num_ctx must hold the longest prompt (D003, about 50k tokens) plus num_predict.
 # `sampling` names the [sampling] table used when --sampling is not given.

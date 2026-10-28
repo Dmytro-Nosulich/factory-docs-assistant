@@ -7,7 +7,7 @@ and after, from the metrics script).
 
 The measured effects below come from these 9 runs (all 35 SDS each), which stay in
 `results/runs/`; re-compute them with `make metrics RUNS="<run IDs>"`. The comparison tables in
-`REPORT.md` use the newest full `make run` (S1-17), so their local-model numbers can differ.
+`REPORT.md` use the newest full `make run`, so their local-model numbers can differ.
 - v1: `20261021T213726Z_haiku-5.5_v1`, `20261021T213849Z_qwen3.5-9b_default_v1`,
   `20261021T215749Z_qwen3.5-9b_greedy_v1`
 - v2: `20261027T082437Z_haiku-5.5_v2`, `20261027T082633Z_qwen3.5-9b_default_v2`,
@@ -15,7 +15,7 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
 - v3: `20261027T092300Z_haiku-5.5_v3`, `20261027T092438Z_qwen3.5-9b_default_v3`,
   `20261027T094416Z_qwen3.5-9b_greedy_v3`
 
-Haiku 4.5 (default and greedy) was added later, in S1-22. Its rows below come from its 6 runs,
+Haiku 4.5 (default and greedy) was added later, on 2026-10-28. Its rows below come from its 6 runs,
 which are also the ones in `REPORT.md`:
 - v1: `20261028T111338Z_haiku-4.5_default_v1`, `20261028T112052Z_haiku-4.5_greedy_v1`
 - v2: `20261028T111601Z_haiku-4.5_default_v2`, `20261028T112316Z_haiku-4.5_greedy_v2`
@@ -36,11 +36,11 @@ which are also the ones in `REPORT.md`:
   | Haiku 5.5 | 85/90 (94.4%) | 2.2 / 3.9 s | $1.96 |
   | qwen3.5-9b default | 77/90 (85.6%) | 26.0 / 84.5 s | 0 (local) |
   | qwen3.5-9b greedy | 79/90 (87.8%) | 27.0 / 85.8 s | 0 (local) |
-  | Haiku 4.5 default (S1-22) | 85/90 (94.4%) | 3.9 / 8.3 s | $15.81 |
-  | Haiku 4.5 greedy (S1-22) | 85/90 (94.4%) | 3.8 / 7.7 s | $15.80 |
+  | Haiku 4.5 default | 85/90 (94.4%) | 3.9 / 8.3 s | $15.81 |
+  | Haiku 4.5 greedy | 85/90 (94.4%) | 3.8 / 7.7 s | $15.80 |
 
   These numbers use the D006 golden label as corrected on 2026-10-27 (the user removed a
-  `[18.12.2018]` that is not part of the trade name). With the old label, S1-12 reported 84, 76
+  `[18.12.2018]` that is not part of the trade name). With the old label, the first comparison reported 84, 76
   and 78 of 90.
 
 ## extract v2 (2026-10-27)
@@ -69,12 +69,12 @@ which are also the ones in `REPORT.md`:
   | Haiku 5.5 | 85 -> 89/90 (94.4% -> 98.9%) | 2.2 / 3.9 -> 2.4 / 4.5 s | $1.96 -> $2.02 |
   | qwen3.5-9b default | 77 -> 80/90 (85.6% -> 88.9%) | 26.0 / 84.5 -> 28.1 / 86.9 s | 0 |
   | qwen3.5-9b greedy | 79 -> 80/90 (87.8% -> 88.9%) | 27.0 / 85.8 -> 28.8 / 86.6 s | 0 |
-  | Haiku 4.5 default (S1-22) | 85 -> 89/90 (94.4% -> 98.9%) | 3.9 / 8.3 -> 3.9 / 8.7 s | $15.81 -> $16.32 |
-  | Haiku 4.5 greedy (S1-22) | 85 -> 89/90 (94.4% -> 98.9%) | 3.8 / 7.7 -> 3.6 / 7.7 s | $15.80 -> $16.33 |
+  | Haiku 4.5 default | 85 -> 89/90 (94.4% -> 98.9%) | 3.9 / 8.3 -> 3.9 / 8.7 s | $15.81 -> $16.32 |
+  | Haiku 4.5 greedy | 85 -> 89/90 (94.4% -> 98.9%) | 3.8 / 7.7 -> 3.6 / 7.7 s | $15.80 -> $16.33 |
 
   Per field, documents matched out of 10 (v1 -> v2):
 
-  | Field | Haiku | qwen default | qwen greedy | Haiku 4.5 (S1-22; default = greedy) |
+  | Field | Haiku | qwen default | qwen greedy | Haiku 4.5 (default = greedy) |
   | --- | --- | --- | --- | --- |
   | product_name | 8 -> 9 | 8 -> 9 | 8 -> 8 | 8 -> 10 |
   | language | 9 -> 10 | 9 -> 9 | 8 -> 8 | 9 -> 9 |
@@ -85,7 +85,7 @@ which are also the ones in `REPORT.md`:
   | flash_point | 10 -> 10 | 9 -> 9 | 10 -> **8** | 10 -> 10 |
   | revision_date | 10 -> 10 | 9 -> 10 | 10 -> 10 | 10 -> 10 |
 
-  Haiku 4.5 (S1-22): the trade-name rule fixed D001 and D002 (it is the only model that read
+  Haiku 4.5: the trade-name rule fixed D001 and D002 (it is the only model that read
   the Swedish "Varumärke" list as the trade name), the physical_state rule fixed D010, and
   nitrogen in D001 got its 100 % back. Only D034 language (`de`) is left, in both
   configurations. The two temperatures gave the same per-field counts with every prompt.
@@ -126,8 +126,8 @@ which are also the ones in `REPORT.md`:
   | Haiku 5.5 | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
   | qwen3.5-9b default | 35/35 -> **34/35** | 80 -> 73/90 (88.9% -> 81.1%) | 80/90 -> 73/81 (90.1%) |
   | qwen3.5-9b greedy | 35/35 -> **34/35** | 80 -> 81/90 (88.9% -> 90.0%) | 80/90 -> 81/90 |
-  | Haiku 4.5 default (S1-22) | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
-  | Haiku 4.5 greedy (S1-22) | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
+  | Haiku 4.5 default | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
+  | Haiku 4.5 greedy | 35/35 -> 35/35 | 89 -> 88/90 (98.9% -> 97.8%) | same |
 
   Latency and cost changed little: Haiku $2.02 -> $2.04 per 1000 docs; qwen p50 about 28 s for
   both versions.
@@ -146,14 +146,14 @@ which are also the ones in `REPORT.md`:
       Konzentrationsgrenze: … C ≥ 10 %" above the concentration "1-5%". qwen took min 10
       from the classification limit and max 5 from the concentration (min > max). The
       stronger "≥ x -> min" examples may have pulled the limit in.
-  - Made worse on Haiku 4.5 (S1-22): D010 physical_state, `solid` instead of null ("крем,
+  - Made worse on Haiku 4.5: D010 physical_state, `solid` instead of null ("крем,
     паста") at both temperatures; v2 had it right. The new synonym list ("powder, crystals ->
     solid") seems to have pulled the paste to solid. qwen greedy v3 did the same in the newer
     run in `REPORT.md`.
   - Unchanged and not targeted: Haiku revision_date for D007 (v2 2022-10-10, right; v3
     null). v3 did not touch dates, so this counts as run-to-run variance.
   - Caveat: one run per configuration and 10 golden documents; qwen default samples at
-    temperature 1.0. Both invalid responses are cases for S1-15 (one repair attempt).
+    temperature 1.0. Both invalid responses are cases for the repair step (one repair attempt).
   - Next step, if any: drop the "never min = max" sentence, which caused D001, and tell the
     model to ignore specific concentration limits ("C ≥ …"), which caused D037.
 
@@ -161,8 +161,8 @@ which are also the ones in `REPORT.md`:
 - What: a new prompt, not an extraction version. When a reply fails validation, the model gets
   one repair attempt: the same conversation plus its own invalid reply and this user message,
   which lists the validation errors and asks for the complete corrected JSON, changing only what
-  the errors require. No system section; it continues the extraction conversation (S1-15).
-- Why: S1-14 produced the first invalid first responses (qwen v3: D001 default, D037 greedy).
+  the errors require. No system section; it continues the extraction conversation.
+- Why: prompt v3 produced the first invalid first responses (qwen v3: D001 default, D037 greedy).
   Both break Pydantic range rules that the JSON schema cannot express, so constrained decoding
   does not prevent them (`docs/ISSUES.md` I-005). The prompt is generic on purpose: it names no
   field and suggests no fix.

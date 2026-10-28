@@ -361,8 +361,8 @@ def format_tables(rows: list[dict]) -> str:
     notes = [
         "Rules: docs/METRICS.md.",
         "Valid (1st): schema-valid first response over all documents in the run. "
-        "Valid after repair: valid on the first response or after one repair attempt "
-        "(S1-15); '-' if the run has results from before the repair step.",
+        "Valid after repair: valid on the first response or after one repair attempt; "
+        "'-' if the run has results from before the repair step.",
         "Field acc.: matched fields / (9 x golden documents) on the first response; a failed "
         "document misses all 9. After repair: the same, with the repaired output of repaired "
         "documents. Valid only: first response, over golden documents with a valid output.",

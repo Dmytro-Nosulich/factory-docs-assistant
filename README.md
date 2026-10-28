@@ -31,7 +31,7 @@ make lint              # lint and format check
 - each Haiku 4.5 run about 2.5 min and $0.55-0.58 (6 runs on 2026-10-28, 14.5 min and $3.41 in all; it costs 10x Haiku 5.5 per token);
 - each local run about 19-20 min and free.
 
-The 15 runs were made in two parts, so the total is the sum of the parts, not one timed run: the 9 Haiku 5.5 and local runs on 2026-10-27 (2 h 0 min, $0.21), then the 6 Haiku 4.5 runs added in S1-22. On a laptop without a GPU the local runs take longer; that was not measured (`docs/ISSUES.md` I-004).
+The 15 runs were made in two parts, so the total is the sum of the parts, not one timed run: the 9 Haiku 5.5 and local runs on 2026-10-27 (2 h 0 min, $0.21), then the 6 Haiku 4.5 runs added on 2026-10-28. On a laptop without a GPU the local runs take longer; that was not measured (`docs/ISSUES.md` I-004).
 
 Each run writes `results/runs/<run_id>/`: one `<doc_id>.json` per document with status `valid`, `invalid` (reply not schema-valid) or `error` (call failed), and `run.json` with counts, cost, truncated documents and every failure. An invalid reply gets one repair attempt: the model sees its reply and the validation errors (`prompts/repair_v1.md`). The result is stored next to the first reply as `repaired` or `failed`, so first-response failures stay visible. Failed documents are saved, not hidden or retried. Every result file also records the configuration that produced it: the model (for a local model, also the Ollama digest of the exact build), the prompt version and file hash, every parameter sent (the sampling values that were really sent; `null` for Haiku 5.5, which takes none) and the input cap.
 

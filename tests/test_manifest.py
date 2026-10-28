@@ -64,7 +64,7 @@ def test_field_formats(rows):
 
 
 def test_stage1_is_at_least_30_sds_documents(rows):
-    # Stage 1 is SDS only (decision 10); the course asks for at least 30 texts (ISSUES.md I-002).
+    # Stage 1 is SDS only; the course asks for at least 30 texts (ISSUES.md I-002).
     stage1 = [r for r in rows if "1" in r["stage"].split(",")]
     not_sds = [r["id"] for r in stage1 if r["doc_type"] != "sds"]
     assert not not_sds, f"stage 1 must be SDS only: {not_sds}"
