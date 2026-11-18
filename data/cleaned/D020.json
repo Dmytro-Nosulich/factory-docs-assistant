@@ -1,0 +1,5526 @@
+{
+  "doc_id": "D020",
+  "format": "pdf",
+  "page_count": 44,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "433a464ed969ad7e5ae7f5845f3b6b631b2e97b5af14a6d52a7631e0f59df641",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "KA01388D/06/EN/02.19 Products Solutions Services\n71424727\n2019-02-01"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Brief Operating Instructions"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Brief Operating Instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Flowmeter"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Flowmeter"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 500 – digital"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Proline 500 – digital"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 500 – digital",
+        "PROFIBUS DP transmitter"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "PROFIBUS DP transmitter"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "with electromagnetic sensor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "These instructions are Brief Operating Instructions; they are\nnot a substitute for the Operating Instructions pertaining to\nthe device.\nBrief Operating Instructions part 2 of 2: Transmitter\nContain information about the transmitter.\nBrief Operating Instructions part 1 of 2: Sensor → 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "A0023555"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "2 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Brief Operating Instructions for the flowmeter"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Brief Operating Instructions for the flowmeter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "The device consists of a transmitter and a sensor.\nThe process of commissioning these two components is described in two separate manuals,\nthat form the Brief Operating Instructions of the flowmeter:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Brief Operating Instructions part 1: Sensor",
+          "depth": 0
+        },
+        {
+          "text": "Brief Operating Instructions part 2: Transmitter",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "Please refer to both Brief Operating Instructions when commissioning the flowmeter as the\ncontents complement one another:\nBrief Operating Instructions part 1: Sensor\nThe Sensor Brief Operating Instructions are aimed at specialists with responsibility for\ninstalling the measuring device."
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Incoming acceptance and product identification",
+          "depth": 0
+        },
+        {
+          "text": "Storage and transport",
+          "depth": 0
+        },
+        {
+          "text": "Installation",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "Brief Operating Instructions part 2: Transmitter\nThe Transmitter Brief Operating Instructions are aimed at specialists with responsibility for\ncommissioning, configuring and parameterizing the measuring device (until the first\nmeasured value)."
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Product description",
+          "depth": 0
+        },
+        {
+          "text": "Installation",
+          "depth": 0
+        },
+        {
+          "text": "Electrical connection",
+          "depth": 0
+        },
+        {
+          "text": "Operation options",
+          "depth": 0
+        },
+        {
+          "text": "System integration",
+          "depth": 0
+        },
+        {
+          "text": "Commissioning",
+          "depth": 0
+        },
+        {
+          "text": "Diagnostic information",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Additional device documentation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "These Brief Operating Instructions are the Brief Operating Instructions part 2:\nTransmitter.\nThe \"Brief Operating Instructions part 1: Sensor\" are available via:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Internet: www.endress.com/deviceviewer",
+          "depth": 0
+        },
+        {
+          "text": "Smart phone/tablet: Endress+Hauser Operations App",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "Detailed information about the device can be found in the Operating Instructions and the\nother documentation:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Internet: www.endress.com/deviceviewer",
+          "depth": 0
+        },
+        {
+          "text": "Smart phone/tablet: Endress+Hauser Operations App",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "Table of contents Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Table of contents"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "2",
+          "Basic safety instructions .......................................................... 7"
+        ],
+        [
+          "2.1",
+          "Requirements for the personnel ............................................................7"
+        ],
+        [
+          "2.2",
+          "Designated use ........................................................................ 7"
+        ],
+        [
+          "2.3",
+          "Workplace safety ...................................................................... 8"
+        ],
+        [
+          "2.4",
+          "Operational safety ......................................................................8"
+        ],
+        [
+          "2.5",
+          "Product safety .........................................................................8"
+        ],
+        [
+          "2.6",
+          "IT security ............................................................................8"
+        ],
+        [
+          "2.7",
+          "Device-specific IT security ................................................................ 9"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "4",
+          "Installation ...................................................................... 11"
+        ],
+        [
+          "4.1",
+          "Post mounting .......................................................................  11"
+        ],
+        [
+          "4.2",
+          "Wall mounting .......................................................................  12"
+        ],
+        [
+          "4.3",
+          "Transmitter post-installation check ........................................................ 12"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "5",
+          "Electrical connection ............................................................  13",
+          ""
+        ],
+        [
+          "5.1",
+          "Connection conditions .................................................................. 13",
+          ""
+        ],
+        [
+          "5.2",
+          "Connecting the measuring device .........................................................",
+          "19"
+        ],
+        [
+          "5.3",
+          "Ensuring potential equalization ........................................................... 26",
+          ""
+        ],
+        [
+          "5.4",
+          "Hardware settings ..................................................................... 30",
+          ""
+        ],
+        [
+          "5.5",
+          "Ensuring the degree of protection .........................................................  33",
+          ""
+        ],
+        [
+          "5.6",
+          "Post-connection check ..................................................................34",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "6",
+          "Operation options ...............................................................  35"
+        ],
+        [
+          "6.1",
+          "Overview of operation options ............................................................ 35"
+        ],
+        [
+          "6.2",
+          "Structure and function of the operating menu ................................................  36"
+        ],
+        [
+          "6.3",
+          "Access to the operating menu via the local display .............................................  37"
+        ],
+        [
+          "6.4",
+          "Access to the operating menu via the operating tool ............................................ 40"
+        ],
+        [
+          "6.5",
+          "Access to the operating menu via the Web server .............................................. 40"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "8",
+          "Commissioning .................................................................. 41"
+        ],
+        [
+          "8.1",
+          "Function check .......................................................................  41"
+        ],
+        [
+          "8.2",
+          "Setting the operating language ...........................................................  41"
+        ],
+        [
+          "8.3",
+          "Configuring the measuring device .........................................................  42"
+        ],
+        [
+          "8.4",
+          "Protecting settings from unauthorized access ................................................. 42"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital About this document"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "1 About this document"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Symbols used"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.1 Safety symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "DANGER!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation will result in\nserious or fatal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "WARNING!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation can result in\nserious or fatal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "CAUTION!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation can result in\nminor or medium injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "NOTE!\nThis symbol contains information on procedures and other facts which do not result in\npersonal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.2 Symbols for certain types of information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Permitted",
+          "Preferred"
+        ],
+        [
+          "Procedures, processes or actions that",
+          "Procedures, processes or actions that"
+        ],
+        [
+          "are permitted.",
+          "are preferred."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Forbidden Tip\nProcedures, processes or actions that Indicates additional information.\nare forbidden."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Reference to documentation Reference to page"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Reference to graphic , , … Series of steps"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Result of a step Visual inspection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.3 Electrical symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Direct current Alternating current"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Direct current and alternating current Ground connection\nA grounded terminal which, as far as\nthe operator is concerned, is grounded\nvia a grounding system."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "About this document Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Protective Earth (PE)\nA terminal which must be connected to ground prior to establishing any other connections.\nThe ground terminals are situated inside and outside the device:"
+    },
+    {
+      "kind": "list",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inner ground terminal: Connects the protectiv earth to the mains supply.",
+          "depth": 0
+        },
+        {
+          "text": "Outer ground terminal: Connects the device to the plant grounding system.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.4 Communication symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Wireless Local Area Network LED\n(WLAN) Light emitting diode is off.\nCommunication via a wireless, local\nnetwork."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "LED LED\nLight emitting diode is on. Light emitting diode is flashing."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.5 Tool symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Torx screwdriver Flat blade screwdriver"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Cross-head screwdriver Allen key"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Open-ended wrench"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.6 Symbols in graphics"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1, 2, 3,... Item numbers , , … Series of steps"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "A, B, C, ... Views A-A, B-B, C-C, ... Sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Hazardous area Safe area (non-hazardous area)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Flow direction"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Basic safety instructions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "2 Basic safety instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Requirements for the personnel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "text": "The personnel must fulfill the following requirements for its tasks:"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Trained, qualified specialists must have a relevant qualification for this specific function and task.",
+          "depth": 0
+        },
+        {
+          "text": "Are authorized by the plant owner/operator.",
+          "depth": 0
+        },
+        {
+          "text": "Are familiar with federal/national regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Before starting work, read and understand the instructions in the manual and supplementary documentation as well as the certificates (depending on the application).",
+          "depth": 0
+        },
+        {
+          "text": "Follow instructions and comply with basic conditions.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Designated use"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Application and media\nThe measuring device described in these Brief Operating Instructions is intended only for flow\nmeasurement of liquids with a minimum conductivity of 5 µS/cm."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Depending on the version ordered, the measuring device can also measure potentially\nexplosive, flammable, poisonous and oxidizing media.\nMeasuring devices for use in hazardous areas, in hygienic applications or where there is an\nincreased risk due to process pressure, are labeled accordingly on the nameplate.\nTo ensure that the measuring device remains in proper condition for the operation time:"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Keep within the specified pressure and temperature range.",
+          "depth": 0
+        },
+        {
+          "text": "Only use the measuring device in full compliance with the data on the nameplate and the general conditions listed in the Operating Instructions and supplementary documentation.",
+          "depth": 0
+        },
+        {
+          "text": "Based on the nameplate, check whether the ordered device is permitted for the intended use in the hazardous area (e.g. explosion protection, pressure vessel safety).",
+          "depth": 0
+        },
+        {
+          "text": "Use the measuring device only for media to which the process-wetted materials are sufficiently resistant.",
+          "depth": 0
+        },
+        {
+          "text": "If the ambient temperature of the measuring device is outside the atmospheric temperature, it is absolutely essential to comply with the relevant basic conditions as specified in the device documentation.",
+          "depth": 0
+        },
+        {
+          "text": "Protect the measuring device permanently against corrosion from environmental influences.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Incorrect use\nNon-designated use can compromise safety. The manufacturer is not liable for damage caused\nby improper or non-designated use."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nDanger of breakage due to corrosive or abrasive fluids and ambient conditions!"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Verify the compatibility of the process fluid with the sensor material.",
+          "depth": 0
+        },
+        {
+          "text": "Ensure the resistance of all fluid-wetted materials in the process.",
+          "depth": 0
+        },
+        {
+          "text": "Keep within the specified pressure and temperature range.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Basic safety instructions Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "NOTICE\nVerification for borderline cases:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For special fluids and fluids for cleaning, Endress+Hauser is glad to provide assistance in verifying the corrosion resistance of fluid-wetted materials, but does not accept any warranty or liability as minute changes in the temperature, concentration or level of contamination in the process can alter the corrosion resistance properties.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Residual risks\nLWARNING\nThe electronics and the medium may cause the surfaces to heat up. This presents a burn\nhazard!"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For elevated fluid temperatures, ensure protection against contact to prevent burns.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Workplace safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "For work on and with the device:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Wear the required personal protective equipment according to federal/national regulations.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "For welding work on the piping:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not ground the welding unit via the measuring device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "If working on and with the device with wet hands:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Due to the increased risk of electric shock, gloves must be worn.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.4 Operational safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "text": "Risk of injury."
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Operate the device in proper technical condition and fail-safe condition only.",
+          "depth": 0
+        },
+        {
+          "text": "The operator is responsible for interference-free operation of the device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.5 Product safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.5 Product safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.5 Product safety"
+      ],
+      "zone": "main",
+      "text": "This measuring device is designed in accordance with good engineering practice to meet state-of-the-art safety requirements, has been tested, and left the factory in a condition in which it\nis safe to operate.\nIt meets general safety standards and legal requirements. It also complies with the EU\ndirectives listed in the device-specific EU Declaration of Conformity. Endress+Hauser confirms\nthis by affixing the CE mark to the device."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.6 IT security"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "text": "Our warranty is valid only if the device is installed and used as described in the Operating\nInstructions. The device is equipped with security mechanisms to protect it against any\ninadvertent changes to the settings.\nIT security measures, which provide additional protection for the device and associated data\ntransfer, must be implemented by the operators themselves in line with their security\nstandards."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Basic safety instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.7 Device-specific IT security"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "The device offers a range of specific functions to support protective measures on the operator's\nside. These functions can be configured by the user and guarantee greater in-operation safety\nif used correctly.\nFor detailed information on device-specific IT security, see the Operating Instructions for\nthe device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "2.7.1 Access via service interface (CDI-RJ45)\nThe device can be connected to a network via the service interface (CDI-RJ45). Device-specific\nfunctions guarantee the secure operation of the device in a network.\nThe use of relevant industrial standards and guidelines that have been defined by national\nand international safety committees, such as IEC/ISA62443 or the IEEE, is recommended.\nThis includes organizational security measures such as the assignment of access authorization\nas well as technical measures such as network segmentation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Product description Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "3 Product description\nThe measuring system consists of a Proline 500 - digital transmitter and a Proline Promag\nelectromagnetic sensor.\nThe transmitter and sensor are mounted in physically separate locations. They are\ninterconnected by a connecting cable."
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Transmitter"
+        ],
+        [
+          "2",
+          "Connecting cable: cable, separate, standard"
+        ],
+        [
+          "3",
+          "Sensor connection housing with integrated ISEM (intelligent sensor electronics module)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "For detailed information on the product description, see the Operating Instructions for\nthe device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Installation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "4 Installation\nFor detailed information about mounting the sensor, see the Sensor Brief Operating\nInstructions → 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "LCAUTION\nAmbient temperature too high!\nDanger of electronics overheating and housing deformation."
+    },
+    {
+      "kind": "list",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not exceed the permitted maximum ambient temperature .",
+          "depth": 0
+        },
+        {
+          "text": "If operating outdoors: Avoid direct sunlight and exposure to weathering, particularly in warm climatic regions.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "LCAUTION\nExcessive force can damage the housing!"
+    },
+    {
+      "kind": "list",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Avoid excessive mechanical stress.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.1 Post mounting"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Post mounting"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.1 Post mounting"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nExcessive tightening torque applied to the fixing screws!\nRisk of damaging the plastic transmitter."
+    },
+    {
+      "kind": "list",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.1 Post mounting"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tighten the fixing screws as per the tightening torque: 2 Nm (1.5 lbf ft)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.1 Post mounting"
+      ],
+      "zone": "main",
+      "text": "A0029051\n1 Engineering unit mm (in)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.1 Post mounting"
+      ],
+      "zone": "main",
+      "text": "Installation Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.2 Wall mounting"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Wall mounting"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.2 Wall mounting"
+      ],
+      "zone": "main",
+      "text": "A0029054\n2 Engineering unit mm (in)\nL Depends on order code for \"Transmitter housing\""
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.2 Wall mounting"
+      ],
+      "zone": "main",
+      "text": "Order code for \"Transmitter housing\""
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.2 Wall mounting"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Option A, aluminum coated: L =14 mm (0.55 in)",
+          "depth": 0
+        },
+        {
+          "text": "Option D, polycarbonate: L = 13 mm (0.51 in)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Transmitter post-installation check"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "The post-installation check must always be performed after the following tasks:\nMounting the transmitter housing:"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Post mounting",
+          "depth": 0
+        },
+        {
+          "text": "Wall mounting",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "Is the device undamaged (visual inspection)?\nPost mounting:\nHave the fixing screws been tightened with the correct tightening torque?\nWall mounting:\nAre the securing screws tightened securely?"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "5 Electrical connection\nNOTICE\nThe measuring device does not have an internal circuit breaker."
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For this reason, assign the measuring device a switch or power-circuit breaker so that the power supply line can be easily disconnected from the mains.",
+          "depth": 0
+        },
+        {
+          "text": "Although the measuring device is equipped with a fuse, additional overcurrent protection (maximum 10 A) should be integrated into the system installation.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Connection conditions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.1 Required tools"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For cable entries: Use corresponding tools",
+          "depth": 0
+        },
+        {
+          "text": "For securing clamp: Allen key 3 mm",
+          "depth": 0
+        },
+        {
+          "text": "Wire stripper",
+          "depth": 0
+        },
+        {
+          "text": "When using stranded cables: crimper for wire end ferrule",
+          "depth": 0
+        },
+        {
+          "text": "For removing cables from terminal: Flat blade screwdriver ≤ 3 mm (0.12 in)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.2 Connecting cable requirements\nThe connecting cables provided by the customer must fulfill the following requirements."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical safety\nIn accordance with applicable federal/national regulations."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Protective ground cable\nCable ≥2.08 mm2 (14 AWG)\nThe grounding impedance must be less than 1 Ω."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Permitted temperature range"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The installation guidelines that apply in the country of installation must be observed.",
+          "depth": 0
+        },
+        {
+          "text": "The cables must be suitable for the minimum and maximum temperatures to be expected.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Power supply cable\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Cable diameter"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cable glands supplied: M20 × 1.5 with cable ⌀ 6 to 12 mm (0.24 to 0.47 in)",
+          "depth": 0
+        },
+        {
+          "text": "Spring-loaded terminals: Suitable for strands and strands with ferrules. Conductor cross-section 0.2 to 2.5 mm2 (24 to 12 AWG).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Signal cable\nPROFIBUS DP\nThe IEC 61158 standard specifies two types of cable (A and B) for the bus line which can be\nused for every transmission rate. Cable type A is recommended.\nFor detailed information about the specification of the connecting cable, see the\nOperating Instructions for the device.\nFor further information on planning and installing PROFIBUS networks see:\nOperating Instructions \"PROFIBUS DP/PA: Guidelines for planning and commissioning\"\n(BA00034S)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Current output 0/4 to 20 mA\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Pulse/frequency/switch output\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Relay output\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Current input 0/4 to 20 mA\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Status input\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.3 Connecting cable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Standard cable\nA standard cable can be used as the connecting cable."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Standard cable 4 cores (2 pairs); pair-stranded with common shield"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Shielding Tin-plated copper-braid, optical cover ≥ 85 %"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Cable length Maximum 300 m (1 000 ft), see the following table."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Cable lengths for use in\nCross-section Non-hazardous area, Hazardous area,\nEx Zone 2, Class I, Division 2 Ex Zone 1, Class I, Division 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.34 mm2 (AWG 22) 80 m (270 ft) 50 m (165 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.50 mm2 (AWG 20) 120 m (400 ft) 60 m (200 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.75 mm2 (AWG 18) 180 m (600 ft) 90 m (300 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1.00 mm2 (AWG 17) 240 m (800 ft) 120 m (400 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1.50 mm2 (AWG 15) 300 m (1 000 ft) 180 m (600 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "2.50 mm2 (AWG 13) 300 m (1 000 ft) 300 m (1 000 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.4 Terminal assignment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Transmitter: supply voltage, input/outputs\nThe terminal assignment of the inputs and outputs depends on the individual order version of\nthe device. The device-specific terminal assignment is documented on an adhesive label in the\nterminal cover."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Supply voltage Input/output Input/output Input/output Input/output\n1 2 3 4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1 (+) 2 (–) 26 (B) 27 (A) 24 (+) 25 (–) 22 (+) 23 (–) 20 (+) 21 (–)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Device-specific terminal assignment: adhesive label in terminal cover."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Transmitter and sensor connection housing: connecting cable\nThe sensor and transmitter, which are mounted in separate locations, are interconnected by a\nconnecting cable. The cable is connected via the sensor connection housing and the\ntransmitter housing.\nTerminal assignment and connection of the connecting cable → 19."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.5 Preparing the measuring device\nCarry out the steps in the following order:"
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Mount the sensor and transmitter.",
+          "depth": 0
+        },
+        {
+          "text": "Connection housing, sensor: Connect connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "Transmitter: Connect connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "Transmitter: Connect signal cable and cable for supply voltage.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "NOTICE\nInsufficient sealing of the housing!\nOperational reliability of the measuring device could be compromised."
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Use suitable cable glands corresponding to the degree of protection.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Remove dummy plug if present.",
+          "depth": 0
+        },
+        {
+          "text": "If the measuring device is supplied without cable glands: Provide suitable cable gland for corresponding connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "If the measuring device is supplied with cable glands: Observe requirements for connecting cables → 13.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.6 Preparing the connecting cable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "When terminating the connecting cable, pay attention to the following points:"
+    },
+    {
+      "kind": "list",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For cables with fine-wire cores (stranded cables): Fit the cores with ferrules.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Preparing the connecting cable: Promag H"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Transmitter Sensor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "A0029546"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "A0029442"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Engineering unit mm (in)\nA = Terminate the cable\nB = Fit ferrules on cables with fine-wire cores (stranded cables)\n1 = Red ferrules, 1.0 mm (0.04 in)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Preparing the connecting cable: Promag P and Promag W"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Transmitter Sensor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "A0029330"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "A0029443"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Engineering unit mm (in)\nA = Terminate the cable\nB = Fit ferrules on cables with fine-wire cores (stranded cables)\n1 = Red ferrules, 1.0 mm (0.04 in)\n2 = White ferrules, 0.5 mm (0.02 in)"
+    },
+    {
+      "kind": "list",
+      "page": 18,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "= Stripping only for reinforced cables",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "heading",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Connecting the measuring device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "NOTICE\nLimitation of electrical safety due to incorrect connection!"
+    },
+    {
+      "kind": "list",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Have electrical connection work carried out by appropriately trained specialists only.",
+          "depth": 0
+        },
+        {
+          "text": "Observe applicable federal/national installation codes and regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Comply with local workplace safety regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Always connect the protective ground cable before connecting additional cables.",
+          "depth": 0
+        },
+        {
+          "text": "For use in potentially explosive atmospheres, observe the information in the device-specific Ex documentation.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "5.2.1 Connecting the connecting cable\nLWARNING\nRisk of damaging the electronic components!"
+    },
+    {
+      "kind": "list",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Connect the sensor and transmitter to the same potential equalization.",
+          "depth": 0
+        },
+        {
+          "text": "Only connect the sensor to a transmitter with the same serial number.",
+          "depth": 0
+        },
+        {
+          "text": "Ground the connection housing of the sensor via the external screw terminal.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting cable terminal assignment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0028198"
+    },
+    {
+      "kind": "table",
+      "page": 19,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Cable entry for cable on transmitter housing"
+        ],
+        [
+          "2",
+          "Protective earth (PE)"
+        ],
+        [
+          "3",
+          "Connecting cable ISEM communication"
+        ],
+        [
+          "4",
+          "Grounding via ground connection; on device plug versions grounding is through the plug itself"
+        ],
+        [
+          "5",
+          "Cable entry for cable or connection of device plug on sensor connection housing"
+        ],
+        [
+          "6",
+          "Protective earth (PE)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the connecting cable to the sensor connection housing"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connection via terminals with order code for \"Housing\" Available for sensor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Option A \"Aluminum, coated\" → 21 Promag P, W"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Option B \"Stainless\" → 22 Promag H"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Option L \"Cast, stainless\" → 21 Promag P"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connection via connectors with order code for \"Sensor connection Available for sensor\nhousing\""
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Option C \"Ultra-compact hygienic, stainless\" → 23 Promag H"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the connecting cable to the transmitter\nThe cable is connected to the transmitter via terminals → 24."
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the sensor connection housing via terminals"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029616"
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Loosen the securing clamp of the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Unscrew the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Push the cable through the cable entry . To ensure tight sealing, do not remove the sealing ring from the cable entry.",
+          "depth": 0
+        },
+        {
+          "text": "Strip the cable and cable ends. In the case of stranded cables, fit ferrules.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the cable in accordance with the connecting cable terminal assignment → 19.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands. This concludes the process for connecting the connecting cable.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nHousing degree of protection voided due to insufficient sealing of the housing."
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Screw in the thread on the cover without using any lubricant. The thread on the cover is coated with a dry lubricant.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Screw on the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Tighten the securing clamp of the housing cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the sensor connection housing via terminals"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029613"
+    },
+    {
+      "kind": "list",
+      "page": 22,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Release the securing screw of the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Open the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Push the cable through the cable entry . To ensure tight sealing, do not remove the sealing ring from the cable entry.",
+          "depth": 0
+        },
+        {
+          "text": "Strip the cable and cable ends. In the case of stranded cables, fit ferrules.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the cable in accordance with the connecting cable terminal assignment → 19.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands. This concludes the process for connecting the connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "Close the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Tighten the securing screw of the housing cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the sensor connection housing via the connector"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029615"
+    },
+    {
+      "kind": "list",
+      "page": 23,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the connector.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Connecting the connecting cable to the transmitter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029597"
+    },
+    {
+      "kind": "list",
+      "page": 24,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Loosen the 4 fixing screws on the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Open the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Fold open the terminal cover.",
+          "depth": 0
+        },
+        {
+          "text": "Push the cable through the cable entry . To ensure tight sealing, do not remove the sealing ring from the cable entry.",
+          "depth": 0
+        },
+        {
+          "text": "Strip the cable and cable ends. In the case of stranded cables, fit ferrules.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the cable in accordance with the connecting cable terminal assignment → 19.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands. This concludes the process for connecting the connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "Close the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Tighten the securing screw of the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "After connecting the connecting cable: Connect the signal cable and the supply voltage cable → 25.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "5.2.2 Connecting the signal cable and the supply voltage cable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0028200"
+    },
+    {
+      "kind": "table",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Terminal connection for supply voltage"
+        ],
+        [
+          "2",
+          "Terminal connection for signal transmission, input/output"
+        ],
+        [
+          "3",
+          "Terminal connection for signal transmission, input/output"
+        ],
+        [
+          "4",
+          "Terminal connection for connecting cable between sensor and transmitter"
+        ],
+        [
+          "5",
+          "Terminal connection for signal transmission, input/output; optional: connection for external WLAN antenna"
+        ],
+        [
+          "6",
+          "Protective earth (PE)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029597"
+    },
+    {
+      "kind": "list",
+      "page": 25,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Loosen the 4 fixing screws on the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Open the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Fold open the terminal cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Push the cable through the cable entry . To ensure tight sealing, do not remove the sealing ring from the cable entry.",
+          "depth": 0
+        },
+        {
+          "text": "Strip the cable and cable ends. In the case of stranded cables, fit ferrules.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the cable in accordance with the terminal assignment . Signal cable terminal assignment: The device-specific terminal assignment is documented on an adhesive label in the terminal cover. Supply voltage terminal assignment: Adhesive label in the terminal cover or .",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands. This concludes the cable connection process.",
+          "depth": 0
+        },
+        {
+          "text": "Close the terminal cover.",
+          "depth": 0
+        },
+        {
+          "text": "Close the housing cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nHousing degree of protection may be voided due to insufficient sealing of the housing."
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Screw in the screw without using any lubricant.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nExcessive tightening torque applied to the fixing screws!\nRisk of damaging the plastic transmitter."
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tighten the fixing screws as per the tightening torque: 2 Nm (1.5 lbf ft)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Tighten the 4 fixing screws on the housing cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Ensuring potential equalization"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "5.3.1 Proline Promag H\nFor devices intended for use in hazardous locations, please observe the guidelines in the\nEx documentation (XA)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Metal process connections\nPotential equalization is generally via the metal process connections that are in contact with\nthe medium and mounted directly on the sensor. Therefore there is generally no need for\nadditional potential equalization measures."
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Plastic process connections\nIn the case of plastic process connections, additional grounding rings or process connections\nwith an integrated grounding electrode must be used to ensure potential matching between\nthe sensor and the fluid. If there is no potential matching, this can affect the measuring\naccuracy or cause the destruction of the sensor as a result of the electrochemical\ndecomposition of the electrodes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Note the following when using grounding rings:"
+    },
+    {
+      "kind": "list",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Depending on the option ordered, plastic disks are used instead of grounding rings on some process connections. These plastic disks only act as \"spacers\" and do not have any potential matching function. Furthermore, they also perform a significant sealing function at the sensor/connection interface. Therefore, in the case of process connections without metal grounding rings, these plastic disks/seals should never be removed and should always be installed!",
+          "depth": 0
+        },
+        {
+          "text": "Grounding rings can be ordered separately as an accessory from Endress+Hauser . When ordering make sure that the grounding rings are compatible with the material used for the electrodes, as otherwise there is the danger that the electrodes could be destroyed by electrochemical corrosion!",
+          "depth": 0
+        },
+        {
+          "text": "Grounding rings, including seals, are mounted inside the process connections. Therefore the installation length is not affected.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Potential equalization via additional grounding ring"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0028971"
+    },
+    {
+      "kind": "table",
+      "page": 27,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Hexagonal-headed bolts of process connection"
+        ],
+        [
+          "2",
+          "O-ring seals"
+        ],
+        [
+          "3",
+          "Plastic disk (spacer) or grounding ring"
+        ],
+        [
+          "4",
+          "Sensor"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Potential equalization via grounding electrodes on process connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0028972"
+    },
+    {
+      "kind": "table",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Hexagonal-headed bolts of process connection"
+        ],
+        [
+          "2",
+          "Integrated grounding electrodes"
+        ],
+        [
+          "3",
+          "O-ring seal"
+        ],
+        [
+          "4",
+          "Sensor"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "5.3.2 Promag P and Promag W\nFor devices intended for use in hazardous locations, please observe the guidelines in the\nEx documentation (XA)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Metal, grounded pipe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0016315\n3 Potential equalization via measuring tube"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Unlined and ungrounded metal pipe\nThis connection method also applies in situations where:"
+    },
+    {
+      "kind": "list",
+      "page": 28,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The customary potential equalization is not used",
+          "depth": 0
+        },
+        {
+          "text": "Equalizing currents are present",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029338\n4 Potential equalization via ground terminal and pipe flanges"
+    },
+    {
+      "kind": "list",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect both sensor flanges to the pipe flange via a ground cable and ground them.",
+          "depth": 0
+        },
+        {
+          "text": "If DN ≤ 300 (12\"): Mount the ground cable directly on the conductive flange coating of the sensor with the flange screws.",
+          "depth": 0
+        },
+        {
+          "text": "If DN ≥ 350 (14\"): Mount the ground cable directly on the metal transport bracket. Observe screw tightening torques: see the Sensor Brief Operating Instructions.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the connection housing of the transmitter or sensor to ground potential by means of the ground terminal provided for the purpose.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Plastic pipe or pipe with insulating liner\nThis connection method also applies in situations where:"
+    },
+    {
+      "kind": "list",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The customary potential equalization is not used",
+          "depth": 0
+        },
+        {
+          "text": "Equalizing currents are present",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029339\n5 Potential equalization via ground terminal and ground disks"
+    },
+    {
+      "kind": "list",
+      "page": 29,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the ground disks to the ground terminal via the ground cable.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the ground disks to ground potential.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Pipe with a cathodic protection unit\nThis connection method is only used if the following two conditions are met:"
+    },
+    {
+      "kind": "list",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Metal pipe without liner or pipe with electrically conductive liner",
+          "depth": 0
+        },
+        {
+          "text": "Cathodic protection is integrated in the personal protection equipment",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029340"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Prerequisite: The sensor is installed in the pipe in a way that provides electrical insulation."
+    },
+    {
+      "kind": "list",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the two flanges of the pipe to one another via a ground cable.",
+          "depth": 0
+        },
+        {
+          "text": "Guide the shield of the signal lines through a capacitor.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the measuring device to the power supply such that it is floating in relation to the protective ground (isolation transformer).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.4 Hardware settings"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.1 Setting the device address\nThe address must always be configured for a PROFIBUS DP/PA device. The valid address\nrange is between 1 and 126. In a PROFIBUS DP/PA network, each address can only be\nassigned once. If an address is not configured correctly, the device is not recognized by the\nmaster. All measuring devices are delivered from the factory with the device address 126 and\nwith the software addressing method."
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Hardware addressing"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0029679"
+    },
+    {
+      "kind": "list",
+      "page": 31,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Open the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Remove the display module.",
+          "depth": 0
+        },
+        {
+          "text": "Fold open the terminal cover.",
+          "depth": 0
+        },
+        {
+          "text": "Set the desired device address using the DIP switches.",
+          "depth": 0
+        },
+        {
+          "text": "To switch addressing from software addressing to hardware addressing: set the DIP switch to On. The change of device address takes effect after 10 seconds. The device is restarted.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Software addressing"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To switch addressing from hardware addressing to software addressing: set DIP switch No. 4 to Off. The device address configured in the Device address parameter takes effect after 10 seconds. The device is restarted.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.2 Activating the terminating resistor\nTo avoid incorrect communication transmission caused by impedance mismatch, terminate\nthe PROFIBUS DP cable correctly at the start and end of the bus segment."
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the device is operated with a baud rate of 1.5 MBaud and under: For the last transmitter on the bus, terminate by setting DIP switch 3 (bus termination) to ON.",
+          "depth": 0
+        },
+        {
+          "text": "For baud rates > 1.5 MBaud: Due to the capacitance load of the user and the line reflections generated as a result, ensure that an external bus terminator is used. It is generally advisable to use an external bus terminator as the entire segment can fail if a device that is terminated internally is defective.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0029675"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Open the housing cover.",
+          "depth": 0
+        },
+        {
+          "text": "Remove the display module.",
+          "depth": 0
+        },
+        {
+          "text": "Fold open the terminal cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Electrical connection"
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Set DIP switch No. 3 to ON.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.3 Activating the default IP address\nThe default IP address 192.168.1.212 can be activated by DIP switch."
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Risk of electric shock when opening the transmitter housing."
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before opening the transmitter housing:",
+          "depth": 0
+        },
+        {
+          "text": "Disconnect the device from the power supply.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0034500"
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Set DIP switch No. 2 on the I/O electronics module from OFF → ON.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.5 Ensuring the degree of protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "The measuring device fulfills all the requirements for the IP66/67 degree of protection, Type\n4X enclosure."
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "To guarantee IP66/67 degree of protection, Type 4X enclosure, carry out the following steps\nafter the electrical connection:"
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Check that the housing seals are clean and fitted correctly.",
+          "depth": 0
+        },
+        {
+          "text": "Dry, clean or replace the seals if necessary.",
+          "depth": 0
+        },
+        {
+          "text": "Tighten all housing screws and screw covers.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "list",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "To ensure that moisture does not enter the cable entry: Route the cable so that it loops down before the cable entry (\"water trap\").",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "A0029278"
+    },
+    {
+      "kind": "list",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Insert dummy plugs into unused cable entries.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.6 Post-connection check"
+    },
+    {
+      "kind": "table",
+      "page": 34,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Are cables or the device undamaged (visual inspection)?",
+          ""
+        ],
+        [
+          "Do the cables used meet the requirements?",
+          ""
+        ],
+        [
+          "Do the cables have adequate strain relief?",
+          ""
+        ],
+        [
+          "Are all the cable glands installed, firmly tightened and leak-tight? Cable run with \"water trap\" → 33?",
+          ""
+        ],
+        [
+          "Is the potential equalization established correctly ?",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Operation options"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 500 – digital",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "text": "6 Operation options"
+    },
+    {
+      "kind": "heading",
+      "page": 35,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Overview of operation options"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "text": "A0034513"
+    },
+    {
+      "kind": "table",
+      "page": 35,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Local operation via display module"
+        ],
+        [
+          "2",
+          "Computer with Web browser (e.g. Internet Explorer) or with operating tool (e.g. FieldCare, DeviceCare, AMS Device Manager, SIMATIC PDM)"
+        ],
+        [
+          "3",
+          "Field Xpert SFX350 or SFX370"
+        ],
+        [
+          "4",
+          "Field Xpert SMT70"
+        ],
+        [
+          "5",
+          "Mobile handheld terminal"
+        ],
+        [
+          "6",
+          "Control system (e.g. PLC)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "text": "Operation options Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "heading",
+      "page": 36,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Structure and function of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "6.2.1 Structure of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "A0014058-EN\n6 Schematic structure of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "6.2.2 Operating philosophy\nThe individual parts of the operating menu are assigned to certain user roles (operator,\nmaintenance etc.). Each user role contains typical tasks within the device lifecycle.\nFor detailed information on the operating philosophy, see the Operating Instructions for\nthe device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 37,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Operation options"
+    },
+    {
+      "kind": "heading",
+      "page": 37,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Access to the operating menu via the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 37,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "A0014013"
+    },
+    {
+      "kind": "table",
+      "page": 37,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Operational display with measured value shown as \"1 value, max.\" (example)"
+        ],
+        [
+          "1.1",
+          "Device tag"
+        ],
+        [
+          "1.2",
+          "Display area for measured values (4-line)"
+        ],
+        [
+          "1.3",
+          "Explanatory symbols for measured value: Measured value type, measuring channel number, symbol for diagnostic behavior"
+        ],
+        [
+          "1.4",
+          "Status area"
+        ],
+        [
+          "1.5",
+          "Measured value"
+        ],
+        [
+          "1.6",
+          "Unit for the measured value"
+        ],
+        [
+          "1.7",
+          "Operating elements"
+        ],
+        [
+          "2",
+          "Operational display with measured value shown as \"1 bar graph + 1 value\" (example)"
+        ],
+        [
+          "2.1",
+          "Bar graph display for measured value 1"
+        ],
+        [
+          "2.2",
+          "Measured value 1 with unit"
+        ],
+        [
+          "2.3",
+          "Explanatory symbols for measured value 1: measured value type, measuring channel number"
+        ],
+        [
+          "2.4",
+          "Measured value 2"
+        ],
+        [
+          "2.5",
+          "Unit for measured value 2"
+        ],
+        [
+          "2.6",
+          "Explanatory symbols for measured value 2: measured value type, measuring channel number"
+        ],
+        [
+          "3",
+          "Navigation view: picklist of a parameter"
+        ],
+        [
+          "3.1",
+          "Navigation path and status area"
+        ],
+        [
+          "3.2",
+          "Display area for navigation: designates the current parameter value"
+        ],
+        [
+          "4",
+          "Editing view: text editor with input mask"
+        ],
+        [
+          "5",
+          "Editing view: numeric editor with input mask"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Operation options Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.1 Operational display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Explanatory symbols for the measured value Status area"
+    },
+    {
+      "kind": "list",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Depends on the device version, e.g.: The following symbols appear in the status area of the",
+          "depth": 0
+        },
+        {
+          "text": ": Volume flow operational display at the top right:",
+          "depth": 1
+        },
+        {
+          "text": ": Mass flow • Status signals",
+          "depth": 1
+        },
+        {
+          "text": ": Density – F: Failure",
+          "depth": 1
+        },
+        {
+          "text": "G: Conductivity – C: Function check",
+          "depth": 1
+        },
+        {
+          "text": ": Temperature – S: Out of specification",
+          "depth": 1
+        },
+        {
+          "text": ": Totalizer – M: Maintenance required",
+          "depth": 0
+        },
+        {
+          "text": ": Output • Diagnostic behavior",
+          "depth": 0
+        },
+        {
+          "text": ": Input – : Alarm",
+          "depth": 0
+        },
+        {
+          "text": ": Measurement channel number 1) – : Warning",
+          "depth": 0
+        },
+        {
+          "text": "Diagnostic behavior 2) • : Locking (locked via hardware))",
+          "depth": 0
+        },
+        {
+          "text": ": Alarm • : Communication via remote operation is active.",
+          "depth": 1
+        },
+        {
+          "text": ": Warning",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If there is more than one channel for the same measured variable type (totalizer, output etc.).",
+          "depth": 0
+        },
+        {
+          "text": "For a diagnostic event that concerns the displayed measured variable.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.2 Navigation view"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Status area Display area"
+    },
+    {
+      "kind": "table",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "The following appears in the status area of the navigation",
+          "",
+          "•",
+          "Icons for menus",
+          ""
+        ],
+        [
+          "view in the top right corner:",
+          "",
+          "",
+          "–",
+          ": Operation"
+        ],
+        [
+          "•",
+          "In the submenu",
+          "",
+          "–",
+          ": Setup"
+        ],
+        [
+          "",
+          "– The direct access code for the parameter you are",
+          "",
+          "–",
+          ": Diagnostics"
+        ],
+        [
+          "",
+          "navigating to (e.g. 0022-1)",
+          "",
+          "–",
+          ": Expert"
+        ],
+        [
+          "",
+          "– If a diagnostic event is present, the diagnostic",
+          "•",
+          "▸: Submenus",
+          ""
+        ],
+        [
+          "",
+          "behavior and status signal",
+          "•",
+          "",
+          ": Wizards"
+        ],
+        [
+          "•",
+          "In the wizard",
+          "•",
+          ": Parameters within a wizard",
+          ""
+        ],
+        [
+          "",
+          "If a diagnostic event is present, the diagnostic behavior and status signal",
+          "•",
+          ": Parameter locked",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.3 Editing view"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Text editor Correction symbols under"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Confirms selection. Clears all entered characters."
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Exits the input without applying the changes. Moves the input position one position to the\nright."
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Clears all entered characters. Moves the input position one position to the left."
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Switches to the selection of the correction tools. Deletes one character immediately to the left of\nthe input position."
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Toggle"
+    },
+    {
+      "kind": "list",
+      "page": 38,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Between upper-case and lower-case letters",
+          "depth": 0
+        },
+        {
+          "text": "For entering numbers",
+          "depth": 0
+        },
+        {
+          "text": "For entering special characters",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Operation options"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Numeric editor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Confirms selection. Moves the input position one position to the left."
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Exits the input without applying the changes. Inserts decimal separator at the input position."
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Inserts minus sign at the input position. Clears all entered characters."
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.4 Operating elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Keys and meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Enter key"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With an operational display\nPressing the key briefly opens the operating menu.\nIn a menu, submenu"
+    },
+    {
+      "kind": "list",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Pressing the key briefly:",
+          "depth": 0
+        },
+        {
+          "text": "Opens the selected menu, submenu or parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Starts the wizard.",
+          "depth": 1
+        },
+        {
+          "text": "If help text is open: Closes the help text of the parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Pressing the key for 2 s in the case of a parameter: If present, opens the help text for the function of the parameter.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With a wizard: Opens the editing view of the parameter.\nWith a text and numeric editor"
+    },
+    {
+      "kind": "list",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Press the key briefly: confirm your selection.",
+          "depth": 0
+        },
+        {
+          "text": "Press the key for 2 s: confirm the entry.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Minus key"
+    },
+    {
+      "kind": "list",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In a menu, submenu: Moves the selection bar upwards in a picklist.",
+          "depth": 0
+        },
+        {
+          "text": "With a wizard: Confirms the parameter value and goes to the previous parameter.",
+          "depth": 0
+        },
+        {
+          "text": "With a text and numeric editor: Moves the cursor position to the left.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Plus key"
+    },
+    {
+      "kind": "list",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In a menu, submenu: Moves the selection bar downwards in a picklist.",
+          "depth": 0
+        },
+        {
+          "text": "With a wizard: Confirms the parameter value and goes to the next parameter.",
+          "depth": 0
+        },
+        {
+          "text": "With a text and numeric editor: Moves the cursor position to the right.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "+ Escape key combination (press keys simultaneously)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "In a menu, submenu"
+    },
+    {
+      "kind": "list",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Pressing the key briefly:",
+          "depth": 0
+        },
+        {
+          "text": "Exits the current menu level and takes you to the next higher level.",
+          "depth": 1
+        },
+        {
+          "text": "If help text is open, closes the help text of the parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Pressing the key for 2 s in the case of a parameter: Returns you to the operational display (\"home position\").",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With a wizard: Exits the wizard and takes you to the next higher level.\nWith a text and numeric editor: Closes the editor view without applying any changes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "System integration Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Keys and meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "+ Minus/Enter key combination (press the keys simultaneously)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With an operational display:"
+    },
+    {
+      "kind": "list",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If keypad lock is active: Press the key for 3 s: Deactivates the keypad lock.",
+          "depth": 0
+        },
+        {
+          "text": "If keypad lock is not active: Press the key for 3 s: Opens the context menu including the option for activating the keypad lock.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.5 Further information\nFor further information on the following topics, see the Operating Instructions for the\ndevice"
+    },
+    {
+      "kind": "list",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Calling up help text",
+          "depth": 0
+        },
+        {
+          "text": "User roles and related access authorization",
+          "depth": 0
+        },
+        {
+          "text": "Disabling write protection via access code",
+          "depth": 0
+        },
+        {
+          "text": "Enabling and disabling the keypad lock",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.4 Access to the operating menu via the operating tool"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Access to the operating menu via the operating tool"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.4 Access to the operating menu via the operating tool"
+      ],
+      "zone": "main",
+      "text": "The operating menu can also be accessed via the FieldCare and DeviceCare operating\ntools. See the Operating Instructions for the device."
+    },
+    {
+      "kind": "heading",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.5 Access to the operating menu via the Web server"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "The operating menu can also be accessed via the Web server. See the Operating\nInstructions for the device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "7 System integration\nFor detailed information on system integration, see the Operating Instructions for the\ndevice."
+    },
+    {
+      "kind": "list",
+      "page": 40,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Overview of device description files:",
+          "depth": 0
+        },
+        {
+          "text": "Current version data for the device",
+          "depth": 1
+        },
+        {
+          "text": "Operating tools",
+          "depth": 1
+        },
+        {
+          "text": "Device master file (GSD)",
+          "depth": 0
+        },
+        {
+          "text": "Manufacturer-specific GSD",
+          "depth": 1
+        },
+        {
+          "text": "Profile GSD",
+          "depth": 1
+        },
+        {
+          "text": "Compatibility with previous model",
+          "depth": 0
+        },
+        {
+          "text": "Using the GSD modules of the previous model",
+          "depth": 0
+        },
+        {
+          "text": "Cyclic data transmission",
+          "depth": 0
+        },
+        {
+          "text": "Block model",
+          "depth": 1
+        },
+        {
+          "text": "Description of the modules",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Commissioning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "8 Commissioning"
+    },
+    {
+      "kind": "heading",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Function check"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "text": "Before commissioning the measuring device:"
+    },
+    {
+      "kind": "list",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Make sure that the post-installation and post-connection checks have been performed.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "\"Post-installation check\" checklist → 12",
+          "depth": 0
+        },
+        {
+          "text": "\"Post-connection check\" checklist → 34",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Setting the operating language"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "Factory setting: English or ordered local language"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "A0029420\n7 Taking the example of the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "Diagnostic information Flowmeter Proline 500 – digital"
+    },
+    {
+      "kind": "heading",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.3 Configuring the measuring device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "The Setup menu with its submenus and guided wizards is used for fast commissioning of the\ndevice. They contain all the parameters required for configuration, such as for measurement\nor communication.\nDepending on the device version, not all submenus and parameters are available in every\ndevice. The selection can vary depending on the order code."
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Example: Available submenus, wizards Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "System units Configure the units for all measured values"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "User interface Configure the display format on the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Low flow cut off Set the low flow cut off"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Empty pipe detection Configure empty pipe detection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Advanced setup Additional parameters for configuration:"
+    },
+    {
+      "kind": "list",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Sensor adjustment",
+          "depth": 0
+        },
+        {
+          "text": "Totalizer",
+          "depth": 0
+        },
+        {
+          "text": "User interface",
+          "depth": 0
+        },
+        {
+          "text": "Electrode cleaning circuit",
+          "depth": 0
+        },
+        {
+          "text": "WLAN settings",
+          "depth": 0
+        },
+        {
+          "text": "Data backup",
+          "depth": 0
+        },
+        {
+          "text": "Administration",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.4 Protecting settings from unauthorized access"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "The following write protection options exist in order to protect the configuration of the\nmeasuring device from unintentional modification:"
+    },
+    {
+      "kind": "list",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Protect access to parameters via access code",
+          "depth": 0
+        },
+        {
+          "text": "Protect access to local operation via key locking",
+          "depth": 0
+        },
+        {
+          "text": "Protect access to measuring device via write protection switch For detailed information on protecting the settings against unauthorized access, see the Operating Instructions for the device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "9 Diagnostic information\nFaults detected by the self-monitoring system of the measuring device are displayed as a\ndiagnostic message in alternation with the operational display. The message about remedial\nmeasures can be called up from the diagnostic message, and contains important information\non the fault."
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 500 – digital Diagnostic information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "A0029431-EN\n8 Message about remedial measures"
+    },
+    {
+      "kind": "table",
+      "page": 43,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Diagnostic information"
+        ],
+        [
+          "2",
+          "Short text"
+        ],
+        [
+          "3",
+          "Service ID"
+        ],
+        [
+          "4",
+          "Diagnostic behavior with diagnostic code"
+        ],
+        [
+          "5",
+          "Operation time of occurrence"
+        ],
+        [
+          "6",
+          "Remedial measures"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "list",
+      "page": 43,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "The user is in the diagnostic message. Press ( symbol). The Diagnostic list submenu opens.",
+          "depth": 0
+        },
+        {
+          "text": "Select the desired diagnostic event with or and press . The message about the remedial measures opens.",
+          "depth": 0
+        },
+        {
+          "text": "Press + simultaneously. The message about the remedial measures closes.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 44,
+      "section_path": [
+        "Proline 500 – digital",
+        "8.4 Protecting settings from unauthorized access",
+        "www.addresses.endress.com"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "www.addresses.endress.com"
+    }
+  ]
+}

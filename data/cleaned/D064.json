@@ -1,0 +1,3446 @@
+{
+  "doc_id": "D064",
+  "format": "pdf",
+  "page_count": 12,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "55551b171bad3e917adb494a9fa5c883e3092d620bb69ebb3a1da0a2c6c92f56",
+  "blocks": [
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "HOJA DE DATOS DE SEGURIDAD (HDS)"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "HOJA DE DATOS DE SEGURIDAD (HDS)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "1. Identificación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identificación"
+      ],
+      "zone": "main",
+      "text": "Identificador de producto Limpiador de partes de frenos Brakleen® - 5 gal"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Otros medios de identificación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Otros medios de identificación"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Otros medios de identificación"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Código del producto",
+          "No. 05186 (Item# 1003747)"
+        ],
+        [
+          "Uso recomendado",
+          "",
+          "Limpiador de frenos"
+        ],
+        [
+          "Restricciones recomendadas",
+          "",
+          "Ninguno conocido/Ninguna conocida."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Información sobre el fabricante/importador/proveedor/distribuidor"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Información sobre el fabricante/importador/proveedor/distribuidor"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Fabricados o vendidos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Fabricados o vendidos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Fabricados o vendidos"
+      ],
+      "zone": "main",
+      "text": "por:\nNombre de la empresa CRC Industries, Inc.\nDirección 885 Louis Dr.\nWarminster, PA 18974 EE.UU."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Teléfono"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Teléfono"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Teléfono"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Información General",
+          "215-674-4300"
+        ],
+        [
+          "Asistencia técnica",
+          "800-521-3168"
+        ],
+        [
+          "Servicio al Cliente",
+          "800-272-4620"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "Teléfono"
+      ],
+      "zone": "main",
+      "text": "Emergencias las 24 horas800-424-9300 (EE.UU. )"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "(CHEMTREC)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "(CHEMTREC)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identificación",
+        "(CHEMTREC)"
+      ],
+      "zone": "main",
+      "text": "Página web www.crcindustries.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Identificación de peligros"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "2. Identificación de peligros"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "2. Identificación de peligros"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Peligros físicos",
+          "Líquidos inflamables",
+          "Categoría 2"
+        ],
+        [
+          "Peligros para la salud",
+          "Corrosión/irritación cutáneas",
+          "Categoría 2"
+        ],
+        [
+          "",
+          "Lesiones oculares graves/irritación ocular",
+          "Categoría 2A"
+        ],
+        [
+          "",
+          "Toxicidad sistémica específica de órganos diana tras una exposición única",
+          "Categoría 3, efectos narcóticos"
+        ],
+        [
+          "",
+          "Peligro por aspiración",
+          "Categoría 1"
+        ],
+        [
+          "Peligros para el medio",
+          "Peligro para el medio ambiente acuático,",
+          "Categoría 1"
+        ],
+        [
+          "ambiente",
+          "peligro agudo",
+          ""
+        ],
+        [
+          "",
+          "Peligro para el medio ambiente acuático, peligro a largo plazo",
+          "Categoría 1"
+        ],
+        [
+          "Peligros definidos por OSHA",
+          "No clasificado.",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Elementos de etiqueta"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Elementos de etiqueta"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Elementos de etiqueta"
+      ],
+      "zone": "main",
+      "text": "Palabra de advertencia Peligro\nIndicación de peligro Líquido y vapores muy inflamables. Puede ser mortal en caso de ingestión y de penetración en\nlas vías respiratorias. Provoca irritación cutánea. Provoca irritación ocular grave. Puede provocar\nsomnolencia o vértigo."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Consejos de prudencia"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Consejos de prudencia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Consejos de prudencia"
+      ],
+      "zone": "main",
+      "text": "Prevención Mantener alejado del calor/de chispas/de llamas al descubierto/de superficies calientes. – No\nfumar. Mantener el recipiente herméticamente cerrado. Toma de tierra/enlace equipotencial del\nrecipiente y del equipo receptor. Utilizar un material eléctrico/de ventilación/iluminación\nantideflagrante. No utilizar herramientas que produzcan chispas. Tomar medidas de precaución\ncontra las descargas electrostáticas. Utilizar sólo al aire libre o en un lugar bien ventilado.\nMantenga la ventilación durante la utilización del producto hasta que el vapor haya desaparecido.\nAbra las puertas y ventanas y utilice otros medios para asegurar la provisión de aire fresco al\nutilizar el producto y mientras se esté secando. Si presenta algunos de los síntomas enumerados\nen esta etiqueta, aumente la ventilación o deje el área. Evitar respirar nieblas/vapores. Lavarse\ncuidadosamente después de la manipulación. Usar guantes/ropa de protección/equipo de\nprotección para los ojos/la cara.\nRespuesta En caso de ingestión: Llamar inmediatamente a un centro de toxicología o a un médico. NO\nprovocar el vómito. En caso de contacto con los ojos: Enjuagar con agua cuidadosamente\ndurante varios minutos. Quitar las lentes de contacto cuando estén presentes y pueda hacerse\ncon facilidad. Proseguir con el lavado. Si la irritación ocular persiste, consultar a un médico. En\ncaso de contacto con la piel (o el pelo): Quitar inmediatamente la ropa contaminada. Enjuagar la\npiel con agua/ducharse. En caso de irritación cutánea: Consultar a un médico. Lavar la ropa\ncontaminada antes de volverla a usar. En caso de inhalación: Transportar la persona al aire libre\ny mantenerla en una posición que le facilite la respiración. Llamar a un CENTRO DE\nTOXICOLOGÍA o a un médico si la persona se encuentra mal. En caso de incendio: Utilizar los\nmedios apropiados para la extinción.\nAlmacenamiento Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente cerrado. Mantener\nfresco. Guardar bajo llave."
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Consejos de prudencia"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Eliminación",
+          "Eliminar el contenido/recipiente conforme a las reglamentaciones local/regional/nacional/internacional."
+        ],
+        [
+          "Peligros no clasificados en",
+          "",
+          "Un líquido inflamable que acumule cargas estáticas puede cargarse electrostáticamente incluso"
+        ],
+        [
+          "otra parte (HNOC, por sus",
+          "",
+          "en equipos con toma de tierra y enlace equipotencial. Las chispas pueden inflamar el líquido y el"
+        ],
+        [
+          "siglas en inglés)",
+          "",
+          "vapor. Puede provocar inflamación instantánea o explosión."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "2. Identificación de peligros",
+        "Consejos de prudencia"
+      ],
+      "zone": "main",
+      "text": "Información suplementaria Ninguno."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "3. Composición/información sobre los componentes"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "3. Composición/información sobre los componentes"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "3. Composición/información sobre los componentes",
+        "Mezclas"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Mezclas"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composición/información sobre los componentes",
+        "Mezclas"
+      ],
+      "zone": "main",
+      "text": "Nombre químico Nombre común y sinónimos Número CAS %\nnafta ligera hidrotratada (petróleo) 40 - 5064742-49-0\nn-Heptano 20 - 30142-82-5\nHeptanos, ramificados, cíclicos y 426260-76-6 10 - 20\nlineales\nAlcohol isopropílico 5 - 1067-63-0\nsolvente, nafta (petróleo), alifáticos 64742-89-8 3 - 5\nligeros\nLa identidad química específica y/o porcentaje de composición no han sido divulgados por ser secretos comerciales."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. Primeros auxilios"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "4. Primeros auxilios"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "4. Primeros auxilios"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Inhalación",
+          "Transportar a la víctima al aire libre y mantenerla en reposo una posición que le facilite la respiración. Llamar a un centro de toxicología/médico si la persona se encuentra mal."
+        ],
+        [
+          "Contacto con la cutánea",
+          "Quitar inmediatamente toda la ropa contaminada. Enjuagar la piel con agua/ducharse. En caso de irritación cutánea: Consultar a un médico. Lavar la ropa contaminada antes de volverla a usar."
+        ],
+        [
+          "Contacto con los ocular",
+          "Enjuague los ojos de inmediato con abundante agua durante al menos 15 minutos. Quitar las lentes de contacto, cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado. Busque atención médica si la irritación se desarrolla y persiste."
+        ],
+        [
+          "Ingestión",
+          "Llame al médico o centro de control de intoxicaciones inmediatamente. Enjuagarse la boca. No inducir el vómito. En caso de vómito, colocar la cabeza a un nivel más bajo que el estómago para evitar que el vómito entre en los pulmones."
+        ],
+        [
+          "Síntomas/efectos más",
+          "Su inhalación puede causar edema pulmonar y neumonía. Puede provocar somnolencia o vértigo."
+        ],
+        [
+          "importantes, agudos o",
+          "Dolor de cabeza. Náusea, vómitos. Grave irritación de los ojos. Los síntomas pueden incluir"
+        ],
+        [
+          "retardados",
+          "escozor, lagrimeo, enrojecimiento, hinchazón y visión borrosa. Irritación de la piel. Puede causar enrojecimiento y dolor."
+        ],
+        [
+          "Indicación de la necesidad de",
+          "Proporcione las medidas de apoyo generales y de tratamiento sintomático. En caso de"
+        ],
+        [
+          "recibir atención médica",
+          "quemaduras: Enjuáguese inmediatamente con agua. Bajo el chorro de agua corriente, quítese la"
+        ],
+        [
+          "inmediata y, en su caso, de",
+          "ropa que no esté pegada a la piel. Llame a una ambulancia. Continúe enjuagándose durante el"
+        ],
+        [
+          "tratamiento especial",
+          "transporte. Mantenga a la víctima bajo observación. Los síntomas pueden retrasarse."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "4. Primeros auxilios"
+      ],
+      "zone": "main",
+      "text": "Información general Quítese inmediatamente la ropa contaminada. Asegúrese de que el personal médico tenga\nconocimiento de los materiales involucrados y tome las precauciones adecuadas para su propia\nprotección. Lavar la ropa contaminada antes de volverla a usar."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "5. Medidas de lucha contra incendios"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Medios de extinción",
+          "Neblina de agua. Espuma. Bióxido de carbono (CO2). El polvo químico seco, el dióxido de"
+        ],
+        [
+          "apropiados",
+          "carbono, la arena y la tierra se pueden usar solamente en incendios pequeños."
+        ],
+        [
+          "Medios no adecuados de",
+          "No utilizar agua a presión, puede extender el incendio."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios",
+        "extinción"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "extinción"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios",
+        "extinción"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Peligros específicos del",
+          "Los vapores pueden formar mezclas explosivas con el aire. Los vapores pueden desplazarse una"
+        ],
+        [
+          "producto químico",
+          "distancia bastante larga hacia una fuente de ignición y dar lugar a retroceso de la llama. Este producto es un mal conductor de la electricidad y puede cargarse electrostáticamente. Si se acumula suficiente carga, las mezclas inflamables pueden encenderse. Para reducir la posibilidad de descargas estáticas se deben usar procedimientos adecuados de conexión equipotencial y puesta a tierra. Este líquido puede acumular electricidad estática cuando se están llenando recipientes conectados a tierra. La acumulación de electricidad estática puede incrementarse significativamente debido a la presencia de pequeñas cantidades de agua u otros contaminantes. El material flotará y puede encenderse sobre la superficie del agua. En caso de incendio se pueden formar gases nocivos."
+        ],
+        [
+          "Equipo especial de protección",
+          "Use aparato respiratorio autónomo y traje de protección completo en caso de incendio."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios",
+        "y medias de precaución para"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "y medias de precaución para"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios",
+        "los bomberos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "los bomberos"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "5. Medidas de lucha contra incendios",
+        "los bomberos"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Equipo/instrucciones de",
+          "En caso de incendio y/o de explosión no respire los humos. Mueva los recipientes del área del"
+        ],
+        [
+          "extinción de incendios",
+          "incendio si puede hacerlo sin riesgo. Utilizar procedimientos estándar contra incendiosy considerar los riesgos de otros materiales involucrados."
+        ],
+        [
+          "Riesgos generales de incendio",
+          "Líquido y vapores muy inflamables."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "6. Medidas que deben tomarse en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "6. Medidas que deben tomarse en caso de vertido accidental"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "6. Medidas que deben tomarse en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Precauciones personales,",
+          "Mantenga alejado al personal que no sea necesario. Mantenga alejadas a las personas de la zona"
+        ],
+        [
+          "equipo protector y",
+          "de la fuga y en sentido opuesto al viento. Eliminar todas las fuentes de ignición (no fumar, teas,"
+        ],
+        [
+          "procedimiento de emergencia",
+          "chispas ni llamas en los alrededores). Use equipo y ropa de protección apropiados durante la limpieza. Evitar respirar nieblas/vapores. No toque los recipientes dañados o el material derramado a menos que esté usando ropa protectora adecuada. Ventilar los espacios cerrados antes de entrar. Utilizar medidas de contención adecuadas para evitar la contaminación del medio ambiente. Las autoridades locales deben ser informadas si los derrames importantes no pueden contenerse. Para consultar la protección personal, véase la sección 8 de la HDS."
+        ],
+        [
+          "Métodos y materiales para la",
+          "Eliminar todas las fuentes de ignición (no fumar, teas, chispas ni llamas en los alrededores)."
+        ],
+        [
+          "contención y limpieza de",
+          "Mantenga los materiales combustibles (madera, papel, petróleo, etc.) lejos del material"
+        ],
+        [
+          "vertidos",
+          "derramado. Tomar medidas de precaución contra las descargas electrostáticas. No utilizar herramientas que produzcan chispas."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "6. Medidas que deben tomarse en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "text": "Derrames grandes: Detenga el flujo de material si esto no entraña riesgos. Forme un dique para el\nmaterial derramado donde sea posible. Usar un material no combustible como vermiculita, arena\no tierra para absorber el producto y colocarlo en un recipiente para su eliminación posterior.\nDespués de recuperar el producto, enjuague el área con agua."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "6. Medidas que deben tomarse en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "text": "Derrames pequeños: Absorba con tierra, arena u otro material no combustible y transfiera a\nrecipientes para su posterior eliminación. Limpie con material absorbente (por ejemplo tela,\nvellón). Limpie cuidadosamente la superficie para eliminar los restos de contaminación."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "6. Medidas que deben tomarse en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "text": "Nunca regrese el producto derramado al envase original para reutilizarlo. Para la eliminación de\nlos residuos, ver la Sección 13 de la HDS.\nPrecauciones relativas al No dispersar en el medio ambiente. Informar al personal administrativo o de supervisión\nmedio ambiente pertinente de todos los escapes al medio ambiente. Impidas nuevos escapes o derrames de\nforma segura. No verter los residuos al desagüe, al suelo o las corrientes de agua. Utilizar\nmedidas de contención adecuadas para evitar la contaminación del medio ambiente."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "7. Manipulación y almacenamiento"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Precauciones que se deben",
+          "No maneje, almacene o abra cerca de llama abierta, fuentes de calor o fuentes de ignición."
+        ],
+        [
+          "tomar para garantizar un",
+          "Proteja el material de la luz solar directa. No fumar durante su utilización. Ventilación de escape"
+        ],
+        [
+          "manejo seguro",
+          "general y local a prueba de explosiones. Reducir al mínimo los riesgos de incendio debidos a materiales inflamables y combustibles (incluidos los polvos combustibles y los líquidos que acumulan cargas electrostáticas) o por reacciones peligrosas con materiales incompatibles. Las operaciones de manipulación del producto que promueven la acumulación de cargas estáticas incluyen, pero no se limitan, a las siguientes: mezclado, filtración, bombeo a velocidad alta de flujo, salpicaduras durante el llenado por caída libre, generación de nieblas o aerosoles, llenado de tanques y recipientes, limpieza de tanques, toma de muestras, mediciones, cambio del tipo de líquido de carga, operaciones en camiones de vacío. Evítese la acumulación de cargas electroestáticas. Todo el equipo que se utiliza al manejar el producto debe estar conectado a tierra. Use herramientas a prueba de chispa y equipo a prueba de explosión. Evitar respirar nieblas/vapores. Evítese el contacto con los ojos, la piel y la ropa. Evitar la exposición prolongada. Use equipo protector personal adecuado. Lavarse las manos cuidadosamente después de la manipulación. No dispersar en el medio ambiente. Respete las normas para un manejo correcto de los químicos."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "text": "Para obtener información adicional sobre la interconexión equipotencial y puesta a tierra de\nequipos, consúltese las Normas de Procedimientos Eléctricos de Canadá, (CSA C22.1), o las\nPrácticas Recomendadas de 2003 del Instituto Americano del Petróleo (API), sobre \"Protección\ncontra las igniciones producidas por estática, relámpagos y corrientes parásitas\" o las \"Prácticas\nrecomendadas sobre la electricidad estática\", de la Asociación Nacional para la Protección contra\nIncendios, NFPA 77 o el \"Código Eléctrico Nacional\", NFPA 70."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "text": "Para instrucciones para el uso del producto, por favor vea la etiqueta del producto."
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Condiciones de",
+          "Guardar lejos del calor, las chispas o llamas abiertas. Evite que se acumulen cargas"
+        ],
+        [
+          "almacenamiento seguro,",
+          "electrostáticas usando las técnicas comunes de unión y conexión a tierra. Eliminar las fuentes de"
+        ],
+        [
+          "incluida cualquier",
+          "ignición. Evitar los productores de chispas. Hacer conexiones equipotenciales y de puesta a tierra"
+        ],
+        [
+          "incompatibilidad",
+          "de los recipientes y equipos. Estas medidas por sí solas podrían ser insuficientes para eliminar la electricidad estática. Guárdese en un lugar fresco y seco sin exposición a la luz solar directa. Almacenar en un recipiente herméticamente cerrado. Almacenar en un lugar bien ventilado. Guárdelo en una zona equipada con extintores automáticos. Almacenar alejado de materiales incompatibles (véase la Sección 10 de la HDS)."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "8. Controles de exposición/protección personal"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Límite(s) de exposición ocupacional"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Límite(s) de exposición ocupacional"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Límite(s) de exposición ocupacional"
+      ],
+      "zone": "main",
+      "text": "Los siguientes componentes son los únicos de este producto que tienen un PEL, TLV u otro límite de exposición recomendado.\nActualmente los otros componentes no tienen establecido un límite de exposición."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "text": "Componentes Tipo Valor"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Alcohol isopropílico (CAS",
+          "Límite de Exposición",
+          "980 mg/m3"
+        ],
+        [
+          "67-63-0)",
+          "Permisible (LEP)",
+          "400 ppm"
+        ],
+        [
+          "nafta ligera hidrotratada",
+          "Límite de Exposición",
+          "400 mg/m3"
+        ],
+        [
+          "(petróleo) (CAS",
+          "Permisible (LEP)",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "text": "64742-49-0)\n100 ppm"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "n-Heptano (CAS 142-82-5)",
+          "Límite de Exposición Permisible (LEP)",
+          "2000 mg/m3 500 ppm"
+        ],
+        [
+          "solvente, nafta (petróleo),",
+          "Límite de Exposición",
+          "400 mg/m3"
+        ],
+        [
+          "alifáticos ligeros (CAS",
+          "Permisible (LEP)",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "OSHA de USA - Tabla Z-1 - Límites para los contaminantes del aire (29 CFR 1910.1000)"
+      ],
+      "zone": "main",
+      "text": "64742-89-8)\n100 ppm"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "EE.UU. Valores umbrales ACGIH"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "EE.UU. Valores umbrales ACGIH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "EE.UU. Valores umbrales ACGIH"
+      ],
+      "zone": "main",
+      "text": "Componentes Tipo Valor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "EE.UU. Valores umbrales ACGIH"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS STEL 400 ppm\n67-63-0)\nTWA 200 ppm\nn-Heptano (CAS 142-82-5) STEL 500 ppm"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "EE.UU. Valores umbrales ACGIH"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "EE.UU. Valores umbrales ACGIH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "EE.UU. Valores umbrales ACGIH"
+      ],
+      "zone": "main",
+      "text": "Componentes Tipo Valor\nTWA 400 ppm"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "NIOSH de EUA: Guía de bolsillo acerca de los peligros químicos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "NIOSH de EUA: Guía de bolsillo acerca de los peligros químicos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "NIOSH de EUA: Guía de bolsillo acerca de los peligros químicos"
+      ],
+      "zone": "main",
+      "text": "Componentes Tipo Valor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "NIOSH de EUA: Guía de bolsillo acerca de los peligros químicos"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS STEL 1225 mg/m3\n67-63-0)\n500 ppm\nTWA 980 mg/m3\n400 ppm\nnafta ligera hidrotratada TWA 400 mg/m3\n(petróleo) (CAS\n64742-49-0)\n100 ppm\nn-Heptano (CAS 142-82-5) TWA 350 mg/m3\n85 ppm\nValor techo 1800 mg/m3\n440 ppm\nsolvente, nafta (petróleo), TWA 400 mg/m3\nalifáticos ligeros (CAS\n64742-89-8)\n100 ppm"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Valores límites biológicos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Valores límites biológicos"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Índices biológicos de exposición, ACGIH"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Índices biológicos de exposición, ACGIH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Índices biológicos de exposición, ACGIH"
+      ],
+      "zone": "main",
+      "text": "Componentes Determinante Espécimen Hora de muestreoValor\nAlcohol isopropílico (CAS 40 mg/l Acetona orina *\n67-63-0)"
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Índices biológicos de exposición, ACGIH"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "- Consultar los detalles del muestreo en el documento original.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Índices biológicos de exposición, ACGIH"
+      ],
+      "zone": "main",
+      "text": "Controles técnicos apropiados Ventilación de escape general y local a prueba de explosiones. Debe haber una ventilación\ngeneral adecuada. La frecuencia de la renovación del aire debe corresponder a las condiciones.\nDe ser posible, use campanas extractoras, ventilación aspirada local u otras medidas técnicas\npara mantener los niveles de exposición por debajo de los límites de exposición recomendados. Si\nno se han establecido ningunos límites de exposición, el nivel de contaminantes suspendidos en\nel aire ha de mantenerse a un nivel aceptable. Proveer estación de lavados de ojos y ducha de\nemergencia."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Medidas de protección individual, como equipos de protección personal recomendados"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Medidas de protección individual, como equipos de protección personal recomendados"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Medidas de protección individual, como equipos de protección personal recomendados"
+      ],
+      "zone": "main",
+      "text": "Protección para los ojos/la Use gafas de seguridad con protectores laterales (o goggles)."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "cara"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "cara"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Protección de la piel"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Protección de la piel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "Protección de la piel"
+      ],
+      "zone": "main",
+      "text": "Protección para las Use guantes de protección tales como: Película laminada."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "manos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "manos"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "manos"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Otros",
+          "Use ropa adecuada resistente a los productos químicos."
+        ],
+        [
+          "Protección respiratoria",
+          "",
+          "Si no son viables controles de ingeniería o si la exposición supera los límites de exposición aplicables, usar un respirador de cartucho aprobado por NIOSH con un cartucho de vapor orgánico. Use aparatos respiratorios autónomos en espacios y emergencias. Se necesita monitoreo del aire para determinar los niveles efectivos de exposición de los empleados."
+        ],
+        [
+          "Peligros térmicos",
+          "",
+          "Llevar ropa adecuada de protección térmica, cuando sea necesario."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "8. Controles de exposición/protección personal",
+        "manos"
+      ],
+      "zone": "main",
+      "text": "Consideraciones generales No fumar durante su utilización. Seguir siempre buenas medidas de higiene personal, como\nsobre higiene lavarse después de manejar el material y antes de comer, beber y/o fumar. Rutinariamente lave la\nropa de trabajo y el equipo de protección para eliminar los contaminantes."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "9. Propiedades físicas y químicas"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "9. Propiedades físicas y químicas"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Apariencia"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Apariencia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Apariencia"
+      ],
+      "zone": "main",
+      "text": "Estado físico Líquido.\nForma Líquido."
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Apariencia"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Color",
+          "Incoloro."
+        ],
+        [
+          "Olor",
+          "",
+          "Agradable."
+        ],
+        [
+          "Umbral olfativo",
+          "",
+          "No disponible (ND)."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Apariencia"
+      ],
+      "zone": "main",
+      "text": "pH No disponible (ND).\nPunto de fusión/punto de -91.1 °C (-132 °F) estimado"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "congelación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "congelación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "congelación"
+      ],
+      "zone": "main",
+      "text": "Punto inicial e intervalo de 87.8 °C (190 °F) estimado"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "ebullición"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "ebullición"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "ebullición"
+      ],
+      "zone": "main",
+      "text": "Punto de inflamación -9.0 °C (15.8 °F) estimado\nTasa de evaporación Rápida.\nInflamabilidad (sólido, gas) No disponible (ND)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Límites superior/inferior de inflamabilidad o explosividad"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Límites superior/inferior de inflamabilidad o explosividad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Límites superior/inferior de inflamabilidad o explosividad"
+      ],
+      "zone": "main",
+      "text": "Límite inferior de 1 % estimado"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "inflamabilidad (%)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "inflamabilidad (%)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "inflamabilidad (%)"
+      ],
+      "zone": "main",
+      "text": "Límite superior de 13 % estimado"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "inflamabilidad (%)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "inflamabilidad (%)"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "inflamabilidad (%)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Presión de vapor",
+          "80.1 hPa estimado"
+        ],
+        [
+          "Densidad de vapor",
+          "> 1 (Aire = 1)"
+        ],
+        [
+          "Densidad relativa",
+          "0.7"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Solubilidad(es)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Solubilidad(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "Solubilidad(es)"
+      ],
+      "zone": "main",
+      "text": "Solubilidad (agua) Ligeramente soluble.\nCoeficiente de reparto: No disponible (ND)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "n-octanol/agua"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "n-octanol/agua"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "n-octanol/agua"
+      ],
+      "zone": "main",
+      "text": "Temperatura de 222.8 °C (433 °F) estimado"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "auto-inflamación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "auto-inflamación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "auto-inflamación"
+      ],
+      "zone": "main",
+      "text": "Temperatura de No disponible (ND)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "descomposición"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "descomposición"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "9. Propiedades físicas y químicas",
+        "descomposición"
+      ],
+      "zone": "main",
+      "text": "Viscosidad No disponible (ND).\nPorcentaje de volátiles No disponible (ND)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "10. Estabilidad y reactividad"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "10. Estabilidad y reactividad"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "10. Estabilidad y reactividad"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Reactividad",
+          "El producto es estable y no es reactivo en condiciones normales de uso, almacenamiento y transporte."
+        ],
+        [
+          "Estabilidad química",
+          "El material es estable bajo condiciones normales."
+        ],
+        [
+          "Posibilidad de reacciones",
+          "Ninguno bajo el uso normal."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "10. Estabilidad y reactividad",
+        "peligrosas"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "peligrosas"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "10. Estabilidad y reactividad",
+        "peligrosas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Condiciones que deben",
+          "Evite calor, chispas, llamas abiertas y otras fuentes de ignición. Evitar el contacto con materiales"
+        ],
+        [
+          "evitarse",
+          "incompatibles."
+        ],
+        [
+          "Materiales incompatibles",
+          "Ácidos. Agentes oxidantes fuertes. cloro isocianatos"
+        ],
+        [
+          "Productos de descomposición",
+          "óxidos de carbono. Óxidos de azufre."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "10. Estabilidad y reactividad",
+        "peligrosos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "peligrosos"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "11. Información toxicológica"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "11. Información toxicológica"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "11. Información toxicológica",
+        "Información sobre las posibles vías de exposición"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Información sobre las posibles vías de exposición"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "11. Información toxicológica",
+        "Información sobre las posibles vías de exposición"
+      ],
+      "zone": "main",
+      "text": "Inhalación Puede provocar somnolencia o vértigo. Dolor de cabeza. Náusea, vómitos. La inhalación\nprolongada puede resultar nociva.\nContacto con la cutánea Provoca irritación cutánea.\nContacto con los ocular Provoca irritación ocular grave."
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "11. Información toxicológica",
+        "Información sobre las posibles vías de exposición"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Ingestión",
+          "Si el producto entra en contacto con los pulmones por ingestión o vómito, puede provocar una seria neumonía química."
+        ],
+        [
+          "Síntomas relacionados con las",
+          "",
+          "Su inhalación puede causar edema pulmonar y neumonía. Puede provocar somnolencia o"
+        ],
+        [
+          "características físicas,",
+          "",
+          "vértigo. Dolor de cabeza. Náusea, vómitos. Grave irritación de los ojos. Los síntomas pueden"
+        ],
+        [
+          "químicas y toxicológicas",
+          "",
+          "incluir escozor, lagrimeo, enrojecimiento, hinchazón y visión borrosa. Irritación de la piel. Puede causar enrojecimiento y dolor."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "11. Información toxicológica",
+        "Información sobre los efectos toxicológicos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Información sobre los efectos toxicológicos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Información sobre los efectos toxicológicos"
+      ],
+      "zone": "main",
+      "text": "Toxicidad aguda Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias.\nComponentes Especies Resultados de la prueba\nHeptanos, ramificados, cíclicos y lineales (CAS 426260-76-6)"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Agudo"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Agudo"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Dérmico"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "text": "DL50 conejo > 2000 mg/kg"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Inhalación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "text": "CL50 Rata > 60 mg/l, 4 horas"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Oral"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "text": "DL50 Rata > 5000 mg/kg\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Agudo"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Agudo"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Dérmico"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "text": "DL50 Rata > 2000 mg/kg"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Inhalación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "text": "Vapor\nCL50 Rata > 5.2 mg/l, 4 horas"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Oral"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "text": "DL50 Rata > 5000 mg/kg\nn-Heptano (CAS 142-82-5)"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Agudo"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Agudo"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Dérmico"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Dérmico"
+      ],
+      "zone": "main",
+      "text": "DL50 conejo > 2000 mg/kg"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Inhalación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Inhalación"
+      ],
+      "zone": "main",
+      "text": "Vapor\nCL50 Rata > 73.5 mg/l, 4 horas"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Oral"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Oral"
+      ],
+      "zone": "main",
+      "text": "DL50 Rata > 5000 mg/kg\nCorrosión/irritación cutáneas Provoca irritación cutánea.\nLesiones oculares Provoca irritación ocular grave."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "graves/irritación ocular"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "graves/irritación ocular"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Sensibilidad respiratoria o cutánea"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Sensibilidad respiratoria o cutánea"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Sensibilidad respiratoria o cutánea"
+      ],
+      "zone": "main",
+      "text": "Sensibilización No es un sensibilizante respiratorio."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "respiratoria"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "respiratoria"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "respiratoria"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Sensibilización cutánea",
+          "No se espera que este producto cause sensibilización cutánea."
+        ],
+        [
+          "Mutagenicidad en células",
+          "",
+          "No hay datos disponibles que indiquen que el producto o cualquier compuesto presente en una"
+        ],
+        [
+          "germinales",
+          "",
+          "cantidad superior al 0.1% sea mutagénico o genotóxico."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "respiratoria"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicidad No está clasificado en cuanto a la carcinogenicidad en seres humanos."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Monografías del IARC. Evaluación general de la carcinogenicidad"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Monografías del IARC. Evaluación general de la carcinogenicidad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Monografías del IARC. Evaluación general de la carcinogenicidad"
+      ],
+      "zone": "main",
+      "text": "No listado."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+      ],
+      "zone": "main",
+      "text": "No listado."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Programa Nacional de Toxicología de EUA (NTP). Reporte sobre carcinógenos"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Programa Nacional de Toxicología de EUA (NTP). Reporte sobre carcinógenos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Programa Nacional de Toxicología de EUA (NTP). Reporte sobre carcinógenos"
+      ],
+      "zone": "main",
+      "text": "No listado.\nToxicidad para la reproducción No se espera que este producto cause efectos reproductivos o al desarrollo.\nToxicidad sistémica específica Puede provocar somnolencia o vértigo."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "de órganos diana - Exposición"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "de órganos diana - Exposición"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "única"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "única"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "única"
+      ],
+      "zone": "main",
+      "text": "Toxicidad sistémica específica No clasificado."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "de órganos diana -"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "de órganos diana -"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Exposiciones repetidas"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Exposiciones repetidas"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "11. Información toxicológica",
+        "Exposiciones repetidas"
+      ],
+      "zone": "main",
+      "text": "Peligro por aspiración Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "11. Información toxicológica",
+        "Exposiciones repetidas"
+      ],
+      "zone": "main",
+      "text": "Efectos crónicos La inhalación prolongada puede resultar nociva."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "12. Información ecotoxicológica"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica"
+      ],
+      "zone": "main",
+      "text": "Ecotoxicidad Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.\nComponentes Resultados de la pruebaEspecies\nn-Heptano (CAS 142-82-5)"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Acuático/a"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Acuático/a"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Acuático/a"
+      ],
+      "zone": "main",
+      "text": "Agudo\nCrustáceos > 10 mg/l, 24 horasEC50Pulga de agua (Daphnia magna)\n1.5 mg/l, 48 horas\nPeces 375 mg/l, 96 horasCL50Peces de agua dulce\npez dorado (carassius auratus) 4 mg/l, 24 horas"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Acuático/a"
+      ],
+      "zone": "main",
+      "text": "Persistencia y degradabilidad No existen datos disponibles sobre la degradabilidad de cualquiera de los elementos en la\nmezcla.\nPotencial de bioacumulación No hay datos disponibles."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Factor de bioconcentración (FBC)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Factor de bioconcentración (FBC)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Factor de bioconcentración (FBC)"
+      ],
+      "zone": "main",
+      "text": "nafta ligera hidrotratada (petróleo) 10 - 2500"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Coeficiente de reparto octanol/agua log Kow"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Coeficiente de reparto octanol/agua log Kow"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "12. Información ecotoxicológica",
+        "Coeficiente de reparto octanol/agua log Kow"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico 0.05\nn-Heptano 4.66\nMovilidad en el suelo No hay datos disponibles.\nOtros efectos adversos No se esperan otros efectos adversos para el medio ambiente (p. ej. agotamiento del ozono,\nposible generación fotoquímica de ozono, perturbación endocrina, potencial para el\ncalentamiento global) debido a este componente."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "13. Información relativa a la eliminación de los productos"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "13. Información relativa a la eliminación de los productos"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "13. Información relativa a la eliminación de los productos"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Instrucciones para la",
+          "Si este producto se elimina se considera un residuo que puede encenderse, de acuerdo con"
+        ],
+        [
+          "eliminación",
+          "RCRA, D001. El recipiente vació puede reciclarse. Recoger y recuperar o botar en recipientes sellados en un vertedero oficial. No deje que el material entre en el drenaje o en el suministro de agua. No contamine los estanques, ríos o acequias con producto químico ni envases usados. Eliminar el contenido/recipiente conforme a las reglamentaciones local/regional/nacional/internacional."
+        ],
+        [
+          "Código de residuo peligroso",
+          "D001: Material de Residuos Inflamables con una temperatura de inflamación <140º F"
+        ],
+        [
+          "Envases contaminados",
+          "Ya que los recipientes vacíos pueden contener restos de producto, obsérvense las advertencias indicadas en la etiqueta después de vaciarse el recipiente. Los contenedores vacíos deben ser llevados a un sitio de manejo aprobado para desechos, para el reciclado o eliminación."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "14. Información relativa al transporte"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "DOT"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "DOT"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "DOT"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Número ONU",
+          "UN1993"
+        ],
+        [
+          "Designación oficial de",
+          "Líquidos inflamables , n.o.s. (Heptanes, Isopropyl alcohol), CONTAMINANTE MARINO"
+        ],
+        [
+          "transporte de las Naciones",
+          "(HEPTANOS)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Unidas"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Unidas"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Clase(s) relativas al transporte"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Clase(s) relativas al transporte"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Clase(s) relativas al transporte"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Clase",
+          "3"
+        ],
+        [
+          "",
+          "Riesgo secundario",
+          "-"
+        ],
+        [
+          "",
+          "Etiquetas",
+          "3"
+        ],
+        [
+          "Grupo de embalaje/envase,",
+          "",
+          "II"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "cuando aplique"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "cuando aplique"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Peligros para el medio ambiente"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Contaminante marino",
+          "Sí"
+        ],
+        [
+          "Precauciones especiales",
+          "",
+          "Leer las instrucciones de seguridad, la HDS y los procedimientos de emergencia antes de"
+        ],
+        [
+          "para el usuario",
+          "",
+          "manipular el producto."
+        ],
+        [
+          "Disposiciones especiales",
+          "",
+          "IB2, T7, TP1, TP8, TP28"
+        ],
+        [
+          "Excepciones de embalaje",
+          "",
+          "150"
+        ],
+        [
+          "Embalaje no a granel",
+          "",
+          "202"
+        ],
+        [
+          "Embalaje a granel",
+          "",
+          "242"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IATA"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "IATA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IATA"
+      ],
+      "zone": "main",
+      "text": "UN number UN1993"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IATA"
+      ],
+      "zone": "main",
+      "text": "UN proper shipping name Flammable liquid, n.o.s. (Heptanes, Isopropyl alcohol)"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Transport hazard class(es)"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Class",
+          "3"
+        ],
+        [
+          "",
+          "Subsidiary risk",
+          "-"
+        ],
+        [
+          "Packing group",
+          "",
+          "II"
+        ],
+        [
+          "Environmental hazards",
+          "",
+          "Yes"
+        ],
+        [
+          "ERG Code",
+          "",
+          "3H"
+        ],
+        [
+          "Special precautions for user",
+          "",
+          "Read safety instructions, SDS and emergency procedures before handling."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Other information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Other information"
+      ],
+      "zone": "main",
+      "text": "Passenger and cargo Forbidden"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "aircraft"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "aircraft"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "aircraft"
+      ],
+      "zone": "main",
+      "text": "Cargo aircraft only Allowed with restrictions."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IMDG"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "IMDG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IMDG"
+      ],
+      "zone": "main",
+      "text": "UN number UN1993\nUN proper shipping name FLAMMABLE LIQUID, N.O.S. (Heptanes, Isopropyl alcohol), MARINE POLLUTANT (Heptanes)"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Transport hazard class(es)"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Class",
+          "3"
+        ],
+        [
+          "",
+          "Subsidiary risk",
+          "-"
+        ],
+        [
+          "Packing group",
+          "",
+          "II"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Environmental hazards"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Environmental hazards"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Marine pollutant",
+          "Yes"
+        ],
+        [
+          "EmS",
+          "",
+          "F-E, S̲ -E̲"
+        ],
+        [
+          "Special precautions for user",
+          "",
+          "Read safety instructions, SDS and emergency procedures before handling."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "DOT"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "DOT"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "IATA; IMDG"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "IATA; IMDG"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Contaminante marino"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Contaminante marino"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "14. Información relativa al transporte",
+        "Contaminante marino"
+      ],
+      "zone": "main",
+      "text": "Información general Contaminante marino reglamentado por el IMDG Contaminante Marino Regulado por el\nDepartamento de Transporte (DOT)."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "15. Información reguladora"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora"
+      ],
+      "zone": "main",
+      "text": "Reglamentos federales de Este producto es calificado como \"químicamente peligroso\" según el Estándar de Comunicación\nEE.UU. de Riesgos de la OSHA Hazard Communication Standard, 29 CFR 1910.1200."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "TSCA Section 12(b) Export Notification (40 CFR 707, Subapartado D) (Notificación de exportación)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "TSCA Section 12(b) Export Notification (40 CFR 707, Subapartado D) (Notificación de exportación)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "TSCA Section 12(b) Export Notification (40 CFR 707, Subapartado D) (Notificación de exportación)"
+      ],
+      "zone": "main",
+      "text": "No regulado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA Sección 304 Notificación de emergencia sobre la liberación de sustancias"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "SARA Sección 304 Notificación de emergencia sobre la liberación de sustancias"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA Sección 304 Notificación de emergencia sobre la liberación de sustancias"
+      ],
+      "zone": "main",
+      "text": "No regulado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "OSHA Sustancias específicas reguladas (29 CFR 1910.1001-1053)"
+      ],
+      "zone": "main",
+      "text": "No listado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Lista de sustancias peligrosas de CERCLA (40 CFR 302.4)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Lista de sustancias peligrosas de CERCLA (40 CFR 302.4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Lista de sustancias peligrosas de CERCLA (40 CFR 302.4)"
+      ],
+      "zone": "main",
+      "text": "No listado.\nCERCLA Lista de Sustancias Peligrosas : Cantidad reportable\nNo listado.\nLos derrames o liberaciones con pérdida de cualquier ingrediente en su RQ o en cantidades superiores requieren notificación\ninmediata al Centro Nacional de Respuesta (800-424-8802) y a su Comité Local de Planificación de Emergencias."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Otras disposiciones federales"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Otras disposiciones federales"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley de Aire Limpio (CAA), sección 112, lista de contaminantes peligrosos del aire (CPA)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Ley de Aire Limpio (CAA), sección 112, lista de contaminantes peligrosos del aire (CPA)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley de Aire Limpio (CAA), sección 112, lista de contaminantes peligrosos del aire (CPA)"
+      ],
+      "zone": "main",
+      "text": "No regulado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130) (Ley de aire limpio, Prevención de"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130) (Ley de aire limpio, Prevención de"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "liberación accidental)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "liberación accidental)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "liberación accidental)"
+      ],
+      "zone": "main",
+      "text": "No regulado.\nLey de Agua Potable Contiene componentes regulados según la Ley del agua potable segura."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Segura (SDWA, siglas en"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Segura (SDWA, siglas en"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "inglés)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "inglés)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "FEMA Sustancias Prioritarias para la Salud y Seguridad Respiratoria en el lugar de trabajo en la fabricación de"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "FEMA Sustancias Prioritarias para la Salud y Seguridad Respiratoria en el lugar de trabajo en la fabricación de"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "aromatizantes"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "aromatizantes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "aromatizantes"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0) Prioridad baja\nDirección de Alimentos y No regulado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Medicamentos de los EUA"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Medicamentos de los EUA"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "(FDA)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "(FDA)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley de Enmiendas y Reautorización del Superfondo de 1986 (SARA)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Ley de Enmiendas y Reautorización del Superfondo de 1986 (SARA)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley de Enmiendas y Reautorización del Superfondo de 1986 (SARA)"
+      ],
+      "zone": "main",
+      "text": "Categorías de peligro Inflamables (gases, aerosoles, líquidos o sólidos)\nclasificadas Corrosión/irritación cutánea\nLesión ocular grave/irritación ocular\nToxicidad específica del órgano blanco- (Exposición única o repetida)\nPeligro por aspiración\nPeligro no clasificado en otra parte (HNOC)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA 302 Sustancia extremadamente peligrosa"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "SARA 302 Sustancia extremadamente peligrosa"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA 302 Sustancia extremadamente peligrosa"
+      ],
+      "zone": "main",
+      "text": "No listado.\nSARA 311/312 Sustancias Sí"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "químicas peligrosas"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "químicas peligrosas"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA 313 (Reporte TRI, acerca del Inventario de liberación de sustancias tóxicas)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "SARA 313 (Reporte TRI, acerca del Inventario de liberación de sustancias tóxicas)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "SARA 313 (Reporte TRI, acerca del Inventario de liberación de sustancias tóxicas)"
+      ],
+      "zone": "main",
+      "text": "No regulado."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Regulaciones de un estado de EUA"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Regulaciones de un estado de EUA"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Estados Unidos. Listado de sustancias candidatas de California. Regulaciones sobre los Productos de Consumo más"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Estados Unidos. Listado de sustancias candidatas de California. Regulaciones sobre los Productos de Consumo más"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Seguros (Cal. Code Regs, tit. 22, 69502.3, subd. (a))"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Seguros (Cal. Code Regs, tit. 22, 69502.3, subd. (a))"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Seguros (Cal. Code Regs, tit. 22, 69502.3, subd. (a))"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0)\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)\nn-Heptano (CAS 142-82-5)\nsolvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley del derecho a la información de los trabajadores y la comunidad de Nueva Jersey, EUA"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Ley del derecho a la información de los trabajadores y la comunidad de Nueva Jersey, EUA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Ley del derecho a la información de los trabajadores y la comunidad de Nueva Jersey, EUA"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0)\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)\nn-Heptano (CAS 142-82-5)\nsolvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Massachusetts – Lista de sustancias"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Derecho a la información de Massachusetts – Lista de sustancias"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Massachusetts – Lista de sustancias"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0)\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Massachusetts – Lista de sustancias"
+      ],
+      "zone": "main",
+      "text": "No. 05186 (Item# 1003747) Indicación de la versión: 03 La fecha de revisión: 20-Diciembre-2021 Fecha de publicación: 01-Agosto-201910 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Massachusetts – Lista de sustancias"
+      ],
+      "zone": "main",
+      "text": "n-Heptano (CAS 142-82-5)\nsolvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "US. Ley del Derecho a la Información de los Trabajadores y la Comunidad de Pennsylvania"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "US. Ley del Derecho a la Información de los Trabajadores y la Comunidad de Pennsylvania"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "US. Ley del Derecho a la Información de los Trabajadores y la Comunidad de Pennsylvania"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0)\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)\nn-Heptano (CAS 142-82-5)\nsolvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Rhode Island, EUA"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Derecho a la información de Rhode Island, EUA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Derecho a la información de Rhode Island, EUA"
+      ],
+      "zone": "main",
+      "text": "Alcohol isopropílico (CAS 67-63-0)\nnafta ligera hidrotratada (petróleo) (CAS 64742-49-0)\nn-Heptano (CAS 142-82-5)\nsolvente, nafta (petróleo), alifáticos ligeros (CAS 64742-89-8)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Proposición 65 de California"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California"
+      ],
+      "zone": "main",
+      "text": "ATENCIÓN: Cáncer y Daño Reproductivo - www.P65Warnings.ca.gov"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/sustancia carcinogénica"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Proposición 65 de California - CRT: Fecha de Listado/sustancia carcinogénica"
+    },
+    {
+      "kind": "table",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/sustancia carcinogénica"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "benceno (CAS 71-43-2)",
+          "",
+          "Listado: 27 de febrero de 1987"
+        ],
+        [
+          "cumeno (CAS 98-82-8)",
+          "",
+          "Listado: 6 de abril de 2010"
+        ],
+        [
+          "etilbenceno (CAS 100-41-4)",
+          "",
+          "Listado: 11 de junio de 2004"
+        ],
+        [
+          "metil isobutil cetona (CAS 108-10-1)",
+          "Listado: 4 de noviembre de 2011",
+          ""
+        ],
+        [
+          "naftaleno (CAS 91-20-3)",
+          "",
+          "Listado: 19 de abril de 2002"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en la mujer"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en la mujer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en la mujer"
+      ],
+      "zone": "main",
+      "text": "benceno (CAS 71-43-2) Listado: 26 de diciembre de 1997\nMetanol (CAS 67-56-1) Listado: 16 de marzo de 2012\nmetil isobutil cetona (CAS 108-10-1) Listado: 28 de marzo de 2014\nTolueno (CAS 108-88-3) Listado: 1 de enero de 1991"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en el hombre"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en el hombre"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Proposición 65 de California - CRT: Fecha de Listado/Toxina para el desarrollo reproductivo en el hombre"
+      ],
+      "zone": "main",
+      "text": "benceno (CAS 71-43-2) Listado: 26 de diciembre de 1997\nn-hexano (CAS 110-54-3) Listado: 15 de diciembre de 2017"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Reglamentos de Compuestos Orgánicos Volátiles (COV)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Reglamentos de Compuestos Orgánicos Volátiles (COV)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Agencia de Protección Ambiental de los Estados Unidos de América (EPA)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Agencia de Protección Ambiental de los Estados Unidos de América (EPA)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Agencia de Protección Ambiental de los Estados Unidos de América (EPA)"
+      ],
+      "zone": "main",
+      "text": "Contenido de COV (40 100 %"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "CFR 51.100(s))"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "CFR 51.100(s))"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "CFR 51.100(s))"
+      ],
+      "zone": "main",
+      "text": "Productos de No regulado\nconsumo (40 CFR 59,"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "subparte C)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "subparte C)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Estado"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Estado"
+    },
+    {
+      "kind": "table",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Estado"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Productos de",
+          "Este producto está regulado como Limpiador de Frenos. This product is not compliant to be sold"
+        ],
+        [
+          "consumo",
+          "for use in California, Colorado, Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Maine, Maryland, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island and parts of Utah and Virginia. Este producto cumple con las normas de todos los demás estados."
+        ],
+        [
+          "Contenido de COV",
+          "100 %"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "(CA)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "(CA)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "(CA)"
+      ],
+      "zone": "main",
+      "text": "Contenido de COV 100 %"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "(OTC)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "(OTC)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Inventarios Internacionales"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "text": "País(es) o región Nombre del inventario Listado (sí/no)*\nAustralia Inventario Australiano de Sustancias químicas de la Industria No\n(AICIS)"
+    },
+    {
+      "kind": "table",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Canadá",
+          "Lista de Sustancias Nacionales (DSL)",
+          "Sí"
+        ],
+        [
+          "Canadá",
+          "Lista de Sustancias No Nacionales (NDSL)",
+          "No"
+        ],
+        [
+          "China",
+          "Inventario de Sustancias Químicas Existentes en China (IECSC, Inventory of Existing Chemical Substances in China)",
+          "No"
+        ],
+        [
+          "Europa",
+          "Inventario Europeo de Sustancias Químicas Comerciales (EINECS)",
+          "No"
+        ],
+        [
+          "Europa",
+          "Lista Europea de Sustancias Químicas Notificadas (ELINCS)",
+          "No"
+        ],
+        [
+          "Japón",
+          "Inventario de Sustancias Químicas Nuevas y Existentes (ENCS)",
+          "No"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "text": "No. 05186 (Item# 1003747) Indicación de la versión: 03 La fecha de revisión: 20-Diciembre-2021 Fecha de publicación: 01-Agosto-201911 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "text": "País(es) o región Nombre del inventario Listado (sí/no)*"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Corea",
+          "",
+          "",
+          "Lista de Sustancias Químicas Existentes (ECL)",
+          "Sí"
+        ],
+        [
+          "Nueva Zelanda",
+          "",
+          "Inventario de Nueva Zelanda",
+          "",
+          "No"
+        ],
+        [
+          "Filipinas",
+          "",
+          "",
+          "Inventario de Sustancias Químicas de Filipinas (PICCS)",
+          "Sí"
+        ],
+        [
+          "Taiwán",
+          "",
+          "",
+          "Inventario de Sustancias Químicas de Taiwán (TCSI)",
+          "Sí"
+        ],
+        [
+          "Estados Unidos y Puerto Rico",
+          "Inventario de la Ley del Control de Sustancias Tóxicas (TSCA)",
+          "",
+          "",
+          "Sí"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "15. Información reguladora",
+        "Inventarios Internacionales"
+      ],
+      "zone": "main",
+      "text": "*Un \"Sí\" indica que todos los componentes de este producto cumplen con los requisitos del inventario administrado por el(los) país(es)\nresponsable(s)\nUn \"No\" indica que uno o más componentes del producto no están listados o están exentos de los requisitos del inventario administrado por\nel(los) país(es) responsable(s)."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la",
+        "HDS"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "HDS"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la",
+        "HDS"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "La fecha de emisión",
+          "01-Agosto-2019"
+        ],
+        [
+          "La fecha de revisión",
+          "20-Diciembre-2021"
+        ],
+        [
+          "Preparado por",
+          "Danica Fulmer"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la",
+        "HDS"
+      ],
+      "zone": "main",
+      "text": "Indicación de la versión 03"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la",
+        "HDS"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Información adicional",
+          "CRC # 937A/1002953"
+        ],
+        [
+          "Cláusula de exención de",
+          "La información que este documento contiene se refiere al material específico como fue"
+        ],
+        [
+          "responsabilidad",
+          "suministrado. Podrá no ser válida para este material si se lo usa combinado con cualquier otro material. Al mejor entender de CRC, esta información es precisa o ha sido obtenida de fuentes que CRC considera precisas. Antes de utilizar cualquier producto, lea todas las advertencias e instrucciones en la etiqueta. Para mayores aclaraciones sobre cualquier información contenida en esta (M)SDS, consulte a su supervisor, un profesional de salud y seguridad o CRC Industries, Inc.."
+        ],
+        [
+          "Fecha de revisión",
+          "Este documento ha sido sometido a importantes modificaciones y deberá ser revisado en su totalidad."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "16. Otras informaciones, incluida información sobre la fecha de preparación o última revisión de la",
+        "HDS"
+      ],
+      "zone": "main",
+      "text": "No. 05186 (Item# 1003747) Indicación de la versión: 03 La fecha de revisión: 20-Diciembre-2021 Fecha de publicación: 01-Agosto-201912 / 12"
+    }
+  ]
+}

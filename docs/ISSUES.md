@@ -3,6 +3,22 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-006: Known limits of the document cleaning rules
+- **Date / task:** 2026-11-18, S2-04 cleaning and deduplication
+- **Problem:** The cleaning rules leave a few known defects in `data/cleaned/`:
+  - D010 and D038 have lines where the PDF parser mixed two columns. About 9 line-end hyphen repairs therefore involve unrelated word parts, such as `наслід-` + `пеки` in D010.
+  - One word split across a page break (D010, pages 11-12) is not rejoined.
+  - 18 `word- word` cases in lists and tables stay as they are. Most are real forms such as `Montage- und`, and a few are wrapped words such as `pre- approved`.
+  - D026 keeps its repeated company address, because the line is at the page edge on only 2 of its 3 pages.
+  - D063 page 2 had a `U+0001` character before `0,1%`. Its meaning cannot be recovered, so it is deleted and listed in `data/cleaned/removed.csv`.
+- **Options considered:**
+  - Fix the column mixing in the PDF parser. This is the real fix for D010 and D038, but it changes S2-03 output for every PDF.
+  - Add document-specific exceptions. This hides the defects and does not carry over to new documents.
+  - Accept and record the defects.
+- **Current selection:** accept and record them. They affect a small share of the 69 documents, and `make clean-corpus` reports every removal.
+- **Revisit if:** retrieval errors in S2-10 or the error analysis in S2-21 trace back to D010 or D038.
+- **Status:** accepted.
+
 ## I-005: The JSON schema allows a concentration with neither min nor max
 - **Date / task:** 2026-10-21, local model bake-off
 - **Problem:** `ValueRange` requires at least one of `min` and `max` through a Pydantic validator. That rule is not in the JSON schema sent to the models, where both are simply nullable. So constrained decoding (Ollama `format`, OpenRouter `strict`) cannot enforce it. In the bake-off, `gemma4:e4b` and `gemma4:12b` both returned `{"min": null, "max": null}` for a D007 (uk) component, and the reply was marked `invalid`.

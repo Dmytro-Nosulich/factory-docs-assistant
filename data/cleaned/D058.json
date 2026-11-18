@@ -1,0 +1,1155 @@
+{
+  "doc_id": "D058",
+  "format": "pdf",
+  "page_count": 5,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "93d2e8d2fc3b9020a442db3ad2ff49429c2b5c14016f99a6dd43f1aa8572058e",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Date Printed: 12/14/2017 Page 1 / 5"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Safety Data Sheet"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Safety Data Sheet",
+        "* Trusted Quality Since 1921 *"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "* Trusted Quality Since 1921 *"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Safety Data Sheet",
+        "www.rustoleum.com"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "www.rustoleum.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "1. Identification"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "text": "Product Name: R-O 2OZ 4PK MTLLC RICH BROWN TS Revision Date: 12/14/2017"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "text": "Product Identifier: 255331 Supercedes Date: New SDS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "text": "Product Use/Class: Metallic Paint"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Supplier:",
+          "Rust-Oleum Corporation",
+          "Manufacturer:",
+          "Rust-Oleum Corporation"
+        ],
+        [
+          "",
+          "11 Hawthorn Parkway",
+          "",
+          "11 Hawthorn Parkway"
+        ],
+        [
+          "",
+          "Vernon Hills, IL  60061",
+          "",
+          "Vernon Hills, IL  60061"
+        ],
+        [
+          "",
+          "USA",
+          "",
+          "USA"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "text": "Preparer: Regulatory Department"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "text": "Emergency Telephone: 24 Hour Hotline: 847-367-7700"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "2. Hazard Identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Classification"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Classification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Symbol(s) of Product"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Symbol(s) of Product"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Signal Word"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Signal Word"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Signal Word"
+      ],
+      "zone": "main",
+      "text": "Warning"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Possible Hazards"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Possible Hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "Possible Hazards"
+      ],
+      "zone": "main",
+      "text": "8% of the mixture consists of ingredient(s) of unknown acute toxicity."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS HAZARD STATEMENTS"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "GHS HAZARD STATEMENTS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS HAZARD STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicity, category 2 H351 Suspected of causing cancer."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "GHS LABEL PRECAUTIONARY STATEMENTS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "P201 Obtain special instructions before use."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "P280 Wear protective gloves/protective clothing/eye protection/face protection."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "P308+P313 IF exposed or concerned: Get medical advice/attention."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "P405 Store locked up."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard Identification",
+        "GHS LABEL PRECAUTIONARY STATEMENTS"
+      ],
+      "zone": "main",
+      "text": "P501 Dispose of contents/container in accordance with local, regional and national regulations."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition / Information On Ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "3. Composition / Information On Ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "HAZARDOUS SUBSTANCES"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "HAZARDOUS SUBSTANCES"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "HAZARDOUS SUBSTANCES"
+      ],
+      "zone": "main",
+      "text": "Chemical Name CAS-No. Wt.% GHS Symbols GHS Statements"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Range"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Mica 12001-26-2 2.5-10 Not Available Not Available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Titanium Dioxide 13463-67-7 1.0-2.5 Not Available Not Available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Carbon Black 1333-86-4 1.0-2.5 Not Available Not Available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Vinyl Acetate 108-05-4 0.1-1.0 GHS02-GHS07- H225-332-335-351\nGHS08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Distillates (Petroleum) Solvent-Dewaxed Heavy 64742-65-0 0.1-1.0 Not Available Not Available\nParaffinic"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "3. Composition / Information On Ingredients",
+        "Range"
+      ],
+      "zone": "main",
+      "text": "Solvent Naphtha, Light Aromatic 64742-95-6 0.1-1.0 GHS07-GHS08 H304-332"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-Aid Measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "4. First-Aid Measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-Aid Measures"
+      ],
+      "zone": "main",
+      "text": "FIRST AID - EYE CONTACT: Immediately flush eyes with plenty of water for at least 15 minutes holding eyelids open. Get medical\nattention. Do NOT allow rubbing of eyes or keeping eyes closed.\nFIRST AID - SKIN CONTACT: Wash skin with soap and water. Remove contaminated clothing. Get medical attention if irritation\ndevelops or persists.\nFIRST AID - INHALATION: Remove to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Get\nimmediate medical attention. Do NOT use mouth-to-mouth resuscitation. If you experience difficulty in breathing, leave the area to\nobtain fresh air. If continued difficulty is experienced, get medical assistance immediately.\nFIRST AID - INGESTION: Swallowing less than an ounce will not cause significant harm. For larger amounts, do not induce\nvomiting, but give one or two glasses of water to drink and get medical attention. If swallowed, rinse mouth with water. If feeling\nunwell, get medical attention."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-Fighting Measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "5. Fire-Fighting Measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-Fighting Measures"
+      ],
+      "zone": "main",
+      "text": "EXTINGUISHING MEDIA: None Known"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-Fighting Measures"
+      ],
+      "zone": "main",
+      "text": "UNUSUAL FIRE AND EXPLOSION HAZARDS: No unusual fire or explosion hazards noted. Keep containers tightly closed. FLASH\nPOINT IS TESTED TO BE GREATER THAN 200 DEGREES F.\nSPECIAL FIREFIGHTING PROCEDURES: Water may be used to cool closed containers to prevent buildup of steam. If water is\nused, fog nozzles are preferred."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-Fighting Measures",
+        "Special Fire and Explosion Hazard (Combustible Dust): No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Special Fire and Explosion Hazard (Combustible Dust): No Information"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental Release Measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "6. Accidental Release Measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "6. Accidental Release Measures"
+      ],
+      "zone": "main",
+      "text": "STEPS TO BE TAKEN IF MATERIAL IS RELEASED OR SPILLED: If spilled, contain spilled material and remove with inert\nabsorbent. Dispose of contaminated absorbent, container, and unused contents in accordance with local, state, and federal\nregulations. Do not incinerate closed containers"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "7. Handling and Storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "7. Handling and Storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "7. Handling and Storage"
+      ],
+      "zone": "main",
+      "text": "HANDLING: Wash thoroughly after handling. Wash hands before eating. Remove contaminated clothing and launder before reuse.\nUse only with adequate ventilation. Follow all SDS and label precautions even after container is emptied because it may retain\nproduct residues. Avoid breathing fumes, vapors, or mist. Avoid contact with eyes, skin and clothing.\nSTORAGE: Store in a dry, well ventilated place. Keep container tightly closed when not in use."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "7. Handling and Storage",
+        "Advice on Safe Handling of Combustible Dust: No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Advice on Safe Handling of Combustible Dust: No Information"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "8. Exposure Controls / Personal Protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection"
+      ],
+      "zone": "main",
+      "text": "Chemical Name CAS-No. Weight % ACGIH TLV- ACGIH TLV- OSHA PEL-TWA OSHA PEL-Less Than TWA STEL CEILING"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Mica",
+          "12001-26-2",
+          "10.0",
+          "3 mg/m3",
+          "N.E.",
+          "",
+          "N.E.",
+          "N.E."
+        ],
+        [
+          "Titanium Dioxide",
+          "13463-67-7",
+          "5.0",
+          "10 mg/m3",
+          "N.E.",
+          "15 mg/m3",
+          "",
+          "N.E."
+        ],
+        [
+          "Carbon Black",
+          "1333-86-4",
+          "5.0",
+          "3 mg/m3",
+          "N.E.",
+          "3.5 mg/m3",
+          "",
+          "N.E."
+        ],
+        [
+          "Vinyl Acetate",
+          "108-05-4",
+          "1.0",
+          "10 ppm",
+          "15 ppm",
+          "",
+          "N.E.",
+          "N.E."
+        ],
+        [
+          "Distillates (Petroleum) Solvent-",
+          "64742-65-0",
+          "1.0",
+          "N.E.",
+          "N.E.",
+          "",
+          "N.E.",
+          "N.E."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection"
+      ],
+      "zone": "main",
+      "text": "Dewaxed Heavy Paraffinic\nSolvent Naphtha, Light 64742-95-6 1.0 N.E. N.E. N.E. N.E.\nAromatic"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection",
+        "PERSONAL PROTECTION"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "PERSONAL PROTECTION"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection",
+        "PERSONAL PROTECTION"
+      ],
+      "zone": "main",
+      "text": "ENGINEERING CONTROLS: Use process enclosures, local exhaust ventilation, or other engineering controls to control airborne\nlevels below recommended exposure limits. Prevent build-up of vapors by opening all doors and windows to achieve cross-ventilation.\nRESPIRATORY PROTECTION: A respiratory protection program that meets OSHA 1910.134 and ANSI Z88.2 requirements must be\nfollowed whenever workplace conditions warrant a respirator's use.\nSKIN PROTECTION: Use gloves to prevent prolonged skin contact. Nitrile or Neoprene gloves may afford adequate skin protection.\nEYE PROTECTION: Use safety eyewear designed to protect against splash of liquids.\nOTHER PROTECTIVE EQUIPMENT: Refer to safety supervisor or industrial hygienist for further guidance regarding types of\npersonal protective equipment and their applications.\nHYGIENIC PRACTICES: Wash thoroughly with soap and water before eating, drinking or smoking. Remove contaminated clothing\nimmediately and launder before reuse."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure Controls / Personal Protection",
+        "Engineering Measures for Combustible Dust: No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Engineering Measures for Combustible Dust: No Information"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "9. Physical and Chemical Properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "9. Physical and Chemical Properties"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "9. Physical and Chemical Properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Appearance:",
+          "Liquid",
+          "Physical State:",
+          "Liquid"
+        ],
+        [
+          "Odor:",
+          "Solvent Like",
+          "Odor Threshold:",
+          "N.E."
+        ],
+        [
+          "Relative Density:",
+          "1.129",
+          "pH:",
+          "N.D."
+        ],
+        [
+          "Freeze Point,  °C:",
+          "N.D.",
+          "Viscosity:",
+          "N.D."
+        ],
+        [
+          "Solubility in Water:",
+          "Miscible",
+          "Partition Coefficient, n-octanol/",
+          "N.D."
+        ],
+        [
+          "Decompostion Temp., °C:",
+          "N.D.",
+          "water:",
+          ""
+        ],
+        [
+          "Boiling Range, °C:",
+          "93 - 537",
+          "Explosive Limits, vol%:",
+          "2.6 - 12.6"
+        ],
+        [
+          "Flammability:",
+          "Does not Support Combustion",
+          "Flash Point, °C:",
+          "94"
+        ],
+        [
+          "Evaporation Rate:",
+          "Slower than Ether",
+          "Auto-ignition Temp., °C:",
+          "N.D."
+        ],
+        [
+          "Vapor Density:",
+          "Heavier than Air",
+          "Vapor Pressure:",
+          "N.D."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "9. Physical and Chemical Properties"
+      ],
+      "zone": "main",
+      "text": "(See \"Other information\" Section for abbreviation legend)"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10. Stability and Reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "10. Stability and Reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10. Stability and Reactivity",
+        "CONDITIONS TO AVOID: No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "CONDITIONS TO AVOID: No Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "10. Stability and Reactivity",
+        "CONDITIONS TO AVOID: No Information"
+      ],
+      "zone": "main",
+      "text": "INCOMPATIBILITY: Incompatible with strong oxidizing agents, strong acids and strong alkalies.\nHAZARDOUS DECOMPOSITION: When heated to decomposition, it emits acrid smoke and irritating fumes.\nHAZARDOUS POLYMERIZATION: Will not occur under normal conditions.\nSTABILITY: This product is stable under normal storage conditions."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "11. Toxicological Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "11. Toxicological Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "11. Toxicological Information"
+      ],
+      "zone": "main",
+      "text": "EFFECTS OF OVEREXPOSURE - EYE CONTACT: Irritating, and may injure eye tissue if not removed promptly.\nEFFECTS OF OVEREXPOSURE - SKIN CONTACT: Low hazard for usual industrial handling or commercial handling by trained\npersonnel.\nEFFECTS OF OVEREXPOSURE - INHALATION: High gas, vapor, mist or dust concentrations may be harmful if inhaled. Avoid\nbreathing fumes, spray, vapors, or mist.\nEFFECTS OF OVEREXPOSURE - INGESTION: Substance may be harmful if swallowed.\nEFFECTS OF OVEREXPOSURE - CHRONIC HAZARDS: Contains Titanium Dioxide. Titanium Dioxide is listed as a Group\n2B-\"Possibly carcinogenic to humans\" by IARC. No significant exposure to Titanium Dioxide is thought to occur during the use of\nproducts in which Titanium Dioxide is bound to other materials, such as in paints during brush application or drying. Risk of\noverexposure depends on duration and level of exposure to dust from repeated sanding of surfaces or spray mist and the actual\nconcentration of Titanium Dioxide in the formula. (Ref: IARC Monograph, Vol. 93, 2010)Contains residual amounts of vinyl acetate.\nIARC list vinyl acetate as a possible human carcinogen (Group 2B). This means there is inadequate evidence of carcinogenicity of"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information"
+      ],
+      "zone": "main",
+      "text": "vinyl acetate in humans and limited evidence of vinyl acetate in experimental animals. Risk of cancer depends on duration and\nexposure and actual concentration of vinyl acetate in the formula. Contains carbon black. Chronic inflammation, lung fibrosis, and\nlung tumors have been observed in some rats experimentally exposed for long periods of time to excessive concentrations of carbon\nblack and several insoluble fine dust particles. Tumors have not been observed in other animal species (i.e., mouse and hamster)\nunder similar circumstances and study conditions. Epidemiological studies of North American workers show no evidence of clinically\nsignificant adverse health effects due to occupational exposure to carbon black."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information"
+      ],
+      "zone": "main",
+      "text": "Carbon black is listed as a Group 2B-\"Possibly carcinogenic to humans\" by IARC and is proposed to be listed as A4- \"not classified\nas a human carcinogen\" by the American Conference of Governmental Industrial Hygienists. Significant exposure is not anticipated\nduring brush application or drying. Risk of overexposure depends on duration and level of exposure to dust from repeated sanding of\nsurfaces or spray mist and the actual concentration of carbon black in the formula."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information",
+        "PRIMARY ROUTE(S) OF ENTRY: No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "PRIMARY ROUTE(S) OF ENTRY: No Information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information",
+        "ACUTE TOXICITY VALUES"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "ACUTE TOXICITY VALUES"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information",
+        "ACUTE TOXICITY VALUES"
+      ],
+      "zone": "main",
+      "text": "The acute effects of this product have not been tested. Data on individual components are tabulated below:"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information",
+        "ACUTE TOXICITY VALUES"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "CAS-No.",
+          "Chemical Name",
+          "",
+          "Oral LD50",
+          "",
+          "Dermal LD50",
+          "",
+          "Vapor LC50",
+          ""
+        ],
+        [
+          "13463-67-7",
+          "Titanium Dioxide",
+          ">10000 mg/kg Rat",
+          "",
+          "",
+          "2500 mg/kg",
+          "",
+          "",
+          "N.E."
+        ],
+        [
+          "1333-86-4",
+          "Carbon Black",
+          ">15400 mg/kg Rat",
+          "",
+          "",
+          "",
+          "N.E.",
+          "",
+          "N.E."
+        ],
+        [
+          "108-05-4",
+          "Vinyl Acetate",
+          "2900 mg/kg Rat",
+          "",
+          "2335 mg/kg Rabbit",
+          "",
+          "",
+          "11.4 mg/L Rat",
+          ""
+        ],
+        [
+          "64742-65-0",
+          "Distillates (Petroleum) Solvent-Dewaxed Heavy Paraffinic",
+          ">15000 mg/kg Rat",
+          "",
+          ">5000 mg/kg Rabbit",
+          "",
+          "",
+          "",
+          "21 mg/L"
+        ],
+        [
+          "64742-95-6",
+          "Solvent Naphtha, Light Aromatic",
+          "8400 mg/kg Rat",
+          "",
+          ">2000 mg/kg Rabbit",
+          "",
+          "",
+          "",
+          "N.E."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "11. Toxicological Information",
+        "ACUTE TOXICITY VALUES"
+      ],
+      "zone": "main",
+      "text": "N.E. - Not Established"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "12. Ecological Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "12. Ecological Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "12. Ecological Information"
+      ],
+      "zone": "main",
+      "text": "ECOLOGICAL INFORMATION: Product is a mixture of listed components."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "13. Disposal Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "13. Disposal Information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "13. Disposal Information",
+        "DISPOSAL INFORMATION: No Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "DISPOSAL INFORMATION: No Information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "14. Transport Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "14. Transport Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "14. Transport Information"
+      ],
+      "zone": "main",
+      "text": "Domestic (USDOT) International (IMDG) Air (IATA) TDG (Canada)\nUN Number: N.A. N.A. N.A. N.A."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "14. Transport Information"
+      ],
+      "zone": "main",
+      "text": "Proper Shipping Name: Not Regulated Not Regulated Not Regulated Not Regulated"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "14. Transport Information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Hazard Class:",
+          "N.A.",
+          "N.A.",
+          "N.A.",
+          "N.A."
+        ],
+        [
+          "Packing Group:",
+          "N.A.",
+          "N.A.",
+          "N.A.",
+          "N.A."
+        ],
+        [
+          "Limited Quantity:",
+          "No",
+          "No",
+          "No",
+          "No"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "15. Regulatory Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "15. Regulatory Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "15. Regulatory Information"
+      ],
+      "zone": "main",
+      "text": "U.S. Federal Regulations:"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "15. Regulatory Information",
+        "CERCLA - SARA Hazard Category"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "CERCLA - SARA Hazard Category"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "15. Regulatory Information",
+        "CERCLA - SARA Hazard Category"
+      ],
+      "zone": "main",
+      "text": "This product has been reviewed according to the EPA ‘Hazard Categories’ promulgated under Sections 311 and 312 of the\nSuperfund Amendment and Reauthorization Act of 1986 (SARA Title III) and is considered, under applicable definitions, to\nmeet the following categories:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "15. Regulatory Information",
+        "CERCLA - SARA Hazard Category"
+      ],
+      "zone": "main",
+      "text": "No Information\nSara Section 313:\nThis product contains the following substances subject to the reporting requirements of Section 313 of Title III of the\nSuperfund Amendment and Reauthorization Act of 1986 and 40 CFR part 372:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "15. Regulatory Information",
+        "CERCLA - SARA Hazard Category"
+      ],
+      "zone": "main",
+      "text": "Chemical Name CAS-No.\nVinyl Acetate 108-05-4\nToxic Substances Control Act:\nThis product contains the following chemical substances subject to the reporting requirements of TSCA 12(b) if exported from\nthe United States:\nNo TSCA 12(b) components exist in this product."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "16. Other Information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "16. Other Information"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "HMIS RATINGS"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "HMIS RATINGS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "HMIS RATINGS"
+      ],
+      "zone": "main",
+      "text": "Health: 1* Flammability: 1 Physical Hazard: 0 Personal Protection: X"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "NFPA RATINGS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "text": "Health: 1 Flammability: 1 Instability 0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "text": "VOLATILE ORGANIC COMPOUNDS, g/L: 284"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "text": "SDS REVISION DATE: 12/14/2017"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "text": "REASON FOR REVISION:\nLegend: N.A. - Not Applicable, N.E. - Not Established, N.D. - Not Determined"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "16. Other Information",
+        "NFPA RATINGS"
+      ],
+      "zone": "main",
+      "text": "Rust-Oleum Corporation believes, to the best of its knowledge, information and belief, the information contained herein to be\naccurate and reliable as of the date of this safety data sheet. However, because the conditions of handling, use, and storage of\nthese materials are beyond our control, we assume no responsibility or liability for personal injury or property damage incurred by\nthe use of these materials. Rust-Oleum Corporation makes no warranty, expressed or implied, regarding the accuracy or\nreliability of the data or results obtained from their use. All materials may present unknown hazards and should be used with\ncaution. The information and recommendations in this material safety data sheet are offered for the users’ consideration and\nexamination. It is the responsibility of the user to determine the final suitability of this information and to comply with all applicable\ninternational, federal, state, and local laws and regulations."
+    }
+  ]
+}

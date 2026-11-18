@@ -1,0 +1,3646 @@
+{
+  "doc_id": "D073",
+  "format": "docx",
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "a9aae0d9b84b044d5efcb6146b07f113a982eade504756fc94a7b580d40f4cf4",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Additional 2021 MSGP Documentation Template"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "After you become permitted under the 2021 Multi-Sector General Permit (MSGP), you are required to keep certain minimum records (or documentation) as part of the implementation of your permit responsibilities. As required in Part 6.5 of the 2021 MSGP, these records must be kept in the same place your Stormwater Pollution Prevention Plan (SWPPP) (which you completed prior to submitting your Notice of Intent [NOI] to be covered) is kept. This “Additional MSGP Documentation Template” (or “Template”) will assist you in complying with this requirement."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Using the Additional MSGP Documentation Template"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Tips for using the Template:"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "This Template is designed for use by all facilities permitted under the 2021 MSGP. The Template is NOT tailored to your individual industrial sector. Depending on which industrial sector(s) you fall under (see Appendix D - Facilities and Activities Covered of the 2021 MSGP) and where your facility is located (see Appendix C - Areas Eligible for Coverage of the 2021 MSGP), you will need to address any additional documentation requirements outlined in Part 8 (Sector Specific Requirements) and/or Part 9 (Conditions Applicable to States, Indian Country Lands, or Territories 401 Certifications) of the permit, respectively.",
+          "depth": 0
+        },
+        {
+          "text": "Each section of the template includes “instructions” and space for your facility’s specific information. You should read the instructions before you complete each section. The text you will need to complete is generally indicated through the use of blue form fields (e.g., “Insert Facility Name”). Click on the form field and your text will replace the instructional text.",
+          "depth": 0
+        },
+        {
+          "text": "The Template was developed in Microsoft Word so that you can easily add tables and additional text.",
+          "depth": 0
+        },
+        {
+          "text": "Because many of the activities you are required to document occur throughout the permit term, you will need to continually modify and add records to this Template. You may wish to create separate electronic files for each category of documentation (e.g., files for monitoring, employee training, etc.) so that they can be easily modified.",
+          "depth": 0
+        },
+        {
+          "text": "The records you create using this Template must be kept in the same location as your SWPPP (2021 MSGP Part 6.5).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "The United States Environmental Protection Agency (EPA) notes that while EPA has made every effort to ensure the accuracy of all instructions and guidance contained in the Template, the actual obligations of regulated industrial facilities are determined by the relevant provisions of the 2021 MSGP, not by the Template. In the event of a conflict between the Template and any corresponding provision of the 2021 MSGP, the permit provisions establish your actual requirements. EPA welcomes comments on the Template at any time and will consider those comments in any future revision of this document. Please submit comments to MSGP@epa.gov and reference the “Additional 2021 MSGP Documentation Template.”"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Page Intentionally Blank"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Additional MSGP Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "for:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Name"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Address"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert City, State, Zip Code"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Telephone Number (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert NPDES ID"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Page Intentionally Blank"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Keep the following inspection, corrective action, monitoring, and certification records in the same location that you keep your SWPPP:",
+          "depth": 0
+        },
+        {
+          "text": "A copy of the NOI submitted to EPA along with any correspondence exchanged between you and EPA specific to coverage under this permit (you should already have this);",
+          "depth": 0
+        },
+        {
+          "text": "A copy of the authorization email you receive from the EPA assigning your NPDES ID (you should already have this);",
+          "depth": 0
+        },
+        {
+          "text": "A copy of the 2021 MSGP (either a hard copy or an electronic copy easily available to SWPPP personnel);",
+          "depth": 0
+        },
+        {
+          "text": "Documentation of maintenance and repairs of stormwater control measures and industrial equipment and systems, including the date(s) of regular maintenance, date(s) of discovery of areas in need of repair/replacement, and for repairs, date(s) that the control measure(s)/industrial equipment/system(s) returned to full function, and the justification for any extended maintenance/repair schedules (see Part 2.1.2.3);",
+          "depth": 0
+        },
+        {
+          "text": "All inspection reports, including the Routine Facility Inspection Reports (see Part 3.1.6) and Visual Assessment Documentation (see Part 3.2.3);",
+          "depth": 0
+        },
+        {
+          "text": "Description of any deviations from the schedule for visual assessments and/or monitoring, and the reason for the deviations (e.g., adverse weather or it was impracticable to collect samples within the first 30 minutes of a measurable storm event) (see Parts 3.2.4 and 4.1.5);",
+          "depth": 0
+        },
+        {
+          "text": "Corrective action documentation required per Part 5.1;",
+          "depth": 0
+        },
+        {
+          "text": "Documentation of any benchmark threshold exceedances, which AIM Level triggering event the exceedance caused, and AIM response employed per Part 5.2, including:",
+          "depth": 0
+        },
+        {
+          "text": "The AIM triggering event;",
+          "depth": 1
+        },
+        {
+          "text": "The AIM response taken;",
+          "depth": 1
+        },
+        {
+          "text": "Any rationale that SWPPP/SCM changes were unnecessary; or",
+          "depth": 1
+        },
+        {
+          "text": "Any documentation required to meet any AIM exception per Part 5.2.6;",
+          "depth": 1
+        },
+        {
+          "text": "Documentation to support any determination that pollutants of concern are not expected to be present above natural background levels if you discharge directly to impaired waters, and that such pollutants were not detected in your discharge after three years or were solely attributable to natural background sources (see Part 4.2.5.1); and",
+          "depth": 0
+        },
+        {
+          "text": "Documentation to support your claim that your facility has changed its status from active to inactive and unstaffed with respect to the requirements to conduct routine facility inspections (see Part 3.1.5), quarterly visual assessments (see Part 3.2.4.4), benchmark monitoring (see Part 4.2.2.4), and/or impaired waters monitoring (see Part 4.2.5.2).",
+          "depth": 0
+        },
+        {
+          "text": "With the exception of the first three items, these are records that you will be updating throughout the permit term. Follow the instructions in Sections A through L of this template to keep your records complete.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "A. Employee Training"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Keep records of employee training, including the date of the training (see Parts 2.1.2.8 and 6.2.5.1.e of the 2021 MSGP).",
+          "depth": 0
+        },
+        {
+          "text": "For in-person training, consider using the tables below to document your employee trainings. For computer-based or other types of training, keep similar records on who was trained, the training date, and the type of training conducted.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Training Date: Insert Date of Training",
+          "Training Date: Insert Date of Training"
+        ],
+        [
+          "Training Description: Insert Description of Training",
+          "Training Description: Insert Description of Training"
+        ],
+        [
+          "Trainer(s): Insert Trainer Name(s)",
+          "Trainer(s): Insert Trainer Name(s)"
+        ],
+        [
+          "Employee(s) Trained:",
+          "Employee Signature"
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Training Date: Insert Date of Training",
+          "Training Date: Insert Date of Training"
+        ],
+        [
+          "Training Description: Insert Description of Training",
+          "Training Description: Insert Description of Training"
+        ],
+        [
+          "Trainer(s): Insert Trainer Name(s)",
+          "Trainer(s): Insert Trainer Name(s)"
+        ],
+        [
+          "Employee(s) Trained:",
+          "Employee Signature"
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "A. Employee Training"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Training Date: Insert Date of Training",
+          "Training Date: Insert Date of Training"
+        ],
+        [
+          "Training Description: Insert Description of Training",
+          "Training Description: Insert Description of Training"
+        ],
+        [
+          "Trainer(s): Insert Trainer Name(s)",
+          "Trainer(s): Insert Trainer Name(s)"
+        ],
+        [
+          "Employee(s) Trained:",
+          "Employee Signature"
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ],
+        [
+          "Insert Name",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "B. Maintenance"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Include in your records documentation of maintenance and repairs of stormwater control measures and industrial equipment and systems (see Part 2.1.2.3 and 6.5), including:",
+          "depth": 0
+        },
+        {
+          "text": "the control measure(s)/equipment/system(s) maintained,",
+          "depth": 0
+        },
+        {
+          "text": "date(s) of regular maintenance,",
+          "depth": 0
+        },
+        {
+          "text": "date(s) of discovery of areas in need of repair/replacement, and for repairs, date(s) that the control measure(s)/equipment/system(s) returned to full function, and",
+          "depth": 0
+        },
+        {
+          "text": "the justification for any extended maintenance/repair schedules and the notification to your EPA Region that you need an extension past 45 days to complete repairs/maintenance.",
+          "depth": 0
+        },
+        {
+          "text": "As a reminder:",
+          "depth": 0
+        },
+        {
+          "text": "you are required to immediately take all reasonable steps to prevent or minimize the discharge of pollutants until the final repair or replacement is implemented.",
+          "depth": 0
+        },
+        {
+          "text": "final repair/replacements of stormwater controls should be completed as soon as feasible but no later than 14 days, or if that is infeasible within 45 days.",
+          "depth": 0
+        },
+        {
+          "text": "if the completion of stormwater control measure/equipment/system repairs/replacement will exceed the 45 day timeframe, you may take the minimum additional time necessary to complete the maintenance, provided that you notify the EPA Regional Office of your intention to exceed 45 days and document your rationale for your modified maintenance timeframe in your SWPPP.",
+          "depth": 0
+        },
+        {
+          "text": "Provide information, as shown below, to document your maintenance activities for each stormwater control measure and industrial equipment/system. Repeat as necessary by copying and pasting the information below for additional stormwater control measures and industrial equipment/systems.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Note that maintenance documentation in this section is separate from corrective action and AIM documentation required in Part 5.3 of the 2021 MSGP. For any condition or event triggering the need for corrective action review and/or AIM response you must include documentation in section G of this Template."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Stormwater Control Measure Maintenance Records (copy information below for each stormwater control measure)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Stormwater Control Measure: Insert Name of Stormwater Control Measure"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Regular Maintenance Activities: Describe Maintenance Activities"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Regular Maintenance Schedule: Insert Maintenance Schedule"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Control Measure Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Industrial Equipment and Systems Maintenance Records (copy information below for each industrial equipment/system)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Industrial Equipment/System: Insert Name of Industrial Equipment/System"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Regular Maintenance Activities: Describe Maintenance Activities"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Regular Maintenance Schedule: Insert Maintenance Schedule"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Date of Maintenance Action: Insert Date of Action"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Reason for Action: ☐ Regular Maintenance ☐ Discovery of Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "If Problem,"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Description of Action Required: Describe Actions Taken in Response to Problem"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Date Industrial Equipment Returned to Full Function: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "- Justification for Extended Schedule, if applicable: Insert Justification (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "B. Maintenance"
+      ],
+      "zone": "main",
+      "text": "Notes: Insert Notes (if applicable)"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "C. Routine Facility Inspection Reports"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Include in your records copies of all routine facility inspection reports completed for the facility.",
+          "depth": 0
+        },
+        {
+          "text": "The sample inspection report is consistent with the requirements in Part 3.1.6 of the 2021 MSGP relating to routine facility inspections. Facilities subject to state industrial stormwater permits may also find this form useful. If your permitting authority provides you with an inspection report, use that form.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "text": "Using the Sample Routine Facility Inspection Report"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "This inspection report is designed to be customized according to the specific control measures and activities at your facility. For ease of use, you should take a copy of your site plan and number all of the stormwater control measures and areas of industrial activity that will be inspected. A brief description of the stormwater control measures and areas that were inspected should then be listed in the site-specific section of the inspection report.",
+          "depth": 0
+        },
+        {
+          "text": "You can complete the items in the “General Information” section that will remain constant, such as the facility name, NPDES ID, and inspector (if you only use one inspector). Print out multiple copies of this customized inspection report to use during your inspections.",
+          "depth": 0
+        },
+        {
+          "text": "When conducting the inspection, walk the site by following your site map and numbered control measures/areas of industrial activity to be inspected. Also note whether the “Areas of Industrial Materials or Activities exposed to stormwater” have been addressed (customize this list according to the conditions at your facility). Note any required corrective actions and the date and responsible person for the correction.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "text": "Stormwater Industrial Routine Facility Inspection Report"
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "C. Routine Facility Inspection Reports"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "General Information",
+          "General Information",
+          "General Information",
+          "General Information"
+        ],
+        [
+          "Facility Name",
+          "Insert Name",
+          "Insert Name",
+          "Insert Name"
+        ],
+        [
+          "NPDES ID.",
+          "Insert NPDES ID",
+          "Insert NPDES ID",
+          "Insert NPDES ID"
+        ],
+        [
+          "Date of Inspection",
+          "Insert Date",
+          "Start/End Time",
+          "Insert Start/End Time"
+        ],
+        [
+          "Inspector Name(s)",
+          "Insert Name(s)",
+          "Insert Name(s)",
+          "Insert Name(s)"
+        ],
+        [
+          "Inspector Title(s)",
+          "Insert Title(s)",
+          "Insert Title(s)",
+          "Insert Title(s)"
+        ],
+        [
+          "Inspector Contact Information",
+          "Insert Contact Information",
+          "Insert Contact Information",
+          "Insert Contact Information"
+        ],
+        [
+          "Inspector Qualifications",
+          "Insert Qualifications or Add Reference to the SWPPP",
+          "Insert Qualifications or Add Reference to the SWPPP",
+          "Insert Qualifications or Add Reference to the SWPPP"
+        ],
+        [
+          "Weather Information",
+          "Weather Information",
+          "Weather Information",
+          "Weather Information"
+        ],
+        [
+          "Weather at time of this inspection? ☐ Clear ☐ Cloudy ☐ Rain ☐ Sleet ☐ Fog ☐ Snow ☐ High Winds ☐ Other: Temperature:",
+          "Weather at time of this inspection? ☐ Clear ☐ Cloudy ☐ Rain ☐ Sleet ☐ Fog ☐ Snow ☐ High Winds ☐ Other: Temperature:",
+          "Weather at time of this inspection? ☐ Clear ☐ Cloudy ☐ Rain ☐ Sleet ☐ Fog ☐ Snow ☐ High Winds ☐ Other: Temperature:",
+          "Weather at time of this inspection? ☐ Clear ☐ Cloudy ☐ Rain ☐ Sleet ☐ Fog ☐ Snow ☐ High Winds ☐ Other: Temperature:"
+        ],
+        [
+          "Observations",
+          "Observations",
+          "Observations",
+          "Observations"
+        ],
+        [
+          "Have any previously unidentified discharges of pollutants occurred since the last inspection? ☐ Yes ☐ No If yes, describe: Describe",
+          "Have any previously unidentified discharges of pollutants occurred since the last inspection? ☐ Yes ☐ No If yes, describe: Describe",
+          "Have any previously unidentified discharges of pollutants occurred since the last inspection? ☐ Yes ☐ No If yes, describe: Describe",
+          "Have any previously unidentified discharges of pollutants occurred since the last inspection? ☐ Yes ☐ No If yes, describe: Describe"
+        ],
+        [
+          "Are there any discharges occurring at the time of inspection? qYes qNo If yes, describe: Describe",
+          "Are there any discharges occurring at the time of inspection? qYes qNo If yes, describe: Describe",
+          "Are there any discharges occurring at the time of inspection? qYes qNo If yes, describe: Describe",
+          "Are there any discharges occurring at the time of inspection? qYes qNo If yes, describe: Describe"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Stormwater Control Measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Stormwater Control Measures"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Stormwater Control Measures"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Number the structural stormwater control measures identified in your SWPPP on your site map and list them below (add as many control measures as are implemented on-site). Carry a copy of the numbered site map with you during your inspections. This list will ensure that you are inspecting all required control measures at your facility.",
+          "depth": 0
+        },
+        {
+          "text": "Identify if maintenance or corrective action is needed.",
+          "depth": 0
+        },
+        {
+          "text": "If maintenance is needed, fill out section B of this template",
+          "depth": 0
+        },
+        {
+          "text": "If corrective action is needed, fill out section G of this template",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Stormwater Control Measures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Structural Control Measure",
+          "Control Measure is Operating Effectively?",
+          "If No, In Need of Maintenance, Repair, or Replacement?",
+          "Maintenance or Corrective Action Needed and Notes"
+        ],
+        [
+          "1",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "2",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "3",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "4",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "5",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "6",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "7",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "8",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "9",
+          "Insert Control Measure Name",
+          "☒ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "10",
+          "Insert Control Measure Name",
+          "☐ Yes ☐ No",
+          "☐ Maintenance ☐ Repair ☐ Replacement",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ]
+      ],
+      "header_rows": 1
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Areas of Industrial Materials or Activities Exposed to Stormwater"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater"
+      ],
+      "zone": "main",
+      "text": "Below are some general areas that should be assessed during routine inspections. Customize this list as needed for the specific types of industrial materials or activities at your facility that are potential pollutant sources. Identify if maintenance or corrective action is needed. If maintenance is needed, fill out section B of this template. If corrective action is needed, fill out section G of this template."
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Area/Activity",
+          "Inspected?",
+          "Controls Adequate (appropriate, effective and operating)?",
+          "Maintenance or Corrective Action Needed and Notes"
+        ],
+        [
+          "1",
+          "Material loading/unloading and storage areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "2",
+          "Equipment operations and maintenance areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "3",
+          "Fueling areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "4",
+          "Outdoor vehicle and equipment washing areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "5",
+          "Waste handling and disposal areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "6",
+          "Erodible areas/construction",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "7",
+          "Non-stormwater/illicit connections",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "8",
+          "Salt storage piles or pile containing salt",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "9",
+          "Dust generation and vehicle tracking",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "10",
+          "Processing areas",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "11",
+          "Areas where industrial activity has taken place in the past and significant materials remain and are exposed to storm water",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "12",
+          "Immediate access roads and rail lines used or traveled by carriers of raw materials, manufactured products, waste material, or by-products used or created by the facility",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "13",
+          "(Other)",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ],
+        [
+          "14",
+          "(Other)",
+          "☐ Yes ☐ No ☐ N/A",
+          "☐ Yes ☐ No",
+          "Describe Maintenance and/or Corrective Actions Needed"
+        ]
+      ],
+      "header_rows": 1
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharge Points"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Discharge Points"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharge Points"
+      ],
+      "zone": "main",
+      "text": "At discharge points, describe any evidence of, or the potential for, pollutants entering the stormwater drainage system. Also describe observations regarding the physical condition of and around all stormwater discharge points, including any flow dissipation devices, and evidence of pollutants in discharges and/or the receiving water. Identify if any corrective action is needed."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharge Points"
+      ],
+      "zone": "main",
+      "text": "Describe Discharge Point Observations"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharges/Pollutants"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Discharges/Pollutants"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharges/Pollutants"
+      ],
+      "zone": "main",
+      "text": "Describe any previously unidentified stormwater discharges from and/or pollutants:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Discharges/Pollutants"
+      ],
+      "zone": "main",
+      "text": "Describe Discharges and/or Pollutants"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Non-Compliance"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Non-Compliance"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Non-Compliance"
+      ],
+      "zone": "main",
+      "text": "Describe any incidents of non-compliance observed and not described above:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Non-Compliance"
+      ],
+      "zone": "main",
+      "text": "Describe Non-compliance"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Additional Control Measures"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Additional Control Measures"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Additional Control Measures"
+      ],
+      "zone": "main",
+      "text": "Describe any additional control measures needed to comply with the permit requirements:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Additional Control Measures"
+      ],
+      "zone": "main",
+      "text": "Describe Additional Controls Needed"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "Use this space for any additional notes or observations from the inspection:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "Additional Notes"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "CERTIFICATION STATEMENT"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "“I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.”"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "Print Name and Title: __________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "C. Routine Facility Inspection Reports",
+        "Areas of Industrial Materials or Activities Exposed to Stormwater",
+        "Notes"
+      ],
+      "zone": "main",
+      "text": "Signature: _________________________________________________Date Signed:______________________"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "D. Visual Assessment Documentation"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "D. Visual Assessment Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "D. Visual Assessment Documentation"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "D. Visual Assessment Documentation"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Include in your records all visual assessment documentation completed for the facility (Part 3.2.3). An example visual assessment form can be found on the following page.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "D. Visual Assessment Documentation"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form",
+          "MSGP Visual Assessment Form"
+        ],
+        [
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)",
+          "(Complete a separate form for each discharge point you assess)"
+        ],
+        [
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "Enter Name of Facility",
+          "NPDES ID.",
+          "NPDES ID.",
+          "NPDES ID.",
+          "NPDES ID.",
+          "Insert NPDES ID",
+          "Insert NPDES ID",
+          "Insert NPDES ID"
+        ],
+        [
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "Sample Location: Enter Discharge Point ID",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "\"Substantially Identical Discharge Point\" (SIDP)?",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No",
+          "☐ Yes (identify SIDPs): ☐ No"
+        ],
+        [
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Collecting Sample: Enter Name(s)/Title(s)"
+        ],
+        [
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "Signature(s) of Person(s) Collecting Sample:",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)",
+          "Person(s)/Title(s) Examining Sample: Enter Name(s)/Title(s)"
+        ],
+        [
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "Signature(s) of Person(s) Examining Sample:",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Discharge Began: Enter Date and Time",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Collected: Enter Date and Time. If sample not taken within first 30 minutes, explain why.",
+          "Date & Time Sample Examined: Enter Date and Time"
+        ],
+        [
+          "Substitute Sample?",
+          "Substitute Sample?",
+          "Substitute Sample?",
+          "Substitute Sample?",
+          "Substitute Sample?",
+          "Substitute Sample?",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify quarter/year when sample was originally scheduled to be collected): ______________________"
+        ],
+        [
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "Is this a substitute sample for quarterly visual assessments distributed during seasons when precipitation more regularly occurs?",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________",
+          "☐ No ☐ Yes* (identify the quarter/year when the sample was originally scheduled to be collected): ______________________"
+        ],
+        [
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt",
+          "Nature of Discharge: ☐ Rainfall ☐ Snowmelt"
+        ],
+        [
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "Previous Storm Ended > 72 hours (three days) Before Start of This Storm?",
+          "☐ Yes",
+          "☐ Yes",
+          "☐ Yes",
+          "☐ No**",
+          "☐ No**",
+          "☐ No**",
+          "☐ No**",
+          "☐ No**",
+          "☐ No**"
+        ],
+        [
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "If Rainfall: Rainfall Amount: Number of inches_",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________"
+        ],
+        [
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed",
+          "Pollutants Observed"
+        ],
+        [
+          "Color",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "☐ None ☐ Other",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________",
+          "(describe): ______________________"
+        ],
+        [
+          "Odor",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________",
+          "☐ None ☐ Musty ☐ Sewage ☐ Sulfur ☐ Sour ☐ Petroleum/Gas ☐ Solvents ☐ Other (describe): ______________________"
+        ],
+        [
+          "Clarity",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other",
+          "☐ Clear ☐ Slightly Cloudy ☐ Cloudy ☐ Opaque ☐ Other"
+        ],
+        [
+          "Floating Solids",
+          "Floating Solids",
+          "Floating Solids",
+          "Floating Solids",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________"
+        ],
+        [
+          "Settled Solids***",
+          "Settled Solids***",
+          "Settled Solids***",
+          "Settled Solids***",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________"
+        ],
+        [
+          "Suspended Solids",
+          "Suspended Solids",
+          "Suspended Solids",
+          "Suspended Solids",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________"
+        ],
+        [
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "Foam (gently shake sample)",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________"
+        ],
+        [
+          "Oil Sheen",
+          "Oil Sheen",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________",
+          "☐ None ☐ Flecks ☐ Globs ☐ Sheen ☐ Slick ☐ Other (describe): ______________________"
+        ],
+        [
+          "Other Obvious Indicators of Stormwater Pollution",
+          "Other Obvious Indicators of Stormwater Pollution",
+          "Other Obvious Indicators of Stormwater Pollution",
+          "Other Obvious Indicators of Stormwater Pollution",
+          "Other Obvious Indicators of Stormwater Pollution",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________",
+          "☐ No ☐ Yes (describe): ______________________"
+        ],
+        [
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected.",
+          "* Your facility must be located in an area where limited rainfall occurs during many parts of the year (e.g., arid or semi-arid climate) or in an area where freezing conditions exist that prevent discharges from occurring for extended periods. Identify the quarter/year when the sample was originally scheduled to be collected."
+        ],
+        [
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period.",
+          "** The 72-hour (three day) interval can be waived when the previous storm did not yield a measurable discharge or if you are able to document (attach applicable documentation) that less than a 72-hour (three day) interval is representative of local storm events during the sampling period."
+        ],
+        [
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour.",
+          "*** Observe for settled solids after allowing the sample to sit for approximately one-half hour."
+        ],
+        [
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________",
+          "Sampling not performed due to adverse conditions: ☐ No ☐ Yes (explain): ______________________ Sampling not performed due to no measurable storm event occurring that resulted in a discharge during the monitoring quarter: ☐ No ☐ Yes (explain): ______________________"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details",
+          "Identify probable sources of any observed stormwater contamination. Also, include any additional comments, descriptions of pictures taken, and any corrective actions necessary below (attach additional sheets as necessary). Insert details"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)",
+          "Certification Statement (Refer to MSGP Appendix B, Part B.11 for Signatory Requirements)"
+        ],
+        [
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.",
+          "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information contained therein. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information contained is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A. Name:",
+          "A. Name:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "B. Title:",
+          "B. Title:",
+          "B. Title:",
+          "B. Title:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "C. Signature:",
+          "C. Signature:",
+          "C. Signature:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "D. Date Signed:",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "E. Monitoring Results"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "E. Monitoring Results"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "E. Monitoring Results"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "E. Monitoring Results"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Include in your records copies of all monitoring results (including analytical laboratory data, indicator monitoring, benchmark monitoring, annual effluent limitations guidelines monitoring, state- or tribal-specific monitoring, impaired waters monitoring, and any other monitoring required or conducted) for the facility. Also include copies of monitoring data submitted to EPA’s Net-DMR reporting system or paper DMRs if EPA has granted your facility a waiver from electronic reporting (Part 4.1.9).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Include in your records:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "A description of any deviations from the schedule you provided in your SWPPP for visual assessments and/or monitoring (Part 6.5), and",
+          "depth": 0
+        },
+        {
+          "text": "The reason for the deviations (e.g., it was impracticable to collect samples within the first 30 minutes of a measurable storm event or adverse weather) (Parts 3.2.4 and 4.1.5 of the 2021 MSGP).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Use the fields below to document the deviations. Repeat as necessary for any deviations."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "☐ Visual Assessments ☐ Monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Describe Deviation from Schedule: Describe Deviation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Reason for deviation: Describe Reason"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "☐ Visual Assessments ☐ Monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Describe Deviation from Schedule: Describe Deviation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Reason for Deviation: Describe Reason"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "☐ Visual Assessments ☐ Monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Describe Deviation from Schedule: Describe Deviation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Reason for Deviation: Describe Reason"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "☐ Visual Assessments ☐ Monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Describe Deviation from Schedule: Describe Deviation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "F. Deviations from Visual Assessment and/or Monitoring Schedule"
+      ],
+      "zone": "main",
+      "text": "Reason for Deviation: Describe Reason"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "G. Corrective Action and AIM Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Within 24 hours of becoming aware of a condition identified in Parts 5.1.1, 5.2.3, 5.2.4, or 5.2.5 of the 2021 MSGP, document the existence of the condition and subsequent actions. Note that this information must be summarized in the annual report (as required in Part 7.4 of the 2021 MSGP)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Description of Condition: Insert Description of Condition or Event Trigering Need for Corrective Action Review and/or AIM Response"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "For Spills and Leaks:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Description of Incident: Insert Description"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Material: Insert Description of Material"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Date/Time: Insert Date/Time"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Amount: Insert Amount of Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Location: Insert Location of Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Reason for Spill: Insert Reason for Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Discharge to Waters of U.S.: Insert Whether Spill/Leak/Other Release Discharged to a Water of the U.S."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date Condition/Triggering Event was Identified"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Immediate Actions: Insert Description of Immediate Actions Taken"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Actions Taken within 14 Days: Insert Description of Corrective Actions and/or AIM Responses Taken Within 14 days of Discovery of Condition/Triggering Event"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "14 Day Infeasibility: If Applicable, Document Why It Is Infeasible to Complete Necessary Corrective Actions and/or AIM Responses Within 14 Day Timeframe and Describe Schedule"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "45 Day Extension: If Applicable, Document Rationale Provided to EPA for Extension of 45 Day Timeframe"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Description of Condition: Insert Description of Condition or Event Trigering Need for Corrective Action Review and/or AIM Response"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "For Spills and Leaks:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Description of Incident: Insert Description"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Material: Insert Description of Material"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Date/Time: Insert Date/Time"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Amount: Insert Amount of Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Location: Insert Location of Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Reason for Spill: Insert Reason for Spill/Leak"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Discharge to Waters of U.S.: Insert Whether Spill/Leak/Other Release Discharged to a Water of the U.S."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date Condition/Triggering Event was Identified"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Immediate Actions: Insert Description of Immediate Actions Taken"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "Actions Taken within 14 Days: Insert Description of Corrective Actions and/or AIM Responses Taken Within 14 days of Discovery of Condition/Triggering Event"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "14 Day Infeasibility: If Applicable, Document Why It Is Infeasible to Complete Necessary Corrective Actions and/or AIM Responses Within 14 Day Timeframe and Describe Schedule"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "G. Corrective Action and AIM Documentation"
+      ],
+      "zone": "main",
+      "text": "45 Day Extension: If Applicable, Document Rationale Provided to EPA for Extension of 45 Day Timeframe"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "H. Benchmark Threshold Exceedances"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Include in your records documentation of any annual average benchmark threshold exceedances, which AIM Level triggering event the exceedances caused, and AIM response employed per Part 5.2,including:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The AIM triggering event;",
+          "depth": 0
+        },
+        {
+          "text": "The AIM response taken;",
+          "depth": 0
+        },
+        {
+          "text": "Any rationale that SWPPP/SCM changes were unnecessary; or",
+          "depth": 0
+        },
+        {
+          "text": "Any documentation required to meet any AIM exception per Part 5.2.6.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Note: an annual average exceedance for a parameter can occur if the four-quarterly annual average for a parameter exceeds the benchmark threshold, or fewer than four quarterly samples are collected, but a single sample, or the sum of any sample results withing the sampling year exceeds the benchmark threshold by more than four times for a parameter (Part 5.2.2)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant Exceeded and Results: Insert Pollutant Name"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Sample 1 (Sample date: Insert Sample Date) Result: Insert Sample Result"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Sample 2 (Sample date: Insert Sample Date) Result: Insert Sample Result"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Sample 3 (Sample date: Insert Sample Date) Result: Insert Sample Result"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Sample 4 (Sample date: Insert Sample Date) Result: Insert Sample Result"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Average Result: Insert Value"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Benchmark Value: Insert Benchmark Value from 2021 MSGP"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "AIM Level Triggered (select one)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ AIM Level 1 (quarterly benchmark monitoring results indicate that an AIM triggering event per Part 5.2.2 has occurred)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ AIM Level 2 (continued quarterly benchmark monitoring results indicate that an AIM triggering event per Part 5.2.2 has occurred)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ AIM Level 3 (continued quarterly benchmark monitoring results indicate that an AIM triggering event per Part 5.2.2 has occurred)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "AIM Response Taken: Document AIM response taken in section G of this Template"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Do You Qualify for an Exception from AIM Requirements and Continued Benchmark Monitoring? ☐ Yes (indicate the exception below) ☐ No"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Exception(s): (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ Solely Attributable to Natural Background Pollutant Levels"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant(s): Insert Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Maintain supporting rationale and applicable data as required in Part 5.2.6.1"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ Due to Run-On"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant(s): Insert Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Attach documentation and concurrence from EPA Regional Office required in Part 5.2.6.2"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ Due to An Abnormal Event"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant(s): Insert Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Attach documentation required in Part 5.2.6.3"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ Demonstrated to Not Result in An Exceedance of Facility-Specific Value Using National Recommended Water Quality Criteria in Lieu of Applicable MSGP Benchmark Threshold (For Aluminum and Copper Benchmark Parameters Only)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant(s): Insert Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Attach documentation and concurrence from EPA Regional Office required in Part 5.2.6.4"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "☐ Demonstrated Not to Result in Any Exceedance of Water Quality Standards"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Pollutant(s): Insert Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "H. Benchmark Threshold Exceedances"
+      ],
+      "zone": "main",
+      "text": "Attach documentation and concurrence from EPA Regional Office required in Part 5.2.6.5"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "This section applies only if your facility:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Discharges directly to an impaired water without an EPA-approved or established total maximum daily load (TMDL); and",
+          "depth": 0
+        },
+        {
+          "text": "Your first or fourth year annual impaired waters monitoring results indicate that the pollutant(s) for which the water is impaired is (1) not detected in your discharge, or is within the acceptable range for a given parameter for the waterbody to meet its designated use (e.g., pH or temperature) or (2) is detected in your discharge, but you have determined that its presence is caused solely by natural background sources. See Part 4.2.5.1 of the 2021 MSGP.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Check one of the boxes below and complete the additional documentation:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "☐ 1 – Pollutant(s) for which the water is impaired is not present in your discharge or is within the acceptable range for a given parameter for the waterbody to meet its designated use."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Attach documentation that the impairment pollutant(s) was not detected in your discharge sample(s) or was detected within an acceptable range."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "☐ 2 – Pollutant(s) for which the water is impaired is present, but you have determined its presence is caused solely by natural background sources."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Attach the following documentation:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "An explanation of why you believe that the presence of the pollutant(s) causing the impairment in your discharge is not related to the activities at your facility; and",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant"
+      ],
+      "zone": "main",
+      "text": "Data and/or studies that tie the presence of the pollutant(s) causing the impairment in your discharge to natural background sources in the watershed."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "J. Active/Inactive Status Change"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "text": "If your facility changes its status from active to inactive and unstaffed (or from inactive/unstaffed to active), include documentation in this section to support your claim."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "text": "Date: Insert Date of Change in Status"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "text": "New Facility Status: ☐ Inactive and Unstaffed ☐ Active"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "J. Active/Inactive Status Change"
+      ],
+      "zone": "main",
+      "text": "Reason for Change in Status: Describe Reason"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "K. SWPPP Amendment Log"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "text": "Include in your records:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "A log of the date and description of any amendments to your SWPPP.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "text": "Fill in the appropriate columns of this table for each amendment to your SWPPP. Copy and paste additional rows into the table as necessary."
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "K. SWPPP Amendment Log"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Amend. No.",
+          "Description of the Amendment",
+          "Date of Amendment",
+          "Amendment Prepared by [Name(s) and Title(s)]"
+        ],
+        [
+          "1",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "2",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "3",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "4",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "5",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "6",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "7",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "8",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "9",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ],
+        [
+          "10",
+          "Insert Description of Amendment",
+          "Insert Date",
+          "Insert Name(s)/Title(s)"
+        ]
+      ],
+      "header_rows": 1
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "L. Miscellaneous Documentation"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "L. Miscellaneous Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "L. Miscellaneous Documentation"
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "L. Miscellaneous Documentation"
+      ],
+      "zone": "main",
+      "text": "Use this section to keep records of any additional documentation that relates to your compliance with the 2021 MSGP."
+    }
+  ]
+}

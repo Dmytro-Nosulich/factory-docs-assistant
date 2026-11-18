@@ -1,0 +1,3311 @@
+{
+  "doc_id": "D071",
+  "format": "docx",
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "44d8f215778d6cc862c7de65a7ed4bcf7873dd6312ea7f8c8c2861ecbf7df465",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Industrial SWPPP Template"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "To help you develop a Stormwater Pollution Prevention Plan (SWPPP) that is consistent with the 2015 Multi-Sector General Permit (MSGP), the U.S Environmental Protection Agency (EPA) has created this Industrial SWPPP Template (or, “the Template”). Use of the Template will help ensure that your SWPPP addresses all the necessary elements required in Part 5 of the 2015 MSGP. Part 2 of the 2015 MSGP includes requirements (or effluent limits) that tell what you must physically do on-site to control pollutants in your stormwater discharges and that drive some of what is documented in your SWPPP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Before completing the Template, make sure you read and understand the requirements in the 2015 MSGP. A copy of the MSGP is available at www.epa.gov/npdes/stormwater/msgp."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Using the Industrial SWPPP Template"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Tips for completing the Template:"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "This Template is designed for use by all facilities eligible for coverage under the 2015 MSGP. The Template is NOT tailored to your individual industrial sector. Depending upon your industrial sector (see Appendix D of the 2015 MSGP) and where your facility is located (see Appendix C of the 2015 MSGP), you may need to address additional SWPPP requirements outlined in Part 8 (Sector Specific Requirements) and/or Part 9 (State/Tribal Specific Requirements) of the permit, respectively.",
+          "depth": 0
+        },
+        {
+          "text": "Complete a SWPPP before submitting your Notice of Intent (NOI) for permit coverage.",
+          "depth": 0
+        },
+        {
+          "text": "Each section includes “instructions” and space for your facility’s specific information. You should read the instructions for each section before you complete that section.",
+          "depth": 0
+        },
+        {
+          "text": "The Template was developed in Microsoft Word so that you can easily add tables and additional text. Some sections may require only a brief description while others may require several pages of explanation.",
+          "depth": 0
+        },
+        {
+          "text": "To make it easier to complete, the Template generally uses blue text where the operator is expected to enter information.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "EPA notes that while EPA has made every effort to ensure the accuracy of all instructions and guidance contained in the Template, the actual obligations of regulated industrial facilities are determined by the relevant provisions of the permit, not by the Template. In the event of a conflict between the Template and any corresponding provision of the MSGP, the permit controls. EPA welcomes comments on the Template at any time and will consider those comments in any future revision of this document."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Page Intentionally Blank"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Stormwater Pollution Prevention Plan"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "for:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Name"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Address"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert City, State, Zip Code"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Telephone Number (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "SWPPP Contact(s):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Facility Operator"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Name"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Address"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert City, State, Zip Code"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Telephone Number"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Insert Fax/Email"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "SWPPP Preparation Date:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "__ __/ __ __ / __ __ __ __"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "main",
+      "text": "Page Intentionally Blank"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.1 Facility Information."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Facility Information."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.1 Facility Information."
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.1 Facility Information."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "You will need the information from this section to complete your NOI.",
+          "depth": 0
+        },
+        {
+          "text": "For further instruction, refer to the 2015 MSGP NOI form and instructions – specifically sections C and D of the NOI. A copy of the 2015 MSGP NOI is available at www.epa.gov/npdes/stormwater/msgp (Appendix G of the permit)",
+          "depth": 0
+        },
+        {
+          "text": "You must include a copy of the 2015 MSGP, or a reference or link to where a copy can be found, in Attachment C of your SWPPP.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.1 Facility Information."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Facility Information",
+          "Facility Information",
+          "Facility Information",
+          "Facility Information",
+          "Facility Information",
+          "Facility Information"
+        ],
+        [
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:",
+          "Name of Facility:"
+        ],
+        [
+          "Street:",
+          "Street:",
+          "Street:",
+          "Street:",
+          "Street:",
+          "Street:"
+        ],
+        [
+          "City:",
+          "City:",
+          "State:",
+          "State:",
+          "ZIP Code:",
+          "ZIP Code:"
+        ],
+        [
+          "County or Similar Subdivision:",
+          "County or Similar Subdivision:",
+          "County or Similar Subdivision:",
+          "County or Similar Subdivision:",
+          "County or Similar Subdivision:",
+          "County or Similar Subdivision:"
+        ],
+        [
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)",
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)",
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)",
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)",
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)",
+          "NPDES ID (i.e., permit tracking number): (if covered under a previous permit)"
+        ],
+        [
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):",
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):",
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):",
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):",
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):",
+          "Primary Industrial Activity SIC code, and Sector and Subsector (2015 MSGP, Appendix D and Part 8):"
+        ],
+        [
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________",
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________",
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________",
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________",
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________",
+          "Co-located Industrial Activity(s) SIC code(s), Sector(s) and Subsector(s) (2015 MSGP, Appendix D): __________________________________________________________________________________"
+        ],
+        [
+          "Latitude/Longitude",
+          "Latitude/Longitude",
+          "Latitude/Longitude",
+          "Latitude/Longitude",
+          "Latitude/Longitude",
+          "Latitude/Longitude"
+        ],
+        [
+          "Latitude:",
+          "Longitude:",
+          "Longitude:",
+          "Longitude:",
+          "Longitude:",
+          "Longitude:"
+        ],
+        [
+          "_ _ . _ _ _ _ º N (decimal degrees)",
+          "_ _ _. _ _ _ _ º W (decimal degrees)",
+          "_ _ _. _ _ _ _ º W (decimal degrees)",
+          "_ _ _. _ _ _ _ º W (decimal degrees)",
+          "_ _ _. _ _ _ _ º W (decimal degrees)",
+          "_ _ _. _ _ _ _ º W (decimal degrees)"
+        ],
+        [
+          "Method for determining latitude/longitude (check one):",
+          "Method for determining latitude/longitude (check one):",
+          "Method for determining latitude/longitude (check one):",
+          "Method for determining latitude/longitude (check one):",
+          "Method for determining latitude/longitude (check one):",
+          "Method for determining latitude/longitude (check one):"
+        ],
+        [
+          "☐USGS topographic map (specify scale: )",
+          "☐USGS topographic map (specify scale: )",
+          "☐USGS topographic map (specify scale: )",
+          "",
+          "",
+          "☐GPS"
+        ],
+        [
+          "☐Other (please specify):",
+          "☐Other (please specify):",
+          "☐Other (please specify):",
+          "☐Other (please specify):",
+          "☐Other (please specify):",
+          "☐Other (please specify):"
+        ],
+        [
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84",
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84",
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84",
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84",
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84",
+          "Horizontal Reference Datum (check one): ☐NAD 27 ☐NAD 83 ☐WGS 84"
+        ],
+        [
+          "Is the facility located in Indian country? ☐Yes ☐No",
+          "Is the facility located in Indian country? ☐Yes ☐No",
+          "Is the facility located in Indian country? ☐Yes ☐No",
+          "Is the facility located in Indian country? ☐Yes ☐No",
+          "Is the facility located in Indian country? ☐Yes ☐No",
+          "Is the facility located in Indian country? ☐Yes ☐No"
+        ],
+        [
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\"",
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\"",
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\"",
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\"",
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\"",
+          "If yes, name of Reservation, or if not part of a Reservation, indicate \"not applicable.\""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No",
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No",
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No",
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No",
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No",
+          "Are you considered a “federal operator” of the facility? Federal Operator – an entity that meets the definition of “operator” in this permit and is either any department, agency or instrumentality of the executive, legislative and judicial branches of the Federal government of the United States, or another entity, such as a private contractor, operating for any such department, agency, or instrumentality. ☐Yes ☐No"
+        ],
+        [
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)",
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)",
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)",
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)",
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)",
+          "Estimated area of industrial activity at site exposed to stormwater: (acres)"
+        ],
+        [
+          "Discharge Information",
+          "Discharge Information",
+          "Discharge Information",
+          "Discharge Information",
+          "Discharge Information",
+          "Discharge Information"
+        ],
+        [
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:",
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:",
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:",
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:",
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:",
+          "Does this facility discharge stormwater into a municipal separate storm sewer system (MS4)? ☐Yes ☐No If yes, name of MS4 operator:"
+        ],
+        [
+          "Name(s) of surface water(s) that receive stormwater from your facility:",
+          "Name(s) of surface water(s) that receive stormwater from your facility:",
+          "Name(s) of surface water(s) that receive stormwater from your facility:",
+          "Name(s) of surface water(s) that receive stormwater from your facility:",
+          "Name(s) of surface water(s) that receive stormwater from your facility:",
+          "Name(s) of surface water(s) that receive stormwater from your facility:"
+        ],
+        [
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater directly into any segment of an “impaired water” (see definition in 2015 MSGP, Appendix A)? ☐Yes ☐No"
+        ],
+        [
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:",
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:",
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:",
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:",
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:",
+          "If Yes, identify name of the impaired water(s) (and segment(s), if applicable): Identify the pollutant(s) causing the impairment(s): Which of the identified pollutants may be present in industrial stormwater discharges from this facility? Has a Total Maximum Daily Load (TMDL) been completed for any of the identified pollutants? If yes, please list the TMDL pollutants:"
+        ],
+        [
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No",
+          "Does this facility discharge industrial stormwater into a receiving water designated as a Tier 2, Tier 2.5 or Tier 3 water (see definitions in 2015 MSGP, Appendix A)? ☐Yes ☐No"
+        ],
+        [
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?",
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?",
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?",
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?",
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?",
+          "Are any of your stormwater discharges subject to effluent limitation guidelines (ELGs) (2015 MSGP Table 1-1)? ☐Yes ☐No If Yes, which guidelines apply?"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.2 Contact Information/Responsible Parties."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Contact Information/Responsible Parties."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.2 Contact Information/Responsible Parties."
+      ],
+      "zone": "main",
+      "text": "Instructions:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.2 Contact Information/Responsible Parties."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "List the facility operator(s), facility owner and SWPPP contact(s). Indicate respective responsibilities, where appropriate.",
+          "depth": 0
+        },
+        {
+          "text": "You will need the information from this section of the SWPPP Template for your NOI.",
+          "depth": 0
+        },
+        {
+          "text": "Refer to Section B of the NOI instructions (available in Appendix G of the 2015 MSGP).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.2 Contact Information/Responsible Parties."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Facility Operator(s):"
+        ],
+        [
+          "Name: Insert Name"
+        ],
+        [
+          "Address: Insert Address"
+        ],
+        [
+          "City, State, Zip Code: Insert City, State, Zip Code"
+        ],
+        [
+          "Telephone Number: Insert Telephone Number"
+        ],
+        [
+          "Email address: Insert email address"
+        ],
+        [
+          "Fax number: Insert fax number (optional)"
+        ],
+        [
+          "(repeat for multiple operators by copying and pasting the above rows)"
+        ],
+        [
+          "Facility Owner(s):"
+        ],
+        [
+          "Name: Insert Name"
+        ],
+        [
+          "Address: Insert Address"
+        ],
+        [
+          "City, State, Zip Code: Insert City, State, Zip Code"
+        ],
+        [
+          "Telephone Number: Insert Telephone Number"
+        ],
+        [
+          "Email address: Insert email address"
+        ],
+        [
+          "Fax number: Insert fax number (optional)"
+        ],
+        [
+          "(repeat for multiple operators by copying and pasting the above rows)"
+        ],
+        [
+          "SWPPP Contact(s):"
+        ],
+        [
+          "SWPPP Contact Name (Primary): Insert SWPPP Contact Name, Primary"
+        ],
+        [
+          "Telephone number: Insert Telephone Number"
+        ],
+        [
+          "Email address: Insert email address"
+        ],
+        [
+          "Fax number: Insert fax number (optional)"
+        ],
+        [
+          "SWPPP Contact Name (Backup): Insert SWPPP Contact Name, Backup"
+        ],
+        [
+          "Telephone number: Insert Telephone Number"
+        ],
+        [
+          "Email address: Insert email address"
+        ],
+        [
+          "Fax number: Insert fax number (optional)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.3 Stormwater Pollution Prevention Team."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Stormwater Pollution Prevention Team."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.3 Stormwater Pollution Prevention Team."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.3 Stormwater Pollution Prevention Team."
+      ],
+      "zone": "main",
+      "text": "The stormwater pollution prevention team is responsible for overseeing development of and any modifications to the SWPPP, implementing and maintaining control measures/BMPs, and taking corrective actions when required. Each member of the stormwater pollution prevention team must have ready access to the 2015 MSGP, the most updated copy of the facility SWPPP, and other relevant documents."
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.3 Stormwater Pollution Prevention Team."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Identify the staff members (by name and/or title) that comprise the facility’s stormwater pollution prevention team as well as their individual responsibilities.",
+          "depth": 0
+        },
+        {
+          "text": "EPA recommends, but does not require, the stormwater pollution prevention team include at least one individual from each shift to ensure that there is always a stormwater pollution prevention team member on-site.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.3 Stormwater Pollution Prevention Team."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Staff Names",
+          "Individual Responsibilities"
+        ],
+        [
+          "Insert name and/or title of SWPPP team member",
+          "Insert explanation of that staff person’s responsibilities relating to compliance with the permit"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Site Description."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "text": "Provide a general description of the “industrial activities” conducted at your facility. For the MSGP industrial activities consist of: manufacturing and processing; material handling activities including storage, loading and unloading, transportation, or conveyance of any raw material, intermediate product, final product, by-product or waste product; and vehicle and equipment fueling, maintenance and cleaning."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "text": "Industrial activities may occur at any of the following areas (list not exhaustive): industrial plant yards; immediate access roads and rail lines used or traveled by carriers of raw materials, manufactured products, waste material, or by-products used or created by the facility; material handling sites; refuse sites; sites used for the application or disposal of process waste waters sites used for the storage and maintenance of material handling equipment; sites used for residual treatment, storage, or disposal; shipping and receiving areas; manufacturing buildings; storage areas (including tank farms) for raw materials, and intermediate and final products; and areas where industrial activity has taken place in the past and significant materials remain and are exposed to stormwater."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "text": "EPA recommends that you differentiate activities that occur indoors from those that occur outdoors and could be exposed to stormwater, or under cover but that could be exposed to run-on. Don’t overlook processes that are vented and may contribute pollutants to the roof."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.4 Site Description."
+      ],
+      "zone": "main",
+      "text": "LIST AND DESCRIBE FACILITY INDUSTRIAL ACTIVITIES HERE."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.5 General Location Map."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.5 General Location Map."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.5 General Location Map."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.5 General Location Map."
+      ],
+      "zone": "main",
+      "text": "Provide a general location map (e.g., U.S. Geological Survey (USGS) quadrangle map or aerial image from the internet) with enough detail to identify the location of your facility and all receiving waters for your stormwater discharges (include as Attachment A of this SWPPP Template)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.5 General Location Map."
+      ],
+      "zone": "main",
+      "text": "The general location map for this facility can be found in Attachment A."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.6 Site Map."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.6 Site Map."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.6 Site Map."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.6 Site Map."
+      ],
+      "zone": "main",
+      "text": "Prepare a site map showing the following information. The site map will be included as Attachment B of the finished SWPPP."
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.6 Site Map."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Boundaries of the property and the size of the property in acres;",
+          "depth": 0
+        },
+        {
+          "text": "Location and extent of significant structures and impervious surfaces;",
+          "depth": 0
+        },
+        {
+          "text": "Directions of stormwater flow (use arrows);",
+          "depth": 0
+        },
+        {
+          "text": "Locations of all stormwater control measures;",
+          "depth": 0
+        },
+        {
+          "text": "Locations of all receiving waters, including wetlands, in the immediate vicinity of your facility. Indicate which waterbodies are listed as impaired and which are identified by your state, tribe or EPA as Tier 2, Tier 2.5, or Tier 3 waters;",
+          "depth": 0
+        },
+        {
+          "text": "Locations of all stormwater conveyances including ditches, pipes and swales;",
+          "depth": 0
+        },
+        {
+          "text": "Locations of potential pollutant sources identified under Part 5.2.3.2;",
+          "depth": 0
+        },
+        {
+          "text": "Locations where significant spills or leaks identified under Part 5.2.3.3 have occurred;",
+          "depth": 0
+        },
+        {
+          "text": "Locations of all stormwater monitoring points;",
+          "depth": 0
+        },
+        {
+          "text": "Locations of stormwater inlets and discharge points, with a unique identification code for each discharge point (e.g., Discharge points001, 002), indicating if you are treating one or more discharge points as “substantially identical” under Parts 3.2.3, 5.2.5.3, and 6.1.1, and an approximate outline of the areas draining to each discharge point;",
+          "depth": 0
+        },
+        {
+          "text": "If applicable, MS4s and where your stormwater discharges to them;",
+          "depth": 0
+        },
+        {
+          "text": "Areas of designated critical habitat for endangered or threatened species, if applicable.",
+          "depth": 0
+        },
+        {
+          "text": "Locations of the following activities where such activities are exposed to precipitation:",
+          "depth": 0
+        },
+        {
+          "text": "fueling stations;",
+          "depth": 1
+        },
+        {
+          "text": "vehicle and equipment maintenance and/or cleaning areas;",
+          "depth": 1
+        },
+        {
+          "text": "loading/unloading areas;",
+          "depth": 1
+        },
+        {
+          "text": "locations used for the treatment, storage or disposal of wastes;",
+          "depth": 1
+        },
+        {
+          "text": "liquid storage tanks;",
+          "depth": 1
+        },
+        {
+          "text": "processing and storage areas;",
+          "depth": 1
+        },
+        {
+          "text": "immediate access roads and rail lines used or traveled by carriers of raw materials, manufactured products, waste material, or by-products used or created by the facility;",
+          "depth": 1
+        },
+        {
+          "text": "transfer areas for substances in bulk;",
+          "depth": 1
+        },
+        {
+          "text": "machinery; and",
+          "depth": 1
+        },
+        {
+          "text": "locations and sources of run-on to your site from adjacent property that contains significant quantities of pollutants.",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION.",
+        "1.6 Site Map."
+      ],
+      "zone": "main",
+      "text": "The site map for this facility can be found in Attachment B."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: POTENTIAL POLLUTANT SOURCES."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES."
+      ],
+      "zone": "main",
+      "text": "Section 2 will describe all areas at your facility where industrial materials or activities are exposed to stormwater or from which allowable non-stormwater discharges originate. Industrial materials or activities include, but are not limited to: material handling equipment or activities; industrial machinery; raw materials; industrial production and processes; and intermediate products, by-products, final products, and waste products. Material handling activities include, but are not limited to: the storage, loading and unloading, transportation, disposal or conveyance of any raw material, intermediate product, final product or waste product. For structures located in areas of industrial activity, you must be aware that the structures themselves are potential sources of pollutants. This could occur, for example, when metals such as aluminum or copper are leached from the structures as a result of acid rain."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES."
+      ],
+      "zone": "main",
+      "text": "For each area identified, the SWPPP must include industrial activities, potential pollutants, spills and leaks, unauthorized non-stormwater discharges, salt storage, stormwater sampling data and descriptions of control measures."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.1 Potential Pollutants Associated with Industrial Activity."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Potential Pollutants Associated with Industrial Activity."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.1 Potential Pollutants Associated with Industrial Activity."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 5.2.3.1 and 5.2.3.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.1 Potential Pollutants Associated with Industrial Activity."
+      ],
+      "zone": "main",
+      "text": "For the industrial activities identified in section 1.4 above, list the potential pollutants or pollutant constituents (e.g., motor oil, fuel, battery acid, and cleaning solvents)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.1 Potential Pollutants Associated with Industrial Activity."
+      ],
+      "zone": "main",
+      "text": "In your list of pollutants associated with your industrial activities, include all significant materials that have been handled, treated, stored, or disposed, and that have been exposed to stormwater in the three years prior to the date you prepare your SWPPP."
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.1 Potential Pollutants Associated with Industrial Activity."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Industrial Activity",
+          "Associated Pollutants"
+        ],
+        [
+          "Insert specific industrial activity",
+          "Insert names of pollutants or pollutant constituents that could be associated with this activity and released in stormwater"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Spills and Leaks."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "text": "Instructions (See 2015 MSGP Part 5.2.3.3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "text": "Include the following in this section:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Potential spills and leaks: A description of where potential spills and leaks could occur at your site that could contribute pollutants to your stormwater discharge, and specify which discharge points are likely to be affected by such spills and leaks.",
+          "depth": 0
+        },
+        {
+          "text": "Past spills and leaks: A description of significant spills and leaks in the past three years of oil or toxic or hazardous substances that actually occurred at exposed areas, or that drained to a stormwater conveyance.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "text": "Note: Significant spills and leaks include, but are not limited to, releases of oil or hazardous substances in excess of quantities that are reportable under CWA Section 311 (see 40 CFR 110.6 and 40 CFR 117.21) or Section 102 of the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), 42 USC §9602."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "text": "Areas of Site Where Potential Spills/Leaks Could Occur"
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Location",
+          "Discharge Points"
+        ],
+        [
+          "Insert description of area where spill/leak could occur",
+          "Specify which discharge point(s) would be affected"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "text": "Description of Past Spills/Leaks"
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.2 Spills and Leaks."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Date",
+          "Description",
+          "Discharge Points"
+        ],
+        [
+          "Insert date of spill/leak",
+          "Insert description of spill/leak (where it occurred, what happened, types of pollutants, extent of damage)",
+          "Specify which discharge point(s) were affected"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ],
+        [
+          "[Repeat as necessary]",
+          "[Repeat as necessary]",
+          "[Repeat as necessary]"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Unauthorized Non-stormwater Discharges Documentation."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.3.4):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "text": "Part 1.1.3 of the 2015 MSGP identifies allowable non-stormwater discharges. The questions below require you to provide documentation of the following:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Evaluation for the presence of unauthorized non-stormwater discharges at your site; and",
+          "depth": 0
+        },
+        {
+          "text": "Elimination of any unauthorized non-stormwater discharges.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "text": "Description of this facility’s unauthorized non-stormwater discharge evaluation:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.3 Unauthorized Non-stormwater Discharges Documentation."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Date of evaluation: Insert the date(s) of your evaluation.",
+          "depth": 0
+        },
+        {
+          "text": "Description of the evaluation criteria used: Describe the method used to conduct the evaluation and determine which non-stormwater discharges are authorized or unauthorized.",
+          "depth": 0
+        },
+        {
+          "text": "List of the drainage points that were directly observed during the evaluation: Insert drainage points observed.",
+          "depth": 0
+        },
+        {
+          "text": "Action(s) taken, such as a list of control measures used to eliminate unauthorized discharge(s), or documentation that a separate NPDES permit was obtained. For example, a floor drain was sealed, a sink drain was re-routed to the sanitary sewer or an NPDES permit application was submitted for an unauthorized cooling water discharge: Describe actions taken to eliminate unauthorized non-stormwater discharges and the corresponding drainage point affected.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.4 Salt Storage."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.4 Salt Storage."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.4 Salt Storage."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.3.5):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.4 Salt Storage."
+      ],
+      "zone": "main",
+      "text": "Document the location of any storage piles containing salt used for deicing or other commercial or industrial purposes."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.4 Salt Storage."
+      ],
+      "zone": "main",
+      "text": "Note: you will be asked additional questions concerning salt storage in Section 3.1.7 of this SWPPP template, below."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.4 Salt Storage."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF THE LOCATION OF ANY STORAGE PILES CONTAINING SALT."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.5 Sampling Data Summary."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "Instructions (See 2015 MSGP Part 5.2.3.6):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "Summarize all stormwater sampling data collected from your permitted discharge points during the previous permit term. Include a narrative description that summarizes the collected data to support identification of potential pollution sources. Note that data tables and/or figures may be used to aid the summary."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "INSERT SUMMARY OF STORMWATER SAMPLING DATA COLLECTED FOR THE PAST PERMIT, AND/OR ATTACH DISCHARGE MONITORING REPORTS OR LABORATORY RESULTS."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "SECTION 3: STORMWATER Control Measures."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "Instructions (See 2015 MSGP Parts 2.1.2, Part 8, and 5.2.4):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "In Sections 3.1 - 3.11 of this SWPPP template, you are asked to describe the stormwater control measures that you have installed at your site to meet each of the permit’s"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Non-numeric technology-based effluent limits in Part 2.1.2;",
+          "depth": 0
+        },
+        {
+          "text": "Applicable numeric effluent limitations guidelines-based limits in Part 2.1.3 and Part 8;",
+          "depth": 0
+        },
+        {
+          "text": "Water quality-based effluent limits in Part 2.2;",
+          "depth": 0
+        },
+        {
+          "text": "Any additional measures that formed the basis of eligibility regarding threatened and endangered species, historic properties, and/or federal CERCLA site requirements in Part 2.3; and",
+          "depth": 0
+        },
+        {
+          "text": "Applicable effluent limits in Parts 8 and 9.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "text": "In addition to your control measure descriptions, include explanations of how the controls fulfill the following requirements (see 2015 MSGP Part 2.1.1):"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "2.5 Sampling Data Summary."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The selection and design considerations; and",
+          "depth": 0
+        },
+        {
+          "text": "How they address the pollutant sources identified in section 2.1 of the Template.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)"
+      ],
+      "zone": "main",
+      "text": "You must comply with the following non-numeric effluent limits (except where otherwise specified in Part 8) as well as any sector-specific non-numeric effluent limits in Part 8."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.1 Minimize Exposure."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.1 Minimize Exposure."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.1 Minimize Exposure."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.2.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.1 Minimize Exposure."
+      ],
+      "zone": "main",
+      "text": "Describe any structural controls or practices used to minimize the exposure of industrial activities to rain, snow, snowmelt and runoff. Describe where the controls or practices are being implemented at your site."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.1 Minimize Exposure."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF CONTROL MEASURES USED TO MINIMIZE EXPOSURE."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.2 Good Housekeeping."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.2 Good Housekeeping."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.2 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 2.1.2.2 and 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.2 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "Describe any practices you are implementing to keep exposed areas of your site clean. Describe where each practice is being implemented at your site. Include here your schedule for: (1) regular pickup and disposal of waste materials, and (2) routine inspections for leaks and of the condition of drums, tanks and containers. Note: There are specific requirements for facilities that handle pre-production plastic."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.2 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF GOOD HOUSEKEEPING PRACTICES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.3 Maintenance."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.3 Maintenance."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.3 Maintenance."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 2.1.2.3 and 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.3 Maintenance."
+      ],
+      "zone": "main",
+      "text": "Describe procedures (1) to maintain industrial equipment so that spills/leaks are avoided and (2) to keep control measures in effective operating condition. Include the schedule you will follow for such maintenance activities. Describe where each applicable procedure is being implemented at the site."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.3 Maintenance."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF MAINTENANCE PROCEDURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.4 Spill Prevention and Response."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 2.1.2.4 and 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "Describe any structural controls or procedures used to minimize the potential for leaks, spills and other releases. You must implement the following at a minimum:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Plainly label containers (e.g., “Used Oil,” “Spent Solvents,” “Fertilizers and Pesticides”) that could be susceptible to spillage or leakage to encourage proper handling and facilitate rapid response if spills or leaks occur;*",
+          "depth": 0
+        },
+        {
+          "text": "Implement procedures for material storage and handling, including the use of secondary containment and barriers between material storage and traffic areas, or a similarly effective means designed to prevent the discharge of pollutants from these areas;",
+          "depth": 0
+        },
+        {
+          "text": "Develop training and train all staff on procedures to quickly stop, contain and clean up leaks, spills, and other releases. As appropriate, execute such procedures as soon as possible;",
+          "depth": 0
+        },
+        {
+          "text": "Keep spill kits on-site, located near areas where spills may occur or where a rapid response can be made; and",
+          "depth": 0
+        },
+        {
+          "text": "Notify appropriate facility personnel when a leak, spill or other release occurs.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "Describe where each control is to be located or where applicable procedures will be implemented."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "Note: some facilities may be required to develop a Spill Prevention Control and Countermeasure (SPCC) plan under a separate regulatory program (40 CFR 112). If you are required to develop an SPCC plan, or you already have one, you should include references to the relevant requirements from your plan."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "EPA recommends you include:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "Where a leak, spill or other release containing a hazardous substance or oil in an amount equal to or in excess of a reportable quantity established under either 40 CFR Part 110, 40 CFR Part 117, or 40 CFR Part 302 occurs during a 24-hour period, you must notify the National Response Center (NRC) at (800) 424-8802 or, in the Washington, DC, metropolitan area, call (202) 267-2675 in accordance with the requirements of 40 CFR Part 110, 40 CFR Part 117, and 40 CFR Part 302 as soon as you have knowledge of the discharge. State or local requirements may necessitate reporting spills or discharges to local emergency response, public health, or drinking water supply agencies. Contact information must be in locations that are readily accessible and available."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.4 Spill Prevention and Response."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF SPILL PREVENTION AND RESPONSE MEASURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.5 Erosion and Sediment Controls."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.5 Erosion and Sediment Controls."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.5 Erosion and Sediment Controls."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 2.1.2.5 and 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.5 Erosion and Sediment Controls."
+      ],
+      "zone": "main",
+      "text": "Describe activities and processes for stabilizing exposed soils to minimize erosion. Describe flow velocity dissipation devices placed at all discharge locations and all structural and non-structural control measures to prevent the discharge of sediment. If applicable, describe the type and purpose of any polymers and/or chemical treatments used to control erosion and the location at your site where each control is implemented."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.5 Erosion and Sediment Controls."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF EROSION AND SEDIMENT CONTROLS."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.6 Management of Runoff."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.6 Management of Runoff."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.6 Management of Runoff."
+      ],
+      "zone": "main",
+      "text": "Instructions (See 2015 MSGP Part 2.1.2.6):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.6 Management of Runoff."
+      ],
+      "zone": "main",
+      "text": "Describe controls used at your site to divert, infiltrate, reuse, contain or otherwise reduce stormwater runoff. Describe the location at your site where each control is implemented."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.6 Management of Runoff."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF HOW RUNOFF FROM YOUR SITE WILL BE MANAGED."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.7 Salt Storage Piles or Piles Containing Salt."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.7 Salt Storage Piles or Piles Containing Salt."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.7 Salt Storage Piles or Piles Containing Salt."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.2.7):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.7 Salt Storage Piles or Piles Containing Salt."
+      ],
+      "zone": "main",
+      "text": "If applicable, describe structures at your site that either cover or enclose salt storage piles or piles containing salt, and any controls that minimize or prevent the discharge of stormwater from such piles. Also, describe any controls or procedures used to minimize exposure resulting from adding to or removing materials from the pile. Describe the location at your site where each control and/or procedure is implemented."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.7 Salt Storage Piles or Piles Containing Salt."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF HOW SALT STORAGE PILES OR PILES CONTAINING SALT WILL BE MANAGED."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.2.10):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials."
+      ],
+      "zone": "main",
+      "text": "Describe controls and procedures that will be used at your site to minimize generation of dust and off-site tracking of raw, final or waste materials in order to minimize pollutant discharges."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT)",
+        "3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF CONTROL MEASURES TO MINIMIZE DUST GENERATION AND VEHICLE TRACKING."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.2 Sector-Specific Non-Numeric Effluent Limits."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Sector-Specific Non-Numeric Effluent Limits."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.2 Sector-Specific Non-Numeric Effluent Limits."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 8):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.2 Sector-Specific Non-Numeric Effluent Limits."
+      ],
+      "zone": "main",
+      "text": "Describe any controls or procedures that will be used at your site to comply with any sector-specific requirements that apply to you in Part 8 of the 2015 MSGP. Describe the location at your site where each control and/or procedure will be implemented."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.2 Sector-Specific Non-Numeric Effluent Limits."
+      ],
+      "zone": "main",
+      "text": "Note: Sector-specific effluent limits apply to Sectors A, E, F, G, H, I, J, L, M, N, O, P, Q, R, S, T, U, V, X, Y, Z and AA."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.2 Sector-Specific Non-Numeric Effluent Limits."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF CONTROL MEASURES THAT WILL BE USED TO COMPLY WITH SECTOR-SPECIFIC REQUREMENTS."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+      ],
+      "zone": "main",
+      "text": "If you are in an industrial category subject to one of the effluent limitations guidelines identified in the table below (Table 2-1 of the 2015 MSGP), describe controls or procedures that will be implemented at your site to meet these effluent limitations guidelines."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF CONTROL MEASURES TO MEET ELG(S)."
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Regulated Activity",
+          "40 CFR Part/Subpart",
+          "Effluent Limit"
+        ],
+        [
+          "Discharges resulting from spray down or intentional wetting of logs at wet deck storage areas",
+          "Part 429, Subpart I",
+          "See Part 8.A.7"
+        ],
+        [
+          "Runoff from phosphate fertilizer manufacturing facilities that comes into contact with any raw materials, finished product, by-products or waste products (SIC 2874)",
+          "Part 418, Subpart A",
+          "See Part 8.C.4"
+        ],
+        [
+          "Runoff from asphalt emulsion facilities",
+          "Part 443, Subpart A",
+          "See Part 8.D.4"
+        ],
+        [
+          "Runoff from material storage piles at cement manufacturing facilities",
+          "Part 411, Subpart C",
+          "See Part 8.E.5"
+        ],
+        [
+          "Mine dewatering discharges at crushed stone, construction sand and gravel, or industrial sand mining facilities",
+          "Part 436, Subparts B, C, or D",
+          "See Part 8.J.9"
+        ],
+        [
+          "Runoff from hazardous waste landfills",
+          "Part 445, Subpart A",
+          "See Part 8.K.6"
+        ],
+        [
+          "Runoff from non-hazardous waste landfills",
+          "Part 445, Subpart B",
+          "See Part 8.L.10"
+        ],
+        [
+          "Runoff from coal storage piles at steam electric generating facilities",
+          "Part 423",
+          "See Part 8.O.8"
+        ],
+        [
+          "Runoff containing urea from airfield pavement deicing at existing and new primary airports with 1,000 or more annual non-propeller aircraft departures",
+          "Part 449",
+          "See Part 8.S.8"
+        ]
+      ],
+      "header_rows": 1
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.2.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "text": "Describe the measures that will be implemented at your site to control industrial stormwater discharge as necessary to meet applicable water quality standards of all affected states (i.e., your discharge must not cause or contribute to an exceedance of applicable water quality standards in any affected state)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "text": "EPA expects that compliance with the conditions in this permit will control discharges as necessary to meet applicable water quality standards. If at any time you become aware, or EPA determines, that your discharge does not meet applicable water quality standards, you must take corrective action(s) as required in Part 4.1 of the 2015 MSGP and document the corrective actions as required in Part 4.3 of the 2015 MSGP. You must also comply with any additional requirements required by your state or tribe."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "text": "EPA may also require that you undertake additional control measures (to meet the narrative water quality-based effluent limit above) on a site-specific basis, or require you to obtain coverage under an individual permit, if information in your NOI, required reports, or from other sources indicates that your discharges are not controlled as necessary to meet applicable water quality standards. You must implement all measures necessary to be consistent with an available wasteload allocation in an EPA-established or approved TMDL."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 2: POTENTIAL POLLUTANT SOURCES.",
+        "3.4 Water Quality-based Effluent Limitations and Water Quality Standards."
+      ],
+      "zone": "main",
+      "text": "INSERT DESCRIPTION OF CONTROL MEASURES TO MEET WATER QUALITY STANDARDS."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: SCHEDULES AND PROCEDURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.1 Good Housekeeping."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Good Housekeeping."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.1 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.1 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "Document a schedule or the process used for determining when pickup and disposal of waste materials occurs (e.g., roll off dumpsters are collected when full). Provide a schedule for routine inspections for leaks and conditions of drums, tanks and containers."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.1 Good Housekeeping."
+      ],
+      "zone": "main",
+      "text": "INSERT GOOD HOUSEKEEPING SCHEDULES AND PROCEDURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.2 Maintenance."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Maintenance."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.2 Maintenance."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.2 Maintenance."
+      ],
+      "zone": "main",
+      "text": "Document preventative maintenance procedures, including regular inspections, testing, maintenance and repair of all control measures to avoid situations that may result in leaks, spills, and other releases, and any back-up practices in place should a runoff event occur while a control measure is off-line. Include the schedule or frequency for maintaining all control measures used to comply with the effluent limits in Part 2 of the 2015 MSGP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.2 Maintenance."
+      ],
+      "zone": "main",
+      "text": "INSERT MAINTENANCE SCHEDULES AND PROCEDURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.3 Spill Prevention and Response Procedures."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Spill Prevention and Response Procedures."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.3 Spill Prevention and Response Procedures."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.3 Spill Prevention and Response Procedures."
+      ],
+      "zone": "main",
+      "text": "Document procedures for preventing and responding to spills and leaks, including notification procedures. For preventing spills, include control measures for material handling and storage, and the procedures for preventing spills that can contaminate stormwater. Also specify cleanup equipment, procedures and spill logs, as appropriate, in the event of spills. You may reference the existence of other plans for Spill Prevention Control and Countermeasure (SPCC) developed for the facility under Section 311 of the CWA or BMP programs otherwise required by an NPDES permit for the facility."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.3 Spill Prevention and Response Procedures."
+      ],
+      "zone": "main",
+      "text": "DESCRIBE SPILL PREVENTION AND RESPONSE PROCEDURES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.4 Erosion and Sediment Control."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.4 Erosion and Sediment Control."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.4 Erosion and Sediment Control."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.4 Erosion and Sediment Control."
+      ],
+      "zone": "main",
+      "text": "Document if polymers and/or other chemical treatments are used for erosion and sediment control and identify the polymers and/or chemicals used and the purpose."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.4 Erosion and Sediment Control."
+      ],
+      "zone": "main",
+      "text": "DESCRIBE POLYMERS AND CHEMICALS USED FOR EROSION AND SEDIMENT CONTROL."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.5 Employee Training."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.2.8 and Part 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 2.1.2.8 and 5.2.5.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "Provide the elements of your training plan, including:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The content of the training;",
+          "depth": 0
+        },
+        {
+          "text": "The frequency/schedule of training for employees who work in areas where industrial materials or activities are exposed to stormwater, or who are responsible for implementing activities necessary to meet the conditions of the permit.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "The following personnel, at a minimum, must receive training, and therefore should be listed out individually in the table below:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Personnel who are responsible for the design, installation, maintenance, and/or repair of controls (including pollution prevention measures);",
+          "depth": 0
+        },
+        {
+          "text": "Personnel responsible for the storage and handling of chemicals and materials that could become contaminants in stormwater discharges;",
+          "depth": 0
+        },
+        {
+          "text": "Personnel who are responsible for conducting and documenting monitoring and inspections as required in Parts 3 and 6; and",
+          "depth": 0
+        },
+        {
+          "text": "Personnel who are responsible for taking and documenting corrective actions as required in Part 4.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "2015 MSGP Part 2.1.2.8 requires that the personnel who are required to be trained must also be trained to understand the following if related to the scope of their job duties (e.g., only personnel responsible for conducting inspections need to understand how to conduct inspections):"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "An overview of what is in the SWPPP;",
+          "depth": 1
+        },
+        {
+          "text": "Spill response procedures, good housekeeping, maintenance requirements, and material management practices;",
+          "depth": 1
+        },
+        {
+          "text": "The location of all controls on the site required by this permit, and how they are to be maintained;",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.5 Employee Training."
+      ],
+      "zone": "main",
+      "text": "DESCRIBE EMPLOYEE TRAINING PLAN AND SCHEDULES."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.6 Inspections and Assessments."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments."
+      ],
+      "zone": "main",
+      "text": "Document procedures for performing the types of inspections specified by this permit, including:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Routine facility inspections (see Part 3.1) and;",
+          "depth": 0
+        },
+        {
+          "text": "Quarterly visual assessment of stormwater discharges (see Part 3.2).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments."
+      ],
+      "zone": "main",
+      "text": "Note: If you are invoking the exception for inactive and unstaffed sites proceed to 4.6.3 below."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "4.6.1 Routine Facility Inspections."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 3.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "Describe the procedures you will follow for conducting routine facility inspections in accordance with Part 3.1 of the 2015 MSGP. Document any findings of your facility inspections and maintain this report with your SWPPP as required in Part 5.5 of the 2015 MSGP. Summarize your findings in the annual report per Part 7.5 of the 2015 MSGP. Any corrective action required as a result of a routine facility inspection must be performed consistent with Part 4 of the 2015 MSGP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "DESCRIBE FACILITY INSPECTION PROCEDURES."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "For routine facility inspections to be performed at your site, your SWPPP must include a description of the following:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Person(s) or positions of person(s) responsible for inspection. IDENTIFY ALL PERSONS AND TITLES WITH ROUTINE FACILITY INSPECTION RESPONSIBILITIES.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "Note: Inspections must be performed by qualified personnel with at least one member of your stormwater pollution prevention team participating. Inspectors must consider the results of visual and analytical monitoring (if any) for the past year when planning and conducting inspections. Qualified personnel are those who possess the knowledge and skills to assess conditions and activities that could impact stormwater quality at your facility, and who can also evaluate the effectiveness of control measures."
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Schedules for conducting inspections. DESCRIBE THE PLANNED SCHEDULE FOR CONDUCTING ROUTINE FACILITY INSPECTIONS",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "text": "Note: Inspections must be conducted at least quarterly (i.e., once each calendar quarter), or in some instances more frequently (e.g., monthly), as appropriate. Increased frequency may be appropriate for some types of equipment, processes and stormwater control measures, or areas of the facility with significant activities and materials exposed to stormwater. At least one of your routine inspections must be conducted during a period when a stormwater discharge is occurring."
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.1 Routine Facility Inspections."
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "List areas where industrial materials or activities are exposed to stormwater. INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "List areas identified in the SWPPP (section 1 of the SWPPP Template) and any others that are potential pollutant sources (see Part 5.2.3). INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "Areas where spills and leaks have occurred in the past 3 years. INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "Inspection information for discharge points. Describe discharge points, including GPS coordinates and safety considerations, if any.",
+          "depth": 0
+        },
+        {
+          "text": "List the control measures used to comply with the effluent limits contained in this permit. INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "Other site-specific inspection objectives. DESCRIBE ANY OTHER ITEMS TO BE COVERED BY THE INSPECTION.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 3.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "text": "Describe the procedures you will follow for conducting quarterly visual assessments in accordance with Part 3.2 of the 2015 MSGP. The visual assessment must be made:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Of a discharge sample contained in a clean, colorless glass or plastic container, and examined in a well-lit area;",
+          "depth": 0
+        },
+        {
+          "text": "On samples collected within the first 30 minutes of an actual discharge from a storm event. If it is not possible to collect the sample within the first 30 minutes of discharge, the sample must be collected as soon as practicable after the first 30 minutes and you must document why it was not possible to take the sample within the first 30 minutes. In the case of snowmelt, samples must be taken during a period with a measurable discharge from your site; and",
+          "depth": 0
+        },
+        {
+          "text": "For storm events, on discharges that occur at least 72 hours (3 days) from the previous discharge. The 72-hour (3-day) storm interval does not apply if you document that less than a 72-hour (3-day) interval is representative for local storm events during the sampling period.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "text": "Document the results of your visual assessments and maintain this documentation onsite with your SWPPP as required in Part 5.5 of the 2015 MSGP. Any corrective action required as a result of a quarterly visual assessment must be performed consistent with Part 4 of the 2015 MSGP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "text": "DESCRIBE VISUAL ASSESSMENT PROCEDURES."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "text": "For quarterly visual assessments to be performed at your site, your SWPPP must include a description of the following:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.2 Quarterly Visual Assessment of Stormwater Discharges."
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Person(s) or positions of person(s) responsible for assessments. IDENTIFY ALL PARTIES RESPONSIBLE FOR CONDUCTING QUARTERLY VISUAL ASSESSMENTS.",
+          "depth": 0
+        },
+        {
+          "text": "Schedules for conducting assessments. INCLUDE THE SCHEDULES FOR CONDUCTING ASSESSMENTS, INCLUDING A TENTATIVE SCHEDULE FOR FACILITIES IN CLIMATES WITH IRREGULAR STORMWATER RUNOFF DISCHARGES.",
+          "depth": 0
+        },
+        {
+          "text": "Specific assessment activities. DESCRIBE THE VISUAL ASSESSMENT PROCEDURES INCLUDING SAMPLING EQUIPMENT, DISCHARGE POINTS, AND DOCUMENTATION.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Parts 3.1.1 and 3.2.3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "If you are invoking the exception for inactive and unstaffed sites relating to routine facility inspections and/or quarterly visual assessments, you must include documentation to support your claim that your facility has changed its status from active to inactive and unstaffed."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "To invoke this exception you must also include a statement in your SWPPP per Part 5.2.5.2 indicating that the site is inactive and unstaffed, and that there are no industrial materials or activities exposed to stormwater, in accordance with the substantive requirements in 40 CFR 122.26(g)(4)(iii). The statement must be signed and certified in accordance with Appendix B, Subsection 11."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "Note: If circumstances change and industrial materials or activities become exposed to stormwater or your facility becomes active and/or staffed, this exception no longer applies and you must immediately resume routine facility inspections. If you are not qualified for this exception at the time you become authorized under the 2015 MSGP, but during the permit term you become qualified because your facility becomes inactive and unstaffed, and there are no industrial materials or activities that are exposed to stormwater, you must include the same signed and certified statement as above and retain it with your records pursuant to Part 5.5."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "Inactive and unstaffed facilities covered under Sectors G (Metal Mining), H (Coal Mines and Coal Mining-Related Facilities), and J (Non-Metallic Mineral Mining and Dressing) are not required to meet the “no industrial materials or activities exposed to stormwater” standard to be eligible for this exception from routine inspections, per Parts 8.G.8.4, 8.H.8.1, and 8.J.8.1."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "☐This site is inactive and unstaffed, and has no industrial materials or activities exposed to stormwater, in accordance with the substantive requirements in 40 CFR 122.26(g)(4)(iii) as signed and certified in Section 7 below."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "If you are invoking the exception for inactive and unstaffed sites for your routine facility inspections and/or quarterly visual assessments, include information to support this claim."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.6 Inspections and Assessments.",
+        "4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites."
+      ],
+      "zone": "main",
+      "text": "INSERT TEXT HERE OR ATTACH DOCUMENTATION."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.7 Monitoring."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.5.3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Describe your procedures for conducting the five types of analytical monitoring specified by the 2015 MSGP, where applicable to your facility, including:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Benchmark monitoring (2015 MSGP Part 6.2.1 and relevant requirements in Part 8 and/or Part 9);",
+          "depth": 0
+        },
+        {
+          "text": "Effluent limitations guidelines monitoring (2015 MSGP Part 6.2.2 and relevant requirements in Part 8);",
+          "depth": 0
+        },
+        {
+          "text": "State- or tribal-specific monitoring (2015 MSGP Part 6.2.3 and relevant requirements in Part 9);",
+          "depth": 0
+        },
+        {
+          "text": "Impaired waters monitoring (2015 MSGP Part 6.2.4);",
+          "depth": 0
+        },
+        {
+          "text": "Other monitoring as required by EPA (2015 MSGP Part 6.2.5).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Depending on the type of facility you operate, and the monitoring requirements to which you are subject, you must collect and analyze stormwater samples and document monitoring activities consistent with the procedures described in 2015 MSGP Part 6 and Appendix B, Subsections 10 – 12, and any additional sector-specific or state/tribal-specific requirements in 2015 MSGP Parts 8 and 9, respectively. Refer to 2015 MSGP Part 7 for reporting and recordkeeping requirements. Note: All monitoring must be conducted in accordance with the relevant sampling and analysis requirements at 40 CFR Part 136. Include in your description procedures for ensuring compliance with these requirements."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "If you are invoking the exception for inactive and unstaffed sites for benchmark monitoring, you must include in your SWPPP the information to support this claim as required by 2015 MSGP Part 6.2.1.3."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "If you plan to use the substantially identical discharge point exception for your benchmark monitoring requirements, impaired waters monitoring requirements, and/or your quarterly visual assessment, you must include the following documentation:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Location of each of the substantially identical discharge points;",
+          "depth": 0
+        },
+        {
+          "text": "Description of the general industrial activities conducted in the drainage area of each discharge point;",
+          "depth": 0
+        },
+        {
+          "text": "Description of the control measures implemented in the drainage area of each discharge point;",
+          "depth": 0
+        },
+        {
+          "text": "Description of the exposed materials located in the drainage area of each discharge point that are likely to be significant contributors of pollutants to stormwater discharges;",
+          "depth": 0
+        },
+        {
+          "text": "An estimate of the runoff coefficient of the drainage areas (low = under 40%; medium = 40 to 65%; high = above 65%);",
+          "depth": 0
+        },
+        {
+          "text": "Why the discharge points are expected to discharge substantially identical effluents.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Check the following monitoring activities applicable to your facility:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐Quarterly benchmark monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐Effluent limitations guidelines monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐State- or tribal-specific monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐Impaired waters monitoring"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐Other monitoring required by EPA"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "For each type of monitoring checked above, your SWPPP must include the following information:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Select type of monitoring activity from drop-down list below (if subject to more than one type of monitoring activity, you will need to copy and paste the items below for each monitoring activity):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Click here to select monitoring activity type"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Sample location(s). Describe where samples will be collected, including any determination that two or more discharge points are substantially identical.",
+          "depth": 0
+        },
+        {
+          "text": "Pollutants to be sampled. Include a list of the pollutants that will be sampled and the frequency of sampling for each pollutant.",
+          "depth": 0
+        },
+        {
+          "text": "Monitoring Schedules. Include the schedule you will follow for monitoring your stormwater discharge, including where applicable any alternate monitoring periods to be used for facilities in climates with irregular stormwater runoff (2015 MSGP Part 6.1.6) or airport deicing monitoring.",
+          "depth": 0
+        },
+        {
+          "text": "Numeric Limitations. List here any pollutants subject to numeric limits (effluent limitations guidelines), and which discharge points are subject to such limits. Note that numeric limits are only included for Sectors A, C, D, E, J, K, L, and O.",
+          "depth": 0
+        },
+        {
+          "text": "Procedures. Describe procedures you will follow for collecting samples, including responsible staff who will be involved, logistics for taking and handling samples, laboratory to be used, etc.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Note: it may be helpful to create a table with columns corresponding to # 1 - 5 above for each type of monitoring you are required to conduct."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Inactive and unstaffed sites exception (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "☐This site is inactive and unstaffed, and has no industrial materials or activities exposed to stormwater, in accordance with the substantive requirements in 40 CFR 122.26(g)(4)(iii) as signed and certified in Section 7 below."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "Substantially identical discharge point (outfall) exception (if applicable)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "text": "If you plan to use the substantially identical discharge point exception for your benchmark monitoring and/or quarterly visual assessment requirements, include the following information here to substantiate your claim that these discharge points are substantially identical (2015 MSGP Part 5.2.5.3):"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 4: SCHEDULES AND PROCEDURES.",
+        "4.7 Monitoring."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Location of each of the substantially identical discharge points: INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "List the general industrial activities conducted in the drainage area of each discharge point: INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "List the control measures implemented in the drainage area of each discharge point: INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "List the exposed materials located in the drainage area of each discharge point that are likely to be significant contributors of pollutants to stormwater discharges: INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "An estimate of the runoff coefficient of the drainage areas (low=under 40%; medium=40 to 65%; high =above 65%): INSERT TEXT HERE",
+          "depth": 0
+        },
+        {
+          "text": "Why the discharge points are expected to discharge substantially identical effluents: INSERT TEXT HERE",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.1 Documentation Regarding Endangered Species."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Documentation Regarding Endangered Species."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.1 Documentation Regarding Endangered Species."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.6.1):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.1 Documentation Regarding Endangered Species."
+      ],
+      "zone": "main",
+      "text": "Include any documentation you have that supports your determination of eligibility consistent with 2015 MSGP, Part 1.1.4.5 (Endangered and Threatened Species and Critical Habitat Protection). Refer to Appendix E of the 2015 MSGP for specific instructions for establishing eligibility."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.1 Documentation Regarding Endangered Species."
+      ],
+      "zone": "main",
+      "text": "INSERT TEXT HERE OR ATTACH DOCUMENTATION ."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.2 Documentation Regarding Historic Properties."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Documentation Regarding Historic Properties."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.2 Documentation Regarding Historic Properties."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.6.2):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.2 Documentation Regarding Historic Properties."
+      ],
+      "zone": "main",
+      "text": "Include any documentation you have that supports your determination of eligibility consistent with 2015 MSGP Part 1.1.4.6 (Historic Properties Preservation). Refer to 2015 MSGP, Appendix F for specific instructions for establishing eligibility."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS.",
+        "5.2 Documentation Regarding Historic Properties."
+      ],
+      "zone": "main",
+      "text": "INSERT TEXT HERE OR ATTACH DOCUMENTATION."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 6: CORRECTIVE ACTIONS."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: CORRECTIVE ACTIONS."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 6: CORRECTIVE ACTIONS."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 4):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 6: CORRECTIVE ACTIONS."
+      ],
+      "zone": "main",
+      "text": "Describe the procedures for taking corrective action in compliance with Part 4 of the 2015 MSGP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 6: CORRECTIVE ACTIONS."
+      ],
+      "zone": "main",
+      "text": "INSERT TEXT HERE OR ATTACH DOCUMENTATION."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: SWPPP CERTIFICATION."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.2.7):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "text": "The following certification statement must be signed and dated by a person who meets the requirements of Appendix B, Subsection 11.A, of the 2015 MSGP."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "text": "Note: this certification must be re-signed in the event of a SWPPP modification in response to a Part 4.1 trigger for corrective action."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "text": "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gathered and evaluated the information submitted. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge and belief, true, accurate and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations."
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "SECTION 7: SWPPP CERTIFICATION."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Name:",
+          "",
+          "",
+          "Title:",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Signature:",
+          "Signature:",
+          "",
+          "",
+          "",
+          "Date:",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: SWPPP MODIFICATIONS."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Instructions (see 2015 MSGP Part 5.3):"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Your SWPPP is a “living” document and is required to be modified and updated, as necessary, in response to corrective actions. See Part 4 of the 2015 MSGP."
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If you need to modify the SWPPP in response to a corrective action required by Part 4.1 or 4.2 of the 2015 MSGP, then the certification statement in section 7 of this SWPPP template must be re-signed in accordance with 2015 MSGP Appendix B, Subsection 11.A.",
+          "depth": 0
+        },
+        {
+          "text": "For any other SWPPP modification, you should keep a log with a description of the modification, the name of the person making it, and the date and signature of that person. See 2015 MSGP Appendix B, Subsection 11.C.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "SWPPP ATTACHMENTS"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Attach the following documentation to the SWPPP:"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Attachment A – General Location Map"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Include a copy of your general location map in Attachment A."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Attachment B – Site Map"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Include a copy of your site map(s) in Attachment B."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Attachment C –2015 MSGP"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "SECTION 8: SWPPP MODIFICATIONS."
+      ],
+      "zone": "main",
+      "text": "Note: it is helpful to keep a printed-out copy of the 2015 MSGP so that it is accessible to you for easy reference. However, you do not need to formally incorporate the entire 2015 MSGP into your SWPPP. As an alternative, you can include a reference to the permit and where it is kept at the site."
+    }
+  ]
+}

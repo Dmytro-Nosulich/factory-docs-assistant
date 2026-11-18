@@ -1,0 +1,571 @@
+{
+  "doc_id": "D026",
+  "format": "pdf",
+  "page_count": 3,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "912e1dbd2a84e556ccaacb2d10da569676de5b928ea5262587cb49442f3aae03",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Fact Sheet"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Nitrogen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Nitrogen"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "(Meets the requirements of DIN EN ISO 14175: N1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)"
+      ],
+      "zone": "main",
+      "text": "Purity, %: 99.8 (including noble gases)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)"
+      ],
+      "zone": "main",
+      "text": ".............................................................................................................................................................................................................................."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)"
+      ],
+      "zone": "main",
+      "text": "Type of supply: Steel cylinder\nCapacity, Cylinder Filling pressure, Gross weight Outer diameter Cylinder length"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "[Liter]",
+          "contents, [m³]",
+          "approx. [bar]",
+          "approx. [kg]",
+          "approx. [mm]",
+          "approx. [mm]"
+        ],
+        [
+          "10",
+          "1.91",
+          "200",
+          "20",
+          "140",
+          "975"
+        ],
+        [
+          "20",
+          "3.81",
+          "200",
+          "40",
+          "204",
+          "965"
+        ],
+        [
+          "50",
+          "9.53",
+          "200",
+          "80",
+          "229",
+          "1655"
+        ],
+        [
+          "50",
+          "13.2",
+          "300",
+          "90",
+          "229",
+          "1700"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "Cylinder bundle"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Cylinder bundle"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "Cylinder bundle"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Capacity,",
+          "Cylinder",
+          "",
+          "Filling pressure,",
+          "",
+          "number of",
+          "",
+          "Gross weight",
+          "Dimension",
+          "approx.",
+          ""
+        ],
+        [
+          "[Liter]",
+          "contents,",
+          "[m³]",
+          "approx.",
+          "[bar]",
+          "cylinder",
+          "in bundle",
+          "approx. [kg]",
+          "(L x W x H) [mm]",
+          "",
+          ""
+        ],
+        [
+          "600",
+          "114",
+          "",
+          "200",
+          "",
+          "12",
+          "",
+          "1320",
+          "1900 x 1000",
+          "",
+          "x 770"
+        ],
+        [
+          "600",
+          "158",
+          "",
+          "300",
+          "",
+          "12",
+          "",
+          "1460",
+          "1900 x 1000",
+          "",
+          "x 770"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "Cylinder bundle"
+      ],
+      "zone": "main",
+      "text": "LIPAC® duo"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "Cylinder bundle"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Capacity,",
+          "Cylinder",
+          "",
+          "Filling  pressure,",
+          "",
+          "number",
+          "of",
+          "Gross weight",
+          "Dimension",
+          "approx.",
+          ""
+        ],
+        [
+          "[Liter]",
+          "contents,",
+          "[m³]",
+          "approx.",
+          "[bar]",
+          "cylinder",
+          "in bundle",
+          "approx. [kg]",
+          "(L x W x H) [mm]",
+          "",
+          ""
+        ],
+        [
+          "600",
+          "158",
+          "",
+          "300",
+          "",
+          "12",
+          "",
+          "1460",
+          "1900 x 1000",
+          "",
+          "x 775"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "cryo vessel medium and high pressure"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Capacity,",
+          "Cylinder",
+          "Filling pressure,",
+          "Gross weight",
+          "Dimension approx."
+        ],
+        [
+          "[Liter]",
+          "contents, [Liter]",
+          "approx. [bar]",
+          "approx. [kg]",
+          "(L x W x H) [mm]"
+        ],
+        [
+          "170",
+          "170",
+          "9",
+          "275 (435 mit",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Palette)",
+          "1562x980x770"
+        ],
+        [
+          "600",
+          "575",
+          "14",
+          "1100",
+          "1200x800x2000"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Additional delivery types on demand.\n.............................................................................................................................................................................................................................."
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Conversion",
+          "factors:",
+          "m³ gas (15°C, 1 bar)",
+          "l liquid at Tb",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "1",
+          "1.447",
+          "1.17"
+        ],
+        [
+          "",
+          "",
+          "0.691",
+          "1",
+          "0.809"
+        ],
+        [
+          "",
+          "",
+          "0.855",
+          "1.237",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Linde GmbH\nGases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland\nTelephone: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de\nTo ensure a high level of customer service the customer data,"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Nitrogen - (Meets the requirements of DIN EN ISO 14175: N1) 2 from 3"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Identification:",
+          "Cylinder shoulder colour/ Circular colour strip at bundles",
+          "Black RAL 9005"
+        ],
+        [
+          "",
+          "Label:",
+          "Nitrogen"
+        ],
+        [
+          "",
+          "Valve outlet:",
+          "Filling pressure 200 bar: W 24,32 x 1/14, DIN 477 No. 10 Filling pressure 300 bar: W 30 x 2, ISO 5145 No. 30 LIPAC® duo bundle: 300bar connector according ISO 5145"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "second connector pressure reduced according DIN 477 -1\nBecause of the necessary high flow rate for laser high\npressure cutting the pressure reduced connector (marked\nwith \"200bar\")on LIPAC ® duo is not recomended. Please\nuse for laser high pressure cutting (necessary N2 flow > 80\nNm3/h) the 300 bar connector."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "..............................................................................................................................................................................................................................\nProperties: compressed gas, suffocating, chemically inert"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Chemical symbol: N2\nMolar mass: 28.013 g/mol"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Tripel point:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Temperature Pressure Heat of fusion\n63.2 K ( °C) 0.1253 bar 25.8 kJ/kg"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Relative density based on dry air (15°C, 1 bar):",
+          "0.967",
+          ""
+        ],
+        [
+          "Critical temperature:",
+          "126.2 K",
+          "(-146.95 °C)"
+        ],
+        [
+          "Boiling point at 1.013 bar (Ts):",
+          "77.35 K",
+          "(-195.8 °C)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "..............................................................................................................................................................................................................................\nApplications: Shielding gas and welding gas component in metal working industry; shielding gas in chemical and\nelectrical industry; purging gas in metallurgy, electrical industry, for pressure testing of pipes, pipelines\nand vessels; cutting gas for laser cutting; process gas for pla sma cutting; inert gas for industry service\n............................................................................................................................................................................\nAlso available: BIOGON® N E941\nBIOGON® N flüssig E941\nEURO 6 Stickstoff 6.0\nStickstoff 5.0\nStickstoff 5.3\nStickstoff 5.5 ECD\nStickstoff 6.0\nStickstoff 7.0\nStickstoff flüssig 2.8\nStickstoff flüssig 5.0\nStickstoff flüssig LI -PUR® 5.6\nStickstoff flüssig LI -PUR® 6.0\nStickstoff flüssig LI-PUR® 7.0\nVERISEQ® GAN Pharma\nVERISEQ®LIN Pharma"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Mixtures with other gases in defined compositions."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Linde GmbH\nGases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland\nTelephone: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de\nTo ensure a high level of customer service the customer data,"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Disclaimer: The information provided in this product data is, to the best of our knowledge, accurate as of the\ndate of publication. Linde GmbH reviews and updates this information constantly, and reserves the\nright to make amendments or additions to the information provided. Nevertheless, the accuracy of\nthe data may have changed in the meantime. Linde GmbH does not guarantee and accepts no\nliability for the timeliness, accuracy and completeness of the information provided. It is the users\nresponsibility to ensure that any legal requirements are met and that the products described herein\nare suitable for their intended purpose. The contents of this product data sheet are not contractual\nwarranties of product´s properties. Reproduction of information, text, images or data requires the\nprior approval of Linde GmbH. Reproduction of information, text, images or data requires the prior\napproval of Linde GmbH."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Linde GmbH\nGases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland\nTelefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de\nZur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern\nelektronisch gespeichert und verarbeitet."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Nitrogen",
+        "(Meets the requirements of DIN EN ISO 14175: N1)",
+        "cryo vessel medium and high pressure"
+      ],
+      "zone": "main",
+      "text": "Änderungen vorbehalten\nStand 11.08.2016 - After check still valid unchanged"
+    }
+  ]
+}

@@ -1,0 +1,1975 @@
+{
+  "doc_id": "D001",
+  "format": "pdf",
+  "page_count": 12,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "9feb130d3aed91698df21b06149b83b0bdcad5d538c14d71b40b30daf50fa704",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Nitrogen, compressed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Issue Date: 16.01.2013 Version: 1.3 SDS No.: 000010021697"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Last revised date: 20.02.2020 1/12"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Product identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "text": "Product name: Nitrogen, compressed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "text": "Trade name: BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6\nChemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0\nInstrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0,\nNitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process,\nNitrogen VERISEQ® Research"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "text": "Additional identification\nChemical name: Nitrogen"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Chemical formula:",
+          "N2"
+        ],
+        [
+          "INDEX No.",
+          "-"
+        ],
+        [
+          "CAS-No.",
+          "7727-37-9"
+        ],
+        [
+          "EC No.",
+          "231-783-9"
+        ],
+        [
+          "REACH Registration No.",
+          "Listed in Annex IV/V of Regulation (EC) No 1907/2006 (REACH), exempted from registration."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Identified uses: Industrial and professional. Perform risk assessment prior to use.\nAerosol propellant. Balance gas for mixtures. Blanketing gas. Calibration gas.\nCarrier gas. Fire suppressant gas. Food packaging gas. Inerting gas. Inflating\ntyres. Laboratory use. Laser gas. Pressure head gas, operational assist gas in\npressure systems. Process gas. Purge gas. Test gas.\nConsumer use.\nBeverage applications. Shielding gas in gas welding.\nIt is the responsibility of the end user to ensure that the product as supplied is\nsuitable for its intended use.\nUses advised against Industrial or technical grade is unsuitable for medical and/or food\napplications or inhalation."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Supplier\nLinde Gas AB Telephone: +46 8 7069500\nRättarvägen 3, 169 68 Solna, Sweden"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "E-mail: sds.ren@linde.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4 Emergency telephone number: Poison center: 020-99 60 00 (24 h). Emergency number: 112"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Emergency telephone number: Poison center: 020-99 60 00 (24 h). Emergency number: 112"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Classification according to Regulation (EC) No 1272/2008 as amended.\nPhysical Hazards\nGases under pressure Compressed gas H280: Contains gas under pressure; may explode if\nheated."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Label Elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Signal Words: Warning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Hazard Statement(s): H280: Contains gas under pressure; may explode if heated."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Precautionary Statements\nPrevention: None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Response: None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Storage: P403: Store in a well-ventilated place."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Disposal: None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label Elements"
+      ],
+      "zone": "main",
+      "text": "Supplemental label information\nEIGA-As: Asphyxiant in high concentrations."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3 Other hazards: None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Other hazards: None."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1 Substances"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1 Substances"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1 Substances"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Chemical name",
+          "Nitrogen"
+        ],
+        [
+          "INDEX No.:",
+          "-"
+        ],
+        [
+          "CAS-No.:",
+          "7727-37-9"
+        ],
+        [
+          "EC No.:",
+          "231-783-9"
+        ],
+        [
+          "REACH Registration No.:",
+          "Listed in Annex IV/V of Regulation (EC) No 1907/2006 (REACH), exempted from registration."
+        ],
+        [
+          "Purity:",
+          "100% The purity of the substance in this section is used for classification only, and does not represent the actual purity of the substance as supplied, for which other documentation should be consulted."
+        ],
+        [
+          "Trade name:",
+          "BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® Research"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "text": "General: In high concentrations may cause asphyxiation. Symptoms may include loss of\nmobility/consciousness. Victim may not be aware of asphyxiation. Remove victim\nto uncontaminated area wearing self contained breathing apparatus. Keep victim\nwarm and rested. Call a doctor. Apply artificial respiration if breathing stopped."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Inhalation: In high concentrations may cause asphyxiation. Symptoms may include loss of\nmobility/consciousness. Victim may not be aware of asphyxiation. Remove victim\nto uncontaminated area wearing self contained breathing apparatus. Keep victim\nwarm and rested. Call a doctor. Apply artificial respiration if breathing stopped."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Eye contact: Adverse effects not expected from this product."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Skin Contact: Adverse effects not expected from this product."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Ingestion: Ingestion is not considered a potential route of exposure."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2 Most important symptoms and Respiratory arrest."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Most important symptoms and Respiratory arrest."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2 Most important symptoms and Respiratory arrest."
+      ],
+      "zone": "main",
+      "text": "effects, both acute and\ndelayed:"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Hazards: None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Treatment: None."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "text": "General Fire Hazards: Heat may cause the containers to explode."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media: Material will not burn. In case of fire in the surroundings: use appropriate\nextinguishing agent."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Unsuitable extinguishing None.\nmedia:"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2 Special hazards arising from the None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Special hazards arising from the None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2 Special hazards arising from the None."
+      ],
+      "zone": "main",
+      "text": "substance or mixture:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2 Special hazards arising from the None."
+      ],
+      "zone": "main",
+      "text": "Hazardous Combustion Products: None."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Advice for firefighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Special fire fighting In case of fire: Stop leak if safe to do so. Continue water spray from protected\nprocedures: position until container stays cool. Use extinguishants to contain the fire. Isolate\nthe source of the fire or let it burn out."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Special protective equipment Firefighters must use standard protective equipment including flame retardant\nfor fire-fighters: coat, helmet with face shield, gloves, rubber boots, and in enclosed spaces, SCBA.\nGuideline: EN 469 Protective clothing for firefighters. Performance requirements\nfor protective clothing for firefighting. EN 15090 Footwear for firefighters. EN 659\nProtective gloves for firefighters. EN 443 Helmets for fire fighting in buildings and\nother structures. EN 137 Respiratory protective devices - Self-contained open-circuit compressed air breathing apparatus with full face mask - Requirements,\ntesting, marking."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1 Personal precautions, Evacuate area. Provide adequate ventilation. Prevent from entering sewers,"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Personal precautions, Evacuate area. Provide adequate ventilation. Prevent from entering sewers,"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1 Personal precautions, Evacuate area. Provide adequate ventilation. Prevent from entering sewers,"
+      ],
+      "zone": "main",
+      "text": "protective equipment and basements and workpits, or any place where its accumulation can be dangerous.\nemergency procedures: Wear self-contained breathing apparatus when entering area unless atmosphere\nis proved to be safe. Guideline EN 137 Respiratory protective devices - Self-contained open-circuit compressed air breathing apparatus with full face mask -\nRequirements, testing, marking."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2 Environmental Precautions: Prevent further leakage or spillage if safe to do so."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Environmental Precautions: Prevent further leakage or spillage if safe to do so."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for Provide adequate ventilation."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Methods and material for Provide adequate ventilation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for Provide adequate ventilation."
+      ],
+      "zone": "main",
+      "text": "containment and cleaning up:"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4 Reference to other sections: Refer to sections 8 and 13."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Reference to other sections: Refer to sections 8 and 13."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage:"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:",
+        "7.1 Precautions for safe handling: Only experienced and properly instructed persons should handle gases under"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Precautions for safe handling: Only experienced and properly instructed persons should handle gases under"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:",
+        "7.1 Precautions for safe handling: Only experienced and properly instructed persons should handle gases under"
+      ],
+      "zone": "main",
+      "text": "pressure. Use only properly specified equipment which is suitable for this product,\nits supply pressure and temperature. Refer to supplier's handling instructions. The\nsubstance must be handled in accordance with good industrial hygiene and safety\nprocedures. Protect containers from physical damage; do not drag, roll, slide or\ndrop. Do not remove or deface labels provided by the supplier for the\nidentification of the container contents. When moving containers, even for short\ndistances, use appropriate equipment eg. trolley, hand truck, fork truck etc.\nSecure cylinders in an upright position at all times, close all valves when not in\nuse. Provide adequate ventilation. Suck back of water into the container must be\nprevented. Do not allow backfeed into the container. Avoid suckback of water,\nacid and alkalis. Keep container below 50°C in a well ventilated place. Observe all\nregulations and local requirements regarding storage of containers. When using\ndo not eat, drink or smoke. Store in accordance with\nlocal/regional/national/international regulations. Never use direct flame or\nelectrical heating devices to raise the pressure of a container. Leave valve\nprotection caps in place until the container has been secured against either a wall\nor bench or placed in a container stand and is ready for use. Damaged valves\nshould be reported immediately to the supplier Close container valve after each\nuse and when empty, even if still connected to equipment. Never attempt to\nrepair or modify container valves or safety relief devices. Replace valve outlet\ncaps or plugs and container caps where supplied as soon as container is\ndisconnected from equipment. Keep container valve outlets clean and free from\ncontaminates particularly oil and water. If user experiences any difficulty\noperating container valve discontinue use and contact supplier. Never attempt to\ntransfer gases from one container to another. Container valve guards or caps\nshould be in place."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:",
+        "7.2 Conditions for safe storage, Containers should not be stored in conditions likely to encourage corrosion. Stored"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Conditions for safe storage, Containers should not be stored in conditions likely to encourage corrosion. Stored"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:",
+        "7.2 Conditions for safe storage, Containers should not be stored in conditions likely to encourage corrosion. Stored"
+      ],
+      "zone": "main",
+      "text": "including any incompatibilities: containers should be periodically checked for general conditions and leakage.\nContainer valve guards or caps should be in place. Store containers in location free\nfrom fire risk and away from sources of heat and ignition. Keep away from\ncombustible material."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage:",
+        "7.3 Specific end use(s): None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Specific end use(s): None."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control Parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Control Parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control Parameters"
+      ],
+      "zone": "main",
+      "text": "Occupational Exposure Limits\nNone of the components have assigned exposure limits."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering Consider a work permit system e.g. for maintenance activities. Ensure adequate\ncontrols: air ventilation. Provide adequate ventilation, including appropriate local\nextraction, to ensure that the defined occupational exposure limit is not\nexceeded. Oxygen detectors should be used when asphyxiating gases may be\nreleased. Systems under pressure should be regularly checked for leakages.\nPreferably use permanent leak tight connections (eg. welded pipes). Do not eat,\ndrink or smoke when using the product."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Individual protection measures, such as personal protective equipment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "General information: A risk assessment should be conducted and documented in each work area to\nassess the risks related to the use of the product and to select the PPE that\nmatches the relevant risk. The following recommendations should be considered.\nKeep self contained breathing apparatus readily available for emergency use.\nPersonal protective equipment for the body should be selected based on the task\nbeing performed and the risks involved."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Eye/face protection: Wear eye protection to EN 166 when using gases.\nGuideline: EN 166 Personal Eye Protection."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Skin protection\nHand Protection: Wear working gloves while handling containers\nGuideline: EN 388 Protective gloves against mechanical risks."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Body protection: No special precautions."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Other: Wear safety shoes while handling containers\nGuideline: ISO 20345 Personal protective equipment - Safety footwear."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Respiratory Protection: Not required."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Thermal hazards: No precautionary measures are necessary."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Hygiene measures: Specific risk management measures are not required beyond good industrial\nhygiene and safety procedures. Do not eat, drink or smoke when using the\nproduct."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Environmental exposure For waste disposal, see section 13 of the SDS.\ncontrols:"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Appearance\nPhysical state: Gas\nForm: Compressed gas\nColor: Colorless"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Odor:",
+          "Odorless gas"
+        ],
+        [
+          "Odor Threshold:",
+          "Odor threshold is subjective and is inadequate to warn of over exposure."
+        ],
+        [
+          "pH:",
+          "Not applicable."
+        ],
+        [
+          "Melting Point:",
+          "-210,01 °C"
+        ],
+        [
+          "Boiling Point:",
+          "-196 °C"
+        ],
+        [
+          "Sublimation Point:",
+          "Not applicable."
+        ],
+        [
+          "Critical Temp. (°C):",
+          "-147,0 °C"
+        ],
+        [
+          "Flash Point:",
+          "Not applicable to gases and gas mixtures."
+        ],
+        [
+          "Evaporation Rate:",
+          "Not applicable to gases and gas mixtures."
+        ],
+        [
+          "Flammability (solid, gas):",
+          "This product is not flammable."
+        ],
+        [
+          "Flammability Limit - Upper (%):",
+          "Not applicable."
+        ],
+        [
+          "Flammability Limit - Lower (%):",
+          "Not applicable."
+        ],
+        [
+          "Vapor pressure:",
+          "No reliable data available."
+        ],
+        [
+          "Vapor density (air=1):",
+          "0,97"
+        ],
+        [
+          "Relative density:",
+          "0,8"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Solubility(ies)"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Solubility in Water:",
+          "20 mg/l"
+        ],
+        [
+          "Partition coefficient (n-octanol/water):",
+          "",
+          "0,67"
+        ],
+        [
+          "Autoignition Temperature:",
+          "",
+          "Not applicable."
+        ],
+        [
+          "Decomposition Temperature:",
+          "",
+          "Not known."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Viscosity"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Kinematic viscosity:",
+          "No data available."
+        ],
+        [
+          "",
+          "Dynamic viscosity:",
+          "0,171 mPa.s (10,9 °C)"
+        ],
+        [
+          "Explosive properties:",
+          "",
+          "Not applicable."
+        ],
+        [
+          "Oxidizing properties:",
+          "",
+          "Not applicable."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information: None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Other information: None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information: None."
+      ],
+      "zone": "main",
+      "text": "Molecular weight: 28,01 g/mol (N2)"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1 Reactivity: No reactivity hazard other than the effects described in sub-section below."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reactivity: No reactivity hazard other than the effects described in sub-section below."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2 Chemical Stability: Stable under normal conditions."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Chemical Stability: Stable under normal conditions."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3 Possibility of hazardous None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Possibility of hazardous None."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3 Possibility of hazardous None."
+      ],
+      "zone": "main",
+      "text": "reactions:"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4 Conditions to avoid: None."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Conditions to avoid: None."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5 Incompatible Materials: No reaction with any common materials in dry or wet conditions."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Incompatible Materials: No reaction with any common materials in dry or wet conditions."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6 Hazardous Decomposition Under normal conditions of storage and use, hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Hazardous Decomposition Under normal conditions of storage and use, hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6 Hazardous Decomposition Under normal conditions of storage and use, hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "Products: should not be produced."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "text": "General information: None."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Information on toxicological effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity - Oral\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity - Dermal\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity - Inhalation\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Skin Corrosion/Irritation\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Serious Eye Damage/Eye Irritation\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Respiratory or Skin Sensitization\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Germ Cell Mutagenicity\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicity\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Reproductive toxicity\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Specific Target Organ Toxicity - Single Exposure\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Specific Target Organ Toxicity - Repeated Exposure\nProduct Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Aspiration Hazard\nProduct Not applicable to gases and gas mixtures.."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity\nProduct No ecological damage caused by this product."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2 Persistence and Degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistence and Degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2 Persistence and Degradability"
+      ],
+      "zone": "main",
+      "text": "Product The substance is naturally occurring."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3 Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3 Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Product The subject product is expected to biodegrade and is not expected to persist for\nlong periods in an aquatic environment."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4 Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4 Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "Product The substance is a gas, not applicable."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Results of PBT and vPvB"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB"
+      ],
+      "zone": "main",
+      "text": "assessment\nProduct Not classified as PBT or vPvB."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6 Other adverse effects: No ecological damage caused by this product."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Other adverse effects: No ecological damage caused by this product."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Waste treatment methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "General information: Do not discharge into any place where its accumulation could be dangerous. Vent\nto atmosphere in a well ventilated place."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Disposal methods: Refer to the EIGA code of practice (Doc.30 \"Disposal of Gases\", downloadable at\nhttp://www.eiga.org) for more guidance on suitable disposal methods. Dispose\nof container via supplier only. Discharge, treatment, or disposal may be subject to\nnational, state, or local laws."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "European Waste Codes\nContainer: 16 05 05: Gases in pressure containers other than those mentioned in 16 05\n04."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "ADR\n14.1 UN Number: UN 1066\n14.2 UN Proper Shipping Name: NITROGEN, COMPRESSED"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport Hazard Class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "text": "Class: 2\nLabel(s): 2.2\nHazard No. (ADR): 20\nTunnel restriction code: (E)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing Group: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing Group: –"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user: –"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "RID"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "14.1 UN Number: UN 1066\n14.2 UN Proper Shipping Name NITROGEN, COMPRESSED"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport Hazard Class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "text": "Class: 2\nLabel(s): 2.2"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing Group: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing Group: –"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user: –"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "IMDG\n14.1 UN Number: UN 1066\n14.2 UN Proper Shipping Name: NITROGEN, COMPRESSED"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport Hazard Class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es)"
+      ],
+      "zone": "main",
+      "text": "Class: 2.2\nLabel(s): 2.2\nEmS No.: F-C, S-V"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing Group: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing Group: –"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user: –"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "IATA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "14.1 UN Number: UN 1066"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 Proper Shipping Name: Nitrogen, compressed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Proper Shipping Name: Nitrogen, compressed"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es):"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport Hazard Class(es):"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport Hazard Class(es):"
+      ],
+      "zone": "main",
+      "text": "Class: 2.2\nLabel(s): 2.2"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing Group: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing Group: –"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user: –"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user: –"
+      ],
+      "zone": "main",
+      "text": "Other information\nPassenger and cargo aircraft: Allowed.\nCargo aircraft only: Allowed."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Transport in bulk according to Annex II of MARPOL and the IBC Code: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Transport in bulk according to Annex II of MARPOL and the IBC Code: Not applicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Transport in bulk according to Annex II of MARPOL and the IBC Code: Not applicable"
+      ],
+      "zone": "main",
+      "text": "Additional identification: Avoid transport on vehicles where the load space is not separated from\nthe driver's compartment. Ensure vehicle driver is aware of the potential\nhazards of the load and knows what to do in the event of an accident or\nan emergency. Before transporting product containers ensure that they\nare firmly secured. Ensure that the container valve is closed and not\nleaking. Container valve guards or caps should be in place. Ensure\nadequate air ventilation."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture:"
+      ],
+      "zone": "main",
+      "text": "EU. Directive 2012/18/EU (SEVESO III) on major accident hazards involving dangerous substances, as amended.:\nNot applicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture:"
+      ],
+      "zone": "main",
+      "text": "National Regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture:"
+      ],
+      "zone": "main",
+      "text": "Council Directive 89/391/EEC on the introduction of measures to encourage\nimprovements in the safety and health of workers at work Directive 89/686/EEC on\npersonal protective equipment Only products that comply with the food regulations\n(EC) No. 1333/2008 and (EU) No. 231/2012 and are labelled as such may be used as\nfood additives.\nThis Safety Data Sheet has been produced to comply with Regulation (EU) 2015/830."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2 Chemical safety assessment: No Chemical Safety Assessment has been carried out."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Chemical safety assessment: No Chemical Safety Assessment has been carried out."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Revision Information: Not relevant."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Key literature references and Various sources of data have been used in the compilation of this SDS, they include\nsources for data: but are not exclusive to:\nAgency for Toxic Substances and Diseases Registry (ATSDR)\n(http://www.atsdr.cdc.gov/).\nEuropean Chemical Agency: Guidance on the Compilation of Safety Data Sheets.\nEuropean Chemical Agency: Information on Registered Substances\nhttp://apps.echa.europa.eu/registered/registered-sub.aspx#search\nEuropean Industrial Gases Association (EIGA) Doc. 169 Classification and Labelling\nguide.\nInternational Programme on Chemical Safety (http://www.inchem.org/)\nISO 10156:2010 Gases and gas mixtures - Determination of fire potential and\noxidizing ability for the selection of cylinder valve outlets.\nMatheson Gas Data Book, 7th Edition.\nNational Institute for Standards and Technology (NIST) Standard Reference Database\nNumber 69.\nThe ESIS (European chemical Substances 5 Information System) platform of the\nformer European Chemicals Bureau (ECB) ESIS (http://ecb.jrc.ec.europa.eu/esis/).\nThe European Chemical Industry Council (CEFIC) ERICards.\nUnited States of America’s National Library of Medicine’s toxicology data network\nTOXNET (http://toxnet.nlm.nih.gov/index.html)\nThreshold Limit Values (TLV) from the American Conference of Governmental\nIndustrial Hygienists (ACGIH).\nSubstance specific information from suppliers.\nDetails given in this document are believed to be correct at the time of publication."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Wording of the H-statements in section 2 and 3\nH280 Contains gas under pressure; may explode if heated."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Classification according to Regulation (EC) No 1272/2008 as amended.\nPress. Gas Compr. Gas, H280"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Other information: Before using this product in any new process or experiment, a thorough material\ncompatibility and safety study should be carried out. Ensure adequate air ventilation.\nEnsure all national/local regulations are observed. Whilst proper care has been\ntaken in the preparation of this document, no liability for injury or damage resulting\nfrom its use can be accepted."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Last revised date: 20.02.2020\nDisclaimer: This information is provided without warranty. The information is believed to be\ncorrect. This information should be used to make an independent determination of\nthe methods to safeguard workers and the environment."
+    }
+  ]
+}

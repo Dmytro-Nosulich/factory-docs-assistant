@@ -1,0 +1,81 @@
+{
+  "doc_id": "D011",
+  "format": "pdf",
+  "page_count": 1,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "525272d2f30488fb78bdc5147fb0ba0b5009c6a10d854e24fad11302de9d6f1e",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "DATE: 22 March 2024"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Product Identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "SRM Number: 613\nSRM Name: Trace Elements in Glass\nUnder the U.S. Department of Labor, Occupational Safety and Health Administration (OSHA) 29 CFR 1910.1200,\nthis Standard Reference Material (SRM) is NOT classified as a physical hazard or a health hazard, a simple asphyxiant,\ncombustible dust, pyrophoric gas, or hazard not otherwise classified. There are no hazard pictograms, hazard\nstatements or signal word associated with it. Safety Data Sheet information is not required. This document may be\nused in conjunction with your hazard communication program. Articles are exempted per 1910.1200(c)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "Description: This SRM is intended to facilitate development of chemical methods of analysis for trace elements in\nglass. A unit of SRM 613 consists of four wafers, sliced to 1 mm thickness from a hand-pulled rod. The wafers are\nof oval to circular cross-section with nominal diameter of 12 mm to 14 mm and nominal mass of 0.9 g."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "Disposal: SRM 613 should be disposed of in accordance with local, state, and federal regulations."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "Transport Information: This material is not regulated by the U.S. Department of Transportation (DOT) and/or\nInternational Air Transportation Association (IATA)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "Disclaimer: The NIST information in this document is specific to the NIST product and is believed to be correct,\nbased upon our current knowledge. This document may not necessarily be all inclusive and should be used only as a\nguide. NIST does not guarantee the accuracy or completeness of this information. The only official source for specific\nvalues and uncertainties is the certificate or report.\nUsers of this SRM should ensure that this document and the corresponding Certificate of Analysis in their possession\nare current. This can be accomplished by contacting the SRM Program: telephone (301) 975-2200;\ne-mail srmmsds@nist.gov; or via the Internet at https://www.nist.gov/srm."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Product Identifier"
+      ],
+      "zone": "main",
+      "text": "SRM 612 Page 1 of 1"
+    }
+  ]
+}

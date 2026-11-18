@@ -1,0 +1,1608 @@
+{
+  "doc_id": "D046",
+  "format": "pdf",
+  "page_count": 12,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "3d4deca09d0650a7245fdc8b15dfa01f3d696bdd86bb9ba84732839cc896cc20",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "according to UK REACH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Product identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "text": "Trade name: PressurePro Facade Cleaner, Gel RM 43"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Restricted to professional users.\nApplication of the substance / the mixture High pressure cleaner"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Manufacturer/Supplier:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Alfred Kärcher SE & Co. KG\nAlfred-Kärcher-Str. 28-40\nD - 71364 Winnenden\nTel.: +49-7195-14-0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Kärcher (UK) Ltd.\nKärcher House\nBrookhill Way\nBanbury\nOxon OX16 3ED\nGreat Britain\nTel.: +44-1295-752-000"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Internet: www.karcher.com"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Further information obtainable from:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Regulatory Affairs\nTel.: +49-7195-14-0\nproductsafety.management.de@karcher.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4 Emergency telephone number:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Emergency telephone number:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4 Emergency telephone number:"
+      ],
+      "zone": "main",
+      "text": "For Hazardous Materials [or Dangerous Goods] Incidents\nSpill, Leak, Fire, Exposure, or Accident\nCall CHEMTREC Day or Night\nWithin USA and Canada: 1-800-424-9300\nOutside USA and Canada: +1-703-527-3887 (collect calls accepted)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Classification according to Regulation (EC) No 1272/2008\nMet. Corr.1 H290 May be corrosive to metals.\nSkin Corr. 1B H314 Causes severe skin burns and eye damage.\nEye Dam. 1 H318 Causes serious eye damage."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "Labelling according to Regulation (EC) No 1272/2008\nThe product is classified and labelled according to the GB CLP regulation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "Hazard pictograms"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "GHS05"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "Signal word Danger"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "Hazard-determining components of labelling:\nsodium hydroxide\npotassium silicate\nsodium metasilicate\ntetradecyl dimethylaminoxide\nHazard statements\nH290 May be corrosive to metals.\nH314 Causes severe skin burns and eye damage.\nPrecautionary statements\nP280 Wear protective gloves/protective clothing/eye protection/face protection.\nP303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower].\nP305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and\neasy to do. Continue rinsing."
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "P310",
+          "Immediately call a POISON CENTER/doctor."
+        ],
+        [
+          "P405",
+          "Store locked up."
+        ],
+        [
+          "P501",
+          "Dispose of contents/container in accordance with local/regional/national/international regulations."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2 Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2 Mixtures"
+      ],
+      "zone": "main",
+      "text": "Description: Cleaning agent\nDangerous components:\nCAS: 67656-24-0 sodium 2-butoxyethyl sulphate 1-5%\nEINECS: 266-840-7 Eye Dam. 1, H318\nReg.nr.: 01-2120781516-47-0000 Specific concentration limit: Eye Dam. 1; H318: C ≥ 50 %\nCAS: 1310-73-2 sodium hydroxide ≥2-<3%\nEINECS: 215-185-5 Met. Corr.1, H290; Skin Corr. 1A, H314; Eye Dam. 1, H318\nIndex number: 011-002-00-6 Specific concentration limits: Skin Corr. 1A; H314: C ≥ 5 %\nReg.nr.: 01-2119457892-27-xxxx Skin Corr. 1B; H314: 2 % ≤ C < 5 %\nSkin Irrit. 2; H315: 0.5 % ≤ C < 2 %\nEye Irrit. 2; H319: 0.5 % ≤ C < 2 %\nCAS: 1312-76-1 potassium silicate ≥1-<3%\nEINECS: 215-199-1 Met. Corr.1, H290; Skin Corr. 1B, H314; Eye Dam. 1, H318\nReg.nr.: 01-2119456888-17"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2 Mixtures"
+      ],
+      "zone": "main",
+      "text": "CAS: 3332-27-2 tetradecyl dimethylaminoxide ≥1-<2.5%\nEINECS: 222-059-3 Eye Dam. 1, H318; Aquatic Acute 1, H400; Aquatic Chronic 2, H411;\nReg.nr.: 01-2119949262-37-0000 Acute Tox. 4, H302; Skin Irrit. 2, H315\nCAS: 10213-79-3 sodium metasilicate ≥1-<3%\nEINECS: 229-912-9 Met. Corr.1, H290; Skin Corr. 1B, H314; Eye Dam. 1, H318; STOT\nIndex number: 014-010-00-8 SE 3, H335\nReg.nr.: 01-2119449811-37\nAdditional information For the wording of the listed hazard phrases refer to section 16."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "General information Immediately remove any clothing soiled by the product.\nAfter inhalation\nIn case of unconsciousness place patient stably in side position for transportation.\nSupply fresh air; consult doctor in case of complaints.\nAfter skin contact\nImmediately wash with water and soap and rinse thoroughly.\nImmediately rinse with water.\nAfter eye contact Rinse opened eye for several minutes under running water. Then consult a doctor.\nAfter swallowing\nRinse out mouth and then drink plenty of water.\nDo not induce vomiting; call for medical help immediately.\nDrink plenty of water and provide fresh air. Call for a doctor immediately."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2 Most important symptoms and effects, both acute and delayed No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Most important symptoms and effects, both acute and delayed No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing agents\nCO2, powder or water spray. Fight larger fires with water spray or alcohol resistant foam."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2 Special hazards arising from the substance or mixture No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Special hazards arising from the substance or mixture No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Advice for firefighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Protective equipment: No special measures required.\nAdditional information Collect contaminated fire fighting water separately. It must not enter the sewage system."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1 Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1 Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "Wear protective equipment. Keep unprotected persons away."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2 Environmental precautions:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Environmental precautions:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2 Environmental precautions:"
+      ],
+      "zone": "main",
+      "text": "Dilute with plenty of water.\nDo not allow to enter sewers/ surface or ground water.\nDo not allow to penetrate the ground/soil."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for containment and cleaning up:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Methods and material for containment and cleaning up:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for containment and cleaning up:"
+      ],
+      "zone": "main",
+      "text": "Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders).\nUse neutralising agent.\nDispose contaminated material as waste according to section 13.\nEnsure adequate ventilation."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4 Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4 Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "See Section 7 for information on safe handling\nSee Section 8 for information on personal protection equipment.\nSee Section 13 for disposal information."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1 Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Precautions for safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1 Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "Ensure good ventilation/exhaustion at the workplace.\nPrevent formation of aerosols.\nAvoid contact with eyes and skin.\nInformation about fire - and explosion protection: No special measures required."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2 Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2 Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Storage\nRequirements to be met by storerooms and receptacles: Store only in the original receptacle.\nInformation about storage in one common storage facility:\nDo not store together with acids.\nKeep away from food, beverages and feed.\nFurther information about storage conditions: Keep receptacle tightly sealed."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3 Specific end use(s) No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Specific end use(s) No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control parameters"
+      ],
+      "zone": "main",
+      "text": "Ingredients with limit values that require monitoring at the workplace:\n1310-73-2 sodium hydroxide\nWEL Short-term value: 2 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNELs\n1310-73-2 sodium hydroxide\nInhalative DNEL 1 mg/m3 (employee)\n1 mg/m3 (consumer)\nPNECs\n10213-79-3 sodium metasilicate\nPNEC 1000 mg/l (STP)\nPNEC aqua 7.5 mg/l (freshwater)\n1 mg/l (marine water)"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering controls No further data; see section 7.\nIndividual protection measures, such as personal protective equipment\nGeneral protective and hygienic measures\nKeep away from foodstuffs, beverages and feed.\nImmediately remove all soiled and contaminated clothing\nWash hands before breaks and at the end of work.\nAvoid contact with the eyes and skin.\nRespiratory protection:\nIn case of brief exposure or low pollution use respiratory filter device. In case of intensive or longer exposure use self-contained respiratory protective device.\nFilter A/P2.\nHand protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Protective gloves."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Material of gloves Butyl rubber, BR\nPenetration time of glove material\nThe exact break trough time has to be found out by the manufacturer of the protective gloves and has to be observed.\nEye/face protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Tightly sealed goggles (EN 166)"
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SECTION 9: Physical and chemical properties",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "General Information\nPhysical state Liquid\nColour: Yellow\nOdour: Specific type\nOdour threshold: Not determined\nMelting point/freezing point: -7 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Boiling point or initial boiling point and boiling range undetermined\nFlammability Not applicable\nLower and upper explosion limit"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Lower:",
+          "Not determined"
+        ],
+        [
+          "Upper:",
+          "Not determined"
+        ],
+        [
+          "Flash point:",
+          "Not applicable"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Auto-ignition temperature: not applicable\nDecomposition temperature: Not determined\npH at 20 °C 13.8\npH-value 1 %: 11-12\nViscosity:\nKinematic viscosity Not determined\ndynamic at 20 °C: 6 mPas\nSolubility\nWater: Fully miscible\nPartition coefficient n-octanol/water (log value) Not determined\nVapour pressure: Not determined\nDensity and/or relative density"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Density at 20 °C:",
+          "1.153 g/cm³"
+        ],
+        [
+          "Relative density",
+          "Not determined"
+        ],
+        [
+          "Vapour density",
+          "Not determined"
+        ],
+        [
+          "Relative gas density",
+          "Not determined"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "text": "Appearance:\nForm: Fluid\nImportant information on protection of health and\nenvironment, and on safety.\nIgnition temperature: Product is not selfigniting.\nExplosive properties: Product does not present an explosion hazard.\nChange in condition\nEvaporation rate Not determined\nInformation with regard to physical hazard classes\nExplosives Void\nFlammable gases Void\nAerosols Void\nOxidising gases Void\nGases under pressure Void\nFlammable liquids Void\nFlammable solids Void\nSelf-reactive substances and mixtures Void\nPyrophoric liquids Void\nPyrophoric solids Void\nSelf-heating substances and mixtures Void\nSubstances and mixtures, which emit flammable gases"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "in contact with water",
+          "Void"
+        ],
+        [
+          "Oxidising liquids",
+          "Void"
+        ],
+        [
+          "Oxidising solids",
+          "Void"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "text": "Organic peroxides Void\nCorrosive to metals May be corrosive to metals.\nDesensitised explosives Void"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1 Reactivity corresponds to 10.3"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reactivity corresponds to 10.3"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2 Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2 Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Thermal decomposition / conditions to be avoided: No decomposition if used according to specifications."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3 Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3 Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "Strong exothermic reaction with acids\nReacts with light alloys to form hydrogen\nCorrodes aluminium"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4 Conditions to avoid No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Conditions to avoid No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5 Incompatible materials: Not compatible with alkali-sensitive substances like Sn, Zn, Al and paintings."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Incompatible materials: Not compatible with alkali-sensitive substances like Sn, Zn, Al and paintings."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6 Hazardous decomposition products: No dangerous decomposition products known"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Hazardous decomposition products: No dangerous decomposition products known"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity Based on available data, the classification criteria are not met.\nLD/LC50 values relevant for classification:\n3332-27-2 tetradecyl dimethylaminoxide\nOral LD50 1495 mg/kg (Rat)\n10213-79-3 sodium metasilicate\nDermal LD50 >5000 mg/kg (Rat)\nPrimary irritant effect:\nSkin corrosion/irritation Causes severe skin burns and eye damage.\nSerious eye damage/irritation Causes serious eye damage.\nRespiratory or skin sensitisation Based on available data, the classification criteria are not met.\nGerm cell mutagenicity Based on available data, the classification criteria are not met.\nCarcinogenicity Based on available data, the classification criteria are not met.\nReproductive toxicity Based on available data, the classification criteria are not met.\nSTOT-single exposure Based on available data, the classification criteria are not met.\nSTOT-repeated exposure Based on available data, the classification criteria are not met.\nAspiration hazard Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2 Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Information on other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2 Information on other hazards"
+      ],
+      "zone": "main",
+      "text": "Endocrine disrupting properties\nNone of the ingredients is listed."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "text": "Aquatic toxicity:\n1310-73-2 sodium hydroxide\nLC50/96 h 125 mg/l (Gambusia affinis)\nEC50/48 h 76 mg/l (Daphnia magna)\n40.4 mg/l (Ceriodaphnia dubia)\nEC50/15 min 22 mg/l (Photobacterium phosphoreum)\n3332-27-2 tetradecyl dimethylaminoxide"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LC50",
+          "2.4 mg/l (fish)"
+        ],
+        [
+          "EC50",
+          "0.19 mg/l (Water plants) 2.64 mg/l (Daphnia magna)"
+        ],
+        [
+          "NOEC",
+          "0.42 mg/l /302 d (Pimephales promelas) 0.067 mg/l (Water plants) 0.7 mg/l /21 d (OECD (Daphnia magna)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "text": "10213-79-3 sodium metasilicate"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LC50/96 h",
+          "210 mg/l (Brachydanio rerio)"
+        ],
+        [
+          "EC50/48 h",
+          "1700 mg/l (Daphnia magna)"
+        ],
+        [
+          "EC50/72 h",
+          ">345 mg/l (Desmodesmus subspicatus) (DIN 38412 T9)"
+        ],
+        [
+          "EC50/96 h",
+          "216 mg/l (Daphnia magna)"
+        ],
+        [
+          "EC50/3h",
+          ">100 mg/l (STP) (OECD 209 / ISO 8192)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2 Persistence and degradability No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistence and degradability No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3 Bioaccumulative potential No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioaccumulative potential No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4 Mobility in soil No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobility in soil No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "PBT: Not applicable\nvPvB: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6 Endocrine disrupting properties The product does not contain substances with endocrine disrupting properties."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Endocrine disrupting properties The product does not contain substances with endocrine disrupting properties."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Additional ecological information:\nCOD-value: 204000 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "General notes:\nThe product does not contain organically bounded halogens (AOX-free)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "The product does not contain organic complexing agents.\nThe surfactant(s) contained in this preparation complies(comply) with the biodegradability criteria as laid down in\nRegulation (EC) No.648/2004 on detergents. Data to support this assertion are held at the disposal of the competent\nauthorities of the Member States and will be made available to them, at their direct request or at the request of a detergent\nmanufacturer."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Do not allow undiluted product or large quantities of it to reach ground water, water course or sewage system.\nRinse off of bigger amounts into drains or the aquatic environment may lead to increased pH-values. A high pH-value\nharms aquatic organisms. In the dilution of the use-level the pH-value is considerably reduced, so that after the use of the\nproduct the aqueous waste, emptied into drains, is only low water-dangerous."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Waste treatment methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Recommendation\nMust not be disposed together with household garbage. Do not allow product to reach sewage system.\nMust be specially treated adhering to official regulations.\nEuropean waste catalogue\n20 01 29* detergents containing hazardous substances"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Uncleaned packaging:\nRecommendation:\nEmpty contaminated packagings thoroughly. They may be recycled after thorough and proper cleaning.\nRecommended cleansing agents: Water, if necessary together with cleaning agents."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "14.1 UN number or ID number\nADR, IMDG, IATA UN1824\n14.2 UN proper shipping name\nADR 1824 SODIUM HYDROXIDE SOLUTION\nIMDG, IATA SODIUM HYDROXIDE SOLUTION"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "ADR"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Class 8 (C5) Corrosive substances.\nLabel 8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "IMDG, IATA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Class 8 Corrosive substances.\nLabel 8"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA III"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards: Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards: Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user Warning: Corrosive substances."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user Warning: Corrosive substances."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user Warning: Corrosive substances."
+      ],
+      "zone": "main",
+      "text": "Hazard identification number (Kemler code): 80"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user Warning: Corrosive substances."
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "EMS Number:",
+          "F-A,S-B"
+        ],
+        [
+          "Segregation groups",
+          "(SGG18) Alkalis"
+        ],
+        [
+          "Stowage Category",
+          "A"
+        ],
+        [
+          "Segregation Code",
+          "SG35 Stow \"separated from\" SGG1-acids"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Maritime transport in bulk according to IMO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "text": "instruments Not applicable\nTransport/Additional information:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "text": "ADR\nLimited quantities (LQ) 5L\nExcepted quantities (EQ) Code: E1\nMaximum net quantity per inner packaging: 30 ml\nMaximum net quantity per outer packaging: 1000 ml\nTransport category 3\nTunnel restriction code E"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "text": "IMDG\nLimited quantities (LQ) 5L\nExcepted quantities (EQ) Code: E1\nMaximum net quantity per inner packaging: 30 ml\nMaximum net quantity per outer packaging: 1000 ml"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "text": "UN \"Model Regulation\": UN 1824 SODIUM HYDROXIDE SOLUTION, 8, III"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Poisons Act\nRegulated explosives precursors\nNone of the ingredients is listed.\nRegulated poisons\nNone of the ingredients is listed.\nReportable explosives precursors\nNone of the ingredients is listed.\nReportable poisons\n1310-73-2 sodium hydroxide 12% of total caustic alkalinity\n1310-58-3 potassium hydroxide 17% of total caustic alkalinity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Directive 2012/18/EU\nNamed dangerous substances - ANNEX I None of the ingredients is listed."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Information about limitation of use: Employment restrictions concerning juveniles must be observed."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "This information is based on our present knowledge. However, this shall not constitute a guarantee for any specific product\nfeatures and shall not establish a legally valid contractual relationship.\nA product information sheet can be provided if requested."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Relevant phrases\nH290 May be corrosive to metals.\nH302 Harmful if swallowed.\nH314 Causes severe skin burns and eye damage.\nH315 Causes skin irritation.\nH318 Causes serious eye damage.\nH319 Causes serious eye irritation.\nH335 May cause respiratory irritation.\nH400 Very toxic to aquatic life.\nH411 Toxic to aquatic life with long lasting effects.\nContact:\nRegulatory Affairs\nTel.: +49-7195-14-0\nproductsafety.management.de@karcher.com"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Abbreviations and acronyms:\nADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the International Carriage of\nDangerous Goods by Road)\nIMDG: International Maritime Code for Dangerous Goods\nIATA: International Air Transport Association\nGHS: Globally Harmonised System of Classification and Labelling of Chemicals\nEINECS: European Inventory of Existing Commercial Chemical Substances\nELINCS: European List of Notified Chemical Substances\nCAS: Chemical Abstracts Service (division of the American Chemical Society)\nDNEL: Derived No-Effect Level (UK REACH)\nPNEC: Predicted No-Effect Concentration (UK REACH)\nLC50: Lethal concentration, 50 percent\nLD50: Lethal dose, 50 percent\nPBT: Persistent, Bioaccumulative and Toxic\nvPvB: very Persistent and very Bioaccumulative\nMet. Corr.1: Corrosive to metals – Category 1\nAcute Tox. 4: Acute toxicity – Category 4\nSkin Corr. 1A: Skin corrosion/irritation – Category 1A\nSkin Corr. 1B: Skin corrosion/irritation – Category 1B\nSkin Irrit. 2: Skin corrosion/irritation – Category 2\nEye Dam. 1: Serious eye damage/eye irritation – Category 1\nSTOT SE 3: Specific target organ toxicity (single exposure) – Category 3\nAquatic Acute 1: Hazardous to the aquatic environment - acute aquatic hazard – Category 1\nAquatic Chronic 2: Hazardous to the aquatic environment - long-term aquatic hazard – Category 2"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Data compared to the previous version altered.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "0·011-667·0 RM 43/3 2·921"
+    }
+  ]
+}

@@ -1,0 +1,5126 @@
+{
+  "doc_id": "D065",
+  "format": "pdf",
+  "page_count": 22,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "2f039654bf60b61c481c75f3c9fdbd61682eaf390e50cd9fe343d5d73c71a881",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "SK SOLKEM INDUSTRIES SRLA SOCIO UNICO Revisión N. 11"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Fecha de revisión 08/11/2022"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "F 80 DESENGRASANTE Imprimida el 08/11/2022"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sustituye la revisión10 (Imprimida el:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Ficha de Datos de Seguridad\nEn conformidad con Anexo II del REACH - Reglamento (UE) 2020/878"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.1. Identificador del producto"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Identificador del producto"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.1. Identificador del producto"
+      ],
+      "zone": "main",
+      "text": "Denominación F 80 DESENGRASANTE"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados"
+      ],
+      "zone": "main",
+      "text": "Descripción/Uso: Desengrasante disolvente multiuso."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.3. Datos del proveedor de la ficha de datos de seguridad"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Datos del proveedor de la ficha de datos de seguridad"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.3. Datos del proveedor de la ficha de datos de seguridad"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Razón social:",
+          "SK SOLKEM INDUSTRIES SRLA SOCIO UNICO"
+        ],
+        [
+          "Dirección:",
+          "Corso Europa 85/91"
+        ],
+        [
+          "Localidad y Estado:",
+          "20033 Solaro (Mi) Italia Tel. 0039 02 84505 Fax 0039 02 84505479"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.3. Datos del proveedor de la ficha de datos de seguridad"
+      ],
+      "zone": "main",
+      "text": "dirección electrónica de la persona competente,\nresponsable de la ficha de datos de seguridad regulatory@sksolkem.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.4. Teléfono de emergencia"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4. Teléfono de emergencia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa",
+        "1.4. Teléfono de emergencia"
+      ],
+      "zone": "main",
+      "text": "Para informaciones urgentes dirigirse a Servicio de Información Toxicológica\nTeléfono: + 34 91 562 04 20 (solo emergencias toxicológicas)\nInformación en español (24h/365 días)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 2. Identificación de los peligros"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Clasificación de la sustancia o de la mezcla"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "text": "El producto está clasificado como peligroso según las disposiciones del Reglamento (CE) 1272/2008 (CLP) (y sucesivas modificaciones y\nadaptaciones). Por lo tanto, el producto requiere una ficha de datos de seguridad conforme a las disposiciones del Reglamento (UE) 2020/878.\nEventual información adicional sobre los riesgos para la salud y/o el ambiente están disponibles en las secciones 11 y 12 de la presente ficha."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "text": "Clasificación e indicación de peligro:"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Aerosoles, categoría 1",
+          "",
+          "H222",
+          "Aerosol extremadamente inflamable."
+        ],
+        [
+          "",
+          "",
+          "H229",
+          "Recipiente a presión: puede reventar si se calienta."
+        ],
+        [
+          "Toxicidad específica en determinados órganos",
+          "-",
+          "H372",
+          "Provoca daños en los órganos tras exposiciones prolongadas"
+        ],
+        [
+          "exposiciones repetidas, categoría 1",
+          "",
+          "",
+          "o repetidas."
+        ],
+        [
+          "Peligro por aspiración, categoría 1",
+          "",
+          "H304",
+          "Puede ser mortal en caso de ingestión y penetración en las vías respiratorias."
+        ],
+        [
+          "Lesiones oculares graves, categoría 1",
+          "",
+          "H318",
+          "Provoca lesiones oculares graves."
+        ],
+        [
+          "Irritación cutáneas, categoría 2",
+          "",
+          "H315",
+          "Provoca irritación cutánea."
+        ],
+        [
+          "Sensibilización cutánea, categoría 1B",
+          "",
+          "H317",
+          "Puede provocar una reacción alérgica en la piel."
+        ],
+        [
+          "Toxicidad específica en determinados órganos",
+          "-",
+          "H336",
+          "Puede provocar somnolencia o vértigo."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "text": "exposiciones única, categoría 3\nPeligroso para el medio ambiente acuático, toxicidad H411 Tóxico para los organismos acuáticos, con efectos nocivos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.1. Clasificación de la sustancia o de la mezcla"
+      ],
+      "zone": "main",
+      "text": "crónico, categoría 2 duraderos."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. Elementos de la etiqueta"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Etiquetas de peligro en conformidad con el Reglamento (CE) 1272/2008 (CLP) y sucesivas modificaciones y adaptaciones.\nPictogramas de peligro:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Palabras de advertencia: Peligro"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Indicaciones de peligro:"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "H222",
+          "Aerosol extremadamente inflamable."
+        ],
+        [
+          "H229",
+          "Recipiente a presión: puede reventar si se calienta."
+        ],
+        [
+          "H372",
+          "Provoca daños en los órganos tras exposiciones prolongadas o repetidas."
+        ],
+        [
+          "H318",
+          "Provoca lesiones oculares graves."
+        ],
+        [
+          "H315",
+          "Provoca irritación cutánea."
+        ],
+        [
+          "H317",
+          "Puede provocar una reacción alérgica en la piel."
+        ],
+        [
+          "H336",
+          "Puede provocar somnolencia o vértigo."
+        ],
+        [
+          "H411",
+          "Tóxico para los organismos acuáticos, con efectos nocivos duraderos."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Consejos de prudencia:\nP210 Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de cualquier otra fuente de ignición."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "No fumar."
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "P251",
+          "No perforar ni quemar, incluso después de su uso.",
+          ""
+        ],
+        [
+          "P410+P412",
+          "Proteger de la luz del sol. No exponer a temperaturas superiores a 50°C / 122°F.",
+          ""
+        ],
+        [
+          "P211",
+          "No pulverizar sobre una llama abierta u otra fuente de ignición.",
+          ""
+        ],
+        [
+          "P260",
+          "No respirar el polvo / el humo / el gas / la niebla / los vapores / el aerosol.",
+          ""
+        ],
+        [
+          "P305+P351+P338",
+          "EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos. Quitar las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado.",
+          ""
+        ],
+        [
+          "Contiene:",
+          "HIDROCARBUROS, C9 (R)-P-MENTHA-1,8-DIENE BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE Alcoholes C12-16, etoxilados",
+          "-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Las indicaciones relativas a la clasificación como tóxico por aspiració n han sido excluidas de los elementos de la etiqueta en base al punto 1.3.3 del\nAnexo I del CLP."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "Ingredientes en conformidad con el Reglamento (CE) Nº 648/2004\nInferior al 5% tensioactivos aniónicos\nEntre el 5% y el 15% tensioactivos no iónicos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.2. Elementos de la etiqueta"
+      ],
+      "zone": "main",
+      "text": "perfumes, Limonene"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.3. Otros peligros"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Otros peligros"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.3. Otros peligros"
+      ],
+      "zone": "main",
+      "text": "Sobre la base de los datos disponibles, el producto no contiene sustancias PBT o vPvB en porcentaje ≥ al 0,1%."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 2. Identificación de los peligros",
+        "2.3. Otros peligros"
+      ],
+      "zone": "main",
+      "text": "El producto no contiene sustancias con propiedades de alteración del sistema endocrino en concentración ≥ 0,1%."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 3. Composición/información sobre los componentes"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mezclas"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Contiene:\nIdentificación x = Conc. % Clasificación (CE) 1272/2008 (CLP)\nHIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS\n(2 - 25%)"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "-",
+          "45 ≤ x <  49",
+          "Flam. Liq. 3 H226, STOT RE 1 H372, Asp. Tox. 1 H304, STOT SE 3 H336, Aquatic Chronic 2 H411, EUH066"
+        ],
+        [
+          "CE",
+          "919-446-0",
+          "",
+          ""
+        ],
+        [
+          "CAS",
+          "-",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119458049-33-XXXX\nPROPANO"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "601-003-00-5",
+          "12,5 ≤ x <  14",
+          "Flam. Gas 1A H220, Press. Gas (Liq.) H280, Nota de clasificación según el anexo VI del Reglamento CLP: U"
+        ],
+        [
+          "CE",
+          "200-827-9",
+          "",
+          ""
+        ],
+        [
+          "CAS",
+          "74-98-6",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119486944-21\nBUTANO"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "601-004-00-0",
+          "10,5 ≤ x <  12",
+          "Flam. Gas 1A H220, Press. Gas (Liq.) H280, Nota de clasificación según el anexo VI del Reglamento CLP: C, U"
+        ],
+        [
+          "CE",
+          "203-448-7",
+          "",
+          ""
+        ],
+        [
+          "CAS",
+          "106-97-8",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119474691-32-XXXX\n(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "601-096-00-2",
+          "8,5 ≤ x <  10",
+          "Flam. Liq. 3 H226, Asp. Tox. 1 H304, Skin Irrit. 2 H315, Skin Sens. 1B H317, Aquatic Acute 1 H400 M=1, Aquatic Chronic 3 H412"
+        ],
+        [
+          "CE",
+          "227-813-5",
+          "",
+          ""
+        ],
+        [
+          "CAS",
+          "5989-27-5",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119529223-47-XXXX\nISOBUTANO"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "601-004-00-0",
+          "4 ≤ x <  5",
+          "Flam. Gas 1A H220, Press. Gas H280, Nota de clasificación según el anexo VI del Reglamento CLP: C, U"
+        ],
+        [
+          "CE",
+          "200-857-2",
+          "",
+          ""
+        ],
+        [
+          "CAS",
+          "75-28-5",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119485395-27-XXXX\nAlcoholes C12-16, etoxilados"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "",
+          "3 ≤ x <  4",
+          "Acute Tox. 4 H302, Eye Dam. 1 H318, Aquatic Chronic 3 H412"
+        ],
+        [
+          "CE",
+          "-",
+          "",
+          "STA Oral: 500 mg/kg"
+        ],
+        [
+          "CAS",
+          "68551-12-2",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5\n< 5 EO)\nINDEX 3 ≤ x < 4 Eye Irrit. 2 H319, Aquatic Acute 1 H400 M=1, Aquatic Chronic 3 H412\nCE -\nCAS 61791-13-7\nBENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS.\nWITH TRIETHANOLAMINE"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "-",
+          "2 ≤ x <  2,5",
+          "Acute Tox. 4 H302, Eye Dam. 1 H318, Skin Irrit. 2 H315"
+        ],
+        [
+          "CE",
+          "290-652-4",
+          "",
+          "STA Oral: 500 mg/kg"
+        ],
+        [
+          "CAS",
+          "90194-42-6",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "-",
+          "1,5 ≤ x <  2",
+          "Eye Dam. 1 H318, Skin Irrit. 2 H315, Aquatic Chronic 2 H411"
+        ],
+        [
+          "CE",
+          "931-329-6",
+          "",
+          "Eye Dam. 1 H318: ≥ 5%"
+        ],
+        [
+          "CAS",
+          "-",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Reg. REACH 01-2119490100-53-XXXX\nMORFOLINA"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "INDEX",
+          "613-028-00-9",
+          "0 ≤ x <  0,05",
+          "Flam. Liq. 3 H226, Acute Tox. 3 H311, Acute Tox. 4 H302, Acute Tox. 4 H332, Skin Corr. 1B H314, Eye Dam. 1 H318"
+        ],
+        [
+          "CE",
+          "203-815-1",
+          "",
+          "LD50 Oral: 1050 mg/kg, LD50 Cutánea: 500 mg/kg, STA Inhalación nieblas/polvos: 1,5 mg/l"
+        ],
+        [
+          "CAS",
+          "110-91-8",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "El texto completo de las indicaciones de peligro (H) se encuentra en la sección 16 de la ficha."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "El producto es un aerosol que contiene agentes propulsores. A los efectos de evaluar los peligros para la salud, los agentes propulsores no son\ntomados en cuenta (a menos que presenten peligros para la salud). Los porcentajes indicados incluyen los agentes propulsores."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 3. Composición/información sobre los componentes",
+        "3.2. Mezclas"
+      ],
+      "zone": "main",
+      "text": "Porcentaje de agentes propulsores: 28,00 %"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 4. Primeros auxilios"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.1. Descripción de los primeros auxilios"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Descripción de los primeros auxilios"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.1. Descripción de los primeros auxilios"
+      ],
+      "zone": "main",
+      "text": "OJOS: Quite las eventuales lentes de contacto. Lave inmediatamente con abundante agua durante al menos 30/60 minutos, abriend o bien los párpados.\nConsulte inmediatamente a un médico.\nPIEL: Quítese la indumentaria contaminada. Dúchese inmediatamente. Consul te inmediatamente a un médico.\nINGESTIÓN: Beba mayor cantidad de agua posible. Consulte inmediatamente a un médico. No provoque el vómito sin expresa autori zación del médico.\nINHALACIÓN: Llame mediatamente a un médico. Lleve al sujeto al aire libre, lejos del lugar del accidente. Si la respiración cesa, practique respiración\nartificial. Se deben tomar precauciones adecuadas para el socorrista."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.2. Principales síntomas y efectos, agudos y retardados"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Principales síntomas y efectos, agudos y retardados"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.2. Principales síntomas y efectos, agudos y retardados"
+      ],
+      "zone": "main",
+      "text": "No hay información específica sobre síntomas y efectos p rovocados por el producto."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECCIÓN 4. Primeros auxilios",
+        "4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 5. Medidas de lucha contra incendios"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.1. Medios de extinción"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Medios de extinción"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.1. Medios de extinción"
+      ],
+      "zone": "main",
+      "text": "MEDIOS DE EXTINCIÓN IDÓNEOS\nLos medios de extinción son los tradicionales: anhídrido carbónico, espuma, polvos y agua nebulizada.\nMEDIOS DE EXTINCIÓN NO IDÓNEOS\nNinguno en particular."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.2. Peligros específicos derivados de la sustancia o la mezcla"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Peligros específicos derivados de la sustancia o la mezcla"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.2. Peligros específicos derivados de la sustancia o la mezcla"
+      ],
+      "zone": "main",
+      "text": "PELIGROS DEBIDOS A LA EXPOSICIÓN EN CASO DE INCENDIO\nEn caso de recalentamiento, los recipientes aerosol pueden deformarse, estallar y ser proyectados a gran distancia. Use un casco de protección antes\nde acercarse al incendio. Evite respirar los productos de la combustión."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.3. Recomendaciones para el personal de lucha contra incendios"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Recomendaciones para el personal de lucha contra incendios"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 5. Medidas de lucha contra incendios",
+        "5.3. Recomendaciones para el personal de lucha contra incendios"
+      ],
+      "zone": "main",
+      "text": "INFORMACIÓN GENERAL\nEnfríe los recipientes con chorros de agua para evitar la descomposición del producto y la formación de sustancias potencialmente peligrosas para la\nsalud. Use siempre el equipo de protección antiincendio completo.\nEQUIPO\nElementos normales para la lucha contra el fuego, como un respirador autónomo de aire comprimido de circuito abierto (EN 137), traje ignífugo (EN469),\nguantes ignífugos (EN 659) y botas de bomberos (HO A29 o A30)."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 6. Medidas en caso de vertido accidental"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.1. Precauciones personales, equipo de protección y procedimientos de emergencia"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Precauciones personales, equipo de protección y procedimientos de emergencia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.1. Precauciones personales, equipo de protección y procedimientos de emergencia"
+      ],
+      "zone": "main",
+      "text": "Elimine toda fuente de ignición (cigarrillos, llamas, chispas, etc.) o de calor en el área en que se ha verificado la pérdida. Aleje a las personas\ndesprovistas de equipo. Llevar guantes / prendas / gafas / máscara de protección."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.2. Precauciones relativas al medio ambiente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Precauciones relativas al medio ambiente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.2. Precauciones relativas al medio ambiente"
+      ],
+      "zone": "main",
+      "text": "Impida su dispersión en el ambiente."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.3. Métodos y material de contención y de limpieza"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Métodos y material de contención y de limpieza"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.3. Métodos y material de contención y de limpieza"
+      ],
+      "zone": "main",
+      "text": "Absorba el producto derramado con material absorbente inerte. Proceda a una suficiente ventilación del lugar afectado por la pérdida. La eliminación del\nmaterial contaminado se debe realizar según las disposiciones del punto 13."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.4. Referencia a otras secciones"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Referencia a otras secciones"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 6. Medidas en caso de vertido accidental",
+        "6.4. Referencia a otras secciones"
+      ],
+      "zone": "main",
+      "text": "Eventual información sobre la protección individual y la eliminación está disponible en las secciones 8 y 13."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 7. Manipulación y almacenamiento"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.1. Precauciones para una manipulación segura"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precauciones para una manipulación segura"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.1. Precauciones para una manipulación segura"
+      ],
+      "zone": "main",
+      "text": "Evite la acumulación de cargas electrostáticas. No rocíe el producto sobre llamas o cuerpos incandescentes. Los vapores podrían incendiarse y"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.1. Precauciones para una manipulación segura"
+      ],
+      "zone": "main",
+      "text": "explotar; por lo tanto, se debe evitar su acumulación manteniendo las puertas y ventanas abiertas y garantizando una ventilación cruzada. No coma,\nbeba ni fume durante el uso. No respirar el aerosol."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades"
+      ],
+      "zone": "main",
+      "text": "Conserve el producto en un lugar bien ventilado, a una temperatura inferior a 50°C / 122°F, lejos de la acción directa de los rayos del sol y de cualquier\nfuente de combustión."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades"
+      ],
+      "zone": "main",
+      "text": "Clase de almacenamiento TRGS 510 (Alemania):\n2B"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.3. Usos específicos finales"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3. Usos específicos finales"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 7. Manipulación y almacenamiento",
+        "7.3. Usos específicos finales"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 8. Controles de exposición/protección individual"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Parámetros de control"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "Referencias Normativas:\nCZE Česká Republika Nařízení vlády č. 41/2020 Sb. Nařízení vlády, kterým se mění nařízení vlády č. 361/2007 Sb., kterým se"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "stanoví podmínky ochrany zdraví při práci, ve znění pozdějších předpisů\nDEU Deutschland Technischen Regeln für Gefahrstoffe (TRGS 900) - Liste der Arbeitsplatzgrenzwerte und Kurzzeitwerte.\nMAK- und BAT-Werte-Liste 2020, Ständige Senatskommission zur Prüfung ges undheitsschädlicher\nArbeitsstoffe, Mitteilung 56"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "DNK",
+          "Danmark",
+          "Bekendtgørelse om grænseværdier for stoffer og materialer - BEK nr 1458 af 13/12/2019"
+        ],
+        [
+          "ESP",
+          "España",
+          "Límites de exposición profesional para agentes químicos en España 2021"
+        ],
+        [
+          "FRA",
+          "France",
+          "Valeurs limites d'exposition professionnelle aux agents chimiques en France. ED 984 - INRS"
+        ],
+        [
+          "FIN",
+          "Suomi",
+          "HTP-VÄRDEN 2020. Koncentrationer som befunnits skadliga. SOCIAL - OCH HÄLSOVÅRDSMINISTERIETS PUBLIKATIONER 2020:25"
+        ],
+        [
+          "GRC",
+          "Ελλάδα",
+          "Π.Δ. 26/2020 (ΦΕΚ 50/Α` 6.3.2020) Εναρμόνιση της ελληνικής νομοθεσίας προς τις διατάξεις των οδηγιών 2017/2398/EΕ, 2019/130/ΕΕ και 2019/983/ΕΕ «για την τροποποίηση της οδηγίας 2004/37/ΕΚ ``σχετικά με την προστασία των εργαζομένων από τους κινδύνους που συνδέονται με την έκθεση σε καρκινογόνους ή μεταλλαξιγόνους παράγοντες κατά την εργασία``»"
+        ],
+        [
+          "HRV",
+          "Hrvatska",
+          "Pravilnik o izmjenama i dopunama Pravilnika o zaštiti radnika od izloženosti opasnimkemikalijama na radu, graničnim vrijednostima izloženosti i biološkim graničnim vrijednostima (NN 1/2021)"
+        ],
+        [
+          "ITA",
+          "Italia",
+          "Decreto Legislativo 9 Aprile 2008, n.81"
+        ],
+        [
+          "NOR",
+          "Norge",
+          "Forskrift om endring i forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier), 21. august 2018 nr. 1255"
+        ],
+        [
+          "NLD",
+          "Nederland",
+          "Arbeidsomstandighedenregeling. Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit"
+        ],
+        [
+          "PRT",
+          "Portugal",
+          "Decreto-Lei n.º 1/2021 de 6 de janeiro, valores-limite de exposição profissional indicativos para os agentes químicos. Decreto-Lei n.º 35/2020 de 13 de julho, proteção dos trabalhadores contra os riscos ligados à exposição durante o trabalho a agentes cancerígenos ou mutagénicos"
+        ],
+        [
+          "POL",
+          "Polska",
+          "Rozporządzenie ministra rozwoju, pracy i technologii  z dnia 18 lutego 2021 r. Zmieniające rozporządzenie w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych  dla zdrowia w środowisku pracy"
+        ],
+        [
+          "SWE",
+          "Sverige",
+          "Hygieniska gränsvärden, Arbetsmiljöverkets föreskrifter och allmänna råd om hygieniska gränsvärden (AFS 2018:1)"
+        ],
+        [
+          "GBR",
+          "United Kingdom",
+          "EH40/2005 Workplace exposure limits (Fourth Edition 2020)"
+        ],
+        [
+          "EU",
+          "OEL EU",
+          "Directiva (UE) 2022/431; Directiva (UE) 2019/1831; Directiva (UE) 2019/130; Directiva (UE) 2019/983; Directiva (UE) 2017/2398; Directiva (UE) 2017/164; Directiva 2009/161/UE; Directiva 2006/15/CE; Directiva 2004/37/CE; Directiva 2000/39/CE; Directiva 98/24/CE; Directiva 91/322/CEE."
+        ],
+        [
+          "",
+          "TLV-ACGIH",
+          "ACGIH 2021"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)\nSalud - Nivel sin efecto derivado - DNEL/DMEL"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "los",
+          "",
+          "",
+          "",
+          "los",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "consumidores",
+          "",
+          "",
+          "",
+          "trabajadores",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Vía de exposición",
+          "Locales agudos",
+          "Sistém agudos",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém"
+        ],
+        [
+          "",
+          "",
+          "",
+          "crónicos",
+          "crónicos",
+          "agudos",
+          "agudos",
+          "crónicos",
+          "crónicos"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Oral",
+          "",
+          "",
+          "VND",
+          "26 mg/kg",
+          "VND",
+          "570 mg/m3",
+          "",
+          ""
+        ],
+        [
+          "Inhalación",
+          "VND",
+          "570 mg/m3",
+          "VND",
+          "71 mg/m3",
+          "",
+          "",
+          "VND",
+          "330 mg/m3"
+        ],
+        [
+          "Dérmica",
+          "",
+          "",
+          "VND",
+          "26 mg/kg",
+          "",
+          "",
+          "VND",
+          "44 mg/kg"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "PROPANO\nValor límite de umbral"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Tipo",
+          "Estado",
+          "TWA/8h",
+          "",
+          "STEL/15min",
+          "",
+          "Notas / Observaciones"
+        ],
+        [
+          "",
+          "",
+          "mg/m3",
+          "ppm",
+          "mg/m3",
+          "ppm",
+          ""
+        ],
+        [
+          "AGW",
+          "DEU",
+          "1800",
+          "1000",
+          "7200",
+          "4000",
+          ""
+        ],
+        [
+          "MAK",
+          "DEU",
+          "1800",
+          "1000",
+          "7200",
+          "4000",
+          ""
+        ],
+        [
+          "TLV",
+          "DNK",
+          "1800",
+          "1000",
+          "",
+          "",
+          ""
+        ],
+        [
+          "VLA",
+          "ESP",
+          "",
+          "1000",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HTP",
+          "FIN",
+          "1500",
+          "800",
+          "2000",
+          "1100",
+          ""
+        ],
+        [
+          "TLV",
+          "GRC",
+          "1800",
+          "1000",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TLV",
+          "NOR",
+          "900",
+          "500",
+          "",
+          "",
+          ""
+        ],
+        [
+          "NDS/NDSCh",
+          "POL",
+          "1800",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "BUTANO\nValor límite de umbral"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Tipo",
+          "Estado",
+          "TWA/8h",
+          "",
+          "STEL/15min",
+          "",
+          "Notas / Observaciones",
+          ""
+        ],
+        [
+          "",
+          "",
+          "mg/m3",
+          "ppm",
+          "mg/m3",
+          "ppm",
+          "",
+          ""
+        ],
+        [
+          "AGW",
+          "DEU",
+          "2400",
+          "1000",
+          "9600",
+          "4000",
+          "",
+          ""
+        ],
+        [
+          "MAK",
+          "DEU",
+          "2400",
+          "1000",
+          "9600",
+          "4000",
+          "",
+          ""
+        ],
+        [
+          "TLV",
+          "DNK",
+          "1200",
+          "500",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "VLA",
+          "ESP",
+          "",
+          "1000",
+          "",
+          "",
+          "",
+          "Gases"
+        ],
+        [
+          "VLEP",
+          "FRA",
+          "1900",
+          "800",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HTP",
+          "FIN",
+          "1900",
+          "800",
+          "2400",
+          "1000",
+          "",
+          ""
+        ],
+        [
+          "TLV",
+          "GRC",
+          "2350",
+          "1000",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "GVI/KGVI",
+          "HRV",
+          "1450",
+          "600",
+          "1810",
+          "750",
+          "",
+          ""
+        ],
+        [
+          "TLV",
+          "NOR",
+          "600",
+          "250",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TGG",
+          "NLD",
+          "1430",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "NDS/NDSCh",
+          "POL",
+          "1900",
+          "",
+          "3000",
+          "",
+          "",
+          ""
+        ],
+        [
+          "WEL",
+          "GBR",
+          "1450",
+          "600",
+          "1810",
+          "750",
+          "",
+          ""
+        ],
+        [
+          "WEL",
+          "GBR",
+          "",
+          "4",
+          "",
+          "",
+          "RESPIR",
+          ""
+        ],
+        [
+          "TLV-ACGIH",
+          "",
+          "",
+          "",
+          "",
+          "1000",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE\nValor límite de umbral"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Tipo",
+          "Estado",
+          "TWA/8h",
+          "",
+          "STEL/15min",
+          "",
+          "Notas / Observaciones"
+        ],
+        [
+          "",
+          "",
+          "mg/m3",
+          "ppm",
+          "mg/m3",
+          "ppm",
+          ""
+        ],
+        [
+          "AGW",
+          "DEU",
+          "28",
+          "5",
+          "112",
+          "20",
+          "PIEL"
+        ],
+        [
+          "MAK",
+          "DEU",
+          "28",
+          "5",
+          "112",
+          "20",
+          "PIEL"
+        ],
+        [
+          "VLA",
+          "ESP",
+          "168",
+          "30",
+          "",
+          "",
+          "PIEL"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "HTP",
+          "FIN",
+          "140",
+          "25",
+          "280",
+          "50",
+          ""
+        ],
+        [
+          "TLV",
+          "NOR",
+          "140",
+          "25",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Concentración prevista sin efectos sobre el ambiente",
+          "",
+          "- PNEC",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Valor de referencia en agua dulce",
+          "",
+          "",
+          "",
+          "0,0054",
+          "",
+          "mg/l"
+        ],
+        [
+          "Valor de referencia en agua marina",
+          "",
+          "",
+          "",
+          "0,00054",
+          "",
+          "mg/l"
+        ],
+        [
+          "Valor de referencia para sedimentos en agua dulce",
+          "",
+          "",
+          "",
+          "1,32",
+          "",
+          "mg/kg"
+        ],
+        [
+          "Valor de referencia para sedimentos en agua marina",
+          "",
+          "",
+          "",
+          "0,13",
+          "",
+          "mg/kg"
+        ],
+        [
+          "Valor de referencia para los microorganismos STP",
+          "",
+          "",
+          "",
+          "1,8",
+          "",
+          "mg/l"
+        ],
+        [
+          "Valor de referencia para el medio terrestre",
+          "",
+          "",
+          "",
+          "0,262",
+          "",
+          "mg/kg"
+        ],
+        [
+          "Valor de referencia para la atmósfera",
+          "",
+          "",
+          "",
+          "3,33",
+          "",
+          "mg/m3"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "Salud - Nivel sin efecto derivado - DNEL/DMEL"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "los",
+          "",
+          "",
+          "",
+          "los",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "consumidores",
+          "",
+          "",
+          "",
+          "trabajadores",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Vía de exposición",
+          "Locales agudos",
+          "Sistém agudos",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém"
+        ],
+        [
+          "",
+          "",
+          "",
+          "crónicos",
+          "crónicos",
+          "agudos",
+          "agudos",
+          "crónicos",
+          "crónicos"
+        ],
+        [
+          "Oral",
+          "",
+          "",
+          "",
+          "4,76 mg/kg/d",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Inhalación",
+          "",
+          "",
+          "",
+          "8,33 mg/m3",
+          "",
+          "",
+          "",
+          "33,3 mg/m3"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "ISOBUTANO\nValor límite de umbral"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Tipo",
+          "Estado",
+          "TWA/8h",
+          "",
+          "STEL/15min",
+          "",
+          "Notas / Observaciones"
+        ],
+        [
+          "",
+          "",
+          "mg/m3",
+          "ppm",
+          "mg/m3",
+          "ppm",
+          ""
+        ],
+        [
+          "AGW",
+          "DEU",
+          "2400",
+          "1000",
+          "9600",
+          "4000",
+          ""
+        ],
+        [
+          "HTP",
+          "FIN",
+          "1900",
+          "800",
+          "2400",
+          "1000",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO\nConcentración prevista sin efectos sobre el ambiente - PNEC"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Valor de referencia en agua dulce",
+          "7",
+          "mg/l"
+        ],
+        [
+          "Valor de referencia en agua marina",
+          "0,7",
+          "mg/l"
+        ],
+        [
+          "Valor de referencia para los microorganismos STP",
+          "830",
+          "mg/l"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "Salud - Nivel sin efecto derivado - DNEL/DMEL"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          "",
+          "Efectos sobre",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "los",
+          "",
+          "",
+          "",
+          "los",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "consumidores",
+          "",
+          "",
+          "",
+          "trabajadores",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Vía de exposición",
+          "Locales agudos",
+          "Sistém agudos",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém",
+          "Locales",
+          "Sistém"
+        ],
+        [
+          "",
+          "",
+          "",
+          "crónicos",
+          "crónicos",
+          "agudos",
+          "agudos",
+          "crónicos",
+          "crónicos"
+        ],
+        [
+          "Oral",
+          "",
+          "",
+          "VND",
+          "6,25 mg/kg",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Inhalación",
+          "",
+          "",
+          "VND",
+          "21,73 mg/kg",
+          "",
+          "",
+          "VND",
+          "73,4 mg/m3"
+        ],
+        [
+          "Dérmica",
+          "",
+          "",
+          "0,056 mg/kg",
+          "2,5 mg/kg",
+          "",
+          "",
+          "0,09 mg/kg",
+          "4,16 mg/kg"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA\nValor límite de umbral"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Tipo",
+          "Estado",
+          "TWA/8h",
+          "",
+          "STEL/15min",
+          "",
+          "Notas / Observaciones"
+        ],
+        [
+          "",
+          "",
+          "mg/m3",
+          "ppm",
+          "mg/m3",
+          "ppm",
+          ""
+        ],
+        [
+          "TLV",
+          "CZE",
+          "35",
+          "9,66",
+          "70",
+          "19,32",
+          ""
+        ],
+        [
+          "AGW",
+          "DEU",
+          "36",
+          "10",
+          "72",
+          "20",
+          "PIEL"
+        ],
+        [
+          "MAK",
+          "DEU",
+          "36",
+          "10",
+          "72",
+          "20",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "TLV",
+          "DNK",
+          "36",
+          "10",
+          "",
+          "",
+          "PIEL",
+          "E"
+        ],
+        [
+          "VLA",
+          "ESP",
+          "36",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "VLEP",
+          "FRA",
+          "36",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "HTP",
+          "FIN",
+          "36",
+          "10",
+          "72",
+          "20",
+          "PIEL",
+          ""
+        ],
+        [
+          "TLV",
+          "GRC",
+          "36",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "VLEP",
+          "ITA",
+          "36",
+          "10",
+          "72",
+          "20",
+          "PIEL",
+          ""
+        ],
+        [
+          "TLV",
+          "NOR",
+          "36",
+          "10",
+          "",
+          "",
+          "PIEL",
+          ""
+        ],
+        [
+          "TGG",
+          "NLD",
+          "36",
+          "",
+          "72",
+          "",
+          "PIEL",
+          ""
+        ],
+        [
+          "VLE",
+          "PRT",
+          "36",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "NDS/NDSCh",
+          "POL",
+          "36",
+          "",
+          "72",
+          "",
+          "PIEL",
+          ""
+        ],
+        [
+          "NGV/KGV",
+          "SWE",
+          "35",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "WEL",
+          "GBR",
+          "36",
+          "10",
+          "72",
+          "20",
+          "PIEL",
+          ""
+        ],
+        [
+          "OEL",
+          "EU",
+          "36",
+          "10",
+          "72",
+          "20",
+          "",
+          ""
+        ],
+        [
+          "TLV-ACGIH",
+          "",
+          "71",
+          "20",
+          "",
+          "",
+          "PIEL",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "Leyenda:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "(C) = CEILING ; INHAL = Fracción inhalable ; RESPIR = Fracción respirable ; TORAC = Fracción torácica."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.1. Parámetros de control"
+      ],
+      "zone": "main",
+      "text": "VND = peligro identificado pero ningún DNEL/PNEC disponible ; NEA = ninguna exposición esperada ; NPI = ningún peligr o identificado ; LOW =\nbajo peligro ; MED = medio peligro ; HIGH = alto peligro."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Controles de la exposición"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "Considerando que el uso de medidas técnicas adecuadas debería tener prioridad respecto a los equipos de protección personales , asegurar una buena\nventilación en el lugar de trabajo a través de una eficaz aspiración local.\nDurante la elección de los equipos protectores personales pedir consejo a los proveedores de sustancias químicas.\nLos dispositivos de protección individual deben ser conformes a las normativas vigentes y deberán llevar el marcado CE."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "Prever un sistema para el lavado ocular y una ducha de emergencia."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "Es necesario mantener los niveles de exposición lo más bajo posible para evitar acumulaciones en el organismo. Gestionar los equipos de protección\nindividual de modo que quede garantizada la máxima protección (ej. reducción del tiempo de sustitución)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "PROTECCIÓN DE LAS MANOS\nNo necesario."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "PROTECCIÓN DE LA PIEL\nUsar indumentos de trabajo con mangas largas y calzado de protección para uso profesional de categoría III (ref. Reglamento 2016/425 y norma EN\nISO 20344). Lavarse con agua y jabón después de haber extraído los indumentos de protección."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "PROTECCIÓN DE LOS OJOS\nUsar gafas de protección herméticas (ref. norma EN 166)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "En caso de que exista riesgo de exposición a salpicaduras o chorros en relación a las elaboraciones realizadas, es necesario prever una adecuada\nprotección de las mucosas (boca, nariz y ojos) para evitar absorciones accidentales."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "PROTECCIÓN RESPIRATORIA\nEn caso de superación del valor umbral (ej. TLV-TWA) de una o varias sustancias presentes en el preparado, se aconseja llevar una mascarilla con filtro"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "de tipo AX combinado con filtro de tipo P (ref. norma EN 14387).\nLa utilización de medios de protección de las vías respiratorias es necesaria en ausencia de medidas técnicas para limitar la exposición del trabajador.\nLa protección ofrecida por las mascarillas es, en todo caso, limitada."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "CONTROLES DE LA EXPOSICIÓN AMBIENTAL\nLas emisiones de los procesos productivos, incluidas las de los dispositivos de ventilación, deberían ser controladas para garantizar el respeto de la\nnormativa de protección ambiental."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 8. Controles de exposición/protección individual",
+        "8.2. Controles de la exposición"
+      ],
+      "zone": "main",
+      "text": "No verter sin control los residuos del producto en los alcantarillados ni en los cursos de agua."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 9. Propiedades físicas y químicas"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.1. Información sobre propiedades físicas y químicas básicas"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Información sobre propiedades físicas y químicas básicas"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.1. Información sobre propiedades físicas y químicas básicas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Propiedades",
+          "Valor",
+          "Información"
+        ],
+        [
+          "Estado físico",
+          "líquido",
+          "Temperatura: 20 °C"
+        ],
+        [
+          "Color",
+          "pajizo",
+          "Temperatura: 20 °C"
+        ],
+        [
+          "Olor",
+          "característico",
+          ""
+        ],
+        [
+          "Punto de fusión / punto de congelación",
+          "no disponible",
+          ""
+        ],
+        [
+          "Punto inicial de ebullición",
+          "no aplicable",
+          ""
+        ],
+        [
+          "Inflamabilidad",
+          "gas inflamable",
+          ""
+        ],
+        [
+          "Límites inferior de explosividad",
+          "no disponible",
+          ""
+        ],
+        [
+          "Límites superior de explosividad",
+          "no disponible",
+          ""
+        ],
+        [
+          "Punto de inflamación",
+          "no aplicable",
+          ""
+        ],
+        [
+          "Temperatura de auto-inflamación",
+          "no disponible",
+          ""
+        ],
+        [
+          "Temperatura de descomposición",
+          "no disponible",
+          ""
+        ],
+        [
+          "pH",
+          "no disponible",
+          "Motivo para falta de dato:Non applicabile ai solventi organici."
+        ],
+        [
+          "Viscosidad cinemática",
+          "no disponible",
+          ""
+        ],
+        [
+          "Solubilidad",
+          "soluble en agua",
+          "Temperatura: 20 °C"
+        ],
+        [
+          "Coeficiente de repartición: n-octanol/agua",
+          "no disponible",
+          ""
+        ],
+        [
+          "Presión de vapor",
+          "no disponible",
+          ""
+        ],
+        [
+          "Densidad y/o densidad relativa",
+          "0,725 kg/l",
+          "Método:ASTM D 1298 Temperatura: 20 °C"
+        ],
+        [
+          "Densidad de vapor relativa",
+          "no disponible",
+          ""
+        ],
+        [
+          "Características de las partículas",
+          "no aplicable",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.2. Otros datos"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Otros datos"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.2. Otros datos",
+        "9.2.1. Información relativa a las clases de peligro físico"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "9.2.1. Información relativa a las clases de peligro físico"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.2. Otros datos",
+        "9.2.1. Información relativa a las clases de peligro físico"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.2. Otros datos",
+        "9.2.2. Otras características de seguridad"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "9.2.2. Otras características de seguridad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 9. Propiedades físicas y químicas",
+        "9.2. Otros datos",
+        "9.2.2. Otras características de seguridad"
+      ],
+      "zone": "main",
+      "text": "VOC (Directiva 2010/75/UE) 89,13 % - 646,18 gr/litro\nVOC (carbono volátil) 79,09 % - 573,37 gr/litro"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 10. Estabilidad y reactividad"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactividad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "En condiciones de uso normales, no hay particulares peligros de reacción con otras sustancias."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "Estable en las condiciones normales de uso y almacenamiento."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "Reacciona con: ácidos fuertes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.1. Reactividad"
+      ],
+      "zone": "main",
+      "text": "En contacto con: agentes oxidantes fuertes,agentes reductores,ácidos fuertes,bases fuertes.Puede liberar: calor."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Estabilidad química"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "El producto es estable en las condiciones normales de uso y almacenamiento."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "Estable en las condiciones normales de uso y almacenamiento."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "Alcoholes C12-16, etoxilados"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "Estable en las condiciones normales de uso y almacenamiento."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.2. Estabilidad química"
+      ],
+      "zone": "main",
+      "text": "Estable en las condiciones normales de uso y almacenamiento."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.3. Posibilidad de reacciones peligrosas"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Posibilidad de reacciones peligrosas"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.3. Posibilidad de reacciones peligrosas"
+      ],
+      "zone": "main",
+      "text": "En condiciones de uso y almacenamiento normales, no se prevén reacciones peligrosas."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.3. Posibilidad de reacciones peligrosas"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.3. Posibilidad de reacciones peligrosas"
+      ],
+      "zone": "main",
+      "text": "Puede reaccionar peligrosamente con: agentes oxidantes fuertes,ácidos minerales."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.4. Condiciones que deben evitarse"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Condiciones que deben evitarse"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.4. Condiciones que deben evitarse"
+      ],
+      "zone": "main",
+      "text": "Evite el recalentamiento."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.4. Condiciones que deben evitarse"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.4. Condiciones que deben evitarse"
+      ],
+      "zone": "main",
+      "text": "Evitar la exposición a: calor,llamas libres,descargas electrostáticas."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Materiales incompatibles"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Fuertes reductores y oxidantes, bases y ácidos fuertes, materiales a elevada temperatura."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Incompatible con: agentes oxidantes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Incompatible con: ácidos fuertes,agentes oxidantes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Evite el contacto con: agentes oxidantes fuertes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.5. Materiales incompatibles"
+      ],
+      "zone": "main",
+      "text": "Incompatible con: ácidos fuertes."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Productos de descomposición peligrosos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "Puede liberar: óxidos de carbono."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "Por descomposición, libera: anhídrido carbónico,óxido de nitrógeno."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 10. Estabilidad y reactividad",
+        "10.6. Productos de descomposición peligrosos"
+      ],
+      "zone": "main",
+      "text": "Calentado hasta su descomposición, libera: gases tóxicos,óxidos de nitrógeno."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 11. Información toxicológica"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica"
+      ],
+      "zone": "main",
+      "text": "En ausencia de datos toxicológicos exp erimentales sobre el producto, los eventuales peligros para la salud han sido evaluados en base a las\npropiedades de las sustancias contenidas, según los criterios previstos por la normativa de referencia para su clasificación.\nPor lo tanto, se debe considerar la concentración de cada sustancia peligrosa eventualmente citada en la secc. 3, para evaluar los efectos toxicológicos\nderivados de la exposición al producto."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Metabolismo, cinética, mecanismo de acción y otras informaciones"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Información sobre posibles vías de exposición"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Efectos retardados e inmediatos, así como efectos crónicos producidos por una exposición a corto y largo plazo"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Efectos interactivos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "TOXICIDAD AGUDA"
+    },
+    {
+      "kind": "table",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ATE (Inhalación) de la mezcla:",
+          "No clasificado (ningún componente relevante)"
+        ],
+        [
+          "ATE (Oral) de la mezcla:",
+          ">2000 mg/kg"
+        ],
+        [
+          "ATE (Cutánea) de la mezcla:",
+          "No clasificado (ningún componente relevante)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "HIDROCARBUROS, C9-C12, n-ALKANS, CICLOS, AROMATICOS (2 - 25%)"
+    },
+    {
+      "kind": "table",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LD50 (Cutánea):",
+          "> 3400 mg/kg"
+        ],
+        [
+          "LD50 (Oral):",
+          "> 15000 mg/kg"
+        ],
+        [
+          "LC50 (Inhalación vapores):",
+          "> 13,1 mg/l/4h"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE\nLD50 (Cutánea): > 5000 mg/kg (Rabbit)\nLD50 (Oral): > 2000 mg/kg (Rat)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "ISOBUTANO\nLC50 (Inhalación vapores): 52000 ppm/2h (Rat)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Alcoholes C12-16, etoxilados\nSTA (Oral): 500 mg/kg estimación de la tabla 3.1.2 del Anexo I del CLP\n(dato utilizado para el cálculo de la estimación de la toxicidad aguda de la\nmezcla)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)\nLD50 (Oral): > 2000 mg/kg (Rat)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "BENZENSULFONIC ACID, MONO-C10-14-ALKYL DERIVS, COMPDS. WITH TRIETHANOLAMINE\nSTA (Oral): 500 mg/kg estimación de la tabla 3.1.2 del Anexo I del CLP\n(dato utilizado para el cálculo de la estimación de la toxicidad aguda de la\nmezcla)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "LD50 (Cutánea): > 2000 mg/kg\nLD50 (Oral): > 2000 mg/kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA"
+    },
+    {
+      "kind": "table",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LD50 (Cutánea):",
+          "500 mg/kg Rabbit"
+        ],
+        [
+          "LD50 (Oral):",
+          "1050 mg/kg Rat"
+        ],
+        [
+          "LC50 (Inhalación vapores):",
+          "35,1 mg/l/1h Rat"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "CORROSIÓN O IRRITACIÓN CUTÁNEAS"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Provoca irritación cutánea"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "LESIONES OCULARES GRAVES O IRRITACIÓN OCULAR"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Provoca lesiones oculares graves"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "SENSIBILIZACIÓN RESPIRATORIA O CUTÁNEA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Sensibilizante para la piel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "MUTAGENICIDAD EN CÉLULAS GERMINALES"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "No responde a los criterios de clasificació n para esta clase de peligro"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "CARCINOGENICIDAD"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "No responde a los criterios de clasificación para esta clase de peligro"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "TOXICIDAD PARA LA REPRODUCCIÓN"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "No responde a los criterios de clasificación para esta clase de peligro"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIÓN ÚNICA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Puede provocar somnolencia o vértigo"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIÓN REPETIDA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Provoca daños en los órganos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "PELIGRO POR ASPIRACIÓN"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.o 1272/200 8"
+      ],
+      "zone": "main",
+      "text": "Tóxico por aspiración"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.2. Información sobre otros peligros"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2. Información sobre otros peligros"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 11. Información toxicológica",
+        "11.2. Información sobre otros peligros"
+      ],
+      "zone": "main",
+      "text": "Según los datos disponibles, el producto no contiene sustancias que figuren entre las principales listas europeas de alteradores endocrinos potenciales\no sospechosos con efectos en la salud humana que estén en proceso de evaluación."
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 12. Información ecológica"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica"
+      ],
+      "zone": "main",
+      "text": "El producto debe ser considerado peligroso para el medio ambiente y es tóxico para los organismos acuáticos. Provocar, a largo plazo, efectos\nnegativos en el ambiente acuático."
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicidad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE\nLC50 - Peces 0,702 mg/l/96h (Pimephales promelas)\nEC50 - Crustáceos 0,577 mg/l/48h (Daphnia magna)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO\nLC50 - Peces 2,4 mg/l/96h\nEC50 - Algas / Plantas Acuáticas 3,2 mg/l/72h"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "text": "HIDROCARBUROS, C9-C12, n-ALKANS,\nCICLOS, AROMATICOS (2 - 25%)"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LC50 - Peces",
+          "10 mg/l/96h (Pimephales promelas)"
+        ],
+        [
+          "EC50 - Crustáceos",
+          "10 mg/l/48h (Daphnia magna)"
+        ],
+        [
+          "EC50 - Algas / Plantas Acuáticas",
+          "4,6 mg/l/72h (Pseudokirchneriella subcapitata)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "text": "Alcoli, da cocco, etossilato (>=2,5 < 5 EO)"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.1. Toxicidad"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "LC50 - Peces",
+          "> 0,1 mg/l/96h (Carassius Auratus)"
+        ],
+        [
+          "EC50 - Crustáceos",
+          "> 0,1 mg/l/48h (Daphnie)"
+        ],
+        [
+          "EC50 - Algas / Plantas Acuáticas",
+          "> 0,1 mg/l/72h (Algae)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.2. Persistencia y degradabilidad"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistencia y degradabilidad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.2. Persistencia y degradabilidad"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA\nSolubilidad en agua 1000 - 10000 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.2. Persistencia y degradabilidad"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.2. Persistencia y degradabilidad"
+      ],
+      "zone": "main",
+      "text": "Solubilidad en agua 13,8 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.2. Persistencia y degradabilidad"
+      ],
+      "zone": "main",
+      "text": "Rápidamente degradable\n100% 28d\nBUTANO\nSolubilidad en agua 0,1 - 100 mg/l\nRápidamente degradable\nPROPANO\nSolubilidad en agua 0,1 - 100 mg/l\nRápidamente degradable\nAMIDAS, COCO\nRápidamente degradable\n92,5 % (OECD 301B)\nHIDROCARBUROS, C9-C12, n-ALKANS,\nCICLOS, AROMATICOS (2 - 25%)\nRápidamente degradable\nAlcoholes C12-16, etoxilados\nRápidamente degradable\n60% - 28 d OECD 301/F\nAlcoli, da cocco, etossilato (>=2,5 < 5 EO)\nRápidamente degradable\n60% 28d"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Potencial de bioacumulación"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA\nCoeficiente de distribución: n-octanol/agua - 2,55\nBCF < 0,65"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE\nCoeficiente de distribución: n-octanol/agua 4,83\nBCF 660"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "text": "BUTANO\nCoeficiente de distribución: n-octanol/agua < 2,8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "text": "PROPANO\nCoeficiente de distribución: n-octanol/agua 1,09"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.3. Potencial de bioacumulación"
+      ],
+      "zone": "main",
+      "text": "AMIDAS, COCO\nCoeficiente de distribución: n-octanol/agua 3,75 Log Kow"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.4. Movilidad en el suelo"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Movilidad en el suelo"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.4. Movilidad en el suelo"
+      ],
+      "zone": "main",
+      "text": "MORFOLINA\nCoeficiente de distribución: suelo/agua - 0,6196"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.5. Resultados de la valoración PBT y mPmB"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Resultados de la valoración PBT y mPmB"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.5. Resultados de la valoración PBT y mPmB"
+      ],
+      "zone": "main",
+      "text": "Sobre la base de los datos disponibles, el producto no contiene sustancias PBT o vPvB en porcentaje ≥ al 0,1%."
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.6. Propiedades de alteración endocrina"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6. Propiedades de alteración endocrina"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.6. Propiedades de alteración endocrina"
+      ],
+      "zone": "main",
+      "text": "Según los datos disponibles, el producto no contiene sustancias que figuren entre las principales listas europeas de alteradores endocrinos potenciales\no sospechosos con efectos en el medio ambiente que estén en proceso de evaluación."
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.7. Otros efectos adversos"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7. Otros efectos adversos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 12. Información ecológica",
+        "12.7. Otros efectos adversos"
+      ],
+      "zone": "main",
+      "text": "Información no disponible."
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 13. Consideraciones relativas a la eliminación"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 13. Consideraciones relativas a la eliminación"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 13. Consideraciones relativas a la eliminación",
+        "13.1. Métodos para el tratamiento de residuos"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Métodos para el tratamiento de residuos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 13. Consideraciones relativas a la eliminación",
+        "13.1. Métodos para el tratamiento de residuos"
+      ],
+      "zone": "main",
+      "text": "Reutilizar si es posible. Los deshechos del producto tienen que considerarse especialmente peligrosos. La peligrosidad de los residuos que contiene en\nparte este producto debe valorarse en función de las disposiciones legislativas vigentes.\nLa eliminación debe encargarse a una sociedad autorizada para la gestión de basuras, según cuanto dispuesto por la normativa nacional y\neventualmente local.\nEl transporte de residuos puede estar sujeto al ADR.\nEMBALAJES CONTAMINADOS\nLos embalajes contaminados deben enviarse a la recuperación o eliminación según las normas nacionales sobre la gestión de residuos."
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 14. Información relativa al transporte"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.1. Número ONU o número ID"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1. Número ONU o número ID"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.1. Número ONU o número ID"
+      ],
+      "zone": "main",
+      "text": "ADR / RID, IMDG, IATA: 1950"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.2. Designación oficial de transporte de las Naciones Unidas"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2. Designación oficial de transporte de las Naciones Unidas"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.2. Designación oficial de transporte de las Naciones Unidas"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ADR / RID:",
+          "AEROSOLS"
+        ],
+        [
+          "IMDG:",
+          "AEROSOLS"
+        ],
+        [
+          "IATA:",
+          "AEROSOLS, FLAMMABLE"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.3. Clase(s) de peligro para el transporte"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Clase(s) de peligro para el transporte"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.3. Clase(s) de peligro para el transporte"
+      ],
+      "zone": "main",
+      "text": "ADR / RID: Clase: 2 Etiqueta: 2.1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.3. Clase(s) de peligro para el transporte"
+      ],
+      "zone": "main",
+      "text": "IMDG: Clase: 2 Etiqueta: 2.1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.3. Clase(s) de peligro para el transporte"
+      ],
+      "zone": "main",
+      "text": "IATA: Clase: 2 Etiqueta: 2.1"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.4. Grupo de embalaje"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Grupo de embalaje"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.4. Grupo de embalaje"
+      ],
+      "zone": "main",
+      "text": "ADR / RID, IMDG, IATA: -"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.5. Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Peligros para el medio ambiente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.5. Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "text": "ADR / RID: Peligroso para el\nMedio Ambiente\nIMDG: Marine Pollutant"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.5. Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "text": "IATA: NO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.5. Peligros para el medio ambiente"
+      ],
+      "zone": "main",
+      "text": "Para el transporte aéreo, la marca de peligro para el medio ambiente es obligatoria solo para los números ONU 3077 y 3082."
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.6. Precauciones particulares para los usuarios"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Precauciones particulares para los usuarios"
+    },
+    {
+      "kind": "table",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.6. Precauciones particulares para los usuarios"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ADR / RID:",
+          "HIN - Kemler: --",
+          "Cantidades",
+          "Código de"
+        ],
+        [
+          "",
+          "",
+          "Limitadas: 1",
+          "restricción en"
+        ],
+        [
+          "",
+          "Disposiciónes especiales: -",
+          "L",
+          "túnel: (D)"
+        ],
+        [
+          "IMDG:",
+          "EMS: F-D, S-U",
+          "Cantidades Limitadas: 1 L",
+          ""
+        ],
+        [
+          "IATA:",
+          "Cargo:",
+          "Cantidad",
+          "Instrucciones"
+        ],
+        [
+          "",
+          "",
+          "máxima: 150",
+          "embalaje:"
+        ],
+        [
+          "",
+          "",
+          "Kg",
+          "203"
+        ],
+        [
+          "",
+          "Pass.:",
+          "Cantidad",
+          "Instrucciones"
+        ],
+        [
+          "",
+          "",
+          "máxima: 75",
+          "embalaje:"
+        ],
+        [
+          "",
+          "",
+          "Kg",
+          "203"
+        ],
+        [
+          "",
+          "Disposiciónes especiales:",
+          "A145, A167, A802",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 14. Información relativa al transporte",
+        "14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI"
+      ],
+      "zone": "main",
+      "text": "Información no pertinente."
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 15. Información reglamentaria"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la mezcla"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Categoría\nSeveso - Directivo\n2012/18/UE: P3a-E2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Restricciones relativas al producto o a las sustancias contenidas según el anexo XVII Reglamento (CE) 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Producto\nPunto 40"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias contenidas\nPunto 75"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Reglamento (UE) 2019/1148 - sobre la comercialización y la utilizació n de precursores de explosivos"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "no aplicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias en Candidate List (Art. 59 REACH)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sobre la base de los datos disponibles, el producto no contiene sustancias SVHC en porcentaje ≥ al 0,1%."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias sujetas a autorización (Anexo XIV REACH)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Ninguna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias sujetas a obligación de notificación de exportación Reglamento (UE) 649/2012:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Ninguna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias sujetas a la Convención de Rotterdam:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Ninguna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Sustancias sujetas a la Convención de Estocolmo:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Ninguna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Controles sanitarios"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Los trabajadores expuestos a este agente químico no deben ser sometidos a la vigilancia sanitaria, siempre y cuando los resultados de la evaluación de\nlos riesgos demuestren que existe sólo un moderado riesgo para la seguridad y la salud de los trabajadores y que las medidas previstas por la directiva\n98/24/CE estén siendo respetadas y sean suficientes para reducir el riesgo."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Reglamento (CE) Nº 648/2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "Ingredientes en conformidad con el Reglamento (CE) Nº 648/2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria"
+      ],
+      "zone": "main",
+      "text": "El tensioactivo(s) contenido(s) en esta preparación cumple(n) con el criterio de biodegradabilidad estipulado en el Reglamento (CE) Nº 648/2004 sobre\ndetergentes. Los datos para justificar esta afirmación están a disposición de las autoridades competentes de los Estados Miembros y les serán\nmostrados bajo su requerimiento directo o bajo requerimiento de un productor de detergentes."
+    },
+    {
+      "kind": "heading",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. Evaluación de la seguridad química"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "text": "Ha sido realizada una evaluación de seguridad química para las siguientes sustancias contenidas:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "text": "PROPANO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "text": "BUTANO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "text": "(R)-P-MENTHA-1,8-DIENE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 15. Información reglamentaria",
+        "15.2. Evaluación de la seguridad química"
+      ],
+      "zone": "main",
+      "text": "ISOBUTANO"
+    },
+    {
+      "kind": "heading",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECCIÓN 16. Otra información"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "Texto de las indicaciones de peligro (H) citadas en la secciones 2 -3 de la ficha:\nFlam. Gas 1A Gases inflamables, categoría 1A"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "Aerosol 1\nAerosoles, categoría 1"
+    },
+    {
+      "kind": "table",
+      "page": 20,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Aerosol 3",
+          "Aerosoles, categoría 3"
+        ],
+        [
+          "Flam. Liq. 3",
+          "Líquidos inflamables, categoría 3"
+        ],
+        [
+          "Press. Gas (Liq.)",
+          "Gas licuado"
+        ],
+        [
+          "Press. Gas",
+          "Gas presurizado"
+        ],
+        [
+          "Acute Tox. 3",
+          "Toxicidad aguda, categoría 3"
+        ],
+        [
+          "Acute Tox. 4",
+          "Toxicidad aguda, categoría 4"
+        ],
+        [
+          "STOT RE 1",
+          "Toxicidad específica en determinados órganos - exposiciones repetidas, categoría 1"
+        ],
+        [
+          "Asp. Tox. 1",
+          "Peligro por aspiración, categoría 1"
+        ],
+        [
+          "Skin Corr. 1B",
+          "Corrosión cutáneas, categoría 1B"
+        ],
+        [
+          "Eye Dam. 1",
+          "Lesiones oculares graves, categoría 1"
+        ],
+        [
+          "Eye Irrit. 2",
+          "Irritación ocular, categoría 2"
+        ],
+        [
+          "Skin Irrit. 2",
+          "Irritación cutáneas, categoría 2"
+        ],
+        [
+          "Skin Sens. 1B",
+          "Sensibilización cutánea, categoría 1B"
+        ],
+        [
+          "STOT SE 3",
+          "Toxicidad específica en determinados órganos - exposiciones única, categoría 3"
+        ],
+        [
+          "Aquatic Acute 1",
+          "Peligroso para el medio ambiente acuático, toxicidad aguda, categoría 1"
+        ],
+        [
+          "Aquatic Chronic 2",
+          "Peligroso para el medio ambiente acuático, toxicidad crónico, categoría 2"
+        ],
+        [
+          "Aquatic Chronic 3",
+          "Peligroso para el medio ambiente acuático, toxicidad crónico, categoría 3"
+        ],
+        [
+          "H220",
+          "Gas extremadamente inflamable."
+        ],
+        [
+          "H222",
+          "Aerosol extremadamente inflamable."
+        ],
+        [
+          "H229",
+          "Recipiente a presión: puede reventar si se calienta."
+        ],
+        [
+          "H226",
+          "Líquidos y vapores inflamables."
+        ],
+        [
+          "H280",
+          "Contiene gas a presión; puede reventar si se calienta."
+        ],
+        [
+          "H311",
+          "Tóxico en contacto con la piel."
+        ],
+        [
+          "H302",
+          "Nocivo en caso de ingestión."
+        ],
+        [
+          "H332",
+          "Nocivo en caso de inhalación."
+        ],
+        [
+          "H372",
+          "Provoca daños en los órganos tras exposiciones prolongadas o repetidas."
+        ],
+        [
+          "H304",
+          "Puede ser mortal en caso de ingestión y penetración en las vías respiratorias."
+        ],
+        [
+          "H314",
+          "Provoca quemaduras graves en la piel y lesiones oculares graves."
+        ],
+        [
+          "H318",
+          "Provoca lesiones oculares graves."
+        ],
+        [
+          "H319",
+          "Provoca irritación ocular grave."
+        ],
+        [
+          "H315",
+          "Provoca irritación cutánea."
+        ],
+        [
+          "H317",
+          "Puede provocar una reacción alérgica en la piel."
+        ],
+        [
+          "H336",
+          "Puede provocar somnolencia o vértigo."
+        ],
+        [
+          "H400",
+          "Muy tóxico para los organismos acuáticos."
+        ],
+        [
+          "H411",
+          "Tóxico para los organismos acuáticos, con efectos nocivos duraderos."
+        ],
+        [
+          "H412",
+          "Nocivo para los organismos acuáticos, con efectos nocivos duraderos."
+        ],
+        [
+          "EUH066",
+          "La exposición repetida puede provocar sequedad o formación de grietas en la piel."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "LEYENDA:"
+    },
+    {
+      "kind": "list",
+      "page": 20,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ADR: Acuerdo europeo para el transporte de las mercancías peligrosas por carretera",
+          "depth": 0
+        },
+        {
+          "text": "ATE: Estimación de Toxicidad Aguda",
+          "depth": 0
+        },
+        {
+          "text": "CAS: Número del Chemical Abstract Service",
+          "depth": 0
+        },
+        {
+          "text": "CE50: Concentración que tiene efecto sobre el 50 % de la población sometida a prueba",
+          "depth": 0
+        },
+        {
+          "text": "CE: Número identificativo en ESIS (archivo europeo de las sustancias existentes)",
+          "depth": 0
+        },
+        {
+          "text": "CLP: Reglamento (CE) 1272/2008",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "DNEL: Nivel derivado sin efecto",
+          "depth": 0
+        },
+        {
+          "text": "EmS: Emergency Schedule",
+          "depth": 0
+        },
+        {
+          "text": "GHS: Sistema armonizado global para la clasificación y el etiquetado de los productos químicos",
+          "depth": 0
+        },
+        {
+          "text": "IATA DGR: Reglamento para el transporte de mercancías peligrosas de la Asociación internacional de transporte aéreo",
+          "depth": 0
+        },
+        {
+          "text": "IC50: Concentración de inmovilización del 50 % de la población sometida a prueba",
+          "depth": 0
+        },
+        {
+          "text": "IMDG: Código marítimo internacional para el transporte de mercancías peligrosas",
+          "depth": 0
+        },
+        {
+          "text": "IMO: International Maritime Organization",
+          "depth": 0
+        },
+        {
+          "text": "INDEX: Número identificativo en el anexo VI del CLP",
+          "depth": 0
+        },
+        {
+          "text": "LC50: Concentración letal 50 %",
+          "depth": 0
+        },
+        {
+          "text": "LD50: Dosis letal 50 %",
+          "depth": 0
+        },
+        {
+          "text": "OEL: Nivel de exposición ocupacional",
+          "depth": 0
+        },
+        {
+          "text": "PBT: Persistente, bioacumulable y tóxico según el REACH",
+          "depth": 0
+        },
+        {
+          "text": "PEC: Concentración ambiental previsible",
+          "depth": 0
+        },
+        {
+          "text": "PEL: Nivel previsible de exposición",
+          "depth": 0
+        },
+        {
+          "text": "PNEC: Concentración previsible sin efectos",
+          "depth": 0
+        },
+        {
+          "text": "REACH: Reglamento (CE) 1907/2006",
+          "depth": 0
+        },
+        {
+          "text": "RID: Reglamento para el transporte internacional de mercancías peligrosas por ferrocarril",
+          "depth": 0
+        },
+        {
+          "text": "TLV: Valor límite de umbral",
+          "depth": 0
+        },
+        {
+          "text": "TLV VALOR MÁXIMO: Concentración que no se debe superar en ningún momento de la exposición laboral.",
+          "depth": 0
+        },
+        {
+          "text": "TWA: Límite de exposición media ponderada",
+          "depth": 0
+        },
+        {
+          "text": "TWA STEL: Límite de exposición a corto plazo",
+          "depth": 0
+        },
+        {
+          "text": "VOC: Compuesto orgánico volátil",
+          "depth": 0
+        },
+        {
+          "text": "vPvB: Muy persistente y muy bioacumulable según el REACH",
+          "depth": 0
+        },
+        {
+          "text": "WGK: Wassergefährdungsklassen (Deutschland).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "BIBLIOGRAFÍA GENERAL:"
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Reglamento (CE) 1907/2006 del Parlamento Europeo (REACH)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (CE) 1272/2008 del Parlamento Europeo (CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2020/878 (Anexo II Reglamento REACH)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (CE) 790/2009 del Parlamento Europeo (I Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 286/2011 del Parlamento Europeo (II Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 618/2012 del Parlamento Europeo (III Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 487/2013 del Parlamento Europeo (IV Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 944/2013 del Parlamento Europeo (V Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 605/2014 del Parlamento Europeo (VI Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2015/1221 del Parlamento Europeo (VII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2016/918 del Parlamento Europeo (VIII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2016/1179 (IX Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2017/776 (X Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2018/669 (XI Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2019/521 (XII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2018/1480 (XIII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento (UE) 2019/1148",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2020/217 (XIV Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2020/1182 (XV Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2021/643 (XVI Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2021/849 (XVII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "Reglamento delegado (UE) 2022/692 (XVIII Atp. CLP)",
+          "depth": 0
+        },
+        {
+          "text": "The Merck Index. - 10th Edition",
+          "depth": 0
+        },
+        {
+          "text": "Handling Chemical Safety",
+          "depth": 0
+        },
+        {
+          "text": "INRS - Fiche Toxicologique (toxicological sheet)",
+          "depth": 0
+        },
+        {
+          "text": "Patty - Industrial Hygiene and Toxicology",
+          "depth": 0
+        },
+        {
+          "text": "N.I. Sax - Dangerous properties of Industrial Materials-7, 1989 Edition",
+          "depth": 0
+        },
+        {
+          "text": "Sitio web IFA GESTIS",
+          "depth": 0
+        },
+        {
+          "text": "Sitio web Agencia ECHA",
+          "depth": 0
+        },
+        {
+          "text": "Banco de datos de modelos de SDS de sustancias químicas - Ministerio de Salud e Instituto Superior de Sanidad",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "Nota para el usuario:\nLa información contenida en esta ficha se basa en los conocimientos disponibles hasta la fecha de la última versión. El usuario debe cerciorarse de la\nidoneidad y completeza de la información en lo que se refiere al específico uso del producto.\nEste documento no debe ser interpretado como garantía de alguna propiedad específica del producto."
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "Visto que la utilización del producto no puede ser controlada directamente por nosotros, será obligación del usuario respetar, bajo su responsabilidad,\nlas leyes y las disposiciones vigentes en lo que se refiere a higiene y seguridad. No se asumen responsabilidades por usos inadecuados.\nOfrezca una adecuada formación al personal encargado del uso de productos químicos.\nMÉTODOS DE CÁLCULO DE LA CLASIFICACIÓN\nPeligros químicos y físicos: La clasificación del producto ha sido derivada de los criterios establecidos por el Reglamento CLP, Anexo I, Parte 2. Los\nmétodos de evaluación de las propiedades químico-físicas se indican en la sección 9.\nPeligros para la salud: La clasificación del producto se basa en los métodos de cálculo previstos en el Anexo I del CLP, Parte 3, a menos que se\nespecifique lo contrario en la sección 11.\nPeligros para el medio ambiente: La clasificación del producto se basa en los métodos de cálculo previstos en el Anexo I del CLP, Parte 4, a menos que\nse especifique lo contrario en la sección 12."
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SECCIÓN 16. Otra información"
+      ],
+      "zone": "main",
+      "text": "Modificaciones con respecto a la revisión precedente:\nHan sido realizadas variaciones en las siguientes secciones:\n03 / 07 / 08 / 09 / 11 / 14 / 15 / 16."
+    }
+  ]
+}

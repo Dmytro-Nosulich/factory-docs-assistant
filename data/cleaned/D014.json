@@ -1,0 +1,403 @@
+{
+  "doc_id": "D014",
+  "format": "pdf",
+  "page_count": 9,
+  "pages_without_text": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "warnings": [
+    "D014: no text layer on pages [3, 4, 5, 6, 7, 8, 9]"
+  ],
+  "content_hash": "b28ca7d8b77c5ce3b7b53d963ce86c7abb7c1dfc8d3198caa593125515f059d9",
+  "blocks": [
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Abnahmeprüfzeugnis nach EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Abnahmeprüfzeugnis nach EN 10204 - 3.1"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Inspection certificate acc. to EN 10204 - 3.1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Seite / page 1 von 2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Zeugnis-Nr./Certificate-no, 1775-07-32166659"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Es wird bescheinigt, dass die gelieferten Erzeugnisse den Vereinbarungen bei der Bestellung\nentsprechen. Darüber hinaus wird bescheinigt, dass bei der Herstellung der nachstehend aufgeführten\nErzeugnisse die vorgeschriebenen Prüfungen und / oder die zusätzlich aufgeführten Prüfungen nach den\nbestehenden Prüfvorgaben durchgeführt und die erforderlichen Freigaben erteilt wurden. Die unten\naufgeführten Prüfungen wurden unter Aufsicht einer dazu autorisierten, unabhängigen Stelle\ndurchgeführt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "It is certified that the products supplied are in compliance with the requirements of the order.\nFurthermore, it is confirmed that during the manufacturing of the subsequently listed products the\nspecified inspections and / or the additionally ordered inspections have been performed according to the\nvalid procedures and the necessary releases have been given.\nThe subsequently listed inspections have been performed by especially authorized personal."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Kunde / Customer : Max Mustermann GbR"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "Schlossallee 5"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Schlossallee 5"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "89000 München"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "Kunden Bestell-Nr. / Customer order no. : 238 - 143-06"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "E+H Auftrags-Nr. / E+H order no. : 40/43912685/40154238"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "Pos / item Menge / Qty Produktbezeichnung / Description"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "0080 1 TTR35-A1A121DB1BYB\nThermophant T TTR35"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "Serien-Nr / Serial-No. mit/with TAG-Info\n93002D04298 line 1:TSH 01-001"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "Teil / Part Adapterflansch 1 1/2\" TTR31/TTR35"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Firma / Manufacturer",
+          "",
+          "Olarra"
+        ],
+        [
+          "Zeugnis-Nr. / Certificate No.",
+          "538.783",
+          ""
+        ],
+        [
+          "Schmelze-Nr. / Heat No.",
+          "907733",
+          ""
+        ],
+        [
+          "Material / Material",
+          "",
+          "1.4435/316L"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1",
+        "89000 München"
+      ],
+      "zone": "main",
+      "text": "E + H Ident Nr. / E + H Ident No. W098 / A630"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "Abnahmeprüfzeugnis nach EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Abnahmeprüfzeugnis nach EN 10204 - 3.1"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Inspection certificate acc. to EN 10204 - 3.1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Seite / page 2 von 2\nZeugnis-Nr./Certificate-no, 1775-07-32166659"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Teil / Part Rohr Edelstahl D6x1 1.4404 (316L)"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Firma / Manufacturer",
+          "",
+          "Sandvik"
+        ],
+        [
+          "Zeugnis-Nr. / Certificate No.",
+          "24339",
+          ""
+        ],
+        [
+          "Schmelze-Nr. / Heat No.",
+          "511552",
+          ""
+        ],
+        [
+          "Material / Material",
+          "",
+          "1.4404/316L"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "E + H Ident Nr. / E + H Ident No. W127 /"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Teil / Part Prozessadapter TMR35 M24x1,5/D6"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Firma / Manufacturer",
+          "",
+          "Acc Valb"
+        ],
+        [
+          "Zeugnis-Nr. / Certificate No.",
+          "MEST416114/2006",
+          ""
+        ],
+        [
+          "Schmelze-Nr. / Heat No.",
+          "242691",
+          ""
+        ],
+        [
+          "Material / Material",
+          "",
+          "1.4404/316L"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "E + H Ident Nr. / E + H Ident No. W128 /"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Teil / Part Fühlerspitze D6x25 kpl.TMR3X"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Firma / Manufacturer",
+          "Ugine & Alz",
+          ""
+        ],
+        [
+          "Zeugnis-Nr. / Certificate No.",
+          "2004.0090426",
+          ""
+        ],
+        [
+          "Schmelze-Nr. / Heat No.",
+          "0",
+          ""
+        ],
+        [
+          "Material / Material",
+          "",
+          "1.4404/316"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "E + H Ident Nr. / E + H Ident No. W137 /"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Datum / Date : 03.05.2007"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Inspection certificate acc. to EN 10204 - 3.1"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser Wetzer GmbH & Co.KG Seitz S.\nD – 87484 Nesselwang Werkssachverständiger\nWorks inspector"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+id,rule,pages,times,text
+D001,zone_footer,1-12,12,SDS_SE - 000010021697
+D001,zone_header,2-12,11,Issue Date: 16.01.2013 Version: 1.3 SDS No.: 000010021697
+D001,zone_header,2-12,11,Last revised date: 20.02.2020 2/12
+D001,zone_header,2-12,11,"Nitrogen, compressed"
+D001,zone_header,2-12,11,SAFETY DATA SHEET
+D002,zone_footer,1-19,19,SDS_SE - 000010021697
+D002,zone_header,2-19,18,"Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar"
+D002,zone_header,2-19,18,"Nitrogen, komprimerad"
+D002,zone_header,1-19,19,Revisionsdatum: 18.09.2023 1/19
+D002,zone_header,2-19,18,Senast uppdaterad : 20.02.2020
+D002,zone_header,1-19,19,SÄKERHETSDATABLAD
+D002,zone_header,2-19,18,Utgivningsdatum: 16.01.2013 Version: 1.4 SDB Nr: 000010021697
+D003,repeated_line,2-45,44,Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria
+D003,zone_footer,1-45,45,FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com
+D003,zone_footer,1-45,45,SDS-PL - PL
+D003,zone_footer,1-45,45,Strona 1 z 45
+D003,zone_footer,1-45,45,Telephone +43 1 224 00 0 | Fax +43 1 22 400 333
+D003,zone_header,1-45,45,Aceton
+D003,zone_header,2-45,44,KARTA CHARAKTERYSTYKI
+D003,zone_header,2-45,44,Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023
+D003,zone_header,2-45,44,zgodnie z Rozporządzeniem WE 1907/2006
+D006,zone_footer,1-6,6,(продовження на сторінці 2)
+D006,zone_footer,1-7,7,51.1.7
+D006,zone_footer,1-7,7,UA
+D006,zone_header,2-7,6,(продовження сторінки 1)
+D006,zone_header,2-7,6,дата друку: 06.08.2020 змінена версія від: 06.08.2020версія № 1.02
+D006,zone_header,2-7,6,"згідно з 1907/2006/ЄС, стаття 31"
+D006,zone_header,2-7,6,паспорт безпеки
+D006,zone_header,1-7,7,сторінка: 1/7
+D007,zone_footer,1-10,10,(продовження на сторінці 2)
+D007,zone_footer,1-11,11,59.1.8
+D007,zone_footer,1-11,11,UA
+D007,zone_header,2-11,10,(продовження сторінки 1)
+D007,zone_header,2-11,10,дата друку: 26.07.2024 змінена версія від: 10.10.2022версія № 4
+D007,zone_header,2-11,10,"згідно з 1907/2006/ЄС, стаття 31"
+D007,zone_header,2-11,10,паспорт безпеки
+D007,zone_header,1-11,11,сторінка: 1/11
+D007,zone_header,2-11,10,"Торгова назва: Літній очищувач скла, концентрат 1:100 RM 672"
+D008,repeated_line,2-11,11,Motorbike Visierreiniger
+D008,zone_header,2-11,10,Дата друку у форматі PDF: 30.11.2020
+D008,zone_header,2-11,10,Замінює версію/Версія: 10.12.2019 / 0001
+D008,zone_header,2-11,10,"Паспорт безпеки згідно з регламентом (ЄС) № 1907/2006, додаток II"
+D008,zone_header,2-11,10,Редакція від /Версія: 21.01.2020 / 0002
+D008,zone_header,1-11,11,Сторінка 1 з 11
+D008,zone_header,1-11,11,Чинна з: 21.01.2020
+D010,zone_footer,1-15,15,1 / 15
+D010,zone_header,1-15,15,662729-00005
+D010,zone_header,2-15,14,2.13 09.04.2021 безпеки: Дата першого випуску: 14.01.2011
+D010,zone_header,1-15,15,1000ML
+D010,zone_header,2-15,14,PREPARAT OCHRONNY DO RAK-BASIC-
+D010,zone_header,2-15,14,Версія Дата перегляду: Номер Паспорта Дата останнього випуску: 20.10.2020
+D010,zone_header,2-15,14,ПАСПОРТ БЕЗПЕКИ
+D016,repeated_line,2-6,5,WILO SE
+D016,zone_footer,1-6,6,Declaration n°2156009-rev03 PC As-Sh n°6052681-EU-rev03
+D017,zone_footer,2-3,2,F_GQ_013-64
+D017,zone_header,2-3,2,DECLARATION DE CONFORMITE
+D017,zone_header,2-3,2,DECLARATION OF CONFORMITY
+D017,zone_header,1-3,3,KONFORMITÄTSERKLÄRUNG
+D019,icon_glyph,1 10-11 16 19 27 34,9,U+E015
+D019,icon_glyph,22-23 29 34 36,6,U+E016
+D019,icon_glyph,31,1,U+E018
+D019,icon_glyph,36,1,U+E035
+D019,icon_glyph,36,3,U+E036
+D019,icon_glyph,36,2,U+E037
+D019,icon_glyph,16,1,U+E045
+D019,icon_glyph,19 25 27 36,8,U+E049
+D019,icon_glyph,12 27,9,U+E04B
+D019,icon_glyph,31,1,U+E065
+D019,icon_glyph,31,1,U+E066
+D019,icon_glyph,31,1,U+E067
+D019,icon_glyph,31,1,U+E068
+D019,icon_glyph,36,1,U+E06A
+D019,icon_glyph,30,1,U+E06E
+D019,repeated_line,3-36,34,Endress+Hauser 3
+D019,toc_line,4,1,1.1 Symbols used ......................................................................... 5
+D019,toc_line,4,1,1 About this document ..............................................................5
+D019,toc_line,4,1,9 Diagnostic information .......................................................... 36
+D019,toc_line,4,1,3 Product description .............................................................. 10
+D019,toc_line,4,1,7 System integration .............................................................. 33
+D020,icon_glyph,1 11 15-16 20-22 24 34 41,16,U+E015
+D020,icon_glyph,11-12 28-29 36 41 43,8,U+E016
+D020,icon_glyph,38,1,U+E018
+D020,icon_glyph,43,1,U+E035
+D020,icon_glyph,43,3,U+E036
+D020,icon_glyph,43,2,U+E037
+D020,icon_glyph,19,1,U+E045
+D020,icon_glyph,17-18,3,U+E048
+D020,icon_glyph,21-22 24 26 31-32 34 43,11,U+E049
+D020,icon_glyph,12 34,8,U+E04B
+D020,icon_glyph,38,1,U+E065
+D020,icon_glyph,38,1,U+E066
+D020,icon_glyph,38,1,U+E067
+D020,icon_glyph,38,1,U+E068
+D020,icon_glyph,43,1,U+E06A
+D020,icon_glyph,37,1,U+E06E
+D020,repeated_line,3-43,41,Endress+Hauser 3
+D020,toc_line,4,1,1.1 Symbols used ......................................................................... 5
+D020,toc_line,4,1,1 About this document ..............................................................5
+D020,toc_line,4,1,9 Diagnostic information .......................................................... 42
+D020,toc_line,4,1,3 Product description .............................................................. 10
+D020,toc_line,4,1,7 System integration .............................................................. 40
+D021,icon_glyph,1 10-11 15-16 20-22 24-25 27 37 43,20,U+E015
+D021,icon_glyph,11-12 35-36 39 44 46,8,U+E016
+D021,icon_glyph,41,1,U+E018
+D021,icon_glyph,46,1,U+E035
+D021,icon_glyph,46,3,U+E036
+D021,icon_glyph,46,2,U+E037
+D021,icon_glyph,19,1,U+E045
+D021,icon_glyph,17-18,3,U+E048
+D021,icon_glyph,21-22 24 26-27 36-37 46,12,U+E049
+D021,icon_glyph,12 37,9,U+E04B
+D021,icon_glyph,41,1,U+E065
+D021,icon_glyph,41,1,U+E066
+D021,icon_glyph,41,1,U+E067
+D021,icon_glyph,41,1,U+E068
+D021,icon_glyph,46,1,U+E06A
+D021,icon_glyph,40,1,U+E06E
+D021,repeated_line,3-46,44,Endress+Hauser 3
+D021,toc_line,4,1,1.1 Symbols used ......................................................................... 5
+D021,toc_line,4,1,1 About this document ..............................................................5
+D021,toc_line,4,1,9 Diagnostic information .......................................................... 45
+D021,toc_line,4,1,3 Product description .............................................................. 10
+D021,toc_line,4,1,7 System integration .............................................................. 43
+D022,zone_footer,2-36,44,2
+D026,zone_footer,1-2,2,"such as Phone number, are stored and processed electronically."
+D026,zone_footer,1-2,2,"that the information provided is up-to-date, accurate or complete."
+D026,zone_footer,1-2,2,"The Company therefore accepts no liability and furnishes no guarantee, neither express nor implied,"
+D026,zone_footer,1-2,2,Version date 11.08.2016 - After check still valid unchanged
+D026,zone_header,3,1,Nitrogen - (Meets the requirements of DIN EN ISO 14175: N1) 3 from 3
+D029,zone_footer,1-49,49,1
+D032,zone_footer,1-5,5,(продовження на сторінці 2)
+D032,zone_footer,1-6,6,51.1.7
+D032,zone_footer,1-6,6,UA
+D032,zone_header,2-6,5,(продовження сторінки 1)
+D032,zone_header,2-6,5,дата друку: 22.09.2020 змінена версія від: 22.09.2020версія № 1.02
+D032,zone_header,2-6,5,"згідно з 1907/2006/ЄС, стаття 31"
+D032,zone_header,2-6,5,паспорт безпеки
+D032,zone_header,1-6,6,сторінка: 1/6
+D033,zone_footer,1-7,7,(Fortsetzung auf Seite 2)
+D033,zone_footer,1-8,8,63.3.7
+D033,zone_footer,1-8,8,DE
+D033,zone_header,2-8,7,(Fortsetzung von Seite 1)
+D033,zone_header,2-8,7,Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026
+D033,zone_header,2-8,7,"gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+D033,zone_header,2-8,7,Handelsname: PressurePro Systempflege RM 110
+D033,zone_header,1-8,8,Seite: 1/8
+D033,zone_header,1-8,8,Sicherheitsdatenblatt
+D034,zone_footer,1-5,5,(Contd. on page 2)
+D034,zone_footer,1-6,6,59.0
+D034,zone_footer,1-5,5,EU
+D034,zone_header,2-6,5,(Contd. of page 1)
+D034,zone_header,2-6,5,"according to Regulation (EC) No 1907/2006, Article 31"
+D034,zone_header,2-6,5,Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024
+D034,zone_header,2-6,5,Safety data sheet Page 2/6
+D034,zone_header,2-6,5,"Trade name: pH-Pufferlösung 12,00"
+D035,zone_footer,1-7,7,(продовження на сторінці 2)
+D035,zone_footer,1-9,9,54.0.3
+D035,zone_footer,1-9,9,UA
+D035,zone_header,2-9,8,(продовження сторінки 1)
+D035,zone_header,2-9,8,дата друку: 25.02.2022 змінена версія від: 24.02.2022версія № 6.00
+D035,zone_header,2-9,8,"згідно з 1907/2006/ЄС, стаття 31"
+D035,zone_header,2-9,8,паспорт безпеки
+D035,zone_header,1-9,9,сторінка: 1/9
+D036,zone_footer,1-5,5,(продовження на сторінці 2)
+D036,zone_footer,1-6,6,49.3.6
+D036,zone_footer,1-6,6,UA
+D036,zone_header,2-6,5,(продовження сторінки 1)
+D036,zone_header,2-6,5,дата друку: 07.11.2019 змінена версія від: 07.11.2019версія № 1.01
+D036,zone_header,2-6,5,"згідно з 1907/2006/ЄС, стаття 31"
+D036,zone_header,2-6,5,паспорт безпеки
+D036,zone_header,1-6,6,сторінка: 1/6
+D037,zone_footer,1-9,9,(Fortsetzung auf Seite 2)
+D037,zone_footer,1-10,10,63.1.0
+D037,zone_footer,1-10,10,AT
+D037,zone_header,2-10,9,(Fortsetzung von Seite 1)
+D037,zone_header,2-10,9,Druckdatum: 31.07.2026 überarbeitet am: 16.06.2025Versionsnummer 5 (ersetzt Version 4)
+D037,zone_header,2-10,9,"gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+D037,zone_header,2-10,9,Handelsname: Stein- und Fassadenreiniger 3-in-1 RM 611
+D037,zone_header,1-10,10,Seite: 1/10
+D037,zone_header,1-10,10,Sicherheitsdatenblatt
+D038,zone_footer,1-4,4,"SDB-03-Stickstoff, verdichtet (REACH)_V4.4"
+D038,zone_header,1-4,4,Seite 1 von 4
+D038,zone_header,2-4,3,SICHERHEITSDATENBLATT gemäß 1907/2006/EG (REACH-VO) Erstellt am : 10.09.2004
+D038,zone_header,2-4,3,"STICKSTOFF, verdichtet SDB-03"
+D038,zone_header,1-4,4,Version : 4.4
+D038,zone_header,2-4,3,Überarbeitet am : 30.01.2018
+D039,zone_footer,1-12,12,SDS_DK - 000010021700
+D039,zone_header,2-12,11,"Argon, compressed"
+D039,zone_header,2-12,11,Issue Date: 16.01.2013 Version: 1.2 SDS No.: 000010021700
+D039,zone_header,2-12,11,Last revised date: 24.01.2020 2/12
+D039,zone_header,2-12,11,SAFETY DATA SHEET
+D040,zone_footer,1-3,3,Borealis AG | Wagramerstrasse 17-19 | 1220 Vienna | Austria
+D040,zone_footer,1-3,3,FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com
+D040,zone_footer,1-3,3,Page 1 of 3
+D040,zone_footer,1-3,3,Telephone +43 1 224 00 0 | Fax +43 1 22 400 333
+D040,zone_header,3,1,BorSafe HE3495-LS-H
+D040,zone_header,1-3,3,Polyethylene
+D040,zone_header,2-3,2,Product safety information sheet 20.05.2015 Ed.2
+D041,zone_footer,1-3,3,1 / 3
+D041,zone_footer,1-3,3,Borealis GmbH | Trabrennstrasse 6-8 | 1020 Vienna | Austria
+D041,zone_footer,1-3,3,FN 269858a | CCC Commercial Court of Vienna | Website www.borealisgroup.com
+D041,zone_footer,1-3,3,Telephone +43 1 224 00 0 | Fax +43 1 22 400 333
+D041,zone_header,1-3,3,OE5318I
+D041,zone_header,1-3,3,Polyethylene
+D041,zone_header,3,1,PRODUCT SAFETY INFORMATION SHEET 16.10.2025 Ed. 4
+D043,zone_header,6,2,"1 1,172 1,337"
+D044,repeated_line,2-3,2,"Gases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland"
+D044,repeated_line,2-3,2,Linde GmbH
+D044,repeated_line,2-3,2,"Telefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de"
+D044,zone_footer,1-3,3,elektronisch gespeichert und verarbeitet.
+D044,zone_footer,1-3,3,Stand 21.04.2008
+D044,zone_footer,1-3,3,Zur Sicherstellung eines hohen Niveaus der Kundenbetreuung werden Daten unserer Kunden wie z.B. Telefonnummern
+D044,zone_footer,1-3,3,Änderungen vorbehalten
+D044,zone_header,1-2,4,..............................................................................................................................................................................................................................
+D044,zone_header,3,1,Sauerstoff 5.0 3 von 3
+D046,zone_footer,1-11,11,(Contd. on page 2)
+D046,zone_footer,1-12,12,62.0.14
+D046,zone_footer,1-12,12,GB
+D046,zone_header,2-12,11,(Contd. of page 1)
+D046,zone_header,2-12,11,according to UK REACH
+D046,zone_header,1-12,12,Page 1/12
+D046,zone_header,2-12,11,Printing date 13.03.2026 Revision: 10.03.2026Version number 8 (replaces version 7)
+D046,zone_header,2-12,11,Safety data sheet
+D046,zone_header,2-12,11,"Trade name: PressurePro Facade Cleaner, Gel RM 43"
+D047,zone_footer,1-6,6,(Contd. on page 2)
+D047,zone_footer,1-7,7,62.0.16
+D047,zone_footer,1-7,7,GB
+D047,zone_header,2-7,6,(Contd. of page 1)
+D047,zone_header,2-7,6,according to UK REACH
+D047,zone_header,1-7,7,Page 1/7
+D047,zone_header,2-7,6,Printing date 27.03.2026 Revision: 30.07.2021Version number 2 (replaces version 1)
+D047,zone_header,2-7,6,Safety data sheet
+D047,zone_header,2-7,6,"Trade name: Abrasive, fine"
+D048,zone_footer,1-14,14,"Revision No: 1,00 IRL - en Print date: 04.12.2024"
+D048,zone_footer,1-14,14,"©A. W. Chesterton Company, 2024 All Rights Reserved. ®Reg. US Patent and TM Office"
+D048,zone_header,2-14,13,according to Regulation (EC) No 1907/2006
+D048,zone_header,1-14,14,274 Industrial Degreaser (Aerosol)
+D048,zone_header,2-14,13,Revision date: 03.12.2024 Page 2 of 14
+D048,zone_header,2-14,13,Safety Data Sheet
+D049,repeated_line,2-29,29,3-IN-ONE® Heavy Duty Cleaner Degreaser
+D049,zone_header,1-29,29,Page 1 of 29
+D049,zone_header,2-29,28,PDF print date: 10.02.2026
+D049,zone_header,2-29,28,Replacing version dated / version: 26.06.2025 / 0015
+D049,zone_header,2-29,28,Revision date / version: 10.02.2026 / 0016
+D049,zone_header,2-29,28,"Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)"
+D049,zone_header,2-29,28,Valid from: 10.02.2026
+D050,repeated_line,2-11,12,Hydraulikoel HLP 46
+D050,zone_header,1-11,11,Page 1 of 11
+D050,zone_header,2-11,10,PDF print date: 08.05.2025
+D050,zone_header,2-11,10,Replacing version dated / version: 01.11.2021 / 0007
+D050,zone_header,2-11,10,Revision date / version: 06.02.2024 / 0008
+D050,zone_header,2-11,10,"Safety data sheet according to Regulation (EC) No 1907/2006, Annex II (last amended by Regulation (EU) 2020/878)"
+D050,zone_header,2-11,10,Valid from: 06.02.2024
+D051,zone_footer,1-12,12,Europe - BE Page 1 / 12
+D051,zone_header,1-12,12,___________________________________________________________________________________________
+D051,zone_header,2-12,11,BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020
+D051,zone_header,2-12,11,SAFETY DATA SHEET
+D051,zone_header,2-12,11,Supercedes Date: 19-May-2020 Revision Number 1
+D052,zone_footer,1-10,10,"Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+D052,zone_header,2-10,9,according to Regulation (EC) No 1907/2006
+D052,zone_header,1-10,10,HIGHTEC ANTIFREEZE COOLANT LCC 100
+D052,zone_header,2-10,9,Revision: 02/02/2026 Product code: 21172 Page 2 of 10
+D052,zone_header,2-10,9,ROWE Mineralölwerk GmbH
+D052,zone_header,2-10,9,Safety Data Sheet
+D053,repeated_line,2-9,8,Material number LZB x25 Page: 2 of 9
+D053,zone_footer,1-9,9,"Document number Q5WA-E_17-028-GB-04, printed by Lauda with Qualisys SUMDAT"
+D053,zone_header,2-9,8,"according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH] Replaces version: 3.0"
+D053,zone_header,1-9,9,Antifreeze
+D053,zone_header,2-8,7,Date of print:20/3/2023
+D053,zone_header,2-9,8,Language: en-GB
+D053,zone_header,2-8,7,Revision date:9/1/2023
+D053,zone_header,2-9,8,SAFETY DATA SHEET Version: 4.0
+D054,zone_footer,2-13,12,Date of revision: 2022-06-08
+D054,zone_footer,2-13,12,Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29
+D054,zone_footer,1-13,13,Revision number: 0200 BIG number: 51613 1 / 13
+D054,zone_header,2-13,28,"sulfuric acid, conc=93-99.5%"
+D055,zone_footer,1-13,13,10/6/2026 (Revision date) EN (English) 1/13
+D055,zone_header,2-13,12,according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878
+D055,zone_header,2-13,12,Safety Data Sheet
+D055,zone_header,2-13,15,XF Premium S 5w30
+D056,zone_footer,1-12,12,3/5/2025 (Issue date) US - en 1/12
+D056,zone_header,2-12,12,"according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS)"
+D056,zone_header,2-12,12,"CRC® Brakleen® Brake Parts Cleaner, 55 Gal"
+D056,zone_header,2-12,11,Safety Data Sheet
+D057,zone_footer,1-6,6,"Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+D057,zone_header,2-6,5,according to 29 CFR 1910.1200(g)
+D057,zone_header,2-6,5,BOHLE AG
+D057,zone_header,1-6,6,Cutting Fluid Silberschnitt W41
+D057,zone_header,2-6,5,Revision date: 09/08/2026 Product code: BO5002902 Page 2 of 6
+D057,zone_header,2-6,5,Safety Data Sheet
+D058,zone_header,2-5,4,Date Printed: 12/14/2017 Page 2 / 5
+D059,zone_footer,1-24,24,__________________________________________________________________________________________
+D059,zone_footer,1-24,24,Page: 1 de 24
+D059,zone_header,1-24,24,"3M(TM) 560 MASTIC/COLLE POLYURETHANNE NOIR, BLANC, GRIS."
+D060,zone_footer,1-9,9,-Continue à la page suivante.-
+D060,zone_header,2-10,9,(conformément au RÈGLEMENT (UE) 2020/878)
+D060,zone_header,2-10,9,BRICO MASTIC COLLE
+D060,zone_header,2-10,9,FICHE DE DONNÉES DE SÉCURITÉ
+D060,zone_header,2-10,9,Version 2 (substitue a la version 1) Date de révision: 31/10/2025
+D060,zone_header,2-10,9,Version 1 Date d'établissement: 12/12/2022 Page 2 de 10
+D061,zone_footer,1-7,7,(continua a pagina 2)
+D061,zone_footer,1-8,8,60.0.32
+D061,zone_footer,1-7,7,it
+D061,zone_header,2-8,7,(Segue da pagina 1)
+D061,zone_header,2-8,7,"ai sensi del regolamento 1907/2006/CE, Articolo 31"
+D061,zone_header,2-8,7,Denominazione commerciale: OTTOSEAL S 100
+D061,zone_header,1-8,8,Pagina: 1/8
+D061,zone_header,2-8,7,Scheda di dati di sicurezza
+D061,zone_header,2-8,7,Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)
+D062,zone_footer,1-7,7,58.0.5
+D062,zone_header,1-7,12,(Vervolg op blz. 2)
+D062,zone_header,1-7,7,Bladzijde: 1/7
+D062,zone_header,2-7,6,datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1
+D062,zone_header,2-7,6,Handelsnaam: Antislip-additief
+D062,zone_header,1-7,7,Veiligheidsinformatieblad
+D062,zone_header,2-7,6,"volgens 1907/2006/EG, Artikel 31"
+D063,control_char,2,1,U+0001
+D063,zone_footer,1-9,9,(Vervolg op blz. 2)
+D063,zone_footer,1-10,10,61.0.42
+D063,zone_footer,1-9,9,NL
+D063,zone_header,2-10,9,(Vervolg van blz. 1)
+D063,zone_header,2-10,9,datum van de druk: 05.12.2025 Herziening van: 26.06.2025Versienummer 5.00 (vervangt versie 4.00)
+D063,zone_header,2-10,9,Handelsnaam: 8461
+D063,zone_header,2-10,9,Veiligheidsinformatieblad Bladzijde: 2/10
+D063,zone_header,2-10,9,"volgens Verordening (EG) nr. 1907/2006, Artikel 31"
+D064,zone_footer,1-9,9,No. 05186 (Item# 1003747) Indicación de la versión: 03 La fecha de revisión: 20-Diciembre-2021 Fecha de publicación: 01-Agosto-2019 1 / 12
+D064,zone_footer,1-12,12,Tipo de material: Limpiador de partes de frenos Brakleen® - 5 gal SDS US
+D065,zone_header,1-22,22,07/03/2022)
+D065,zone_header,2-22,21,F 80 DESENGRASANTE Imprimida el 08/11/2022
+D065,zone_header,2-22,21,Fecha de revisión 08/11/2022
+D065,zone_header,1-22,22,Pag. N. 1/22
+D065,zone_header,2-22,21,SK SOLKEM INDUSTRIES SRLA SOCIO UNICO Revisión N. 11
+D065,zone_header,2-22,21,Sustituye la revisión10 (Imprimida el:
+D066,zone_aside,,1,Editorial Note on Subpart Z of Part 1910
+D066,zone_aside,,1,Editorial Note:
+D066,zone_aside,,1,"Nomenclature changes to part 1910 appear at 84 FR 21597, May 14, 2019."
+D067,zone_aside,,1,Editorial Note on Part 1910
+D067,zone_aside,,1,Editorial Note:
+D067,zone_aside,,1,"Nomenclature changes to part 1910 appear at 84 FR 21597, May 14, 2019."
+D068,zone_aside,,1,Editorial Note on Part 1910
+D068,zone_aside,,1,Editorial Note:
+D068,zone_aside,,1,"Nomenclature changes to part 1910 appear at 84 FR 21597, May 14, 2019."
+D069,back_to_top,,1,Back to top
+D069,zone_aside,,1,"Controlling fire and explosion risks in the workplace The dangers of cellulose nitrate film Dept for Business, Innovation and Skills (BIS) Energy Institute Association for Petroleum and Explosives Administration (APEA) The trade association for the LPG industry in the UK (UKLPG) Codes of practice REACH Exemption certificates COMAH Chemicals Risk Construction COSHH Ports Textiles Welding LEV"
+D069,zone_aside,,1,Related content
+D069,zone_footer,,1,About
+D069,zone_footer,,1,About us News Sign up for free updates Contact us Statistics Careers
+D069,zone_footer,,1,"All content is available under the Open Government Licence v3.0, except where otherwise stated"
+D069,zone_footer,,1,Basics for your business RIDDOR COSHH Display screen equipment (DSE) Asbestos Work equipment and machinery Stress and mental health PAT testing (portable appliance testing) Work at height COMAH
+D069,zone_footer,,1,Books and tools Training and events Testing and monitoring Research and consultancy
+D069,zone_footer,,1,Construction Health and social care services Pesticides Domestic gas Public services Agriculture Entertainment Waste management and recycling Motor vehicle repair Offshore oil and gas
+D069,zone_footer,,1,Footer links
+D069,zone_footer,,1,Industries
+D069,zone_footer,,1,Industries A to Z
+D069,zone_footer,,1,Products
+D069,zone_footer,,1,Search Copyright Cookies Privacy Accessibility Disclosure of information Vulnerability disclosure Consultations Other languages
+D069,zone_footer,,1,Support links
+D069,zone_footer,,1,Topics
+D069,zone_footer,,1,Topics A to Z
+D069,zone_header,,1,About
+D069,zone_header,,1,About us News Sign up for free updates Contact us Statistics Careers
+D069,zone_header,,1,Basics for your business RIDDOR COSHH Display screen equipment (DSE) Asbestos Work equipment and machinery Stress and mental health PAT testing (portable appliance testing) Work at height COMAH
+D069,zone_header,,1,Books and tools Training and events Testing and monitoring Research and consultancy
+D069,zone_header,,1,Construction Health and social care services Pesticides Domestic gas Public services Agriculture Entertainment Waste management and recycling Motor vehicle repair Offshore oil and gas
+D069,zone_header,,1,Industries
+D069,zone_header,,1,Industries A to Z
+D069,zone_header,,1,Products
+D069,zone_header,,1,Search HSE.GOV.UK
+D069,zone_header,,1,Topics
+D069,zone_header,,1,Topics A to Z
+D069,zone_nav,,1,Home Topics Fire and explosion
+D069,zone_nav,,1,Is this page useful?
+D069,zone_nav,,1,Skip to content
+D069,zone_nav,,1,Updated 2024-10-14
+D070,back_to_top,,1,Back to top
+D070,zone_footer,,1,About
+D070,zone_footer,,1,About us News Sign up for free updates Contact us Statistics Careers
+D070,zone_footer,,1,"All content is available under the Open Government Licence v3.0, except where otherwise stated"
+D070,zone_footer,,1,Basics for your business RIDDOR COSHH Display screen equipment (DSE) Asbestos Work equipment and machinery Stress and mental health PAT testing (portable appliance testing) Work at height COMAH
+D070,zone_footer,,1,Books and tools Training and events Testing and monitoring Research and consultancy
+D070,zone_footer,,1,Construction Health and social care services Pesticides Domestic gas Public services Agriculture Entertainment Waste management and recycling Motor vehicle repair Offshore oil and gas
+D070,zone_footer,,1,Footer links
+D070,zone_footer,,1,Industries
+D070,zone_footer,,1,Industries A to Z
+D070,zone_footer,,1,Products
+D070,zone_footer,,1,Search Copyright Cookies Privacy Accessibility Disclosure of information Vulnerability disclosure Consultations Other languages
+D070,zone_footer,,1,Support links
+D070,zone_footer,,1,Topics
+D070,zone_footer,,1,Topics A to Z
+D070,zone_header,,1,About
+D070,zone_header,,1,About us News Sign up for free updates Contact us Statistics Careers
+D070,zone_header,,1,Basics for your business RIDDOR COSHH Display screen equipment (DSE) Asbestos Work equipment and machinery Stress and mental health PAT testing (portable appliance testing) Work at height COMAH
+D070,zone_header,,1,Books and tools Training and events Testing and monitoring Research and consultancy
+D070,zone_header,,1,Construction Health and social care services Pesticides Domestic gas Public services Agriculture Entertainment Waste management and recycling Motor vehicle repair Offshore oil and gas
+D070,zone_header,,1,Industries
+D070,zone_header,,1,Industries A to Z
+D070,zone_header,,1,Products
+D070,zone_header,,1,Search HSE.GOV.UK
+D070,zone_header,,1,Topics
+D070,zone_header,,1,Topics A to Z
+D070,zone_nav,,1,2025-07-03
+D070,zone_nav,,1,Home Topics COSHH Basics
+D070,zone_nav,,1,Is this page useful?
+D070,zone_nav,,1,Skip to content
+D071,contents_title,,1,Contents
+D071,zone_toc,,1,3.1.8 Dust Generation and Vehicle Tracking of Industrial Materials. 12
+D071,zone_toc,,1,3.1.5 Erosion and Sediment Controls. 11
+D071,zone_toc,,1,4.6.3 Exception to Routine Facility Inspections and Quarterly Visual Assessments for Inactive and Unstaffed Sites. 18
+D071,zone_toc,,1,3.1.2 Good Housekeeping. 10
+D071,zone_toc,,1,3.1.3 Maintenance. 10
+D071,zone_toc,,1,3.1.6 Management of Runoff. 12
+D071,zone_toc,,1,3.1.1 Minimize Exposure. 10
+D071,zone_toc,,1,4.6.2 Quarterly Visual Assessment of Stormwater Discharges. 17
+D071,zone_toc,,1,4.6.1 Routine Facility Inspections. 16
+D071,zone_toc,,1,3.1.7 Salt Storage Piles or Piles Containing Salt. 12
+D071,zone_toc,,1,3.1.4 Spill Prevention and Response. 11
+D071,zone_toc,,1,1.2 Contact Information/Responsible Parties. 3
+D071,zone_toc,,1,5.1 Documentation Regarding Endangered Species. 21
+D071,zone_toc,,1,5.2 Documentation Regarding Historic Properties. 21
+D071,zone_toc,,1,4.5 Employee Training. 15
+D071,zone_toc,,1,4.4 Erosion and Sediment Control. 14
+D071,zone_toc,,1,1.1 Facility Information. 1
+D071,zone_toc,,1,1.5 General Location Map. 5
+D071,zone_toc,,1,4.1 Good Housekeeping. 14
+D071,zone_toc,,1,4.6 Inspections and Assessments. 15
+D071,zone_toc,,1,4.2 Maintenance. 14
+D071,zone_toc,,1,4.7 Monitoring. 19
+D071,zone_toc,,1,3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT) 9
+D071,zone_toc,,1,3.3 Numeric Effluent Limitations Based on Effluent Limitations Guidelines. 12
+D071,zone_toc,,1,2.1 Potential Pollutants Associated with Industrial Activity. 7
+D071,zone_toc,,1,2.4 Salt Storage. 9
+D071,zone_toc,,1,2.5 Sampling Data Summary. 9
+D071,zone_toc,,1,3.2 Sector-Specific Non-Numeric Effluent Limits. 12
+D071,zone_toc,,1,1.4 Site Description. 4
+D071,zone_toc,,1,1.6 Site Map. 6
+D071,zone_toc,,1,4.3 Spill Prevention and Response Procedures. 14
+D071,zone_toc,,1,2.2 Spills and Leaks. 7
+D071,zone_toc,,1,1.3 Stormwater Pollution Prevention Team. 4
+D071,zone_toc,,1,2.3 Unauthorized Non-stormwater Discharges Documentation. 8
+D071,zone_toc,,1,3.4 Water Quality-based Effluent Limitations and Water Quality Standards. 13
+D071,zone_toc,,1,SECTION 6: CORRECTIVE ACTIONS. 21
+D071,zone_toc,,1,SECTION 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS. 21
+D071,zone_toc,,1,SECTION 1: FACILITY DESCRIPTION AND CONTACT INFORMATION. 1
+D071,zone_toc,,1,SECTION 2: POTENTIAL POLLUTANT SOURCES. 6
+D071,zone_toc,,1,SECTION 4: SCHEDULES AND PROCEDURES. 14
+D071,zone_toc,,1,SECTION 3: STORMWATER Control Measures. 9
+D071,zone_toc,,1,SECTION 7: SWPPP CERTIFICATION. 22
+D071,zone_toc,,1,SECTION 8: SWPPP MODIFICATIONS. 23
+D071,zone_toc,,1,SWPPP ATTACHMENTS 23
+D071,zone_toc,,1,Table of Contents
+D072,contents_title,,1,Table of Contents
+D072,zone_toc,,1,1.2 Contact Information/Responsible Parties. 3
+D072,zone_toc,,1,5.1 Documentation Regarding Endangered Species Act (ESA) Listed Species and Critical Habitat Protection. 20
+D072,zone_toc,,1,5.2 Documentation Regarding National Historic Preservation Act (NHPA)-Protected Properties. 20
+D072,zone_toc,,1,4.5 Employee Training. 14
+D072,zone_toc,,1,4.4 Erosion and Sediment Control. 14
+D072,zone_toc,,1,1.1 Facility Information. 1
+D072,zone_toc,,1,1.5 General Location Map. 5
+D072,zone_toc,,1,4.1 Good Housekeeping. 13
+D072,zone_toc,,1,4.6 Inspections and Assessments. 15
+D072,zone_toc,,1,4.2 Maintenance. 13
+D072,zone_toc,,1,4.7 Monitoring. 18
+D072,zone_toc,,1,3.1 Non-numeric Technology-based Effluent Limits (BPT/BAT/BCT) 9
+D072,zone_toc,,1,3.2 Numeric Effluent Limitations Based on Effluent Limitations Guidelines (ELGs). 12
+D072,zone_toc,,1,2.1 Potential Pollutants Associated with Industrial Activity. 6
+D072,zone_toc,,1,2.4 Salt Storage. 8
+D072,zone_toc,,1,2.5 Sampling Data Summary. 8
+D072,zone_toc,,1,3.4 Sector-Specific Non-Numeric Effluent Limits. 13
+D072,zone_toc,,1,1.4 Site Description. 4
+D072,zone_toc,,1,1.6 Site Map. 5
+D072,zone_toc,,1,4.3 Spill Prevention and Response Procedures. 13
+D072,zone_toc,,1,2.2 Spills and Leaks. 7
+D072,zone_toc,,1,1.3 Stormwater Pollution Prevention Team. 4
+D072,zone_toc,,1,2.3 Unauthorized Non-stormwater Discharges Evaluation. 7
+D072,zone_toc,,1,3.3 Water Quality-based Effluent Limitations and Water Quality Standards. 12
+D072,zone_toc,,1,Section 6: CORRECTIVE ACTIONS AND ADDITIONAL IMPLEMENTATION MEASURES 20
+D072,zone_toc,,1,Section 5: DOCUMENTATION TO SUPPORT ELIGIBILITY CONSIDERATIONS UNDER OTHER FEDERAL LAWS 20
+D072,zone_toc,,1,Section 1: FACILITY DESCRIPTION AND CONTACT INFORMATION 1
+D072,zone_toc,,1,Section 2: POTENTIAL POLLUTANT SOURCES 6
+D072,zone_toc,,1,Section 4: SCHEDULES AND PROCEDURES 13
+D072,zone_toc,,1,Section 3: STORMWATER Control Measures (SCM) 9
+D072,zone_toc,,1,Section 9: SWPPP AVAILABILITY 22
+D072,zone_toc,,1,Section 7: SWPPP CERTIFICATION 21
+D072,zone_toc,,1,Section 8: SWPPP MODIFICATIONS 22
+D072,zone_toc,,1,SWPPP ATTACHMENTS 22
+D073,contents_title,,1,Contents
+D073,zone_toc,,1,A. Employee Training 1
+D073,zone_toc,,1,Areas of Industrial Materials or Activities Exposed to Stormwater 7
+D073,zone_toc,,1,B. Maintenance 2
+D073,zone_toc,,1,C. Routine Facility Inspection Reports 5
+D073,zone_toc,,1,D. Visual Assessment Documentation 11
+D073,zone_toc,,1,E. Monitoring Results 12
+D073,zone_toc,,1,F. Deviations from Visual Assessment and/or Monitoring Schedule 13
+D073,zone_toc,,1,G. Corrective Action and AIM Documentation 14
+D073,zone_toc,,1,H. Benchmark Threshold Exceedances 15
+D073,zone_toc,,1,I. Impaired Waters Monitoring: Documentation of Natural Background Sources or Non-Presence/Acceptable Range of Impairment Pollutant 17
+D073,zone_toc,,1,J. Active/Inactive Status Change 18
+D073,zone_toc,,1,K. SWPPP Amendment Log 19
+D073,zone_toc,,1,L. Miscellaneous Documentation 20
+D073,zone_toc,,1,Stormwater Control Measures 6

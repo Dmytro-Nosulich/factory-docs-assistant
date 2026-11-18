@@ -1,0 +1,397 @@
+{
+  "doc_id": "D044",
+  "format": "pdf",
+  "page_count": 3,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "f984fe87cb03cc26656d6722e9c969eceae3a4ab718075926019d76ebbbf9f70",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Produktdatenblatt"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Sauerstoff 5.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Reinheit in %: 99,999"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Nebenbestandteile, ppm:",
+          "N2",
+          "5"
+        ],
+        [
+          "",
+          "H2O",
+          "3"
+        ],
+        [
+          "",
+          "KW",
+          "0,2"
+        ],
+        [
+          "",
+          "CO2",
+          "0,2"
+        ],
+        [
+          "",
+          "Ar Angaben sind als ideale Volumenanteile (= Molanteile) zu verstehen",
+          "2"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Lieferarten: Aluminiumflasche"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Rauminhalt,",
+          "Füllmenge,",
+          "Fülldruck,",
+          "Gesamtgewicht, mit",
+          "Aussen-Ø,",
+          "Gesamtlänge"
+        ],
+        [
+          "[Liter]",
+          "ca. [m³]",
+          "ca. [bar]",
+          "Füllung ca. [kg]",
+          "ca.[mm]",
+          "ca. [mm]"
+        ],
+        [
+          "1",
+          "0,21",
+          "200",
+          "3,5",
+          "100",
+          "350"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Stahlflasche"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Rauminhalt,",
+          "Füllmenge,",
+          "Fülldruck,",
+          "Gesamtgewicht, mit",
+          "Aussen-Ø,",
+          "Gesamtlänge"
+        ],
+        [
+          "[Liter]",
+          "ca. [m³]",
+          "ca. [bar]",
+          "Füllung ca. [kg]",
+          "ca.[mm]",
+          "ca. [mm]"
+        ],
+        [
+          "2",
+          "0,421",
+          "200",
+          "6",
+          "100",
+          "490"
+        ],
+        [
+          "10",
+          "2,1",
+          "200",
+          "20",
+          "140",
+          "970"
+        ],
+        [
+          "50",
+          "10,5",
+          "200",
+          "80",
+          "229",
+          "1640"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Flaschenbündel"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Rauminhalt,",
+          "Füllmenge,",
+          "Fülldruck,",
+          "Anzahl Flaschen",
+          "Gesamtgewicht, mit",
+          "Maße ca."
+        ],
+        [
+          "[Liter]",
+          "ca. [m³]",
+          "ca. [bar]",
+          "im Bündel",
+          "Füllung ca. [kg]",
+          "(H x L x B)[mm]"
+        ],
+        [
+          "600",
+          "126",
+          "200",
+          "12",
+          "1227",
+          "1900 x 980 x 770"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Weitere Lieferarten auf Anfrage."
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Umrechnungszahlen:",
+          "m³ Gas (15°C, 1 bar)",
+          "l flüssig bei Ts",
+          "kg"
+        ],
+        [
+          "",
+          "1",
+          "1,172",
+          "1,337"
+        ],
+        [
+          "",
+          "0,853",
+          "1",
+          "1,141"
+        ],
+        [
+          "",
+          "0,748",
+          "0,876",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Linde GmbH\nGases Division, Seitnerstrasse 70, 82049 Pullach, Deutschland\nTelefon: 0800-0530 530 0, Telefax: 0800-0530 530 11, www.linde-gas.de"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Sauerstoff 5.0 2 von 3"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kennzeichnung:",
+          "Aufkleber: Ventilanschluss:",
+          "Sauerstoff 5.0"
+        ],
+        [
+          "",
+          "Flaschenschulterfarbe/",
+          "Weiß RAL 9010"
+        ],
+        [
+          "",
+          "Umlaufender Farbstreifen bei Bündeln",
+          "G 3/4 nach DIN 477 Nr. 9"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Eigenschaften: verdichtetes Gas, brandfördernd"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Chemisches Zeichen: O2\nMolare Masse: 31,999 g/mol"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Tripelpunkt:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Temperatur Druck Schmelzwärme\n54,4 K (-218,75 °C) 0,0015 bar 13,9 kJ/kg"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Relative Dichte bezogen auf trockene Luft (15°C, 1 bar):",
+          "1,105",
+          ""
+        ],
+        [
+          "Kritische Temperatur:",
+          "154,58 K",
+          "(-118,57 °C)"
+        ],
+        [
+          "Siedetemperatur bei 1,013 bar (Ts):",
+          "90,18 K",
+          "(-182,97 °C)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Anwendungen: als Oxidationsmittel in chemischen Prozessen und in der Elektronikindustrie,\nBetriebsgas in der instrumentellen Analytik\n............................................................................................................................................................................\nEbenfalls verfügbar: Atemsauerstoff\nAtemsauerstoff flüssig 2.5\nBIOGON® O E948\nBIOGON® O flüssig E948\nODOROX®\nSauerstoff\nSauerstoff 3.5\nSauerstoff 4.5\nSauerstoff 6.0\nSauerstoff flüssig 2.5\nSauerstoff flüssig 3.5\nSauerstoff flüssig LI-PUR® 5.7\nSauerstoff flüssig LI-PUR® 6.0\nSauerstoff KW-frei"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Gemische von Sauerstoff mit anderen Gasen in genau definierten Zusammensetzungen, z.B.\nSynthetische Luft (20% O2 80% N2), Synthetische Luft Kw-frei (20% O2 80% N2), Prüfgase für die\nEmissionsmessung.Sauerstoff ist auch tiefkalt verflüssigt im Straßentankwagen lieferbar. Die\nerforderlichen technischen Vorraussetzungen werden von Linde zur Verfügung gestellt. Höchste\nAnforderungen werden durch das LI-PUR® System erfüllt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Sauerstoff 5.0"
+      ],
+      "zone": "main",
+      "text": "Haftungsausschluss: Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde\nGmbH prüft und aktualisiert die Informationen ständig und behält sich das Recht vor, Änderungen\noder Ergänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich\nDaten inzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und\nVollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden.\nJeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen\nBestimmungen eingehalten werden und dass die hier beschriebenen Produkte für seine\nEinsatzzwecke geeignet sind. Die Angaben auf diesem Produktdatenblatt sind keine vertraglichen\nZusicherungen von Produkteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern\noder Daten bedarf der vorherigen Zustimmung der Linde GmbH."
+    }
+  ]
+}

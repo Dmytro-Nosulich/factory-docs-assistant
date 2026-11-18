@@ -1,0 +1,2788 @@
+{
+  "doc_id": "D056",
+  "format": "pdf",
+  "page_count": 12,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "26c3e1744eb9378d7407e5a0bc358adfa30cdc394fd0b350e0827c154215c350",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "CRC® Brakleen® Brake Parts Cleaner, 55 Gal"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "according to 29 CFR § 1910.1200, Hazard Communication Standard (HCS)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Issue date: 3/5/2025 Version: 1.0"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.1. Identification"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Identification"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.1. Identification"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Trade name",
+          ":  CRC® Brakleen® Brake Parts Cleaner, 55 Gal"
+        ],
+        [
+          "Product code",
+          ":  1003715"
+        ],
+        [
+          "Part number",
+          ":  05093"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.2. Recommended use and restrictions on use"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Recommended use and restrictions on use"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.2. Recommended use and restrictions on use"
+      ],
+      "zone": "main",
+      "text": "Use of the substance/mixture : Brake cleaners\nRestrictions on use : After December 8, 2026, this product cannot be distributed in commerce to retailers for any use.\nAfter March 8, 2027, chemical substances/products can only be distributed in commerce or\nprocessed with a concentration of PCE equal to or greater than 0.1% by weight for the following\npurposes: (1) Processing as a reactant/intermediate; (2) Processing into formulation, mixture or\nreaction product; (3) Processing by repackaging; (4) Recycling; (5) Industrial and commercial\nuse as solvent in open-top batch vapor degreasing; (6) Industrial and commercial use as solvent\nin closed-loop batch vapor degreasing; (7) Industrial and commercial use in maskant for\nchemical milling; (8) Industrial and commercial use as a processing aid in catalyst regeneration\nin petrochemical manufacturing; (9) Industrial and commercial use as a processing aid in sectors\nother than petrochemical manufacturing; (10) Industrial and commercial use as solvent for cold\ncleaning of tanker vessels; (11) Industrial and commercial use as energ ized electrical cleaner;\n(12) Industrial and commercial use in laboratory chemicals; (13) Industrial and commercial use in\nsolvent-based adhesives and sealants; (14) Industrial and commercial use in dry cleaning in 3rd\ngeneration machines until December 20, 2027; (15) Industrial and commercial use in all dry\ncleaning and related spot cleaning until December 19, 2034; (16) Export; and (17) Disposal."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.3. Supplier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Supplier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.3. Supplier"
+      ],
+      "zone": "main",
+      "text": "CRC Industries, Inc.\n885 Louis Dr.\nWarminster, PA 18974\nUnited States\nT 1-800-556-5074\ncrcindustries.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4. Emergency telephone number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "text": "Emergency number : 1-800-424-9300\n24-Hour Emergency"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazard(s) identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "GHS US classification"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Skin corrosion/irritation, Category 2",
+          "Causes skin irritation."
+        ],
+        [
+          "Serious eye damage/eye irritation, Category 2B",
+          "Causes eye irritation."
+        ],
+        [
+          "Skin sensitization, Category 1B",
+          "May cause an allergic skin reaction."
+        ],
+        [
+          "Carcinogenicity, Category 1B",
+          "May cause cancer (Inhalation)."
+        ],
+        [
+          "Specific target organ toxicity – Single exposure, Category 3, Narcosis",
+          "May cause drowsiness or dizziness."
+        ],
+        [
+          "Hazardous to the aquatic environment — Acute Hazard, Category 2",
+          "Toxic to aquatic life."
+        ],
+        [
+          "Hazardous to the aquatic environment — Chronic Hazard, Category 2",
+          "Toxic to aquatic life with long lasting effects."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.2. GHS Label elements, including precautionary statements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. GHS Label elements, including precautionary statements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.2. GHS Label elements, including precautionary statements"
+      ],
+      "zone": "main",
+      "text": "GHS US labeling\nHazard pictograms (GHS US) :"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.2. GHS Label elements, including precautionary statements"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Signal word (GHS US)",
+          ":  Danger"
+        ],
+        [
+          "Hazard statements (GHS US)",
+          ":  Causes skin irritation May cause an allergic skin reaction Causes eye irritation May cause drowsiness or dizziness May cause cancer (Inhalation)"
+        ],
+        [
+          "Precautionary statements (GHS US)",
+          ":  Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Avoid breathing mist, vapors, spray. Use only outdoors or in a well-ventilated area. Maintain ventilation during use and until all vapors are gone. Open doors and windows or use other means to ensure a fresh air supply during use and while product is drying. If you experience any symptoms listed on this label, increase ventilation or leave the area. Wear protective gloves, protective clothing, eye and face protection. Wash hands thoroughly after handling. If on skin: Wash with plenty of soap and water. If skin irritation or rash occurs: Get medical advice or attention. Take off contaminated clothing and wash it before reuse. Contaminated work clothing must not be allowed out of the workplace. If inhaled: Remove person to fresh air and keep comfortable for breathing. Call a poison center or doctor if you feel unwell. If in eyes: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice or attention. If exposed or concerned: Get medical advice/attention. Store locked up. Store in a well-ventilated place. Keep container tightly closed. Dispose of contents/container in accordance with local/regional/national regulations."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.3. Other hazards which do not result in classification"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Other hazards which do not result in classification"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.3. Other hazards which do not result in classification"
+      ],
+      "zone": "main",
+      "text": "Other hazards which do not result in classification : When exposed to extreme heat or hot surfaces, vapors may decompose to harmful or fatal\ncorrosive gases such as hydrogen chloride and possibly phosgene."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.4. Unknown acute toxicity (GHS US)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.4. Unknown acute toxicity (GHS US)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazard(s) identification",
+        "2.4. Unknown acute toxicity (GHS US)"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/Information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.1. Substances"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1. Substances"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.1. Substances"
+      ],
+      "zone": "main",
+      "text": "Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Name Chemical name / Product identifier %\nSynonyms"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- Ethene, 1,1,2,2-tetrachloro- CAS-No.: 127-18-4 80 - 100\nTetrachloroethene\n(Perchloroethylene (PCE))"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/Information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Comments : Specific chemical identity and/or percentage of composition has been withheld as a trade secret."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First-aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Description of first aid measures"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "First-aid measures general",
+          ": If exposed or concerned, get medical advice and attention. Show this safety data sheet to the doctor in attendance."
+        ],
+        [
+          "First-aid measures after inhalation",
+          ": Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention if you feel unwell."
+        ],
+        [
+          "First-aid measures after skin contact",
+          ": Wash skin with soap and water. Take off contaminated clothing. If skin irritation or rash occurs: Get medical advice/attention."
+        ],
+        [
+          "First-aid measures after eye contact",
+          ": Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention."
+        ],
+        [
+          "First-aid measures after ingestion",
+          ": Call a poison center/doctor/physician if you feel unwell."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.2. Most important symptoms and effects (acute and delayed)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Most important symptoms and effects (acute and delayed)"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.2. Most important symptoms and effects (acute and delayed)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Symptoms/effects",
+          ": May cause drowsiness or dizziness. Headache, nausea, vomiting. Causes eye irritation. Causes skin irritation. May cause an allergic skin reaction."
+        ],
+        [
+          "Symptoms/effects after inhalation",
+          ": Depression of the central nervous system, headaches, dizziness, drowsiness, loss of coordination."
+        ],
+        [
+          "Symptoms/effects after skin contact",
+          ": Causes skin irritation. May cause an allergic skin reaction."
+        ],
+        [
+          "Symptoms/effects after eye contact",
+          ": Causes eye irritation."
+        ],
+        [
+          "Symptoms/effects after ingestion",
+          ": Ingestion may cause nausea and vomiting."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.3. Immediate medical attention and special treatment, if necessary"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Immediate medical attention and special treatment, if necessary"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First-aid measures",
+        "4.3. Immediate medical attention and special treatment, if necessary"
+      ],
+      "zone": "main",
+      "text": "Treat symptomatically."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Fire-fighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.1. Suitable (and unsuitable) extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Suitable (and unsuitable) extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.1. Suitable (and unsuitable) extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media : Water spray. Dry powder. Foam. Carbon dioxide.\nUnsuitable extinguishing media : Do not use a heavy water stream."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.2. Specific hazards arising from the chemical"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Specific hazards arising from the chemical"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.2. Specific hazards arising from the chemical"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Fire hazard",
+          ": No fire hazard."
+        ],
+        [
+          "Explosion hazard",
+          ": No direct explosion hazard."
+        ],
+        [
+          "Hazardous decomposition products in case of fire",
+          ": Toxic fumes may be released. When exposed to extreme heat or hot surfaces, vapors may decompose to harmful or fatal corrosive gases such as hydrogen chloride and possibly phosgene."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.3. Special protective equipment and precautions for fire-fighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Special protective equipment and precautions for fire-fighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.3. Special protective equipment and precautions for fire-fighters"
+      ],
+      "zone": "main",
+      "text": "Firefighting instructions : Fight fire from safe distance and protected location. Do not enter fire area without proper\nprotective equipment, including respiratory protection."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 5: Fire-fighting measures",
+        "5.3. Special protective equipment and precautions for fire-fighters"
+      ],
+      "zone": "main",
+      "text": "Protection during firefighting : Do not attempt to take action without suitable protective equipment. Self-contained breathing\napparatus. Complete protective clothing."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "General measures : Stop leak if safe to do so. Absorb spillage to prevent material-damage. Notify authorities if\nproduct enters sewers or public waters."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.1. For non-emergency personnel"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "6.1.1. For non-emergency personnel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.1. For non-emergency personnel"
+      ],
+      "zone": "main",
+      "text": "Protective equipment : Wear recommended personal protective equipment.\nEmergency procedures : Only qualified personnel equipped with suitable protective equipment may intervene. Avoid\nbreathing dust/fume/gas/mist/vapors/spray."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.2. For emergency responders"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "6.1.2. For emergency responders"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.2. For emergency responders"
+      ],
+      "zone": "main",
+      "text": "Protective equipment : Do not attempt to take action without suitable protective equipment. For further information refer\nto section 8: \"Exposure controls/personal protection\".\nEmergency procedures : Evacuate unnecessary personnel. Stop leak if safe to do so."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Avoid release to the environment. Notify authorities if product enters sewers or public waters."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "For containment",
+          ":  Stop leak, if possible without risk. Collect spillage. Contain any spills with dikes or absorbents to prevent migration and entry into sewers or streams."
+        ],
+        [
+          "Methods for cleaning up",
+          ":  Take up liquid spill into absorbent material. Take up mechanically (sweeping, shoveling) and collect in suitable container for disposal. Clean surface thoroughly to remove residual contamination. Notify authorities if product enters sewers or public waters."
+        ],
+        [
+          "Additional Regulatory Information",
+          ":  Dispose of materials or solid residues at an authorized site."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "For further information refer to section 13."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precautions for safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "Precautions for safe handling : Ensure good ventilation of the work station. Obtain special instructions before use. Do not handle\nuntil all safety precautions have been read and understood. Take all necessary technical\nmeasures to avoid or minimize the release of the product on the workplace. Limit quantities of\nproduct at the minimum necessary for handling and limit the number of exposed workers. Avoid\nbreathing mist, vapors, spray. Use only outdoors or in a well-ventilated area. Maintain ventilation\nduring use and until all vapors are gone. Open doors and windows or use other means to ensure\na fresh air supply during use and while product is drying. If you experience any symptoms listed\non this label, increase ventilation or leave the area. Wear personal protective equipment. Avoid\ncontact with skin and eyes. Floors, walls and other surfaces in the hazard area must be cleaned\nregularly. For product usage instructions, see the product label.\nHygiene measures : Do not eat, drink or smoke when using this product. Always wash hands after handling the\nproduct. Wash contaminated clothing before reuse. Separate working clothes from town clothes.\nLaunder separately. Contaminated work clothing should not be allowed out of the workplace."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Technical measures : Keep in a cool, well-ventilated place away from heat."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Storage conditions : Store locked up. Store in a well-ventilated place. Keep container tightly closed. Store in a cool,\ndry place out of direct sunlight.\nPackaging materials : Store always product in container of same material as original container."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "USA - ACGIH - Occupational Exposure Limits"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Local name Tetrachloroethylene"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "ACGIH OEL TWA 25 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "ACGIH OEL STEL 100 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Remark (ACGIH) TLV® Basis: CNS impair. Notations: A3 (Confirmed Animal Carcinogen with Unknown\nRelevance to Humans); BEI"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Regulatory reference ACGIH 2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "USA - ACGIH - Biological Exposure Indices"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Local name Tetrachloroethylene"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "BEI 3 ppm Parameter: Tetrachloroethylene - Medium: exhaled air - Sampling time: Prior to shift\n0.5 mg/l Parameter: Tetrachloroethylene - Medium: blood - Sampling time: Prior to shift"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Regulatory reference ACGIH 2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "USA - OSHA - Occupational Exposure Limits"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Local name Perchloroethylene (Tetrachloroethylene)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "OSHA PEL TWA 100 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "OSHA PEL C 200 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Acceptable maximum peak above the acceptable 300 ppm 5 mins. in any 3 hrs.\nceiling concentration for an 8-hr shift"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Regulatory reference (US-OSHA) OSHA Annotated Table Z-2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "USA - NIOSH - Occupational Exposure Limits"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Local name Perchloroethylene (Tetrachloroethylene)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Remark (NIOSH) Ca = Potential occupational carcinogens"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Regulatory reference (US-NIOSH) OSHA Annotated Table Z-2 (NIOSH Pocket Guide to Chemical Hazards (NPG))"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Appropriate engineering controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering controls : Ensure good ventilation of the work station.\nEnvironmental exposure controls : Avoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.3. Individual protection measures/Personal protective equipment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Personal protective equipment:\nWear recommended personal protective equipment."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Hand protection:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Wear protective gloves such as: Nitrile, Polyvinylalcohol (PVA), Butyl rubber"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Eye protection:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Wear safety glasses with side shields (or goggles)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Skin and body protection:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Wear appropriate chemical resistant clothing."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Respiratory protection:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.3. Individual protection measures/Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "If engineering controls are not feasible or if exposure exceeds the applicable exposure limits, use a NIOSH-approved cartridge respirator with an\norganic vapor cartridge. Use a self-contained breathing apparatus in confined spaces and for emergencies. Air monitoring is needed to determine\nactual employee exposure levels."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Physical state",
+          ":  Liquid"
+        ],
+        [
+          "Color",
+          ":  Colorless"
+        ],
+        [
+          "Odor",
+          ":  Irritating"
+        ],
+        [
+          "Odor threshold",
+          ":  50 ppm"
+        ],
+        [
+          "Melting point",
+          ":  -8.1 °F (-22.3 °C) estimated"
+        ],
+        [
+          "Freezing point",
+          ":  -8.1 °F (-22.3 °C) estimated"
+        ],
+        [
+          "Boiling point",
+          ":  250.3 °F (121.3 °C) estimated"
+        ],
+        [
+          "Flammability (solid, gas)",
+          ":  Not applicable."
+        ],
+        [
+          "Explosion limits",
+          ":  Lower explosion limit: 12 % estimated Upper explosion limit: 29 % estimated"
+        ],
+        [
+          "Flash point",
+          ":  None"
+        ],
+        [
+          "Auto-ignition temperature",
+          ":  No data available"
+        ],
+        [
+          "Decomposition temperature",
+          ":  No data available"
+        ],
+        [
+          "pH",
+          ":  No data available"
+        ],
+        [
+          "Viscosity, kinematic",
+          ":  No data available"
+        ],
+        [
+          "Viscosity, dynamic",
+          ":  No data available"
+        ],
+        [
+          "Solubility",
+          ":  Insoluble in water."
+        ],
+        [
+          "Partition coefficient n-octanol/water (Log Pow)",
+          ":  No data available"
+        ],
+        [
+          "Vapor pressure",
+          ":  13 mm Hg (68 °F (20 °C))"
+        ],
+        [
+          "Evaporation rate",
+          ":  Very fast"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Density and/or relative density"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Density",
+          ":  13.52 lb/gal"
+        ],
+        [
+          "",
+          "Relative density",
+          ":  1.62"
+        ],
+        [
+          "Relative vapor density at 20°C",
+          "",
+          ":  5.76 (air=1)"
+        ],
+        [
+          "Particle characteristics",
+          "",
+          ":  No data available"
+        ],
+        [
+          "Explosive properties",
+          "",
+          ":  No data available"
+        ],
+        [
+          "Oxidizing properties",
+          "",
+          ":  No data available"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Additional Regulatory Information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Additional Regulatory Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Additional Regulatory Information"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "text": "The product is non-reactive under normal conditions of use, storage and transport."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Stable under normal conditions."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "No dangerous reactions known under normal conditions of use."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. When exposed to extreme heat or hot surfaces, vapors\nmay decompose to harmful or fatal corrosive gases such as hydrogen chloride and possibly phosgene."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "Strong oxidizing agents."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "Carbon oxides (CO, CO2). Hydrogen chloride. Chlorine. Phosgene."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Information on toxicological effects"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Symptoms/effects",
+          ":  May cause drowsiness or dizziness. Headache, nausea, vomiting. Causes eye irritation. Causes skin irritation. May cause an allergic skin reaction."
+        ],
+        [
+          "Symptoms/effects after inhalation",
+          ":  Depression of the central nervous system, headaches, dizziness, drowsiness, loss of coordination."
+        ],
+        [
+          "Symptoms/effects after skin contact",
+          ":  Causes skin irritation. May cause an allergic skin reaction."
+        ],
+        [
+          "Symptoms/effects after eye contact",
+          ":  Causes eye irritation."
+        ],
+        [
+          "Symptoms/effects after ingestion",
+          ":  Ingestion may cause nausea and vomiting."
+        ],
+        [
+          "Acute toxicity (oral)",
+          ":  Not classified (Based on available data, the classification criteria are not met)"
+        ],
+        [
+          "Acute toxicity (dermal)",
+          ":  Not classified (Based on available data, the classification criteria are not met)"
+        ],
+        [
+          "Acute toxicity (inhalation)",
+          ":  Not classified (Based on available data, the classification criteria are not met)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat 3005 mg/kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "LD50 dermal rabbit > 10000 mg/kg Source: ECHA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "LC50 Inhalation - Rat [ppm] 3786 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Skin corrosion/irritation : Causes skin irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Serious eye damage/irritation : Causes eye irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Respiratory or skin sensitization : May cause an allergic skin reaction."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Germ cell mutagenicity : Not classified (Based on available data, the classification criteria are not met)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicity : May cause cancer (Inhalation)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "IARC group 2A - Probably carcinogenic to humans"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "National Toxicity Program (NTP) Status Reasonably anticipated to be Human Carcinogen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Reproductive toxicity : Not classified (Based on available data, the classification criteria are not met)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "STOT-single exposure : May cause drowsiness or dizziness."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "STOT-repeated exposure : Not classified (Based on available data, the classification criteria are not met)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral,rat,90 days) 390 mg/kg bw/day"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Aspiration hazard : Not classified (Based on available data, the classification criteria are not met)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Viscosity, kinematic : No data available"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Ecology - general : Toxic to aquatic life with long lasting effects."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "LC50 - Fish [1] 5 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 - Crustacea [1] 8.5 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "LC50 - Fish [2] 5 mg/l Test organisms (species): Limanda limanda"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 72h - Algae [1] 3.64 mg/l Source: ECHA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "ErC50 algae 3.64 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "NOEC chronic fish 2.34 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "NOEC chronic crustacea 0.51 mg/l"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistence and degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability No data is available on the degradability of this product."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Partition coefficient n-octanol/water (Log Pow) 2.53"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Disposal methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Disposal methods"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Disposal methods"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Regional waste regulation",
+          ": Dispose of contents/container in accordance with local/regional/national regulations."
+        ],
+        [
+          "Waste treatment methods",
+          ": Dispose of contents/container in accordance with licensed collector’s sorting instructions."
+        ],
+        [
+          "Sewage disposal recommendations",
+          ": Disposal must be done according to official regulations. Do not allow to enter sewers, surface or groundwater."
+        ],
+        [
+          "Product/Packaging disposal recommendations",
+          ": Disposal must be done according to official regulations. Empty container can be recycled."
+        ],
+        [
+          "Hazardous waste code",
+          ": Possible RCRA waste code includes: D039: Tetrachloroethylene F001: Waste Tetrachloroethylene - Spent halogenated solvent used in degreasing F002: Waste Tetrachloroethylene - Spent halogenated solvent"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Disposal methods"
+      ],
+      "zone": "main",
+      "text": "However, it is the generator's responsibility to determine the proper classification and disposal\nmethod at the time of disposal.\nAdditional information : Do not re-use empty containers. Empty containers retain product residue and can be hazardous."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "In accordance with DOT / IMDG / IATA\nDOT IMDG IATA"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1. UN number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1. UN number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1. UN number"
+      ],
+      "zone": "main",
+      "text": "UN1897 1897 1897"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2. Proper Shipping Name"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2. Proper Shipping Name"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2. Proper Shipping Name"
+      ],
+      "zone": "main",
+      "text": "Tetrachloroethylene (Marine pollutant) TETRACHLOROETHYLENE (Marine pollutant) Tetrachloroethylene (Marine pollutant)"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "6.1 6.1 6.1"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "III III III"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Dangerous for the environment: Yes Dangerous for the environment : Yes Dangerous for the environment : Yes\nMarine pollutant: Yes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "No supplementary information available"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "DOT"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Class (DOT)",
+          ":  6.1 - Class 6.1 - Poisonous materials 49 CFR 173.132"
+        ],
+        [
+          "UN-No. (DOT)",
+          ":  UN1897"
+        ],
+        [
+          "DOT Special Provisions (49 CFR 172.102)",
+          ":  IB3 - Authorized IBCs: Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite (31HZ1 and 31HA2, 31HB2, 31HN2, 31HD2 and 31HH2).  Additional Requirement: Only liquids with a vapor pressure less than or equal to 110 kPa at 50 C (1.1 bar at 122 F), or 130 kPa at 55"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "C (1.3 bar at 131 F) are authorized, except for UN2672 (also see Specia l Provision IP8 in Table\n2 for UN2672).\nN36 - Aluminum or aluminum alloy construction materials are permitted only for halogenated\nhydrocarbons that will not react with aluminum.\nT4 - 2.65 178.274(d)(2) Normal............. 178.275(d)(3)\nTP1 - The maximum degree of filling must not exceed the degree of filling determined by the\nfollowing: Degree of filling = 97 / 1 + a (tr - tf) Where: tr is the maximum mean bulk temperature\nduring transport, and tf is the temperature in degrees celsius of the liquid during filling."
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "DOT Packaging Exceptions (49 CFR 173.xxx)",
+          ":  153"
+        ],
+        [
+          "DOT Packaging Non Bulk (49 CFR 173.xxx)",
+          ":  203"
+        ],
+        [
+          "DOT Packaging Bulk (49 CFR 173.xxx)",
+          ":  241"
+        ],
+        [
+          "DOT Quantity Limitations Passenger aircraft/rail (49",
+          ":  60 L"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "CFR 173.27)\nDOT Quantity Limitations Cargo aircraft only (49 : 220 L\nCFR 175.75)\nDOT Vessel Stowage Location : A - The material may be stowed ‘‘on deck’’ or ‘‘under deck’’ on a cargo vessel and on a\npassenger vessel.\nDOT Vessel Stowage Other : 40 - Stow ‘‘clear of living quarters’’"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "IMDG"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Class (IMDG)",
+          ": 6.1 - Toxic substances"
+        ],
+        [
+          "Limited quantities (IMDG)",
+          ": 5 L"
+        ],
+        [
+          "Excepted quantities (IMDG)",
+          ": E1"
+        ],
+        [
+          "Packing instructions (IMDG)",
+          ": P001, LP01"
+        ],
+        [
+          "IBC packing instructions (IMDG)",
+          ": IBC03"
+        ],
+        [
+          "Tank instructions (IMDG)",
+          ": T4"
+        ],
+        [
+          "Tank special provisions (IMDG)",
+          ": TP1"
+        ],
+        [
+          "EmS-No. (Fire)",
+          ": F-A - FIRE SCHEDULE Alfa - GENERAL FIRE SCHEDULE"
+        ],
+        [
+          "EmS-No. (Spillage)",
+          ": S-A - SPILLAGE SCHEDULE Alfa - TOXIC SUBSTANCES"
+        ],
+        [
+          "Stowage category (IMDG)",
+          ": A"
+        ],
+        [
+          "Stowage and handling (IMDG)",
+          ": SW2"
+        ],
+        [
+          "Segregation (IMDG)",
+          ": SGG10"
+        ],
+        [
+          "Properties and observations (IMDG)",
+          ": Colorless liquid with an ethereal odor. When involved in a fire, evolves extremely toxic fumes (phosgene). Toxic if swallowed, by skin contact or by inhalation."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "IATA"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Class (IATA)",
+          ": 6.1 - Toxic Substances"
+        ],
+        [
+          "PCA Excepted quantities (IATA)",
+          ": E1"
+        ],
+        [
+          "PCA Limited quantities (IATA)",
+          ": Y642"
+        ],
+        [
+          "PCA limited quantity max net quantity (IATA)",
+          ": 2L"
+        ],
+        [
+          "PCA packing instructions (IATA)",
+          ": 655"
+        ],
+        [
+          "PCA max net quantity (IATA)",
+          ": 60L"
+        ],
+        [
+          "CAO packing instructions (IATA)",
+          ": 663"
+        ],
+        [
+          "CAO max net quantity (IATA)",
+          ": 220L"
+        ],
+        [
+          "ERG code (IATA)",
+          ": 6L"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7. Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code"
+      ],
+      "zone": "main",
+      "text": "Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1. US Federal regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Toxic Substances Control Act (TSCA)\nAll components of this product are present and listed as Active on the United States Environmental Protection Agency Toxic Substances\nControl Act (TSCA) inventory"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Name CAS-No. Commercial Flags\nstatus"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- 127-18-4 Active"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List\nEthene, 1,1,2,2-tetrachloro- (127-18-4) Listed on EPA Hazardous Air Pollutant (HAPS)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) Hazardous Substance\nCERCLA Section 103 (40CFR302.4) Spills or releases resulting in the loss of any ingredient at or above its RQ require immediate\nnotification to the National Response Center (800 -424-8802) and to your Local Emergency\nPlanning Committee."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "CERCLA RQ"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro- (127-18-4) 100 lb"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Superfund Amendments and Reauthorization Act of 1986 Title III (Emergency Planning and Community Right -to-Know Act of 1986)\nSection 302 Extremely Hazardous Substance\nNot listed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Section 304 Emergency Release Notification\nNot listed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Sections 311/312 Hazard Classification\nNot listed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Section 313 (TRI Reporting)\nChemical(s) subject to the reporting requirements of Section 313 or Title III of the Superfund Amendments and Reauthorization Act (SARA) of 1986 and\n40 CFR Part 372.\nEthene, 1,1,2,2-tetrachloro- CAS-No.127-18-4 80 - 100%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. US Federal regulations"
+      ],
+      "zone": "main",
+      "text": "Additional Regulatory Information\nAfter December 8, 2026, this product cannot be distributed in commerce to retailers for any use. After March 8, 2027, chemica l substances/products can\nonly be distributed in commerce or processed with a concentration of PCE equal to or greater than 0.1% by weight for the following purposes: (1)\nProcessing as a reactant/intermediate; (2) Processing into formulation, mixture or reaction product; (3) Processing by repack aging; (4) Recycling; (5)\nIndustrial and commercial use as solvent in open -top batch vapor degreasing; (6) Industrial and commercial use as solvent in closed -loop batch vapor\ndegreasing; (7) Industrial and commercial use in maskant for chemical milling; (8) Industrial and comm ercial use as a processing aid in catalyst\nregeneration in petrochemical manufacturing; (9) Industrial and commercial use as a processing aid in sectors other than petrochemical manufacturing;\n(10) Industrial and commercial use as solvent for cold cleaning of tanker vessels; (11) Industrial and commercial use as energized electrical cleaner; (12)\nIndustrial and commercial use in laboratory chemicals; (13) Industrial and commercial use in solvent -based adhesives and sealants; (14) Industrial and\ncommercial use in dry cleaning in 3rd generation machines until December 20, 2027; (15) Industrial and commercial use in all dry cleaning and related\nspot cleaning until December 19, 2034; (16) Export; and (17) Disposal."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. International regulations"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. International regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. International regulations"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.3. US State regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "California Proposition 65\nWARNING: This product can expose you to tetrachloroethylene, which is known to the State of California to cause cancer, and lead,\nwhich is known to the State of California to caus e birth defects or other reproductive harm. For more information go to\nwww.P65Warnings.ca.gov."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "U.S. - California - Proposition 65 - Carcinogens List"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Tetrachloroethylene (Perchloroethylene)(127- XLISTED\n18-4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Carbon tetrachloride(56-23-5) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Lead(7439-92-1) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "U.S. - California - Proposition 65 - Reproductive Toxicity - Female"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Lead(7439-92-1) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "U.S. - California - Proposition 65 - Reproductive Toxicity - Male"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Lead(7439-92-1) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Cadmium(7440-43-9) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "U.S. - California - Proposition 65 - Developmental Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Lead(7439-92-1) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Cadmium(7440-43-9) XLISTED"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "State Regulations\nComponent State Regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.3. US State regulations"
+      ],
+      "zone": "main",
+      "text": "Ethene, 1,1,2,2-tetrachloro-(127-18-4) U.S. - Massachusetts - Right To Know List; U.S. - New Jersey - Right to Know Hazardous\nSubstance List; U.S. - New York City - Right to Know Hazardous Substances List; U.S. -\nPennsylvania - RTK (Right to Know) List; U.S. - Rhode Island - Hazardous Substance List"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.4 Other Regulatory Information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.4 Other Regulatory Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.4 Other Regulatory Information"
+      ],
+      "zone": "main",
+      "text": "Volatile organic compound (VOC) regulation\nEPA\nVOC content (40 CFR 51.100(s)) : 0 %\nConsumer products (40 CFR 59, Subpt. C)) : Not regulated.\nState"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.4 Other Regulatory Information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Consumer products",
+          ":",
+          "This product is regulated as a Brake Cleaner.This product is not compliant to be sold for use in California and New Jersey. This product is compliant in all other states."
+        ],
+        [
+          "VOC Content (CA)",
+          ":",
+          "0 %"
+        ],
+        [
+          "VOC Content (OTC)",
+          ":",
+          "0 %"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Author : Angelina Cibulskis\nOther information : CRC# 00491G/1002481."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Safety Data Sheet (SDS), USA, CRC"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "The information contained in this document applies to this specific material as supplied. It may not be valid for this material if it is used in combination\nwith any other materials. This information is accurate to the best of CRC's knowledge or obtained from sources believed by CRC to be accurate. Before\nusing any product, read all warnings and directions on the label. For further clarification of any information contained on this (M)SDS consult your\nsupervisor, a health & safety professional, or CRC Industries Inc."
+    }
+  ]
+}

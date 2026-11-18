@@ -1,0 +1,572 @@
+{
+  "doc_id": "D041",
+  "format": "pdf",
+  "page_count": 3,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "8fc49db1e3dc79d78f1859b9f1bd478ae819b51a17b78331868b519eb7e91be5",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "PRODUCT SAFETY INFORMATION SHEET 16.10.2025 Ed. 4"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "1. Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "1. Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Trade name:",
+          "OE5318I"
+        ],
+        [
+          "Material use:",
+          "Raw material for plastics industry"
+        ],
+        [
+          "Supplier:",
+          "Borealis GmbH E-mail address: product.safety@borealisgroup.com"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "2. Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "The product is not classified as hazardous according to Regulation (EC) No 1272/2008 and its amendments."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Label elements"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Label elements"
+      ],
+      "zone": "main",
+      "text": "Not a hazardous substance or mixture. No hazard pictogram, no signal word, no hazard statement(s), no precautionary\nstatement(s) required."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Other hazards"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazards identification",
+        "Other hazards"
+      ],
+      "zone": "main",
+      "text": "The product burns, but is not classified as flammable. Dust from the product gives a potential risk for dust explosion.This\nsubstance/mixture contains no components considered to be either persistent, bioaccumulative and toxic (PBT), or very\npersistent and very bioaccumulative (vPvB) at levels of 0.1% or higher.The substance/mixture does not contain\ncomponents considered to have endocrine disrupting properties according to REACH Article 57(f) or Commission\nDelegated regulation (EU) 2017/2100 or Commission Regulation (EU) 2018/605 at levels of 0.1% or higher."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "3. Composition/information on ingredients"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "text": "The product is a polyethylene polymer."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "text": "Contains no substance classified as hazardous in concentrations, which should be taken into account according to EU\nregulations."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "4. First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "4. First aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "4. First aid measures"
+      ],
+      "zone": "main",
+      "text": "If inhaled: Move to fresh air in case of accidental inhalation of vapors or decomposition products."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "4. First aid measures"
+      ],
+      "zone": "main",
+      "text": "In case of skin contact: If molten material comes in contact with the skin, cool with plenty of water. DO NOT remove\nsolidified product, as removal could result in severe tissue damage. Obtain medical attention."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "4. First aid measures"
+      ],
+      "zone": "main",
+      "text": "Most important symptoms and effects, both acute and delayed:\nInhalation of dust may irritate the respiratory tract. Prolonged inhalation of high doses of decomposition products may give\nheadache or irritation of the respiratory tract."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "5. Fire-fighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "5. Fire-fighting measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "5. Fire-fighting measures"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media: Water in spread jet, dry chemicals, foam or carbon dioxide.\nSpecific hazards during fire fighting: Principal toxicant in the smoke is carbon monoxide."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "6. Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "6. Accidental release measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "6. Accidental release measures"
+      ],
+      "zone": "main",
+      "text": "Vacuum or sweep up spill. All spill of material must be removed immediately to prevent slipping accidents. Recycle or\ndispose loose material properly. Do not flush into surface water or sanitary sewer system. Should not be released into the\nenvironment.\nIt is recommended to implement systems and practices (such as Operation Clean Sweep®) to prevent accidental release\nof plastics in to the environment."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures"
+      ],
+      "zone": "main",
+      "text": "16.10.2025 Ed. 4"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "7. Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "7. Handling and storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "7. Handling and storage"
+      ],
+      "zone": "main",
+      "text": "Advice on safe handling: During processing and thermal treatment of the product, small amounts of volatile\nhydrocarbons may be released. Avoid inhalation of dust and decomposition fumes. Provide adequate ventilation. Local\nexhaust ventilation or additional personal protective equipment (PPE) may be necessary."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "7. Handling and storage"
+      ],
+      "zone": "main",
+      "text": "Advice on protection against fire and explosion: Dust from the product represents a risk for dust explosions when\ndispersed with air in a sufficient concentration and with the presence of an ignition source. All equipment shall be grounded.\nRoutine housekeeping will also contribute in preventing risks of dust explosions."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "7. Handling and storage"
+      ],
+      "zone": "main",
+      "text": "Storage: Safety aspects do not require any special precautions in terms of storage."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "8. Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "8. Exposure controls/personal protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "8. Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "text": "Do not eat, drink or smoke when using this product. Wash hands before breaks and at the end of workday.\nAppropriate personal protective equipment (PPE) shall be worn in accordance with Regulation (EU) 2016/425."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "8. Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "text": "Provide adequate ventilation. Local exhaust ventilation may be necessary."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "9. Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "9. Physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "9. Physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Appearance: pellets, natural color\nOdor: odorless"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "9. Physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Melting point/ range: 60 - 110 °C Ignition temperature: > 320 °C\nDensity: 0,9 - 1,0 g/cm3 Water solubility: insoluble in water"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "10. Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "10. Stability and reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "10. Stability and reactivity"
+      ],
+      "zone": "main",
+      "text": "The product is a stable thermoplastic, with no chemical reactivity."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "11. Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "11. Toxicological information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "11. Toxicological information"
+      ],
+      "zone": "main",
+      "text": "The product is not classified as hazardous to human health."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "12. Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "12. Ecological information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "12. Ecological information"
+      ],
+      "zone": "main",
+      "text": "The product is not considered hazardous for the environment. Not readily biodegradable. Does not accumulate in\norganisms. Avoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "13. Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "13. Disposal considerations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "13. Disposal considerations"
+      ],
+      "zone": "main",
+      "text": "Reuse or recycle if not contaminated. The product may be safely used as fuel. Proper combustion does not require any\nspecial flue gas control. Check with local regulations.Discharge into the environment must be avoided."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "14. Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "14. Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "14. Transport information"
+      ],
+      "zone": "main",
+      "text": "The product is not regulated by ADR/RID, IMDG or IATA."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "15. Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "15. Regulatory information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "15. Regulatory information"
+      ],
+      "zone": "main",
+      "text": "The synthetic polymer microparticles supplied is subject to conditions laid down by entry 78 of Annex XVII to Regulation\n(EC) No 1907/2006 of the European Parliament and of the Council."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "15. Regulatory information"
+      ],
+      "zone": "main",
+      "text": "Generic information on the identity of the polymers contained in the substance or mixture: 3901 Polymers of ethylene, in\nprimary forms."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "15. Regulatory information"
+      ],
+      "zone": "main",
+      "text": "Concentration of Synthetic Polymer Microparticles in the substance or mixture: 90-100%"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "16. Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "16. Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information"
+      ],
+      "zone": "main",
+      "text": "Product does not require Safety Data Sheet in accordance with Article 31 of Regulation (EC) No 1907/2006, and its\namendments."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information"
+      ],
+      "zone": "main",
+      "text": "Issuer: Borealis, Group Product Stewardship"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Disclaimer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "text": "To the best of our knowledge, the information contained herein is accurate and reliable as of the date of publication;\nhowever we do not assume any liability whatsoever for the accuracy and completeness of such information."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "Borealis makes no warranties which extend beyond the description contained herein. Nothing herein shall"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Borealis makes no warranties which extend beyond the description contained herein. Nothing herein shall"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "Borealis makes no warranties which extend beyond the description contained herein. Nothing herein shall"
+      ],
+      "zone": "main",
+      "text": "constitute any warranty of merchantability or fitness for a particular purpose."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "It is the customer's responsibility to inspect and test our products in order to satisfy itself as to the suitability of"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "It is the customer's responsibility to inspect and test our products in order to satisfy itself as to the suitability of"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "the products for the customer's particular purpose. The customer is responsible for the appropriate, safe and"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "the products for the customer's particular purpose. The customer is responsible for the appropriate, safe and"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "the products for the customer's particular purpose. The customer is responsible for the appropriate, safe and"
+      ],
+      "zone": "main",
+      "text": "legal use, processing and handling of our products."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "16. Other information",
+        "the products for the customer's particular purpose. The customer is responsible for the appropriate, safe and"
+      ],
+      "zone": "main",
+      "text": "No liability can be accepted in respect of the use of Borealis' products in conjunction with other materials. The information\ncontained herein relates exclusively to our products when not used in conjunction with any third party materials."
+    }
+  ]
+}

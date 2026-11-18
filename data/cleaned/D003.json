@@ -1,0 +1,4678 @@
+{
+  "doc_id": "D003",
+  "format": "pdf",
+  "page_count": 45,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "f735574c24ab22a88c37f479723c424c307f9cd3ce5052fb28b471612baa4706",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "KARTA CHARAKTERYSTYKI"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "zgodnie z Rozporządzeniem WE 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Wersja 18.0 Aktualizacja: 07.08.2024 Poprzednia data: 27.12.2023"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Identyfikator produktu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "text": "Nazwa handlowa : Acetone, Borvida B™ Acetone, Borvida C™ Acetone"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "text": "Numer rejestracyjny REACH : 01-2119471330-49-0006, 01-2119471330-49-XXXX"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "text": "Nazwa substancji : Aceton"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "text": "Numer indeksowy : 606-001-00-8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.1 Identyfikator produktu"
+      ],
+      "zone": "main",
+      "text": "Nr WE : 200-662-2"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.2 Istotne zidentyfikowane zastosowania substancji lub mieszaniny oraz zastosowania odradzane"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Istotne zidentyfikowane zastosowania substancji lub mieszaniny oraz zastosowania odradzane"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.2 Istotne zidentyfikowane zastosowania substancji lub mieszaniny oraz zastosowania odradzane"
+      ],
+      "zone": "main",
+      "text": "Zastosowanie : Produkcja, Forma użytkowa, Zastosowanie w laboratoriach,\nsubstancji/mieszaniny Użycie jako środka pośredniego, Zastosowanie w powłokach,\nZastosowanie w środkach wiążących i rozdzielających,\nZastosowanie w produkcji i przetwarzaniu gumy,\nZastosowanie w przetwarzaniu polimerów, Używany podczas\nprodukcji polimerów, Zastosowanie w środkach do\nczyszczenia, Wykonywanie odwiertów naftowych i operacje\nzwiązane z produkcją (w tym czyszczenie płuczki wiertniczej i\nodwiertu) w systemach zamkniętych lub samowystarczalnych,\nz uwzględnieniem przypadkowego narażenia podczas\ntransferu materiałów, czynności w miejscu wydobycia i\npowiązanych czynności konserwacyjnych., Zastosowanie w\nśrodkach porotwórczych, Zastosowanie w substancjach\nchemicznych wykorzystywanych w górnictwie, Zastosowanie\nw produktach agrochemicznych, Zastosowanie w płynach do\nodladzania i zapobiegających powstawaniu lodu,\nZastosowanie w materiałach wybuchowych, Powłoki i farby,\nrozcieńczalniki, zmywacze do farb, Wypełniacze, kity, tynki,\nmodelina, Płyny przewodzące ciepło, Kosmetyki, środki\nhigieny osobistej, Środki poślizgowe, smary i produkty\nuwalniające substancje, Środki polerujące i mieszanki\nwoskowe"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Dane dotyczące dostawcy karty charakterystyki"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "text": "Producent : Borealis Polymers Oy\nP.O. Box 330, FI-06101 Porvoo, Finlandia\nNumer telefonu: +358 9 394900"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "text": "Dostawca : Borealis AG\nTrabrennstrasse 6-8, 1020 Wieden, Austria\nNumer telefonu: +43 1 22400 0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "text": "Borvida B i Borvida C są znakami towarowymi Borealis group."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "text": "Borealis AG | Trabrennstrasse 6-8 | 1020 Vienna | Austria"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.3 Dane dotyczące dostawcy karty charakterystyki"
+      ],
+      "zone": "main",
+      "text": "Adres e-mail : sds@borealisgroup.com"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.4 Numer telefonu alarmowego"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Numer telefonu alarmowego"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 1: Identyfikacja substancji/mieszaniny i identyfikacja przedsiębiorstwa",
+        "1.4 Numer telefonu alarmowego"
+      ],
+      "zone": "main",
+      "text": "+1 760 476 3962 (3E), kod dostępu: 336296"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 2: Identyfikacja zagrożeń"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.1 Klasyfikacja substancji lub mieszaniny"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Klasyfikacja substancji lub mieszaniny"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.1 Klasyfikacja substancji lub mieszaniny"
+      ],
+      "zone": "main",
+      "text": "Klasyfikacja (ROZPORZĄDZENIE (WE) NR 1272/2008)"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.1 Klasyfikacja substancji lub mieszaniny"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Substancje ciekłe łatwopalne, Kategoria 2",
+          "H225: Wysoce łatwopalna ciecz i pary."
+        ],
+        [
+          "Działanie drażniące na oczy, Kategoria 2",
+          "H319: Działa drażniąco na oczy."
+        ],
+        [
+          "Działanie toksyczne na narządy",
+          "H336: Może wywoływać uczucie senności lub"
+        ],
+        [
+          "docelowe - narażenie jednorazowe,",
+          "zawroty głowy."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.1 Klasyfikacja substancji lub mieszaniny"
+      ],
+      "zone": "main",
+      "text": "Kategoria 3, Centralny układ nerwowy"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Elementy oznakowania"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "text": "Oznakowanie (ROZPORZĄDZENIE (WE) NR 1272/2008)\nPiktogramy określające :\nrodzaj zagrożenia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "text": "Hasło ostrzegawcze : Niebezpieczeństwo"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Zwroty wskazujące rodzaj",
+          ":",
+          "H225",
+          "Wysoce łatwopalna ciecz i pary."
+        ],
+        [
+          "zagrożenia",
+          "",
+          "H319",
+          "Działa drażniąco na oczy."
+        ],
+        [
+          "",
+          "",
+          "H336",
+          "Może wywoływać uczucie senności lub zawroty głowy."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "text": "Uzupełniające zwroty : EUH066 Powtarzające się narażenie może\nwskazujące rodzaj powodować wysuszanie lub pękanie skóry.\nzagrożenia"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Zwroty wskazujące środki",
+          ":",
+          "Zapobieganie:",
+          ""
+        ],
+        [
+          "ostrożności",
+          "",
+          "P210 powierzchni, źródeł iskrzenia, otwartego ognia i innych źródeł zapłonu. Nie palić.",
+          "Przechowywać z dala od źródeł ciepła, gorących"
+        ],
+        [
+          "",
+          "",
+          "P243 statycznemu rozładowaniu. Reagowanie:",
+          "Przedsięwziąć środki ostrożności zapobiegające"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "text": "P305 + P351 + P338 W PRZYPADKU DOSTANIA SIĘ DO\nOCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.2 Elementy oznakowania"
+      ],
+      "zone": "main",
+      "text": "soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal\npłukać.\nMagazynowanie:\nP403 + P233 Przechowywać w dobrze wentylowanym\nmiejscu. Przechowywać pojemnik szczelnie zamknięty.\nP405 Przechowywać pod zamknięciem."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.3 Inne zagrożenia"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Inne zagrożenia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.3 Inne zagrożenia"
+      ],
+      "zone": "main",
+      "text": "Ta substancja/mieszanina nie zawiera składników uważanych albo za trwałe, podlegające\nbioakumulacji i toksyczne, albo bardzo trwałe i podlegające bardzo silnej bioakumulacji (vPvB) na\npoziomie 0,1% bądź powyżej."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.3 Inne zagrożenia"
+      ],
+      "zone": "main",
+      "text": "Informacje ekologiczne: Ta substancja/mieszanina nie zawiera składników, o których uważa się, że\nmają właściwości endoktrynnie czynne według Artykułu REACH 57(f), regulacji Komisji Delegowanej\n(UE) 2017/2100 lub Regulacji Komisji (UE) 20218/606 na poziomach 0,1% lub wyższych."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 2: Identyfikacja zagrożeń",
+        "2.3 Inne zagrożenia"
+      ],
+      "zone": "main",
+      "text": "Informacje toksykologiczne: Ta substancja/mieszanina nie zawiera składników, o których uważa się,\nże mają właściwości endoktrynnie czynne według Artykułu REACH 57(f), regulacji Komisji\nDelegowanej (UE) 2017/2100 lub Regulacji Komisji (UE) 20218/606 na poziomach 0,1% lub\nwyższych."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 3: Skład/informacja o składnikach"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1 Substancje"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "text": "Nazwa substancji : Aceton"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "text": "Numer indeksowy : 606-001-00-8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "text": "Nr WE : 200-662-2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "text": "Składniki\nNazwa Chemiczna Nr CAS Stężenie (% w/w) Współczynnik M, SCL,\nNr WE ATE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEKCJA 3: Skład/informacja o składnikach",
+        "3.1 Substancje"
+      ],
+      "zone": "main",
+      "text": "aceton 67-64-1 > 99\n200-662-2"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 4: Środki pierwszej pomocy"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Opis środków pierwszej pomocy"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "text": "Zalecenia ogólne : Wyprowadzić osobę poszkodowaną na świeże powietrze.\nZapewnić poszkodowanemu ciepło i spokój.\nOsobie nieprzytomnej zapewnić wygodną pozycję i zasięgnąć\nporady medycznej."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "text": "W przypadku wdychania : Wynieść poszkodowanego z miejsca zagrożenia.\nTrzymaj ciepło i spokój i zapewniają świeże powietrze.\nW razie potrzeby podać tlen lub zastosować sztuczne\noddychanie.\nNatychmiast wezwać lekarza."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "text": "W przypadku kontaktu ze : Natychmiast zdjąć skażone ubranie.\nskórą Natychmiast zmyć dużą ilością wody z mydłem.\nUzyskać pomoc lekarską."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "text": "W przypadku kontaktu z : Spłukać niezwłocznie dużą ilością wody, również pod\noczami powiekami, przez co najmniej 10 minut.\nNatychmiast wezwać lekarza."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.1 Opis środków pierwszej pomocy"
+      ],
+      "zone": "main",
+      "text": "W przypadku połknięcia : Natychmiast wezwać lekarza.\nNIE prowokować wymiotów.\nPrzepłukać usta, podać węgiel aktywny."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Objawy : Kontakt ze skórą i oczami:\nmrowienie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Wdychanie może wywołać następujące objawy:\nPodrażnienie dróg oddechowych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Wdychanie oparów o dużym stężeniu może powodować ból\ngłowy, zawrót głowy, wyczerpanie, mdłości i wymioty."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Połknięcie może wywołać następujące objawy:\nDolegliwości jelitowo-żołądkowe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Kontakt przez skórę:\nPowtarzające się narażenie może powodować wysuszanie lub\npękanie skóry."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Zagrożenia : Działa drażniąco na oczy.\nMoże wywoływać uczucie senności lub zawroty głowy."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.2 Najważniejsze ostre i opóźnione objawy oraz skutki narażenia"
+      ],
+      "zone": "main",
+      "text": "Powtarzające się narażenie może powodować wysuszanie lub\npękanie skóry."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.3 Wskazania dotyczące wszelkiej natychmiastowej pomocy lekarskiej i szczególnego"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Wskazania dotyczące wszelkiej natychmiastowej pomocy lekarskiej i szczególnego"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 4: Środki pierwszej pomocy",
+        "4.3 Wskazania dotyczące wszelkiej natychmiastowej pomocy lekarskiej i szczególnego"
+      ],
+      "zone": "main",
+      "text": "postępowania z poszkodowanym\nLeczenie : Symptomy zatrucia mogą pojawić się po kilku godzinach.\nZapewnić opiekę medyczną przynajmniej przez 48 godzin.\nAparat oddechowy i/lub tlen może być niezbędny.\nRyzyko opóźnionego obrzęku płuc."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 5: Postępowanie w przypadku pożaru"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.1 Środki gaśnicze"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Środki gaśnicze"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.1 Środki gaśnicze"
+      ],
+      "zone": "main",
+      "text": "Odpowiednie środki gaśnicze : Piana odporna na alkohole\nSuchy proszek gaśniczy\nMgła wodna\nDwutlenek węgla (CO2)"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.2 Szczególne zagrożenia związane z substancją lub mieszaniną"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Szczególne zagrożenia związane z substancją lub mieszaniną"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.2 Szczególne zagrożenia związane z substancją lub mieszaniną"
+      ],
+      "zone": "main",
+      "text": "Zagrożenia szczególne w : W czasie niepełnego spalania mogą powstawać:\nczasie gaszenia pożaru Tlenek węgla\nDwutlenek węgla (CO2)\nPary mogą tworzyć z powietrzem mieszaniny wybuchowe."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.3 Informacje dla straży pożarnej"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Informacje dla straży pożarnej"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.3 Informacje dla straży pożarnej"
+      ],
+      "zone": "main",
+      "text": "Specjalne wyposażenie : Założyć sprzęt do oddychania z obiegiem zamkniętym i odzież\nochronne dla strażaków ochronną. Pełny kombinezon ochronny chroniący przed\nchemikaliami Ubranie ochronne nasycone substancją\nopóźniającą palenie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 5: Postępowanie w przypadku pożaru",
+        "5.3 Informacje dla straży pożarnej"
+      ],
+      "zone": "main",
+      "text": "Dalsze informacje : Usunąć wszystkie źródła zapłonu.\nChłodzić pojemniki/zbiorniki rozproszonym strumieniem wody.\nNie dopuścić do przedostania się wody z gaszenia pożaru do\nsieci wodnej lub kanalizacji."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.1 Indywidualne środki ostrożności wyposażenie ochronne i procedury w sytuacjach awaryjnych"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Indywidualne środki ostrożności wyposażenie ochronne i procedury w sytuacjach awaryjnych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.1 Indywidualne środki ostrożności wyposażenie ochronne i procedury w sytuacjach awaryjnych"
+      ],
+      "zone": "main",
+      "text": "Wyeliminować wszystkie źródła zapłonu, jeżeli jest to bezpieczne.\nNie dopuścić do zbliżania się ludzi do wycieku/rozsypania od strony nawietrznej.\nUżyć środków ochrony osobistej."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.2 Środki ostrożności w zakresie ochrony środowiska"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Środki ostrożności w zakresie ochrony środowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.2 Środki ostrożności w zakresie ochrony środowiska"
+      ],
+      "zone": "main",
+      "text": "Zatrzymać wyciek, jeśli to bezpieczne.\nNie powinien dostać się do środowiska.\nNie dopuścić do przedostania się produktu do kanalizacji.\nNależy powiadomić władze lokalne w przypadku niemożności ograniczenia poważnego\nwyzwolenia.\nRyzyko eksplozji."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+      ],
+      "zone": "main",
+      "text": "skażenia\nZapewnić odpowiednią wentylację szczególnie w pomieszczeniach zamkniętych."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+      ],
+      "zone": "main",
+      "text": "Metody oczyszczania - duże wylania\nZatamować wyciek.\nDuże wycieki powinny być zebrane mechanicznie (odpompowane) celem usunięc ia."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+      ],
+      "zone": "main",
+      "text": "Metody oczyszczania - małe wylania\nOgraniczyć wyciek, zebrać z niepalnym materiałem absorbującym, (np. piaskiem, ziemią, ziemią\nokrzemkową, wermikulitem) i przenieść do pojemnika celem usunię cia zgodnie z\nlokalnymi/krajowymi przepisami (patrz w sekcji 13)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.3 Metody i materiały zapobiegające rozprzestrzenianiu się skażenia i służące do usuwania"
+      ],
+      "zone": "main",
+      "text": "Powinno się stosować narzędzia nieiskrzące.\nPary są cięższe od powietrza i mogą zalegać przy powierzchni gruntu.\nZwróć uwagę na możliwość cofnięcia się płomienia.\nProdukt szybko odparowuje."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.4 Odniesienia do innych sekcji"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Odniesienia do innych sekcji"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 6: Postępowanie w przypadku niezamierzonego uwolnienia do środowiska",
+        "6.4 Odniesienia do innych sekcji"
+      ],
+      "zone": "main",
+      "text": "Środki ochrony osobistej: patrz w sekcji 8., Rozważania na temat utylizacji, patrz część 13."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.1 Środki ostrożności dotyczące bezpiecznego postępowania"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Środki ostrożności dotyczące bezpiecznego postępowania"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.1 Środki ostrożności dotyczące bezpiecznego postępowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Sposoby bezpiecznego",
+          ":  Zapewnić wystarczającą wentylację."
+        ],
+        [
+          "postępowania",
+          "Zapewnić wentylację wywiewną przy podłodze. Ponownie napełniać i operować produktem tylko w zamkniętym układzie. Unikać tworzenia się aerozolu. Nie wdychać oparów/pyłu. Unikać kontaktu ze skórą, oczami i ubraniem. Unikać narażenia - przed użyciem zapoznać się z instrukcją. Myć ręce przed posiłkami i bezpośrednio po stosowaniu produktu. Nie jeść i nie pić oraz nie palić tytoniu podczas stosowania produktu. Zapewnić oczomyjki i prysznice w pobliżu miejsca pracy."
+        ],
+        [
+          "Wytyczne ochrony",
+          ":  Przechowywać z dala od ciepła i źródeł zapłonu. Nie palić."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.1 Środki ostrożności dotyczące bezpiecznego postępowania"
+      ],
+      "zone": "main",
+      "text": "przeciwpożarowej Zastosować środki ostrożności zapobiegające wyładowaniom\nelektrostatycznym. Aby uniknąć zapłonu par przez\nwyładowania elektrostatyczne, wszystkie metalowe części\nurządzenia muszą być uziemione."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych"
+      ],
+      "zone": "main",
+      "text": "niezgodności"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Wymagania względem",
+          ":  Przechowywać pojemniki dokładnie zamknięte, w chłodnym i"
+        ],
+        [
+          "pomieszczeń i pojemników",
+          "dobrze wentylowanym miejscu. Przechowywać w suchym"
+        ],
+        [
+          "magazynowych",
+          "miejscu. Chronić przed światłem słonecznym. Przechowywać produkt i pusty pojemnik z dala od ciepła i źródeł zapłonu. Magazynowanie musi odbywać się na zewnątrz."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.2 Warunki bezpiecznego magazynowania, w tym informacje dotyczące wszelkich wzajemnych"
+      ],
+      "zone": "main",
+      "text": "Wytyczne składowania : Nie przechowywać razem z: Materiałami określonymi.\nPatrz rozdział 10."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.3 Szczególne zastosowanie(-a) końcowe"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Szczególne zastosowanie(-a) końcowe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 7: Postępowanie z substancjami i mieszaninami oraz ich magazynowanie",
+        "7.3 Szczególne zastosowanie(-a) końcowe"
+      ],
+      "zone": "main",
+      "text": "Specyficzne zastosowania : Rozpuszczalnik"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Parametry dotyczące kontroli"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "text": "Granice narażenia zawodowego"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Składniki",
+          "Nr CAS",
+          "Typ wartości",
+          "Parametry dotyczące",
+          "Podstawa"
+        ],
+        [
+          "",
+          "",
+          "(Droga narażenia)",
+          "kontroli",
+          ""
+        ],
+        [
+          "aceton",
+          "67-64-1",
+          "TWA",
+          "500 ppm 1.210 mg/m3",
+          "2000/39/EC"
+        ],
+        [
+          "Dalsze informacje",
+          "Indykatywny",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "NDS",
+          "600 mg/m3",
+          "PL NDS"
+        ],
+        [
+          "",
+          "",
+          "NDSch",
+          "1.800 mg/m3",
+          "PL NDS"
+        ],
+        [
+          "",
+          "",
+          "TWA",
+          "500 ppm 1.210 mg/m3",
+          "2000/39/EC"
+        ],
+        [
+          "Dalsze informacje",
+          "Indykatywny",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "text": "Pochodny niepowodujący efektów poziom (DNEL) zgodnie z Rozporządzeniem WE 1907/2006:"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Nazwa substancji",
+          "Końcowe",
+          "Droga narażenia",
+          "Potencjalne skutki",
+          "Wartość"
+        ],
+        [
+          "",
+          "przeznaczenie",
+          "",
+          "zdrowotne",
+          ""
+        ],
+        [
+          "aceton",
+          "Pracownicy",
+          "Wdychanie",
+          "Ostre - skutki miejscowe",
+          "2420 mg/m3"
+        ],
+        [
+          "",
+          "Pracownicy",
+          "Wdychanie",
+          "Długotrwałe - skutki układowe",
+          "1210 mg/m3"
+        ],
+        [
+          "",
+          "Pracownicy",
+          "Kontakt ze",
+          "Długotrwałe - skutki",
+          "186 mg/kg"
+        ],
+        [
+          "",
+          "",
+          "skórą",
+          "układowe",
+          "wagi"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "text": "ciała/dzień"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Konsumenci",
+          "Wdychanie",
+          "Długotrwałe - skutki układowe",
+          "200 mg/m3"
+        ],
+        [
+          "Konsumenci",
+          "Kontakt ze",
+          "Długotrwałe - skutki",
+          "62 mg/kg"
+        ],
+        [
+          "",
+          "skórą",
+          "układowe",
+          "wagi ciała/dzień"
+        ],
+        [
+          "Konsumenci",
+          "Połknięcie",
+          "Długotrwałe - skutki",
+          "62 mg/kg"
+        ],
+        [
+          "",
+          "",
+          "układowe",
+          "wagi ciała/dzień"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "text": "Przewidywane stężenie niepowodujące zmian w środowisku (PNEC) zgodnie z\nRozporządzeniem WE 1907/2006:"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.1 Parametry dotyczące kontroli"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Nazwa substancji",
+          "Środowisko",
+          "Wartość"
+        ],
+        [
+          "aceton",
+          "Woda słodka",
+          "10,6 mg/l"
+        ],
+        [
+          "",
+          "Stosowanie okresowe/uwolnienie",
+          "21 mg/l"
+        ],
+        [
+          "",
+          "Woda morska",
+          "1,06 mg/l"
+        ],
+        [
+          "",
+          "Osad wody słodkiej",
+          "30,4 mg/kg"
+        ],
+        [
+          "",
+          "Osad morski",
+          "3,04 mg/kg"
+        ],
+        [
+          "",
+          "Gleba",
+          "29,5 mg/kg"
+        ],
+        [
+          "",
+          "Oczyszczania ścieków",
+          "100 mg/l"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.2 Kontrola narażenia"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Kontrola narażenia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.2 Kontrola narażenia"
+      ],
+      "zone": "main",
+      "text": "Środki techniczne\nUżywać tylko wyposażenia w wykonaniu przeciwwybuchowym.\nZapewnić odpowiednią wentylację.\nSprzęt ochrony osobistej\nOchrona oczu : okulary ochronne z bocznymi osłonami zgodne z EN 166\nOchrona rąk"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.2 Kontrola narażenia"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Materiał",
+          ":  kauczuk butylowy"
+        ],
+        [
+          "Czas wytrzymałości",
+          ":  > 240 min"
+        ],
+        [
+          "Grubość rękawic",
+          ":  0,5 mm"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.2 Kontrola narażenia"
+      ],
+      "zone": "main",
+      "text": "Uwagi : W przypadku długotrwałego lub powtarzającego się kontaktu\nstosować rękawice ochronne.\nProsimy przestrzegać instrukcji dotyczących\nprzepuszczalności i czasu przebicia dostarczonych przez\ndostawcę rękawic. Należy również uwzględnić specyficzne\nwarunki lokalne stosowania produktu, takie jak\nniebezpieczeństwo przecięcia, ścierania i czas kontaktu.\nWybrane rękawice ochronne muszą spełniać specyfikację\nrozporządzenia wspólnotowego (UE) 2016/425 i normy\npochodnej EN 374.\nOchrona skóry i ciała : Używać odzieży ochronnej odpornej na rozpuszczalniki.\nUbranie ochronne nasycone substancją opóźniającą palenie\nObuwie ochronne zgodne z EN 345-347.\nOchrona dróg oddechowych : Nosić ochronę układu oddechowego, jeżeli jego stosowanie\njest identyfikowane dla uczestniczenia w pewnych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 8: Kontrola narażenia/środki ochrony indywidualnej",
+        "8.2 Kontrola narażenia"
+      ],
+      "zone": "main",
+      "text": "scenariuszach.\nFiltr typu : Typ gazu organicznego i pary niskowrzącej (AX)\nKontrola narażenia środowiska\nZalecenia ogólne : Zatrzymać wyciek, jeśli to bezpieczne. Nie powinien dostać\nsię do środowiska. Nie dopuścić do przedostania się produktu\ndo kanalizacji. Należy powiadomić władze lokalne w\nprzypadku niemożności ograniczenia poważnego wyzwolenia.\nRyzyko eksplozji."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 9: Właściwości fizyczne i chemiczne"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Stan fizyczny",
+          ":",
+          "ciecz"
+        ],
+        [
+          "Barwa",
+          ":",
+          "bezbarwny"
+        ],
+        [
+          "Zapach",
+          ":",
+          "słodki, aromatyczny"
+        ],
+        [
+          "Próg zapachu",
+          ":  19,8 ppm",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Temperatura topnienia : -94,7 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Temperatura wrzenia : 56 °C\nPalność : Produkt wysoce łatwopalny."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Górna granica wybuchowości : 14,3 %(V)\n/ Górna granica palności"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Dolna granica wybuchowości / : 2,5 %(V)\nDolna granica palności"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Temperatura zapłonu : -17 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Temperatura samozapłonu : 465 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Temperatura rozkładu : brak dostępnych danych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "pH : 7\nStężenie: 10 g/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Lepkość\nLepkość dynamiczna : 0,32 mPa.s (20 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Rozpuszczalność\nRozpuszczalność w : całkowicie rozpuszczalny\nwodzie\nRozpuszczalność w innych : mieszalny z większością rozpuszczalników organicznych\nrozpuszczalnikach (20 °C)\nRozpuszczalnik: Rozpuszczalność w tłuszczach"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Współczynnik podziału: n- : log Pow: -0,24\noktanol/woda\nPrężność par : 240 hPa (20 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "800 hPa (50 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Gęstość względna : 0,79 (20 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Gęstość : 0,79 g/cm3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Gęstość względna par : 2,1 (20 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Rozmiar cząstek : Nie dotyczy, (ciecz)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.1 Informacje na temat podstawowych właściwości fizycznych i chemicznych"
+      ],
+      "zone": "main",
+      "text": "Charakterystyka cząstek\nRozkład wielkości cząstek : Nie dotyczy, (ciecz)"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.2 Inne informacje"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Inne informacje"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.2 Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Materiały wybuchowe : Nie jest substancją wybuchową"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.2 Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Właściwości utleniające : Substancja lub mieszanina nie została sklasyfikowana jako\nutleniająca."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.2 Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Szybkość parowania : 2,0\n(eter = 1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 9: Właściwości fizyczne i chemiczne",
+        "9.2 Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Masa cząsteczkowa : 58,08 g/mol"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 10: Stabilność i reaktywność"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.1 Reaktywność"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reaktywność"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.1 Reaktywność"
+      ],
+      "zone": "main",
+      "text": "Reaguje z następującymi substancjami:\nZasady"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.2 Stabilność chemiczna"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Stabilność chemiczna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.2 Stabilność chemiczna"
+      ],
+      "zone": "main",
+      "text": "Pary mogą tworzyć z powietrzem mieszaniny wybuchowe.\nPary są cięższe od powietrza i mogą zalegać przy powierzchni gruntu.\nZwróć uwagę na możliwość cofnięcia się płomienia."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.3 Możliwość występowania niebezpiecznych reakcji"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Możliwość występowania niebezpiecznych reakcji"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.3 Możliwość występowania niebezpiecznych reakcji"
+      ],
+      "zone": "main",
+      "text": "Niebezpieczne reakcje : Nie są znane niebezpieczne reakcje w warunkach\nnormalnego stosowania."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.4 Warunki, których należy unikać"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Warunki, których należy unikać"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.4 Warunki, których należy unikać"
+      ],
+      "zone": "main",
+      "text": "Warunki, których należy : Przechowywać z dala od ciepła i źródeł zapłonu.\nunikać Wystawienie na działanie światła."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.5 Materiały niezgodne"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Materiały niezgodne"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.5 Materiały niezgodne"
+      ],
+      "zone": "main",
+      "text": "Czynniki, których należy : Może reagować z wieloma tworzywami sztucznymi, gumą i\nunikać powłokami.\nTrzymać z dala od:\nZasady\nUtleniacze\nAminy"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.6 Niebezpieczne produkty rozkładu"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Niebezpieczne produkty rozkładu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 10: Stabilność i reaktywność",
+        "10.6 Niebezpieczne produkty rozkładu"
+      ],
+      "zone": "main",
+      "text": "Tlenek węgla\nDwutlenek węgla (CO2)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 11: Informacje toksykologiczne"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Toksyczność ostra\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nSkładniki:\naceton:\nToksyczność ostra - droga : LD50 (Szczur): 5.800 mg/kg\npokarmowa\nToksyczność ostra - przez : LC50: 76 mg/l\ndrogi oddechowe Atmosfera badawcza: para"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Toksyczność ostra - po : LD50 (Świnka morska, samiec): > 7.426 mg/kg\nnaniesieniu na skórę\nDziałanie żrące/drażniące na skórę\nPowtarzające się narażenie może powodować wysuszanie lub pękanie skóry.\nSkładniki:\naceton:\nGatunek : Świnka morska\nUwagi : Brak działania drażniącego na skórę"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Poważne uszkodzenie oczu/działanie drażniące na oczy\nDziała drażniąco na oczy.\nSkładniki:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "aceton:"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Gatunek",
+          ":",
+          "Królik"
+        ],
+        [
+          "Metoda",
+          ":",
+          "Dyrektywa ds. testów 405 OECD"
+        ],
+        [
+          "Uwagi",
+          ":",
+          "Działanie drażniące na oczy"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Działanie uczulające na drogi oddechowe lub skórę"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Działanie uczulające na skórę\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nUczulenie układu oddechowego\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nSkładniki:\naceton:"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Rodzaj badania",
+          ":",
+          "Test maksymizacyjny"
+        ],
+        [
+          "Droga narażenia",
+          ":",
+          "Kontakt ze skórą"
+        ],
+        [
+          "Gatunek",
+          ":",
+          "Świnka morska"
+        ],
+        [
+          "Uwagi",
+          ":",
+          "Nie powoduje podrażnienia skóry."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Działanie mutagenne na komórki rozrodcze\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nSkładniki:\naceton:\nGenotoksyczność in vitro : Rodzaj badania: test mutacji genowej\nMetoda: Dyrektywa ds. testów 471 OECD\nWynik: negatywny"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": ": Rodzaj badania: Test odchylenia chromosomów in vitro\nMetoda: Dyrektywa ds. testów 473 OECD\nWynik: negatywny"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Genotoksyczność in vivo : Rodzaj badania: analiza in vivo\nGatunek: Mysz\nSposób podania dawki: Doustnie\nWynik: negatywny"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Rakotwórczość\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nSzkodliwe działanie na rozrodczość\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nSkładniki:\naceton:\nDziałanie na płodność : Uwagi: Nie zgłoszono istotnych działań niepożądanych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Wpływ na rozwój płodu : Sposób podania dawki: Wdychanie\nOgólna toksyczność u matek: NOAEC: 5.300 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Działanie toksyczne na narządy docelowe - narażenie jednorazowe\nMoże wywoływać uczucie senności lub zawroty głowy.\nDziałanie toksyczne na narządy docelowe - narażenie powtarzane\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione.\nToksyczność dawki powtórzonej"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Składniki:\naceton:"
+    },
+    {
+      "kind": "table",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Gatunek",
+          ":",
+          "Szczur, samiec"
+        ],
+        [
+          "NOAEL",
+          ":",
+          "900 mg/kg"
+        ],
+        [
+          "Sposób podania dawki",
+          ":",
+          "Doustnie"
+        ],
+        [
+          "Czas ekspozycji",
+          ":",
+          "90 Dn."
+        ],
+        [
+          "Metoda",
+          ":",
+          "Dyrektywa ds. testów 408 OECD"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Gatunek",
+          ":",
+          "Szczur, samiec"
+        ],
+        [
+          "Sposób podania dawki",
+          ":",
+          "Wdychanie"
+        ],
+        [
+          "Czas ekspozycji",
+          ":",
+          "40 Dn."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.1 Informacje na temat klas zagrożenia zdefiniowanych w rozporządzeniu (WE) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Zagrożenie spowodowane aspiracją\nW oparciu o dostępne dane, kryteria klasyfikacji nie są spełnione."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.2 Informacje o innych zagrożeniach"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Informacje o innych zagrożeniach"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.2 Informacje o innych zagrożeniach"
+      ],
+      "zone": "main",
+      "text": "Właściwości zaburzające funkcjonowanie układu hormonalnego"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.2 Informacje o innych zagrożeniach"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nOcena : Ta substancja/mieszanina nie zawiera składników, o których\nuważa się, że mają właściwości endoktrynnie czynne według\nArtykułu REACH 57(f), regulacji Komisji Delegowanej (UE)\n2017/2100 lub Regulacji Komisji (UE) 20218/606 na\npoziomach 0,1% lub wyższych."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.2 Informacje o innych zagrożeniach"
+      ],
+      "zone": "main",
+      "text": "Dalsze informacje"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SEKCJA 11: Informacje toksykologiczne",
+        "11.2 Informacje o innych zagrożeniach"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nUwagi : Może się absorbować w przypadku narażenia drogą\noddechową i przez skórę.\nEfekty spożycia mogą obejmować:\nZaburzenie przewodu pokarmowego"
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 12: Informacje ekologiczne"
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toksyczność"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "Produkt:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "Ocena ekotoksykologiczna\nZagrożenie długotrwałe : Dla tego produktu nie znane są efekty ekotoksyczne.\n(przewlekłe) dla środowiska\nwodnego\nSkładniki:\naceton:\nToksyczność dla ryb : LC50 (Oncorhynchus mykiss (pstrąg tęczowy)): 5.540 mg/l\nCzas ekspozycji: 96 h\nRodzaj badania: próba statyczna\nUwagi: Woda słodka"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "LC50 (Ukleja (Alburnus alburnus)): 11.000 mg/l\nCzas ekspozycji: 96 h\nRodzaj badania: próba statyczna\nUwagi: Woda morska"
+    },
+    {
+      "kind": "table",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Toksyczność dla dafnii i",
+          ":  LC50 (Daphnia pulex (dafnia)): 8.800 mg/l"
+        ],
+        [
+          "innych bezkręgowców",
+          "Czas ekspozycji: 48 h"
+        ],
+        [
+          "wodnych",
+          "Rodzaj badania: próba statyczna Uwagi: Woda słodka"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "LC50 (Artemia salina): 2.100 mg/l\nCzas ekspozycji: 24 h\nRodzaj badania: próba statyczna\nUwagi: Woda morska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "Toksyczność dla : NOEC (Microcystis aeruginosa): 530 mg/l\nglony/rośliny wodne Czas ekspozycji: 8 Dn.\nRodzaj badania: próba statyczna\nUwagi: Woda słodka"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "NOEC (Prorocentrum minimum): 430 mg/l\nCzas ekspozycji: 96 h\nUwagi: Woda morska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "Toksyczność dla : EC12 (Bakterie): 1.000 mg/l\nmikroorganizmów Czas ekspozycji: 30 min\nRodzaj badania: Blokada zdolności aktywowanego szlamu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "text": "Toksyczność dla ryb : Uwagi: badania naukowo nieuzasadnione\n(Toksyczność chroniczna)"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.1 Toksyczność"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Toksyczność dla dafnii i",
+          ":  NOEC: 2.212 mg/l"
+        ],
+        [
+          "innych bezkręgowców",
+          "Czas ekspozycji: 28 Dn."
+        ],
+        [
+          "wodnych (Toksyczność",
+          "Gatunek: Daphnia magna (rozwielitka)"
+        ],
+        [
+          "chroniczna)",
+          "Rodzaj badania: próba przepływowa Uwagi: Woda słodka"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.2 Trwałość i zdolność do rozkładu"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Trwałość i zdolność do rozkładu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.2 Trwałość i zdolność do rozkładu"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nStabilność w wodzie : Hydroliza: (0 %)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.2 Trwałość i zdolność do rozkładu"
+      ],
+      "zone": "main",
+      "text": "Fotodegradacja : Rodzaj badania: Powietrze\nPółtrwanie (bezpośrednia fotoliza): 10 Dn."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.2 Trwałość i zdolność do rozkładu"
+      ],
+      "zone": "main",
+      "text": "Składniki:\naceton:\nBiodegradowalność : Biodegradacja: 91 %\nMetoda: Wytyczne OECD 301 B w sprawie prób\nUwagi: Łatwo biodegradowalny."
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.3 Zdolność do bioakumulacji"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Zdolność do bioakumulacji"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.3 Zdolność do bioakumulacji"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nBioakumulacja : Współczynnika biokoncentracji (BCF): 3\nMetoda: obliczone\nUwagi: Bioakumulacja nie przewidywana: Stała podziału (n-oktanol/woda) log Kow < 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.3 Zdolność do bioakumulacji"
+      ],
+      "zone": "main",
+      "text": "Składniki:\naceton:\nWspółczynnik podziału: n- : log Pow: -0,24\noktanol/woda"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.4 Mobilność w glebie"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobilność w glebie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.4 Mobilność w glebie"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nMobilność : Uwagi: Gleba, Wysoka mobilność"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.4 Mobilność w glebie"
+      ],
+      "zone": "main",
+      "text": "Uwagi: Woda:, Produkt szybko odparowuje."
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.5 Wyniki oceny właściwości PBT i vPvB"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Wyniki oceny właściwości PBT i vPvB"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.5 Wyniki oceny właściwości PBT i vPvB"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nOcena : Ta substancja/mieszanina nie zawiera składników uważanych\nalbo za trwałe, podlegające bioakumulacji i toksyczne, albo\nbardzo trwałe i podlegające bardzo silnej bioakumulacji"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.5 Wyniki oceny właściwości PBT i vPvB"
+      ],
+      "zone": "main",
+      "text": "(vPvB) na poziomie 0,1% bądź powyżej.."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.6 Właściwości zaburzające funkcjonowanie układu hormonalnego"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Właściwości zaburzające funkcjonowanie układu hormonalnego"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.6 Właściwości zaburzające funkcjonowanie układu hormonalnego"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nOcena : Ta substancja/mieszanina nie zawiera składników, o których\nuważa się, że mają właściwości endoktrynnie czynne według\nArtykułu REACH 57(f), regulacji Komisji Delegowanej (UE)\n2017/2100 lub Regulacji Komisji (UE) 20218/606 na\npoziomach 0,1% lub wyższych."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.7 Inne szkodliwe skutki działania"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Inne szkodliwe skutki działania"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 12: Informacje ekologiczne",
+        "12.7 Inne szkodliwe skutki działania"
+      ],
+      "zone": "main",
+      "text": "Produkt:\nDodatkowe informacje : Produkt nie powinien przedostawać się do sieci wodnej lub\nekologiczne kanalizacyjnej oraz gleby."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 13: Postępowanie z odpadami"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 13: Postępowanie z odpadami"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 13: Postępowanie z odpadami",
+        "13.1 Metody unieszkodliwiania odpadów"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Metody unieszkodliwiania odpadów"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 13: Postępowanie z odpadami",
+        "13.1 Metody unieszkodliwiania odpadów"
+      ],
+      "zone": "main",
+      "text": "Produkt : Usunąć niebezpieczne odpady zgodnie z przemisami\nmiejscowymi i krajowymi.\nNie usuwać razem z odpadami komunalnymi.\nWykaz sugerowanych kodów/przeznaczenia odpadów\nzgodnie z Europejskim Kodeksem Odpadów:\n07 01 04* (inne rozpuszczalniki organiczne, roztwory z\nprzemywania i ługi macierzyste)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 13: Postępowanie z odpadami",
+        "13.1 Metody unieszkodliwiania odpadów"
+      ],
+      "zone": "main",
+      "text": "Zanieczyszczone : Usunąć niebezpieczne odpady zgodnie z przemisami\nopakowanie miejscowymi i krajowymi."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 14: Informacje dotyczące transportu"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.1 Numer UN lub numer identyfikacyjny ID"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 Numer UN lub numer identyfikacyjny ID"
+    },
+    {
+      "kind": "table",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.1 Numer UN lub numer identyfikacyjny ID"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ADR",
+          ":",
+          "UN 1090"
+        ],
+        [
+          "RID",
+          ":",
+          "UN 1090"
+        ],
+        [
+          "IMDG",
+          ":",
+          "UN 1090"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.2 Prawidłowa nazwa przewozowa UN"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Prawidłowa nazwa przewozowa UN"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.2 Prawidłowa nazwa przewozowa UN"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ADR",
+          ":",
+          "ACETON"
+        ],
+        [
+          "RID",
+          ":",
+          "ACETON"
+        ],
+        [
+          "IMDG",
+          ":",
+          "ACETONE"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.3 Klasa(-y) zagrożenia w transporcie"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Klasa(-y) zagrożenia w transporcie"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.3 Klasa(-y) zagrożenia w transporcie"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "ADR",
+          ":",
+          "3"
+        ],
+        [
+          "RID",
+          ":",
+          "3"
+        ],
+        [
+          "IMDG",
+          ":",
+          "3"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Grupa pakowania"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "text": "ADR"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Grupa pakowania",
+          ":",
+          "II"
+        ],
+        [
+          "Kody klasyfikacji",
+          ":",
+          "F1"
+        ],
+        [
+          "Nr. rozpoznawczy",
+          ":",
+          "33"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "text": "zagrożenia\nNalepki : 3\nKod ograniczeń przewozu : (D/E)\nprzez tunele\nRID"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Grupa pakowania",
+          ":",
+          "II"
+        ],
+        [
+          "Kody klasyfikacji",
+          ":",
+          "F1"
+        ],
+        [
+          "Nr. rozpoznawczy",
+          ":",
+          "33"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "text": "zagrożenia\nNalepki : 3\nIMDG"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.4 Grupa pakowania"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Grupa pakowania",
+          ":",
+          "II"
+        ],
+        [
+          "Nalepki",
+          ":",
+          "3"
+        ],
+        [
+          "EmS Kod",
+          ":",
+          "F-E, S-D"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.5 Zagrożenia dla środowiska"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Zagrożenia dla środowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.5 Zagrożenia dla środowiska"
+      ],
+      "zone": "main",
+      "text": "ADR\nNiebezpieczny dla : nie\nśrodowiska\nRID\nNiebezpieczny dla : nie\nśrodowiska\nIMDG\nSubstancja mogąca : nie\nspowodować\nzanieczyszczenie morza"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.6 Szczególne środki ostrożności dla użytkowników"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Szczególne środki ostrożności dla użytkowników"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.6 Szczególne środki ostrożności dla użytkowników"
+      ],
+      "zone": "main",
+      "text": "Uwagi : Brak konkretnych instrukcji."
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.6 Szczególne środki ostrożności dla użytkowników"
+      ],
+      "zone": "main",
+      "text": "Klasyfikacja(e) transportowa(e) podana(e) tutaj jest/są tylko dla celów informacyjnych i jest/są oparte\nwyłącznie na właściwościach niezapakowanego materiału, jak opisany w niniejszej Karcie\nBezpieczeństwa Materiałowego. Klasyfikacje transportowe mogą zmieniać się zależnie od sposobu\ntransportu, rozmiarów opakowania oraz odmian legislacji regionalnych lub krajowych."
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.7 Transport morski luzem zgodnie z instrumentami IMO"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Transport morski luzem zgodnie z instrumentami IMO"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 14: Informacje dotyczące transportu",
+        "14.7 Transport morski luzem zgodnie z instrumentami IMO"
+      ],
+      "zone": "main",
+      "text": "Rodzaj statku : N/A\nKategoria zanieczyszczeń : Z"
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 15: Informacje dotyczące przepisów prawnych"
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "text": "substancji lub mieszaniny"
+    },
+    {
+      "kind": "table",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "REACH - Ograniczenia dotyczące produkcji,",
+          ":",
+          "Należy uwzględnić warunki"
+        ],
+        [
+          "wprowadzania do obrotu i stosowania niektórych",
+          "",
+          "ograniczenia dla poniższych"
+        ],
+        [
+          "niebezpiecznych substancji, mieszanin i wyrobów",
+          "",
+          "wpisów:"
+        ],
+        [
+          "(Załącznik XVII)",
+          "",
+          "Numer na liście 40, 3"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "text": "ROZPORZĄDZENIE (UE) 2019/1148 w sprawie\nwprowadzania do obrotu i stosowania prekursorów\nmateriałów wybuchowych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "text": "Produkt ten jest regulowany rozporządzeniem (UE) aceton (ZAŁĄCZNIK II)\n2019/1148: wszystkie podejrzane transakcje oraz\nznaczące przypadki zniknięcia i kradzieży powinny być\nzgłaszane właściwemu krajowemu punktowi\nkontaktowemu., Zastosowanie przemysłowe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "text": "Seveso III: Dyrektywa Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń\npoważnymi awariami związanymi z substancjami niebezpiecznymi.\nP5a/b/c CIECZE ŁATWOPALNE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.1 Przepisy prawne dotyczące bezpieczeństwa, zdrowia i ochrony środowiska specyficzne dla"
+      ],
+      "zone": "main",
+      "text": "Inne przepisy:\nPatrz Dyrektywa 94/33/EC na temat ochrony młodych osób w miejscu pracy lub surowsze\nprzepisy krajowe tam, gdzie ma to zastosowanie."
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.2 Ocena bezpieczeństwa chemicznego"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Ocena bezpieczeństwa chemicznego"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 15: Informacje dotyczące przepisów prawnych",
+        "15.2 Ocena bezpieczeństwa chemicznego"
+      ],
+      "zone": "main",
+      "text": "Ta substancja została poddana Ocenie Bezpieczeństwa Chemicznego."
+    },
+    {
+      "kind": "heading",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEKCJA 16: Inne informacje"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "EUH066 : Powtarzające się narażenie może powodować wysuszanie lub\npękanie skóry."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Pełny tekst innych skrótów"
+    },
+    {
+      "kind": "table",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "2000/39/EC",
+          ":",
+          "Dyrektywa Komisji 2000/39/WE ustanawiająca pierwszą listę indykatywnych wartości granicznych narażenia na czynniki zewnętrzne podczas pracy"
+        ],
+        [
+          "PL NDS",
+          ":",
+          "W sprawie najwyzszych dopuszczalnych stezen i natezen czynników szkodliwych dla zdrowia w srodowisku pracy"
+        ],
+        [
+          "2000/39/EC / TWA",
+          ":",
+          "Wartości dopuszczalnej- 8 godzin"
+        ],
+        [
+          "PL NDS / NDS",
+          ":",
+          "Najwyższe Dopuszczalne Stężenie"
+        ],
+        [
+          "PL NDS / NDSch",
+          ":",
+          "Najwyższe Dopuszczalne Stężenie Chwilowe"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dalsze informacje\nInne informacje : Ostatnio wprowadzone zmiany będą zaznaczone na\nmarginesie. Ta wersja zastępuje wszystkie poprzednie.\nWydawca : Borealis, Group Product Stewardship"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Żródła kluczowych danych, z : REACH Registration Dossier Acetone. P&D-REACH\nktórych skorzystano Consortium, 2024\nprzygotowując kartę\ncharakterystyki"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Zastrzeżenie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Zamieszczone tutaj dane, według naszej najlepszej wiedzy na dzień publikacji, są dokładne i\nwiarygodne, jednakże nie ponosimy żadnej odpowiedzialności za dokładność i kompletność takich\ndanych."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Firma Borealis nie daje żadnych gwarancji poza tymi opisanymi w niniejszym dokumencie.\nŻadne informacje w tym dokumencie nie będą stanowić gwarancji atrakcyjności rynkowej lub\nprzydatności dla konkretnego celu."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Nabywca jest odpowiedzialny za sprawdzenie i przetestowanie naszych produktów, czy są\none odpowiednie do określonego celu zastosowania nabywcy. Użytkownik jest\nodpowiedzialny również za stworzenie warunków bezpiecznego i legalnego używania naszych\nproduktów."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "W przypadku używania produktów Borealis razem z innymi materiałami odpowiedzialność firmy\nBorealis jest zniesiona. Informacje zawarte w niniejszej karcie mają zastosowanie jedynie do\nproduktów firmy Borealis, kiedy nie są stosowane wraz z materiałami jakiejkolwiek trzeciej strony."
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Załącznik: Scenariusze narażenia"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Spis Treści"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Zastosowania zidentyfikowane:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Wytwarzanie substancji, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Główne grupy użytkowników : SU3: Przemysłowe zastosowania\nKategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie\nzamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC2: Chemiczna produkcja lub rafinacja w procesie\nzamkniętym ciągłym z okazjonalnym kontrolowanym\nnarażeniem lub procesy o równoważnych warunkach\nzapobiegania rozprzestrzenianiu\nPROC5: Mieszanie we wsadowych procesach\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC1: Produkcja substancji\nśrodowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-1_Manufacture.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Preparowanie i (ponowne) pakowanie substancji i mieszanin, Wytwarzanie lub\nprzepakowywanie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Główne grupy użytkowników : SU3: Przemysłowe zastosowania\nKategoria chemiczna produktu : PC0: Inne\nPC1: Kleje, szczeliwa\nPC3: Produkty do ochrony powietrza\nPC4: Produkty przeciw zamarzaniu i odmrażające"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PC8: Produkty biobójcze\nPC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb\nPC9b: Wypełniacze, kity, tynki, modelina\nPC9c: Farby do malowania palcami\nPC12: Nawozy\nPC15: Produkty do pielęgnacji powierzchni niemetalowych\nPC21: Chemikalia laboratoryjne\nPC24: Środki poślizgowe, smary i produkty uwalniające\nsubstancje\nPC27: Środki ochrony roślin\nPC29: Farmaceutyki\nPC30: Środki fotochemiczne\nPC31: Środki polerujące i mieszanki woskowe\nPC32: Preparaty i związki polimerowe\nPC35: Środki myjące i czyszczące\nPC38: Produkty związane ze spawaniem i lutowaniem,\nprodukty z topnika\nPC39: Kosmetyki, środki higieny osobistej\nKategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie\nzamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC2: Chemiczna produkcja lub rafinacja w procesie\nzamkniętym ciągłym z okazjonalnym kontrolowanym\nnarażeniem lub procesy o równoważnych warunkach\nzapobiegania rozprzestrzenianiu\nPROC5: Mieszanie we wsadowych procesach\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC2: Formulacja w mieszaninę\nśrodowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-2-Formulation- or-repacking_distribution.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Główne grupy użytkowników : SU3: Przemysłowe zastosowania\nSektory zastosowania końcowego : SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "tym produktów ropy naftowej), Produkcja chemikaliów\nwysokowartościowych"
+    },
+    {
+      "kind": "table",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC21: Chemikalia laboratoryjne PC29: Farmaceutyki PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC2: Chemiczna produkcja lub rafinacja w procesie",
+          "zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC5: Mieszanie we wsadowych procesach PROC6: Operacje kalandrowania PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC15: Zastosowanie odczynnika laboratoryjnego PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC6a: Zastosowanie półproduktu",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "środowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-3-Use-at-industrial-sites_Use-of-substance-as-intermediate-Z.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 22,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w",
+          "tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC21: Chemikalia laboratoryjne PC29: Farmaceutyki PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC2: Chemiczna produkcja lub rafinacja w procesie",
+          "zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC5: Mieszanie we wsadowych procesach"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC6: Operacje kalandrowania\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC6a: Zastosowanie półproduktu\nśrodowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-4-Use-at-industrial-sites_Use-of-substance-as-intermediate-A.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 23,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w",
+          "tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC21: Chemikalia laboratoryjne PC29: Farmaceutyki PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC2: Chemiczna produkcja lub rafinacja w procesie",
+          "zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC5: Mieszanie we wsadowych procesach PROC6: Operacje kalandrowania PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC15: Zastosowanie odczynnika laboratoryjnego PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC6a: Zastosowanie półproduktu",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "środowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-5-Use-at-industrial-sites_Use-of-substance-as-intermediate-B.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Użycie jako środka pośredniego, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU8, SU9: Masowa, wielkoskalowa produkcja chemikaliów (w",
+          "tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC21: Chemikalia laboratoryjne PC29: Farmaceutyki PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC2: Chemiczna produkcja lub rafinacja w procesie",
+          "zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC5: Mieszanie we wsadowych procesach PROC6: Operacje kalandrowania PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC15: Zastosowanie odczynnika laboratoryjnego PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC6a: Zastosowanie półproduktu",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "środowiska"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-6-Use-at-industrial-sites_Use-of-substance-as-intermediate-C.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Rozpuszczalniki, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 25,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i",
+          "wyrobów z papieru, Masowa, wielkoskalowa produkcja chemikaliów (w tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC8: Produkty biobójcze PC21: Chemikalia laboratoryjne PC26: Produkty do obróbki papieru i kartonu PC27: Środki ochrony roślin PC29: Farmaceutyki PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC2: Chemiczna produkcja lub rafinacja w procesie",
+          "zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC5: Mieszanie we wsadowych procesach PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC15: Zastosowanie odczynnika laboratoryjnego PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC4: Zastosowanie niereaktywnych substancji",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "pomocniczych w obiektach przemysłowych (bez włączenia do lub na wyrobie)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-7-Use-at-industrial-sites_Use-as-solvent-during-synthesis-of-chemicals-processing-not-covered-otherwise.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w laboratoriach, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 25,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU8, SU9, SU24: Masowa, wielkoskalowa produkcja",
+          "chemikaliów (w tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych, Badania naukowo- rozwojowe"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC0: Inne PC1: Kleje, szczeliwa"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PC3: Produkty do ochrony powietrza\nPC4: Produkty przeciw zamarzaniu i odmrażające\nPC8: Produkty biobójcze\nPC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb\nPC9b: Wypełniacze, kity, tynki, modelina\nPC9c: Farby do malowania palcami\nPC12: Nawozy\nPC15: Produkty do pielęgnacji powierzchni niemetalowych\nPC21: Chemikalia laboratoryjne\nPC24: Środki poślizgowe, smary i produkty uwalniające\nsubstancje\nPC27: Środki ochrony roślin\nPC29: Farmaceutyki\nPC30: Środki fotochemiczne\nPC31: Środki polerujące i mieszanki woskowe\nPC32: Preparaty i związki polimerowe\nPC35: Środki myjące i czyszczące\nPC38: Produkty związane ze spawaniem i lutowaniem,\nprodukty z topnika\nPC39: Kosmetyki, środki higieny osobistej\nPC40: Środki do ekstrakcji\nKategorie procesu : PROC10: Nakładanie pędzlem lub wałkiem\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC19: Działania ręczne obejmujące kontakt z dłońmi\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC4: Zastosowanie niereaktywnych substancji\nśrodowiska pomocniczych w obiektach przemysłowych (bez włączenia do\nlub na wyrobie)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-8-Use-at-industrial-sites_Use-in-laboratories.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w powłokach, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 26,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU0, SU15, SU16, SU17, SU18: Inne, Produkcja metalowych",
+          "wyrobów gotowych, z wyłączeniem maszyn i urządzeń, Produkcja komputerów, wyrobów elektronicznych i optycznych, produkcja urządzeń elektrycznych, Produkcja ogólna, np. maszyn, urządzeń, pojazdów, innych urządzeń transportowych, Produkcja mebli"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC1: Kleje, szczeliwa"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb\nPC9b: Wypełniacze, kity, tynki, modelina\nPC9c: Farby do malowania palcami\nKategorie procesu : PROC1: Produkcja chemiczna lub rafineryjna w procesie\nzamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC2: Chemiczna produkcja lub rafinacja w procesie\nzamkniętym ciągłym z okazjonalnym kontrolowanym\nnarażeniem lub procesy o równoważnych warunkach\nzapobiegania rozprzestrzenianiu\nPROC3: Wytwarzanie lub formulacja w przemyśle\nchemicznym w zamkniętych procesach wsadowych ze\nsporadycznym, kontrolowanym narażeniem lub procesy o\nrównoważnych warunkach zabezpieczenia\nPROC4: Produkcja chemiczna w której powstaje możliwość\nnarażenia\nPROC5: Mieszanie we wsadowych procesach\nPROC7: Napylanie przemysłowe\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC13: Traktowanie wyrobów przemysłowychpoprzez\nzamaczanie lub zalewanie\nPROC14: Tabletkowanie, prasowanie, wyciskanie,\ngrudkowanie, granulowanie\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC19: Działania ręczne obejmujące kontakt z dłońmi\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC4: Zastosowanie niereaktywnych substancji\nśrodowiska pomocniczych w obiektach przemysłowych (bez włączenia do\nlub na wyrobie)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base -Chemicals/Acetone/Exposure-Scenarios/ES-9-Use-at-industrial-sites_Use-in-coatings_adhesives.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w środkach wiążących i rozdzielających, Zastosowanie w obiektach\nprzemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 28,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU3: Przemysłowe zastosowania"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC6: Operacje kalandrowania PROC7: Napylanie przemysłowe PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC9: Przenoszenie substancji lub mieszaniny do małych pojemników (przeznaczoną do tego celu linią do napełniania wraz z ważeniem) PROC10: Nakładanie pędzlem lub wałkiem PROC13: Traktowanie wyrobów przemysłowychpoprzez zamaczanie lub zalewanie PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ": ERC5: Stosowanie w obiektach przemysłowych"
+        ],
+        [
+          "środowiska",
+          "prowadzących do włączenia do wyrobu lub na niego"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-10-Use-at-industrial-sites_-Use-as-binder-or-release-agent.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w produkcji i przetwarzaniu gumy, Zastosowanie w obiektach\nprzemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 28,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU3: Przemysłowe zastosowania"
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU11: Produkcja wyrobów z gumy"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "zamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC2: Chemiczna produkcja lub rafinacja w procesie\nzamkniętym ciągłym z okazjonalnym kontrolowanym\nnarażeniem lub procesy o równoważnych warunkach\nzapobiegania rozprzestrzenianiu\nPROC3: Wytwarzanie lub formulacja w przemyśle\nchemicznym w zamkniętych procesach wsadowych ze\nsporadycznym, kontrolowanym narażeniem lub procesy o\nrównoważnych warunkach zabezpieczenia\nPROC4: Produkcja chemiczna w której powstaje możliwość\nnarażenia\nPROC5: Mieszanie we wsadowych procesach\nPROC6: Operacje kalandrowania\nPROC7: Napylanie przemysłowe\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC13: Traktowanie wyrobów przemysłowychpoprzez\nzamaczanie lub zalewanie\nPROC14: Tabletkowanie, prasowanie, wyciskanie,\ngrudkowanie, granulowanie\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC6d: Zastosowanie reaktywnych regulatorów procesu w\nśrodowiska procesie polimeryzacji w obiekcie przemysłowym (z\nwłączeniem lub bez do wyrobu lub na niego)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-11-Use-at-industrial-sites_Rubber-production-and-processing.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w produkcji polimerów, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 29,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU12: Produkcja wyrobów z tworzyw sztucznych, w tym",
+          "sporządzanie mieszanek i konwersja"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC32: Preparaty i związki polimerowe"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "zamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC2: Chemiczna produkcja lub rafinacja w procesie\nzamkniętym ciągłym z okazjonalnym kontrolowanym\nnarażeniem lub procesy o równoważnych warunkach\nzapobiegania rozprzestrzenianiu\nPROC3: Wytwarzanie lub formulacja w przemyśle\nchemicznym w zamkniętych procesach wsadowych ze\nsporadycznym, kontrolowanym narażeniem lub procesy o\nrównoważnych warunkach zabezpieczenia\nPROC4: Produkcja chemiczna w której powstaje możliwość\nnarażenia\nPROC5: Mieszanie we wsadowych procesach\nPROC6: Operacje kalandrowania\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszcze niach przeznaczonych\ndo tego celu\nPROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC13: Traktowanie wyrobów przemysłowychpoprzez\nzamaczanie lub zalewanie\nPROC14: Tabletkowanie, prasowanie, wyciskanie,\ngrudkowanie, granulowanie\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC6d: Zastosowanie reaktywnych regulatorów procesu w\nśrodowiska procesie polimeryzacji w obiekcie przemysłowym (z\nwłączeniem lub bez do wyrobu lub na niego)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base -Chemicals/Acetone/Exposure-Scenarios/ES-12-Use-at-industrial-sites_Polymer-manufacturing.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w przetwarzaniu polimerów, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 30,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU12: Produkcja wyrobów z tworzyw sztucznych, w tym",
+          "sporządzanie mieszanek i konwersja"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC32: Preparaty i związki polimerowe"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "zamkniętym bez prawdopodobieństwa narażenia lub procesy\no równoważnych warunkach zabezpieczenia.\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC6d: Zastosowanie reaktywnych regulatorów procesu w\nśrodowiska procesie polimeryzacji w obiekcie przemysłowym (z\nwłączeniem lub bez do wyrobu lub na niego)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-13-Use-at-industrial-sites_Polymer-processing.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w środkach do czyszczenia, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 31,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU3: Przemysłowe zastosowania"
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i wyrobów z papieru, Masowa, wielkoskalowa produkcja chemikaliów (w tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":  PC8: Produkty biobójcze PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb PC21: Chemikalia laboratoryjne PC26: Produkty do obróbki papieru i kartonu PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC7: Napylanie przemysłowe PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC13: Traktowanie wyrobów przemysłowychpoprzez\nzamaczanie lub zalewanie\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC19: Działania ręczne obejmujące kontakt z dłońmi\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC4: Zastosowanie niereaktywnych substancji\nśrodowiska pomocniczych w obiektach przemysłowych (bez włączenia do\nlub na wyrobie)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-14-Use-at-industrial-sites_Use-in-or-as-cleaning-agent.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Wykonywanie odwiertów naftowych i operacje związane z produkcją (w tym\nczyszczenie płuczki wiertniczej i odwiertu), z uwzględnieniem transferu materiałów, formowania na\nmiejscu, operacji przy głowicy odwiertu, czynności związanych z wstrząsarką oraz powiązanych\nczynności konserwacyjnych., Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 32,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU2a, SU2b: Górnictwo i wydobywanie (wyłączając górnictwo",
+          "morskie), Górnictwo morskie"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC8: Produkty biobójcze PC35: Środki myjące i czyszczące PC41: Wyroby do poszukiwania lub wydobycia ropy i gazu"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "chemicznym w zamkniętych procesa ch wsadowych ze\nsporadycznym, kontrolowanym narażeniem lub procesy o\nrównoważnych warunkach zabezpieczenia\nPROC4: Produkcja chemiczna w której powstaje możliwość\nnarażenia\nPROC8a: Przenoszenie substancji lub mieszanin"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC4: Zastosowanie niereaktywnych substancji\nśrodowiska pomocniczych w obiektach przemysłowych (bez włączenia do\nlub na wyrobie)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-15-Use-at-industrial-sites_Use-in-oil-field-drilling-and-production-operations.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w środkach porotwórczych, Zastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 33,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU0, SU5, SU16, SU17, SU18, SU19: Inne, Produkcja",
+          "wyrobów włókienniczych, skór, futer, Produkcja komputerów, wyrobów elektronicznych i optycznych, produkcja urządzeń elektrycznych, Produkcja ogólna, np. maszyn, urządzeń, pojazdów, innych urządzeń transportowych, Produkcja mebli, Budownictwo i roboty budowlane"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC32: Preparaty i związki polimerowe"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC9: Przenoszenie substancji lub mieszaniny do małych pojemników (przeznaczoną do tego celu linią do napełniania wraz z ważeniem) PROC12: Zastosowanie środków porotwórczychw wytwarzaniu pian PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "przeznaczonych do tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC4: Zastosowanie niereaktywnych substancji\nśrodowiska pomocniczych w obiektach przemysłowych (bez włączenia do\nlub na wyrobie)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-16-Use-at-industrial-sites-_-Blowing-agents.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w substancjach chemicznych wykorzystywanych w górnictwie,\nZastosowanie w obiektach przemysłowych"
+    },
+    {
+      "kind": "table",
+      "page": 34,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU3: Przemysłowe zastosowania",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU2a: Górnictwo i wydobywanie (wyłączając górnictwo",
+          "morskie)"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC40: Środki do ekstrakcji"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC9: Przenoszenie substancji lub mieszaniny do małych pojemników (przeznaczoną do tego celu linią do napełniania wraz z ważeniem) PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ": ERC4: Zastosowanie niereaktywnych substancji",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "pomocniczych w obiektach przemysłowych (bez włączenia do lub na wyrobie)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-17-Use-at-industrial-sites-Mining-chemicals.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w laboratoriach, Powszechne zastosowanie przez pracowników\nprofesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 35,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU8, SU9, SU24: Masowa, wielkoskalowa produkcja",
+          "chemikaliów (w tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych, Badania naukowo- rozwojowe"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC1: Kleje, szczeliwa PC3: Produkty do ochrony powietrza PC4: Produkty przeciw zamarzaniu i odmrażające PC8: Produkty biobójcze PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb PC9b: Wypełniacze, kity, tynki, modelina PC9c: Farby do malowania palcami PC12: Nawozy PC15: Produkty do pielęgnacji powierzchni niemetalowych PC21: Chemikalia laboratoryjne PC24: Środki poślizgowe, smary i produkty uwalniające substancje PC27: Środki ochrony roślin PC29: Farmaceutyki PC30: Środki fotochemiczne PC31: Środki polerujące i mieszanki woskowe PC32: Preparaty i związki polimerowe PC35: Środki myjące i czyszczące PC38: Produkty związane ze spawaniem i lutowaniem, produkty z topnika PC39: Kosmetyki, środki higieny osobistej PC40: Środki do ekstrakcji"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC10: Nakładanie pędzlem lub wałkiem",
+          "PROC15: Zastosowanie odczynnika laboratoryjnego PROC19: Działania ręczne obejmujące kontakt z dłońmi PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC8a: Powszechne zastosowanie niereaktywnych",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "substancji pomocniczych (bez włączenia do wyrobu lub na niego, w pomieszczeniach)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-18-Widespread-use-by-professional-workers-Use-in-laboratories.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w powłokach, Powszechne zastosowanie przez pracowników\nprofesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 36,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU0, SU15, SU16, SU17, SU18, SU6a: Inne, Produkcja",
+          "metalowych wyrobów gotowych, z wyłączeniem maszyn i urządzeń, Produkcja komputerów, wyrobów elektronicznych i optycznych, produkcja urządzeń elektrycznych, Produkcja ogólna, np. maszyn, urządzeń, pojazdów, innych urządzeń transportowych, Produkcja mebli, Produkcja drewna i wyrobów z drewna"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC1: Kleje, szczeliwa PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb PC9b: Wypełniacze, kity, tynki, modelina PC9c: Farby do malowania palcami"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC9: Przenoszenie substancji lub mieszaniny do małych pojemników (przeznaczoną do tego celu linią do napełniania wraz z ważeniem) PROC10: Nakładanie pędzlem lub wałkiem PROC11: Napylanie nieprzemysłowe PROC13: Traktowanie wyrobów przemysłowychpoprzez"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 37,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "zamaczanie lub zalewanie\nPROC15: Zastosowanie odczynnika laboratoryjnego\nPROC19: Działania ręczne obejmujące kontakt z dłońmi\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8d, ERC8a, ERC8f, ERC8c: Powszechne zastosowanie\nśrodowiska niereaktywnych substancji pomocniczych (bez włączenia do\nwyrobu lub na niego, poza pomieszczeniami), Powszechne\nzastosowanie niereaktywnych substancji pomocniczych (bez\nwłączenia do wyrobu lub na niego, w pomieszczeniach),\nPowszechne zastosowanie prowadzące do włączenia do\nwyrobu lub na niego (poza pomieszczeniami), Powszechne\nzastosowanie prowadzące do włączenia do wyrobu lub na\nniego (w pomieszczeniach)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 37,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-19-Widespread-use-by-professional-workers_Use-in-coatings-adhesives.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 37,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w środkach wiążących i rozdzielających, Powszechne zastosowanie\nprzez pracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 37,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC24: Środki poślizgowe, smary i produkty uwalniające substancje"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC6: Operacje kalandrowania PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC11: Napylanie nieprzemysłowe\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8d, ERC8a, ERC8e, ERC8b, ERC8f, ERC8c:\nśrodowiska Powszechne zastosowanie niereaktywnych substancji\npomocniczych (bez włączenia do wyrobu lub na niego, poza\npomieszczeniami), Powszechne zastosowanie\nniereaktywnych substancji pomocniczych (bez włączenia do\nwyrobu lub na niego, w pomieszczeniach), Powszechne\nzastosowanie reaktywnych substancji pomocniczych (bez\nwłączenia do wyrobu lub na niego, poza pomieszczeniami),\nPowszechne zastosowanie reaktywnych substancji\npomocniczych (bez włączenia do wyrobu lub na niego, w\npomieszczeniach), Powszechne zastosowanie prowadzące do\nwłączenia do wyrobu lub na niego (poza pomieszczeniami),\nPowszechne zastosowanie prowadzące do włączenia do\nwyrobu lub na niego (w pomieszczeniach)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-20-Widespread-use-by-professional-workers-Use-as-binder-release-agent.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 38,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w produkcji polimerów, Powszechne zastosowanie przez pracowników\nprofesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 38,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU12: Produkcja wyrobów z tworzyw sztucznych, w tym",
+          "sporządzanie mieszanek i konwersja"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC32: Preparaty i związki polimerowe"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC14: Tabletkowanie, prasowanie, wyciskanie,\ngrudkowanie, granulowanie\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8d, ERC8a, ERC8f: Powszechne zastosowanie\nśrodowiska niereaktywnych substancji pomocniczych (bez włączenia do\nwyrobu lub na niego, poza pomieszczeniami), Powszechne\nzastosowanie niereaktywnych substancji pomocniczych (bez\nwłączenia do wyrobu lub na niego, w pomieszczeniach),\nPowszechne zastosowanie prowadzące do włączenia do\nwyrobu lub na niego (poza pomieszczeniami)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-21-Widespread-use-by-professional-workers_Polymer-manufacturing.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 39,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w przetwarzaniu polimerów, Powszechne zastosowanie przez\npracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 39,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU12: Produkcja wyrobów z tworzyw sztucznych, w tym",
+          "sporządzanie mieszanek i konwersja"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC32: Preparaty i związki polimerowe"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC9: Przenoszenie substancji lub mieszaniny do małych pojemników (przeznaczoną do tego celu linią do napełniania wraz z ważeniem) PROC14: Tabletkowanie, prasowanie, wyciskanie, grudkowanie, granulowanie PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Kategorie uwalniania do : ERC8d, ERC8a, ERC8f: Powszechne zastosowanie\nśrodowiska niereaktywnych substancji pomocniczych (bez włączenia do\nwyrobu lub na niego, poza pomieszczeniami), Powszechne\nzastosowanie niereaktywnych substancji pomocniczych (bez\nwłączenia do wyrobu lub na niego, w pomieszczeniach),\nPowszechne zastosowanie prowadzące do włączenia do\nwyrobu lub na niego (poza pomieszczeniami)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-22-Widespread-use-by-professional-workers_Polymer-processing.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 40,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w środkach do czyszczenia, Powszechne zastosowanie przez\npracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 40,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU6b, SU8, SU9: Produkcja masy włóknistej, papieru i",
+          "wyrobów z papieru, Masowa, wielkoskalowa produkcja chemikaliów (w tym produktów ropy naftowej), Produkcja chemikaliów wysokowartościowych"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC8: Produkty biobójcze PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb PC21: Chemikalia laboratoryjne PC26: Produkty do obróbki papieru i kartonu PC30: Środki fotochemiczne PC35: Środki myjące i czyszczące"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC5: Mieszanie we wsadowych procesach PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC9: Przenoszenie substancji lub mieszaniny do małych\npojemników (przeznaczoną do tego celu linią do napełniania\nwraz z ważeniem)\nPROC10: Nakładanie pędzlem lub wałkiem\nPROC11: Napylanie nieprzemysłowe\nPROC13: Traktowanie wyrobów przemysłowychpoprzez\nzamaczanie lub zalewanie\nPROC19: Działania ręczne obejmujące kontakt z dłońmi\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8a: Powszechne zastosowanie niereaktywnych\nśrodowiska substancji pomocniczych (bez włączenia do wyrobu lub na\nniego, w pomieszczeniach)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-23-Widespread-use-by-professional-workers_Use-in-or-as-cleaning-agents.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 41,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Wykonywanie odwiertów naftowych i operacje związane z produkcją (w tym\nczyszczenie płuczki wiertniczej i odwiertu), z uwzględnieniem transferu materiałów, formowania na\nmiejscu, operacji przy głowicy odwiertu, czynności związanych z wstrząsarką oraz powiązanych\nczynności konserwacyjnych., Powszechne zastosowanie przez pracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 41,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ":  SU2a, SU2b: Górnictwo i wydobywanie (wyłączając górnictwo",
+          "morskie), Górnictwo morskie"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC8: Produkty biobójcze PC35: Środki myjące i czyszczące PC41: Wyroby do poszukiwania lub wydobycia ropy i gazu"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC3: Wytwarzanie lub formulacja w przemyśle chemicznym w zamkniętych procesach wsadowych ze sporadycznym, kontrolowanym narażeniem lub procesy o równoważnych warunkach zabezpieczenia PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8d: Powszechne zastosowanie niereaktywnych\nśrodowiska substancji pomocniczych (bez włączenia do wyrobu lub na\nniego, poza pomieszczeniami)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-24-Widespread-use-by-professional-workers_Use-in-oil-field-drilling-and-production-operations.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 42,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w produktach agrochemicznych, Powszechne zastosowanie przez\npracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 42,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ": SU22: Zastosowania profesjonalne"
+        ],
+        [
+          "Sektory zastosowania końcowego",
+          ": SU1: Rolnictwo, leśnictwo i rybactwo"
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":  PC12: Nawozy PC27: Środki ochrony roślin PC8: Produkty biobójcze"
+        ],
+        [
+          "Kategorie procesu",
+          ": PROC1: Produkcja chemiczna lub rafineryjna w procesie zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC4: Produkcja chemiczna w której powstaje możliwość narażenia PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC11: Napylanie nieprzemysłowe PROC13: Traktowanie wyrobów przemysłowychpoprzez zamaczanie lub zalewanie PROC19: Działania ręczne obejmujące kontakt z dłońmi PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC8d, ERC8a: Powszechne zastosowanie niereaktywnych"
+        ],
+        [
+          "środowiska",
+          "substancji pomocniczych (bez włączenia do wyrobu lub na niego, poza pomieszczeniami), Powszechne zastosowanie niereaktywnych substancji pomocniczych (bez włączenia do wyrobu lub na niego, w pomieszczeniach)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-25-Widespread-use-by-professional-workers-Agrochemical-uses.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w płynach do odladzania i zapobiegających powstawaniu lodu,\nPowszechne zastosowanie przez pracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC4: Produkty przeciw zamarzaniu i odmrażające"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia. PROC2: Chemiczna produkcja lub rafinacja w procesie zamkniętym ciągłym z okazjonalnym kontrolowanym narażeniem lub procesy o równoważnych warunkach zapobiegania rozprzestrzenianiu PROC8b: Przenoszenie substancji lub mieszaniny (załadunek/rozładunek) w pomieszczeniach przeznaczonych do tego celu PROC11: Napylanie nieprzemysłowe PROC19: Działania ręczne obejmujące kontakt z dłońmi PROC8a: Przenoszenie substancji lub mieszanin (załadunek/rozładunek) w pomieszczeniach nie przeznaczonych do tego celu PROC28: Ręczna konserwacja (czyszczenie i naprawa) maszyn"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC8d: Powszechne zastosowanie niereaktywnych",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "substancji pomocniczych (bez włączenia do wyrobu lub na niego, poza pomieszczeniami)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-26-Widespread-use-by-professional-workers_De-icing-and-anti-icing-applications.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Zastosowanie w materiałach wybuchowych, Powszechne zastosowanie przez\npracowników profesjonalnych"
+    },
+    {
+      "kind": "table",
+      "page": 43,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU22: Zastosowania profesjonalne",
+          ""
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC11: Środki wybuchowe"
+        ],
+        [
+          "Kategorie procesu",
+          ":  PROC1: Produkcja chemiczna lub rafineryjna w procesie",
+          "zamkniętym bez prawdopodobieństwa narażenia lub procesy o równoważnych warunkach zabezpieczenia."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 44,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "PROC3: Wytwarzanie lub formulacja w przemyśle\nchemicznym w zamkniętych procesach wsadowych ze\nsporadycznym, kontrolowanym narażeniem lub procesy o\nrównoważnych warunkach zabezpieczenia\nPROC5: Mieszanie we wsadowych procesach\nPROC8a: Przenoszenie substancji lub mieszanin\n(załadunek/rozładunek) w pomieszczeniach nie\nprzeznaczonych do tego celu\nPROC8b: Przenoszenie substancji lub mieszaniny\n(załadunek/rozładunek) w pomieszczeniach przeznaczonych\ndo tego celu\nPROC28: Ręczna konserwacja (czyszczenie i naprawa)\nmaszyn\nKategorie uwalniania do : ERC8d: Powszechne zastosowanie niereaktywnych\nśrodowiska substancji pomocniczych (bez włączenia do wyrobu lub na\nniego, poza pomieszczeniami)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 44,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-27-Widespread-use-by-professional-workers_Explosives-manufacture-and-use.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 44,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Konsument, Stosowanie przez konsumentów"
+    },
+    {
+      "kind": "table",
+      "page": 44,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU21: Zastosowania użytkowe",
+          ""
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "PC1: Kleje, szczeliwa PC3: Produkty do ochrony powietrza PC4: Produkty przeciw zamarzaniu i odmrażające PC8: Produkty biobójcze PC9a: Powłoki i farby, rozcieńczalniki, zmywacze do farb PC9b: Wypełniacze, kity, tynki, modelina PC9c: Farby do malowania palcami PC15: Produkty do pielęgnacji powierzchni niemetalowych PC16: Płyny przewodzące ciepło PC24: Środki poślizgowe, smary i produkty uwalniające substancje PC27: Środki ochrony roślin PC29: Farmaceutyki PC31: Środki polerujące i mieszanki woskowe PC35: Środki myjące i czyszczące PC38: Produkty związane ze spawaniem i lutowaniem, produkty z topnika PC39: Kosmetyki, środki higieny osobistej"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC8d, ERC8a: Powszechne zastosowanie niereaktywnych",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "substancji pomocniczych (bez włączenia do wyrobu lub na niego, poza pomieszczeniami), Powszechne zastosowanie niereaktywnych substancji pomocniczych (bez włączenia do"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 45,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "wyrobu lub na niego, w pomieszczeniach)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 45,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-28-Consumer-use_Consumer-uses.pdf"
+    },
+    {
+      "kind": "paragraph",
+      "page": 45,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Stosowanie: Produkcja przedmiotów na bazie form spienionych, Okres użytkowania – konsumenci"
+    },
+    {
+      "kind": "table",
+      "page": 45,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Główne grupy użytkowników",
+          ":  SU21: Zastosowania użytkowe",
+          ""
+        ],
+        [
+          "Kategoria chemiczna produktu",
+          ":",
+          "AC0: Inne"
+        ],
+        [
+          "Kategorie artykułu",
+          ":",
+          "AC 0: Inne artykuły"
+        ],
+        [
+          "Kategorie uwalniania do",
+          ":  ERC10a, ERC11a: Powszechne zastosowanie wyrobów o",
+          ""
+        ],
+        [
+          "środowiska",
+          "",
+          "niskim stopniu uwalniania (poza pomieszczeniami), Powszechne zastosowanie wyrobów o niskim stopniu uwalniania (w pomieszczeniach)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 45,
+      "section_path": [
+        "SEKCJA 16: Inne informacje"
+      ],
+      "zone": "main",
+      "text": "Dodatkowe informacje osiągalne z:\nhttps://www.borealisgroup.com/storage/Base-Chemicals/Acetone/Exposure-Scenarios/ES-29-Service-life-consumers-Articles-containing-foam.pdf"
+    }
+  ]
+}

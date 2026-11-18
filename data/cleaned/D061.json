@@ -1,0 +1,1371 @@
+{
+  "doc_id": "D061",
+  "format": "pdf",
+  "page_count": 8,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "02a46848a982b863845274bb4f641c5a609fa7170c258bbfc82e9a685b74ac40",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Scheda di dati di sicurezza"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "ai sensi del regolamento 1907/2006/CE, Articolo 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Stampato il: 05.05.2025 Revisione: 05.05.2025Numero versione 9 (sostituisce la versione 8)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.1 Identificatore del prodotto"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Identificatore del prodotto"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.1 Identificatore del prodotto"
+      ],
+      "zone": "main",
+      "text": "Denominazione commerciale: OTTOSEAL S 100"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati"
+      ],
+      "zone": "main",
+      "text": "Utilizzazione della Sostanza / del Preparato Materia sigillante al silicone\nUsi sconsigliati Osservare le informazioni contenute nella scheda tecnica"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.3 Informazioni sul fornitore della scheda di dati di sicurezza"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Informazioni sul fornitore della scheda di dati di sicurezza"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.3 Informazioni sul fornitore della scheda di dati di sicurezza"
+      ],
+      "zone": "main",
+      "text": "Produttore/fornitore:\nHermann Otto GmbH\nKrankenhausstraße 14\nD-83413 Fridolfing\nTel.: 0049/(0)8684/908-0\nFax.: 0049/(0)8684/908-1840\nInformazioni fornite da:\nTel.: 0049- (0)8684- 908- 2363 ( -4300 )\nE-Mail: msds@otto-chemie.de"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.4 Numero telefonico di emergenza:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Numero telefonico di emergenza:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.4 Numero telefonico di emergenza:"
+      ],
+      "zone": "main",
+      "text": "800 699 792 (Carechem 24)\nCAV Centro Nazionale di Informazione Tossicologica: 27100 0382-24444"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "1.4 Numero telefonico di emergenza:"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SEZIONE 2: Identificazione dei pericoli",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.1 Classificazione della sostanza o della miscela"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Classificazione della sostanza o della miscela"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.1 Classificazione della sostanza o della miscela"
+      ],
+      "zone": "main",
+      "text": "Classificazione secondo il regolamento (CE) n. 1272/2008\nIl prodotto non è classificato conformemente al regolamento CLP."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.2 Elementi dell’etichetta"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Elementi dell’etichetta"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.2 Elementi dell’etichetta"
+      ],
+      "zone": "main",
+      "text": "Etichettatura secondo il regolamento (CE) n. 1272/2008 vien meno\nPittogrammi di pericolo vien meno\nAvvertenza vien meno\nIndicazioni di pericolo vien meno\nUlteriori dati:\nDurante la lavorazione e l'indurimento, è necessario garantire una buona ventilazione.\nContiene la sostanza attiva biocide 2-ottil-2H-isotiazol-3-one come protezione contro la muffa.\nConservare fuori della portata dei bambini.\nEvitare il contatto con la pelle.\nEUH208 Contiene 2-ottil-2H-isotiazol-3-one. Può provocare una reazione allergica.\nEUH210 Scheda dati di sicurezza disponibile su richiesta."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.3 Altri pericoli"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Altri pericoli"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.3 Altri pericoli"
+      ],
+      "zone": "main",
+      "text": "Durante la lavorazione e l'indurimento del materiale, le sostanze chimiche vengono rilasciate\nnell'aria (vedere punto 11). Pertanto, è necessario garantire una buona ventilazione dell'ambiente e,\nse necessario, una ventilazione di scarico.\nRisultati della valutazione PBT e vPvB\nPBT: Non applicabile.\nvPvB: Non applicabile.\nDeterminazione delle proprietà di interferenza con il sistema endocrino\nQuesto prodotto non contiene componenti che sono interferenti endocrini secondo l'articolo 57(f) del\nregolamento REACH o il regolamento delegato (UE) 2017/2100 della Commissione o il regolamento\ndelegato (UE) 2018/605 della Commissione in quantità pari o superiore allo 0,1%."
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "2.3 Altri pericoli"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SEZIONE 3: Composizione/informazioni sugli ingredienti",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "3.2 Miscele"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Miscele"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "3.2 Miscele"
+      ],
+      "zone": "main",
+      "text": "Descrizione: Polidimetilsilossano, materiali riempitivi, materiali ausiliari e acetossireticolatori\nSostanze pericolose:\nCAS: 17689-77-9 ethyltriacetoxysilane <5%\nEINECS: 241-677-4 Skin Corr. 1B, H314; Acute Tox. 4, H302, EUH014\nReg.nr.: 01-2119881778-15-xxxx"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa",
+        "3.2 Miscele"
+      ],
+      "zone": "main",
+      "text": "CAS: 26530-20-1 2-ottil-2H-isotiazol-3-one <0,1%\nEINECS: 247-761-7 Acute Tox. 3, H301; Acute Tox. 3, H311; Acute Tox. 2,\nH330; Skin Corr. 1, H314; Eye Dam. 1, H318;\nAquatic Acute 1, H400 (M=100); Aquatic Chronic 1,\nH410 (M=100); Skin Sens. 1A, H317, EUH071\nATE: LD50 orale: 125 mg/kg\nLD50 cutaneo: 311 mg/kg\nLC50/4 h per inalazione: 0,27 mg/l\nLimite di concentrazione specifico:\nSkin Sens. 1A; H317: C≥ 0,0015 %\nUlteriori indicazioni:\nIl testo dell'avvertenza dei pericoli citati può essere appreso dal capitolo 16\nLe materie prime particellari a rischio di inalazione sono indissolubilmente legate al prodotto e\npertanto non comportano la classificazione del prodotto per i rischi di inalazione. A causa delle\nproprietà fisiche del prodotto, l'esposizione all'inalazione di particolato non è possibile."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 4: Misure di primo soccorso"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso",
+        "4.1 Descrizione delle misure di primo soccorso"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Descrizione delle misure di primo soccorso"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso",
+        "4.1 Descrizione delle misure di primo soccorso"
+      ],
+      "zone": "main",
+      "text": "Indicazioni generali: Portare le persone da soccorrere all'aria aperta.\nInalazione:\nPortare in zona ben areata, praticare eventualmente la respirazione artificiale, tenere al caldo. Se i\ndisturbi persistono consultare il medico.\nContatto con la pelle:\nLavare immediatamente con acqua e sapone sciacquando accuratamente.\nIn caso di irritazioni cutanee persistenti consultare il medico.\nContatto con gli occhi\nLavare con acqua corrente per diversi minuti tenendo le palpebre ben aperte e consultare il medico.\nIngestione: Non provocare il vomito, chiamare subito il medico."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso",
+        "4.2 Principali sintomi ed effetti, sia acuti che ritardati Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Principali sintomi ed effetti, sia acuti che ritardati Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso",
+        "4.3 Indicazione dell’eventuale necessità di consultare immediatamente un medico e di"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Indicazione dell’eventuale necessità di consultare immediatamente un medico e di"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 4: Misure di primo soccorso",
+        "4.3 Indicazione dell’eventuale necessità di consultare immediatamente un medico e di"
+      ],
+      "zone": "main",
+      "text": "trattamenti speciali\nNon sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 5: Misure di lotta antincendio"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.1 Mezzi di estinzione"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Mezzi di estinzione"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.1 Mezzi di estinzione"
+      ],
+      "zone": "main",
+      "text": "Mezzi di estinzione idonei:\nCO2, polvere o acqua nebulizzata. Estinguere gli incendi di grosse dimensioni con acqua\nnebulizzata o con schiuma resistente all'alcool."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.2 Pericoli speciali derivanti dalla sostanza o dalla miscela"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Pericoli speciali derivanti dalla sostanza o dalla miscela"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.2 Pericoli speciali derivanti dalla sostanza o dalla miscela"
+      ],
+      "zone": "main",
+      "text": "Se riscaldato o in caso di incendio il prodotto può sviluppare fumi tossici."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.3 Raccomandazioni per gli addetti all’estinzione degli incendi"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Raccomandazioni per gli addetti all’estinzione degli incendi"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 5: Misure di lotta antincendio",
+        "5.3 Raccomandazioni per gli addetti all’estinzione degli incendi"
+      ],
+      "zone": "main",
+      "text": "Mezzi protettivi specifici:\nIndossare il respiratore\nNon inalare i gas derivanti da esplosioni e incendi."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 6: Misure in caso di rilascio accidentale"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.1 Precauzioni personali, dispositivi di protezione e procedure in caso di emergenza"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Precauzioni personali, dispositivi di protezione e procedure in caso di emergenza"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.1 Precauzioni personali, dispositivi di protezione e procedure in caso di emergenza"
+      ],
+      "zone": "main",
+      "text": "Indossare equipaggiamento protettivo. Allontanare le persone non equipaggiate.\nGarantire una ventilazione sufficiente."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.2 Precauzioni ambientali:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Precauzioni ambientali:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.2 Precauzioni ambientali:"
+      ],
+      "zone": "main",
+      "text": "Impedire infiltrazioni nella fognatura/nelle acque superficiali/nelle acque freatiche."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.3 Metodi e materiali per il contenimento e per la bonifica:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Metodi e materiali per il contenimento e per la bonifica:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.3 Metodi e materiali per il contenimento e per la bonifica:"
+      ],
+      "zone": "main",
+      "text": "Smaltimento del materiale contaminato conformemente al punto 13"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.4 Riferimento ad altre sezioni"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Riferimento ad altre sezioni"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 6: Misure in caso di rilascio accidentale",
+        "6.4 Riferimento ad altre sezioni"
+      ],
+      "zone": "main",
+      "text": "Per informazioni relative all'equipaggiamento protettivo ad uso personale vedere Capitolo 8."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 7: Manipolazione e immagazzinamento"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento",
+        "7.1 Precauzioni per la manipolazione sicura"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Precauzioni per la manipolazione sicura"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento",
+        "7.1 Precauzioni per la manipolazione sicura"
+      ],
+      "zone": "main",
+      "text": "Accurata ventilazione/aspirazione nei luoghi di lavoro.\nvedere punto 8: Mezzi protettivi individuali"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento",
+        "7.2 Condizioni per lo stoccaggio sicuro, comprese eventuali incompatibilità"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Condizioni per lo stoccaggio sicuro, comprese eventuali incompatibilità"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento",
+        "7.2 Condizioni per lo stoccaggio sicuro, comprese eventuali incompatibilità"
+      ],
+      "zone": "main",
+      "text": "Stoccaggio:\nRequisiti dei magazzini e dei recipienti: Assicurare il pavimento contro infiltrazioni.\nIndicazioni sullo stoccaggio misto: Non conservare a contatto con alimenti.\nUlteriori indicazioni relative alle condizioni di immagazzinamento:\nConservare in luogo fresco e asciutto in fusti ben chiusi.\nProteggere dal calore e dai raggi diretti del sole."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 7: Manipolazione e immagazzinamento",
+        "7.3 Usi finali particolari Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Usi finali particolari Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 8: Controlli dell’esposizione/della protezione individuale"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 8: Controlli dell’esposizione/della protezione individuale"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 8: Controlli dell’esposizione/della protezione individuale",
+        "8.1 Parametri di controllo"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Parametri di controllo"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 8: Controlli dell’esposizione/della protezione individuale",
+        "8.1 Parametri di controllo"
+      ],
+      "zone": "main",
+      "text": "Componenti i cui valori limite devono essere tenuti sotto controllo negli ambienti di lavoro\nDNEL\n17689-77-9 ethyltriacetoxysilane\nPer inalazione Lavoratore, locale (lunga durata) 32,5 mg/m3 (rat)\nConsumatore, locale (acuto) 65 mg/m3 (rat)\nConsumatore, locale (lunga durata) 10,8 mg/m3 (rat)\nNumero CAS della sostanza % tipo valore unità\nValori limiti d'esposizione addizionali per pericoli possibili durante la lavorazione:\n64-19-7 acido acetico\nTWA Valore a breve termine: 37 mg/m³, 15 ppm\nValore a lungo termine: 25 mg/m³, 10 ppm\nVL Valore a breve termine: 50 mg/m³, 20 ppm\nValore a lungo termine: 25 mg/m³, 10 ppm\nUlteriori indicazioni: Le liste valide alla data di compilazione sono state usate come base."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 8: Controlli dell’esposizione/della protezione individuale",
+        "8.2 Controlli dell’esposizione"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Controlli dell’esposizione"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SEZIONE 8: Controlli dell’esposizione/della protezione individuale",
+        "8.2 Controlli dell’esposizione"
+      ],
+      "zone": "main",
+      "text": "Controlli tecnici idonei Nessun dato ulteriore, vedere punto 7\nMisure di protezione individuale, quali dispositivi di protezione individuale\nNorme generali protettive e di igiene del lavoro:\nOsservare le misure di sicurezza usuali nella manipolazione di sostanze chimiche.\nLavarsi le mani prima dell'intervallo o a lavoro terminato.\nEvitare il contatto con gli occhi e la pelle.\nProtezione delle mani Guanti protettivi.\nMateriale dei guanti\nLa scelta dei guanti adatti non dipende soltanto dal materiale bensí anche da altre caratteristiche di\nqualità variabili da un produttore a un altro.\nMateriale raccomandato per i guanti: Gomma nitrilica\nSpessore del materiale consigliato: > 0,4 mm\nTempo di permeazione del materiale dei guanti Tempo di permeazione: 10 - 30 min\nProtezione degli occhi/del volto Occhiali protettivi.\nTuta protettiva: Tuta protettiva."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 9: Proprietà fisiche e chimiche"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali"
+      ],
+      "zone": "main",
+      "text": "Indicazioni generali"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Stato fisico",
+          "Liquido"
+        ],
+        [
+          "Colore:",
+          "in conformità con la denominazione del prodotto"
+        ],
+        [
+          "Odore:",
+          "pungente"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.1 Informazioni sulle proprietà fisiche e chimiche fondamentali"
+      ],
+      "zone": "main",
+      "text": "Punto di fusione/punto di congelamento: non definito\nPunto di ebollizione o punto di ebollizione\niniziale e intervallo di ebollizione non applicabile.\nLimite di esplosività inferiore e superiore\ninferiore: viene meno\nsuperiore: viene meno\nPunto di infiammabilità: Non applicabile (i metodi di prova per il punto di\ninfiammabilità non sono validi per sostanze pastose\ne liquidi altamente viscosi)\nTemperatura di decomposizione: Non definito.\nph Non applicabile.\nViscosità: Non definito.\nSolubilità\nAcqua: insolubile\nCoefficiente di ripartizione n-ottanolo/acqua\n(valore logaritmico) Non definito.\nTensione di vapore: Non applicabile.\nDensità e/o densità relativa\nDensità: vedi scheda tecnica\nDensità relativa Non definito.\nDensità di vapore: Non applicabile.\nDensità di vapore relativa non definito\nCaratteristiche delle particelle non definito"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.2 Altre informazioni"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Altre informazioni"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 9: Proprietà fisiche e chimiche",
+        "9.2 Altre informazioni"
+      ],
+      "zone": "main",
+      "text": "Forma: pastoso\nTemperatura di accensione: Prodotto non autoinfiammabile.\nProprietà esplosive: Prodotto non esplosivo.\nInformazioni relative alle classi di pericoli\nfisici\nAerosol vien meno\nLiquidi infiammabili vien meno"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 10: Stabilità e reattività"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.1 Reattività Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reattività Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.2 Stabilità chimica"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Stabilità chimica"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.2 Stabilità chimica"
+      ],
+      "zone": "main",
+      "text": "Decomposizione termica/ condizioni da evitare:\nIl prodotto non si decompone se utilizzato secondo le norme.\nevitare scaldamento forte."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.3 Possibilità di reazioni pericolose"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Possibilità di reazioni pericolose"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.3 Possibilità di reazioni pericolose"
+      ],
+      "zone": "main",
+      "text": "L'acido acetico si forma a contatto con l'umidità dell'aria, l'acqua e gli agenti protici."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.4 Condizioni da evitare Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Condizioni da evitare Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.5 Materiali incompatibili: Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Materiali incompatibili: Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.6 Prodotti di decomposizione pericolosi:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Prodotti di decomposizione pericolosi:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.6 Prodotti di decomposizione pericolosi:"
+      ],
+      "zone": "main",
+      "text": "Acido acetico\nvedere punto 5.2\nPossibilità di liberazione di piccole quantità di formaldeide."
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "10.6 Prodotti di decomposizione pericolosi:"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SEZIONE 11: Informazioni tossicologiche",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "11.1 Informazioni sulle classi di pericolo definite nel regolamento (CE) n. 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Informazioni sulle classi di pericolo definite nel regolamento (CE) n. 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "11.1 Informazioni sulle classi di pericolo definite nel regolamento (CE) n. 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Tossicità acuta Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nValori LD/LC50 rilevanti per la classificazione:\n17689-77-9 ethyltriacetoxysilane\nOrale LD50 1.460 mg/kg (rat)\n26530-20-1 2-ottil-2H-isotiazol-3-one\nOrale LD50 125 mg/kg (ATE)\nCutaneo LD50 311 mg/kg (ATE)\nPer inalazione LC50/4 h 0,27 mg/l (ATE)\nIrritabilità primaria:\nCorrosione cutanea/irritazione cutanea\nnon irritante\nFonte: ECHA\nProva secondo: OECD Guideline 404 (Coniglio)\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nGravi danni oculari/irritazione oculare\nnon irritante\nFonte: ECHA\nProva secondo: OECD Guideline 405 (Coniglio)\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nSensibilizzazione respiratoria o cutanea\nepidermico: non sensibilizzante\nFonte: Analogia\nRapporto di prova secondo la linea guida OCSE 406 (porcellini d'India)\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nMutagenicità sulle cellule germinali\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nCancerogenicità Basandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nTossicità per la riproduzione\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nTossicità specifica per organi bersaglio (STOT) - esposizione singola\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nTossicità specifica per organi bersaglio (STOT) - esposizione ripetuta\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nPericolo in caso di aspirazione\nBasandosi sui dati disponibili i criteri di classificazione non sono soddisfatti.\nUlteriori dati (relativi alla tossicità sperimentale):\nAll' indurimento del materiale si forma acido acetico. Quello potrebbe provocare irritazioni della pelle\ne degli occhi.\nUlteriori dati tossicologici:\n26530-20-1 2-ottil-2H-isotiazol-3-one\nOrale Acute toxicity estimate (ATE mix) 125 mg/kg (rat)\nCutaneo Acute toxicity estimate (ATE mix) 311 mg/kg (rat)"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "11.2 Informazioni su altri pericoli"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Informazioni su altri pericoli"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "11.2 Informazioni su altri pericoli"
+      ],
+      "zone": "main",
+      "text": "Proprietà di interferenza con il sistema endocrino\nNessuno dei componenti è contenuto."
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "11.2 Informazioni su altri pericoli"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SEZIONE 12: Informazioni ecologiche",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.1 Tossicità Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Tossicità Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.2 Persistenza e degradabilità Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistenza e degradabilità Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.2 Persistenza e degradabilità Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "text": "Ulteriori indicazioni: Il prodotto non è biodegradabile."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.3 Potenziale di bioaccumulo Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Potenziale di bioaccumulo Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.4 Mobilità nel suolo Non sono disponibili altre informazioni."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobilità nel suolo Non sono disponibili altre informazioni."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.5 Risultati della valutazione PBT e vPvB"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Risultati della valutazione PBT e vPvB"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.5 Risultati della valutazione PBT e vPvB"
+      ],
+      "zone": "main",
+      "text": "PBT: Non applicabile.\nvPvB: Non applicabile."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.6 Proprietà di interferenza con il sistema endocrino"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Proprietà di interferenza con il sistema endocrino"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.6 Proprietà di interferenza con il sistema endocrino"
+      ],
+      "zone": "main",
+      "text": "Questo prodotto non contiene componenti che sono interferenti endocrini secondo l'articolo 57(f) del\nregolamento REACH o il regolamento delegato (UE) 2017/2100 della Commissione o il regolamento\ndelegato (UE) 2018/605 della Commissione in quantità pari o superiore allo 0,1%."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.7 Altri effetti avversi"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Altri effetti avversi"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 10: Stabilità e reattività",
+        "12.7 Altri effetti avversi"
+      ],
+      "zone": "main",
+      "text": "Ulteriori indicazioni in materia ambientale:\nUlteriori indicazioni:\nNon immettere nelle acque freatiche, nei corsi d'acqua o nelle fognature.\nPericolosità per le acque classe 1 (D) (Autoclassificazione): poco pericoloso"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 13: considerazioni sullo smaltimento"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 13: considerazioni sullo smaltimento"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 13: considerazioni sullo smaltimento",
+        "13.1 Metodi di trattamento dei rifiuti"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Metodi di trattamento dei rifiuti"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 13: considerazioni sullo smaltimento",
+        "13.1 Metodi di trattamento dei rifiuti"
+      ],
+      "zone": "main",
+      "text": "Consigli:\nSmaltimento in conformità con le disposizioni amministrative.\nIl materiale può essere smaltito insieme ai rifiuti della casa. Materiale non usato deve ( liquido,\npastoso ) essere trattato come rifiuto speciale.\nImballaggi non puliti:\nConsigli:\nGli imballaggi contaminati devono essere ben svuotati, possono essere poi riutilizzati dopo aver\nsubito appropriato trattamento di pulitura.\nGli imballaggi non sottoponibili a trattamento di pulitura devono essere smaltiti allo stesso modo\ndella sostanza."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 14: Informazioni sul trasporto"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.1 Numero ONU o numero ID"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 Numero ONU o numero ID"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.1 Numero ONU o numero ID"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA vien meno"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.2 Designazione ufficiale ONU di trasporto"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Designazione ufficiale ONU di trasporto"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.2 Designazione ufficiale ONU di trasporto"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA vien meno"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.3 Classi di pericolo connesso al trasporto"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Classi di pericolo connesso al trasporto"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.3 Classi di pericolo connesso al trasporto"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA\nClasse vien meno"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.4 Gruppo d’imballaggio"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Gruppo d’imballaggio"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.4 Gruppo d’imballaggio"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA vien meno"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.5 Pericoli per l’ambiente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Pericoli per l’ambiente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.5 Pericoli per l’ambiente"
+      ],
+      "zone": "main",
+      "text": "Marine pollutant: No"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.6 Precauzioni speciali per gli utilizzatori Non applicabile."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Precauzioni speciali per gli utilizzatori Non applicabile."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.7 Trasporto marittimo alla rinfusa"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Trasporto marittimo alla rinfusa"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.7 Trasporto marittimo alla rinfusa"
+      ],
+      "zone": "main",
+      "text": "conformemente agli atti dell’IMO Non applicabile.\nTrasporto/ulteriori indicazioni: Nessun prodotto a rischio in base ai regolamenti\nsopra indicati.\nUN \"Model Regulation\": vien meno"
+    },
+    {
+      "kind": "list",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "14.7 Trasporto marittimo alla rinfusa"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SEZIONE 15: informazioni sulla regolamentazione",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per"
+      ],
+      "zone": "main",
+      "text": "la sostanza o la miscela\nREGOLAMENTO (CE) n. 1907/2006 ALLEGATO XVII Restrizioni: 70"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per"
+      ],
+      "zone": "main",
+      "text": "Direttiva 2011/65/UE sulla restrizione dell’uso di determinate sostanze pericolose nelle\napparecchiature elettriche ed elettroniche - Allegato II\nNessuno dei componenti è contenuto.\nREGOLAMENTO (UE) 2019/1148\nAllegato I - PRECURSORI DI ESPLOSIVI SOGGETTI A RESTRIZIONI (Valore limite superiore\nai fini della concessione di licenze a norma dell’articolo 5, paragrafo 3)\nNessuno dei componenti è contenuto.\nAllegato II - PRECURSORI DI ESPLOSIVI SOGGETTI A SEGNALAZIONE\nNessuno dei componenti è contenuto.\nRegolamento (CE) n. 273/2004 relativo ai precursori di droghe\nNessuno dei componenti è contenuto.\nRegolamento (CE) N. 111/2005 recante norme per il controllo del commercio dei precursori\ndi droghe tra la Comunità e i paesi terzi\nNessuno dei componenti è contenuto.\nDisposizioni nazionali:\nClasse di pericolosità per le acque:\nPericolosità per le acque classe 1 (WGK1) (Autoclassificazione): poco pericoloso\nIndicazioni sullo stato di registrazione internazionale:\nElencato in o corrispondente ai seguenti inventari:\nREACH - Europe elencati\nAICS - Australia non elencati\nDSL - Canada elencati"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.1 Disposizioni legislative e regolamentari su salute, sicurezza e ambiente specifiche per"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "IECSC - China",
+          "",
+          "elencati"
+        ],
+        [
+          "ENCS - Japan",
+          "",
+          "non elencati"
+        ],
+        [
+          "NZIoC - New Zealand",
+          "non elencati",
+          ""
+        ],
+        [
+          "PICCS - Philippines",
+          "",
+          "elencati"
+        ],
+        [
+          "ECL - Korea",
+          "elencati",
+          ""
+        ],
+        [
+          "TSCA - USA",
+          "",
+          "elencati"
+        ],
+        [
+          "TCSI - Taiwan",
+          "",
+          "elencati"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.2 Valutazione della sicurezza chimica:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Valutazione della sicurezza chimica:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 14: Informazioni sul trasporto",
+        "15.2 Valutazione della sicurezza chimica:"
+      ],
+      "zone": "main",
+      "text": "Una valutazione della sicurezza chimica non è stata effettuata."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SEZIONE 16: Altre informazioni"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "text": "I dati sono riportati sulla base delle nostre conoscenze attuali, non rappresentano tuttavia alcuna\ngaranzia delle caratteristiche del prodotto e non motivano alcun rapporto giuridico contrattuale.\nLa presente scheda di sicurezza è conforme al Regolamento (CE) n. 1907/2006, Articolo 31 quale\nmodificato dal regolamento (UE) 2020/878.\nFrasi rilevanti"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "H301",
+          "Tossico se ingerito."
+        ],
+        [
+          "H302",
+          "Nocivo se ingerito."
+        ],
+        [
+          "H311",
+          "Tossico per contatto con la pelle."
+        ],
+        [
+          "H314",
+          "Provoca gravi ustioni cutanee e gravi lesioni oculari."
+        ],
+        [
+          "H317",
+          "Può provocare una reazione allergica cutanea."
+        ],
+        [
+          "H318",
+          "Provoca gravi lesioni oculari."
+        ],
+        [
+          "H330",
+          "Letale se inalato."
+        ],
+        [
+          "H400",
+          "Molto tossico per gli organismi acquatici."
+        ],
+        [
+          "H410",
+          "Molto tossico per gli organismi acquatici con effetti di lunga durata."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "text": "EUH014 Reagisce violentemente con l'acqua.\nEUH071 Corrosivo per le vie respiratorie.\nData della versione precedente: 27.02.2023\nNumero di versione della versione precedente: 8\nAbbreviazioni e acronimi:\nADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning\nthe International Carriage of Dangerous Goods by Road)\nIMDG: International Maritime Code for Dangerous Goods\nIATA: International Air Transport Association"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "text": "GHS: Globally Harmonised System of Classification and Labelling of Chemicals\nEINECS: European Inventory of Existing Commercial Chemical Substances\nELINCS: European List of Notified Chemical Substances\nCAS: Chemical Abstracts Service (division of the American Chemical Society)\nDNEL: Derived No-Effect Level (REACH)\nLC50: Lethal concentration, 50 percent\nLD50: Lethal dose, 50 percent\nPBT: Persistent, Bioaccumulative and Toxic\nvPvB: very Persistent and very Bioaccumulative\nATE: Acute toxicity estimate values (STAStime della tossicità acuta)\nAcute Tox. 3: Tossicità acuta – Categoria 3\nAcute Tox. 4: Tossicità acuta – Categoria 4\nAcute Tox. 2: Tossicità acuta – Categoria 2\nSkin Corr. 1: Corrosione/irritazione della pelle – Categoria 1\nSkin Corr. 1B: Corrosione/irritazione della pelle – Categoria 1B\nEye Dam. 1: Gravi lesioni oculari/irritazione oculare – Categoria 1\nSkin Sens. 1A: Sensibilizzazione della pelle – Categoria 1A\nAquatic Acute 1: Pericoloso per l’ambiente acquatico - pericolo acuto per l’ambiente acquatico – Categoria 1\nAquatic Chronic 1: Pericoloso per l’ambiente acquatico - pericolo a lungo termine per l’ambiente acquatico – Categoria 1"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "SEZIONE 16: Altre informazioni"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Dati modificati rispetto alla versione precedente it",
+          "depth": 0
+        }
+      ]
+    }
+  ]
+}

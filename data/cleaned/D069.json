@@ -1,0 +1,146 @@
+{
+  "doc_id": "D069",
+  "format": "html",
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "b11513ad3e30138d10d17d7761a620c5b2429c898a853223bba4edb89240d25f",
+  "blocks": [
+    {
+      "kind": "heading",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "The Dangerous Substances and Explosive Atmospheres Regulations 2002"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002"
+      ],
+      "zone": "main",
+      "text": "The Dangerous Substances and Explosive Atmospheres Regulations 2002 (DSEAR) require employers to control the risks to safety from fire, explosions and substances corrosive to metals."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR"
+      ],
+      "anchor": "quick",
+      "zone": "main",
+      "level": 2,
+      "text": "Quick guide to DSEAR"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What is DSEAR?"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "What is DSEAR?"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What is DSEAR?"
+      ],
+      "zone": "main",
+      "text": "DSEAR stands for the Dangerous Substances and Explosive Atmospheres Regulations 2002."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What is DSEAR?"
+      ],
+      "zone": "main",
+      "text": "Dangerous substances can put peoples' safety at risk from fire, explosion and corrosion of metal. DSEAR puts duties on employers and the self-employed to protect people from these risks to their safety in the workplace, and to members of the public who may be put at risk by work activity."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What are dangerous substances?"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "What are dangerous substances?"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What are dangerous substances?"
+      ],
+      "zone": "main",
+      "text": "Dangerous substances are any substances used or present at work that could, if not properly controlled, cause harm to people as a result of a fire or explosion or corrosion of metal. They can be found in nearly all workplaces and include such things as solvents, paints, varnishes, flammable gases, such as liquid petroleum gas (LPG), dusts from machining and sanding operations, dusts from foodstuffs, pressurised gases and substances corrosive to metal."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What does DSEAR require?"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "What does DSEAR require?"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What does DSEAR require?"
+      ],
+      "zone": "main",
+      "text": "Employers must:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "The Dangerous Substances and Explosive Atmospheres Regulations 2002",
+        "Quick guide to DSEAR",
+        "What does DSEAR require?"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "find out what dangerous substances are in their workplace and what the risks are",
+          "depth": 0
+        },
+        {
+          "text": "put control measures in place to either remove those risks or, where this is not possible, control them",
+          "depth": 0
+        },
+        {
+          "text": "put controls in place to reduce the effects of any incidents involving dangerous substances",
+          "depth": 0
+        },
+        {
+          "text": "prepare plans and procedures to deal with accidents, incidents and emergencies involving dangerous substances",
+          "depth": 0
+        },
+        {
+          "text": "make sure employees are properly informed about and trained to control or deal with the risks from the dangerous substances",
+          "depth": 0
+        },
+        {
+          "text": "identify and classify areas of the workplace where explosive atmospheres may occur and avoid ignition sources (from unprotected equipment, for example) in those areas",
+          "depth": 0
+        }
+      ]
+    }
+  ]
+}

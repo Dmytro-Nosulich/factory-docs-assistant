@@ -1,0 +1,2472 @@
+{
+  "doc_id": "D002",
+  "format": "pdf",
+  "page_count": 19,
+  "pages_without_text": [],
+  "warnings": [],
+  "content_hash": "5a87927ed68eddea9f499a70c879359981011f33e77138cb4a0c78d68d3ac053",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Enligt förordning (EG) nr 1907/2006 (REACH) Artikel 31, Bilaga II med ändringar"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Nitrogen, komprimerad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Utgivningsdatum: 16.01.2013 Version: 1.4 SDB Nr: 000010021697"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Senast uppdaterad : 20.02.2020"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.1 Produktbeteckning"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Produktbeteckning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.1 Produktbeteckning"
+      ],
+      "zone": "main",
+      "text": "Produktnamn: Nitrogen, komprimerad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.1 Produktbeteckning"
+      ],
+      "zone": "main",
+      "text": "Varumärke: BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6\nChemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0\nInstrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0,\nNitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process,\nNitrogen VERISEQ® Research"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.1 Produktbeteckning"
+      ],
+      "zone": "main",
+      "text": "Ytterligare identifikation"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.1 Produktbeteckning"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kemiskt namn:",
+          "Nitrogen"
+        ],
+        [
+          "Kemisk formel:",
+          "N2"
+        ],
+        [
+          "INDEX-nr",
+          "-"
+        ],
+        [
+          "CAS-nr",
+          "7727-37-9"
+        ],
+        [
+          "EG-nr",
+          "231-783-9"
+        ],
+        [
+          "REACH-registreringsnr",
+          "Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från registrering."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.2 Relevanta identifierade användningar av ämnet eller blandningen och användningar som det avråds från"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevanta identifierade användningar av ämnet eller blandningen och användningar som det avråds från"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.2 Relevanta identifierade användningar av ämnet eller blandningen och användningar som det avråds från"
+      ],
+      "zone": "main",
+      "text": "Identifierade användningar: Industriell och professionell. Genomför riskbedömning före användning.\nDrivgas i aerosoler. Balansgas för blandningar. Buffertgas. Kalibreringsgas.\nBärgas. Släckmedelsgas. Förpackningsgas för livsmedel. Inertieringsgas.\nUppblåsning av däck. Laboratoriebruk. Laser gas. Högtrycksgas, hjälpgas i\ntrycksatta system. Processgas. Rengöringsgas. Testgas.\nKonsument användning.\nDrycktillämpningar. Skyddsgas i gassvetsning.\nDet är slutanvändarens ansvar att försäkra sig om att den levererade\nprodukten är lämplig för den avsedda användningen.\nAnvändningar från vilka avrådas Industriell eller teknisk kvalitet olämplig för medicinska tillämpningar\noch/eller livsmedelstillämpningar eller inandning."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet"
+      ],
+      "zone": "main",
+      "text": "Leverantör\nLinde Gas AB Telefon: +46 8 7069500\nRättarvägen 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet"
+      ],
+      "zone": "main",
+      "text": "169 68 Solna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.3 Närmare upplysningar om den som tillhandahåller säkerhetsdatabladet"
+      ],
+      "zone": "main",
+      "text": "E-post: sds.ren@linde.com"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 1: Namnet på ämnet/blandningen och bolaget/företaget",
+        "1.4 Telefonnummer för nödsituationer: Kemiakuten: 020-99 60 00 (24 h). Nödnummer: 112"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Telefonnummer för nödsituationer: Kemiakuten: 020-99 60 00 (24 h). Nödnummer: 112"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 2: Farliga egenskaper"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.1 Klassificering av ämnet eller blandningen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Klassificering av ämnet eller blandningen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.1 Klassificering av ämnet eller blandningen"
+      ],
+      "zone": "main",
+      "text": "Klassificering enligt förordningen (EG) nr 1272/2008 och ändringarna i den."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.1 Klassificering av ämnet eller blandningen"
+      ],
+      "zone": "main",
+      "text": "Fysiska Risker\nKomprimerade gaser KOMPRIMERAD H280: Innehåller gas under tryck. Kan explodera vid\nGAS uppvärmning."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Märkningsuppgifter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Signalord: Varning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Uttalande(n) om fara: H280: Innehåller gas under tryck. Kan explodera vid uppvärmning."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Skyddsangivelse\nAllmänt Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Förebyggande: Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Respons: Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Lagring: P403: Förvaras på väl ventilerad plats."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Bortskaffande Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Tilläggsinformation\nEIGA-As: Risk för kvävning vid höga koncentrationer."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Okänd toxicitet - Hälsa\nAkut toxicitet, inandning, gas 0 %"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.2 Märkningsuppgifter"
+      ],
+      "zone": "main",
+      "text": "Okänd toxicitet - Miljö\nAkuta faror för vattenmiljön 100 %\nLångvariga faror för vattenmiljön 100 %"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.3 Andra faror Ej klassificerad som PBT eller vPvB."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Andra faror Ej klassificerad som PBT eller vPvB."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.3 Andra faror Ej klassificerad som PBT eller vPvB."
+      ],
+      "zone": "main",
+      "text": "Hormonstörande egenskaper-Toxicitet\nSubstansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "AVSNITT 2: Farliga egenskaper",
+        "2.3 Andra faror Ej klassificerad som PBT eller vPvB."
+      ],
+      "zone": "main",
+      "text": "Hormonstörande egenskaper-Ekotoxicitet\nSubstansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "AVSNITT 3: Sammansättning/information om beståndsdelar"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 3: Sammansättning/information om beståndsdelar"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "AVSNITT 3: Sammansättning/information om beståndsdelar",
+        "3.1 Ämnen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1 Ämnen"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "AVSNITT 3: Sammansättning/information om beståndsdelar",
+        "3.1 Ämnen"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kemiskt namn",
+          "Nitrogen"
+        ],
+        [
+          "INDEX-nr:",
+          "-"
+        ],
+        [
+          "CAS-nr:",
+          "7727-37-9"
+        ],
+        [
+          "EG-nr:",
+          "231-783-9"
+        ],
+        [
+          "REACH-registreringsnr:",
+          "Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från registrering."
+        ],
+        [
+          "Renhet:",
+          "100% I detta avsnitt används ämnets renhet endast för klassificering, och den föreställer inte ämnets renhet vid leverans, för vilket ändamål det finns annan dokumentation."
+        ],
+        [
+          "Varumärke:",
+          "BIOGON® N (E941), Nitrogen 3.5 Industrial, Nitrogen 4.0, Nitrogen 4.6 Chemical, Nitrogen 4.6 Laser, Nitrogen 4.8, HiQ Nitrogen 5.0, Nitrogen 5.0 Instrument, Nitrogen 5.0 Laser, Nitrogen 5.5 Detector, HiQ Nitrogen 6.0, Nitrogen 6.0 Scientific, Nitrogen 7.0 HiQ, Nitrogen VERISEQ® Process, Nitrogen VERISEQ® Research"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "AVSNITT 3: Sammansättning/information om beståndsdelar",
+        "3.1 Ämnen"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kemiskt namn",
+          "Kemisk formel",
+          "Koncentration",
+          "CAS-nr",
+          "EG-nr",
+          "REACH-",
+          "M-faktorer:",
+          "Anmärk"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "registreringsnr",
+          "",
+          "ningar"
+        ],
+        [
+          "Nitrogen",
+          "N2",
+          "100%",
+          "7727-37-9",
+          "231-783-9",
+          "Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från registrering.",
+          "-",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "AVSNITT 3: Sammansättning/information om beståndsdelar",
+        "3.1 Ämnen"
+      ],
+      "zone": "main",
+      "text": "Alla koncentrationer är viktprocent om inte en ingrediens är en gas. Gaskoncentrationer är i molprocent. Alla koncentrationer är nominella.\n# Detta ämne har exponerings gränsvärde (n).\n## Detta ämne är listat som ett ämne som inger mycket stora betänkligheter (SVHC). PBT: långlivad, bioackumulerande och toxiskämne.\nvPvB: mycket långlivad och mycketbioackumuleran de ämne."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 4: Åtgärder vid första hjälpen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "text": "Allmänt: Höga koncentrationer kan orsaka kvävning. Symptomen kan även omfatta\nförlamning/medvetslöshet. Kvävning kan inträffa utan förvarning. Flytta den\nskadade till frisk luft. Använd andningsapparat med egen behållare. Se till att den\nskadade hålls varm och i stillhet. Tillkalla läkare. Ge andningshjälp om andningen\nupphör."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.1 Beskrivning av åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Beskrivning av åtgärder vid första hjälpen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.1 Beskrivning av åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "text": "Inandning: Höga koncentrationer kan orsaka kvävning. Symptomen kan även omfatta\nförlamning/medvetslöshet. Kvävning kan inträffa utan förvarning. Flytta den\nskadade till frisk luft. Använd andningsapparat med egen behållare. Se till att den\nskadade hålls varm och i stillhet. Tillkalla läkare. Ge andningshjälp om andningen\nupphör."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.1 Beskrivning av åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "text": "Ögonkontakt: Inga skadliga effekter förväntas av denna produkt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.1 Beskrivning av åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "text": "Hudkontakt: Inga skadliga effekter förväntas av denna produkt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.1 Beskrivning av åtgärder vid första hjälpen"
+      ],
+      "zone": "main",
+      "text": "Förtäring: Förtäring anses inte som potentiell väg av exponering."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.2 De viktigaste symptomen och Andningsstillestånd"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 De viktigaste symptomen och Andningsstillestånd"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.2 De viktigaste symptomen och Andningsstillestånd"
+      ],
+      "zone": "main",
+      "text": "effekterna, både akuta och\nfördröjda:"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.3 Angivande av omedelbar medicinsk behandling och särskild behandling som eventuellt krävs"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Angivande av omedelbar medicinsk behandling och särskild behandling som eventuellt krävs"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.3 Angivande av omedelbar medicinsk behandling och särskild behandling som eventuellt krävs"
+      ],
+      "zone": "main",
+      "text": "Faror: Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 4: Åtgärder vid första hjälpen",
+        "4.3 Angivande av omedelbar medicinsk behandling och särskild behandling som eventuellt krävs"
+      ],
+      "zone": "main",
+      "text": "Behandling: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 5: Brandbekämpningsåtgärder"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder"
+      ],
+      "zone": "main",
+      "text": "Allmänna Brandrisker: Vid uppvärmning kan behållarna brista."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.1 Släckmedel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Släckmedel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.1 Släckmedel"
+      ],
+      "zone": "main",
+      "text": "Lämpliga släckmedel: Materialet brinner ej. Vid brand i omgivningen: Använd lämpligt släckmedel."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.1 Släckmedel"
+      ],
+      "zone": "main",
+      "text": "Olämpliga släckmedel: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.2 Särskilda faror som ämnet eller Inga."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Särskilda faror som ämnet eller Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.2 Särskilda faror som ämnet eller Inga."
+      ],
+      "zone": "main",
+      "text": "blandningen kan medföra:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.2 Särskilda faror som ämnet eller Inga."
+      ],
+      "zone": "main",
+      "text": "Farliga förbränningsprodukter: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.3 Råd till brandbekämpningspersonal"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Råd till brandbekämpningspersonal"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.3 Råd till brandbekämpningspersonal"
+      ],
+      "zone": "main",
+      "text": "Brandbekämpning: Vid brand: Stoppa läckan om det kan göras på ett säkert sätt. Fortsätt\nvattenbegjutningen från skyddad plats tills dess att flaskan är kall. Använd\nsläckmedel för brandbekämpning. Isolera brandkällan eller l åt den brinna ut."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 5: Brandbekämpningsåtgärder",
+        "5.3 Råd till brandbekämpningspersonal"
+      ],
+      "zone": "main",
+      "text": "Särskild skyddsutrustning för Brandmän måste använda gängse skyddsutrustning inklusive brandhindrande\nbrandbekämpningspersonal: rock, hjälm med ansiktsskydd, handskar, gummistövlar och, i slutna utrymmen,\nsluten andningsapparat.\nRiktlinje: EN 469 Skyddsklädsel för brandmän. Prestationskrav för skyddskläder för\nbrandbekämpning. EN 15090 Skodon för brandmän. EN 659 Skyddshandskar för\nbrandmän. EN 443 Hjälmar för brandbekämpning i byggnader och andra\nkonstruktioner. Riktlinje: EN 137 Andningsskydd – Bärbar\nandningsapparatsapparat med öppet system och helmask, enbart avsedd för\nanvändning med övertryck – Fordringar, provning, märkning."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.1 Personliga skyddsåtgärder, Utrym området. Ventilationen skall vara effektiv. Bör hindras från att komma ned i"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Personliga skyddsåtgärder, Utrym området. Ventilationen skall vara effektiv. Bör hindras från att komma ned i"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.1 Personliga skyddsåtgärder, Utrym området. Ventilationen skall vara effektiv. Bör hindras från att komma ned i"
+      ],
+      "zone": "main",
+      "text": "skyddsutrustning och åtgärder avloppssystem, källare och gropar, eller andra platser där gasansamling kan vara\nvid nödsituationer: farlig. Använd andningsapparat med egen behållare inom riskområdet tills man är\nsäker på att faran är över. Riktlinje Riktlinje: EN 137 Andningsskydd – Bärbar\nandningsapparatsapparat med öppet system och helmask, enbart avsedd för\nanvändning med övertryck – Fordringar, provning, märkning."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.2 Miljöskyddsåtgärder: Förhindra fortsatt läckage eller spill om det kan göras på ett säkert sätt."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Miljöskyddsåtgärder: Förhindra fortsatt läckage eller spill om det kan göras på ett säkert sätt."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.3 Metoder och material för Ventilationen skall vara effektiv."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Metoder och material för Ventilationen skall vara effektiv."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.3 Metoder och material för Ventilationen skall vara effektiv."
+      ],
+      "zone": "main",
+      "text": "inneslutning och sanering:"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "AVSNITT 6: Åtgärder vid oavsiktliga utsläpp",
+        "6.4 Hänvisning till andra avsnitt: Se avsnitt 8 och 13."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Hänvisning till andra avsnitt: Se avsnitt 8 och 13."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 7: Hantering och lagring:"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:",
+        "7.1 Skyddsåtgärder för säker Gaser under tryck bör endast hanteras av erfarna personer med tillbörlig"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Skyddsåtgärder för säker Gaser under tryck bör endast hanteras av erfarna personer med tillbörlig"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:",
+        "7.1 Skyddsåtgärder för säker Gaser under tryck bör endast hanteras av erfarna personer med tillbörlig"
+      ],
+      "zone": "main",
+      "text": "hantering: utbildning. Använd endast korrekt specificerad utrustning som är lämplig för\ndenna produkt, dess tillförseltryck och temperatur. Se leverantörens\nhanteringsinstruktioner. Ämnet måste hanteras enligt god industrihygien och\nsäkerhets rutiner. Skydda behållare från fysisk skada; dra inte, rulla inte, låt inte\nglida eller falla. Förstör eller avlägsna inte leverantörens etiketter. De är avsedda\natt identifiera behållarens innehåll. När du flyttar behållare, även korta sträckor,\nanvänd lämplig utrustning såsom transportvagn, handkärra, gaffeltruck osv. Se till\natt cylindrarna alltid står lodrätt, stäng alla ventiler när de inte används.\nVentilationen skall vara effektiv. Tillbakaströmning av vatten in i flaskan måste\nförhindras. Förhindra tillbakaströmning in i flaskan. Undvik tillbakasug av vatten,\nsyra och alkalier. Förvara flaskan i väl ventilerat utrymme vid temperatur\nunderstigande 50°C. Ta i beaktande alla regleringar och lokala krav vad avser\nförvaring av behållare. Ät inte, drick inte eller rök inte under hanteringen. Förvaras\ni enlighet med lokala/regionala/nationella/internationella föreskrifter. Använd\naldrig öppen låga eller elektriska värmesystem för att öka trycket i behållaren. Låt\nventilkåpa och skyddsmutter sitta kvar tills flaskan säkrats mot en vägg eller bänk\neller placerats i ett flaskställ klart för användning. Skadade ventiler bör\nomedelbart rapporteras till leverantören Stäng behållarens ventil efter varje\nanvändning även när den är tom och fortfarande ansluten till ett instrument.\nFörsök aldrig själv reparera eller modifiera behållarventiler eller\ntryckavlastningsanordningar. Så snart behållare frikopplats från utrustning sätt\ntillbaka skyddsmuttrar och skyddskåpa. Håll behållarens ventilöppningar rena och\nfria från föroreningar, speciellt olja och vatten. Användaren bör kontakta\nleverantör om han upplever problem med hanteringen av behållarens ventil.\nÖverför aldrig gaser från en behållare till en annan. Ventilskydd eller kåpor måste\nvara på plats."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:",
+        "7.2 Förhållanden för säker lagring, Behållare bör inte förvaras på plats där de kan utsättas för korrosion. Lagrade"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Förhållanden för säker lagring, Behållare bör inte förvaras på plats där de kan utsättas för korrosion. Lagrade"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:",
+        "7.2 Förhållanden för säker lagring, Behållare bör inte förvaras på plats där de kan utsättas för korrosion. Lagrade"
+      ],
+      "zone": "main",
+      "text": "inklusive eventuell behållare bör kontrolleras regelbundet både vad gäller deras allmänna skick och\noförenlighet: vad gäller läckage. Ventilskydd eller kåpor måste vara på plats. Förvara behållare\npå platser fria från brandrisk och borta från värme och antändningskällor. Förvaras\nåtskilt från brandfarliga ämnen."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "AVSNITT 7: Hantering och lagring:",
+        "7.3 Specifik slutanvändning: Inga."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Specifik slutanvändning: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 8: Begränsning av exponeringen/personligt skydd"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.1 Kontrollparametrar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Kontrollparametrar"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.1 Kontrollparametrar"
+      ],
+      "zone": "main",
+      "text": "Gränsvärden för exponering på arbetsplatsen\nIngen av komponenterna har tilldelats exponeringsgränser."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.1 Kontrollparametrar"
+      ],
+      "zone": "main",
+      "text": "Biologiska Gränsvärden\nInga angivna biologiska exponeringsgränser för beståndsdel(ar)."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Begränsning av exponeringen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Lämpliga tekniska Överväg ett system med arbetstillstånd t.ex. för underhåll. Se till att luftväxlingen\nkontrollåtgärder: är tillräcklig. Ventilationen skall vara effektiv, inkl. lämpligt punktutsug, för att\nsäkra att gränsvärdet inte överskrids. Oxygen detektorer borde användas där\nkvävande gaser kan frigöras. System under tryck skall regelbundet kontrolleras för\nläckage. Använd helst bestående läckagetäta förbindelser (t.ex. svetsade rör).\nMan får inte äta, dricka eller röka under användning av produkten."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Individuella skyddsåtgärder, t.ex. personlig skyddsutrustning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Allmän information: En riskbedömning bör utföras och dokumenteras för varje område för att bedöma\nriskerna i användning av produkten och välja den personliga skyddsutrustning\nsom är lämplig med tanke på risken i fråga. Följande rekommendationer bör tas i\nbeaktande. Andningsapparat med egen behållare skall finnas tillgänglig för\nanvändning vid olyckstillfällen. Personlig skyddsutrustning för kroppen bör väljas\nberoende på den uppgift som skall utföras och de risker som finns."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Ögonskydd/ansiktsskydd: Använd EN 166-enligt ögonskydd vid användning av gaser.\nRiktlinje: EN 166 Personligt ögonskydd."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Hudskydd\nHandskydd: Riktlinje: EN 388: Skyddshandskar mot mekaniska risker\nYtterligare information: Använd arbetshandskar när du hanterar behållare."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Kroppsskydd: Inga speciella åtgärder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Övrigt: Använd säkerhetsskor under hantering av behållare.\nRiktlinje: ISO 20345 Personlig skyddsutrustning - Säkerhetsskor."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Andningsskydd: När riskbedömningen tillåter, kan andningsskyddsutrustning användas. Valet av\nandningsskydd (RPD) måste basera sig på kända eller förväntade\nexponeringsnivåer, produktens faror och säkra arbetsgränser för det valda\nandningsskyddet. Bärbar tryckluftsapparat eller andningsluft med övertryck\nkopplat till mask skall användas i miljöer där det är syrefattig atmosfär.\nRiktlinje: Riktlinje: EN 137 Andningsskydd – Bärbar andningsapparatsapparat med\nöppet system och helmask, enbart avsedd för användning med övertryck –\nFordringar, provning, märkning."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Termisk fara: Inga säkerhetsåtgärder behövs."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Hygieniska åtgärder: Specifika riskåtaganden är ej nödvändiga utöver en god industrihygien och\nsäkerhets rutiner. Man får inte äta, dricka eller röka under användning av\nprodukten."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 8: Begränsning av exponeringen/personligt skydd",
+        "8.2 Begränsning av exponeringen"
+      ],
+      "zone": "main",
+      "text": "Begränsning av Angående avfallshantering, se sektion 13.\nmiljöexponeringen:"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 9: Fysikaliska och kemiska egenskaper"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "text": "Tillstånd"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Aggregationstillstånd:",
+          "Gas"
+        ],
+        [
+          "",
+          "Form:",
+          "KOMPRIMERAD GAS"
+        ],
+        [
+          "",
+          "Färg:",
+          "Färglös"
+        ],
+        [
+          "Lukt:",
+          "",
+          "Luktfri gas"
+        ],
+        [
+          "Lukttröskel:",
+          "",
+          "Luktgränsen är subjektiv och otillförlitlig för att varna om en eventuell överexponering."
+        ],
+        [
+          "Smältpunkt:",
+          "",
+          "-346,02 °F/-210,01 °C"
+        ],
+        [
+          "Kokpunkt:",
+          "",
+          "-321 °F/-196 °C"
+        ],
+        [
+          "Brandfarlighet:",
+          "",
+          "Produkten är inte brandfarlig."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "text": "Högre/lägre antändnings- eller explosionsgränser"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Explosionsgräns – övre:",
+          "Inte tillämplig."
+        ],
+        [
+          "",
+          "Explosionsgräns – nedre:",
+          "Inte tillämplig."
+        ],
+        [
+          "Flampunkt:",
+          "",
+          "Ej tillämpligt för gaser och gasblandningar"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Självantändningstemperatur:",
+          "Inte tillämplig.."
+        ],
+        [
+          "Sönderfallstemperatur:",
+          "Inte känt."
+        ],
+        [
+          "pH-värde:",
+          "Inte tillämplig."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "text": "Viskositet\nViskositet, dynamisk: 0,171 mPa.s (51,6 °F/10,9 °C)\nKinematisk viskositet: Ingen data.\nLöslighet"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Löslighet i vatten:",
+          "20 mg/l"
+        ],
+        [
+          "",
+          "Löslighet (annan):",
+          "Ingen data."
+        ],
+        [
+          "Fördelningskoefficient (n-",
+          "",
+          "0,67"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "text": "oktanol/vatten):"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.1 Information om grundläggande fysikaliska och kemiska egenskaper"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Dispersionsstabilitet:",
+          "Ingen data."
+        ],
+        [
+          "Ångtryck:",
+          "Ingen tillförlitlig information tillgänglig."
+        ],
+        [
+          "Relativ densitet:",
+          "0,8"
+        ],
+        [
+          "Densitet:",
+          "0,0013 gr/cm3 (32 °F/0 °C)"
+        ],
+        [
+          "Ångdensitet (luft=1):",
+          "0,97"
+        ],
+        [
+          "Partikelkarakteristika:",
+          "Inte tillämplig."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.2 Annan information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Annan information"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+        "9.2 Annan information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Brandfarlighet:",
+          "Ki: 1"
+        ],
+        [
+          "Molekylvikt:",
+          "28,01 g/mol (N2)"
+        ],
+        [
+          "Kritisk temperatur (°C):",
+          "-147,0 °C"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 10: Stabilitet och reaktivitet"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.1 Reaktivitet: Ingen fara för reaktivitet utom de effekter som beskrivits i underavsnittet nedan."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reaktivitet: Ingen fara för reaktivitet utom de effekter som beskrivits i underavsnittet nedan."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.2 Kemisk stabilitet: Stabil i normala förhållanden."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Kemisk stabilitet: Stabil i normala förhållanden."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.3 Risken för farliga reaktioner: Inga."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Risken för farliga reaktioner: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.4 Förhållanden som ska Inga."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Förhållanden som ska Inga."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.4 Förhållanden som ska Inga."
+      ],
+      "zone": "main",
+      "text": "undvikas:"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.5 Oförenliga material: Ingen reaktion med vanliga ämnen i torra eller våta förhållanden."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Oförenliga material: Ingen reaktion med vanliga ämnen i torra eller våta förhållanden."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.6 Farliga Vid normal användning och förvaring bör inga farliga sönderdelningsprodukter"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Farliga Vid normal användning och förvaring bör inga farliga sönderdelningsprodukter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 10: Stabilitet och reaktivitet",
+        "10.6 Farliga Vid normal användning och förvaring bör inga farliga sönderdelningsprodukter"
+      ],
+      "zone": "main",
+      "text": "sönderdelningsprodukter: uppkomma."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 11: Toxikologisk information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information"
+      ],
+      "zone": "main",
+      "text": "Allmän information: Inga."
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Akut toxicitet - Oral\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Akut toxicitet - Dermal\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Akut toxicitet - Inandning\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Hudfrätande/Irriterande\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Allvarliga Ögonskador/Ögonirritation\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Inandnings- eller Hudsensibilisering\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Mutagenitet i Könsceller\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Cancerframkallande egenskaper\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Reproduktionstoxicitet\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Specifik Organtoxicitet - Enstaka Exponering\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Specifik Organtoxicitet - Upprepade Exponeringar\nProdukt Tillgängliga data tyder på att klassificeringskriterierna inte uppfylls."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.1 Information om faroklasser enligt förordning (EG) nr 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Kvävningsrisk\nProdukt Ej tillämpligt för gaser och gasblandningar."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.2 Information om andra faror"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Information om andra faror"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.2 Information om andra faror"
+      ],
+      "zone": "main",
+      "text": "Hormonstörande egenskaper\nProdukt: Substansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre.;\nKomponenter:\nNitrogen Substansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre. ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 11: Toxikologisk information",
+        "11.2 Information om andra faror"
+      ],
+      "zone": "main",
+      "text": "Annan information\nProdukt: Ingen data."
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 12: Ekologisk information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information"
+      ],
+      "zone": "main",
+      "text": "Allmän information: Inte tillämplig"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.1 Toxicitet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxicitet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.1 Toxicitet"
+      ],
+      "zone": "main",
+      "text": "Akut toxicitet\nProdukt Ingen ekologisk skada orsakas av denna produkt."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.2 Persistens och nedbrytbarhet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistens och nedbrytbarhet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.2 Persistens och nedbrytbarhet"
+      ],
+      "zone": "main",
+      "text": "Produkt Ämnet är naturligt förekommande."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.3 Bioackumuleringsförmåga"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioackumuleringsförmåga"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.3 Bioackumuleringsförmåga"
+      ],
+      "zone": "main",
+      "text": "Produkt Produkten förväntas brytas ned biologiskt och förväntas inte kvarstå någon längre\ntid i en vattenmiljö."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.4 Rörlighet i jord"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Rörlighet i jord"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.4 Rörlighet i jord"
+      ],
+      "zone": "main",
+      "text": "Produkt Ämnet är en gas, inte tillämpligt."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.5 Resultat av PBT- och vPvB-"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Resultat av PBT- och vPvB-"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.5 Resultat av PBT- och vPvB-"
+      ],
+      "zone": "main",
+      "text": "bedömningen\nProdukt Ej klassificerad som PBT eller vPvB."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.6 Hormonstörande egenskaper:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Hormonstörande egenskaper:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.6 Hormonstörande egenskaper:"
+      ],
+      "zone": "main",
+      "text": "Produkt: Substansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre.\nKomponenter:\nNitrogen Substansen/blandningen innehåller inte komponenter som anses ha\nendokrinstörande egenskaper enligt REACH art. 57(f) eller kommissionens\ndelegerade förordning (EU) 2017/2100 eller kommissionens förordning (EU)\n2018/605 vid nivåer på 0.1% eller högre."
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.7 Andra skadliga effekter:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Andra skadliga effekter:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.7 Andra skadliga effekter:"
+      ],
+      "zone": "main",
+      "text": "Andra faror\nProdukt: Ingen data."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "AVSNITT 12: Ekologisk information",
+        "12.7 Andra skadliga effekter:"
+      ],
+      "zone": "main",
+      "text": "Andra effekter: Ingen ekologisk skada orsakas av denna produkt."
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 13: Avfallshantering"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 13: Avfallshantering"
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 13: Avfallshantering",
+        "13.1 Avfallsbehandlingsmetoder"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Avfallsbehandlingsmetoder"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 13: Avfallshantering",
+        "13.1 Avfallsbehandlingsmetoder"
+      ],
+      "zone": "main",
+      "text": "Allmän information: Släpp inte ut i avlopp, källare, gropar eller andra platser där gasansamling kan\nvara farlig. Vädras ut i atmosfären på välventilerad plats."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 13: Avfallshantering",
+        "13.1 Avfallsbehandlingsmetoder"
+      ],
+      "zone": "main",
+      "text": "Destruktionsmetoder: Ytterligare anvisningar om lämpliga bortskaffningsmetoder finns i EIGA:s\nanvisningar om förfaringssätt (Doc.30 “Disposal of Gases\", kan nedladdas på\nhttp://www.eiga.org). Bortskaffa behållaren endast via gasleverantören.\nUtsläpp, behandling eller avfallshantering kan vara reglerade i nationella,\ndelstatliga eller lokala lagar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 13: Avfallshantering",
+        "13.1 Avfallsbehandlingsmetoder"
+      ],
+      "zone": "main",
+      "text": "Europeiska avfalls koder\nFörpackning: 16 05 05: Andra gaser i tryckbehållare än de som anges i 16 05 04."
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 14: Transportinformation"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 14: Transportinformation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 14: Transportinformation"
+      ],
+      "zone": "main",
+      "text": "ADR\n14.1 UN-nummer eller id-nummer: UN 1066"
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.2 Officiell transportbenämning: KVÄVE, KOMPRIMERAD"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Officiell transportbenämning: KVÄVE, KOMPRIMERAD"
+    },
+    {
+      "kind": "heading",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Faroklass för transport"
+    },
+    {
+      "kind": "table",
+      "page": 14,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Klass:",
+          "2"
+        ],
+        [
+          "",
+          "Etikett(er):",
+          "2.2"
+        ],
+        [
+          "",
+          "Faronr. (ADR):",
+          "20"
+        ],
+        [
+          "",
+          "Tunnelbegränsningskod:",
+          "(E)"
+        ],
+        [
+          "14.4 Förpackningsgrupp:",
+          "",
+          "–"
+        ],
+        [
+          "",
+          "Begränsad mängd",
+          "Inga."
+        ],
+        [
+          "",
+          "Undantagen mängd",
+          "Inga."
+        ],
+        [
+          "14.5 Miljöfaror:",
+          "",
+          "Inte tillämplig."
+        ],
+        [
+          "14.6 Särskilda skyddsåtgärder:",
+          "",
+          "–"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "text": "RID"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "text": "14.1 UN-nummer eller id-nummer: UN 1066"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.2 Officiell transportbenämning KVÄVE, KOMPRIMERAD"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Officiell transportbenämning KVÄVE, KOMPRIMERAD"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Faroklass för transport"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Klass:",
+          "2"
+        ],
+        [
+          "",
+          "Etikett(er):",
+          "2.2"
+        ],
+        [
+          "14.4 Förpackningsgrupp:",
+          "",
+          "–"
+        ],
+        [
+          "",
+          "Begränsad mängd",
+          "Inga."
+        ],
+        [
+          "",
+          "Undantagen mängd",
+          "Inga."
+        ],
+        [
+          "14.5 Miljöfaror:",
+          "",
+          "Inte tillämplig."
+        ],
+        [
+          "14.6 Särskilda skyddsåtgärder:",
+          "",
+          "–"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "text": "IMDG\n14.1 UN-nummer eller id-nummer: UN 1066"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.2 Officiell transportbenämning: NITROGEN, COMPRESSED"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Officiell transportbenämning: NITROGEN, COMPRESSED"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Faroklass för transport"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Klass:",
+          "2.2"
+        ],
+        [
+          "",
+          "Etikett(er):",
+          "2.2"
+        ],
+        [
+          "",
+          "EmS No.:",
+          "F-C, S-V"
+        ],
+        [
+          "14.4 Förpackningsgrupp:",
+          "",
+          "–"
+        ],
+        [
+          "",
+          "Begränsad mängd",
+          "Inga."
+        ],
+        [
+          "",
+          "Undantagen mängd",
+          "Inga."
+        ],
+        [
+          "14.5 Miljöfaror:",
+          "",
+          "Inte tillämplig."
+        ],
+        [
+          "14.6 Särskilda skyddsåtgärder:",
+          "",
+          "–"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "text": "IATA"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport"
+      ],
+      "zone": "main",
+      "text": "14.1 UN-nummer eller id-nummer: UN 1066"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.2 Benämning: Nitrogen, compressed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Benämning: Nitrogen, compressed"
+    },
+    {
+      "kind": "heading",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Faroklass för transport:"
+    },
+    {
+      "kind": "table",
+      "page": 15,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.3 Faroklass för transport:"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "",
+          "Klass:",
+          "2.2"
+        ],
+        [
+          "",
+          "",
+          "Etikett(er):",
+          "2.2"
+        ],
+        [
+          "14.4 Förpackningsgrupp:",
+          "",
+          "",
+          "–"
+        ],
+        [
+          "",
+          "Begränsad mängd",
+          "",
+          "Inga."
+        ],
+        [
+          "",
+          "Undantagen mängd",
+          "",
+          "Inga."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.5 Miljöfaror: Inte tillämplig."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Miljöfaror: Inte tillämplig."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.6 Särskilda skyddsåtgärder: –"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Särskilda skyddsåtgärder: –"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.6 Särskilda skyddsåtgärder: –"
+      ],
+      "zone": "main",
+      "text": "Annan information\nPassagerar- och fraktflygplan: Tillåtet.\nEndast lastflyg: Tillåtet."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.7 Bulktransport till sjöss enligt IMO:s instrument"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Bulktransport till sjöss enligt IMO:s instrument"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.7 Bulktransport till sjöss enligt IMO:s instrument"
+      ],
+      "zone": "main",
+      "text": "Ej tillämpligt för produkten som den levereras."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 14: Transportinformation",
+        "14.7 Bulktransport till sjöss enligt IMO:s instrument"
+      ],
+      "zone": "main",
+      "text": "Ytterligare identifikation: Undvik transport med fordon där lastutrymmet inte är åtskilt från\nförarhytten. Överlämna transportkort (skriftlig instruktion) till föraren.\nVid transport skall gasflaskor vara fastspända. Se till att behållarens\nventil är stängd och inte läcker. Ventilskydd eller kåpor måste vara på\nplats. Se till att luftväxlingen är tillräcklig."
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 15: Gällande föreskrifter"
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "EU-förordningar"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "FÖRORDNING (EG) nr 1907/2006 (REACH), BILAGA XIV FÖRTECKNING ÖVER ÄMNEN FÖR VILKA DET KRÄVS TILLSTÅND\nmeð áorðnum breytingum: Finns inte eller finns inte i reglerade mängder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 1 med ändringar: Finns inte\neller finns inte i reglerade mängder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 2 med ändringar: Finns inte\neller finns inte i reglerade mängder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga I, del 3 med ändringar: Finns inte\neller finns inte i reglerade mängder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Förordning (EU) nr 649/2012 om export och import av farliga kemikalier, Bilaga V med ändringar: Finns inte eller\nfinns inte i reglerade mängder."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "EU. Direktiv 2012/18/EU (SEVESO III) om faran för allvarliga kemikalieolyckor, med ändringar:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Inte tillämplig."
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Nationella bestämmelser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.1 Föreskrifter/lagstiftning om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö:"
+      ],
+      "zone": "main",
+      "text": "Rådets direktiv 89/391/EEG om åtgärder för att främja förbättringar av\narbetstagarnas säkerhet och hälsa i arbetet Direktiv 2016/425/EEG om personlig\nskyddsutrustning Endast produkter som överensstämmer med\nlivsmedelsförordningarna 95/2/EG och 2008/84/EG och som är märkta som sådana\nfår användas som livsmedelstillsatser.\nSäkerhetsdatabladet har utarbetats för att följa förordning (EU) 2020/878."
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.2 Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 15: Gällande föreskrifter",
+        "15.2 Listad i bilaga IV/V av förordning (EG) nr 1907/2006 (REACH), undantagen från"
+      ],
+      "zone": "main",
+      "text": "Kemikaliesäkerhetsbedömn registrering. En CSA (Kemikaliesäkerhetsbedömning) krävs inte för denna produkt.\ning:"
+    },
+    {
+      "kind": "heading",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "AVSNITT 16: Annan information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Revisionsinformation: Relevanta förändringar visas genom att använda två vertikala linjer och röd text,\ntexten är även markerad i grått."
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Förkortningar och akronymer:\nADN - Europeisk överenskommelse om internationell transport av farligt gods på inländska vattenleder; ADR -\nÖverenskommelse om internationell transport av farligt gods på väg; AIIC - Australiens förteckning över industrikemikalier;\nASTM - Amerikansk organisation för materialtestning; bw - Kroppsvikt; CLP - Förordning om klassificeringsmärkning av\nförpackningar; förordning (EG) nr 1272/2008; CMR - Carcinogent, mutant eller reproduktiv toxikant; DIN - Det tyska\nstandardiseringsinstitutets standard; DSL - Lista över ämnen använda i hushållet (Kanada); ECHA - Europeiska\nkemikaliemyndigheten; EC-Number - EG-nummer; ECx - Koncentration som ger x % svar; EIGA - Europeiska förbundet för\nindustriella gaser; ELx - Loading Rate som ger x % svar (Elx-värde); EmS - Nödinstruktioner; ENCS - Förekommande och\nnytillkommande kemikalier (Japan); ErCx - Koncentration som ger x % tillväxtsvar (ErCx-värde); GHS - Globalt harmoniserat\nsystem; GLP - God laboratoriepraxis; IARC - Internationell myndighet för cancerforskning; IATA - Internationell\nsammanslutning för flygtransporter; IBC - Internationella regler för konstruktion och utrustande av fartyg för bulktransport\nav farliga kemikalier; IC50 - Halva maximala inhibitoriska koncentrationen; ICAO - Internationell organisation för civil\nflygtrafik; IECSC - Förteckning över i Kina förekommande kemikalier; IMDG - Internationella föreskrifter för sjötransport av\nfarligt gods; IMO - Internationella sjöfartsorganisationen; ISHL - Lag om säkerhet och hälsa inom industrin (Japan); ISO -\nInternationella standardiseringsorganisationen; KECI - Koreansk förteckning över förekommande kemikalier; LC50 - Dödlig\nkoncentration för 50 % av en testpopulation; LD50 - Dödlig dos för 50 % av en testpopulation (dödlig mediandos); MARPOL"
+    },
+    {
+      "kind": "list",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Internationell överenskommelse om förebyggande av förorening från fartyg; n.o.s. - Utan närmare specifikation; NO(A)EC",
+          "depth": 0
+        },
+        {
+          "text": "Koncentration utan observerad (bi)verkan; NO(A)EL - Nivå utan observerad (bi)verkan; NOELR - Loading Rate utan",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "observerbar effekt (NOELR-värde); NZIoC - Nyzeeländsk förteckning över kemikalier; OECD - Organisation för ekonomisk\nsamverkan och utveckling; OPPTS - Myndighet för kemisk säkerhet och förebyggande av förorening; PBT - Persistent,"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "bioackumulerande och giftigt ämne; PICCS - Filippinsk förteckning över kemikalier och kemiska ämnen; (Q)SAR -\n(Kvantitativ) relation mellan struktur och aktivitet; REACH - Förordning (EG) nr 1907/2006 från Europaparlamentet och\nrådet avseende registrering, bedömning, godkännande och begränsning av kemikalier; RID - Förordningar avseende\ninternationella transporter av farligt gods på järnväg; SADT - Temperatur för självaccelererande nedbrytning; SDS -\nSäkerhetsdatablad; SVHC - ämne som inger mycket stora betänkligheter; TCSI - Taiwanesisk förteckning över kemikalier;\nTECI - Thailand Befintlig kemikalieinventering; TRGS - Tekniska regler för farliga ämnen; TSCA - Lag om kontroll av giftiga\nämnen (Förenta Staterna); UN - Förenta Nationerna; vPvB - Mycket persistent och starkt bioackumulerande"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Hänvisningar till viktig litteratur Olika datakällor har använts i sammanställning av detta säkerhetsdatablad, bland\noch datakällor: annat:\nAgency for Toxic Substances and Diseases Registry (ATSDR)\nhttp://www.atsdr.cdc.gov/\nEuropeiska kemikaliebyrån: Anvisningar för sammanställning av säkerhetsdatablad.\nEuropeiska kemikaliebyrån: Information om registrerade ämnen\nhttp://apps.echa.europa.eu/registered/registered-sub.aspx#search\nEuropeisk Industriella Gaser Förbund (EIGA) Dok. 169 ”Klassificerings- och\netikettguide”, i dess ändrade lydelse.\nInternational Programme on Chemical Safety (http://www.inchem.org/)\nISO 10156:2010 Gaser och gasblandningar - Bestämning av brandpotential och\noxideringsförmåga för val av cylinderventilsutlopp.\nMatheson Gas Data Book, 7:e upplaga.\nNational Institute for Standards and Technology (NIST) Nummer 69 i\nstandardreferensdatabasen\nDen före detta Europeiska kemikaliebyråns (ECB) ESIS-plattform (European chemical\nSubstances 5 Information System) ESIS (http://ecb.jrc.ec.europa.eu/esis/).\nDen europeiska kemiindustrins samarbetsorganisation (CEFIC) ERICards.\nFörenta staternas nationella medicinska biblioteks nätverk för toxikologiska data\nTOXNET (http://toxnet.nlm.nih.gov/index.html)\nTröskelvärden (TLV) från Amerikanska sammanslutningen för statsanställda yrkes- och miljöhygieniker (ACGIH).\nÄmnesspecifik information från leverantörerna.\nUppgifterna i detta dokument tros vara korrekta vid tidpunkten för publicering."
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Formulering av H-angivelser I avsnitt 2 och 3\nH280 Innehåller gas under tryck. Kan explodera vid uppvärmning."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Utbildningsinformation: Användare av andningsapparater måste utbildas. Risken för kvävning är ofta\nförbisedd och måste påpekas vid utbildning av personal. Säkerställ att operatörerna\nförstår farorna."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Klassificering enligt förordningen (EG) nr 1272/2008 och ändringarna i den.\nPress. Gas Compr. Gas, H280"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Annan information: Före användning av produkten i en ny process eller försök bör en genomgång av\nmaterialkompatibilitet och säkerhetsstudie genomföras. Se till att luftväxlingen är\ntillräcklig. Se till att alla nationella/lokala bestämmelser följs up. Det tages inget\nansvar för eventuell skada eller förlust som kan uppstå som följd av användandet av\ndetta dokument."
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "AVSNITT 16: Annan information"
+      ],
+      "zone": "main",
+      "text": "Senast uppdaterad: 18.09.2023\nFriskrivningsklausul: Denna information ges utan garantier. Vi anser att denna information är korrekt.\nDenna information bör användas till att göra en självständig bedömning av\nmetoderna för att skydda de anställda och miljön."
+    }
+  ]
+}
