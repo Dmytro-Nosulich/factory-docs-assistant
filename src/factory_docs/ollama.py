@@ -110,7 +110,7 @@ def check_ollama(
 ) -> None:
     """Fail with what to do unless Ollama answers and has every model pulled (S1-17 preflight).
 
-    Run before the first call of `make run`, so a missing model does not show up hours in.
+    Run before the first `make run-extraction` call, so a missing model does not show up hours in.
     """
     try:
         with httpx.Client(base_url=settings.base_url, timeout=10, transport=transport) as http:

@@ -35,7 +35,7 @@ def test_result_file_names_its_configuration(path):
 
 
 def test_report_tables_are_up_to_date():
-    """REPORT.md shows what `make comparison` makes from the committed runs (S1-17)."""
+    """The stage 1 report shows what `make comparison` makes from the committed runs (S1-17)."""
     from factory_docs.config import load_config
     from factory_docs.report import REPORT, comparison_section, read_section
 

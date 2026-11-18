@@ -29,7 +29,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
 - **Live check (2026-10-21):**
   - D003, the longest prompt, on `qwen3.5:9b`: 30,627 prompt tokens fit in `num_ctx = 65536`, and the reply was valid. qwen's tokenizer counts about 38% fewer tokens than Claude's for the same prompt (49,477).
   - The same document with `num_ctx` forced to 16,384 was recorded as `error` ("prompt did not fit"), never as valid. Memory in `ollama ps` at the 64k context: 9.1 GB.
-- **CPU-only timing not measured:** the MLX runner also ignores `num_gpu = 0` (`ollama ps` still showed 100% GPU, and one document took GPU time). A real CPU-only timing needs a llama.cpp build such as `qwen3.5:9b-q4_K_M` (6.6 GB). The user chose not to download it, so REPORT.md reports only M4 Pro GPU latency and says laptop speed was not measured. The `num_gpu` option was removed from the config, because it had no effect here.
+- **CPU-only timing not measured:** the MLX runner also ignores `num_gpu = 0` (`ollama ps` still showed 100% GPU, and one document took GPU time). A real CPU-only timing needs a llama.cpp build such as `qwen3.5:9b-q4_K_M` (6.6 GB). The user chose not to download it, so the stage 1 report (`docs/reports/stage-1.md`) gives only M4 Pro GPU latency and says laptop speed was not measured. The `num_gpu` option was removed from the config, because it had no effect here.
 - **Revisit if:** a laptop run (llama.cpp runner) reports a `prompt_eval_count` capped at `num_ctx`. Then the check catches it as designed; confirm that and note it here.
 - **Status:** decided.
 
@@ -79,5 +79,5 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - D038 (2026-10-20, while labeling): the PDF's column and box layout breaks the reading order. The section 3 table (line 77) comes after section 4 and the hazard-label box, and "Form : Verdichtetes Gas" from section 9 (line 192) comes right after the section 13 disposal text. All values are present, but not inside their sections. Accepted as noise; check it first if D038 components or physical_state fail.
   - Other noise seen while labeling the golden set: split digits in a value (D008 flash point "> 6 5 ° C") and words hyphenated across lines (D010 "наслід- ками"). The golden labels hold the document's real values ("> 65 °C", "наслідками").
   - D001 makes pypdf warn about 200 times that `fontTools` is needed for a font that holds only the space character. The text is unaffected, so the script logs pypdf errors only instead of adding `fontTools`.
-- **Revisit if:** extraction errors (not model errors) show up in the error analysis in `REPORT.md`, or stage 2 needs table structure. Then try PyMuPDF or pdfplumber on the failing documents.
+- **Revisit if:** extraction errors (not model errors) show up in the error analysis in `docs/reports/stage-1.md`, or stage 2 needs table structure. Then try PyMuPDF or pdfplumber on the failing documents.
 - **Status:** decided.

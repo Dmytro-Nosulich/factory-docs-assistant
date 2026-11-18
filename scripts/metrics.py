@@ -3,7 +3,7 @@
 Usage: uv run python scripts/metrics.py [RUN_ID ...]
        uv run python scripts/metrics.py --report
 With no run IDs, every run under results/runs/. Reads only saved results: no model calls.
---report rewrites the comparison tables in REPORT.md instead (S1-17, `make comparison`): the
+--report rewrites the tables in docs/reports/stage-1.md instead (S1-17, `make comparison`): the
 newest complete run of each [comparison] configuration (factory_docs.report), with no
 timestamp, so the same runs always give the same text.
 """
@@ -21,7 +21,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("run_ids", nargs="*", help="directory names under results/runs/")
     parser.add_argument(
-        "--report", action="store_true", help="rewrite the comparison tables in REPORT.md"
+        "--report", action="store_true", help="rewrite the stage 1 comparison tables"
     )
     args = parser.parse_args()
     config = load_config()
@@ -29,7 +29,7 @@ def main() -> None:
         if args.run_ids:
             parser.error("--report picks its runs from [comparison] in config.toml")
         run_ids, missing = update_report(config)
-        print(f"REPORT.md: comparison tables rebuilt from {len(run_ids)} runs")
+        print(f"docs/reports/stage-1.md: comparison tables rebuilt from {len(run_ids)} runs")
         for run_id in run_ids:
             print(f"  {run_id}")
         if missing:
@@ -40,7 +40,7 @@ def main() -> None:
     if missing:
         sys.exit(f"no {SUMMARY} in results/runs/ for: {', '.join(missing)}")
     if not run_ids:
-        sys.exit("no runs in results/runs/: run `make run` first")
+        sys.exit("no runs in results/runs/: run `make run-extraction` first")
     print(format_tables([run_metrics(RUNS / run_id, config) for run_id in run_ids]))
 
 

@@ -7,7 +7,7 @@ and after, from the metrics script).
 
 The measured effects below come from these 9 runs (all 35 SDS each), which stay in
 `results/runs/`; re-compute them with `make metrics RUNS="<run IDs>"`. The comparison tables in
-`REPORT.md` use the newest full `make run`, so their local-model numbers can differ.
+`docs/reports/stage-1.md` use the newest full `make run-extraction`, so their local-model numbers can differ.
 - v1: `20261021T213726Z_haiku-5.5_v1`, `20261021T213849Z_qwen3.5-9b_default_v1`,
   `20261021T215749Z_qwen3.5-9b_greedy_v1`
 - v2: `20261027T082437Z_haiku-5.5_v2`, `20261027T082633Z_qwen3.5-9b_default_v2`,
@@ -16,7 +16,7 @@ The measured effects below come from these 9 runs (all 35 SDS each), which stay 
   `20261027T094416Z_qwen3.5-9b_greedy_v3`
 
 Haiku 4.5 (default and greedy) was added later, on 2026-10-28. Its rows below come from its 6 runs,
-which are also the ones in `REPORT.md`:
+which are also the ones in `docs/reports/stage-1.md`:
 - v1: `20261028T111338Z_haiku-4.5_default_v1`, `20261028T112052Z_haiku-4.5_greedy_v1`
 - v2: `20261028T111601Z_haiku-4.5_default_v2`, `20261028T112316Z_haiku-4.5_greedy_v2`
 - v3: `20261028T111825Z_haiku-4.5_default_v3`, `20261028T112541Z_haiku-4.5_greedy_v3`
@@ -149,7 +149,7 @@ which are also the ones in `REPORT.md`:
   - Made worse on Haiku 4.5: D010 physical_state, `solid` instead of null ("крем,
     паста") at both temperatures; v2 had it right. The new synonym list ("powder, crystals ->
     solid") seems to have pulled the paste to solid. qwen greedy v3 did the same in the newer
-    run in `REPORT.md`.
+    run in `docs/reports/stage-1.md`.
   - Unchanged and not targeted: Haiku revision_date for D007 (v2 2022-10-10, right; v3
     null). v3 did not touch dates, so this counts as run-to-run variance.
   - Caveat: one run per configuration and 10 golden documents; qwen default samples at

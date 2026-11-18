@@ -1,8 +1,8 @@
 # How the metrics are measured
 
-This file defines every number that `make metrics` prints and that `make comparison` writes into `REPORT.md` (code: `src/factory_docs/metrics.py`, tests: `tests/test_metrics.py`). Rules agreed 2026-10-21. When a rule changes, change it here, in the code and in the tests together.
+This file defines every number that `make metrics` prints and that `make comparison` writes into `docs/reports/stage-1.md` (code: `src/factory_docs/metrics.py`, tests: `tests/test_metrics.py`). Rules agreed 2026-10-21. When a rule changes, change it here, in the code and in the tests together.
 
-The script reads only saved results in `results/runs/<run_id>/`, so every number can be re-computed without calling a model. The table has one row per run. A run is one model with one prompt version and one sampling configuration. `REPORT.md` shows one run per configuration in `[comparison]` in `config.toml`: the newest one with every stage 1 document, the current prompt file and the current parameters (`src/factory_docs/report.py`).
+The script reads only saved results in `results/runs/<run_id>/`, so every number can be re-computed without calling a model. The table has one row per run. A run is one model with one prompt version and one sampling configuration. `docs/reports/stage-1.md` shows one run per configuration in `[comparison]` in `config.toml`: the newest one with every stage 1 document, the current prompt file and the current parameters (`src/factory_docs/report.py`).
 
 ## Field accuracy on the golden set
 Model outputs are compared with the hand-labeled files in `data/golden/` (10 documents). Each document has 9 fields (`src/factory_docs/schema.py`). Each field either matches or does not.

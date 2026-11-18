@@ -88,7 +88,7 @@ def test_cells_without_a_run_are_listed(tmp_path):
     section, run_ids, missing = comparison_section(load_config(), tmp_path, DOCS)
     assert (run_ids, len(missing)) == ([], 15)
     assert "No complete run yet: haiku-5.5 v1," in section
-    assert "No complete runs: run `make run`." in section
+    assert "No complete runs: run `make run-extraction`." in section
 
 
 def test_update_report_keeps_the_hand_written_text(tmp_path):

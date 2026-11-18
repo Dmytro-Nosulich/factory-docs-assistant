@@ -36,7 +36,7 @@ class BudgetSettings(Settings):
 
 
 class ComparisonSettings(Settings):
-    """The matrix plain `make run` runs, S1-17; sampling applies to models that accept it."""
+    """What plain `make run-extraction` runs, S1-17; sampling applies to models that take it."""
 
     models: list[str] = Field(min_length=1)
     prompt_versions: list[str] = Field(min_length=1)

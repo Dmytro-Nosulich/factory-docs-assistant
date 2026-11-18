@@ -10,9 +10,9 @@ repair_prompt_version = "v1"
 [budget]
 stop_at_usd = 10.0         # stop before the next call once all results/ together cost this (raised from 4.0 in S1-22)
 
-# What plain `make run` runs (S1-17): every model x prompt version, and for a model that takes
+# What plain `make run-extraction` runs (S1-17): every model x prompt version, and for a model that takes
 # sampling (Ollama models, haiku-4.5) every sampling configuration too; haiku-5.5 takes none
-# (docs/ISSUES.md I-003). Then REPORT.md is rebuilt.
+# (docs/ISSUES.md I-003). Then docs/reports/stage-1.md is rebuilt.
 [comparison]
 models = ["haiku-5.5", "haiku-4.5", "qwen3.5-9b"]
 prompt_versions = ["v1", "v2", "v3"]

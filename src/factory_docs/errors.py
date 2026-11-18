@@ -1,6 +1,6 @@
 """Golden-set misses of the comparison runs, S1-18: what was extracted instead of what.
 
-Reads the same runs as the comparison tables in REPORT.md (`factory_docs.report`: the newest
+Reads the same runs as the stage 1 comparison tables (`factory_docs.report`: the newest
 complete run of each [comparison] configuration) and scores the first response of every golden
 document with the rules of docs/METRICS.md; an invalid or error result misses all 9 fields, as
 in the headline. Equal misses (same document, field, extracted and expected value) are grouped,

@@ -1,4 +1,4 @@
-"""Entry point for `python -m factory_docs` (used by `make run`): the full extraction run, S1-08.
+"""`python -m factory_docs` (used by `make run-extraction`): the full extraction run, S1-08.
 
 Usage: uv run python -m factory_docs --all [--docs D001 D003]
        uv run python -m factory_docs [--model haiku-5.5] [--sampling greedy] [--docs D001 D003]
@@ -6,8 +6,9 @@ Usage: uv run python -m factory_docs --all [--docs D001 D003]
        uv run python -m factory_docs --repair RUN_ID
 One model call per document (retries included), plus one repair call for an invalid reply;
 paid for cloud models and free for local (Ollama) ones; see factory_docs.run for the layout.
---all (plain `make run`, S1-17) runs every configuration in [comparison] in config.toml, one
-new run each, then rewrites the comparison tables in REPORT.md (factory_docs.report).
+--all (plain `make run-extraction`, S1-17) runs every configuration in [comparison] in
+config.toml, one new run each, then rewrites the comparison tables in docs/reports/stage-1.md
+(factory_docs.report).
 --repair gives the invalid replies of a saved run their repair attempt (S1-15), with the
 run's model, sampling and prompt version.
 """
@@ -91,7 +92,7 @@ def main(argv: list[str] | None = None) -> None:
     parser.add_argument(
         "--all",
         action="store_true",
-        help="every configuration in [comparison] in config.toml, then the REPORT.md tables",
+        help="every configuration in [comparison] in config.toml, then the stage 1 report tables",
     )
     parser.add_argument("--model", help="model key from config.toml (default: haiku-5.5)")
     parser.add_argument(
@@ -184,7 +185,7 @@ def run_one(
 
 
 def run_matrix(doc_ids: list[str], parser: argparse.ArgumentParser) -> None:
-    """Plain `make run` (S1-17): one new run per [comparison] cell, then the REPORT.md tables."""
+    """Plain `make run-extraction` (S1-17): one run per [comparison] cell, then the report."""
     config = load_config()
     cells = matrix_cells(config)
     try:
@@ -203,7 +204,7 @@ def run_matrix(doc_ids: list[str], parser: argparse.ArgumentParser) -> None:
         made.append(run_dir.name)
 
     run_ids, missing = update_report(load_config())
-    print(f"\nREPORT.md: comparison tables rebuilt from {len(run_ids)} runs")
+    print(f"\ndocs/reports/stage-1.md: comparison tables rebuilt from {len(run_ids)} runs")
     left_out = [run_id for run_id in made if run_id not in run_ids]
     if left_out:
         print(

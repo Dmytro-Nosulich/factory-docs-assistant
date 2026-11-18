@@ -4,9 +4,9 @@ An AI assistant for industrial documentation: equipment manuals, safety data she
 
 Real factory documentation is closed, so this project uses only **public, openly available documents** as stand-ins. Each document's source URL and terms are listed in `data/manifest.csv`.
 
-> Work in progress: stage 1 (structured extraction).
+> Stage 1 (structured extraction) is complete. Stage 2 (cited question answering with RAG) is in progress, so the commands below run stage 1.
 
-## Quick start
+## Stage 1 quick start
 
 **You need**
 - [uv](https://docs.astral.sh/uv/) (installs the right Python version, 3.11, automatically) and `make`
@@ -16,30 +16,30 @@ Real factory documentation is closed, so this project uses only **public, openly
 **Run**
 ```sh
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
-make run               # every model x prompt x sampling on all 35 documents, then REPORT.md
+make run-extraction    # every model x prompt x sampling on all 35 documents, then the stage 1 report
 ```
 
 **Time:** about 2 h 15 min on an Apple M4 Pro (mostly the local model).
 
 **Cost:** about $3.62 in OpenRouter credit.
 
-**Results:** the comparison tables, the error analysis and the final model choice are in [REPORT.md](REPORT.md). `make comparison` rebuilds the tables from the committed results, with no model calls and no cost.
+**Results:** the comparison tables, the error analysis and the final model choice are in [docs/reports/stage-1.md](docs/reports/stage-1.md). `make comparison` rebuilds the tables from the committed results, with no model calls and no cost.
 
-## Details (optional)
+## Stage 1 details (optional)
 
 ### Other commands
 ```sh
-make run DOCS="D001 D007"   # the full matrix on two documents: a quick check (the REPORT.md tables keep full runs only)
+make run-extraction DOCS="D001 D007"   # the full matrix on two documents: a quick check (the report tables keep full runs only)
 make extract-one DOC=D001   # extract one document with the cloud model (one paid call)
 make repair RUN=<run_id>    # one repair attempt for each invalid reply of a saved run
 make metrics           # metrics table of all saved runs (rules: docs/METRICS.md)
-make comparison        # rewrite the comparison tables in REPORT.md from saved runs (no model calls)
+make comparison        # rewrite the stage 1 comparison tables from saved runs (no model calls)
 make test              # run tests
 make lint              # lint and format check
 ```
 
 ### The full run
-`make run` runs every configuration in `[comparison]` in `config.toml`: Haiku 5.5 with prompts v1, v2 and v3, then Haiku 4.5 and the local model, each with every prompt and each sampling configuration (`default`, `greedy`). That makes 15 runs. Each run sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`), one at a time. Before the first call it checks that the key is set, Ollama answers and the model is pulled. At the end it rewrites the comparison tables in `REPORT.md`, using the newest complete run of each configuration. Measured from the `run.json` files of the 15 runs in `REPORT.md`, a full run takes about 2 h 15 min on an Apple M4 Pro and costs about $3.62:
+`make run-extraction` runs every configuration in `[comparison]` in `config.toml`: Haiku 5.5 with prompts v1, v2 and v3, then Haiku 4.5 and the local model, each with every prompt and each sampling configuration (`default`, `greedy`). That makes 15 runs. Each run sends every stage 1 document (the 35 safety data sheets with `stage` 1 in `data/manifest.csv`), one at a time. Before the first call it checks that the key is set, Ollama answers and the model is pulled. At the end it rewrites the comparison tables in `docs/reports/stage-1.md`, using the newest complete run of each configuration. Measured from the `run.json` files of the 15 runs in `docs/reports/stage-1.md`, a full run takes about 2 h 15 min on an Apple M4 Pro and costs about $3.62:
 - each Haiku 5.5 run about 1.5 min and $0.07;
 - each Haiku 4.5 run about 2.5 min and $0.55-0.58 (6 runs on 2026-10-28, 14.5 min and $3.41 in all; it costs 10x Haiku 5.5 per token);
 - each local run about 19-20 min and free.
@@ -53,11 +53,11 @@ Budget guard: before each call, the cost recorded in all of `results/` is checke
 ### One configuration
 `MODEL`, `SAMPLING` or `PROMPT` runs one configuration instead of all of them (without `MODEL`: the cloud model). Local models run through [Ollama](https://ollama.com) and are sized for an ordinary laptop (32 GB RAM): 4-12B parameters. Pass a model key from `config.toml`:
 ```sh
-make run MODEL=haiku-5.5                        # the cloud model, all 35 documents
-make run MODEL=qwen3.5-9b                       # all 35 documents, no API cost
-make run MODEL=qwen3.5-9b DOCS="D001 D007"      # a subset
-make run MODEL=qwen3.5-9b SAMPLING=greedy       # another sampling configuration
-make run MODEL=qwen3.5-9b PROMPT=v2             # another prompt version (prompts/CHANGELOG.md)
+make run-extraction MODEL=haiku-5.5                        # the cloud model, all 35 documents
+make run-extraction MODEL=qwen3.5-9b                       # all 35 documents, no API cost
+make run-extraction MODEL=qwen3.5-9b DOCS="D001 D007"      # a subset
+make run-extraction MODEL=qwen3.5-9b SAMPLING=greedy       # another sampling configuration
+make run-extraction MODEL=qwen3.5-9b PROMPT=v2             # another prompt version (prompts/CHANGELOG.md)
 ```
 Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in `config.toml`: `default` (1.0 / 0.95, the model's own defaults) and `greedy` (0.0 / 1.0). Without `SAMPLING` a model uses the table named in its `sampling` key. The cloud models: Haiku 5.5 takes no sampling parameters, and Haiku 4.5 gets only the `temperature` of the table, because Claude 4+ models reject `temperature` and `top_p` in one request (`docs/ISSUES.md` I-003). `num_ctx` (the context window) is set explicitly per model. A prompt that does not fit is recorded as `error` and never as a reply, because some Ollama runners cut long prompts silently (`docs/ISSUES.md` I-004).
 
@@ -69,6 +69,7 @@ Sampling (`temperature`, `top_p`) comes from the named `[sampling.*]` tables in 
 - `data/raw/`: source PDFs; `data/manifest.csv`: document list with source and terms
 - `prompts/`: versioned prompts
 - `results/runs/`: one folder per run, with every model output and its configuration
-- `REPORT.md`: the comparison tables (generated) and the analysis
+- `docs/reports/stage-1.md`: the stage 1 comparison tables (generated) and analysis
+- `REPORT.md`: the stage 2 report (in progress)
 - `scripts/`: helper scripts
 - `tests/`: tests
