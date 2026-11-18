@@ -1,5 +1,6 @@
 import csv
 import re
+import zipfile
 from datetime import date
 from pathlib import Path
 
@@ -17,7 +18,11 @@ REQUIRED = [
     "language",
     "doc_type",
     "downloaded_at",
+    "format",
+    "in_rag_index",
 ]
+FORMATS = {"pdf", "html", "docx", "md"}
+EXCLUDED_FROM_RAG = {"D023", "D024", "D027", "D028"}
 
 
 @pytest.fixture(scope="module")
@@ -40,20 +45,63 @@ def test_ids_unique_and_well_formed(rows):
     assert not bad, f"malformed ids: {bad}"
 
 
-def test_every_row_has_pdf_and_every_pdf_has_row(rows):
-    listed = {r["id"] for r in rows}
-    on_disk = {p.stem for p in RAW.glob("*.pdf")}
-    assert not listed - on_disk, f"listed but no PDF: {sorted(listed - on_disk)}"
-    assert not on_disk - listed, f"PDF not in manifest: {sorted(on_disk - listed)}"
+def raw_path(row: dict[str, str]) -> Path:
+    return RAW / f"{row['id']}.{row['format']}"
 
 
-def test_pdfs_are_real_pdfs(rows):
-    not_pdf = []
-    for r in rows:
-        with (RAW / f"{r['id']}.pdf").open("rb") as f:
-            if f.read(5) != b"%PDF-":
-                not_pdf.append(r["id"])
-    assert not not_pdf, f"files without a PDF header: {not_pdf}"
+def test_every_format_is_known_and_present(rows):
+    assert {r["format"] for r in rows} == FORMATS
+
+
+def test_every_row_has_one_raw_file_and_every_raw_file_has_a_row(rows):
+    listed = {raw_path(r).name for r in rows}
+    on_disk = {p.name for p in RAW.iterdir() if p.is_file() and not p.name.startswith(".")}
+    assert not listed - on_disk, f"listed but no file: {sorted(listed - on_disk)}"
+    assert not on_disk - listed, f"file not in manifest: {sorted(on_disk - listed)}"
+
+
+def has_expected_content(row: dict[str, str]) -> bool:
+    path = raw_path(row)
+    if row["format"] == "pdf":
+        with path.open("rb") as f:
+            return f.read(5) == b"%PDF-"
+    if row["format"] == "docx":
+        if not zipfile.is_zipfile(path):
+            return False
+        with zipfile.ZipFile(path) as archive:
+            return "word/document.xml" in archive.namelist()
+    text = path.read_text(encoding="utf-8")
+    if row["format"] == "html":
+        return re.search(r"<(p|div|h[1-6])[\s>]", text) is not None
+    return re.search(r"^#{1,6} \S", text, re.MULTILINE) is not None
+
+
+def test_raw_files_have_the_content_of_their_format(rows):
+    wrong = [r["id"] for r in rows if not has_expected_content(r)]
+    assert not wrong, f"content does not match the format: {wrong}"
+
+
+def test_new_versions_point_to_an_older_document_of_the_same_kind(rows):
+    by_id = {r["id"]: r for r in rows}
+    pairs = [r for r in rows if r["supersedes"]]
+    assert len(pairs) >= 3, f"only {len(pairs)} old/new version pairs"
+    for new in pairs:
+        old = by_id.get(new["supersedes"])
+        assert old is not None, f"{new['id']} supersedes an unknown document"
+        assert old["id"] != new["id"], new["id"]
+        assert old["format"] == new["format"], new["id"]
+        assert old["doc_type"] == new["doc_type"], new["id"]
+        # Both versions stay searchable: the outdated-version trap questions need them.
+        assert {old["in_rag_index"], new["in_rag_index"]} == {"yes"}, new["id"]
+
+
+def test_rag_scope(rows):
+    # Decision 14: the four 540-1028 page documents stay out of the index.
+    assert {r["in_rag_index"] for r in rows} == {"yes", "no"}
+    assert {r["id"] for r in rows if r["in_rag_index"] == "no"} == EXCLUDED_FROM_RAG
+    in_scope = [r for r in rows if r["in_rag_index"] == "yes"]
+    assert len(in_scope) >= 30, f"only {len(in_scope)} documents in scope"
+    assert {r["format"] for r in in_scope} == FORMATS
 
 
 def test_field_formats(rows):
