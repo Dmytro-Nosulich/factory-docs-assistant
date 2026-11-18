@@ -1,0 +1,2128 @@
+{
+  "doc_id": "D057",
+  "format": "pdf",
+  "page_count": 6,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 1 of 6"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "1. Identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Product identifier"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Product identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Further trade names"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Further trade names"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Further trade names"
+      ],
+      "zone": "main",
+      "text": "BO5002902, 30 l\nBO5002932 200 l"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Recommended use of the chemical and restrictions on use"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Recommended use of the chemical and restrictions on use"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Use of the substance/mixture"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Use of the substance/mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Use of the substance/mixture"
+      ],
+      "zone": "main",
+      "text": "cutting fluid"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Manufacturer"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Manufacturer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Manufacturer"
+      ],
+      "zone": "main",
+      "text": "Company name: BOHLE AG\nStreet: Dieselstr. 10\nPlace: D-42781 Haan\nTelephone: Telefax:+49 2129 5568-0 +49 2129 5568-282\nE-mail: info@bohle.de\nContact person: +49 2129 5568-300Dr. Martin SchadeTelephone:\nE-mail: MSDS@bohle.de\nInternet: www.bohle.com\nResponsible Department: Chemie"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Supplier"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Supplier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Supplier"
+      ],
+      "zone": "main",
+      "text": "Company name: Bohle America / Portals Hardware"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "1. Identification",
+        "Supplier"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Street:",
+          "925 Lydia Ave",
+          ""
+        ],
+        [
+          "",
+          "Place:",
+          "Kansas City, MO 64106 USA",
+          ""
+        ],
+        [
+          "",
+          "Telephone:",
+          "+1 888 838 6006",
+          ""
+        ],
+        [
+          "",
+          "E-mail:",
+          "",
+          "support@portalshardware.com"
+        ],
+        [
+          "Emergency phone number:",
+          "",
+          "Emergency CONTACT (24-Hour-Number): GBK GmbH +49 (0)6132-84463",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard(s) identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "2. Hazard(s) identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard(s) identification",
+        "Classification of the chemical"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Classification of the chemical"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard(s) identification",
+        "29 CFR Part 1910.1200"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "29 CFR Part 1910.1200"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2. Hazard(s) identification",
+        "29 CFR Part 1910.1200"
+      ],
+      "zone": "main",
+      "text": "This mixture is not classified as hazardous in accordance with Regulation 29 CFR 1910.1200(d)."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2. Hazard(s) identification",
+        "Label elements"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Label elements"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "3. Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients",
+        "Mixtures"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Mixtures"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients",
+        "Chemical characterization"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Chemical characterization"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients",
+        "Chemical characterization"
+      ],
+      "zone": "main",
+      "text": "Hydrocarbons, aliphatic / Emulsifier"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients",
+        "Relevant ingredients"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Relevant ingredients"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "3. Composition/information on ingredients",
+        "Relevant ingredients"
+      ],
+      "zone": "main",
+      "text": "CAS No Components Quantity\n8042-47-5 White mineral oil 99.4 %"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "4. First-aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "4. First-aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "4. First-aid measures",
+        "Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Description of first aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "4. First-aid measures",
+        "General information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "General information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "4. First-aid measures",
+        "General information"
+      ],
+      "zone": "main",
+      "text": "First aider: Pay attention to self-protection!"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 2 of 6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "General information"
+      ],
+      "zone": "main",
+      "text": "Move out of dangerous area.\nTake off contaminated clothing and shoes immediately ."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After inhalation"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "After inhalation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After inhalation"
+      ],
+      "zone": "main",
+      "text": "Remove casualty to fresh air and keep warm and at rest.\nIf symptoms persist, call a physician."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After contact with skin"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "After contact with skin"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After contact with skin"
+      ],
+      "zone": "main",
+      "text": "Wash off with soap and plenty of water .\nIf symptoms persist, call a physician."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After contact with eyes"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "After contact with eyes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After contact with eyes"
+      ],
+      "zone": "main",
+      "text": "Rinse thoroughly with plenty of water, also under the eyelids. Remove contact lenses, if present and easy to\ndo. Continue rinsing.\nConsult a physician."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After ingestion"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "After ingestion"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "After ingestion"
+      ],
+      "zone": "main",
+      "text": "Rinse mouth thoroughly with water.\nDo NOT induce vomiting .\nCall a physician immediately."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "text": "May be fatal if swallowed and enters airways."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4. First-aid measures",
+        "Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Treat symptomatically."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "5. Fire-fighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Extinguishing media"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Suitable extinguishing media"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Suitable extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Suitable extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Carbon dioxide (CO2)\nExtinguishing powder\nalcohol resistant foam\nWater spray jet"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Unsuitable extinguishing media"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Unsuitable extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Unsuitable extinguishing media"
+      ],
+      "zone": "main",
+      "text": "high volume water jet"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Specific hazards arising from the chemical"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Specific hazards arising from the chemical"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Specific hazards arising from the chemical"
+      ],
+      "zone": "main",
+      "text": "Heating or fire can release toxic gas.\nCarbon dioxide, Carbon monoxide"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Special protective equipment and precautions for fire-fighters"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Special protective equipment and precautions for fire-fighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Special protective equipment and precautions for fire-fighters"
+      ],
+      "zone": "main",
+      "text": "Standard procedure for chemical fires.\nSelf-contained respirator (breathing apparatus) according to OSHA Standard - 29 CFR: 1910.134 or ANSI\nZ88.2."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Additional information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Additional information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5. Fire-fighting measures",
+        "Additional information"
+      ],
+      "zone": "main",
+      "text": "Use water spray to cool unopened containers."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "6. Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "General advice"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "General advice"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "General advice"
+      ],
+      "zone": "main",
+      "text": "Use personal protective equipment."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Do not flush into surface water or sanitary sewer system.\nDo not allow to enter into soil/subsoil.\nIn case of gas escape or of entry into waterways, soil or drains, inform the responsible authorities."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6. Accidental release measures",
+        "Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 3 of 6"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "6. Accidental release measures",
+        "Other information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "6. Accidental release measures",
+        "Other information"
+      ],
+      "zone": "main",
+      "text": "Provide adequate ventilation.\nPrevent spread over a wide area (e.g. by containment or oil barriers).\nAbsorb with liquid-binding material (sand, diatomaceous earth, acid- or universal binding agents). Collect in\nclosed and suitable containers for disposal. Dispose of waste according to applicable legislation."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "6. Accidental release measures",
+        "Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "6. Accidental release measures",
+        "Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "Personal protection equipment (PPE): see section 8\nDisposal: see section 13"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "7. Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Precautions for safe handling"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on safe handling"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Advice on safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on safe handling"
+      ],
+      "zone": "main",
+      "text": "Provide adequate ventilation as well as local exhaustion at critical locations.\nTo avoid risks to man and the environment, comply with the instructions for use."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on protection against fire and explosion"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Advice on protection against fire and explosion"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on protection against fire and explosion"
+      ],
+      "zone": "main",
+      "text": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.\nUsual measures for fire prevention.\nTake precautionary measures against static discharges.\nVapors may form explosive mixtures with air."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on general occupational hygiene"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Advice on general occupational hygiene"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Advice on general occupational hygiene"
+      ],
+      "zone": "main",
+      "text": "Do not breathe vapours or spray mist.\nAvoid contact with skin, eyes and clothing. Take off all contaminated clothing immediately .\nWash hands before breaks and immediately after handling the product .\nWhen using do not eat or drink. Do not smoke.\nKeep away from food, drink and animal feedingstuffs ."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Requirements for storage rooms and vessels"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Requirements for storage rooms and vessels"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Requirements for storage rooms and vessels"
+      ],
+      "zone": "main",
+      "text": "Keep container tightly closed in a cool, well-ventilated place.\nStore in a place accessible by authorized persons only.\nProtect from direct sunlight."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Hints on joint storage"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Hints on joint storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Hints on joint storage"
+      ],
+      "zone": "main",
+      "text": "Incompatible with oxidizing agents."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Further information on storage conditions"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Further information on storage conditions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7. Handling and storage",
+        "Further information on storage conditions"
+      ],
+      "zone": "main",
+      "text": "Recommended storage temperature: 5 - 40°C"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "8. Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Control parameters"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Control parameters"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Additional advice on limit values"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Additional advice on limit values"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Additional advice on limit values"
+      ],
+      "zone": "main",
+      "text": "To date, no national critical limit values exist."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Exposure controls"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Exposure controls"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Appropriate engineering controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "text": "Provide adequate ventilation as well as local exhaustion at critical locations."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Individual protection measures, such as personal protective equipment"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Individual protection measures, such as personal protective equipment"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Eye/face protection"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Eye/face protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Eye/face protection"
+      ],
+      "zone": "main",
+      "text": "safety glasses with side-shields conforming to EN166"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Hand protection"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Hand protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Hand protection"
+      ],
+      "zone": "main",
+      "text": "The selected protective gloves have to satisfy the specifications of EU Directive 89/689/EEC and the standard\nEN 374 derived from it.\nGlove material: Butyl caoutchouc (butyl rubber), NBR (Nitrile rubber)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 4 of 6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Hand protection"
+      ],
+      "zone": "main",
+      "text": "Take note of the information given by the producer concerning permeability and break through times , and of\nspecial workplace conditions (mechanical strain, duration of contact)."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Skin protection"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Skin protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Skin protection"
+      ],
+      "zone": "main",
+      "text": "When handling with chemical substances, protective clothing with CE-labels including the four control digits\nmust be worn.\nEN 13034 (type 6 limited splash-tight)"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Respiratory protection"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Respiratory protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Respiratory protection"
+      ],
+      "zone": "main",
+      "text": "In case of insufficient ventilation , wear suitable respiratory equipment. Combination filtering device\nRespirator with filter for organic vapour, Recommended Filter type: A-P2"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Environmental exposure controls"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Environmental exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "8. Exposure controls/personal protection",
+        "Environmental exposure controls"
+      ],
+      "zone": "main",
+      "text": "Do not flush into surface water or sanitary sewer system.\nDo not allow to enter into soil/subsoil.\nIn case of gas escape or of entry into waterways, soil or drains, inform the responsible authorities."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "9. Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Physical state: liquid\nColor: light yellow\nOdor: like: Hydrocarbons"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Test method"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Test method"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Test method"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Melting point/freezing point:",
+          "no data available"
+        ],
+        [
+          "Lower explosion limits:",
+          "no data available"
+        ],
+        [
+          "Upper explosion limits:",
+          "no data available"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Test method"
+      ],
+      "zone": "main",
+      "text": "Flash point: 182 °C ISO 2592\npH-Value: not applicable\nViscosity / kinematic: 16 mm²/s DIN 51562\n(at 40 °C)\nWater solubility: emulsifiable\nVapor pressure: <0,1 hPa\n(at 20 °C)\nDensity (at 20 °C): DIN 517570,87 g/cm³"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Other information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Information with regard to physical hazard classes"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Information with regard to physical hazard classes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Information with regard to physical hazard classes"
+      ],
+      "zone": "main",
+      "text": "Sustained combustibility: No sustained combustibility\nSelf-ignition temperature not auto-flammable"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Other safety characteristics"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other safety characteristics"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Other safety characteristics"
+      ],
+      "zone": "main",
+      "text": "Pour point: ASTM D 97-66\nViscosity / dynamic: 25 mPa·s DIN 54453\n(at 20 °C)"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Further Information"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Further Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "9. Physical and chemical properties",
+        "Further Information"
+      ],
+      "zone": "main",
+      "text": "Vapors may form explosive mixtures with air."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "10. Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Reactivity"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Reactivity"
+      ],
+      "zone": "main",
+      "text": "No hazardous reaction when handled and stored according to provisions."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Chemical stability"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Stability: Stable\nThe mixture is chemically stable under recommended conditions of storage, use and temperature."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 5 of 6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "Hazardous reactions: Will not occur\nVapors may form explosive mixtures with air."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.\nProtect from direct sunlight."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "oxidizing agents"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "10. Stability and reactivity",
+        "Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "No decomposition if used as directed."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "11. Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Information on toxicological effects"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Information on toxicological effects"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "ATEmix calculated"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "ATEmix calculated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "ATEmix calculated"
+      ],
+      "zone": "main",
+      "text": "ATE (oral) > 2000 mg/kg; ATE (dermal) > 2000 mg/kg; ATE (inhalation vapour) > 20 mg/l; ATE (inhalation\ndust/mist) > 5 mg/l"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Irritation and corrosivity"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Irritation and corrosivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Irritation and corrosivity"
+      ],
+      "zone": "main",
+      "text": "Causes skin irritation. May cause eye/skin irritation.\nMay cause eye irritation with susceptible persons.\nCarcinogenicity (OSHA): No ingredient of this mixture is listed.\nCarcinogenicity (IARC): No ingredient of this mixture is listed.\nCarcinogenicity (NTP): No ingredient of this mixture is listed."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Information on other hazards"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "11. Toxicological information",
+        "Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "This information is not available."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "12. Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Ecotoxicity"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Ecotoxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Ecotoxicity"
+      ],
+      "zone": "main",
+      "text": "This product has no known eco-toxicological effects."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Bioaccumulation is unlikely."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "No data available"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "This product does not contain a substance that has endocrine disrupting properties with respect to non-target\norganisms as no components meets the criteria."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "12. Ecological information",
+        "Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Do not flush into surface water or sanitary sewer system.\nAvoid subsoil penetration."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "13. Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations",
+        "Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Waste treatment methods"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations",
+        "Disposal recommendations"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Disposal recommendations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations",
+        "Disposal recommendations"
+      ],
+      "zone": "main",
+      "text": "Can be incinerated, when in compliance with local regulations."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations",
+        "Contaminated packaging"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Contaminated packaging"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "13. Disposal considerations",
+        "Contaminated packaging"
+      ],
+      "zone": "main",
+      "text": "Dispose of completely emptied containers as combustible waste or metal waste depending on the material."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "14. Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "14. Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOHLE AG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to 29 CFR 1910.1200(g)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Cutting Fluid Silberschnitt W41"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision date: 09/08/2026 Product code: BO5002902 Page 6 of 6"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "14. Transport information",
+        "Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "14. Transport information",
+        "Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "ENVIRONMENTALLY HAZARDOUS : No"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "15. Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "15. Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "15. Regulatory information",
+        "U.S. Regulations"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "U.S. Regulations"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "15. Regulatory information",
+        "State Regulations"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "State Regulations"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "15. Regulatory information",
+        "Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65, State of California)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65, State of California)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "15. Regulatory information",
+        "Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65, State of California)"
+      ],
+      "zone": "main",
+      "text": "This product can not expose you to chemicals known to the State of California to cause cancer, birth defects or\nother reproductive harm."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "16. Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "16. Other information"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Hazardous Materials Identification System (HMIS)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Hazardous Materials Identification System (HMIS)"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Hazardous Materials Identification System (HMIS)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Health:",
+          "",
+          "0"
+        ],
+        [
+          "Flammability:",
+          "1",
+          ""
+        ],
+        [
+          "Physical Hazard:",
+          "0",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "NFPA Hazard Ratings"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "NFPA Hazard Ratings"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "NFPA Hazard Ratings"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Health:",
+          "0",
+          "",
+          "0",
+          ""
+        ],
+        [
+          "Flammability:",
+          "0",
+          "0",
+          "",
+          "0"
+        ],
+        [
+          "Reactivity:",
+          "0",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "NFPA Hazard Ratings"
+      ],
+      "zone": "main",
+      "text": "Unique Hazard:"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Changes"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Changes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Changes"
+      ],
+      "zone": "main",
+      "text": "Revision date: 09/08/2026\nRevision No: 1,07\nThis data sheet contains changes from the previous version in section(s): 1."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Other data"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Other data"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Other data"
+      ],
+      "zone": "main",
+      "text": "The information is based on the present level of our knowledge. It does not, however, give assurance of\nproduct properties and establishes no contract legal rights. The receiver of our product is singularly responsible\nfor adhering to existing laws and regulations."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "16. Other information",
+        "Other data"
+      ],
+      "zone": "main",
+      "text": "(The data for the relevant ingredients were taken respectively from the last version of the sub-contractor's safety\ndata sheet.)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,07 - Replaces version: 1,06 USA - en Print date: 09/08/2026"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "doc_id": "D017",
+  "format": "pdf",
+  "page_count": 3,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION OF CONFORMITY"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "KONFORMITÄTSERKLÄRUNG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION DE CONFORMITE"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "CNE 8…up to 33…"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "We, the manufacturer, declare under our sole",
+          "8… up to 2000 VMF…"
+        ],
+        [
+          "responsability that the pump types of the series,",
+          "VMF 0.5… up to 265…"
+        ],
+        [
+          "Als Hersteller erklären wir unter unserer alleinigen",
+          "VMP 10… up to 1200…"
+        ],
+        [
+          "Verantwortung, daβ die Pumpenbauarten der Baureihen,",
+          "VAF 30… up to 150 …"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "Nous, fabricant, déclarons sous notre seule"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Nous, fabricant, déclarons sous notre seule"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "Nous, fabricant, déclarons sous notre seule"
+      ],
+      "zone": "main",
+      "text": "responsabilité que les types de pompes des séries, (The serial number is marked on the product site plate.\nDie Seriennummer ist auf dem Typenschild des Produktes angegeben.\nLe numéro de série est inscrit sur la plaque signalétique du produit)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "Nous, fabricant, déclarons sous notre seule"
+      ],
+      "zone": "main",
+      "text": "in their delivered state comply with the following relevant directives and with the relevant national legislation:"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "in der gelieferten Ausführung folgenden einschlägigen Bestimmungen entsprechen 'und entsprechender"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "in der gelieferten Ausführung folgenden einschlägigen Bestimmungen entsprechen 'und entsprechender"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "in der gelieferten Ausführung folgenden einschlägigen Bestimmungen entsprechen 'und entsprechender"
+      ],
+      "zone": "main",
+      "text": "nationaler Gesetzgebung:"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "dans leur état de livraison sont conformes aux dispositions des directives suivantes et aux législations nationales"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "dans leur état de livraison sont conformes aux dispositions des directives suivantes et aux législations nationales"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "dans leur état de livraison sont conformes aux dispositions des directives suivantes et aux législations nationales"
+      ],
+      "zone": "main",
+      "text": "les transposant :"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "_ MACHINERY 2006/42/EC / MASCHINENRICHTLINIE 2006/42/EG / MACHINES 2006/42/CE"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "_ MACHINERY 2006/42/EC / MASCHINENRICHTLINIE 2006/42/EG / MACHINES 2006/42/CE"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "(and according to the annex 1, §1.5.1, comply with the safety objectives of the Low Voltage Directive"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "(and according to the annex 1, §1.5.1, comply with the safety objectives of the Low Voltage Directive"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "2014/35/EU / und gemäss Anhang 1, §1.5.1, werden die Schutzziele der Niederspannungsrichtlinie 2014/35/EU"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "2014/35/EU / und gemäss Anhang 1, §1.5.1, werden die Schutzziele der Niederspannungsrichtlinie 2014/35/EU"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "eingehalten / et, suivant l'annexe 1, §1.5.1, respectent les objectifs de sécurité de la Directive Basse Tension"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "eingehalten / et, suivant l'annexe 1, §1.5.1, respectent les objectifs de sécurité de la Directive Basse Tension"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "2014/35/UE)"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "2014/35/UE)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "2014/35/UE)"
+      ],
+      "zone": "main",
+      "text": "NOTE / HINWEIS / NOTE:"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "Declared product is not an electrical and electronic equipment (EEE). Once integrated in an EEE, Directive"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Declared product is not an electrical and electronic equipment (EEE). Once integrated in an EEE, Directive"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "2011/65/EU + 2015/863 [RoHS] may become applicable. For this purpose, we declare this product complies"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "2011/65/EU + 2015/863 [RoHS] may become applicable. For this purpose, we declare this product complies"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "with the requirements of this directive. / Das deklarierte Produkt wird nicht als Elektro- und Elektronikgerät"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "with the requirements of this directive. / Das deklarierte Produkt wird nicht als Elektro- und Elektronikgerät"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "(EEE) betrachtet. Ist es jedoch in ein solches Gerät integriert, kann die Richtlinie 2011/65/EU + 2015/863"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "(EEE) betrachtet. Ist es jedoch in ein solches Gerät integriert, kann die Richtlinie 2011/65/EU + 2015/863"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "[RoHS] anwendbar werden. Zu diesem Zweck erklären wir daß dieses Produkt mit den Anforderungen dieser"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "[RoHS] anwendbar werden. Zu diesem Zweck erklären wir daß dieses Produkt mit den Anforderungen dieser"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "Richtlinie übereinstimmt. /Le produit déclaré n'est pas un équipement électrique et électronique (EEE). Une fois"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Richtlinie übereinstimmt. /Le produit déclaré n'est pas un équipement électrique et électronique (EEE). Une fois"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+      ],
+      "zone": "main",
+      "text": "déclarons que ce produit est conforme aux exigences de cette directive."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+      ],
+      "zone": "main",
+      "text": "comply also with the following relevant harmonised European standards:\nsowie auch den Bestimmungen zu folgenden harmonisierten europäischen Normen:\nsont également conformes aux dispositions des normes européennes harmonisées suivantes :"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+      ],
+      "zone": "main",
+      "text": "EN 809:1998+A1:2009;"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "intégré à un EEE, la directive 2011/65/UE + 2015/863 [RoHS] peut devenir applicable. À cette fin, nous"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Person authorized to compile the technical file is:",
+          "WILO SE"
+        ],
+        [
+          "Bevollmächtigter für die Zusammenstellung der technischen Unterlagen ist:",
+          "Group Quality"
+        ],
+        [
+          "Personne autorisée à constituer le dossier technique est :",
+          "Wilopark 1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "D-44263 Dortmund"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Dortmund,"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "H. HERCHENHEIN Wilopark 1\nSenior Vice President - Group Quality & Qualification D-44263 Dortmund"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Declaration n°2215565-rev01 PC As-Sh n°8222974-EU-rev01"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION OF CONFORMITY"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "KONFORMITÄTSERKLÄRUNG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION DE CONFORMITE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "(BG) - български език (CS) - Čeština\nДЕКЛАРАЦИЯ ЗА СЪОТЕТСТВИЕ EC/EO EU/ES PROHLÁŠENÍ O SHODĚ"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE декларират, че продуктите посочени в настоящата декларация",
+          "WILO SE prohlašuje, že výrobky uvedené v tomto prohlášení odpovídají"
+        ],
+        [
+          "съответстват на разпоредбите на следните европейски директиви и",
+          "ustanovením níže uvedených evropských směrnic a národním právním"
+        ],
+        [
+          "приелите ги национални законодателства:",
+          "předpisům, které je přejímají:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Машини 2006/42/ЕО; ; Stroje 2006/42/ES; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "както и на хармонизираните европейски стандарти, упоменати на a rovněž splňují požadavky harmonizovaných evropských norem\nпредишната страница. uvedených na předcházející stránce.\n(DA) - Dansk (EL) - Ελληνικά\nEU/EF-OVERENSSTEMMELSESERKLÆRING ΔΗΛΩΣΗ ΣΥΜΜΟΡΦΩΣΗΣ EE/EK"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE erklærer, at produkterne, som beskrives i denne erklæring, er i",
+          "WILO SE δηλώνει ότι τα προϊόντα που ορίζονται στην παρούσα ευρωπαϊκά"
+        ],
+        [
+          "overensstemmelse med bestemmelserne i følgende europæiske direktiver,",
+          "δήλωση είναι σύμφωνα με τις διατάξεις των παρακάτω οδηγιών και τις"
+        ],
+        [
+          "samt de nationale lovgivninger, der gennemfører dem:",
+          "εθνικές νομοθεσίες στις οποίες έχει μεταφερθεί:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Maskiner 2006/42/EF; ; Μηχανήματα 2006/42/ΕΚ; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "De er ligeledes i overensstemmelse med de harmoniserede europæiske και επίσης με τα εξής εναρμονισμένα ευρωπαϊκά πρότυπα που αναφέρονται\nstandarder, der er anført på forrige side. στην προηγούμενη σελίδα.\n(ES) - Español (ET) - Eesti keel\nDECLARACIÓN DE CONFORMIDAD UE/CE EL/EÜ VASTAVUSDEKLARATSIOONI"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE declara que los productos citados en la presenta declaración",
+          "WILO SE kinnitab, et selles vastavustunnistuses kirjeldatud tooted on"
+        ],
+        [
+          "están conformes con las disposiciones de las siguientes directivas europeas",
+          "kooskõlas alljärgnevate Euroopa direktiivide sätetega ning riiklike"
+        ],
+        [
+          "y con las legislaciones nacionales que les son aplicables :",
+          "seadusandlustega, mis nimetatud direktiivid üle on võtnud:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Máquinas 2006/42/CE; ; Masinad 2006/42/EÜ; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Y igualmente están conformes con las disposiciones de las normas Samuti on tooted kooskõlas eelmisel leheküljel ära toodud harmoniseeritud\neuropeas armonizadas citadas en la página anterior. Euroopa standarditega.\n(FI) - Suomen kieli (GA) - Gaeilge\nEU/EY-VAATIMUSTENMUKAISUUSVAKUUTUS AE/EC DEARBHÚ COMHLÍONTA"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE vakuuttaa, että tässä vakuutuksessa kuvatut tuotteet ovat",
+          "WILO SE ndearbhaíonn an cur síos ar na táirgí atá i ráiteas seo, siad i"
+        ],
+        [
+          "seuraavien eurooppalaisten direktiivien määräysten sekä niihin",
+          "gcomhréir leis na forálacha atá sna treoracha seo a leanas na hEorpa agus"
+        ],
+        [
+          "sovellettavien kansallisten lakiasetusten mukaisia:",
+          "leis na dlíthe náisiúnta is infheidhme orthu:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Koneet 2006/42/EY; ; Innealra 2006/42/EC; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Lisäksi ne ovat seuraavien edellisellä sivulla mainittujen Agus siad i gcomhréir le forálacha na caighdeáin chomhchuibhithe na\nyhdenmukaistettujen eurooppalaisten normien mukaisia. hEorpa dá dtagraítear sa leathanach roimhe seo.\n(HR) - Hrvatski (HU) - Magyar"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "EU/EZ IZJAVA O SUKLADNOSTI",
+          "EU/EK-MEGFELELŐSÉGI NYILATKOZAT"
+        ],
+        [
+          "WILO SE izjavljuje da su proizvodi navedeni u ovoj izjavi u skladu sa",
+          "",
+          "WILO SE kijelenti, hogy a jelen megfelelőségi nyilatkozatban megjelölt"
+        ],
+        [
+          "sljedećim prihvaćenim europskim direktivama i nacionalnim zakonima:",
+          "",
+          "termékek megfelelnek a következő európai irányelvek előírásainak, valamint azok nemzeti jogrendbe átültetett rendelkezéseinek:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "EZ smjernica o strojevima 2006/42/EZ; ; Gépek 2006/42/EK; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "i usklađenim europskim normama navedenim na prethodnoj stranici. valamint az előző oldalon szereplő, harmonizált európai szabványoknak.\n(IT) - Italiano (LT) - Lietuvių kalba\nDICHIARAZIONE DI CONFORMITÀ UE/CE ES/EB ATITIKTIES DEKLARACIJA\nWILO SE dichiara che i prodotti descritti nella presente dichiarazione sono WILO SE pareiškia, kad šioje deklaracijoje nurodyti gaminiai atitinka šių\nconformi alle disposizioni delle seguenti direttive europee nonché alle Europos direktyvų ir jas perkeliančių nacionalinių įstatymų nuostatus:\nlegislazioni nazionali che le traspongono :"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Macchine 2006/42/CE; ; Mašinos 2006/42/EB; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "E sono pure conformi alle disposizioni delle norme europee armonizzate ir taip pat harmonizuotas Europas normas, kurios buvo cituotos\ncitate a pagina precedente. ankstesniame puslapyje.\n(LV) - Latviešu valoda (MT) - Malti\nES/EK ATBILSTĪBAS DEKLARĀCIJU DIKJARAZZJONI TA’ KONFORMITÀ UE/KE"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SEdeklarē, ka izstrādājumi, kas ir nosaukti šajā deklarācijā, atbilst",
+          "WILO SE jiddikjara li l-prodotti speċifikati f’din id-dikjarazzjoni huma"
+        ],
+        [
+          "šeit uzskaitīto Eiropas direktīvu nosacījumiem, kā arī atsevišķu valstu",
+          "konformi mad-direttivi Ewropej li jsegwu u mal-leġislazzjonijiet nazzjonali li"
+        ],
+        [
+          "likumiem, kuros tie ir ietverti:",
+          "japplikawhom:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Mašīnas 2006/42/EK; ; Makkinarju 2006/42/KE; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "un saskaņotajiem Eiropas standartiem, kas minēti iepriekšējā lappusē. kif ukoll man-normi Ewropej armoniżżati li jsegwu imsemmija fil-paġna preċedenti."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "F_GQ_013-64"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION OF CONFORMITY"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "KONFORMITÄTSERKLÄRUNG"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "DECLARATION DE CONFORMITE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "(NL) - Nederlands (PL) - Polski\nEU/EG-VERKLARING VAN OVEREENSTEMMING DEKLARACJA ZGODNOŚCI UE/WE"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE verklaart dat de in deze verklaring vermelde producten voldoen",
+          "WILO SE oświadcza, że produkty wymienione w niniejszej deklaracji są"
+        ],
+        [
+          "aan de bepalingen van de volgende Europese richtlijnen evenals aan de",
+          "zgodne z postanowieniami następujących dyrektyw europejskich i"
+        ],
+        [
+          "nationale wetgevingen waarin deze bepalingen zijn overgenomen:",
+          "transponującymi je przepisami prawa krajowego:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Machines 2006/42/EG; ; Maszyn 2006/42/WE; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "De producten voldoen eveneens aan de geharmoniseerde Europese oraz z nastepującymi normami europejskich zharmonizowanymi podanymi\nnormen die op de vorige pagina worden genoemd. na poprzedniej stronie.\n(PT) - Português (RO) - Română\nDECLARAÇÃO DE CONFORMIDADE UE/CE DECLARAŢIE DE CONFORMITATE UE/CE"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE declara que os materiais designados na presente declaração",
+          "WILO SE declară că produsele citate în prezenta declaraţie sunt conforme"
+        ],
+        [
+          "obedecem às disposições das directivas europeias e às legislações",
+          "cu dispoziţiile directivelor europene următoare şi cu legislaţiile naţionale"
+        ],
+        [
+          "nacionais que as transcrevem :",
+          "care le transpun :"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Máquinas 2006/42/CE; ; Maşini 2006/42/CE; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "E obedecem também às normas europeias harmonizadas citadas na página şi, de asemenea, sunt conforme cu normele europene armonizate citate în\nprecedente. pagina precedentă.\n(SK) - Slovenčina (SL) - Slovenščina\nEÚ/ES VYHLÁSENIE O ZHODE EU/ES-IZJAVA O SKLADNOSTI"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "WILO SE čestne prehlasuje, že výrobky ktoré sú predmetom tejto",
+          "WILO SE izjavlja, da so izdelki, navedeni v tej izjavi, v skladu z določili"
+        ],
+        [
+          "deklarácie, sú v súlade s požiadavkami nasledujúcich európskych direktív a",
+          "naslednjih evropskih direktiv in z nacionalnimi zakonodajami, ki jih"
+        ],
+        [
+          "odpovedajúcich národných legislatívnych predpisov:",
+          "vsebujejo:"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Strojových zariadeniach 2006/42/ES; ; Stroji 2006/42/ES; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "ako aj s harmonizovanými európskych normami uvedenými na\npredchádzajúcej strane. pa tudi z usklajenimi evropskih standardi, navedenimi na prejšnji strani.\n(SV) - Svenska (TR) - Türkçe\nEU/EG-FÖRSÄKRAN OM ÖVERENSSTÄMMELSE AB/CE UYGUNLUK TEYID BELGESI\nWILO SE intygar att materialet som beskrivs i följande intyg WILO SEbu belgede belirtilen ürünlerin aşağıdaki Avrupa yönetmeliklerine\növerensstämmer med bestämmelserna i följande europeiska direktiv och ve ulusal kanunlara uygun olduğunu beyan etmektedir:\nnationella lagstiftningar som inför dem:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Maskiner 2006/42/EG; ; Makine Yönetmeliği 2006/42/AT; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Det överensstämmer även med följande harmoniserade europeiska ve önceki sayfada belirtilen uyumlaştırılmış Avrupa standartlarına.\nstandarder som nämnts på den föregående sidan.\n(IS) - Íslenska (NO) - Norsk\nESB/EB LEYFISYFIRLÝSING EU/EG-OVERENSSTEMMELSESERKLAEING"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "WILO SE lýsir því yfir að vörurnar sem um getur í þessari yfirlýsingu eru í WILO SE erklærer at produktene nevnt i denne erklæringen er i samsvar\nsamræmi við eftirfarandi tilskipunum ESB og landslögum hafa samþykkt: med følgende europeiske direktiver og nasjonale lover:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "Vélartilskipun 2006/42/EB; ; EG–Maskindirektiv 2006/42/EG; ;"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "CNE 8…up to 33…",
+        "D-44263 Dortmund"
+      ],
+      "zone": "main",
+      "text": "og samhæfða evrópska staðla sem nefnd eru í fyrri síðu. og harmoniserte europeiske standarder nevnt på forrige side."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "F_GQ_013-64"
+    }
+  ]
+}

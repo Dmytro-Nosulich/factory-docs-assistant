@@ -1,0 +1,1171 @@
+{
+  "doc_id": "D070",
+  "format": "html",
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "nav",
+      "text": "Skip to content"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "header",
+      "level": 3,
+      "text": "Search HSE.GOV.UK"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "header",
+      "level": 3,
+      "text": "Industries"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "header",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Construction",
+          "depth": 0
+        },
+        {
+          "text": "Health and social care services",
+          "depth": 0
+        },
+        {
+          "text": "Pesticides",
+          "depth": 0
+        },
+        {
+          "text": "Domestic gas",
+          "depth": 0
+        },
+        {
+          "text": "Public services",
+          "depth": 0
+        },
+        {
+          "text": "Agriculture",
+          "depth": 0
+        },
+        {
+          "text": "Entertainment",
+          "depth": 0
+        },
+        {
+          "text": "Waste management and recycling",
+          "depth": 0
+        },
+        {
+          "text": "Motor vehicle repair",
+          "depth": 0
+        },
+        {
+          "text": "Offshore oil and gas",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "header",
+      "text": "Industries A to Z"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "header",
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "header",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Basics for your business",
+          "depth": 0
+        },
+        {
+          "text": "RIDDOR",
+          "depth": 0
+        },
+        {
+          "text": "COSHH",
+          "depth": 0
+        },
+        {
+          "text": "Display screen equipment (DSE)",
+          "depth": 0
+        },
+        {
+          "text": "Asbestos",
+          "depth": 0
+        },
+        {
+          "text": "Work equipment and machinery",
+          "depth": 0
+        },
+        {
+          "text": "Stress and mental health",
+          "depth": 0
+        },
+        {
+          "text": "PAT testing (portable appliance testing)",
+          "depth": 0
+        },
+        {
+          "text": "Work at height",
+          "depth": 0
+        },
+        {
+          "text": "COMAH",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "header",
+      "text": "Topics A to Z"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "header",
+      "level": 3,
+      "text": "About"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "header",
+      "ordered": false,
+      "items": [
+        {
+          "text": "About us",
+          "depth": 0
+        },
+        {
+          "text": "News",
+          "depth": 0
+        },
+        {
+          "text": "Sign up for free updates",
+          "depth": 0
+        },
+        {
+          "text": "Contact us",
+          "depth": 0
+        },
+        {
+          "text": "Statistics",
+          "depth": 0
+        },
+        {
+          "text": "Careers",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "header",
+      "level": 3,
+      "text": "Products"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "header",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Books and tools",
+          "depth": 0
+        },
+        {
+          "text": "Training and events",
+          "depth": 0
+        },
+        {
+          "text": "Testing and monitoring",
+          "depth": 0
+        },
+        {
+          "text": "Research and consultancy",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "nav",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Home",
+          "depth": 0
+        },
+        {
+          "text": "Topics",
+          "depth": 0
+        },
+        {
+          "text": "COSHH",
+          "depth": 0
+        },
+        {
+          "text": "Basics",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "How to carry out a COSHH risk assessment"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment"
+      ],
+      "zone": "main",
+      "text": "A COSHH assessment concentrates on the hazards and risks from hazardous substances in your workplace."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment"
+      ],
+      "zone": "main",
+      "text": "Remember that health hazards are not limited to substances labelled as 'hazardous'. Some harmful substances can be produced by the process you use, for example:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "How to carry out a COSHH risk assessment"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "wood dust from sanding",
+          "depth": 0
+        },
+        {
+          "text": "silica dust from tile cutting",
+          "depth": 0
+        },
+        {
+          "text": "fumes from welding",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Identify the hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Identify the hazards"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Identify the hazards"
+      ],
+      "zone": "main",
+      "text": "Identify which substances are harmful by reading the product labels and safety data sheets (SDS). If in doubt, contact your supplier."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Identify the hazards"
+      ],
+      "zone": "main",
+      "text": "Think about harmful substances produced by your processes, such as cutting or grinding, or to which workers may be otherwise exposed. Examples include:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Identify the hazards"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "processes that emit dust, fume, vapour, mist or gas",
+          "depth": 0
+        },
+        {
+          "text": "skin contact with liquids, pastes and dusts",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Identify the hazards"
+      ],
+      "zone": "main",
+      "text": "Substances with workplace exposure limits (WELs) are hazardous to health."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Assess the risks"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Assess the risks"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Assess the risks"
+      ],
+      "zone": "main",
+      "text": "Decide who might be harmed and how."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Assess the risks"
+      ],
+      "zone": "main",
+      "text": "Think about:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Assess the risks"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "how workers might be exposed (whether the substance can be breathed in, get onto or through the skin or can even be swallowed) and the effects of exposure by each of these routes",
+          "depth": 0
+        },
+        {
+          "text": "how often people work with the substance and for how long",
+          "depth": 0
+        },
+        {
+          "text": "anyone else who could be exposed - do not forget maintenance workers, contractors and other visitors or members of the public who could be exposed",
+          "depth": 0
+        },
+        {
+          "text": "what you're already doing to control the risks",
+          "depth": 0
+        },
+        {
+          "text": "what further action you need to take to control the risks",
+          "depth": 0
+        },
+        {
+          "text": "who needs to carry out the action",
+          "depth": 0
+        },
+        {
+          "text": "when the action is needed by",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Control the risks"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks"
+      ],
+      "zone": "main",
+      "text": "Once you have carried out a risk assessment and identified which harmful substances are present, and how workers can be harmed, you need to think about preventing exposure."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Elimination"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Elimination"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Elimination"
+      ],
+      "zone": "main",
+      "text": "Do you really need to use a particular substance, or is a safer alternative available?"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Elimination"
+      ],
+      "zone": "main",
+      "text": "Can you change the process to eliminate its use or avoid producing it? If this is not possible, you must put in place adequate control measures to reduce exposure."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Changing the process to reduce risks"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Changing the process to reduce risks"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Changing the process to reduce risks"
+      ],
+      "zone": "main",
+      "text": "Consider whether you can change the process you use to reduce the risk of exposure. For example, you could reduce the temperature of a process to reduce the amount of vapour getting into the air or use pellets instead of powders as they are less dusty."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Containment"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "text": "Enclose the process or activity as much as possible to minimise the escape or release of the harmful substance."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "text": "Use closed transfer and handling systems and minimise handling of materials."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "text": "Use a properly designed local exhaust ventilation (LEV) system which extracts dust, fume, mist, gases or vapour through a hood or booth and reduces the exposure of the worker."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "text": "All ventilation equipment must be examined and tested every 14 months by a competent person (someone who has the necessary skills, knowledge and experience to carry out the work safely)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Containment"
+      ],
+      "zone": "main",
+      "text": "Guidance on buying and using LEV"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Systems of work"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Systems of work"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Systems of work"
+      ],
+      "zone": "main",
+      "text": "Restrict access to those people who need to be there."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Systems of work"
+      ],
+      "zone": "main",
+      "text": "Plan the storage of materials and use appropriate containers. Check that storage containers are correctly labelled and that incompatible materials, for example acids and caustics are separated."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Systems of work"
+      ],
+      "zone": "main",
+      "text": "Plan the storage and disposal of waste."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Cleaning"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Cleaning"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Cleaning"
+      ],
+      "zone": "main",
+      "text": "Exposure to hazardous substances can occur during cleaning, so plan and organise the workplace so that it can be easily and effectively cleaned. Smooth work surfaces will allow easy cleaning."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Cleaning"
+      ],
+      "zone": "main",
+      "text": "Have the right equipment and procedures to clear up spillages quickly and safely."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Cleaning"
+      ],
+      "zone": "main",
+      "text": "Clean regularly using a 'dust-free' method – vacuum, do not sweep."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Personal protective equipment"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Personal protective equipment"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "If you cannot adequately control exposure by other means, provide personal protective clothing and equipment, in combination with other control measures."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Do not automatically opt for personal protective equipment (PPE) as a control measure. It is not as reliable or effective as other measures."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "More on PPE"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Information and training"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "Workers need to understand the outcome of your risk assessment and what this means for them. Tell them what the hazards and risks are, and any workplace exposure limits, and what they need to do to protect themselves."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "You must make workers aware of the results of any monitoring of exposure and the collective results of health surveillance."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "Train workers to use controls and PPE correctly."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "Workers should know what to do if there is an accident (for example spillage) or emergency."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "Contractors in your workplace also need to know what the risks are and how you are controlling them. In addition, you need to know if they are bringing hazardous substances onto your premises, and how they will prevent harm to your workers."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Information and training"
+      ],
+      "zone": "main",
+      "text": "More on information and training"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Record your findings"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Record your findings"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Record your findings"
+      ],
+      "zone": "main",
+      "text": "If you have 5 or more employees, you must record your assessment but, even if you have fewer than 5, it makes sense to write down what steps you have taken to identify the risks. Make a list of the actions you have taken to control the risks to workers' health."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Review your controls"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "text": "Review the risk assessment regularly to ensure it’s kept up to date and accounts for any changes in your workplace."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "text": "You must review the controls you have put in place to make sure they are working."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "text": "You should also review them if they may no longer be effective or there are changes in the workplace that could lead to new risks such as changes to:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "staff",
+          "depth": 0
+        },
+        {
+          "text": "a process",
+          "depth": 0
+        },
+        {
+          "text": "the substances or equipment used",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "text": "Also consider a review if your workers have spotted any problems or there have been any accidents or near misses."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "Control the risks",
+        "Review your controls"
+      ],
+      "zone": "main",
+      "text": "Update your risk assessment record with any changes you make."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "The law"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "If your business uses or creates substances, or carries out processes which might cause harm to health, the law requires you to control the risks to workers."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "The Control of Substances Hazardous to Health Regulations (COSHH) apply to most harmful substances but lead and asbestos are covered by separate regulations. You can read the COSHH regulations on legislation.gov.uk."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "If you manufacture or import chemicals you should read our guidance on the REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) Regulation."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "If you manufacture, import or formulate chemicals for supply, you should read the Classification, Labelling and Packaging of substances and mixtures (CLP) Regulation."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "If you transport chemicals, you should read the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "How to carry out a COSHH risk assessment",
+        "The law"
+      ],
+      "zone": "main",
+      "text": "Back to top"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "nav",
+      "text": "Is this page useful?"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 2,
+      "text": "Footer links"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 3,
+      "text": "Industries"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "footer",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Construction",
+          "depth": 0
+        },
+        {
+          "text": "Health and social care services",
+          "depth": 0
+        },
+        {
+          "text": "Pesticides",
+          "depth": 0
+        },
+        {
+          "text": "Domestic gas",
+          "depth": 0
+        },
+        {
+          "text": "Public services",
+          "depth": 0
+        },
+        {
+          "text": "Agriculture",
+          "depth": 0
+        },
+        {
+          "text": "Entertainment",
+          "depth": 0
+        },
+        {
+          "text": "Waste management and recycling",
+          "depth": 0
+        },
+        {
+          "text": "Motor vehicle repair",
+          "depth": 0
+        },
+        {
+          "text": "Offshore oil and gas",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "footer",
+      "text": "Industries A to Z"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "footer",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Basics for your business",
+          "depth": 0
+        },
+        {
+          "text": "RIDDOR",
+          "depth": 0
+        },
+        {
+          "text": "COSHH",
+          "depth": 0
+        },
+        {
+          "text": "Display screen equipment (DSE)",
+          "depth": 0
+        },
+        {
+          "text": "Asbestos",
+          "depth": 0
+        },
+        {
+          "text": "Work equipment and machinery",
+          "depth": 0
+        },
+        {
+          "text": "Stress and mental health",
+          "depth": 0
+        },
+        {
+          "text": "PAT testing (portable appliance testing)",
+          "depth": 0
+        },
+        {
+          "text": "Work at height",
+          "depth": 0
+        },
+        {
+          "text": "COMAH",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "footer",
+      "text": "Topics A to Z"
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 3,
+      "text": "About"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "footer",
+      "ordered": false,
+      "items": [
+        {
+          "text": "About us",
+          "depth": 0
+        },
+        {
+          "text": "News",
+          "depth": 0
+        },
+        {
+          "text": "Sign up for free updates",
+          "depth": 0
+        },
+        {
+          "text": "Contact us",
+          "depth": 0
+        },
+        {
+          "text": "Statistics",
+          "depth": 0
+        },
+        {
+          "text": "Careers",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 3,
+      "text": "Products"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "footer",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Books and tools",
+          "depth": 0
+        },
+        {
+          "text": "Training and events",
+          "depth": 0
+        },
+        {
+          "text": "Testing and monitoring",
+          "depth": 0
+        },
+        {
+          "text": "Research and consultancy",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [],
+      "zone": "footer",
+      "level": 2,
+      "text": "Support links"
+    },
+    {
+      "kind": "list",
+      "section_path": [],
+      "zone": "footer",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Search",
+          "depth": 0
+        },
+        {
+          "text": "Copyright",
+          "depth": 0
+        },
+        {
+          "text": "Cookies",
+          "depth": 0
+        },
+        {
+          "text": "Privacy",
+          "depth": 0
+        },
+        {
+          "text": "Accessibility",
+          "depth": 0
+        },
+        {
+          "text": "Disclosure of information",
+          "depth": 0
+        },
+        {
+          "text": "Vulnerability disclosure",
+          "depth": 0
+        },
+        {
+          "text": "Consultations",
+          "depth": 0
+        },
+        {
+          "text": "Other languages",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "footer",
+      "text": "All content is available under the Open Government Licence v3.0, except where otherwise stated"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [],
+      "zone": "nav",
+      "text": "2025-07-03"
+    }
+  ]
+}

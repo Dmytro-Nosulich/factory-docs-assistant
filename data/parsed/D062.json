@@ -1,0 +1,1698 @@
+{
+  "doc_id": "D062",
+  "format": "pdf",
+  "page_count": 7,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 1/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "RUBRIEK 1: Identificatie van de stof of het mengsel en van de vennootschap/ onderneming",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.1 Productidentificatie"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Productidentificatie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.1 Productidentificatie"
+      ],
+      "zone": "main",
+      "text": "Artikelnummer: 0000776583"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevant geïdentificeerd gebruik van de stof of het mengsel en ontraden gebruik"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevant geïdentificeerd gebruik van de stof of het mengsel en ontraden gebruik"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevant geïdentificeerd gebruik van de stof of het mengsel en ontraden gebruik"
+      ],
+      "zone": "main",
+      "text": "Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.3 Details betreffende de verstrekker van het veiligheidsinformatieblad"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Details betreffende de verstrekker van het veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Details betreffende de verstrekker van het veiligheidsinformatieblad"
+      ],
+      "zone": "main",
+      "text": "Fabrikant/leverancier:\nNederland: Belgique:\nRemmers B.V. REMMERS BVBA\nNagelpoelweg 30 Bouwelven 19\nNL - 7333 NZ Apeldoorn B-2280 Grobbendonk\nTel: 055-3034800 Tel: 014 84 80 80\nFax: 014 84 80 81\ninlichtingengevende sector:\nRemmers BV - Tel. 055-3034800 - info@remmersbv.nl\nRemmers BVBA - Tel. 014 84 80 80 - info@remmers.be"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.4 Telefoonnummer voor noodgevallen:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Telefoonnummer voor noodgevallen:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.4 Telefoonnummer voor noodgevallen:"
+      ],
+      "zone": "main",
+      "text": "NVIC - Tel.: 030-274 8888 (24 uur per dag en 7 dagen per week). Uitsluitend bestemd om\nprofessionele hulpverleners te informeren bij acute vergiftiging\nBelgisch Antigifcentrum - Tel.: 070-2450245 (24 uur per dag en 7 dagen per week)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.4 Telefoonnummer voor noodgevallen:"
+      ],
+      "zone": "main",
+      "text": "24h-Transport Emergency Contact Phone Number:\nFrench / Flemish / German: +32 2808 3237\nwithin USA and Canada: 1-800-424-9300\noutside USA and Canada: 001-703-527-3887"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 2: Identificatie van de gevaren"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.1 Indeling van de stof of het mengsel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Indeling van de stof of het mengsel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.1 Indeling van de stof of het mengsel"
+      ],
+      "zone": "main",
+      "text": "Indeling overeenkomstig Verordening (EG) nr. 1272/2008\nHet product is niet geclassificeerd volgens de CLP-verordening."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.2 Etiketteringselementen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Etiketteringselementen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.2 Etiketteringselementen"
+      ],
+      "zone": "main",
+      "text": "Etikettering overeenkomstig Verordening (EG) nr. 1272/2008 vervalt\nGevarenpictogrammen vervalt\nSignaalwoord vervalt\nGevarenaanduidingen vervalt\nAanvullende gegevens:\nEUH210 Veiligheidsinformatieblad op verzoek verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.3 Andere gevaren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Andere gevaren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 2: Identificatie van de gevaren",
+        "2.3 Andere gevaren"
+      ],
+      "zone": "main",
+      "text": "Resultaten van PBT- en zPzB-beoordeling\nPBT: Niet bruikbaar.\nzPzB: Niet bruikbaar.\nVaststelling van hormoonontregelende eigenschappen Niet bruikbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 3: Samenstelling en informatie over de bestanddelen"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Mengsels"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "text": "Beschrijving: Mengsel van na elkaar aangevoerde stoffen met ongevaarlijke bijmengingen."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 2/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "text": "Gevaarlijke inhoudstoffen [% w/w]:"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "CAS: 105-60-2",
+          "epsilon-caprolactam",
+          "≥1-<2,5%"
+        ],
+        [
+          "EINECS: 203-313-2",
+          "Acute Tox. 4, H302; Acute Tox. 4, H312; Acute Tox. 4,",
+          ""
+        ],
+        [
+          "Catalogusnummer: 613-069-00-2",
+          "H332; Skin Irrit. 2, H315; Eye Irrit. 2, H319; STOT SE 3,",
+          ""
+        ],
+        [
+          "Reg.nr.: 01-2119457029-36-",
+          "H335",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "text": "XXXX"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 3: Samenstelling en informatie over de bestanddelen",
+        "3.2 Mengsels"
+      ],
+      "zone": "main",
+      "text": "aanvullende gegevens:\nDe woordelijke inhoud van de opgegeven aanwijzingen inzake de mogelijke gevaren is te vinden in\nhoofdstuk 16."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 4: Eerstehulpmaatregelen"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.1 Beschrijving van de eerstehulpmaatregelen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Beschrijving van de eerstehulpmaatregelen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.1 Beschrijving van de eerstehulpmaatregelen"
+      ],
+      "zone": "main",
+      "text": "Na het inademen: Bij klachten medische behandeling inschakelen.\nna huidcontact: Wanneer de huid geïrriteerd blijft, een arts raadplegen.\nNa oogcontact: Ogen bij geopend ooglid een aantal minuten met stromend water spoelen\nNa inslikken: Onmiddellijk deskundig medisch advies inwinnen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.2 Belangrijkste acute en uitgestelde symptomen en effecten"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Belangrijkste acute en uitgestelde symptomen en effecten"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.2 Belangrijkste acute en uitgestelde symptomen en effecten"
+      ],
+      "zone": "main",
+      "text": "Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.3 Vermelding van eventueel noodzakelijke onmiddellijke medische verzorging en speciale"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Vermelding van eventueel noodzakelijke onmiddellijke medische verzorging en speciale"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 4: Eerstehulpmaatregelen",
+        "4.3 Vermelding van eventueel noodzakelijke onmiddellijke medische verzorging en speciale"
+      ],
+      "zone": "main",
+      "text": "behandeling\nSymptomatische behandeling."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 5: Brandbestrijdingsmaatregelen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 5: Brandbestrijdingsmaatregelen"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 5: Brandbestrijdingsmaatregelen",
+        "5.2 Speciale gevaren die door de stof of het mengsel worden veroorzaakt"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Speciale gevaren die door de stof of het mengsel worden veroorzaakt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 5: Brandbestrijdingsmaatregelen",
+        "5.2 Speciale gevaren die door de stof of het mengsel worden veroorzaakt"
+      ],
+      "zone": "main",
+      "text": "Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 5: Brandbestrijdingsmaatregelen",
+        "5.3 Advies voor brandweerlieden"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Advies voor brandweerlieden"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 5: Brandbestrijdingsmaatregelen",
+        "5.3 Advies voor brandweerlieden"
+      ],
+      "zone": "main",
+      "text": "speciale beschermende kleding: Geen bijzondere maatregelen nodig."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.1 Persoonlijke voorzorgsmaatregelen, beschermingsmiddelen en noodprocedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Persoonlijke voorzorgsmaatregelen, beschermingsmiddelen en noodprocedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.1 Persoonlijke voorzorgsmaatregelen, beschermingsmiddelen en noodprocedures"
+      ],
+      "zone": "main",
+      "text": "Omstanders op afstand houden en boven de wind blijven."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.2 Milieuvoorzorgsmaatregelen:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Milieuvoorzorgsmaatregelen:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.2 Milieuvoorzorgsmaatregelen:"
+      ],
+      "zone": "main",
+      "text": "Niet in de riolering/het oppervlaktewater/het grondwater laten terechtkomen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.3 Insluitings- en reinigingsmethoden en -materiaal: Mechanisch opnemen."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Insluitings- en reinigingsmethoden en -materiaal: Mechanisch opnemen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.4 Verwijzing naar andere rubrieken"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Verwijzing naar andere rubrieken"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 6: Maatregelen bij het accidenteel vrijkomen van de stof of het mengsel",
+        "6.4 Verwijzing naar andere rubrieken"
+      ],
+      "zone": "main",
+      "text": "Informatie inzake veilig gebruik - zie hoofdstuk 7.\nInformatie inzake persoonlijke beschermingsuitrusting - zie hoofdstuk 8.\nInformatie inzake berging - zie hoofdstuk 13."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 7: Hantering en opslag"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 7: Hantering en opslag"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 7: Hantering en opslag",
+        "7.1 Voorzorgsmaatregelen voor het veilig hanteren van de stof of het mengsel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Voorzorgsmaatregelen voor het veilig hanteren van de stof of het mengsel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 7: Hantering en opslag",
+        "7.1 Voorzorgsmaatregelen voor het veilig hanteren van de stof of het mengsel"
+      ],
+      "zone": "main",
+      "text": "Geen bijzondere maatregelen noodzakelijk.\nBij een deskundig gebruik zijn geen bijzondere maatregelen vereist."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 7: Hantering en opslag",
+        "7.2 Voorwaarden voor een veilige opslag, met inbegrip van incompatibele producten"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Voorwaarden voor een veilige opslag, met inbegrip van incompatibele producten"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 7: Hantering en opslag",
+        "7.2 Voorwaarden voor een veilige opslag, met inbegrip van incompatibele producten"
+      ],
+      "zone": "main",
+      "text": "Opslag:\nEisen ten opzichte van opslagruimte en tanks: Geen bijzondere eisen.\nVerdere inlichtingen over eisen m.b.t. de opslag: Geen"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming",
+        "8.1 Controleparameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Controleparameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming",
+        "8.1 Controleparameters"
+      ],
+      "zone": "main",
+      "text": "Bestanddelen met grenswaarden die m.b.t. de arbeidsruimte in acht genomen moeten worden:\nCAS: 105-60-2 epsilon-caprolactam\nBGW Lange termijn waarde: 20* 1** mg/m³, 5* ppm\n*damp;**stof\nWGW Lange termijn waarde: 20* 1** mg/m³\n*damp ** stof"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 3/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming",
+        "8.1 Controleparameters"
+      ],
+      "zone": "main",
+      "text": "Aanvullende gegevens: Als basis dienen lijsten die bij de opstelling geldig waren."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming",
+        "8.2 Maatregelen ter beheersing van blootstelling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Maatregelen ter beheersing van blootstelling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke bescherming",
+        "8.2 Maatregelen ter beheersing van blootstelling"
+      ],
+      "zone": "main",
+      "text": "Passende technische maatregelen Geen aanvullende gegevens. Zie 7.\nIndividuele beschermingsmaatregelen, zoals persoonlijke beschermingsmiddelen\nAlgemene beschermings- en gezondheidsmaatregelen:\nVóór de pauze en aan het einde van het werk handen wassen.\nDe volgende gegevens met betrekking tot persoonlijke beschermingsmiddelen zijn een aanbeveling.\nDe keuze van de noodzakelijke persoonlijke beschermingsmiddel is afhankelijk van de uit te voeren\nwerkzaamheden en de plaatselijke omstandigheden te beoordelen door de werkgever. Wanneer in het\nkader van risicobeoordeling ter plaatse wordt vastgesteld dat er geen gevaar bestaat voor de\nmedewerkers, kan worden afgezien van persoonlijke beschermingsmiddelen respectievelijk kunnen\ndeze overeenkomstig worden aangepast.\nBescherming van de ademhalingswegen niet noodzakelijk.\nBescherming van de handen\nHet handschoenmateriaal moet ondoorlatend en bestand zijn tegen het product / de stof / de bereiding.\nKies handschoenmateriaal rekening houdend met de penetratietijden, de permeatiegraden en de\ndegradatie.\nHandschoenmateriaal\nNitrilrubber\nDe keuze van een geschikte handschoen is niet alleen afhankelijk van het materiaal, maar ook van\nandere kwaliteitskenmerken en verschilt van fabrikant tot fabrikant. Aangezien het product uit meerdere\nstoffen is samengesteld, is de duurzaamheid van de handschoenmaterialen niet vooraf berekenbaar en\nmoet derhalve vóór het gebruik worden getest.\nDoordringingstijd van het handschoenmateriaal\nDe precieze penetratietijd kunt u te weten komen bij de handschoenfabrikant; houd er rekening mee.\nBescherming van de ogen/het gezicht niet noodzakelijk."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 9: Fysische en chemische eigenschappen"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Informatie over fysische en chemische basiseigenschappen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "text": "Algemene gegevens\nFysische toestand vast\nKleur: wit\nGeur: reukloos\nGeurdrempelwaarde: Niet bepaald.\nSmeltpunt/vriespunt 120-130 °C\nKookpunt of beginkookpunt en kooktraject niet bepaald\nOntvlambaarheid Niet bepaald.\nOnderste en bovenste explosiegrens"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "onderste:",
+          "Niet bepaald."
+        ],
+        [
+          "bovenste:",
+          "Niet bepaald."
+        ],
+        [
+          "Vlampunt:",
+          "niet bruikbaar"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "text": "Zelfontbrandingstemperatuur: >350 °C\nOntledingstemperatuur: Niet bepaald.\npH Niet bruikbaar.\nViscositeit\nKinematische viscositeit Niet bruikbaar.\ndynamisch: Niet bruikbaar.\nOplosbaarheid\nWater: niet oplosbaar\nVerdelingscoëfficiënt n-octanol/water\n(logwaarde) Niet bepaald.\nStoomdruk: Niet bruikbaar.\nDichtheid en/of relatieve dichtheid"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Dichtheid bij 20 °C:",
+          "1,1 g/cm³"
+        ],
+        [
+          "Relatieve dichtheid",
+          "Niet bepaald."
+        ],
+        [
+          "Dampdichtheid",
+          "Niet bruikbaar."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.1 Informatie over fysische en chemische basiseigenschappen"
+      ],
+      "zone": "main",
+      "text": "Deeltjeskenmerken\nZie sectie 3."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 4/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 3)"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Overige informatie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "text": "Voorkomen:\nVorm: Poeder\nBelangrijke gegevens over de gezondheids- en\nmilieubescherming en over de veiligheid\nOntploffingseigenschappen: Het produkt is niet ontploffingsgevaarlijk.\nVOC EU\nGehalte aan vaste bestanddelen: 100,0 %\nToestandsverandering\nVerdampingssnelheid Niet bruikbaar.\nInformatie inzake fysische gevarenklassen\nOntplofbare stoffen vervalt\nOntvlambare gassen vervalt\nAerosolen vervalt"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Oxiderende gassen",
+          "",
+          "vervalt"
+        ],
+        [
+          "Gassen onder druk",
+          "",
+          "vervalt"
+        ],
+        [
+          "Ontvlambare vloeistoffen",
+          "vervalt",
+          ""
+        ],
+        [
+          "Ontvlambare vaste stoffen",
+          "vervalt",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "text": "Zelfontledende stoffen en mengsels vervalt\nPyrofore vloeistoffen vervalt\nPyrofore vaste stoffen vervalt\nVoor zelfverhitting vatbare stoffen en\nmengsels vervalt\nStoffen en mengsels die in contact met water\nontvlambare gassen ontwikkelen vervalt"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Oxiderende vloeistoffen",
+          "vervalt",
+          ""
+        ],
+        [
+          "Oxiderende vaste stoffen",
+          "vervalt",
+          ""
+        ],
+        [
+          "Organische peroxiden",
+          "vervalt",
+          ""
+        ],
+        [
+          "Bijtend voor metalen",
+          "",
+          "vervalt"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 9: Fysische en chemische eigenschappen",
+        "9.2 Overige informatie"
+      ],
+      "zone": "main",
+      "text": "Ongevoelig gemaakte ontplofbare stoffen vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 10: Stabiliteit en reactiviteit"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.1 Reactiviteit Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reactiviteit Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.2 Chemische stabiliteit"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Chemische stabiliteit"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.2 Chemische stabiliteit"
+      ],
+      "zone": "main",
+      "text": "Thermische ontbinding / te vermijden omstandigheden:\nGeen ontleding bij gebruik volgens voorschrift."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.3 Mogelijke gevaarlijke reacties Geen gevaarlijke reacties bekend."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Mogelijke gevaarlijke reacties Geen gevaarlijke reacties bekend."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.3 Mogelijke gevaarlijke reacties Geen gevaarlijke reacties bekend."
+      ],
+      "zone": "main",
+      "text": "10.4 Te vermijden omstandigheden Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.5 Chemisch op elkaar inwerkende materialen: Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Chemisch op elkaar inwerkende materialen: Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 10: Stabiliteit en reactiviteit",
+        "10.6 Gevaarlijke ontledingsproducten: Geen gevaarlijke ontbindingsprodukten bekend."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Gevaarlijke ontledingsproducten: Geen gevaarlijke ontbindingsprodukten bekend."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 11: Toxicologische informatie"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie",
+        "11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie",
+        "11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Acute toxiciteit: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nIndelingsrelevantie LD/LC50-waarden:\nCAS: 105-60-2 epsilon-caprolactam\nOraal LD50 1.370 mg/kg (rat)\nDermaal LD50 1.438 mg/kg (rabbit)\nHuidcorrosie/-irritatie: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nErnstig oogletsel/oogirritatie:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nSensibilisatie van de luchtwegen/de huid:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nMutageniteit in geslachtscellen:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nCarcinogeniteit Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 5)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 5/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie",
+        "11.1 Informatie over gevarenklassen als omschreven in Verordening (EG) nr. 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Giftigheid voor de voortplanting:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nSTOT bij eenmalige blootstelling:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nSTOT bij herhaalde blootstelling:\nGebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan.\nGevaar bij inademing: Gebaseerd op beschikbare gegevens; aan de indelingscriteria is niet voldaan."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie",
+        "11.2 Informatie over andere gevaren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Informatie over andere gevaren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 11: Toxicologische informatie",
+        "11.2 Informatie over andere gevaren"
+      ],
+      "zone": "main",
+      "text": "Hormoonontregelende eigenschappen\ngeen der bestanddelen staat op de lijst."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 12: Ecologische informatie"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.1 Toxiciteit"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxiciteit"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.1 Toxiciteit"
+      ],
+      "zone": "main",
+      "text": "Aquatische toxiciteit: Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.2 Persistentie en afbreekbaarheid Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistentie en afbreekbaarheid Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.3 Bioaccumulatie Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioaccumulatie Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.4 Mobiliteit in de bodem Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobiliteit in de bodem Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.5 Resultaten van PBT- en zPzB-beoordeling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Resultaten van PBT- en zPzB-beoordeling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.5 Resultaten van PBT- en zPzB-beoordeling"
+      ],
+      "zone": "main",
+      "text": "PBT: Niet bruikbaar.\nzPzB: Niet bruikbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.6 Hormoonontregelende eigenschappen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Hormoonontregelende eigenschappen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.6 Hormoonontregelende eigenschappen"
+      ],
+      "zone": "main",
+      "text": "Het product bevat geen stoffen met hormoonontregelende eigenschappen."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.7 Andere schadelijke effecten Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Andere schadelijke effecten Geen verdere relevante informatie verkrijgbaar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 12: Ecologische informatie",
+        "12.7 Andere schadelijke effecten Geen verdere relevante informatie verkrijgbaar."
+      ],
+      "zone": "main",
+      "text": "Verdere ecologische informatie:\nAlgemene informatie:\nWaterbezwaarlijkheid (NL): A(4) Weinig schadelijk voor in water levende organismen kan in het\naquatische milieu op lange termijn schadelijke effecten veroorzaken\nOver het algemeen geen gevaar voor water"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 13: Instructies voor verwijdering"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 13: Instructies voor verwijdering"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 13: Instructies voor verwijdering"
+      ],
+      "zone": "main",
+      "text": "Aanbeveling:\nMag niet tesamen met huisvuil gestort worden of in de riolering komen.\nDe aangegeven afvalcode is een aanbeveling op grond van het bepalende gebruik van het produkt. Op\ngrond van speciale toepassingen en deponievoorzieningen kan eventueel ook een andere afvalcode\nvan kracht zijn.\nNiet gereinigde verpakkingen:\nAanbeveling:\nAfvalverwijdering volgens overheidsbepalingen.\nDe verpakking kan na reiniging opnieuw gebruikt worden of gerecycled worden."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 14: Informatie met betrekking tot het vervoer"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.1 VN-nummer of ID-nummer"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 VN-nummer of ID-nummer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.1 VN-nummer of ID-nummer"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.2 Juiste ladingnaam overeenkomstig de modelreglementen van de VN"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Juiste ladingnaam overeenkomstig de modelreglementen van de VN"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.2 Juiste ladingnaam overeenkomstig de modelreglementen van de VN"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.3 Transportgevarenklasse(n)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transportgevarenklasse(n)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.3 Transportgevarenklasse(n)"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA\nklasse vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.4 Verpakkingsgroep:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Verpakkingsgroep:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.4 Verpakkingsgroep:"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.5 Milieugevaren: Niet bruikbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Milieugevaren: Niet bruikbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.6 Bijzondere voorzorgen voor de gebruiker Niet bruikbaar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Bijzondere voorzorgen voor de gebruiker Niet bruikbaar."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.7 Zeevervoer in bulk overeenkomstig IMO-"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Zeevervoer in bulk overeenkomstig IMO-"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.7 Zeevervoer in bulk overeenkomstig IMO-"
+      ],
+      "zone": "main",
+      "text": "instrumenten Niet bruikbaar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 6)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 6/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 5)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 14: Informatie met betrekking tot het vervoer",
+        "14.7 Zeevervoer in bulk overeenkomstig IMO-"
+      ],
+      "zone": "main",
+      "text": "VN \"Model Regulation\": vervalt"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 15: Regelgeving"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 15: Regelgeving"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 15: Regelgeving",
+        "15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof of"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof of"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 15: Regelgeving",
+        "15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof of"
+      ],
+      "zone": "main",
+      "text": "het mengsel\nSZW-lijst van kankerverwekkende stoffen\ngeen der bestanddelen staat op de lijst.\nSZW-lijst van mutagene stoffen\ngeen der bestanddelen staat op de lijst.\nNIET-limitatieve lijst van voor de voortplanting giftige stoffen - Vruchtbaarheid\ngeen der bestanddelen staat op de lijst.\nNIET-limitatieve lijst van voor de voortplanting giftige stoffen - Ontwikkeling\ngeen der bestanddelen staat op de lijst.\nNIET-limitatieve lijst van voor de voortplanting giftige stoffen - Borstvoeding\ngeen der bestanddelen staat op de lijst.\nLijst Zeer Zorgwekkende Stoffen (ZZS)\ngeen der bestanddelen staat op de lijst.\nLijst van Potentieel Zeer Zorgwekkende Stoffen\ngeen der bestanddelen staat op de lijst."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 15: Regelgeving",
+        "15.1 Specifieke veiligheids-, gezondheids- en milieureglementen en -wetgeving voor de stof of"
+      ],
+      "zone": "main",
+      "text": "Richtlijn 2012/18/EU\nGevaarlijke stoffen die met naam genoemd worden - BIJLAGE I\ngeen der bestanddelen staat op de lijst.\nRichtlijn 2011/65/EU betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in\nelektrische en elektronische apparatuur - Bijlage II\ngeen der bestanddelen staat op de lijst.\nVERORDENING (EU) 2019/1148\nBijlage I - PRECURSOREN VOOR EXPLOSIEVEN WAARVOOR EEN BEPERKING GELDT\n(Bovengrenswaarde ten behoeve van vergunningverlening op grond van artikel 5, lid 3)\ngeen der bestanddelen staat op de lijst.\nBijlage II - PRECURSOREN VOOR EXPLOSIEVEN DIE MOETEN WORDEN GEMELD\ngeen der bestanddelen staat op de lijst."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 15: Regelgeving",
+        "15.2 Chemischeveiligheidsbeoordeling: Een chemische veiligheidsbeoordeling is niet uitgevoerd."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Chemischeveiligheidsbeoordeling: Een chemische veiligheidsbeoordeling is niet uitgevoerd."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 16: Overige informatie"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "RUBRIEK 16: Overige informatie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "RUBRIEK 16: Overige informatie"
+      ],
+      "zone": "main",
+      "text": "De gegevens baseren op de momentele stand van onze kennis. Zij beschrijven echter geen garantie\nvan produkteigenschappen en vestigen geen contractuele rechtsbetrekking.\nDe leveringsspecifikatie kunnen uit het Technisch Merkblad ontnomen worden.\nRelevante zinnen\nH302 Schadelijk bij inslikken.\nH312 Schadelijk bij contact met de huid.\nH315 Veroorzaakt huidirritatie.\nH319 Veroorzaakt ernstige oogirritatie.\nH332 Schadelijk bij inademing.\nH335 Kan irritatie van de luchtwegen veroorzaken.\nIndeling overeenkomstig Verordening (EG) nr. 1272/2008 Berekeningsmethode\nBlad met gegevens van de afgifte-sector Afdeling produktveiligheid / EHS\nAfkortingen en acroniemen:\nADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the\nInternational Carriage of Dangerous Goods by Road)\nIMDG: International Maritime Code for Dangerous Goods\nIATA: International Air Transport Association\nGHS: Globally Harmonised System of Classification and Labelling of Chemicals\nEINECS: European Inventory of Existing Commercial Chemical Substances\nELINCS: European List of Notified Chemical Substances"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Bladzijde: 7/7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Veiligheidsinformatieblad"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "volgens 1907/2006/EG, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "datum van de druk: 06.05.2024 Herziening van: 30.01.2023Versienummer 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsnaam: Antislip-additief"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Vervolg op blz. 6)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "RUBRIEK 16: Overige informatie"
+      ],
+      "zone": "main",
+      "text": "CAS: Chemical Abstracts Service (division of the American Chemical Society)\nLC50: Lethal concentration, 50 percent\nLD50: Lethal dose, 50 percent\nPBT: Persistent, Bioaccumulative and Toxic\nvPvB: very Persistent and very Bioaccumulative\nAcute Tox. 4: Acute toxiciteit – Categorie 4\nSkin Irrit. 2: Huidcorrosie/-irritatie – Categorie 2\nEye Irrit. 2: Ernstig oogletsel/oogirritatie – Categorie 2\nSTOT SE 3: Specifieke doelorgaantoxiciteit bij eenmalige blootstelling – Categorie 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "58.0.5"
+    }
+  ]
+}

@@ -1,0 +1,2247 @@
+{
+  "doc_id": "D052",
+  "format": "pdf",
+  "page_count": 10,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 1 of 10"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Product identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "text": "UFI: K6CW ­UKXY­000E­SSPK"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Use of the substance/mixture\nRadiator antifreeze"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Company name:",
+          "ROWE Mineralölwerk GmbH",
+          ""
+        ],
+        [
+          "",
+          "Street:",
+          "Langgewann 101",
+          ""
+        ],
+        [
+          "",
+          "Place:",
+          "D­67547 Worms",
+          ""
+        ],
+        [
+          "",
+          "Telephone:",
+          "+49 (0)6241 5906­0",
+          "Telefax: +49 (0)6241 5906­999"
+        ],
+        [
+          "",
+          "E­mail:",
+          "info@rowe­oil.com",
+          ""
+        ],
+        [
+          "",
+          "Contact person:",
+          "Product Compliance",
+          ""
+        ],
+        [
+          "",
+          "E­mail (Contact person):",
+          "sdb@rowe­oil.com",
+          ""
+        ],
+        [
+          "",
+          "Internet:",
+          "www.rowe­oil.com",
+          ""
+        ],
+        [
+          "1.4. Emergency telephone",
+          "",
+          "Ireland: Public (8am­10pm) +353 180 921 66, Healthcare Professionals +353",
+          ""
+        ],
+        [
+          "number:",
+          "",
+          "1809 2566 other Countries: Emergency CONTACT (24­Hour­Number): GBK GmbH +49 (0)6132­84463",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Regulation (EC) No 1272/2008\nAcute Tox. 4; H302\nSTOT RE 2; H373"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Full text of hazard statements: see SECTION 16."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "text": "Regulation (EC) No 1272/2008\nHazard components for labelling\nethanediol; ethylene glycol\nSignal word: Warning\nPictograms:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "text": "Hazard statements\nH302 Harmful if swallowed.\nH373 May cause damage to organs through prolonged or repeated exposure.\nPrecautionary statements"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "P260",
+          "Do not breathe dust/fume/gas/mist/vapours/spray."
+        ],
+        [
+          "P264",
+          "Wash hands thoroughly after handling."
+        ],
+        [
+          "P270",
+          "Do not eat, drink or smoke when using this product."
+        ],
+        [
+          "P301+P312",
+          "IF SWALLOWED: Call a POISON CENTER/doctor if you feel unwell."
+        ],
+        [
+          "P330",
+          "Rinse mouth."
+        ],
+        [
+          "P314",
+          "Get medical advice/attention if you feel unwell."
+        ],
+        [
+          "P501",
+          "Dispose of contents/container to of the disposal according to local regulations."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 2 of 10"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Relevant ingredients\nCAS No Chemical name Quantity\nEC No Index No REACH No\nClassification (Regulation (EC) No 1272/2008)\n107­21­1 ethanediol; ethylene glycol 30 ­ < 60 %\n203­473­3 603­027­00­1 01­2119456816­28\nAcute Tox. 4, STOT RE 2; H302 H373\nFull text of H and EUH statements: see section 16.\nSpecific Conc. Limits, M­factors and ATE\nCAS No EC No Chemical name Quantity\nSpecific Conc. Limits, M­factors and ATE\n107­21­1 203­473­3 ethanediol; ethylene glycol 30 ­ < 60 %\ndermal: LD50 = 10600 mg /kg; oral: LD50 = 4700 mg/kg"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "General information\nWhen in doubt or if symptoms are observed, get medical advice.\nAfter inhalation\nProvide fresh air. Medical treatment necessary.\nAfter contact with skin\nTake off contaminated clothing and wash it before reuse. After contact with skin, wash immediately with plenty of\nwater and soap. Medical treatment necessary.\nAfter contact with eyes\nRinse immediately carefully and thoroughly with eye­bath or water. In case of eye irritation consult an\nophthalmologist.\nAfter ingestion\nObserve risk of aspiration if vomiting occurs. If accidentally swallowed rinse the mouth with plenty of water (only if\nthe person is conscious) and obtain immediate medical attention."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "text": "No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Treat symptomatically."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media\nWater spray jet. alcohol resistant foam. Carbon dioxide (CO2).\nCo­ordinate fire­fighting measures to the fire surroundings."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Special hazards arising from the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Non­flammable. Vapours can form explosive mixtures with air."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Advice for firefighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "In case of fire: Wear self­contained breathing apparatus. Full protection suit."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 3 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Additional information\nUse water spray jet to protect personnel and to cool endangered containers. Collect contaminated fire\nextinguishing water separately. Do not allow entering drains or surface water."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "General advice\nRemove all sources of ignition. Do not breathe gas/fumes/vapour/spray. Avoid contact with skin, eyes and\nclothes.\nFor non­emergency personnel\nProvide adequate ventilation. Use personal protection equipment. Remove persons to safety.\nFor emergency responders\nWear personal protection equipment (refer to section 8)."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Do not allow uncontrolled discharge of product into the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "text": "For containment\nPrevent spread over a wide area (e.g. by containment or oil barriers). Cover drains. Stop leak if safe to do so.\nFor cleaning up\nAbsorb with liquid­binding material (sand, diatomaceous earth, acid­ or universal binding agents). Treat the\nrecovered material as prescribed in the section on waste disposal.\nOther information\nClean contaminated articles and floor according to the environmental legislation."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "Safe handling: see section 7\nPersonal protection equipment: see section 8\nDisposal: see section 13"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precautions for safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "Advice on safe handling\nProvide adequate ventilation. Do not breathe gas/fumes/vapour/spray. Avoid contact with eyes and skin. Use\npersonal protection equipment.\nAdvice on protection against fire and explosion\nUsual measures for fire prevention.\nAdvice on general occupational hygiene\nRemove contaminated, saturated clothing immediately. Draw up and observe skin protection programme. Wash\nhands before breaks and after work . When using do not eat, drink, smoke, sniff."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Requirements for storage rooms and vessels\nKeep container tightly closed in a cool, well­ventilated place. Store in a dry place.\nHints on joint storage\nDo not store together with: Oxidizing agent, Reducing agent, Strong acid, Strong alkali.\nFurther information on storage conditions\nKeep away from heat.\nmaximum storage temperature: 80 °C"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3. Specific end use(s)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "Lubricating agent, Additive"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 4 of 10"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Occupational exposure limits"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "CAS No",
+          "Substance",
+          "ppm",
+          "",
+          "mg/m³",
+          "",
+          "fib/cm³",
+          "Category",
+          "Origin"
+        ],
+        [
+          "107­21­1",
+          "1,2­Dihydroxyethane, vapour",
+          "20",
+          "",
+          "",
+          "52",
+          "",
+          "TWA (8 h)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "40",
+          "",
+          "",
+          "104",
+          "",
+          "STEL (15 min)",
+          ""
+        ],
+        [
+          "107­21­1",
+          "Ethane­1,2­diol, vapour",
+          "20",
+          "",
+          "",
+          "52",
+          "",
+          "TWA (8 h)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "40",
+          "",
+          "",
+          "104",
+          "",
+          "STEL (15 min)",
+          ""
+        ],
+        [
+          "107­21­1",
+          "Ethylene glycol, vapour",
+          "20",
+          "",
+          "",
+          "52",
+          "",
+          "TWA (8 h)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "40",
+          "",
+          "",
+          "104",
+          "",
+          "STEL (15 min)",
+          ""
+        ],
+        [
+          "57­55­6",
+          "Propane­1,2­diol, particulates",
+          "",
+          "­",
+          "",
+          "10",
+          "",
+          "TWA (8 h)",
+          ""
+        ],
+        [
+          "57­55­6",
+          "Propane­1,2­diol, total (vapour and particulates)",
+          "150",
+          "",
+          "",
+          "470",
+          "",
+          "TWA (8 h)",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL values\nCAS No Substance\nDNEL type Exposure route Effect Value\n107­21­1 ethanediol; ethylene glycol"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Worker DNEL, long­term",
+          "inhalation",
+          "local",
+          "35 mg/m³"
+        ],
+        [
+          "Worker DNEL, long­term",
+          "dermal",
+          "systemic",
+          "106 mg/kg bw/day"
+        ],
+        [
+          "Consumer DNEL, long­term",
+          "inhalation",
+          "local",
+          "7 mg/m³"
+        ],
+        [
+          "Consumer DNEL, long­term",
+          "dermal",
+          "systemic",
+          "53 mg/kg bw/day"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "57­55­6 Propane 1,2 ­diol"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Worker DNEL, long­term",
+          "inhalation",
+          "local",
+          "10 mg/m³"
+        ],
+        [
+          "Worker DNEL, long­term",
+          "inhalation",
+          "systemic",
+          "168 mg/m³"
+        ],
+        [
+          "Consumer DNEL, long­term",
+          "inhalation",
+          "systemic",
+          "50 mg/m³"
+        ],
+        [
+          "Consumer DNEL, long­term",
+          "inhalation",
+          "local",
+          "10 mg/m³"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "PNEC values\nCAS No Substance\nEnvironmental compartment Value\n107­21­1 ethanediol; ethylene glycol"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Freshwater",
+          "10 mg/l"
+        ],
+        [
+          "Freshwater (intermittent releases)",
+          "10 mg/l"
+        ],
+        [
+          "Marine water",
+          "1 mg/l"
+        ],
+        [
+          "Freshwater sediment",
+          "37 mg/kg"
+        ],
+        [
+          "Marine sediment",
+          "3,7 mg/kg"
+        ],
+        [
+          "Microorganisms in sewage treatment plants (STP)",
+          "199,5 mg/l"
+        ],
+        [
+          "Soil",
+          "1,53 mg/kg"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "57­55­6 Propane 1,2 ­diol"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Freshwater",
+          "260 mg/l"
+        ],
+        [
+          "Freshwater (intermittent releases)",
+          "183 mg/l"
+        ],
+        [
+          "Marine water",
+          "26 mg/l"
+        ],
+        [
+          "Freshwater sediment",
+          "572 mg/kg"
+        ],
+        [
+          "Marine sediment",
+          "57,2 mg/kg"
+        ],
+        [
+          "Microorganisms in sewage treatment plants (STP)",
+          "20000 mg/l"
+        ],
+        [
+          "Soil",
+          "50 mg/kg"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 5 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Provide adequate ventilation as well as local exhaustion at critical locations.\nIndividual protection measures, such as personal protective equipment\nEye/face protection\nWear eye protection/face protection. (EN 166)\nHand protection\nTested protective gloves must be worn (EN ISO 374)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "When handling with chemical substances, protective gloves must be worn with the CE­label including the four\ncontrol digits. The quality of the protective gloves resistant to chemicals must be chosen as a function of the\nspecific working place concentration and quantity of hazardous substances. For special purposes, it is\nrecommended to check the resistance to chemicals of the protective gloves mentioned above together with the\nsupplier of these gloves.\nSkin protection\nWear suitable protective clothing.\nRespiratory protection\nIn case of inadequate ventilation wear respiratory protection.\nThermal hazards\nNo information available.\nEnvironmental exposure controls\nAvoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Physical state:",
+          "Liquid"
+        ],
+        [
+          "Colour:",
+          "colourless"
+        ],
+        [
+          "Odour:",
+          "No information available."
+        ],
+        [
+          "Odour threshold:",
+          "not determined"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Test method\nMelting point/freezing point: ­40 °C\nBoiling point or initial boiling point and 108 °C\nboiling range:\nFlammability: Non­flammable. Vapours can form\nexplosive mixtures with air.\nLower explosion limits: not determined\nUpper explosion limits: not determined\nFlash point: 135 °C\nAuto­ignition temperature: not determined\nDecomposition temperature: not determined\npH­Value: 7,8 ASTM D 1287\nViscosity / kinematic: not determined\nWater solubility: easily soluble\nSolubility in other solvents\nnot determined\nPartition coefficient n­octanol/water: not determined\nVapour pressure: not determined\nDensity (at 20 °C): 1,07 g/cm ³ ASTM D 1122\nRelative vapour density: not determined\nParticle characteristics: not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "text": "Information with regard to physical hazard classes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 6 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "text": "Explosive properties\nThe product is not: Explosive.\nOxidizing properties\nThe product is not: oxidising.\nFurther Information\nNo information available."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "text": "No hazardous reaction when handled and stored according to provisions."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "The product is stable under storage at normal ambient temperatures."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "No known hazardous reactions."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "none"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "Oxidizing agent, Reducing agent, Strong acid, Strong alkali."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "In case of fire may be liberated: Carbon monoxide (CO), Carbon dioxide (CO2), Pyrolysis products, toxic."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity\nHarmful if swallowed.\nATEmix calculated\nATE (oral) 1197 mg/kg; ATE (dermal) > 2000 mg/kg; ATE (inhalation vapour) > 20 mg/l; ATE (inhalation\ndust/mist) > 5 mg/l\nCAS No Chemical name\nExposure route Dose Species Source Method\n107­21­1 ethanediol; ethylene glycol\noral LD50 4700 mg/kg Rat GESTIS\ndermal LD50 10600 Rabbit GESTIS\nmg/kg\nIrritation and corrosivity\nSkin corrosion/irritation: Based on available data, the classification criteria are not met.\nSerious eye damage/eye irritation: Based on available data, the classification criteria are not met.\nSensitising effects\nBased on available data, the classification criteria are not met.\nCarcinogenic/mutagenic/toxic effects for reproduction\nGerm cell mutagenicity: Based on available data, the classification criteria are not met.\nCarcinogenicity: Based on available data, the classification criteria are not met.\nReproductive toxicity: Based on available data, the classification criteria are not met.\nSTOT ­single exposure\nBased on available data, the classification criteria are not met.\nSTOT ­repeated exposure\nMay cause damage to organs through prolonged or repeated exposure. (ethanediol; ethylene glycol)\nAspiration hazard"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 7 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Based on available data, the classification criteria are not met.\nInformation on likely routes of exposure\nInhalation, oral, Skin contact, Eye contact."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2. Information on other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "text": "Endocrine disrupting properties\nThis product does not contain a substance that has endocrine disrupting properties with respect to humans as no\ncomponents meets the criteria.\nOther information\nThe mixture is classified as hazardous according to regulation (EC) No 1272/2008 [CLP]."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistence and degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "The product has not been tested.\nCAS No Chemical name\nMethod Value d Source\nEvaluation\n107­21­1 ethanediol; ethylene glycol\nOECD Guideline 301 C 83 14\nReadily biodegradable (according to OECD criteria)."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "The product has not been tested.\nPartition coefficient n­octanol/water\nCAS No Chemical name Log Pow\n107­21­1 ethanediol; ethylene glycol ­1,36"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "The product has not been tested."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "The substances in the mixture do not meet the PBT/vPvB criteria according to REACH, annex XIII.\nThe product has not been tested."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6. Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "This product does not contain a substance that has endocrine disrupting properties with respect to non­target\norganisms as no components meets the criteria."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7. Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "No information available.\nFurther information\nAvoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Waste treatment methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Disposal recommendations\nDo not allow to enter into surface water or drains. Do not allow to enter into soil/subsoil. Dispose of waste\naccording to applicable legislation.\nContaminated packaging\nHazardous waste according to Directive 2008/98/EC (waste framework directive). Handle contaminated packages\nin the same way as the substance itself."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 8 of 10"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Land transport (ADR/RID)"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "14.1. UN number or ID number:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.2. UN proper shipping name:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.3. Transport hazard class(es):",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.4. Packing group:",
+          "No dangerous good in sense of this transport regulation."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Inland waterways transport (ADN)"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "14.1. UN number or ID number:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.2. UN proper shipping name:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.3. Transport hazard class(es):",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.4. Packing group:",
+          "No dangerous good in sense of this transport regulation."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Marine transport (IMDG )"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "14.1. UN number or ID number:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.2. UN proper shipping name:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.3. Transport hazard class(es):",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.4. Packing group:",
+          "No dangerous good in sense of this transport regulation."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Air transport (ICAO­TI/IATA­DGR)"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "14.1. UN number or ID number:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.2. UN proper shipping name:",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.3. Transport hazard class(es):",
+          "No dangerous good in sense of this transport regulation."
+        ],
+        [
+          "14.4. Packing group:",
+          "No dangerous good in sense of this transport regulation."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "ENVIRONMENTALLY HAZARDOUS: No"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "No dangerous good in sense of this transport regulation."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7. Maritime transport in bulk according to IMO instruments"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "text": "No dangerous good in sense of this transport regulation."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "EU regulatory information\nRestrictions on use (REACH, annex XVII):\nEntry 3, Entry 75\nInformation according to Directive Not subject to 2012/18/EU (SEVESO III)\n2012/18/EU (SEVESO III):\nNational regulatory information\nEmployment restrictions: Observe restrictions to employment for juveniles according to the 'juvenile\nwork protection guideline' (94/33/EC).\nWater hazard class (D): 1 ­ slightly hazardous to water\nAdditional information\nObserve in addition any national regulations!"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. Chemical safety assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "text": "Chemical safety assessments for substances in this mixture were not carried out."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Changes\nThis data sheet contains changes from the previous version in section(s): 1,5."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 9 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Abbreviations and acronyms\nAcute Tox. 4: Acute toxicity, hazard category 4\nSTOT RE 2: Specific target organ toxicity ­ repeated exposure, hazard category 2\nCLP: Classification, labelling and Packaging\nREACH: Registration, Evaluation and Authorization of Chemicals\nGHS: Globally Harmonised System of Classification, Labelling and Packaging of Chemicals\nUN: United Nations\nEC/EEC: European Community/European Economic Community\nEU: European Union\nCAS: Chemical Abstracts Service\nDNEL: Derived No Effect Level\nDMEL: Derived Minimal Effect Level\nPNEC: Predicted No Effect Concentration\nATE: Acute toxicity estimate\nLC50: Lethal concentration, 50%\nLD50: Lethal dose, 50%\nLL50: Lethal loading, 50%\nEL50: Effect loading, 50%\nEC50: Effective Concentration 50%\nErC50: Effective Concentration 50%, growth rate\nNOEC: No Observed Effect Concentration\nBCF: Bio­concentration factor\nPBT: persistent, bioaccumulative, toxic\nvPvB: very persistent, very bioaccumulative\nM­factor: Multiplying factor\nADR: Accord européen sur le transport des marchandises dangereuses par Route\n(European Agreement concerning the International Carriage of Dangerous Goods by Road)\nRID: Regulations concerning the international carriage of dangerous goods by rail\nADN: European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways\n(Accord européen relatif au transport international des marchandises dangereuses par voies de navigation\nintérieures)\nIMDG: International Maritime Code for Dangerous Goods\nEmS: Emergency Schedules\nMFAG: Medical First Aid Guide\nIATA: International Air Transport Association\nDGR: Dangerous Goods Regulations\nICAO: International Civil Aviation Organization\nTI: Technical Instructions\nMARPOL: International Convention for the Prevention of Marine Pollution from Ships\nIBC: Intermediate Bulk Container\nSVHC: Substance of Very High Concern\nFor abbreviations and acronyms, see: ECHA Guidance on information requirements and chemical safety\nassessment, chapter R.20 (Table of terms and abbreviations).\nKey literature references and sources for data\nFor abbreviations and acronyms, see: ECHA Guidance on information requirements and chemical safety\nassessment, chapter R.20 (Table of terms and abbreviations). (v.1.2, 2013)\nClassification for mixtures and used evaluation method according to Regulation (EC) No 1272/2008 [CLP]"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Classification",
+          "Classification procedure"
+        ],
+        [
+          "Acute Tox. 4; H302",
+          "Calculation method"
+        ],
+        [
+          "STOT RE 2; H373",
+          "Calculation method"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Relevant H and EUH statements (number and full text)\nH302 Harmful if swallowed.\nH373 May cause damage to organs through prolonged or repeated exposure."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "ROWE Mineralölwerk GmbH"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "HIGHTEC ANTIFREEZE COOLANT LCC 100"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "Revision: 02/02/2026 Product code: 21172 Page 10 of 10"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Further Information\nThe information is based on the present level of our knowledge. It does not, however, give assurance of product\nproperties and establishes no contract legal rights. The receiver of our product is singularly responsible for\nadhering to existing laws and regulations.\n(The data for the relevant ingredients were taken respectively from the last version of the sub­contractor's safety data\nsheet.)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision No: 1,02 ­ Replaces version: 1,01 IRL ­ en Print date: 24/04/2026"
+    }
+  ]
+}

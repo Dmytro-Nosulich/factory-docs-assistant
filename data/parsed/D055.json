@@ -1,0 +1,4078 @@
+{
+  "doc_id": "D055",
+  "format": "pdf",
+  "page_count": 13,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Issue date: 7/17/2025 Revision date: 10/6/2026 Supersedes version of: 6/15/2026 Version: 1.3"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Product identifier"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Product form",
+          ":  Mixture"
+        ],
+        [
+          "Product name",
+          ":  XF Premium S 5w30"
+        ],
+        [
+          "Product code",
+          ":  8627"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Relevant identified uses\nUse of the substance/mixture : Engine oil"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Manufacturer\nMillers Oils Ltd\nHillside Oil Works Hillside Oil works\nRastrick Common\nGB HD6 3DP Brighouse, West Yorkshire\nUnited Kingdom\nT +44 (0)1484 713201, F +44 (0)1484 721263\nh.s@millersoils.co.uk"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4. Emergency telephone number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "text": "Emergency number : 112"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Classification according to Regulation (EC) No. 1272/2008 [CLP]\nNot classified"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Adverse physicochemical, human health and environmental effects\nTo our knowledge, this product does not present any particular risk, provided it is handled in accordance with good occupational hygiene and safety\npractice."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "text": "Labelling according to Regulation (EC) No. 1272/2008 [CLP]\nEUH-statements : EUH208 - Contains MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL\nDITHIOCARBAMATE COMPLEX(457-320-2), 1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-\nethylhexyl)-(91273-04-0), Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs.. May\nproduce an allergic reaction."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "Contains no PBT and/or vPvB substances ≥ 0.1% assessed in accordance with REACH Annex XIII"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "Component"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "Substance(s) not meeting the PBT criteria of REACH Reaction products of diphenylamine with nonene, branched (36878-20-3)\nregulation, in accordance with Annex XIII"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "Substance(s) not meeting the vPvB criteria of REACH Reaction products of diphenylamine with nonene, branched (36878-20-3)\nregulation, in accordance with Annex XIII"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "The mixture does not contain substance(s) included in the list established in accordance with Article 59(1) of REACH for having endocrine disrupting\nproperties, or substance(s) are not identified as having endocrine disrupting properties in accordance with the criteria set out in Commission\nDelegated Regulation (EU) 2017/2100 or Commission Regulation (EU) 2018/605 at a concentration equal to or greater than 0,1 %"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 1/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Name Product identifier % Classification according to\nRegulation (EC) No. 1272/2008\n[CLP]"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C20-50, CAS-No.: 72623-87-1 ≥ 70 Asp. Tox. 1, H304\nHYDROTREATED NEUTRAL OIL-BASED EC-No.: 276-738-4\nREACH-no: 01-2119474889-\n13"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "DISTILLATES (PETROLEUM) HYDROTREATED",
+          "CAS-No.: 64742-54-7",
+          "≥ 1 – < 10",
+          "Not classified"
+        ],
+        [
+          "HEAVY PARAFFINIC",
+          "EC-No.: 265-157-1",
+          "",
+          ""
+        ],
+        [
+          "substance with national workplace exposure limit(s)",
+          "REACH-no: 01-2119484627-",
+          "",
+          ""
+        ],
+        [
+          "(AT, BE, CZ, DE, EE, ES, FI, FR, GB, GR, HR, IE, IT,",
+          "25",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "LV, NL, PL, PT, SI, CH); substance with a Community\nworkplace exposure limit"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Reaction products of diphenylamine with nonene, CAS-No.: 36878-20-3 ≥ 1 – < 10 Repr. 2, H361f\nbranched EC-No.: 701-385-4\nREACH-no: 01-2119488911-\n28"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C15-30, CAS-No.: 72623-86-0 ≥ 1 – < 10 Asp. Tox. 1, H304\nHYDROTREATED NEUTRAL OIL-BASED EC-No.: 276-737-9\nREACH-no: 2119474878-16-\nXXXX"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED CAS-No.: 64742-56-9 < 10 Asp. Tox. 1, H304\nLIGHT PARAFFINIC EC-No.: 265-159-2\nREACH-no: 01-2119480132-\n48"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), HYDROTREATED CAS-No.: 64742-55-8 < 10 Asp. Tox. 1, H304\nLIGHT PARAFFINIC EC-No.: 265-158-7\nREACH-no: 01-2119487077-\n29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy CAS-No.: 64742-65-0 < 10 Asp. Tox. 1, H304\nparaffinic EC-No.: 265-169-7"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "MOLYBDENUM POLYSULPHIDE LONG CHAIN",
+          "CAS-No.: 457-320-2",
+          "< 1",
+          "Skin Irrit. 2, H315"
+        ],
+        [
+          "ALKYL DITHIOCARBAMATE COMPLEX",
+          "REACH-no: 01-0000019337-",
+          "",
+          "Skin Sens. 1, H317"
+        ],
+        [
+          "",
+          "66",
+          "",
+          "Aquatic Chronic 3, H412"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-",
+          "CAS-No.: 91273-04-0",
+          "< 1",
+          "Skin Corr. 1A, H314"
+        ],
+        [
+          "ethylhexyl)-",
+          "EC-No.: 401-280-0",
+          "",
+          "Eye Dam. 1, H318"
+        ],
+        [
+          "",
+          "EC Index-No.: 613-072-00-9",
+          "",
+          "Skin Sens. 1, H317 Aquatic Chronic 1, H410"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl - < 1 Skin Sens. 1B, H317\nderivs. STOT RE 2, H373\nFull text of H- and EUH-statements: see section 16"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Description of first aid measures"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "First-aid measures general",
+          ":  If you feel unwell, seek medical advice."
+        ],
+        [
+          "First-aid measures after inhalation",
+          ":  Remove person to fresh air and keep comfortable for breathing."
+        ],
+        [
+          "First-aid measures after skin contact",
+          ":  Wash skin with plenty of water. Take off contaminated clothing and wash it before reuse."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 2/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "First-aid measures after eye contact",
+          ":  Rinse eyes with water as a precaution. Remove contact lenses, if present and easy to do. Continue rinsing."
+        ],
+        [
+          "First-aid measures after ingestion",
+          ":  Get medical advice/attention if you feel unwell. Rinse mouth. Do not induce vomiting."
+        ],
+        [
+          "Self protection of the first-aider",
+          ":  First aid workers will be equipped with suitable personal protective equipment."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Symptoms/effects after inhalation",
+          ":  None under normal conditions."
+        ],
+        [
+          "Symptoms/effects after skin contact",
+          ":  None under normal conditions."
+        ],
+        [
+          "Symptoms/effects after eye contact",
+          ":  None under normal conditions."
+        ],
+        [
+          "Symptoms/effects after ingestion",
+          ":  None under normal conditions."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Treat symptomatically."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media : Dry powder. Foam. Carbon dioxide.\nUnsuitable extinguishing media : Strong water jet."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Special hazards arising from the substance or mixture"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Fire hazard",
+          ":  No fire hazard."
+        ],
+        [
+          "Explosion hazard",
+          ":  No direct explosion hazard."
+        ],
+        [
+          "Hazardous decomposition products in case of fire",
+          ":  Toxic fumes may be released."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Advice for firefighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Firefighting instructions : Fight fire from safe distance and protected location. Do not enter fire area without proper\nprotective equipment, including respiratory protection.\nProtection during firefighting : Do not attempt to take action without suitable protective equipment. Self-contained\nbreathing apparatus. Complete protective clothing."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "General measures : Stop leak if safe to do so. Notify authorities if product enters sewers or public waters.\nAbsorb spillage to prevent material damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "For non-emergency personnel\nProtective equipment : Wear recommended personal protective equipment.\nEmergency procedures : Ventilate spillage area. See section 8 of the SDS for more information on personal\nprotective equipment."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "For emergency responders\nProtective equipment : Do not attempt to take action without suitable protective equipment. For further information\nrefer to section 8: \"Exposure controls/personal protection\".\nEmergency procedures : Evacuate unnecessary personnel. Stop leak if safe to do so."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Avoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "For containment",
+          ":  Absorb spilled material with sand or earth. Contain any spills with dikes or absorbents to prevent migration and entry into sewers or streams. Stop leak without risks if possible."
+        ],
+        [
+          "Methods for cleaning up",
+          ":  This material and its container must be disposed of in a safe way, and as per local legislation. Absorb spilled material with sand or earth."
+        ],
+        [
+          "Other information",
+          ":  Dispose of materials or solid residues at an authorized site."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 3/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "For further information refer to section 13."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precautions for safe handling"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Additional hazards when processed",
+          ": Not expected to present a significant hazard under anticipated conditions of normal use."
+        ],
+        [
+          "Precautions for safe handling",
+          ": Ensure good ventilation of the work station. Wear personal protective equipment."
+        ],
+        [
+          "Hygiene measures",
+          ": Do not eat, drink or smoke when using this product. Always wash hands after handling the product."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Technical measures",
+          ": Keep in a cool, well-ventilated place away from heat."
+        ],
+        [
+          "Storage conditions",
+          ": Keep cool. Protect from sunlight."
+        ],
+        [
+          "Packaging materials",
+          ": Always store product in container of same material as original container."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3. Specific end use(s)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "National occupational exposure and biological limit values"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "EU - Indicative Occupational Exposure Limit (IOEL)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "IOEL TWA 5 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL and PNEC"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL (Workers)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects, dermal 0.97 mg/kg bodyweight/day"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects, inhalation 2.73 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - local effects, inhalation 5.58 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL (General population)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects,oral 0.74 mg/kg bodyweight/day"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "PNEC (Oral)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "PNEC oral (secondary poisoning) 9.33 mg/kg food"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL (Workers)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects, dermal 0.97 mg/kg bodyweight/day"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects, inhalation 2.73 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - local effects, inhalation 5.58 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL (General population)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Long-term - systemic effects,oral 0.74 mg/kg bodyweight/day"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 4/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "PNEC (Oral)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "PNEC oral (secondary poisoning) 9.33 mg/kg food"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering controls\nAppropriate engineering controls:\nEnsure good ventilation of the work station."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Personal protection equipment\nPersonal protective equipment:\nWear recommended personal protective equipment.\nPersonal protective equipment symbol(s):"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Eye and face protection\nEye protection:\nSafety glasses"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Skin protection\nSkin and body protection:\nWear suitable protective clothing"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Hand protection:\nProtective gloves"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Respiratory protection\nRespiratory protection:\nNo respiratory protection needed under normal use conditions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Environmental exposure controls\nEnvironmental exposure controls:\nAvoid release to the environment."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Physical state",
+          ": Liquid"
+        ],
+        [
+          "Colour",
+          ": Not available"
+        ],
+        [
+          "Odour",
+          ": Not available"
+        ],
+        [
+          "Odour threshold",
+          ": Not available"
+        ],
+        [
+          "Melting point",
+          ": Not applicable"
+        ],
+        [
+          "Freezing point",
+          ": Not available"
+        ],
+        [
+          "Boiling point",
+          ": Not available"
+        ],
+        [
+          "Flammability",
+          ": Non flammable"
+        ],
+        [
+          "Lower explosion limit",
+          ": Not available"
+        ],
+        [
+          "Upper explosion limit",
+          ": Not available"
+        ],
+        [
+          "Flash point",
+          ": > 200 °C"
+        ],
+        [
+          "Auto-ignition temperature",
+          ": Not available"
+        ],
+        [
+          "Decomposition temperature",
+          ": Not available"
+        ],
+        [
+          "pH",
+          ": Not available"
+        ],
+        [
+          "Viscosity, kinematic",
+          ": 71.4 mm²/s @40oC"
+        ],
+        [
+          "Solubility",
+          ": Not available"
+        ],
+        [
+          "Partition coefficient n-octanol/water (Log Kow)",
+          ": Not available"
+        ],
+        [
+          "Vapour pressure",
+          ": Not available"
+        ],
+        [
+          "Vapour pressure at 50°C",
+          ": Not available"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 5/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Density",
+          ": Not available"
+        ],
+        [
+          "Relative density",
+          ": 0.85 @15oC"
+        ],
+        [
+          "Relative vapour density at 20°C",
+          ": Not available"
+        ],
+        [
+          "Particle characteristics",
+          ": Not applicable"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "text": "The product is non-reactive under normal conditions of use, storage and transport."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Stable under normal conditions."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "No dangerous reactions known under normal conditions of use."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "None under recommended storage and handling conditions (see section 7)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "Under normal conditions of storage and use, hazardous decomposition products should not be produced."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Acute toxicity (oral)",
+          ": Not classified"
+        ],
+        [
+          "Acute toxicity (dermal)",
+          ": Not classified"
+        ],
+        [
+          "Acute toxicity (inhalation)",
+          ": Not classified"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 dermal rabbit > 5000 mg/kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LC50 Inhalation - Rat (Dust/Mist) > 5.53 mg/l/4h"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 dermal > 5000 mg/kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 6/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Reaction products of diphenylamine with nonene, branched (36878-20-3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 dermal rat > 2000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 402 (Acute Dermal\nToxicity)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LD50 oral rat > 5000 mg/kg bodyweight Animal: rat, Guideline: OECD Guideline 401 (Acute Oral\nToxicity)\nSkin corrosion/irritation : Not classified\nDISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "pH 7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Serious eye damage/irritation : Not classified\nDISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "pH 7"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Respiratory or skin sensitisation",
+          ":  Not classified"
+        ],
+        [
+          "Germ cell mutagenicity",
+          ":  Not classified"
+        ],
+        [
+          "Carcinogenicity",
+          ":  Not classified"
+        ],
+        [
+          "Reproductive toxicity",
+          ":  Not classified"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEL (animal/male, F0/P) 100 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 421\n(Reproduction / Developmental Toxicity Screening Test)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEL (animal/male, F1) 100 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 421\n(Reproduction / Developmental Toxicity Screening Test)\nSTOT-single exposure : Not classified\nSTOT-repeated exposure : Not classified\nLUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408\n(Repeated Dose 90-Day Oral Toxicity Study in Rodents)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity:\n28-Day Study)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408\n(Repeated Dose 90-Day Oral Toxicity Study in Rodents)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity:\n28-Day Study)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408\n(Repeated Dose 90-Day Oral Toxicity Study in Rodents)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity:\n28-Day Study)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408\n(Repeated Dose 90-Day Oral Toxicity Study in Rodents)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 7/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity:\n28-Day Study)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "STOT-repeated exposure May cause damage to organs through prolonged or repeated exposure."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "LOAEL (oral, rat, 90 days) 125 mg/kg bodyweight Animal: rat, Animal sex: male, Guideline: OECD Guideline 408\n(Repeated Dose 90-Day Oral Toxicity Study in Rodents)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "NOAEC (inhalation, rat, dust/mist/fume, 90 days) > 0.98 mg/l air Animal: rat, Guideline: OECD Guideline 412 (Subacute Inhalation Toxicity:\n28-Day Study)\nAspiration hazard : Not classified"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Viscosity, kinematic 71.4 mm²/s @40oC"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Viscosity, kinematic 15 – 21 mm²/s @40oC"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Viscosity, kinematic 990 mm²/s @40"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Viscosity, kinematic 1.99 – 847 mm²/s Temp.: '40°C' Parameter: 'mm²/smm2/s '"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2. Information on other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "text": "Endocrine disrupting properties\nAdverse health effects caused by endocrine : The mixture does not contain substance(s) included in the list established in accordance\ndisrupting properties with Article 59(1) of REACH for having endocrine disrupting properties, or substance(s) are\nnot identified as having endocrine disrupting properties in accordance with the criteria set\nout in Commission Delegated Regulation (EU) 2017/2100 or Commission Regulation (EU)\n2018/605 at a concentration equal to or greater than 0,1 %"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Ecology - general : The product is not considered harmful to aquatic organisms nor to cause long-term adverse\neffects in the environment.\nHazardous to the aquatic environment, short–term : Not classified\n(acute)\nHazardous to the aquatic environment, long–term : Not classified\n(chronic)\nDISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "LC50 - Fish [1] > 100 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 - Crustacea [1] > 10 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 - Other aquatic organisms [1] > 10000 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Reaction products of diphenylamine with nonene, branched (36878-20-3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "LC50 - Fish [1] > 0.0013 mg/l Test organisms (species): Oncorhynchus mykiss (previous name: Salmo\ngairdneri)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 8/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Reaction products of diphenylamine with nonene, branched (36878-20-3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 - Crustacea [1] > 100 mg/l Test organisms (species): Daphnia magna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "LC50 - Fish [1] 1.1 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 - Crustacea [1] 2.2 mg/l Test organisms (species): Daphnia magna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "EC50 72h - Algae [1] 0.66 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:\nScenedesmus subspicatus)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "NOEC chronic fish > 100 mg/l Test organisms (species): Duration: '28 d'"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistence and degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not established."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C20-50, HYDROTREATED NEUTRAL OIL-BASED (72623-87-1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM) HYDROTREATED HEAVY PARAFFINIC (64742-54-7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), HYDROTREATED LIGHT PARAFFINIC (64742-55-8)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "DISTILLATES (PETROLEUM), SOLVENT-DEWAXED LIGHT PARAFFINIC (64742-56-9)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Distillates (petroleum), solvent-dewaxed heavy paraffinic (64742-65-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Reaction products of diphenylamine with nonene, branched (36878-20-3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX (457-320-2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "1H-1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)- (91273-04-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl derivs."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "LUBRICATING OILS (PETROLEUM), C15-30, HYDROTREATED NEUTRAL OIL-BASED (72623-86-0)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability Not rapidly degradable"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Bioaccumulative potential No bioaccumulation data available."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 9/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "Component"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "Substance(s) not meeting the PBT criteria of REACH Reaction products of diphenylamine with nonene, branched (36878-20-3)\nregulation, in accordance with Annex XIII"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "Substance(s) not meeting the vPvB criteria of REACH Reaction products of diphenylamine with nonene, branched (36878-20-3)\nregulation, in accordance with Annex XIII"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6. Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "Adverse effects on the environment caused by : The mixture does not contain substance(s) included in the list established in accordance\nendocrine disrupting properties with Article 59(1) of REACH for having endocrine disrupting properties, or substance(s) are\nnot identified as having endocrine disrupting properties in accordance with the criteria set\nout in Commission Delegated Regulation (EU) 2017/2100 or Commission Regulation (EU)\n2018/605 at a concentration equal to or greater than 0,1 %."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7. Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "No additional information available"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Waste treatment methods"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Regional waste regulation",
+          ": Disposal must be done according to official regulations."
+        ],
+        [
+          "Waste treatment methods",
+          ": Dispose of contents/container in accordance with licensed collector’s sorting instructions."
+        ],
+        [
+          "Sewage disposal recommendations",
+          ": Disposal must be done according to official regulations."
+        ],
+        [
+          "Product/Packaging disposal recommendations",
+          ": Dispose of contents/container to hazardous or special waste collection point, in accordance with local, regional, national and/or international regulation. Avoid release to the environment."
+        ],
+        [
+          "Additional information",
+          ": Do not re-use empty containers."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "In accordance with ADR / IMDG / IATA / ADN / RID\nADR IMDG IATA ADN RID"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1. UN number or ID number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1. UN number or ID number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1. UN number or ID number"
+      ],
+      "zone": "main",
+      "text": "Not regulated for transport"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2. UN proper shipping name"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2. UN proper shipping name"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2. UN proper shipping name"
+      ],
+      "zone": "main",
+      "text": "Not regulated Not regulated Not regulated Not regulated Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Not regulated Not regulated Not regulated Not regulated Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Not regulated Not regulated Not regulated Not regulated Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Not regulated Not regulated Not regulated Not regulated Not regulated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "No supplementary information available"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Overland transport\nNot regulated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 10/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Transport by sea\nNot regulated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Air transport\nNot regulated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Inland waterway transport\nNot regulated"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Rail transport\nNot regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7. Maritime transport in bulk according to IMO instruments"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "text": "Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "EU-Regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "REACH Annex XVII (Restriction List)\nContains no substance(s) listed on REACH Annex XVII (Restriction Conditions)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "REACH Annex XIV (Authorisation List)\nContains no substance(s) listed on REACH Annex XIV (Authorisation List)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "REACH Candidate List (SVHC)\nContains no substance(s) listed on the REACH Candidate List"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "PIC Regulation (Prior Informed Consent)\nContains no substance(s) listed on the PIC list (Regulation EU 649/2012 concerning the export and import of hazardous chemicals)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "POP Regulation (Persistent Organic Pollutants)\nContains no substance(s) listed on the POP list (Regulation EU 2019/1021 on persistent organic pollutants)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Ozone Regulation (2024/590)\nNot listed on the Ozone Depletion list (Regulation EU 2024/590)\nContains no substance(s) listed on the Ozone Depletion list (Regulation EU 2024/590 on substances that deplete the ozone layer)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Council Regulation (EC) for the control of dual-use items\nContains no substance subject to the COUNCIL REGULATION (EC) for the control of dual-use items"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Explosives Precursors Regulation (EU 2019/1148)\nContains no substance(s) listed on the Explosives Precursors list (Regulation EU 2019/1148 on the marketing and use of explosives precursors)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Drug Precursors Regulation (EC 273/2004)\nContains no substance(s) listed on the Drug Precursors list (Regulation EC 273/2004 on the manufacture and the placing on market of certain\nsubstances used in the illicit manufacture of narcotic drugs and psychotropic substances)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. Chemical safety assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "text": "No chemical safety assessment has been carried out"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Abbreviations and acronyms:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ACGIH American Conference of Governmental Industrial Hygienists"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ADN European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ADR European Agreement concerning the International Carriage of Dangerous Goods by Road"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 11/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Abbreviations and acronyms:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ATE Acute Toxicity Estimate"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "BCF Bioconcentration factor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "BLV Biological limit value"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "BOD Biochemical oxygen demand (BOD)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "CAS-No. Chemical Abstracts Service number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "CLP Classification Labelling Packaging Regulation; Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "COD Chemical oxygen demand (COD)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "CSA Chemical safety assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "DMEL Derived Minimal Effect level"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "DNEL Derived-No Effect Level"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "EC-No. European Community number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "EC50 Median effective concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ED Endocrine disruptor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "EN European Standard"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "EWC European waste catalogue"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "IARC International Agency for Research on Cancer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "IATA International Air Transport Association"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "IMDG International Maritime Dangerous Goods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "LC50 Median lethal concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "LD50 Median lethal dose"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "LOAEL Lowest Observed Adverse Effect Level"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Log Kow Partition coefficient n-octanol/water (Log Kow)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Log Pow Partition coefficient n-octanol/water (Log Pow)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "MAK maximum workplace concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "NOAEC No-Observed Adverse Effect Concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "NOAEL No-Observed Adverse Effect Level"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "NOEC No-Observed Effect Concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "N.O.S. Not Otherwise Specified"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "OECD Organisation for Economic Co-operation and Development"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "OEL Occupational Exposure Limit"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "OSHA Occupational Safety Health Administration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "PBT Persistent Bioaccumulative Toxic"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "PNEC Predicted No-Effect Concentration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "PPE Personal protection equipment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "RID Regulations concerning the International Carriage of Dangerous Goods by Rail"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "SDS Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "STP Sewage treatment plant"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "TF Technical function"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "ThOD Theoretical oxygen demand (ThOD)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 12/13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "header",
+      "text": "XF Premium S 5w30"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to the REACH Regulation (EC) 1907/2006 amended by Regulation (EU) 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Abbreviations and acronyms:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "TLM Median Tolerance Limit"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "TWA Time Weighted Average"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "VOC Volatile Organic Compounds"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "vPvB Very Persistent and Very Bioaccumulative"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "UFI Unique Formula Identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Full text of H- and EUH-statements:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Aquatic Chronic 1 Hazardous to the aquatic environment – Chronic Hazard, Category 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Aquatic Chronic 3 Hazardous to the aquatic environment – Chronic Hazard, Category 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Asp. Tox. 1 Aspiration hazard, Category 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Eye Dam. 1 Serious eye damage/eye irritation, Category 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Repr. 2 Reproductive toxicity, Category 2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Skin Corr. 1A Skin corrosion/irritation, Category 1, Sub-Category 1A"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Skin Irrit. 2 Skin corrosion/irritation, Category 2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Skin Sens. 1 Skin sensitisation, Category 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Skin Sens. 1B Skin sensitisation, category 1B"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "STOT RE 2 Specific target organ toxicity – Repeated exposure, Category 2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H304 May be fatal if swallowed and enters airways."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H314 Causes severe skin burns and eye damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H315 Causes skin irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H317 May cause an allergic skin reaction."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H318 Causes serious eye damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H361f Suspected of damaging fertility."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H373 May cause damage to organs through prolonged or repeated exposure."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H410 Very toxic to aquatic life with long lasting effects."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "H412 Harmful to aquatic life with long lasting effects."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "EUH208 Contains MOLYBDENUM POLYSULPHIDE LONG CHAIN ALKYL DITHIOCARBAMATE COMPLEX(457-320-2), 1H-\n1,2,4-Triazole-1-methanamine, N,N-bis(2-ethylhexyl)-(91273-04-0), Phenol, 2 or 4-C14-18 (even numbered) sec-alkyl\nderivs.. May produce an allergic reaction."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "The classification complies with : ATP 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Safety Data Sheet (SDS), EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "This information is based on our current knowledge and is intended to describe the product for the purposes of health, safety and environmental\nrequirements only. It should not therefore be construed as guaranteeing any specific property of the product."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "footer",
+      "text": "10/6/2026 (Revision date) EN (English) 13/13"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "D074",
+  "format": "md",
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Modbus Input Plugin"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin"
+      ],
+      "zone": "main",
+      "text": "The Modbus plugin collects Discrete Inputs, Coils, Input Registers and Holding Registers via Modbus TCP or Modbus RTU/ASCII."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Configuration"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "text": "[[inputs.modbus]]\n  ## Connection Configuration\n  ##\n  ## The plugin supports connections to PLCs via MODBUS/TCP, RTU over TCP, ASCII over TCP or\n  ## via serial line communication in binary (RTU) or readable (ASCII) encoding\n  ##\n  ## Device name\n  name = \"Device\"\n\n  ## Slave ID - addresses a MODBUS device on the bus\n  ## Range: 0 - 255 [0 = broadcast; 248 - 255 = reserved]\n  slave_id = 1\n\n  ## Timeout for each request\n  timeout = \"1s\"\n\n  ## Maximum number of retries and the time to wait between retries\n  ## when a slave-device is busy.\n  # busy_retries = 0\n  # busy_retries_wait = \"100ms\"\n\n  # TCP - connect via Modbus/TCP\n  controller = \"tcp://localhost:502\"\n  \n  ## Serial (RS485; RS232)\n  # controller = \"file:///dev/ttyUSB0\"\n  # baud_rate = 9600\n  # data_bits = 8\n  # parity = \"N\"\n  # stop_bits = 1\n\n  ## For Modbus over TCP you can choose between \"TCP\", \"RTUoverTCP\" and \"ASCIIoverTCP\"\n  ## default behaviour is \"TCP\" if the controller is TCP\n  ## For Serial you can choose between \"RTU\" and \"ASCII\"\n  # transmission_mode = \"RTU\"\n\n  ## Measurements\n  ##\n\n  ## Digital Variables, Discrete Inputs and Coils\n  ## measurement - the (optional) measurement name, defaults to \"modbus\"\n  ## name        - the variable name\n  ## address     - variable address\n\n  discrete_inputs = [\n    { name = \"start\",          address = [0]},\n    { name = \"stop\",           address = [1]},\n    { name = \"reset\",          address = [2]},\n    { name = \"emergency_stop\", address = [3]},\n  ]\n  coils = [\n    { name = \"motor1_run\",     address = [0]},\n    { name = \"motor1_jog\",     address = [1]},\n    { name = \"motor1_stop\",    address = [2]},\n  ]\n\n  ## Analog Variables, Input Registers and Holding Registers\n  ## measurement - the (optional) measurement name, defaults to \"modbus\"\n  ## name        - the variable name\n  ## byte_order  - the ordering of bytes\n  ##  |---AB, ABCD   - Big Endian\n  ##  |---BA, DCBA   - Little Endian\n  ##  |---BADC       - Mid-Big Endian\n  ##  |---CDAB       - Mid-Little Endian\n  ## data_type  - INT16, UINT16, INT32, UINT32, INT64, UINT64, FLOAT32-IEEE, FLOAT64-IEEE (the IEEE 754 binary representation)\n  ##              FLOAT32 (deprecated), FIXED, UFIXED (fixed-point representation on input)\n  ## scale      - the final numeric variable representation\n  ## address    - variable address\n\n  holding_registers = [\n    { name = \"power_factor\", byte_order = \"AB\",   data_type = \"FIXED\", scale=0.01,  address = [8]},\n    { name = \"voltage\",      byte_order = \"AB\",   data_type = \"FIXED\", scale=0.1,   address = [0]},\n    { name = \"energy\",       byte_order = \"ABCD\", data_type = \"FIXED\", scale=0.001, address = [5,6]},\n    { name = \"current\",      byte_order = \"ABCD\", data_type = \"FIXED\", scale=0.001, address = [1,2]},\n    { name = \"frequency\",    byte_order = \"AB\",   data_type = \"UFIXED\", scale=0.1,  address = [7]},\n    { name = \"power\",        byte_order = \"ABCD\", data_type = \"UFIXED\", scale=0.1,  address = [3,4]},\n  ]\n  input_registers = [\n    { name = \"tank_level\",   byte_order = \"AB\",   data_type = \"INT16\",   scale=1.0,     address = [0]},\n    { name = \"tank_ph\",      byte_order = \"AB\",   data_type = \"INT16\",   scale=1.0,     address = [1]},\n    { name = \"pump1_speed\",  byte_order = \"ABCD\", data_type = \"INT32\",   scale=1.0,     address = [3,4]},\n  ]",
+      "language": "toml"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Metrics"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "text": "Metric are custom and configured using the `discrete_inputs`, `coils`, `holding_register` and `input_registers` options."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Usage of `data_type`"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`"
+      ],
+      "zone": "main",
+      "text": "The field `data_type` defines the representation of the data value on input from the modbus registers. The input values are then converted from the given `data_type` to a type that is apropriate when sending the value to the output plugin. These output types are usually one of string, integer or floating-point-number. The size of the output type is assumed to be large enough for all supported input types. The mapping from the input type to the output type is fixed and cannot be configured."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Integers: `INT16`, `UINT16`, `INT32`, `UINT32`, `INT64`, `UINT64`"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Integers: `INT16`, `UINT16`, `INT32`, `UINT32`, `INT64`, `UINT64`"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Integers: `INT16`, `UINT16`, `INT32`, `UINT32`, `INT64`, `UINT64`"
+      ],
+      "zone": "main",
+      "text": "These types are used for integer input values. Select the one that matches your modbus data source."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Floating Point: `FLOAT32-IEEE`, `FLOAT64-IEEE`"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Floating Point: `FLOAT32-IEEE`, `FLOAT64-IEEE`"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Floating Point: `FLOAT32-IEEE`, `FLOAT64-IEEE`"
+      ],
+      "zone": "main",
+      "text": "Use these types if your modbus registers contain a value that is encoded in this format. These types always include the sign and therefore there exists no variant."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+      ],
+      "zone": "main",
+      "text": "These types are handled as an integer type on input, but are converted to floating point representation for further processing (e.g. scaling). Use one of these types when the input value is a decimal fixed point representation of a non-integer value."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+      ],
+      "zone": "main",
+      "text": "Select the type `UFIXED` when the input type is declared to hold unsigned integer values, which cannot be negative. The documentation of your modbus device should indicate this by a term like 'uint16 containing fixed-point representation with N decimal places'."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+      ],
+      "zone": "main",
+      "text": "Select the type `FIXED` when the input type is declared to hold signed integer values. Your documentation of the modbus device should indicate this with a term like 'int32 containing fixed-point representation with N decimal places'."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Usage of `data_type`",
+        "Fixed Point: `FIXED`, `UFIXED` (`FLOAT32`)"
+      ],
+      "zone": "main",
+      "text": "(FLOAT32 is deprecated and should not be used any more. UFIXED provides the same conversion from unsigned values)."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Trouble shooting"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "Modbus documentations are often a mess. People confuse memory-address (starts at one) and register address (starts at zero) or stay unclear about the used word-order. Furthermore, there are some non-standard implementations that also swap the bytes within the register word (16-bit)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "If you get an error or don't get the expected values from your device, you can try the following steps (assuming a 32-bit value)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "In case are using a serial device and get an `permission denied` error, please check the permissions of your serial device and change accordingly."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "In case you get an `exception '2' (illegal data address)` error you might try to offset your `address` entries by minus one as it is very likely that there is a confusion between memory and register addresses."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "In case you see strange values, the `byte_order` might be off. You can either probe all combinations (`ABCD`, `CDBA`, `BADC` or `DCBA`) or you set `byte_order=\"ABCD\" data_type=\"UINT32\"` and use the resulting value(s) in an online converter like [this](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/). This makes especially sense if you don't want to mess with the device, deal with 64-bit values and/or don't know the `data_type` of your register (e.g. fix-point floating values vs. IEEE floating point)."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Trouble shooting"
+      ],
+      "zone": "main",
+      "text": "If nothing helps, please post your configuration, error message and/or the output of `byte_order=\"ABCD\" data_type=\"UINT32\"` to one of the telegraf support channels (forum, slack or as issue)."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Example Output"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "Modbus Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "text": "$ ./telegraf -config telegraf.conf -input-filter modbus -test\nmodbus.InputRegisters,host=orangepizero Current=0,Energy=0,Frecuency=60,Power=0,PowerFactor=0,Voltage=123.9000015258789 1554079521000000000",
+      "language": "sh"
+    }
+  ]
+}

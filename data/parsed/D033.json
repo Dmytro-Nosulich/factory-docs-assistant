@@ -1,0 +1,2040 @@
+{
+  "doc_id": "D033",
+  "format": "pdf",
+  "page_count": 8,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 1/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ABSCHNITT 1: Bezeichnung des Stoffs beziehungsweise des Gemischs und des Unternehmens",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.1 Produktidentifikator"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Produktidentifikator"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen"
+      ],
+      "zone": "main",
+      "text": "abgeraten wird"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen"
+      ],
+      "zone": "main",
+      "text": "Außer Reichweite von Kindern aufbewahren."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.2 Relevante identifizierte Verwendungen des Stoffs oder Gemischs und Verwendungen, von denen"
+      ],
+      "zone": "main",
+      "text": "Verwendung des Stoffes / des Gemisches Kesselsteininhibitor"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Hersteller/Lieferant:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Alfred Kärcher SE & Co. KG\nAlfred-Kärcher-Str. 28-40\nD - 71364 Winnenden\nTel.: +49-7195-14-0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Alfred Kärcher GmbH\nMaculangasse 4\nA - 1220 Wien\nTel.: +43-1-25060-0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Kärcher AG\nIndustriestr. 16\nCH - 8108 Dällikon\nFon: +41-44-8466-777"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Internet: www.karcher.com\nAuskunftgebender Bereich:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.3 Einzelheiten zum Lieferanten, der das Sicherheitsdatenblatt bereitstellt"
+      ],
+      "zone": "main",
+      "text": "Regulatory Affairs\nTel.: +49-7195-14-0\nproductsafety.management.de@karcher.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.4 Notrufnummer:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Notrufnummer:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.4 Notrufnummer:"
+      ],
+      "zone": "main",
+      "text": "Tox Info Suisse\n24-h-Notfallnummer: 145 (aus dem Ausland: +41 44 251 51 51)\nAuskunft: +41 44 251 66 66\nBei Ereignissen mit Gefahrstoffen [oder Gefahrgütern]\nAuslauf, Leckage, Feuer, Exposition oder Unfall:\nRufen Sie CHEMTREC an, rund um die Uhr.\nAußerhalb der USA und Kanada: +1-703-527-3887 (R-Gespräche sind möglich)\nInnerhalb der USA und Kanada: 1-800-424-9300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 2/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 1)"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 2: Mögliche Gefahren"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.1 Einstufung des Stoffs oder Gemischs"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Einstufung des Stoffs oder Gemischs"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.1 Einstufung des Stoffs oder Gemischs"
+      ],
+      "zone": "main",
+      "text": "Einstufung gemäß Verordnung (EG) Nr. 1272/2008 Das Produkt ist gemäß CLP-Verordnung nicht eingestuft."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Kennzeichnungselemente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "text": "Kennzeichnung gemäß Verordnung (EG) Nr. 1272/2008 entfällt\nGefahrenpiktogramme entfällt\nSignalwort entfällt\nGefahrenhinweise entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.3 Sonstige Gefahren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Sonstige Gefahren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 2: Mögliche Gefahren",
+        "2.3 Sonstige Gefahren"
+      ],
+      "zone": "main",
+      "text": "Ergebnisse der PBT- und vPvB-Beurteilung\nPBT: Nicht anwendbar\nvPvB: Nicht anwendbar\nFeststellung endokrinschädlicher Eigenschaften Nicht anwendbar"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen",
+        "3.2 Gemische"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Gemische"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen",
+        "3.2 Gemische"
+      ],
+      "zone": "main",
+      "text": "Beschreibung: Dispergiermittel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen",
+        "3.2 Gemische"
+      ],
+      "zone": "main",
+      "text": "Gefährliche Inhaltsstoffe: entfällt\nzusätzl. Hinweise: Der Wortlaut der angeführten Gefahrenhinweise ist dem Abschnitt 16 zu entnehmen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 4: Erste-Hilfe-Maßnahmen"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "text": "Allgemeine Hinweise: Keine besonderen Maßnahmen erforderlich.\nnach Einatmen: Frischluftzufuhr, bei Beschwerden Arzt aufsuchen.\nnach Hautkontakt: Im allgemeinen ist das Produkt nicht hautreizend.\nnach Augenkontakt: Augen bei geöffnetem Lidspalt mehrere Minuten mit fließendem Wasser spülen.\nnach Verschlucken:\nMund ausspülen und reichlich Wasser nachtrinken.\nBei anhaltenden Beschwerden Arzt konsultieren."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.2 Wichtigste akute und verzögert auftretende Symptome und Wirkungen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Wichtigste akute und verzögert auftretende Symptome und Wirkungen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.2 Wichtigste akute und verzögert auftretende Symptome und Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.3 Hinweise auf ärztliche Soforthilfe oder Spezialbehandlung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Hinweise auf ärztliche Soforthilfe oder Spezialbehandlung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+        "4.3 Hinweise auf ärztliche Soforthilfe oder Spezialbehandlung"
+      ],
+      "zone": "main",
+      "text": "Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 3/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 2)"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.1 Löschmittel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Löschmittel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.1 Löschmittel"
+      ],
+      "zone": "main",
+      "text": "Geeignete Löschmittel:\nCO2, Löschpulver oder Wassersprühstrahl. Größeren Brand mit Wassersprühstrahl oder alkoholbeständigem Schaum\nbekämpfen."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.2 Besondere vom Stoff oder Gemisch ausgehende Gefahren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Besondere vom Stoff oder Gemisch ausgehende Gefahren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.2 Besondere vom Stoff oder Gemisch ausgehende Gefahren"
+      ],
+      "zone": "main",
+      "text": "Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.3 Hinweise für die Brandbekämpfung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Hinweise für die Brandbekämpfung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 5: Maßnahmen zur Brandbekämpfung",
+        "5.3 Hinweise für die Brandbekämpfung"
+      ],
+      "zone": "main",
+      "text": "Besondere Schutzausrüstung: Keine besonderen Maßnahmen erforderlich."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.1 Personenbezogene Vorsichtsmaßnahmen, Schutzausrüstungen und in Notfällen anzuwendende"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Personenbezogene Vorsichtsmaßnahmen, Schutzausrüstungen und in Notfällen anzuwendende"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.1 Personenbezogene Vorsichtsmaßnahmen, Schutzausrüstungen und in Notfällen anzuwendende"
+      ],
+      "zone": "main",
+      "text": "Verfahren\nNicht erforderlich"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.2 Umweltschutzmaßnahmen:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Umweltschutzmaßnahmen:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.2 Umweltschutzmaßnahmen:"
+      ],
+      "zone": "main",
+      "text": "Mit viel Wasser verdünnen.\nNicht in die Kanalisation/Oberflächenwasser/Grundwasser gelangen lassen.\nNicht in den Untergrund/Erdreich gelangen lassen."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.3 Methoden und Material für Rückhaltung und Reinigung:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Methoden und Material für Rückhaltung und Reinigung:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.3 Methoden und Material für Rückhaltung und Reinigung:"
+      ],
+      "zone": "main",
+      "text": "Mit flüssigkeitsbindendem Material (Sand, Kieselgur, Säurebinder, Universalbinder) aufnehmen."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.4 Verweis auf andere Abschnitte"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Verweis auf andere Abschnitte"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 6: Maßnahmen bei unbeabsichtigter Freisetzung",
+        "6.4 Verweis auf andere Abschnitte"
+      ],
+      "zone": "main",
+      "text": "Informationen zur sicheren Handhabung siehe Abschnitt 7.\nInformationen zur persönlichen Schutzausrüstung siehe Abschnitt 8.\nInformationen zur Entsorgung siehe Abschnitt 13."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 7: Handhabung und Lagerung"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung",
+        "7.1 Schutzmaßnahmen zur sicheren Handhabung Keine besonderen Maßnahmen erforderlich."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Schutzmaßnahmen zur sicheren Handhabung Keine besonderen Maßnahmen erforderlich."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung",
+        "7.1 Schutzmaßnahmen zur sicheren Handhabung Keine besonderen Maßnahmen erforderlich."
+      ],
+      "zone": "main",
+      "text": "Hinweise zum Brand- und Explosionsschutz: Keine besonderen Maßnahmen erforderlich."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung",
+        "7.2 Bedingungen zur sicheren Lagerung unter Berücksichtigung von Unverträglichkeiten"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Bedingungen zur sicheren Lagerung unter Berücksichtigung von Unverträglichkeiten"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung",
+        "7.2 Bedingungen zur sicheren Lagerung unter Berücksichtigung von Unverträglichkeiten"
+      ],
+      "zone": "main",
+      "text": "Lagerung:\nAnforderung an Lagerräume und Behälter: Keine besonderen Anforderungen.\nZusammenlagerungshinweise: nicht erforderlich\nWeitere Angaben zu den Lagerbedingungen: keine\nLagerklasse nach TRGS 510: 12\nKlassifizierung nach Betriebssicherheitsverordnung (BetrSichV): -"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "ABSCHNITT 7: Handhabung und Lagerung",
+        "7.3 Spezifische Endanwendungen Keine weiteren relevanten Informationen verfügbar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Spezifische Endanwendungen Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 4/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 3)"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche"
+      ],
+      "zone": "main",
+      "text": "Schutzausrüstungen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche"
+      ],
+      "zone": "main",
+      "text": "8.1 Zu überwachende Parameter\nBestandteile mit arbeitsplatzbezogenen, zu überwachenden Grenzwerten:\nDas Produkt enthält keine relevanten Mengen von Stoffen mit arbeitsplatzbezogenen, zu überwachenden Grenzwerten."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche",
+        "8.2 Begrenzung und Überwachung der Exposition"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Begrenzung und Überwachung der Exposition"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche",
+        "8.2 Begrenzung und Überwachung der Exposition"
+      ],
+      "zone": "main",
+      "text": "Geeignete technische Steuerungseinrichtungen Keine weiteren Angaben, siehe Abschnitt 7.\nIndividuelle Schutzmaßnahmen, zum Beispiel persönliche Schutzausrüstung\nAllgemeine Schutz- und Hygienemaßnahmen:\nDie üblichen Vorsichtsmaßnahmen beim Umgang mit Chemikalien sind zu beachten.\nAtemschutz Bei guter Raumbelüftung nicht erforderlich.\nHandschutz Nicht erforderlich\nHandschuhmaterial Nicht erforderlich\nDurchdringungszeit des Handschuhmaterials Nicht erforderlich\nAugen-/Gesichtsschutz Nicht erforderlich"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 9: Physikalische und chemische Eigenschaften"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "text": "Allgemeine Angaben"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Aggregatzustand",
+          "Flüssig"
+        ],
+        [
+          "Farbe",
+          "gelb"
+        ],
+        [
+          "Geruch:",
+          "produktspezifisch"
+        ],
+        [
+          "Geruchsschwelle:",
+          "Nicht bestimmt"
+        ],
+        [
+          "Schmelzpunkt/Gefrierpunkt:",
+          "0 °C"
+        ],
+        [
+          "Siedepunkt oder Siedebeginn und Siedebereich",
+          "100 °C"
+        ],
+        [
+          "Entzündbarkeit",
+          "Nicht anwendbar"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "text": "Untere und obere Explosionsgrenze"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "untere:",
+          "Nicht bestimmt"
+        ],
+        [
+          "obere:",
+          "Nicht bestimmt"
+        ],
+        [
+          "Flammpunkt:",
+          "Nicht anwendbar"
+        ],
+        [
+          "Zündtemperatur",
+          "nicht zutreffend"
+        ],
+        [
+          "Zersetzungstemperatur:",
+          "Nicht bestimmt"
+        ],
+        [
+          "pH-Wert bei 20 °C:",
+          "9"
+        ],
+        [
+          "pH 1%",
+          "7-9"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "text": "Viskosität:\nKinematische Viskosität Nicht bestimmt\ndynamisch bei 20 °C: 1,5 mPas\nLöslichkeit"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Wasser:",
+          "vollständig mischbar"
+        ],
+        [
+          "Verteilungskoeffizient n-Oktanol/Wasser (log-Wert)",
+          "Nicht bestimmt"
+        ],
+        [
+          "Dampfdruck:",
+          "Nicht bestimmt"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "text": "Dichte und/oder relative Dichte"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Dichte bei 20 °C:",
+          "1,017 g/cm³"
+        ],
+        [
+          "Relative Dichte",
+          "Nicht bestimmt"
+        ],
+        [
+          "Dampfdichte",
+          "Nicht bestimmt"
+        ],
+        [
+          "Relative Dampfdichte",
+          "Nicht bestimmt"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 5)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 5/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+      ],
+      "zone": "main",
+      "text": "Partikeleigenschaften Nicht anwendbar"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Sonstige Angaben"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Aussehen:\nForm: flüssig\nWichtige Angaben zum Gesundheits- und\nUmweltschutz sowie zur Sicherheit\nZündtemperatur: Das Produkt ist nicht selbstentzündlich.\nExplosive Eigenschaften: Das Produkt ist nicht explosionsgefährlich. (EEC 92/69/EWG,\nA4)\nLösemittelgehalt:\nVOCV (CH) 0,00 %\nZustandsänderung\nVerdampfungsgeschwindigkeit Nicht bestimmt\nAngaben über physikalische Gefahrenklassen\nExplosive Stoffe/Gemische und Erzeugnisse mit"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Explosivstoff",
+          "entfällt"
+        ],
+        [
+          "Entzündbare Gase",
+          "entfällt"
+        ],
+        [
+          "Aerosole",
+          "entfällt"
+        ],
+        [
+          "Oxidierende Gase",
+          "entfällt"
+        ],
+        [
+          "Gase unter Druck",
+          "entfällt"
+        ],
+        [
+          "Entzündbare Flüssigkeiten",
+          "entfällt"
+        ],
+        [
+          "Entzündbare Feststoffe",
+          "entfällt"
+        ],
+        [
+          "Selbstzersetzliche Stoffe und Gemische",
+          "entfällt"
+        ],
+        [
+          "Pyrophore Flüssigkeiten",
+          "entfällt"
+        ],
+        [
+          "Pyrophore Feststoffe",
+          "entfällt"
+        ],
+        [
+          "Selbsterhitzungsfähige Stoffe und Gemische",
+          "entfällt"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Stoffe und Gemische, die in Kontakt mit Wasser"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "entzündbare Gase entwickeln",
+          "entfällt"
+        ],
+        [
+          "Oxidierende Flüssigkeiten",
+          "entfällt"
+        ],
+        [
+          "Oxidierende Feststoffe",
+          "entfällt"
+        ],
+        [
+          "Organische Peroxide",
+          "entfällt"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 9: Physikalische und chemische Eigenschaften",
+        "9.2 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Gegenüber Metallen korrosiv wirkende Stoffe und\nGemische entfällt\nDesensibilisierte Stoffe/Gemische und Erzeugnisse mit\nExplosivstoff entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 10: Stabilität und Reaktivität"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.1 Reaktivität entspricht 10.3"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reaktivität entspricht 10.3"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.2 Chemische Stabilität"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Chemische Stabilität"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.2 Chemische Stabilität"
+      ],
+      "zone": "main",
+      "text": "Thermische Zersetzung / zu vermeidende Bedingungen:\nKeine Zersetzung bei bestimmungsgemäßer Verwendung."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.3 Möglichkeit gefährlicher Reaktionen Keine gefährlichen Reaktionen bekannt."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Möglichkeit gefährlicher Reaktionen Keine gefährlichen Reaktionen bekannt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.3 Möglichkeit gefährlicher Reaktionen Keine gefährlichen Reaktionen bekannt."
+      ],
+      "zone": "main",
+      "text": "10.4 Zu vermeidende Bedingungen Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 6)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 6/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 5)"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.5 Unverträgliche Materialien: Keine weiteren relevanten Informationen verfügbar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Unverträgliche Materialien: Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 10: Stabilität und Reaktivität",
+        "10.6 Gefährliche Zersetzungsprodukte: Keine gefährlichen Zersetzungsprodukte bekannt."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Gefährliche Zersetzungsprodukte: Keine gefährlichen Zersetzungsprodukte bekannt."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 11: Toxikologische Angaben"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 11: Toxikologische Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 11: Toxikologische Angaben",
+        "11.1 Angaben zu den Gefahrenklassen im Sinne der Verordnung (EG) Nr. 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Angaben zu den Gefahrenklassen im Sinne der Verordnung (EG) Nr. 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 11: Toxikologische Angaben",
+        "11.1 Angaben zu den Gefahrenklassen im Sinne der Verordnung (EG) Nr. 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Akute Toxizität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nPrimäre Reizwirkung:\nÄtz-/Reizwirkung auf die Haut Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nSchwere Augenschädigung/-reizung Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nSensibilisierung der Atemwege/Haut Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nKeimzellmutagenität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nKarzinogenität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nReproduktionstoxizität Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nSpezifische Zielorgan-Toxizität bei einmaliger Exposition\nAufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nSpezifische Zielorgan-Toxizität bei wiederholter Exposition\nAufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt.\nAspirationsgefahr Aufgrund der verfügbaren Daten sind die Einstufungskriterien nicht erfüllt."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 11: Toxikologische Angaben",
+        "11.2 Angaben über sonstige Gefahren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Angaben über sonstige Gefahren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 11: Toxikologische Angaben",
+        "11.2 Angaben über sonstige Gefahren"
+      ],
+      "zone": "main",
+      "text": "Endokrinschädliche Eigenschaften\nKeiner der Inhaltsstoffe ist enthalten."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 12: Umweltbezogene Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.1 Toxizität"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxizität"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.1 Toxizität"
+      ],
+      "zone": "main",
+      "text": "Aquatische Toxizität: Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.2 Persistenz und Abbaubarkeit Keine weiteren relevanten Informationen verfügbar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistenz und Abbaubarkeit Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.3 Bioakkumulationspotenzial Keine weiteren relevanten Informationen verfügbar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioakkumulationspotenzial Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.4 Mobilität im Boden Keine weiteren relevanten Informationen verfügbar."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobilität im Boden Keine weiteren relevanten Informationen verfügbar."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.5 Ergebnisse der PBT- und vPvB-Beurteilung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Ergebnisse der PBT- und vPvB-Beurteilung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.5 Ergebnisse der PBT- und vPvB-Beurteilung"
+      ],
+      "zone": "main",
+      "text": "PBT: Nicht anwendbar\nvPvB: Nicht anwendbar"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.6 Endokrinschädliche Eigenschaften Das Produkt enthält keine Stoffe mit endokrinschädlichen Eigenschaften."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Endokrinschädliche Eigenschaften Das Produkt enthält keine Stoffe mit endokrinschädlichen Eigenschaften."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Andere schädliche Wirkungen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Weitere ökologische Hinweise:\nCSB-Wert: 18.000 mg/l"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Allgemeine Hinweise:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Das Produkt ist frei von organisch gebundenen Halogenen (AOX-frei)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 7/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 6)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Das Produkt ist frei von organischen Komplexbildnern.\nNicht in das Grundwasser, in Gewässer oder in die Kanalisation gelangen lassen.\nTrinkwassergefährdung bereits beim Auslaufen geringer Mengen in den Untergrund."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 12: Umweltbezogene Angaben",
+        "12.7 Andere schädliche Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Wassergefährdungsklasse 2 (Selbsteinstufung): deutlich wassergefährdend"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 13: Hinweise zur Entsorgung"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 13: Hinweise zur Entsorgung"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 13: Hinweise zur Entsorgung",
+        "13.1 Verfahren der Abfallbehandlung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Verfahren der Abfallbehandlung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 13: Hinweise zur Entsorgung",
+        "13.1 Verfahren der Abfallbehandlung"
+      ],
+      "zone": "main",
+      "text": "Empfehlung:\nSonderabfallsammler übergeben oder zu Problemstoffsammelstelle bringen.\nKleine Mengen können mit reichlich Wasser verdünnt und weggespült werden. Größere Mengen sind gemäß örtlicher\nbehördlicher Vorschriften zu entsorgen.\nEuropäischer Abfallkatalog\n20 01 30 Reinigungsmittel mit Ausnahme derjenigen, die unter 20 01 29 fallen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 13: Hinweise zur Entsorgung",
+        "13.1 Verfahren der Abfallbehandlung"
+      ],
+      "zone": "main",
+      "text": "Ungereinigte Verpackungen:\nEmpfehlung:\nKontaminierte Verpackungen sind optimal zu entleeren, sie können dann nach entsprechender Reinigung einer\nWiederverwertung zugeführt werden.\nEmpfohlenes Reinigungsmittel: Wasser, gegebenenfalls mit Zusatz von Reinigungsmitteln."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 14: Angaben zum Transport"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport"
+      ],
+      "zone": "main",
+      "text": "14.1 UN-Nummer oder ID-Nummer\nADR, IMDG, IATA entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.2 Ordnungsgemäße UN-Versandbezeichnung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Ordnungsgemäße UN-Versandbezeichnung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.2 Ordnungsgemäße UN-Versandbezeichnung"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.3 Transportgefahrenklassen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transportgefahrenklassen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.3 Transportgefahrenklassen"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA\nKlasse entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.4 Verpackungsgruppe"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Verpackungsgruppe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.4 Verpackungsgruppe"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.5 Umweltgefahren: Nicht anwendbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Umweltgefahren: Nicht anwendbar"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.6 Besondere Vorsichtsmaßnahmen für den"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Besondere Vorsichtsmaßnahmen für den"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.6 Besondere Vorsichtsmaßnahmen für den"
+      ],
+      "zone": "main",
+      "text": "Verwender Nicht anwendbar"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.7 Massengutbeförderung auf dem Seeweg"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Massengutbeförderung auf dem Seeweg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.7 Massengutbeförderung auf dem Seeweg"
+      ],
+      "zone": "main",
+      "text": "gemäß IMO-Instrumenten Nicht anwendbar"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Fortsetzung auf Seite 8)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite: 8/8"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Sicherheitsdatenblatt"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "gemäß Verordnung (EG) Nr. 1907/2006, Artikel 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Druckdatum: 02.10.2026 Versionsnummer 15 (ersetzt Version 14) überarbeitet am: 11.05.2026"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Handelsname: PressurePro Systempflege RM 110"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Fortsetzung von Seite 7)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 14: Angaben zum Transport",
+        "14.7 Massengutbeförderung auf dem Seeweg"
+      ],
+      "zone": "main",
+      "text": "UN \"Model Regulation\": entfällt"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 15: Rechtsvorschriften"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+      ],
+      "zone": "main",
+      "text": "den Stoff oder das Gemisch"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+      ],
+      "zone": "main",
+      "text": "Richtlinie 2012/18/EU\nNamentlich aufgeführte gefährliche Stoffe - ANHANG I Keiner der Inhaltsstoffe ist enthalten."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+      ],
+      "zone": "main",
+      "text": "Nationale Vorschriften:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.1 Vorschriften zu Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für"
+      ],
+      "zone": "main",
+      "text": "Wassergefährdungsklasse:\nSelbsteinstufung gemäß AwSV vom 18.04.17, Anlage 1\nWGK 2 (Selbsteinstufung): deutlich wassergefährdend."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 15: Rechtsvorschriften",
+        "15.2 Stoffsicherheitsbeurteilung: Eine Stoffsicherheitsbeurteilung wurde nicht durchgeführt."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Stoffsicherheitsbeurteilung: Eine Stoffsicherheitsbeurteilung wurde nicht durchgeführt."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 16: Sonstige Angaben"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ABSCHNITT 16: Sonstige Angaben"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 16: Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Die Angaben stützen sich auf den heutigen Stand unserer Kenntnisse, sie stellen jedoch keine Zusicherung von\nProdukteigenschaften dar und begründen kein vertragliches Rechtsverhältnis.\nEin Produktinformationsblatt liegt vor und wird auf Wunsch zugesandt."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 16: Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Ansprechpartner:\nRegulatory Affairs\nTel.: +49-7195-14-0\nproductsafety.management.de@karcher.com\nVersionsnummer der Vorgängerversion: 14\nAbkürzungen und Akronyme:\nADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the International Carriage of\nDangerous Goods by Road)\nIMDG: International Maritime Code for Dangerous Goods\nIATA: International Air Transport Association\nGHS: Globally Harmonised System of Classification and Labelling of Chemicals\nEINECS: European Inventory of Existing Commercial Chemical Substances\nELINCS: European List of Notified Chemical Substances\nCAS: Chemical Abstracts Service (division of the American Chemical Society)\nVOCV: Lenkungsabgabe auf flüchtigen organischen Verbindungen, Schweiz (Swiss Ordinance on volatile organic compounds)\nPBT: Persistent, Bioaccumulative and Toxic\nvPvB: very Persistent and very Bioaccumulative"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 16: Sonstige Angaben"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Daten gegenüber der Vorversion geändert",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "ABSCHNITT 16: Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "0·011-730·0 RM110/24 2·651"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "DE"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "63.3.7"
+    }
+  ]
+}

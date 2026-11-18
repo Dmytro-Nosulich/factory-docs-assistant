@@ -1,0 +1,848 @@
+{
+  "doc_id": "D076",
+  "format": "md",
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "OPC UA Client Reader Input Plugin"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin"
+      ],
+      "zone": "main",
+      "text": "This plugin gathers data from an [OPC UA][opcua] server by subscribing to the configured nodes."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin"
+      ],
+      "zone": "main",
+      "text": "⭐ Telegraf v1.16.0 🏷️ iot 💻 all"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Global configuration options"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Global configuration options"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Global configuration options"
+      ],
+      "zone": "main",
+      "text": "Plugins support additional global and plugin configuration settings for tasks such as modifying metrics, tags, and fields, creating aliases, and configuring plugin ordering. See [CONFIGURATION.md][CONFIGURATION.md] for more details."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Secret store support"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Secret store support"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Secret store support"
+      ],
+      "zone": "main",
+      "text": "This plugin supports secrets from secret stores for the `username` and `password` option. See the [secret store documentation][SECRETSTORE] for more details on how to use them."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Configuration"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "text": "# Retrieve data from OPCUA devices\n[[inputs.opcua]]\n  ## Metric name\n  # name = \"opcua\"\n\n  ## OPC UA Endpoint URL\n  # endpoint = \"opc.tcp://localhost:4840\"\n\n  ## Maximum time allowed to establish a connect to the endpoint.\n  # connect_timeout = \"5s\"\n\n  ## Maximum time allowed for a request over the established connection.\n  # request_timeout = \"10s\"\n\n  ## Maximum time that a session shall remain open without activity.\n  # session_timeout = \"20m\"\n\n  ## Preferred locales for the OPC UA session, ordered by priority.\n  ## The server returns LocalizedText values in the first supported locale.\n  # locales = []\n\n  ## Retry options for failing reads e.g. due to invalid sessions\n  ## If the retry count is zero, the read will fail after the initial attempt.\n  # read_retry_timeout = \"100ms\"\n  # read_retry_count = 0\n\n  ## Number of consecutive errors before forcing a reconnection\n  ## If set to 1 (default), the client will reconnect after a single failed read\n  # reconnect_error_threshold = 1\n\n  ## Security policy, one of \"None\", \"Basic128Rsa15\", \"Basic256\",\n  ## \"Basic256Sha256\", or \"auto\"\n  # security_policy = \"auto\"\n\n  ## Security mode, one of \"None\", \"Sign\", \"SignAndEncrypt\", or \"auto\"\n  # security_mode = \"auto\"\n\n  ## Path to client certificate and private key files, must be specified together.\n  ## If none of the options are specified, a temporary self-signed certificate\n  ## will be created. If the options are specified but the files do not exist, a\n  ## self-signed certificate will be created and stored permanently at the\n  ## given locations.\n  # certificate = \"/etc/telegraf/cert.pem\"\n  # private_key = \"/etc/telegraf/key.pem\"\n\n  ## Path to additional, explicitly trusted certificate for the remote endpoint\n  # remote_certificate = \"/etc/telegraf/opcua_server_cert.pem\"\n\n  ## Authentication Method, one of \"Certificate\", \"UserName\", or \"Anonymous\".  To\n  ## authenticate using a specific ID, select 'Certificate' or 'UserName'\n  # auth_method = \"Anonymous\"\n\n  ## Username and password required for auth_method = \"UserName\"\n  # username = \"\"\n  # password = \"\"\n\n  ## Option to select the metric timestamp to use. Valid options are:\n  ##     \"gather\" -- uses the time of receiving the data in telegraf\n  ##     \"server\" -- uses the timestamp provided by the server\n  ##     \"source\" -- uses the timestamp provided by the source\n  # timestamp = \"gather\"\n\n  ## Client trace messages\n  ## When set to true, and debug mode enabled in the agent settings, the OPCUA\n  ## client's messages are included in telegraf logs. These messages are very\n  ## noisey, but essential for debugging issues.\n  # client_trace = false\n\n  ## Include additional Fields in each metric\n  ## Available options are:\n  ##   DataType -- OPC-UA Data Type (string)\n  # optional_fields = []\n\n  ## Node ID configuration\n  ## name              - field name to use in the output\n  ## id                - OPC UA node ID string (e.g., \"ns=0;i=2262\" or \"nsu=http://...;s=Name\")\n  ## namespace         - OPC UA namespace of the node (integer value 0 thru 3)\n  ## namespace_uri     - OPC UA namespace URI (alternative to namespace for stable references)\n  ## identifier_type   - OPC UA ID type (s=string, i=numeric, g=guid, b=opaque)\n  ## identifier        - OPC UA ID (tag as shown in opcua browser)\n  ## default_tags      - extra tags to be added to the output metric (optional)\n  ##\n  ## Use EITHER 'id' OR the combination of 'namespace/namespace_uri' + 'identifier_type' + 'identifier'\n  ## Use either the inline notation or the bracketed notation, not both.\n\n  ## Inline notation using id string (recommended for simplicity)\n  # nodes = [\n  #   {name=\"ProductUri\", id=\"ns=0;i=2262\"},\n  #   {name=\"ServerState\", id=\"ns=0;i=2259\"},\n  # ]\n\n  ## Inline notation using individual fields (default_tags not supported yet)\n  # nodes = [\n  #   {name=\"\", namespace=\"\", identifier_type=\"\", identifier=\"\"},\n  # ]\n\n  ## Bracketed notation using id string\n  # [[inputs.opcua.nodes]]\n  #   name = \"ProductUri\"\n  #   id = \"ns=0;i=2262\"\n  #   default_tags = { tag1 = \"value1\", tag2 = \"value2\" }\n\n  ## Bracketed notation using individual fields\n  # [[inputs.opcua.nodes]]\n  #   name = \"node1\"\n  #   namespace = \"\"\n  #   identifier_type = \"\"\n  #   identifier = \"\"\n  #   default_tags = { tag1 = \"value1\", tag2 = \"value2\" }\n  #\n  # [[inputs.opcua.nodes]]\n  #   name = \"node2\"\n  #   namespace = \"\"\n  #   identifier_type = \"\"\n  #   identifier = \"\"\n  #\n  # [[inputs.opcua.nodes]]\n  #   name = \"node3\"\n  #   namespace_uri = \"http://opcfoundation.org/UA/\"\n  #   identifier_type = \"\"\n  #   identifier = \"\"\n\n  ## Node Group\n  ## Sets defaults so they aren't required in every node.\n  ## Default values can be set for:\n  ## * Metric name\n  ## * OPC UA namespace\n  ## * Identifier\n  ## * Default tags\n  ##\n  ## Multiple node groups are allowed\n  #[[inputs.opcua.group]]\n  ## Group Metric name. Overrides the top level name.  If unset, the\n  ## top level name is used.\n  # name =\n\n  ## Group default namespace. If a node in the group doesn't set its\n  ## namespace, this is used.\n  # namespace =\n\n  ## Group default namespace URI. Alternative to namespace for stable references.\n  ## If a node in the group doesn't set its namespace_uri, this is used.\n  # namespace_uri =\n\n  ## Group default identifier type. If a node in the group doesn't set its\n  ## identifier_type, this is used.\n  # identifier_type =\n\n  ## Default tags that are applied to every node in this group. Can be\n  ## overwritten in a node by setting a different value for the tag name.\n  ##   example: default_tags = { tag1 = \"value1\" }\n  # default_tags = {}\n\n  ## Node ID Configuration. Array of nodes with the same settings as above.\n  ## Use either the inline notation or the bracketed notation, not both.\n\n  ## Inline notation (default_tags not supported yet)\n  # nodes = [\n  #  {name=\"node1\", namespace=\"\", identifier_type=\"\", identifier=\"\"},\n  #  {name=\"node2\", namespace=\"\", identifier_type=\"\", identifier=\"\"},\n  #]\n\n  ## Bracketed notation\n  # [[inputs.opcua.group.nodes]]\n  #   name = \"node1\"\n  #   namespace = \"\"\n  #   identifier_type = \"\"\n  #   identifier = \"\"\n  #   default_tags = { tag1 = \"override1\", tag2 = \"value2\" }\n  #\n  # [[inputs.opcua.group.nodes]]\n  #   name = \"node2\"\n  #   namespace = \"\"\n  #   identifier_type = \"\"\n  #   identifier = \"\"\n\n  ## Browse-based discovery\n  ## Walks the server's address space using the Browse service and matches\n  ## browse paths against glob patterns to discover Variable nodes\n  ## automatically. Backwards compatible: when no paths are configured the\n  ## existing nodes/group configuration is used unchanged.\n  # [inputs.opcua.browse]\n  #   ## Starting node for the browse walk. Defaults to the standard Objects\n  #   ## folder when empty.\n  #   # root = \"ns=0;i=85\"\n  #\n  #   ## Maximum tree depth descended below the root. 0 means unlimited.\n  #   # depth = 0\n  #\n  #   ## Maximum number of discovered nodes. 0 means unlimited.\n  #   # max_nodes = 0\n  #\n  #   ## Number of nodes browsed per Browse request. 0 falls back to the\n  #   ## built-in default. Lower values reduce per-RPC payload at the cost\n  #   ## of more round trips; raise for fast servers and large trees.\n  #   # batch_size = 0\n  #\n  #   ## Pattern-based discovery rules. Each path defines one glob pattern\n  #   ## over browse-path segments. Pattern syntax:\n  #   ##   *       any single segment (or any chars within a segment)\n  #   ##   **      zero or more segments (recursive descent)\n  #   ##   ?       single character within a segment\n  #   ##   [abc]   character class within a segment\n  #   ##   {a,b}   alternation: any of the comma-separated alternatives\n  #   ##   \\       escapes the next character\n  #   ## Multiple paths may be configured; a node matching multiple patterns\n  #   ## appears in each matching group.\n  #   # [[inputs.opcua.browse.paths]]\n  #   #   pattern = \"Server/**\"\n  #   #   name = \"server_vars\"\n  #   #   default_tags = { source = \"browse\" }\n\n  ## Enable workarounds required by some devices to work correctly\n  # [inputs.opcua.workarounds]\n  #   ## Set additional valid status codes, StatusOK (0x0) is always considered valid\n  #   # additional_valid_status_codes = [\"0xC0\"]\n\n  # [inputs.opcua.request_workarounds]\n  #   ## Use unregistered reads instead of registered reads\n  #   # use_unregistered_reads = false",
+      "language": "toml"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Client Certificate Configuration"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration"
+      ],
+      "zone": "main",
+      "text": "When using security modes other than \"None\", Telegraf acts as an OPC UA client and requires a client certificate to authenticate itself to the server. The plugin supports three certificate management approaches:"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Temporary Self-Signed Certificates (Default)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Temporary Self-Signed Certificates (Default)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Temporary Self-Signed Certificates (Default)"
+      ],
+      "zone": "main",
+      "text": "If both `certificate` and `private_key` options are left empty or commented out, Telegraf will automatically generate a self-signed certificate in a temporary directory on each startup."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Temporary Self-Signed Certificates (Default)"
+      ],
+      "zone": "main",
+      "text": "> [!NOTE] > These certificates are recreated on every Telegraf restart, requiring > re-authorization by the OPC UA server each time. This is suitable for testing > but not recommended for production environments."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Persistent Self-Signed Certificates (Recommended for Testing)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Persistent Self-Signed Certificates (Recommended for Testing)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Persistent Self-Signed Certificates (Recommended for Testing)"
+      ],
+      "zone": "main",
+      "text": "To maintain the same client identity across restarts, specify paths for both `certificate` and `private_key`. If the files don't exist, Telegraf will generate them at the specified locations and reuse them on subsequent restarts."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Persistent Self-Signed Certificates (Recommended for Testing)"
+      ],
+      "zone": "main",
+      "text": "> [!IMPORTANT] > Ensure Telegraf has write permissions to the specified paths. On first run, > Telegraf will generate the certificates and log their locations. On subsequent > restarts, Telegraf will reuse the existing certificates, preventing the need > to re-authorize the client in the server's trust store."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Manual Certificate Management (Production)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Manual Certificate Management (Production)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Manual Certificate Management (Production)"
+      ],
+      "zone": "main",
+      "text": "For production environments, manually generate and deploy certificates using your organization's PKI infrastructure. Place the certificate and private key files at the configured paths before starting Telegraf. If both files exist, Telegraf will use them without modification."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Certificate Validation Rules"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Certificate Validation Rules"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Configuration",
+        "Client Certificate Configuration",
+        "Certificate Validation Rules"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Both `certificate` and `private_key` must be specified together, or both must be empty",
+          "depth": 0
+        },
+        {
+          "text": "If one file exists but the other doesn't, Telegraf will return an error",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Node Configuration"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration"
+      ],
+      "zone": "main",
+      "text": "An OPC UA node ID may resemble: \"ns=3;s=Temperature\". In this example:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ns=3 is indicating the `namespace` is 3",
+          "depth": 0
+        },
+        {
+          "text": "s=Temperature is indicting that the `identifier_type` is a string and `identifier` value is 'Temperature'",
+          "depth": 0
+        },
+        {
+          "text": "This example temperature node has a value of 79.0",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using `id` String (Recommended)"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Using `id` String (Recommended)"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using `id` String (Recommended)"
+      ],
+      "zone": "main",
+      "text": "You can specify nodes using the standard OPC UA node ID string format directly:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using `id` String (Recommended)"
+      ],
+      "zone": "main",
+      "text": "{name=\"temp\", id=\"ns=3;s=Temperature\"},",
+      "language": "text"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using `id` String (Recommended)"
+      ],
+      "zone": "main",
+      "text": "This is simpler and matches the format shown in OPC UA browsers."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Using Individual Fields"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "Alternatively, you can specify each component separately:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "{name=\"temp\", namespace=\"3\", identifier_type=\"s\", identifier=\"Temperature\"},",
+      "language": "text"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "> [!NOTE] > Use either `id` OR the combination of > `namespace`/`namespace_uri` + `identifier_type` + `identifier`. > Do not mix both formats for the same node."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "This node configuration produces a metric like this:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "opcua,id=ns\\=3;s\\=Temperature temp=79.0,Quality=\"OK (0x0)\" 1597820490000000000",
+      "language": "text"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "With 'DataType' entered in Additional Metrics, this node configuration produces a metric like this:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "opcua,id=ns\\=3;s\\=Temperature temp=79.0,Quality=\"OK (0x0)\",DataType=\"Float\" 1597820490000000000",
+      "language": "text"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "If the value is an array, each element is unpacked into a field using indexed keys. For example:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Using Individual Fields"
+      ],
+      "zone": "main",
+      "text": "opcua,id=ns\\=3;s\\=Temperature temp[0]=79.0,temp[1]=38.9,Quality=\"OK (0x0)\",DataType=\"Float\" 1597820490000000000",
+      "language": "text"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Namespace Index vs Namespace URI"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "OPC UA supports two ways to specify namespaces:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "**Namespace Index** (`namespace`): An integer (0-3 or higher) that references a position in the server's namespace array. This is simpler but can change if the server is restarted or reconfigured.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "**Namespace URI** (`namespace_uri`): A string URI that uniquely identifies the namespace. This is more stable across server restarts but requires the plugin to fetch the namespace array from the server to resolve the URI to an index.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "**When to use namespace index:**"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For standard OPC UA namespaces (0 = OPC UA, 1 = Local Server)",
+          "depth": 0
+        },
+        {
+          "text": "When namespace stability is not a concern",
+          "depth": 0
+        },
+        {
+          "text": "For simpler configuration",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "**When to use namespace URI:**"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When you need consistent node references across server restarts",
+          "depth": 0
+        },
+        {
+          "text": "For production environments where namespace indices might change",
+          "depth": 0
+        },
+        {
+          "text": "When working with vendor-specific namespaces",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "**Example using namespace URI:**"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "[[inputs.opcua.nodes]]\n  name = \"ServerStatus\"\n  namespace_uri = \"http://opcfoundation.org/UA/\"\n  identifier_type = \"i\"\n  identifier = \"2256\"",
+      "language": "toml"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "This produces the same node ID internally as:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "[[inputs.opcua.nodes]]\n  name = \"ServerStatus\"\n  namespace = \"0\"\n  identifier_type = \"i\"\n  identifier = \"2256\"",
+      "language": "toml"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Node Configuration",
+        "Namespace Index vs Namespace URI"
+      ],
+      "zone": "main",
+      "text": "Note: You must specify either `namespace` or `namespace_uri`, not both."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Group Configuration"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration"
+      ],
+      "zone": "main",
+      "text": "Groups can set default values for the namespace (index or URI), identifier type, and tags settings. The default values apply to all the nodes in the group. If a default is set, a node may omit the setting altogether. This simplifies node configuration, especially when many nodes share the same namespace or identifier type."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration"
+      ],
+      "zone": "main",
+      "text": "The output metric will include tags set in the group and the node.  If a tag with the same name is set in both places, the tag value from the node is used."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration"
+      ],
+      "zone": "main",
+      "text": "This example group configuration has three groups with two nodes each:"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration"
+      ],
+      "zone": "main",
+      "text": "  # Group 1\n  [[inputs.opcua.group]]\n    name = \"group1_metric_name\"\n    namespace = \"3\"\n    identifier_type = \"i\"\n    default_tags = { group1_tag = \"val1\" }\n    [[inputs.opcua.group.nodes]]\n      name = \"name\"\n      identifier = \"1001\"\n      default_tags = { node1_tag = \"val2\" }\n    [[inputs.opcua.group.nodes]]\n      name = \"name\"\n      identifier = \"1002\"\n      default_tags = {node1_tag = \"val3\"}\n\n  # Group 2\n  [[inputs.opcua.group]]\n    name = \"group2_metric_name\"\n    namespace = \"3\"\n    identifier_type = \"i\"\n    default_tags = { group2_tag = \"val3\" }\n    [[inputs.opcua.group.nodes]]\n      name = \"saw\"\n      identifier = \"1003\"\n      default_tags = { node2_tag = \"val4\" }\n    [[inputs.opcua.group.nodes]]\n      name = \"sin\"\n      identifier = \"1004\"\n\n  # Group 3\n  [[inputs.opcua.group]]\n    name = \"group3_metric_name\"\n    namespace = \"3\"\n    identifier_type = \"i\"\n    default_tags = { group3_tag = \"val5\" }\n    nodes = [\n      {name=\"name\", identifier=\"1001\"},\n      {name=\"name\", identifier=\"1002\"},\n    ]",
+      "language": "toml"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration",
+        "Server Certificate Trust"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Server Certificate Trust"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration",
+        "Server Certificate Trust"
+      ],
+      "zone": "main",
+      "text": "When connecting to OPC UA servers with self-signed certificates using secure modes (Sign or SignAndEncrypt), you need to explicitly trust the server's certificate. Use the `remote_certificate` option to specify the path to the server's certificate file."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Group Configuration",
+        "Server Certificate Trust"
+      ],
+      "zone": "main",
+      "text": "Most OPC UA servers provide their certificate through their management interface or configuration directory. Consult your OPC UA server's documentation to locate the certificate, typically found in the server's PKI (Public Key Infrastructure) directory. Alternatively, you can export the certificate using OPC UA client tools."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Browse-based Discovery"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery"
+      ],
+      "zone": "main",
+      "text": "Large deployments often expose thousands of nodes that share a regular naming scheme. Instead of enumerating each node, the `[inputs.opcua.browse]` section walks the server's address space with the Browse service and matches discovered Variable nodes against glob patterns over their browse paths. Discovered nodes are folded into the existing pipeline, so the configuration stays backwards compatible with any explicit `nodes` or `group` entries."
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery"
+      ],
+      "zone": "main",
+      "text": "[inputs.opcua.browse]\n  # Starting node for the browse walk (default: Objects folder).\n  root = \"ns=0;i=85\"\n\n  # Optional safety limits.\n  depth = 10\n  max_nodes = 50000\n\n  # Optional per-RPC tuning.\n  batch_size = 50\n\n  [[inputs.opcua.browse.paths]]\n    pattern = \"Plant1/*/MV*\"\n    name = \"motor_valves\"\n    default_tags = { plant = \"plant1\" }\n\n  [[inputs.opcua.browse.paths]]\n    pattern = \"**/Temperature\"\n    name = \"temperatures\"",
+      "language": "toml"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery",
+        "Pattern Syntax"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Pattern Syntax"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery",
+        "Pattern Syntax"
+      ],
+      "zone": "main",
+      "text": "Patterns are compiled by Telegraf's `filter` package with `/` as the segment separator:"
+    },
+    {
+      "kind": "table",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery",
+        "Pattern Syntax"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Token",
+          "Meaning"
+        ],
+        [
+          "literal",
+          "exact string match for one segment"
+        ],
+        [
+          "`*`",
+          "any single segment, or any characters in a segment"
+        ],
+        [
+          "`**`",
+          "zero or more segments (recursive descent)"
+        ],
+        [
+          "`?`",
+          "single character within a segment"
+        ],
+        [
+          "`[abc]`",
+          "character class within a segment"
+        ],
+        [
+          "`{a,b}`",
+          "alternation: any of the comma-separated alternatives"
+        ],
+        [
+          "`\\`",
+          "escapes the next character"
+        ]
+      ],
+      "header_rows": 1
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery",
+        "Pattern Syntax"
+      ],
+      "zone": "main",
+      "text": "A node matched by multiple patterns appears in each matching group; duplicate `(metric_name, field_name, tags)` combinations are rejected at mapping time."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Browse-based Discovery",
+        "Pattern Syntax"
+      ],
+      "zone": "main",
+      "text": "> [!NOTE] > Browse runs on every connect, so address-space changes (nodes added or > removed, renumbered namespaces) are picked up on reconnect without > restarting Telegraf. > > The `root` option accepts node-ID strings (`ns=N;...`). Path-string > form and namespace-URI (`nsu=...`) form are not currently supported."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Connection Service"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Connection Service"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Connection Service"
+      ],
+      "zone": "main",
+      "text": "This plugin actively reads to retrieve data from the OPC server. This is done every `interval`."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Metrics"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "text": "The metrics collected by this input plugin will depend on the configured `nodes` and `group`."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Example Output"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "OPC UA Client Reader Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "text": "group1_metric_name,group1_tag=val1,id=ns\\=3;i\\=1001,node1_tag=val2 name=0,Quality=\"OK (0x0)\" 1606893246000000000\ngroup1_metric_name,group1_tag=val1,id=ns\\=3;i\\=1002,node1_tag=val3 name=-1.389117,Quality=\"OK (0x0)\" 1606893246000000000\ngroup2_metric_name,group2_tag=val3,id=ns\\=3;i\\=1003,node2_tag=val4 Quality=\"OK (0x0)\",saw=-1.6 1606893246000000000\ngroup2_metric_name,group2_tag=val3,id=ns\\=3;i\\=1004 sin=1.902113,Quality=\"OK (0x0)\" 1606893246000000000",
+      "language": "text"
+    }
+  ]
+}

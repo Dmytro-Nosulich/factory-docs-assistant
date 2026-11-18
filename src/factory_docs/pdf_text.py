@@ -6,12 +6,67 @@ page count stays exact and stage 2 can cite pages.
 """
 
 import re
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
-from pypdf import PdfReader
+from pypdf import PageObject, PdfReader
 
 PAGE_MARKER = re.compile(r"^\[\[page \d+\]\]$", re.MULTILINE)
+
+
+@dataclass(frozen=True)
+class StyledLine:
+    """One layout-mode line (column spacing kept); size is None when no style was matched."""
+
+    text: str
+    size: float | None = None
+    bold: bool = False
+
+
+def squash(text: str) -> str:
+    return re.sub(r"\s+", "", text)
+
+
+def page_styles(page: PageObject) -> dict[str, tuple[float, bool]]:
+    """Map each visual line's text without whitespace to its main font size and boldness."""
+    fragments: dict[int, list[tuple[str, float, bool]]] = defaultdict(list)
+
+    def visitor(text, cm, tm, font_dict, font_size) -> None:
+        if not text.strip():
+            return
+        size = round(abs(font_size * (tm[3] or 1)) * abs(cm[3] or 1), 1)
+        font_name = str((font_dict or {}).get("/BaseFont", "")).lower()
+        y = round(tm[5] * (cm[3] or 1) + cm[5])
+        fragments[y].append((text, size, "bold" in font_name or "black" in font_name))
+
+    page.extract_text(visitor_text=visitor)
+    styles = {}
+    for parts in fragments.values():
+        sizes: Counter[float] = Counter()
+        bold_chars = 0
+        for text, size, bold in parts:
+            sizes[size] += len(text)
+            bold_chars += len(text) if bold else 0
+        total = sum(sizes.values())
+        styles[squash("".join(p[0] for p in parts))] = (
+            sizes.most_common(1)[0][0],
+            bold_chars * 2 > total,
+        )
+    return styles
+
+
+def extract_styled_lines(page: PageObject) -> list[StyledLine]:
+    """Return the page's layout-mode lines with font style where it can be matched (S2-03)."""
+    styles = page_styles(page)
+    lines = []
+    for text in page.extract_text(extraction_mode="layout").splitlines():
+        key = squash(text)
+        style = styles.get(key)
+        if style is None and key:
+            style = next((v for k, v in styles.items() if key in k), None)
+        lines.append(StyledLine(text.rstrip(), *(style or (None, False))))
+    return lines
 
 
 def extract_pages(pdf_path: Path) -> list[str]:

@@ -1,0 +1,157 @@
+{
+  "doc_id": "D077",
+  "format": "md",
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Siemens S7 Input Plugin"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Siemens S7 Input Plugin"
+      ],
+      "zone": "main",
+      "text": "This plugin reads metrics from Siemens PLCs via the S7 protocol."
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Siemens S7 Input Plugin"
+      ],
+      "zone": "main",
+      "text": "⭐ Telegraf v1.28.0 🏷️ hardware 💻 all"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Global configuration options"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Global configuration options"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Global configuration options"
+      ],
+      "zone": "main",
+      "text": "Plugins support additional global and plugin configuration settings for tasks such as modifying metrics, tags, and fields, creating aliases, and configuring plugin ordering. See [CONFIGURATION.md][CONFIGURATION.md] for more details."
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Startup error behavior options"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Startup error behavior options"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Startup error behavior options"
+      ],
+      "zone": "main",
+      "text": "In addition to the plugin-specific and global configuration settings the plugin supports options for specifying the behavior when experiencing startup errors using the `startup_error_behavior` setting. Available values are:"
+    },
+    {
+      "kind": "list",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Startup error behavior options"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "`error`:  Telegraf with stop and exit in case of startup errors. This is the default behavior.",
+          "depth": 0
+        },
+        {
+          "text": "`ignore`: Telegraf will ignore startup errors for this plugin and disables it but continues processing for all other plugins.",
+          "depth": 0
+        },
+        {
+          "text": "`retry`:  Telegraf will try to startup the plugin in every gather or write cycle in case of startup errors. The plugin is disabled until the startup succeeds.",
+          "depth": 0
+        },
+        {
+          "text": "`probe`:  Telegraf will probe the plugin's function (if possible) and disables the plugin in case probing fails. If the plugin does not support probing, Telegraf will behave as if `ignore` was set instead.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Configuration"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Configuration"
+      ],
+      "zone": "main",
+      "text": "# Plugin for retrieving data from Siemens PLCs via the S7 protocol (RFC1006)\n[[inputs.s7comm]]\n  ## Parameters to contact the PLC (mandatory)\n  ## The server is in the <host>[:port] format where the port defaults to 102\n  ## if not explicitly specified.\n  server = \"127.0.0.1:102\"\n  rack = 0\n  slot = 0\n\n  ## Connection or drive type of S7 protocol\n  ## Available options are \"PD\" (programming  device), \"OP\" (operator panel) or \"basic\" (S7 basic communication).\n  # connection_type = \"PD\"\n\n  ## Max count of fields to be bundled in one batch-request. (PDU size)\n  # pdu_size = 20\n\n  ## Timeout for requests\n  # timeout = \"10s\"\n\n  ## Idle timeout for requests\n  # idle_timeout = \"60s\"\n\n  ## Log detailed connection messages for tracing issues\n  # log_level = \"trace\"\n\n  ## Metric definition(s)\n  [[inputs.s7comm.metric]]\n    ## Name of the measurement\n    # name = \"s7comm\"\n\n    ## Field definitions\n    ## name    - field name\n    ## address - indirect address \"<area>.<type><address>[.extra]\"\n    ##           area    - e.g. be \"DB1\" for data-block one\n    ##           type    - supported types are (uppercase)\n    ##                     X  -- bit, requires the bit-number as 'extra'\n    ##                           parameter\n    ##                     B  -- byte (8 bit)\n    ##                     C  -- character (8 bit)\n    ##                     W  -- word (16 bit)\n    ##                     DW -- double word (32 bit)\n    ##                     I  -- integer (16 bit)\n    ##                     DI -- double integer (32 bit)\n    ##                     LI -- long integer (64 bit) only S7-1200 S7-1500 suported\n    ##                     R  -- IEEE 754 real floating point number (32 bit)\n    ##                     LR -- IEEE 754 long real floating point number (64 bit) only S7-1200 S7-1500 suported\n    ##                     DT -- date-time, always converted to unix timestamp\n    ##                           with nano-second precision\n    ##                     S  -- string, requires the maximum length of the\n    ##                           string as 'extra' parameter\n    ##           address - start address to read if not specified otherwise\n    ##                     in the type field\n    ##           extra   - extra parameter e.g. for the bit and string type\n    fields = [\n      { name=\"rpm\",             address=\"DB1.R4\"    },\n      { name=\"status_ok\",       address=\"DB1.X2.1\"  },\n      { name=\"last_error\",      address=\"DB2.S1.32\" },\n      { name=\"last_error_time\", address=\"DB2.DT2\"   },\n      { name=\"long_counter\",    address=\"DB3.LR12\"  }\n    ]\n\n    ## Tags assigned to the metric\n    # [inputs.s7comm.metric.tags]\n    #   device = \"compressor\"\n    #   location = \"main building\"",
+      "language": "toml"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Example Output"
+    },
+    {
+      "kind": "code",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Example Output"
+      ],
+      "zone": "main",
+      "text": "s7comm,host=Hugin rpm=712i,status_ok=true,last_error=\"empty slot\",last_error_time=1611319681000000000i 1611332164000000000",
+      "language": "text"
+    },
+    {
+      "kind": "heading",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Metrics"
+    },
+    {
+      "kind": "paragraph",
+      "section_path": [
+        "Siemens S7 Input Plugin",
+        "Metrics"
+      ],
+      "zone": "main",
+      "text": "The format of metrics produced by this plugin depends on the metric configuration(s)."
+    }
+  ]
+}

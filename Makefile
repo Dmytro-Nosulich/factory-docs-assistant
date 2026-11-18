@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -29,6 +29,10 @@ repair:
 
 texts:
 	uv run python scripts/extract_texts.py
+
+# Parse every in-scope document into data/parsed/<id>.json and write parse_report.csv (S2-03)
+parse:
+	uv run python scripts/parse_corpus.py
 
 golden-check:
 	uv run python scripts/check_golden.py

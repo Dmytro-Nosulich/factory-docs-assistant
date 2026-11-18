@@ -1,0 +1,1182 @@
+{
+  "doc_id": "D038",
+  "format": "pdf",
+  "page_count": 4,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite 1 von 4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Version : 4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "SICHERHEITSDATENBLATT gemäß 1907/2006/EG (REACH-VO) Erstellt am : 10.09.2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Überarbeitet am : 30.01.2018"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "STICKSTOFF, verdichtet SDB-03"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Gefahrzettel 2.2",
+          "",
+          "H280 Unter"
+        ],
+        [
+          "Nicht entzünd-",
+          "ACHTUNG",
+          "Druck stehende"
+        ],
+        [
+          "bare, nicht giftige",
+          "",
+          "Gase, verdichtet"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Gase"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "1 Stoff- / Zubereitungs- und Firmenbezeichnung"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.1 Produktidentifikator"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Produktidentifikator"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.1 Produktidentifikator"
+      ],
+      "zone": "main",
+      "text": "Handelsname : Stickstoff, verdichtet\nREACH Registrierungs-Nr. : Ausgenommen von der Registrierung, gem. Annex IV/V der Verordnung\n1907/2006 EC (REACH-VO)\n1.2 Verwendung : Gewerbliche und industrielle Anwendungen in den Bereichen Lebensmittel und\nGetränke, Metallurgie, Technik, Labor u.a.\n1.3 Hersteller/Lieferant : CARBO Kohlensäurewerke GmbH & Co. KG*)\nSprudelstr. 1, 53557 Bad Hönningen\nTel. 02635-789-0 Fax 02635-789-10\nSDB-Auskunft : e-mail: sdb.info@carbo.de (Technik – Qualitätsicherung)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "1.4 Notfallnummer : 02635-789-42"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Notfallnummer : 02635-789-42"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.4 Notfallnummer : 02635-789-42"
+      ],
+      "zone": "main",
+      "text": "*) Geltungsbereich : CARBO Kohlensäurewerke GmbH & Co. KG, CARBO Kohlensäurewerk Hannover GmbH, sowie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "1.4 Notfallnummer : 02635-789-42"
+      ],
+      "zone": "main",
+      "text": "Mitgliedsfirmen der CARBUNION eV\n2 Mögliche Gefahren"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2.1 Einstufung des Stoffes"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Einstufung des Stoffes"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "2.1 Einstufung des Stoffes"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Gefahreneinstufung",
+          ":  Nicht genannt in Anhang VI von RL 1272/2008/EC."
+        ],
+        [
+          "gem. RL 1272/2008/EC (CLP)",
+          "Unter Druck stehendes Gas, verdichtet, H280. - Achtung -."
+        ],
+        [
+          "Physikalische Risiken",
+          ":  Enthält Gas unter Druck; kann bei Erwärmung explodieren."
+        ],
+        [
+          "Gesundheitsrisiken",
+          ": Wirkt in hohen Konzentrationen erstickend."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Kennzeichnungselemente"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "text": "GHS-Einstufung : Gase unter Druck, Kategorie verdichtes Gas, H280\nGefahrenpiktogramme : GHS04\nSignalwort : Achtung\nGefahrenhinweise : H280 Enthält Gas unter Druck; kann bei Erhitzen explodieren\nSicherheitshinweise :"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lagerung : P403 An einem gut belüfteten Ort aufbewahren.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente"
+      ],
+      "zone": "main",
+      "text": "EG-Einstufung gem. : Nicht als gefährlicher Stoff eingestuft. (Nicht aufgeführt in 67/548/EC Anhang I)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente",
+        "67/548/EC u. 1999/45/EC"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "67/548/EC u. 1999/45/EC"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente",
+        "67/548/EC u. 1999/45/EC"
+      ],
+      "zone": "main",
+      "text": "EG-Kennzeichnung : nicht erforderlich\nR-Sätze : Keine\nS-Sätze : Keine\n2.3 Sonstige Gefahren : EIGA-As Erstickend in hohen Konzentrationen\n3 Zusammensetzung / Angaben-zu Bestandteilen"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente",
+        "67/548/EC u. 1999/45/EC"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Chemische",
+          "Bezeichnung",
+          "Chemische",
+          "",
+          "Inhalt",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Einstufung",
+          ""
+        ],
+        [
+          "Charakterisierung",
+          "",
+          "",
+          "Formel",
+          "",
+          "",
+          "%",
+          "CAS-Nr.",
+          "",
+          "EG-Nr.",
+          "Index-Nr.",
+          "",
+          "EG",
+          "",
+          "GHS/CLP"
+        ],
+        [
+          "3.1",
+          "Stoff",
+          "Stickstoff",
+          "",
+          "N2",
+          "≥99,5",
+          "",
+          "7727-37-9",
+          "231-783-9",
+          "",
+          "-",
+          "-",
+          "",
+          "Pressgas, H280",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "2.2 Kennzeichnungselemente",
+        "67/548/EC u. 1999/45/EC"
+      ],
+      "zone": "main",
+      "text": "Enthält keine anderen Komponenten oder Verunreinigungen, die die Einstufung dieses Produktes beeinflussen.\n4 Erste-Hilfe-Maßnahmen"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "text": "Nach Einatmen : Die Personen sind in frische Luft zu bringen. Selbstschutz beachten, ggf. um-\nluftunabängiges Atemschutzgerät verwenden. Atemwege freihalten. Bei Atem-\nstillstand künstliche Beatmung, ggf. Sauerstoffzufuhr.\nNach Hautkontakt : Bei Kaltverbrennungen mindestens 15 Minuten mit lauwarmem Wasser\nspülen. Steril abdecken."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "SDB-03-Stickstoff, verdichtet (REACH)_V4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite 2 von 4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Version : 4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "SICHERHEITSDATENBLATT gemäß 1907/2006/EG (REACH-VO) Erstellt am : 10.09.2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Überarbeitet am : 30.01.2018"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "STICKSTOFF, verdichtet SDB-03"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "text": "4 Erste-Hilfe-Maßnahmen (Fortsetzung)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4.1 Beschreibung der Erste-Hilfe-Maßnahmen"
+      ],
+      "zone": "main",
+      "text": "Nach Augenkontakt : Die Augen sofort mindestens 15 Minuten bei geöffnetem Lidspalt mit\nlauwarmem Wasser spülen.\nNach Verschlucken : Verschlucken wird nicht als möglicher Weg der Aufnahme angesehen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "4.2 Wichtige akute und verzögert auftretende Symptome und Wirkungen"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Wichtige akute und verzögert auftretende Symptome und Wirkungen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "4.2 Wichtige akute und verzögert auftretende Symptome und Wirkungen"
+      ],
+      "zone": "main",
+      "text": "Hohe Konzentrationen können Ersticken verursachen. Symptome können Ver-\nlust der Bewegungsfähigkeit und des Bewusstseins sein. Das Opfer bemerkt\ndas Ersticken nicht.\n4.3 Allgemeine Hinweise : Bei Auftreten von Gesundheitsstörungen einen Arzt hinzuziehen.\n5 Maßnahmen zur Brandbekämpfung\n5.1 Geeignete Löschmittel : Alle bekannten Löschmittel können eingesetzt werden."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Besondere vom Stoff ausgehende Gefahren"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren"
+      ],
+      "zone": "main",
+      "text": "Spezielle Gefahren : Der Stoff ist nicht brennbar: Bei Umgebungsbränden können hohe Tempera-\nturen Behälter zum Bertsten bringen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren",
+        "Gefährliche Verbrennungs-: Keine"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Gefährliche Verbrennungs-: Keine"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren",
+        "produkte"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "produkte"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren",
+        "produkte"
+      ],
+      "zone": "main",
+      "text": "5.3 Hinweise für die Brandbe- : Behälter aus Gefahrenzone bringen, wenn gefahrlos möglich. Ansonsten aus\nkämpfung geschützter Stellung mit Sprühwasserstrahl kühlen. Weiträumig absperren.\nSpezielle Schutzausrüstung: In geschlossenen Räumen umluftunabhängiges Atemgerät (Pressluftatmer)\nfür die Feuerwehr benutzen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren",
+        "produkte"
+      ],
+      "zone": "main",
+      "text": "6 Maßnahmen bei unbabsichtigter Freisetzung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "5.2 Besondere vom Stoff ausgehende Gefahren",
+        "produkte"
+      ],
+      "zone": "main",
+      "text": "6.1 Personenbezogene : Bei Gasaustritt Raum verlassen, Umgebung räumen, Personen warnen, für\nVorsichtsmaßnahmen ausreichende Lüftung sorgen. Bei Betreten des Bereiches umluftunabhängiges\nAtemgerät benutzen, wenn die Ungefährlichkeit der Atmosphäre nicht nachge-\nwiesen ist. Im Freien den Bereich in windzugewandter Richtung verlassen.\n6.2 Umweltschutzmaßnahmen: Versuchen, den Gasaustritt zu stoppen. Eindringen in Kanalisation, Keller,\nArbeitsgruben oder andere Orte, an denen eine Anreicherung möglich ist,\nverhindern. Selbstschutz beachten.\n6.3 Verfahren zur Rückhaltung: Undichte Behälter in Sicherheit bringen und fachgerecht entsorgen. Räume\nund Reinigung gründlich Lüften."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "6.4 Verweis auf andere Abschnitte: siehe auch Abschitt 8 un 13"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Verweis auf andere Abschnitte: siehe auch Abschitt 8 un 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "6.4 Verweis auf andere Abschnitte: siehe auch Abschitt 8 un 13"
+      ],
+      "zone": "main",
+      "text": "7 Handhabung und Lagerung\n7.1 Schutzmaßnahmen zur Vor Umgang mit verdichten Gasen hat der Arbeitgeber eine Gefährdungsanaly-\nsicheren Handhabung : se zu erstellen. Nur erfahrenes und geschultes Pesonal sollte verdichtete Gase\nhandhaben und anwenden. Eindringen von Fremdstoffen in den Druckbehälter\nverhindern.Rückströmung aus anwenderseitiger Anlage in den Druckbehälter\nverhindern. Von Wärmequellen und offenen Flammen fernhalten. Nur solche\nAusrüstung verwenden, die für dieses Produkt und den vorgesehenen Druck\nund Temperatur geeignet ist. Im Zweifelsfall Auskunft durch den Lieferanten.\n7.2 Lagerung : Lagerung an einem gut belüfteten Ort. Behälter gegen Schlag, Stoß und\nUmfallen sichern, vor direkter Sonneneinstrahlung schützen, nicht über 50 °C\nerwärmen."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "7.3 Spezifische Endanwendung: Keine"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Spezifische Endanwendung: Keine"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "SDB-03-Stickstoff, verdichtet (REACH)_V4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite 3 von 4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Version : 4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "SICHERHEITSDATENBLATT gemäß 1907/2006/EG (REACH-VO) Erstellt am : 10.09.2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Überarbeitet am : 30.01.2018"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "STICKSTOFF, verdichtet SDB-03"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7.3 Spezifische Endanwendung: Keine"
+      ],
+      "zone": "main",
+      "text": "8 Expositionsbegrenzung und persönliche Schutzausrüstung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "7.3 Spezifische Endanwendung: Keine"
+      ],
+      "zone": "main",
+      "text": "8.1 Expositionsgrenzwert : Es liegen keine Arbeitsplatzgrenzwerte (AGW) vor."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "8.2 Begrenzung und Überwachung der Exposition"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Begrenzung und Überwachung der Exposition"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "8.2 Begrenzung und Überwachung der Exposition"
+      ],
+      "zone": "main",
+      "text": "Allgemeine Schutz- und : Angemessene Lüftung sicherstellen. Essen, Trinken Rauchen und Aufbewahren\nHygienemaßnahmen von Nahrungsmitteln und Tabakwaren im Arbeitsraum vermeiden. Gas nicht\neinatmen. Im Betrieb geschlossene Apparate verwenden, Gase wirksam ablei-\nten. Dichtigkeit von Anlagen Armaturen und Behältern überwachen.\nPersönliche : Sicherheitsschuhe, normale Arbeitskleidung, Schutzhandschuhe, ggf. Schutz-\nSchutzausrüstung brille.\nAtemschutz nur bei unklaren bzw. gerfährlichen Atmosphärenverhältnissen\n(Sauerstoffmangel), dann umluftunabhängiges Atemschutzgerät verwenden.\n9 Physikalische und chemische Eigenschaften"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "9.1 Grundlegende physikalische und chemische Eigenschaften"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Grundlegende physikalische und chemische Eigenschaften"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "9.1 Grundlegende physikalische und chemische Eigenschaften"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Form",
+          "",
+          ": Verdichtetes Gas",
+          "Explosionsgrenze (Vol.% in Luft) : Entfällt",
+          "",
+          ""
+        ],
+        [
+          "Farbe",
+          "",
+          ": Farblos",
+          "Relative Dichte",
+          "",
+          ": Nicht anwendbar"
+        ],
+        [
+          "Geruch",
+          "",
+          ":  Geruchlos",
+          "Siedepunkt",
+          "",
+          ": -196 °C"
+        ],
+        [
+          "Molekulargewicht",
+          ":  28 g/mol",
+          "",
+          "Kritische Temperatur",
+          ":  -147 °C",
+          ""
+        ],
+        [
+          "Relative Dampfdichte  : 0,97 (Luft = 1)",
+          "",
+          "",
+          "Schmelzpunkt",
+          "",
+          ": -210 °C"
+        ],
+        [
+          "Zündtemperatur",
+          ": Entfällt",
+          "",
+          "Wasserlöslichkeit",
+          "",
+          ":  0,02 g/l"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "9.2 Sonstige Angaben : keine"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Sonstige Angaben : keine"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10 Stabilität und Reaktivität"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10 Stabilität und Reaktivität"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10.1 Reaktivität : Inert"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reaktivität : Inert"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "10.1 Reaktivität : Inert"
+      ],
+      "zone": "main",
+      "text": "10.2 Chemische Stabilität : Stabil unter normalen Bedingungen."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10.3 Möglichkeit gefährlicher Reaktionen : Keine Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Möglichkeit gefährlicher Reaktionen : Keine Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10.4 Zu vermeidende Bedingungen : Keine Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Zu vermeidende Bedingungen : Keine Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10.5 Unverträgliche Materialien : Keine Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Unverträgliche Materialien : Keine Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "10.6 Gefährliche Zersetzungsprodukte : Keine"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Gefährliche Zersetzungsprodukte : Keine"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "11 Angaben zur Toxikologie"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11 Angaben zur Toxikologie"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "11 Angaben zur Toxikologie"
+      ],
+      "zone": "main",
+      "text": "11.1 Angaben zu toxikologischen Wirkungen: Toxische Wirkungen des Produktes sind nicht bekannt"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12 Umweltspezifische Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12 Umweltspezifische Angaben"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "12 Umweltspezifische Angaben"
+      ],
+      "zone": "main",
+      "text": "12.1 Toxizität : Es sind keine schädlichen Wirkungen des Produkts auf die Umwelt bekannt.\nNicht wassergefährdender Stoff Kenn-Nr. 1351 (gemäß VwVwS; Anhang 1)"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12.2 Persistenz und Abbaubarkeit : Keine Daten verfügbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistenz und Abbaubarkeit : Keine Daten verfügbar"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12.3 Bioakkumulationspotential : Keine Daten verfügbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioakkumulationspotential : Keine Daten verfügbar"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12.4 Mobilität im Boden: : Keine Daten verfügbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobilität im Boden: : Keine Daten verfügbar"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12.5 Ergebnisse der PBT- und vPvB-Beurteilung : Keine Daten verfügbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Ergebnisse der PBT- und vPvB-Beurteilung : Keine Daten verfügbar"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "12.6 Andere schädliche Wirkungen : Keine Daten verfügbar"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Andere schädliche Wirkungen : Keine Daten verfügbar"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "13 Hinweise zur Entsorgung"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13 Hinweise zur Entsorgung"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "13 Hinweise zur Entsorgung"
+      ],
+      "zone": "main",
+      "text": "13.1 Verfahren der : Nicht mehr benötigtes Produkt an den Hersteller/Lieferanten zurückgeben.\nAbfallbehandlung Das Ablassen großer Mengen in die Atmosphäre sollte vermieden werden.\nNicht in die Kanalisation, Keller, Arbeitsgruben und ähnliche Plätze, an denen\ndie Ansammlung des Gases gefährlich werden könnte, ausströmen\nlassen. An einem gut gelüfteten Platz in die Atmosphäre ablassen. Rückfrage\nbeim Gaselieferanten, wenn eine Beratung nötig ist.\nEAK Nr. 16 05 05"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "SDB-03-Stickstoff, verdichtet (REACH)_V4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Seite 4 von 4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Version : 4.4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "SICHERHEITSDATENBLATT gemäß 1907/2006/EG (REACH-VO) Erstellt am : 10.09.2004"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Überarbeitet am : 30.01.2018"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "STICKSTOFF, verdichtet SDB-03"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "13 Hinweise zur Entsorgung"
+      ],
+      "zone": "main",
+      "text": "14 Angaben zum Transport"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "13 Hinweise zur Entsorgung"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Landtransport",
+          "",
+          "",
+          ":  ADR/RID",
+          "",
+          "",
+          "Seeschiffstransport",
+          "",
+          ": IMDG",
+          "",
+          ""
+        ],
+        [
+          "14.1 UN-Nr.",
+          "",
+          "",
+          "",
+          ": 1066",
+          "",
+          "Klasse",
+          "",
+          "",
+          "",
+          ":  2"
+        ],
+        [
+          "14.2 Offizielle Benennung",
+          "",
+          ": STICKSTOFF,",
+          "",
+          "",
+          "",
+          "Unfallmerkblatt EmS – Feuer",
+          ":  F-C",
+          "",
+          "",
+          ""
+        ],
+        [
+          "(ADR/RID, IMDG, IATA)",
+          "",
+          "",
+          "",
+          "VERDICHTET",
+          "",
+          "Unfallmerkblatt EmS – Leckage :  S-V",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "14.3 Gefahrnummer",
+          "",
+          ":  20",
+          "",
+          "",
+          "",
+          "Marine pollutant",
+          "",
+          "",
+          ":  Nein",
+          ""
+        ],
+        [
+          "",
+          "Klasse",
+          "",
+          "",
+          "",
+          ":  2",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Klassifizierungscode",
+          "",
+          ":  1A",
+          "",
+          "",
+          "Lufttransport",
+          "",
+          "",
+          ": ICAO/IATA-DGR",
+          ""
+        ],
+        [
+          "",
+          "Gefahrzettel",
+          "",
+          "",
+          ":  2.2",
+          "",
+          "Klasse",
+          "",
+          "",
+          "",
+          ":  2"
+        ],
+        [
+          "",
+          "Tunnelbeschränkungscode  :  (E)",
+          "",
+          "",
+          "",
+          "",
+          "UN-Nr.",
+          "",
+          "",
+          "",
+          ":  1066"
+        ],
+        [
+          "14.4 Verpackungsgruppe",
+          "",
+          ":  Entfällt",
+          "",
+          "",
+          "",
+          "Bezeichnung",
+          "",
+          "",
+          ":  NITROGEN, COMPRESSED",
+          ""
+        ],
+        [
+          "",
+          "Verpackungsanweisung",
+          ":  P200",
+          "",
+          "",
+          "",
+          "Gefahrzettel",
+          "",
+          "",
+          ":  2.2",
+          ""
+        ],
+        [
+          "14.5 Umweltgefahren",
+          "",
+          "",
+          ":  Nicht anwendbar",
+          "",
+          "",
+          "Verpackungsvorschrift",
+          "",
+          ":  P200",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "14.6 Besondere Vorsichtsmaßnahmen für den Verwender: Der Fahrer muß die möglichen Gefahren der"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Besondere Vorsichtsmaßnahmen für den Verwender: Der Fahrer muß die möglichen Gefahren der"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "14.6 Besondere Vorsichtsmaßnahmen für den Verwender: Der Fahrer muß die möglichen Gefahren der"
+      ],
+      "zone": "main",
+      "text": "Ladung kennen und er muß wissen, was bei einem Unfall oder Notfall zu tun ist.\nMöglichst nicht in Fahrzeugen transportieren, deren Laderaum nicht von der Fahrerkabine getrennt ist."
+    },
+    {
+      "kind": "list",
+      "page": 4,
+      "section_path": [
+        "14.6 Besondere Vorsichtsmaßnahmen für den Verwender: Der Fahrer muß die möglichen Gefahren der"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Behälter während des Transportes gegen Umfallen und Verrutschen sichern. Liegende Gasflaschen quer zur Fahrtrichtung transportieren.",
+          "depth": 0
+        },
+        {
+          "text": "Das Flaschenventil muß dicht und mit einem Ventilschutz versehen sein. Die Ventilschutzeinrichtung muß korrekt befestigt sein.",
+          "depth": 0
+        },
+        {
+          "text": "Ausreichende Lüftung sicherstellen.",
+          "depth": 0
+        },
+        {
+          "text": "Im und am Fahrzeug nicht rauchen. GGVSEB beachten.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "14.7 Massengutbeförderung gemäß Anhang II des MARPOL-Übereinkommens 73/78 und gemäß IBC-Code :"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Massengutbeförderung gemäß Anhang II des MARPOL-Übereinkommens 73/78 und gemäß IBC-Code :"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "14.7 Massengutbeförderung gemäß Anhang II des MARPOL-Übereinkommens 73/78 und gemäß IBC-Code :"
+      ],
+      "zone": "main",
+      "text": "Nicht eingestuft gemäß Anhang II\n15 Rechtsvorschriften"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "15.1 Vorschriften zur Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für den"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Vorschriften zur Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für den"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "15.1 Vorschriften zur Sicherheit, Gesundheits- und Umweltschutz/spezifische Rechtsvorschriften für den"
+      ],
+      "zone": "main",
+      "text": "Stoff oder das Gemisch : Betriebsicherheitsverordnung, Technische Regeln zur Betriebssicherheitsver-\nordnung (TRBS), Gefahrstoffverordnung, Technische Regeln zur Gefahrstoff-\nverordnung (TRGS), DGUV, VwVwS"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "15.2 Stoffsicherheitsbeurteilung: keine Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Stoffsicherheitsbeurteilung: keine Angaben"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "16 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "16 Sonstige Angaben"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "16 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": "Alle nationalen/örtlichen Vorschriften beachten. Das Risiko des Erstickens wird oft übersehen und muss bei der\nUnterweisung der Mitarbeiter besonders hervorgehoben werden. Bevor das Produkt in irgendeinem neuen Pro-\nzess oder Versuch benutzt wird, sollte eine sorgfältige Studie über die Materialverträglichkeit und die Sicherheit\ndurchgeführt werden.\nDie vorstehenden Angaben stützen sich auf den derzeitigen Stand der Kenntsnisse und stellen keine Zusicherung von Eigenschaften dar und\nbegründen kein vertragliches Rechtsverhältnis. Gesetze, Verordnungen, Technische Regeln sind vom Empfänger und Nutzer unserer\nProdukte in eigener Verantwortung zu beachten."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "16 Sonstige Angaben"
+      ],
+      "zone": "main",
+      "text": " Kennzeichnung der Änderungen mit Seitenstrich "
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "SDB-03-Stickstoff, verdichtet (REACH)_V4.4"
+    }
+  ]
+}

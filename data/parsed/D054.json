@@ -1,0 +1,4479 @@
+{
+  "doc_id": "D054",
+  "format": "pdf",
+  "page_count": 13,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "SAFETY DATA SHEET\nBased upon Regulation (EC) No 1907/2006, as amended by Regulation (EU) No 2020/878"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Publication date: 2001-12-29 BIG number: 51613 Date of revision: 2022-06-08 Revision number: 0200"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Product identifier"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product identifier"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Product name",
+          ": sulfuric acid, conc=93-99.5%"
+        ],
+        [
+          "Synonyms",
+          ": sulfuric-acid-"
+        ],
+        [
+          "Registration number REACH",
+          ": 01-2119458838-20-0102 (Nyrstar Belgium NV/SA) 01-2119458838-20-0086 (Nyrstar Budel BV) 01-2119458838-20-0103 (Nyrstar France SAS)"
+        ],
+        [
+          "Product type REACH",
+          ": Substance/mono-constituent"
+        ],
+        [
+          "CAS number",
+          ": 7664-93-9"
+        ],
+        [
+          "EC index number",
+          ": 016-020-00-8"
+        ],
+        [
+          "EC number",
+          ": 231-639-5"
+        ],
+        [
+          "Molecular mass",
+          ": 98.08 g/mol"
+        ],
+        [
+          "Formula",
+          ": H2SO4"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against",
+        "1.2.1 Relevant identified uses"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "1.2.1 Relevant identified uses"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against",
+        "1.2.1 Relevant identified uses"
+      ],
+      "zone": "main",
+      "text": "IU01: Production of sulphuric acid (ES1)\nIU02: Use of sulphuric acid as an intermediate in manufacture of inorganic and organic chemicals incl. fertilizers (ES2)\nIU03: Use of sulphuric acid as a processing aid, catalyst, dehydrating agent, pH regulator (ES3)\nIU04: Use of sulphuric acid for extractions and processing of minerals, ores (ES4)\nIU05: Use of sulphuric acid in the process of surface treatments, purification and etching (ES5)\nIU06: Use of sulphuric acid in electrolytic processes (ES6)\nIU07: Use of sulphuric acid in gas purification, scrubbing, flue gas scrubbing (ES7)\nIU08: Use of sulphuric acid in production of sulphuric acid contained batteries (ES8)\nIU09: Use of sulphuric acid in maintenance of sulphuric acid contained batteries (ES9)\nIU10: Use of sulphuric acid in recycling of sulphuric acid contained batteries (ES10)\nIU11: Use of sulphuric acid contained batteries (ES11)\nIU12: Use of sulphuric acid as laboratory chemicals (ES12)\nIU13: Use of sulphuric acid in industrial cleaning (ES13)\nIU14: mixing, preparation and repackaging of sulphuric acid (ES14)\nFor more detailed information regarding the Identified Uses and the associated Exposure Scenarios: see attached annex"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against",
+        "1.2.2 Uses advised against"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "1.2.2 Uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against",
+        "1.2.2 Uses advised against"
+      ],
+      "zone": "main",
+      "text": "No uses advised against known"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Supplier of the safety data sheet\nNyrstar Belgium N.V. on behalf of Nyrstar Sales & Marketing A.G.\nZinkstraat 1\nB-2490 Balen\n☎ +32 14 44 95 00\nแ +32 14 81 05 31\ninfoSDS@nyrstar.com\nNyrstar Budel B.V. on behalf of Nyrstar Sales & Marketing A.G.\nHoofdstraat 1\n6024 AA Budel-Dorplein\n☎ +32 14 44 96 80\nแ +32 14 44 95 52\ninfoSDS@nyrstar.com\nNyrstar France S.A.S. on behalf of Nyrstar Sales & Marketing A.G.\nRue Jean Jacques Rousseau\nF-59950 Auby\n☎ +32 14 44 96 80\nแ +33 3 27 88 39 48\ninfoSDS@nyrstar.com"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Manufacturer of the product\nNyrstar Sales & Marketing SA\n1 Rue de Jargonnant\nCH-1207 Geneva\ninfoSDS@nyrstar.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4. Emergency telephone number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "text": "Created by: Brandweerinformatiecentrum voor gevaarlijke stoffen vzw (BIG) Publication date: 2001-12-29\nTechnische Schoolstraat 43 A, B-2440 Geel Date of revision: 2022-06-08\nhttp://www.big.be\n© BIG vzw\nReason for revision: 4;8;9;11;12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 1 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "text": "24h/24h (Telephone advice: English, French, German, Dutch) :\n+32 14 58 45 45 (BIG)"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Classified as dangerous according to the criteria of Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Class",
+          "Category",
+          "Hazard statements"
+        ],
+        [
+          "Skin Corr.",
+          "category 1A",
+          "H314: Causes severe skin burns and eye damage."
+        ],
+        [
+          "Eye Dam.",
+          "category 1",
+          "H318: Causes serious eye damage."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "text": "Signal word Danger\nH-statements\nH314 Causes severe skin burns and eye damage.\nP-statements"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label elements"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "P280",
+          "Wear protecƟve gloves, protecƟve clothing and eye protecƟon/face protecƟon."
+        ],
+        [
+          "P260",
+          "Do not breathe vapours/mist."
+        ],
+        [
+          "P304 + P340",
+          "IF INHALED: Remove person to fresh air and keep comfortable for breathing."
+        ],
+        [
+          "P303 + P361 + P352",
+          "IF ON SKIN (or hair): Take oﬀ immediately all contaminated clothing. Rinse simultaneously with neutralizing agent Diphoterine or equivalent neutralizing agent. Use complete boƩle. Rinse under emergency shower for 1 to 2 minutes and conƟnue rinsing under regular shower for 10 minutes with water at 35-36°C"
+        ],
+        [
+          "P305 + P351",
+          "IF IN EYES: Rinse cauƟ ously with neutralizaƟ on agent Diphoterine or equivalent neutralizing agent for several minutes and conƟnue rinsing with water for 10 minutes."
+        ],
+        [
+          "P310",
+          "Immediately call a POISON CENTER/doctor."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other hazards"
+      ],
+      "zone": "main",
+      "text": "The criteria of PBT and vPvB as listed in Annex XIII of Regulation (EC) No 1907/2006 do not apply to inorganic substances\nStrong inorganic acid mists containing sulfuric acid are carcinogenic to humans"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1. Substances"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1. Substances"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1. Substances"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Name",
+          "CAS No",
+          "Conc. (C)",
+          "Classification according to CLP",
+          "Note",
+          "Remark",
+          "M-factors and"
+        ],
+        [
+          "REACH Registration No",
+          "EC No",
+          "",
+          "",
+          "",
+          "",
+          "ATE"
+        ],
+        [
+          "sulfuric acid, conc=93-99.5%",
+          "7664-93-9",
+          "93%<=C",
+          "Skin Corr. 1A; H314",
+          "(1)(2)(10)",
+          "Mono-consƟtuent",
+          ""
+        ],
+        [
+          "01-2119458838-20",
+          "231-639-5",
+          "<=99.5%",
+          "Eye Dam. 1; H318 Skin Corr. 1A; H314: C≥15%, (CLP Annex VI (ATP 0)) Skin Irrit. 2; H315: 5%≤C<15% , (CLP Annex VI (ATP 0)) Eye Irrit. 2; H319: 5%≤C<15%, (CLP Annex VI (ATP 0))",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1. Substances"
+      ],
+      "zone": "main",
+      "text": "(1) For H- and EUH-statements in full: see section 16\n(2) Substance with a Community workplace exposure limit\n(10) Subject to restrictions of Annex XVII of Regulation (EC) No. 1907/2006"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "General:\nObserve (own) safety. If possible, approach vicƟm and check vital funcƟons. In case of injury and/or intoxicaƟon, call the European emergency\nnumber 112. Treat symptoms starƟng with most life-threatening injuries and disorders. Keep vicƟm under observaƟon, possibility of delayed\nsymptoms.\nAfter inhalation:\nRemove vicƟm into fresh air. Immediately consult a doctor/medical service.\nAfter skin contact:\nTake oﬀ immediately all contaminated clothing and simultaneously rinse with neutralizing agent (BUMB, Diphoterine or equivalent\nneutralizing agent). Use complete boƩle. ConƟnue rinsing under emergency shower for 1 to 2 minutes and conƟnue rinsing under regular\nshower for 10 minutes with water at 35-36°C. Cut clothing; never remove burnt clothing from the wound. Do not give any pain medicaƟon.\nConsult a doctor/medical service.\nAfter eye contact:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 2 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Rinse cauƟ ously with neutralizaƟ on agent (BUMB, Diphoterine or equivalent neutralizing agent) for several minutes and conƟ nue rinsing with\nplenty of water during 10 minutes. Consult a doctor/medical service.\nAfter ingestion:\nRinse mouth with water. Immediately aŌer ingesƟon: give small amount of water to drink. Immediately consult a doctor/medical service. Do\nnot wait for symptoms to occur to consult Poison Center."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed",
+        "4.2.1 Acute symptoms"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "4.2.1 Acute symptoms"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed",
+        "4.2.1 Acute symptoms"
+      ],
+      "zone": "main",
+      "text": "After inhalation:\nDry/sore throat. Coughing. IrritaƟ on of the respiratory tract. IrritaƟ on of the nasal mucous membranes. ON CONTINUOUS\nEXPOSURE/CONTACT: Corrosion of the upper respiratory tract. FOLLOWING SYMPTOMS MAY APPEAR LATER: Possible laryngeal spasm/oedema.\nRisk of pneumonia. Risk of lung oedema. Respiratory diﬃculƟes.\nAfter skin contact:\nCausƟc burns/corrosion of the skin.\nAfter eye contact:\nCorrosion of the eye Ɵssue. Permanent eye damage.\nAfter ingestion:\nNausea. Abdominal pain. Blood in stool. Blood in vomit. Burns to the gastric/intesƟ nal mucosa. AFTER INGESTION OF HIGH QUANTITIES: Shock."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed",
+        "4.2.2 Delayed symptoms"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "4.2.2 Delayed symptoms"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed",
+        "4.2.2 Delayed symptoms"
+      ],
+      "zone": "main",
+      "text": "No eﬀects known."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "If applicable and available it will be listed below."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Extinguishing media"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media",
+        "5.1.1 Suitable extinguishing media:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "5.1.1 Suitable extinguishing media:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media",
+        "5.1.1 Suitable extinguishing media:"
+      ],
+      "zone": "main",
+      "text": "Small fire: Quick-acting ABC powder extinguisher, Quick-acting BC powder extinguisher, Quick-acting CO2 extinguisher.\nMajor ﬁre: Class B foam (alcohol-resistant); aŌ er consulƟ ng specialist."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media",
+        "5.1.2 Unsuitable extinguishing media:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "5.1.2 Unsuitable extinguishing media:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media",
+        "5.1.2 Unsuitable extinguishing media:"
+      ],
+      "zone": "main",
+      "text": "Small fire: Water (quick-acting extinguisher, reel); risk of puddle expansion, Quick-acting class B foam extinguisher.\nMajor ﬁre: Water."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Special hazards arising from the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "On burning: release of toxic and corrosive gases/vapours (sulphur oxides). Violent exothermic reacƟon with water (moisture): release of\ncorrosive gases/vapours."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Advice for firefighters"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters",
+        "5.3.1 Instructions:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "5.3.1 Instructions:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters",
+        "5.3.1 Instructions:"
+      ],
+      "zone": "main",
+      "text": "Cool tanks/drums with water spray/remove them into safety. When cooling/exƟnguishing: no water in the substance. Dilute toxic gases with\nwater spray. Take account of toxic/corrosive precipitaƟ on water. Heat exposure: dilute toxic gas/vapour with water spray."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters",
+        "5.3.2 Special protective equipment for fire-fighters:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "5.3.2 Special protective equipment for fire-fighters:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters",
+        "5.3.2 Special protective equipment for fire-fighters:"
+      ],
+      "zone": "main",
+      "text": "Gloves (EN 374). Face shield (EN 166). Corrosion-proof suit (EN 14605). Large spills/in enclosed spaces: self-contained breathing apparatus (EN\n136 + EN 137). Large spills/in enclosed spaces: gas-Ɵght suit (EN 943). Heat/ﬁre exposure: self-contained breathing apparatus (EN 136 + EN\n137)."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "No naked ﬂames. Keep containers closed. Avoid ingress of water in the containers. Large spills/in conﬁned spaces: consider evacuaƟon."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.1 Protective equipment for non-emergency personnel"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "6.1.1 Protective equipment for non-emergency personnel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.1 Protective equipment for non-emergency personnel"
+      ],
+      "zone": "main",
+      "text": "See section 8.2"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.2 Protective equipment for emergency responders"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "6.1.2 Protective equipment for emergency responders"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures",
+        "6.1.2 Protective equipment for emergency responders"
+      ],
+      "zone": "main",
+      "text": "Gloves (EN 374). Face shield (EN 166). Corrosion-proof suit (EN 14605). Large spills/in enclosed spaces: self-contained breathing apparatus\n(EN 136 + EN 137). Large spills/in enclosed spaces: gas-Ɵght suit (EN 943).\nSuitable protective clothing\nSee section 8.2"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Contain released product, collect/pump into suitable containers. Plug the leak, cut oﬀ the supply. Dam up the liquid spill. Prevent soil and water\npolluƟon. Prevent spreading in sewers."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "text": "Neutralize spill with lime, sodium bicarbonate, soda (sodium carbonate) or soda ash. Neutralized substance: shovel into closing drums.\nCarefully collect the spill/leŌ overs. Damaged/cooled tanks must be empƟ ed. Clean contaminated surfaces with an excess of water. Take\ncollected spill to manufacturer/competent authority. Wash clothing and equipment aŌ er handling."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "See secƟ on 13."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 3 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "text": "The informaƟ on in this secƟ on is a general descripƟ on. If applicable and available, exposure scenarios are aƩ ached in annex. Always use the\nrelevant exposure scenarios that correspond to your idenƟ ﬁed use."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precautions for safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "Keep away from naked ﬂames/heat. Gas/vapour heavier than air at 20°C. Observe very strict hygiene - avoid contact. Remove contaminated\nclothing immediately. Do not discharge the waste into the drain. Never add water to this product. Never dilute by pouring water to the acid.\nAlways add the acid to the water. Keep container Ɵ ghtly closed."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.1 Safe storage requirements:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "7.2.1 Safe storage requirements:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.1 Safe storage requirements:"
+      ],
+      "zone": "main",
+      "text": "Store in a dry area. Keep container in a well-venƟ lated place. Keep locked up. Protect against frost. Store at ambient temperature. Provide\nfor a tub to collect spills. Unauthorized persons are not admiƩed. Under a shelter/in the open. Aboveground. Keep only in the original\ncontainer. Store only in a limited quanƟ ty. Meet the legal requirements."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.2 Keep away from:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "7.2.2 Keep away from:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.2 Keep away from:"
+      ],
+      "zone": "main",
+      "text": "Heat sources, combusƟ ble materials, reducing agents, (strong) bases, metals, cellulosic m aterials, organic materials, oxidizing agents,\nalcohols, amines, water/moisture."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.3 Suitable packaging material:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "7.2.3 Suitable packaging material:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.3 Suitable packaging material:"
+      ],
+      "zone": "main",
+      "text": "Carbon steel, polyethylene, polypropylene, glass, stoneware/porcelain."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.4 Non suitable packaging material:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "7.2.4 Non suitable packaging material:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities",
+        "7.2.4 Non suitable packaging material:"
+      ],
+      "zone": "main",
+      "text": "Monel steel, lead, aluminium, iron, copper, zinc, nickel, bronze."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3. Specific end use(s)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "If applicable and available, exposure scenarios are aƩ ached in annex. See informaƟon supplied by the manufacturer."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Control parameters"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.1.1 Occupational exposure"
+    },
+    {
+      "kind": "list",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Occupational exposure limit values",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "If lim it values are applicable and available these will be listed below."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "EU"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Sulphur dioxide",
+          "Time-weighted average exposure limit 8 h (Indicative occupational exposure limit value)",
+          "0.5 ppm"
+        ],
+        [
+          "",
+          "Time-weighted average exposure limit 8 h (Indicative occupational exposure limit value)",
+          "1.3 mg/m³"
+        ],
+        [
+          "",
+          "Short time value (Indicative occupational exposure limit value)",
+          "1 ppm"
+        ],
+        [
+          "",
+          "Short time value (Indicative occupational exposure limit value)",
+          "2.7 mg/m³"
+        ],
+        [
+          "Sulphuric acid (mist)",
+          "Time-weighted average exposure limit 8 h (Indicative occupational exposure limit value)",
+          "0.05 mg/m³"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "Belgium"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Acide sulfurique (brume)",
+          "Time-weighted average exposure limit 8 h",
+          "0.2 mg/m³"
+        ],
+        [
+          "Soufre (dioxyde de)",
+          "Time-weighted average exposure limit 8 h",
+          "0.5 ppm"
+        ],
+        [
+          "",
+          "Time-weighted average exposure limit 8 h",
+          "1.3 mg/m³"
+        ],
+        [
+          "",
+          "Short time value",
+          "1 ppm"
+        ],
+        [
+          "",
+          "Short time value",
+          "2.7 mg/m³"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "The Netherlands\nZwaveldioxide Time-weighted average exposure limit 8 h (Public occupational exposure0.7 mg/m³\nlimit value)\nShort time value (Public occupational exposure limit value) 0.7 mg/m³\nZwavelzuur (nevel), gedeﬁnieerd als de thoracale fracƟ e Time-weighted average exposure limit 8 h (Public occupational exposure0.012 ppm\nlimit value)\nTime-weighted average exposure limit 8 h (Public occupational exposure0.05 mg/m³\nlimit value)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "France"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Acide sulfurique",
+          "Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire indicative)",
+          "0.05 mg/m³"
+        ],
+        [
+          "",
+          "Short time value (VL: Valeur non réglementaire indicative)",
+          "3 mg/m³"
+        ],
+        [
+          "Soufre (dioxyde de)",
+          "Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire indicative)",
+          "0.5 ppm"
+        ],
+        [
+          "",
+          "Time-weighted average exposure limit 8 h (VRI: Valeur réglementaire indicative)",
+          "1.3 mg/m³"
+        ],
+        [
+          "",
+          "Short time value (VRI: Valeur réglementaire indicative)",
+          "1 ppm"
+        ],
+        [
+          "",
+          "Short time value (VRI: Valeur réglementaire indicative)",
+          "2.7 mg/m³"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "Germany\nSchwefeldioxid Time-weighted average exposure limit 8 h (TRGS 900) 1 ppm"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 4 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "Schwefeldioxid Time-weighted average exposure limit 8 h (TRGS 900) 2.7 mg/m³\nSchwefelsäure Time-weighted average exposure limit 8 h (TRGS 900) 0.1 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "Austria\nSchwefelsäure Tagesmittelwert (MAK) 0.1 mg/m³\nKurzzeitwert Mow 8x (MAK) 0.2 mg/m³"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "UK\nSulphuric acid (mist) Time-weighted average exposure limit 8 h (Workplace exposure limit 0.05 mg/m³\n(EH40/2005))"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "USA (TLV-ACGIH)\nSulfur dioxide Short time value (TLV - Adopted Value) 0.25 ppm\nSulfuric acid Time-weighted average exposure limit 8 h (TLV - Adopted Value) 0.2 mg/m³ (T)\n(T): Thoracic fraction"
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "National biological limit values",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.1 Occupational exposure"
+      ],
+      "zone": "main",
+      "text": "If limit values are applicable and available these will be listed below."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.2 Sampling methods"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.1.2 Sampling methods"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.2 Sampling methods"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Product name",
+          "Test",
+          "Number"
+        ],
+        [
+          "NON-VOLATILE ACIDS (Sulfuric Acid)",
+          "NIOSH",
+          "7908"
+        ],
+        [
+          "Sulfur Dioxide (organic and inorganic gases by Extractive FTIR)",
+          "NIOSH",
+          "3800"
+        ],
+        [
+          "Sulfur Dioxide",
+          "NIOSH",
+          "6004"
+        ],
+        [
+          "Sulfur Dioxide",
+          "OSHA",
+          "1011"
+        ],
+        [
+          "Sulfur Dioxide",
+          "OSHA",
+          "ID 104"
+        ],
+        [
+          "Sulfur Dioxide",
+          "OSHA",
+          "ID 200"
+        ],
+        [
+          "Sulfuric Acid",
+          "NIOSH",
+          "7903"
+        ],
+        [
+          "Sulfuric Acid",
+          "OSHA",
+          "ID 113"
+        ],
+        [
+          "Sulfuric Acid",
+          "OSHA",
+          "ID 165SG"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.3 Applicable limit values when using the substance or mixture as intended"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.1.3 Applicable limit values when using the substance or mixture as intended"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.3 Applicable limit values when using the substance or mixture as intended"
+      ],
+      "zone": "main",
+      "text": "If lim it values are applicable and available these will be listed below."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.4 Threshold values"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.1.4 Threshold values"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.4 Threshold values"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL - Workers"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.4 Threshold values"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Effect level (DNEL/DMEL)",
+          "Type",
+          "Value",
+          "Remark"
+        ],
+        [
+          "DNEL",
+          "Long-term local effects inhalation",
+          "0.05 mg/m³",
+          ""
+        ],
+        [
+          "",
+          "Acute local effects inhalation",
+          "0.1 mg/m³",
+          ""
+        ],
+        [
+          "",
+          "Long-term local effects inhalation",
+          "1.3 mg/m³",
+          "SO2"
+        ],
+        [
+          "",
+          "Acute local effects inhalation",
+          "2.7 mg/m³",
+          "SO2"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.4 Threshold values"
+      ],
+      "zone": "main",
+      "text": "DNEL/DMEL - General population"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.4 Threshold values"
+      ],
+      "zone": "main",
+      "text": "Effect level (DNEL/DMEL) Type Value Remark\nDNEL Long-term local effects inhalation 0.53 mg/m³ SO2"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.5 Control banding"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.1.5 Control banding"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters",
+        "8.1.5 Control banding"
+      ],
+      "zone": "main",
+      "text": "If applicable and available it will be listed below."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "The informaƟ on in this secƟ on is a general descripƟ on. If applicable and available, exposure scenarios are aƩ ached in annex. Always use the\nrelevant exposure scenarios that correspond to your idenƟ ﬁed use."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.1 Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.2.1 Appropriate engineering controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.1 Appropriate engineering controls"
+      ],
+      "zone": "main",
+      "text": "Keep away from naked ﬂames/heat. Measure the concentraƟ on in the air regularly. Carry operaƟons in the open/under local\nexhaust/venƟlaƟon or with respiratory protecƟon."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.2 Individual protection measures, such as personal protective equipment"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.2.2 Individual protection measures, such as personal protective equipment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.2 Individual protection measures, such as personal protective equipment"
+      ],
+      "zone": "main",
+      "text": "Observe very strict hygiene - avoid contact. Do not eat, drink or smoke during work."
+    },
+    {
+      "kind": "list",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.2 Individual protection measures, such as personal protective equipment"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Respiratory protection: Full face mask with ﬁlter type E, at concentraƟ ons in air higher than the exposure limit for sulfur dioxide (SO2). Dust/aerosol mask with ﬁlter type P3 at concentraƟ ons in air higher than the exposure limit for sulfuric acid (H2SO4).",
+          "depth": 0
+        },
+        {
+          "text": "Hand protection: ProtecƟ ve gloves against chemicals (EN 374). Materials Measured Thickness Protection index Remark breakthrough time butyl rubber > 120 minutes 0.5 mm Class 4 viton > 480 minutes 0.4 mm Class 6 natural rubber Poor resistance nitrile rubber Poor resistance neoprene (chloroprene Poor resistance rubber) leather Poor resistance",
+          "depth": 0
+        },
+        {
+          "text": "Eye protection: Face shield (EN 166). ProtecƟve goggles (EN 166).",
+          "depth": 0
+        },
+        {
+          "text": "Skin protection: Corrosion-proof clothing (EN 14605).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 5 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.3 Environmental exposure controls:"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "8.2.3 Environmental exposure controls:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls",
+        "8.2.3 Environmental exposure controls:"
+      ],
+      "zone": "main",
+      "text": "See secƟ ons 6.2, 6.3 and 13"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Physical form",
+          "Liquid"
+        ],
+        [
+          "Viscosity",
+          "Oily"
+        ],
+        [
+          "Odour",
+          "Odourless"
+        ],
+        [
+          "Odour threshold",
+          "No data available in the literature"
+        ],
+        [
+          "Colour",
+          "Colourless to brown"
+        ],
+        [
+          "Translucency",
+          "Clear"
+        ],
+        [
+          "Particle size",
+          "Not applicable (liquid)"
+        ],
+        [
+          "Explosion limits",
+          "Not applicable"
+        ],
+        [
+          "Flammability",
+          "Not classiﬁed as ﬂammable"
+        ],
+        [
+          "Log Kow",
+          "Not relevant"
+        ],
+        [
+          "Dynamic viscosity",
+          "22.5 mPa.s ; 20 °C ; 95 % 15 mPa.s ; 20 °C ; 75 %"
+        ],
+        [
+          "Kinematic viscosity",
+          "No data available in the literature"
+        ],
+        [
+          "Melting point",
+          "10 °C ; 100 % ; Equivalent to OECD 102 3 °C ; 98 % ; Equivalent to OECD 102"
+        ],
+        [
+          "Boiling point",
+          "190 °C ; 98 % ; Equivalent to EU Method A.2 330 °C ; 96 % ; Equivalent to EU Method A.2"
+        ],
+        [
+          "Relative vapour density",
+          "No data available in the literature"
+        ],
+        [
+          "Vapour pressure",
+          "0.49 hPa ; 20 °C ; 75 % ; Equivalent to OECD 104 2.14 hPa ; 20 °C ; 65 % ; Equivalent to EU Method A.4 0.06 hPa ; 20 °C ; 90 % ; Equivalent to EU Method A.4"
+        ],
+        [
+          "Solubility",
+          "Water ; m iscible ; EU Method A.6"
+        ],
+        [
+          "Relative density",
+          "1.84 ; 20 °C ; 93 % - 100 % ; Equivalent to OECD 109"
+        ],
+        [
+          "Absolute density",
+          "1840 kg/m³ ; 20 °C ; Equivalent to OECD 109 ; 93 % - 100 %"
+        ],
+        [
+          "Decomposition temperature",
+          "No data available in the literature"
+        ],
+        [
+          "Auto-ignition temperature",
+          "Not applicable"
+        ],
+        [
+          "Flash point",
+          "Not applicable"
+        ],
+        [
+          "pH",
+          "No data available in the literature"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "text": "No data available"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "text": "Acid reacƟon."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Unstable on exposure to moisture."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "Violent exothermic reacƟon with water (moisture): release of corrosive gases/vapours. Reacts with many compounds: (increased) risk of\nﬁre/explosion. Reacts exothermically with organic material: risk of spontaneous igniƟon. Reacts violently with combusƟ ble materials:\n(increased) risk of ﬁre/explosion. Reacts violently with (some) bases: heat release resulƟ ng in increased ﬁre or explosion risk. Reacts with\n(strong) reducers: (increased) risk of ﬁre/explosion."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "Precautionary measures\nKeep away from naked ﬂames/heat."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "CombusƟ ble materials, reducing agents, (strong) bases, metals, cellulosic m aterials, organic materials, oxidizing agents, alcohols, amines,\nwater/moisture."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "Aqueous soluƟ on reacts with (some) metals: release of highly ﬂammable gases/vapours (hydrogen). On burning: release of toxic and corrosive\ngases/vapours (sulphur oxides)."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "11.1.1 Test results"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 6 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Toxicokinetics: summary Basic toxicokinetics: The effects of sulphuric acid are essentially the result of the hydrogen ion (local deposition of H+, pH change) rather than an effect of the sulphate ion. Sulphuric acid (as such) is not expected to be absorbed or distributed throughout the body as the acid will rapidly dissociate; the hydrogen ion will form water. The sulphate anion will enter the body electrolyte pool, its kinetics will be governed by sulphate homeostatic mechanisms, and is therefore not predicted play a specific toxicological role. This supposition is supported by experiments which have studied the active component in inorganic acids on various endpoints, using different acids or salts. The results of these studies lead to the conclusion that the observed effects are due to the hydrogen ion, while the anion appeared to have no effect. In a study of the clearance of radiolabeled sulphuric acid aerosol in different species, the authors observed that the sulphur from sulphuric acid was rapidly cleared (from 2 -9 minutes) from the lungs of animals into the blood following inhalation exposure (Dahl, 1983). Sulphate is a normal constituent of the blood (present at 0.8 -1.2 mg/dl) and is a normal metabolite of sulphur-containing amino acids. The body has efficient sulphate homeostatic mechanisms and excess sulphate is excreted in the urine (capacity-limited proximal tubular absorption); urinary sulphate concentrations of up to 500 umol/dl/kg bw have been reported. The body pool of this anion is large, and it is therefore unlikely that occupational exposure will significantly add to the normal body burden. Systemic absorption of the hydrogen ion following dermal or inhalation exposure to sulphuric acid is not predicted to be significant, and the low level of hydrogen ions absorbed will be effectively controlled by the homeostatic mechanisms governing pH including the action of the enzyme carbonic anhydrase and NA+/H+ exchange in the proximal renal tubule. Although acidaemia and metabolic acidosis have been noted following cases of ingestion exposure, similar effects are not predicted following occupational inhalation exposure (which will be much lower and effectively limited by respiratory tract irritation) or following dermal exposure (due to low dermal absorption and local dermal irritation). The deposition of sulphuric particles in the human lung has been studied extensively. Deposition is influenced by subject age, particle size and breathing rate. Sulphuric acid particles are hygroscopic and therefore will absorb moisture present in the airways, thereby increasing particle size and potentially increasing particle retention. Respiratory mucus has a limited buffering capacity and may reduce tissue contact. The absence of systemic effects in the large number of toxicity studies performed with sulphuric acid is consistent with this assessment of its toxicokinetics. The following information is taken into account for any hazard / risk assessment: Primary information is limited to a study of the absorption and kinetics of radiolabelled sulphate following the inhalation of sulphuric acid aerosols. Sulphuric acid immediately dissociates to the hydrogen and sulphate ions, with the hydrogen ion being responsible for the local toxicity (irritation and corrosivity) of sulphuric acid. Dermal absorption: No dermal absorption is predicted under normal conditions of use, based on the physicochemical properties of the substance. However dermal absorption may occur when the integrity of the skin is lost (i. e. in accidental exposures resulting in burns). The following information is taken into account for any hazard / risk assessment: No studies are proposed for scientific reasons and (given the corrosive nature of the substance), also reasons of animal welfare. No dermal absorption is predicted under normal conditions of use, based on the physicochemical properties of the substance.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Route of exposure",
+          "Parameter",
+          "Method",
+          "Value",
+          "Exposure time",
+          "Species",
+          "Value determination",
+          "Remark"
+        ],
+        [
+          "Oral",
+          "LD50",
+          "Equivalent to OECD",
+          "2140 mg/kg",
+          "",
+          "Rat (male /",
+          "Experimental value",
+          ""
+        ],
+        [
+          "",
+          "",
+          "401",
+          "",
+          "",
+          "female)",
+          "",
+          ""
+        ],
+        [
+          "Dermal",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Data waiving",
+          ""
+        ],
+        [
+          "Inhalation (aerosol)",
+          "LC50",
+          "Equivalent to OECD",
+          "0.38 mg/l air",
+          "",
+          "Rat (male /",
+          "Experimental value",
+          ""
+        ],
+        [
+          "",
+          "",
+          "403",
+          "",
+          "",
+          "female)",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified for acute toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Corrosion/irritation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Route of exposure",
+          "Result",
+          "Method",
+          "Exposure time",
+          "Time point",
+          "Species",
+          "Value determination",
+          "Remark"
+        ],
+        [
+          "Eye",
+          "Serious eye damage; category 1",
+          "",
+          "",
+          "",
+          "",
+          "Annex VI",
+          ""
+        ],
+        [
+          "Skin",
+          "Highly corrosive; category 1A",
+          "",
+          "",
+          "",
+          "",
+          "Annex VI",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nCauses severe skin burns and eye damage.\nNot classified as irritating to the respiratory system"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Respiratory or skin sensitisation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Route of exposure",
+          "Result",
+          "Method",
+          "Exposure time",
+          "Observation time point",
+          "Species",
+          "Value determination",
+          "Remark"
+        ],
+        [
+          "Skin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Data waiving",
+          ""
+        ],
+        [
+          "Inhalation",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Data waiving",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified as sensitizing for skin\nNot classified as sensitizing for inhalation\nSpecific target organ toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Route of exposure",
+          "Parameter",
+          "Method",
+          "Value",
+          "Organ",
+          "Effect",
+          "Exposure time",
+          "Species",
+          "Value determination"
+        ],
+        [
+          "Oral",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Data waiving"
+        ],
+        [
+          "Dermal",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Data waiving"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 7 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Inhalation (aerosol)",
+          "LOAEC",
+          "OECD 412",
+          "0.3 mg/m³",
+          "Respiratory",
+          "Histopathology",
+          "4 weeks (6h / day,",
+          "Rat (female)",
+          "Experimental value"
+        ],
+        [
+          "",
+          "",
+          "",
+          "air",
+          "tract",
+          "",
+          "5 days / week)",
+          "",
+          ""
+        ],
+        [
+          "Inhalation",
+          "",
+          "Human",
+          "> 1 mg/m³",
+          "Lungs",
+          "Lung tissue",
+          "",
+          "Human",
+          "Weight of evidence"
+        ],
+        [
+          "",
+          "",
+          "observation",
+          "air",
+          "",
+          "affection/dege neration",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified for subchronic toxicity\nMutagenicity (in vitro)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Result Method Test substrate Effect Value determination Remark\nNegative with metabolic Equivalent to OECD 471 Bacteria (S.typhimurium) No effect Experimental value\nactivation, negative\nwithout metabolic\nactivation\nNegative with metabolic EU Method B.10 Chinese hamster lung Experimental value\nactivation, negative fibroblasts (V79)\nwithout metabolic\nactivation\nNegative with metabolic OECD 476 Mouse (lymphoma L5178Y Experimental value\nactivation, negative cells)\nwithout metabolic\nactivation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Mutagenicity (in vivo)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Result Method Exposure time Test substrate Organ Value determination\nData waiving\nConclusion\nNot classified for mutagenic or genotoxic toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Route of",
+          "Parameter",
+          "Method",
+          "Value",
+          "Exposure time",
+          "Species",
+          "Effect",
+          "Organ",
+          "Value"
+        ],
+        [
+          "exposure",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "determination"
+        ],
+        [
+          "Oral",
+          "Dose level",
+          "Carcinogenic",
+          "200 µl/week",
+          "> 1 year(s)",
+          "Mouse (male /",
+          "Tumours of the",
+          "Stomach",
+          "Weight of"
+        ],
+        [
+          "(stomach",
+          "",
+          "toxicity study",
+          "",
+          "",
+          "female)",
+          "gastrointestinal",
+          "",
+          "evidence"
+        ],
+        [
+          "tube)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "tract",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified for carcinogenicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Reproductive toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Parameter",
+          "Method",
+          "Value",
+          "Exposure time",
+          "Species",
+          "Effect",
+          "Organ",
+          "Value determination"
+        ],
+        [
+          "Developmental toxicity",
+          "NOAEC",
+          "Equivalent to",
+          "19.3 mg/m³",
+          "10 days (7h / day)",
+          "Mouse",
+          "No effect",
+          "",
+          "Experimental"
+        ],
+        [
+          "(Inhalation (aerosol))",
+          "",
+          "OECD 414",
+          "air",
+          "",
+          "",
+          "",
+          "",
+          "value"
+        ],
+        [
+          "Maternal toxicity",
+          "NOAEC",
+          "Equivalent to",
+          "5.7 mg/m³",
+          "10 days",
+          "Mouse",
+          "No effect",
+          "",
+          "Experimental"
+        ],
+        [
+          "(Inhalation (aerosol))",
+          "",
+          "OECD 414",
+          "air",
+          "(gestation, daily)",
+          "",
+          "",
+          "",
+          "value"
+        ],
+        [
+          "Effects on fertility (Oral",
+          "NOEL",
+          "OECD 421",
+          "1000 mg/kg",
+          "4 week(s) - 7",
+          "Rat (male /",
+          "No effect",
+          "",
+          "Experimental"
+        ],
+        [
+          "(stomach tube))",
+          "",
+          "",
+          "bw/day",
+          "week(s)",
+          "female)",
+          "",
+          "",
+          "value"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified for reprotoxic or developmental toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Toxicity other effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "No (test)data available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Chronic effects from short and long-term exposure"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on hazard classes as defined in Regulation (EC) No 1272/2008",
+        "11.1.1 Test results"
+      ],
+      "zone": "main",
+      "text": "Red skin. Dry skin. Itching. Skin rash/inflammation. Affection/discolouration of the teeth. Inflammation/damage of the eye tissue."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2. Information on other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2. Information on other hazards"
+      ],
+      "zone": "main",
+      "text": "No evidence of endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 8 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "table",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Parameter",
+          "Method",
+          "Value",
+          "Duration",
+          "Species",
+          "Test design",
+          "Fresh/salt water",
+          "Value determination"
+        ],
+        [
+          "Acute toxicity fishes",
+          "LC50",
+          "",
+          "16 mg/l - 28",
+          "96 h",
+          "Lepomis",
+          "Static",
+          "Fresh water",
+          "Experimental value;"
+        ],
+        [
+          "",
+          "",
+          "",
+          "mg/l",
+          "",
+          "macrochirus",
+          "system",
+          "",
+          "Nominal concentration"
+        ],
+        [
+          "Acute toxicity crustacea",
+          "EC50",
+          "OECD 202",
+          "> 100 mg/l",
+          "48 h",
+          "Daphnia magna",
+          "Static",
+          "Fresh water",
+          "Experimental value;"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "system",
+          "",
+          "GLP"
+        ],
+        [
+          "Toxicity algae and other",
+          "ErC50",
+          "OECD 201",
+          "> 100 mg/l",
+          "72 h",
+          "Desmodesmus",
+          "Static",
+          "Fresh water",
+          "Experimental value;"
+        ],
+        [
+          "aquatic plants",
+          "",
+          "",
+          "",
+          "",
+          "subspicatus",
+          "system",
+          "",
+          "Nominal concentration"
+        ],
+        [
+          "Toxicity aquatic micro-",
+          "NOEC",
+          "",
+          "26 g/l",
+          "37 day(s)",
+          "Activated sludge",
+          "Static",
+          "Fresh water",
+          "Weight of evidence;"
+        ],
+        [
+          "organisms",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "system",
+          "",
+          "Nominal concentration"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot classified as dangerous for the environment according to the criteria of Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistence and degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Water\nBiodegradability: not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Log Kow\nMethod Remark Value Temperature Value determination\nNot relevant"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Conclusion\nNot bioaccumulative"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "No (test)data on mobility of the substance available"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "The criteria of PBT and vPvB as listed in Annex XIII of RegulaƟon (EC) No 1907/2006 do not apply to inorganic substances."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6. Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "No evidence of endocrine disrupting properties"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7. Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7. Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Greenhouse gases\nNot included in the list of fluorinated greenhouse gases (Regulation (EU) No 517/2014)\nOzone-depleting potential (ODP)\nNot classiﬁed as dangerous for the ozone layer (RegulaƟon (EC) No 1005/2009)\nGroundwater\nGroundwater pollutant\nWater ecotoxicity pH\npH shiŌ"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "text": "The informaƟ on in this secƟ on is a general descripƟ on. If applicable and available, exposure scenarios are aƩ ached in annex. Always use the\nrelevant exposure scenarios that correspond to your idenƟ ﬁed use."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Waste treatment methods"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.1 Provisions relating to waste"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "13.1.1 Provisions relating to waste"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.1 Provisions relating to waste"
+      ],
+      "zone": "main",
+      "text": "European Union\nHazardous waste according to DirecƟ ve 2008/98/EC, as amended by RegulaƟon (EU) No 1357/2014 and RegulaƟon (EU) No 2017/997.\nW aste material code (DirecƟve 2008/98/EC, Decision 2000/0532/EC).\n06 01 01* (wastes from the manufacture, formulaƟon, supply and use (MFSU) of acids: sulphuric acid and sulphurous acid). Depending on\nbranch of industry and producƟon process, also other waste codes may be applicable."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.2 Disposal methods"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "13.1.2 Disposal methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 9 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.2 Disposal methods"
+      ],
+      "zone": "main",
+      "text": "Remove waste in accordance with local and/or naƟonal regulaƟons. Hazardous waste shall not be mixed together with other waste.\nDiﬀerent types of hazardous waste shall not be mixed together if this may entail a risk of polluƟ on or create problems for the further\nmanagement of the waste. Hazardous waste shall be managed responsibly. All enƟ Ɵ es that store, transport or handle hazardous waste\nshall take the necessary measures to prevent risks of polluƟ on or damage to people or animals. Do not discharge into drains or the\nenvironment. Dispose of at authorized waste collecƟ on point."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.3 Packaging/Container"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "13.1.3 Packaging/Container"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods",
+        "13.1.3 Packaging/Container"
+      ],
+      "zone": "main",
+      "text": "European Union\nWaste material code packaging (DirecƟve 2008/98/EC).\n15 01 10* (packaging containing residues of or contaminated by dangerous substances)."
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Road (ADR)\n14.1. UN number\nUN number 1830\n14.2. UN proper shipping name\nProper shipping name sulphuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Hazard identification number",
+          "80"
+        ],
+        [
+          "Class",
+          "8"
+        ],
+        [
+          "Classification code",
+          "C1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Packing group II\nLabels 8"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Environmentally hazardous substance mark no"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Special provisions\nLimited quantities Combination packagings: not more than 1 liter per inner packaging for\nliquids. A package shall not weigh more than 30 kg. (gross mass)\nRail (RID)\n14.1. UN number\nUN number 1830\n14.2. UN proper shipping name\nProper shipping name sulphuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Hazard identification number",
+          "80"
+        ],
+        [
+          "Class",
+          "8"
+        ],
+        [
+          "Classification code",
+          "C1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Packing group II\nLabels 8"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Environmentally hazardous substance mark no"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Special provisions\nLimited quantities Combination packagings: not more than 1 liter per inner packaging for\nliquids. A package shall not weigh more than 30 kg. (gross mass)\nInland waterways (ADN)\n14.1. UN number\nUN number 1830\n14.2. UN proper shipping name\nProper shipping name sulphuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Class 8\nClassification code C1"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Packing group II\nLabels 8"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Environmentally hazardous substance mark no"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Special provisions\nLimited quantities Combination packagings: not more than 1 liter per inner packaging for\nliquids. A package shall not weigh more than 30 kg. (gross mass)\nSea (IMDG/IMSBC)\n14.1. UN number\nUN number 1830\n14.2. UN proper shipping name"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 10 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Proper shipping name sulphuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Class 8"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Packing group II\nLabels 8"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Marine pollutant -\nEnvironmentally hazardous substance mark no"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Special provisions\nLimited quantities Combination packagings: not more than 1 liter per inner packaging for\nliquids. A package shall not weigh more than 30 kg. (gross mass)"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7. Maritime transport in bulk according to IMO instruments"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7. Maritime transport in bulk according to IMO instruments"
+      ],
+      "zone": "main",
+      "text": "Annex II of MARPOL 73/78 Not applicable, based on available data\nAir (ICAO-TI/IATA-DGR)\n14.1. UN number\nUN number 1830\n14.2. UN proper shipping name\nProper shipping name sulphuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3. Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3. Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "Class 8"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4. Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4. Packing group"
+      ],
+      "zone": "main",
+      "text": "Packing group II\nLabels 8"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5. Environmental hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5. Environmental hazards"
+      ],
+      "zone": "main",
+      "text": "Environmentally hazardous substance mark no"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6. Special precautions for user"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6. Special precautions for user"
+      ],
+      "zone": "main",
+      "text": "Special provisions\nPassenger and cargo transport\nLimited quantities: maximum net quantity per packaging 0.5 L"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "European legislation:\nExplosives precursors\nAcquisition, introduction, possession or use of this product by the general public is restricted by Regulation (EU) 2019/1148. All suspicious transactions,\nand significant disappearances and thefts should be reported to the relevant national contact point.\nVOC content Directive 2010/75/EU\nVOC content Remark\nNot applicable (inorganic)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Directive 2012/18/EU (Seveso III)\nNot subject to registration according to Directive 2012/18/EU (Seveso III)\nEuropean drinking water standards (98/83/EC and 2020/2184)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Parameter Parametric value Note Reference\nSulphate 250 mg/l Listed in Annex I, Part C, of Directive (EU) 2020/2184 on the\nquality of water intended for human consumption."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "REACH Annex XVII - Restriction\nSubject to restrictions of Annex XVII of Regulation (EC) No. 1907/2006: restrictions on the manufacture, placing on the market and use of certain\ndangerous substances, mixtures and articles.\nDesignation of the substance, of the group of Conditions of restriction\nsubstances or of the mixture"
+    },
+    {
+      "kind": "list",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "sulfuric acid, conc=93-99.5% Liquid substances or mixtures fulfilling the 1. Shall not be used in: criteria for any of the following hazard classes — ornamental articles intended to produce light or colour effects by means of different or categories set out in Annex I to Regulation phases, for example in ornamental lamps and ashtrays, (EC) No 1272/2008: — tricks and jokes, (a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 — games for one or more participants, or any article intended to be used as such, even with types A and B, 2.9, 2.10, 2.12, 2.13 categories ornamental aspects, 1 and 2, 2.14 categories 1 and 2, 2.15 types A 2. Articles not complying with paragraph 1 shall not be placed on the market. to F; 3. Shall not be placed on the market if they contain a colouring agent, unless required for (b) hazard classes 3.1 to 3.6, 3.7 adverse fiscal reasons, or perfume, or both, if they: effects on sexual function and fertility or on — can be used as fuel in decorative oil lamps for supply to the general public, and, development, 3.8 effects other than narcotic — present an aspiration hazard and are labelled with H304, effects, 3.9 and 3.10; 4. Decorative oil lamps for supply to the general public shall not be placed on the market (c) hazard class 4.1; unless they conform to the European Standard on Decorative oil lamps (EN 14059) adopted (d) hazard class 5.1. by the European Committee for Standardisation (CEN).",
+          "depth": 0
+        },
+        {
+          "text": "Without prejudice to the implementation of other Community provisions relating to the",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "classification, packaging and labelling of dangerous substances and mixtures, suppliers shall\nensure, before the placing on the market, that the following requirements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 11 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "are met:"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "lamp oils, labelled with H304, intended for supply to the general public are visibly, legibly",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "and indelibly marked as follows: “Keep lamps filled with this liquid out of the reach of\nchildren”; and, by 1 December 2010, “Just a sip of lamp oil — or even sucking the wick of\nlamps — may lead to life- threatening lung damage”;"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "grill lighter fluids, labelled with H304, intended for supply to the general public are legibly",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "and indelibly marked by 1 December 2010 as follows: “Just a sip of grill lighter may lead to\nlife threatening lung damage”;"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "lamp oils and grill lighters, labelled with H304, intended for supply to the general public",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "are packaged in black opaque containers not exceeding 1 litre by 1 December 2010."
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "sulfuric acid, conc=93-99.5% Substances falling within one or more of the Mixtures for tattooing purposes are subject to the restrictions of Regulation (EU) 2020/2081 following points: (a) substances classified as any of the following in Part 3 of Annex VI to Regulation (EC) No 1272/2008:",
+          "depth": 0
+        },
+        {
+          "text": "carcinogen category 1A, 1B or 2, or germ",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "cell mutagen category 1A, 1B or\n2, but excluding any such substances classified\ndue to effects only following\nexposure by inhalation"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "reproductive toxicant category 1A, 1B or 2",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "but excluding any such substances classified\ndue to effects only following exposure by\ninhalation"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "skin sensitiser category 1, 1A or 1B",
+          "depth": 0
+        },
+        {
+          "text": "skin corrosive category 1, 1A, 1B or 1C or",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "skin irritant category 2"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "serious eye damage category 1 or eye",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "irritant category 2\n(b) substances listed in Annex II to Regulation\n(EC) No 1223/2009 of the European\nParliament and of the Council\n(c) substances listed in Annex IV to Regulation\n(EC) No 1223/2009 for which a condition is\nspecified in at least one of the columns g, h\nand i of the table in that Annex (d) substances\nlisted in Appendix 13 to this Annex.\nThe ancillary requirements in paragraphs 7\nand 8 of column 2 of this entry apply to all\nmixtures for use for tattooing purposes,\nwhether or not they contain a substance\nfalling within points (a) to (d) of this column of\nthis entry."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation Belgium\nAdditional classification Acide sulfurique (brume); C; La mention “C” signifie que l’agent en question relève du champ d’application de l’arrêté\nroyal du 2 décembre 1993 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents\ncancérigènes et mutagènes et reprotoxiques au travail."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation The Netherlands\nWaterbezwaarlijkheid A (3); Algemene Beoordelingsmethodiek (ABM)\nSZW - Lijst van zwavelzuurnevels; Listed in SZW-list of carcinogenic substances\nkankerverwekkende stoffen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation France\nNo data available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation Germany"
+    },
+    {
+      "kind": "table",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Lagerklasse (TRGS510)",
+          "8 B: Nicht brennbare ätzende Gefahrstoffe"
+        ],
+        [
+          "WGK",
+          "1; Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (AwSV) - 18. April 2017"
+        ],
+        [
+          "TRGS900 - Risiko der",
+          "Schwefeldioxid; Y; Risiko der Fruchtschädigung braucht bei Einhaltung des Arbeitsplatzgrenzwertes und des biologischen"
+        ],
+        [
+          "Fruchtschädigung",
+          "Grenzwertes nicht befürchtet zu werden Schwefelsäure; Y; Risiko der Fruchtschädigung braucht bei Einhaltung des Arbeitsplatzgrenzwertes und des biologischen Grenzwertes nicht befürchtet zu werden"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation Austria\nNo data available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National legislation United Kingdom\nNo data available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Other relevant data\nTLV - Carcinogen Sulfur dioxide; A4\nSulfuric acid; A2\nIARC - classification 3; Sulfur dioxide and some sulfites, bisulfites and metabisulfites\n1; Strong-inorganic-acid mists containing sulfuric acid"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. Chemical safety assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "text": "A chemical safety assessment has been performed."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 12 / 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "header",
+      "text": "sulfuric acid, conc=93-99.5%"
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Full text of any H- and EUH-statements referred to under section 3:\nH314 Causes severe skin burns and eye damage.\nH318 Causes serious eye damage."
+    },
+    {
+      "kind": "table",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "(*)",
+          "INTERNAL CLASSIFICATION BY BIG"
+        ],
+        [
+          "ADI",
+          "Acceptable daily intake"
+        ],
+        [
+          "AOEL",
+          "Acceptable operator exposure level"
+        ],
+        [
+          "ATE",
+          "Acute Toxicity Estimate"
+        ],
+        [
+          "CLP (EU-GHS)",
+          "Classification, labelling and packaging (Globally Harmonised System in Europe)"
+        ],
+        [
+          "DMEL",
+          "Derived Minimal Effect Level"
+        ],
+        [
+          "DNEL",
+          "Derived No Effect Level"
+        ],
+        [
+          "EC50",
+          "Effect Concentration 50 %"
+        ],
+        [
+          "ErC50",
+          "EC50 in terms of reduction of growth rate"
+        ],
+        [
+          "LC50",
+          "Lethal Concentration 50 %"
+        ],
+        [
+          "LD50",
+          "Lethal Dose 50 %"
+        ],
+        [
+          "NOAEL",
+          "No Observed Adverse Effect Level"
+        ],
+        [
+          "NOEC",
+          "No Observed Effect Concentration"
+        ],
+        [
+          "OECD",
+          "Organisation for Economic Co-operation and Development"
+        ],
+        [
+          "PBT",
+          "Persistent, Bioaccumulative & Toxic"
+        ],
+        [
+          "PNEC",
+          "Predicted No Effect Concentration"
+        ],
+        [
+          "STP",
+          "Sludge Treatment Process"
+        ],
+        [
+          "vPvB",
+          "very Persistent & very Bioaccumulative"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "The informaƟ on in this safety data sheet is based on data and samples provided to BIG. The sheet was wriƩ en to the best of our ability and\naccording to the state of knowledge at that Ɵ me. The safety data sheet only consƟ tutes a guideline for the safe handling, use, consumpƟon,\nstorage, transport and disposal of the substances/preparaƟons/mixtures menƟoned under point 1. New safety data sheets are wriƩ en from\nƟme to Ɵme. Only the most recent versions may be used. Unless indicated otherwise word for word on the safety data sheet, the informaƟon\ndoes not apply to substances/preparaƟons/mixtures in purer form, mixed with other substances or in processes. The safety data sheet oﬀers\nno quality speciﬁcaƟ on for the substances/preparaƟons/mixtures in quesƟon. Compliance with the instrucƟ ons in this safety data sheet does\nnot release the user from the obligaƟ on to take all measures dictated by common sense, regulaƟons and recommendaƟons or which are\nnecessary and/or useful based on the real applicable circumstances. BIG does not guarantee the accuracy or exhausƟ veness of the\ninformaƟ on provided and cannot be held liable for any changes by third parƟ es. This safety data sheet is only to be used within the European\nUnion, Switzerland, Iceland, Norway and Liechtenstein. Any use outside of this area is at your own risk. Use of this safety data sheet is\nsubject to the licence and liability limiƟ ng condiƟ ons as stated in your BIG licence agreement or when this is failing the general condiƟ ons of\nBIG. All intellectual property rights to this sheet are the property of BIG and its distribuƟ on and reproducƟ on are limited. Consult the\nmenƟoned agreement/condiƟ ons for details."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Reason for revision: 4;8;9;11;12 Publication date: 2001-12-29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Date of revision: 2022-06-08"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Revision number: 0200 BIG number: 51613 13 / 13"
+    }
+  ]
+}

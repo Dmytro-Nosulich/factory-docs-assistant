@@ -1,0 +1,93 @@
+{
+  "doc_id": "D015",
+  "format": "pdf",
+  "page_count": 1,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "ZC0003"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "ZC0003"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Abnahmeprüfzeugnis Werkstoff EN10204-3.1 (entspricht DIN50049-3.1)"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Abnahmeprüfzeugnis Werkstoff EN10204-3.1 (entspricht DIN50049-3.1)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Abnahmeprüfzeugnis 3.1"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Abnahmeprüfzeugnis 3.1"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Mechanische Daten"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Mechanische Daten"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Mechanische Daten"
+      ],
+      "zone": "main",
+      "text": "Gewicht [g] 25"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Bemerkungen"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Bemerkungen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Bemerkungen"
+      ],
+      "zone": "main",
+      "text": "Bemerkungen Das Zeugnis muss in Verbindung mit einem Gerät bestellt werden.\nAusgeliefert wird das entsprechende Gerät mit dem Zeugnis.\nDas Zertifikat ist zweisprachig (deutsch/englisch).\nIn der Internetversion des Datenblattes ist ein Musterzertifikat\nunter der Registerkarte \"Downloads\" abgelegt.\nVerpackungseinheit 1 Stück"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "ZC0003",
+        "Bemerkungen"
+      ],
+      "zone": "main",
+      "text": "ifm electronic gmbh • Friedrichstraße 1 • 45128 Essen — Technische Änderungen behalten wir uns ohne Ankündigung vor! — DE-DE — ZC0003-00 — 26.07.2017 —"
+    }
+  ]
+}

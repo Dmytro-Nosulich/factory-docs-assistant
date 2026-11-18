@@ -1,0 +1,408 @@
+{
+  "doc_id": "D025",
+  "format": "pdf",
+  "page_count": 2,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "05.02.2025 Ed.1"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Polypropylene"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Polypropylene"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "BE55"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Polypropylene Homopolymer"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Polypropylene Homopolymer"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Description"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Description"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Description"
+      ],
+      "zone": "main",
+      "text": "BE55 is a high molecular weight, low melt flow rate polypropylene homopolymer. The product is available in natural colour."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Applications"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Applications"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Applications"
+      ],
+      "zone": "main",
+      "text": "BE55 is intended for following applications:\nSheets and profiles Non-pressure pipe systems"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Physical properties"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Physical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Physical properties"
+      ],
+      "zone": "main",
+      "text": "Property Typical value * Unit Test method"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Physical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Melt flow rate (230 °C/2.16 kg)",
+          "0.35",
+          "g/10min",
+          "ISO 1133-1"
+        ],
+        [
+          "Tensile stress at yield (50 mm/min)",
+          "36",
+          "MPa",
+          "ISO 527-2"
+        ],
+        [
+          "Tensile modulus",
+          "1700",
+          "MPa",
+          "ISO 527-2"
+        ],
+        [
+          "Tensile strain at yield (50 mm/min)",
+          "10",
+          "%",
+          "ISO 527-2"
+        ],
+        [
+          "Vicat softening temperature A50 (10 N)",
+          "150",
+          "°C",
+          "ISO 306"
+        ],
+        [
+          "Charpy impact strength, notched (23 °C)",
+          "9",
+          "kJ/m²",
+          "ISO 179-1/1eA"
+        ],
+        [
+          "Charpy impact strength, notched (-20 °C)",
+          "2",
+          "kJ/m²",
+          "ISO 179-1/1eA"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Physical properties"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Data should not be used for specification work",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Processing techniques"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "The actual conditions will depend on the application and type of equipment used. Please contact your local Borealis representative for specific\nrecommendations."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "Processing setting Typical value/range"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "Cylinder temperature 190 - 210 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "Head temperature 200 - 230 °C"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "Die temperature 200 - 230"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Processing techniques"
+      ],
+      "zone": "main",
+      "text": "Melt temperature 200 - 230"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Packaging and storage"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Packaging and storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Packaging and storage"
+      ],
+      "zone": "main",
+      "text": "BE55 should be stored in dry conditions at temperatures below 50°C and protected from UV-light. Improper storage can initiate degradation, which can\nresult in odour generation and colour changes and can have negative effects on the physical properties of this product."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Product compliance documents"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Product compliance documents"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Product compliance documents"
+      ],
+      "zone": "main",
+      "text": "Latest versions of product safety information sheets (PSIS), product safety data sheets (SDS) and other product liability documents are available on our\nwebsite www.borealisgroup.com."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "BE55",
+        "Product compliance documents"
+      ],
+      "zone": "main",
+      "text": "1/2"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "Polypropylene"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Polypropylene"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "BE55"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "Sustainability aspects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects"
+      ],
+      "zone": "main",
+      "text": "Borealis is ever mindful of the impact of our products on the planet. We promote Design for Circularity (DfC) and Design for Recycling (DfR) to conserve\nnatural resources and to reduce the environmental impact of products over their entire lifetime (including production, use phase and after phase). DfR\nhelps ensure that material can be effectively recycled while maximizing the material performance efficiency."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects"
+      ],
+      "zone": "main",
+      "text": "Further information on sustainability and Design for Recycling (DfR) can be found from our websites www.borealisgroup.com and\nwww.borealiseverminds.com."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "level": 4,
+      "text": "Disclaimer"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "text": "The product(s) mentioned herein are not intended to be used for medical, pharmaceutical or healthcare applications and we do not support their use for such\napplications.\nTo the best of our knowledge, the information contained herein is accurate and reliable as of the date of publication; however we do not assume any liability whatsoever\nfor the accuracy and completeness of such information.\nBorealis makes no warranties which extend beyond the description contained herein. Nothing herein shall constitute any warranty of merchantability or fitness for a\nparticular purpose.\nIt is the customer's responsibility to inspect and test our products in order to satisfy itself as to the suitability of the products for the customer's particular purpose. The\ncustomer is responsible for the appropriate, safe and legal use, processing and handling of our products.\nNo liability can be accepted in respect of the use of any Borealis product in conjunction with any other products and/or materials. The information contained herein relates\nexclusively to our products when not used in conjunction with any other material unless as specifically provided for in the test methods stated above."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "text": "Borealis AG | Trabrennstrasse 6-8 | A-1020 Vienna | Austria\nTelephone: +43 1 22 400 0* | Fax: +43 1 22 400 333\nWebsite www.borealisgroup.com"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "BE55",
+        "BE55",
+        "Sustainability aspects",
+        "Disclaimer"
+      ],
+      "zone": "main",
+      "text": "2/2"
+    }
+  ]
+}

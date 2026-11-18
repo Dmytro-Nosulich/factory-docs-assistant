@@ -1,0 +1,1260 @@
+{
+  "doc_id": "D042",
+  "format": "pdf",
+  "page_count": 6,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sauerstoff, O 2 (gasförmig, verdichtet)"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Bezeichnung",
+          "O2",
+          "5.0",
+          "",
+          "",
+          "O2 6.0",
+          "",
+          ""
+        ],
+        [
+          "Material Nummer",
+          "2110112, 2110152",
+          "",
+          "",
+          "",
+          "6360112, 6360152",
+          "",
+          ""
+        ],
+        [
+          "",
+          "21105883",
+          "",
+          "",
+          "",
+          "63605883",
+          "",
+          ""
+        ],
+        [
+          "Reinheit, mol.-%",
+          "O2   99,999",
+          "",
+          "",
+          "",
+          "O2   99,9999",
+          "",
+          ""
+        ],
+        [
+          "Nebenbestandteile, ppm",
+          "N2 ",
+          "",
+          "5",
+          "",
+          "N2 ",
+          "0,5",
+          ""
+        ],
+        [
+          "",
+          "Ar  2",
+          "",
+          "",
+          "",
+          "Ar  1,0",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CnHm ",
+          "",
+          "",
+          "0,2",
+          "CnHm ",
+          "",
+          "0,1"
+        ],
+        [
+          "",
+          "CO2   0,2",
+          "",
+          "",
+          "",
+          "CO2   0,1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "H2O  3",
+          "",
+          "",
+          "",
+          "CO  0,1 H2O  0,5",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Lieferarten Stahlflaschen, Fülldruck 200 bar (15 °C)\n(Standard-Gebinde) Geom. Vol. Richtwerte für Masse und Gewicht\nLiter Durchmesser mm Höhe mm Bruttogewicht kg\n10 140 920 16\n50 230 1560 74"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Flaschenbündel, Fülldruck 200 bar (15 °C)\nGeom. Vol. Richtwerte für Masse und Gewicht Bemerkungen\nLiter Abmessungen mm (L x B x H)Bruttogewicht kg\n600 1200 x 800 x 1700 970 - 1000 nur Art. 63605883,\n63605883"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Kennzeichnung",
+          "Farbkennzeichnung (Schulter)",
+          "reinweiss, RAL 9010"
+        ],
+        [
+          "",
+          "Prägung",
+          "SAUERSTOFF"
+        ],
+        [
+          "",
+          "Bezettelung",
+          "Gasart, Qualitäts-Etikette"
+        ],
+        [
+          "",
+          "Strichcode",
+          ""
+        ],
+        [
+          "",
+          "Ventilanschluss",
+          "G 3/4“ (SN 219505/2)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Andere",
+          "Lieferformen",
+          "andere Reinheiten",
+          ""
+        ],
+        [
+          "",
+          "",
+          "tiefkalt verflüssigt",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Spezialbehälter",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sauerstoff, O 2 (gasförmig, verdichtet)"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Umrechnungszahlen",
+          "m3 Gas",
+          "",
+          "",
+          "Liter Flüssigkeit",
+          "",
+          "kg"
+        ],
+        [
+          "",
+          "(1.000 bar und",
+          "15",
+          "°C)",
+          "(Siedezustand bei",
+          "1,013 bar)",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "",
+          "",
+          "1,172",
+          "",
+          "1,337"
+        ],
+        [
+          "",
+          "0,853",
+          "",
+          "",
+          "1",
+          "",
+          "1,141"
+        ],
+        [
+          "",
+          "0,748",
+          "",
+          "",
+          "0,876",
+          "",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Eigenschaften Sauerstoff ist ein farb- und geruchloses Gas, das in der Luft zu 20,95 Vol. -% enthalten ist. Sauerstoff ist\nnicht giftig.\nVerbrennungsreaktionen verlaufen schon bei einem geringfügig erhöhten Sauerstoffanteil schneller\nals in Luft. Alle mit Sauerstoff in Berührung kommenden Teile müssen daher frei von Öl, Fett oder\nSchmiermittel sein."
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Chem.",
+          "Zeichen",
+          "",
+          "O2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Molare",
+          "Masse",
+          "",
+          "32,00",
+          "g/mol",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Tripelpunkt",
+          "",
+          "",
+          "Temperatur",
+          "",
+          "54,4 K (-218,8 °C)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Druck",
+          "",
+          "1,5 mbar",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Schmelzwärme",
+          "",
+          "13,9 kJ/kg",
+          "",
+          ""
+        ],
+        [
+          "Siedepunkt bei 1,013 bar",
+          "",
+          "",
+          "Temperatur",
+          "",
+          "90,2 K (-183,0 °C)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Verdampfungswärme",
+          "",
+          "213",
+          "kJ/kg",
+          ""
+        ],
+        [
+          "Kritischer Punkt",
+          "",
+          "",
+          "Temperatur",
+          "",
+          "154,6",
+          "",
+          "K (-118,6 °C)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Druck",
+          "",
+          "50,4 bar",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Dichte",
+          "",
+          "0,436",
+          "",
+          "kg/Liter"
+        ],
+        [
+          "Relative Dichte des",
+          "",
+          "Gases",
+          "1,105",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "gegenüber Luft (1 bar/15 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sicherheitsdatenblatt Sicherheitsdatenblätter verfügbar unter linde.ch\nSicherheitsempfehlung Zusätzliche Blätter «Sicherheitsempfehlungen»:\nA02: Richtiger Umgang mit Gasflaschen\nA04: Sauerstoffanreicherung/-mangel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Haftungsausschluss Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde Gas\nSchweiz AG prüft und aktualisiert die Informationen und behält sich das Recht vor, Änderungen oder\nErgänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich Daten\ninzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und\nVollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden.\nJeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen Bestimmungen\neingehalten werden und dass die hier beschriebenen Produkte für seine Einsatzzwecke geeignet sind.\nDie Angaben auf diesem Produktdatenblatt sind keine vertraglichen Zusicherungen von\nProdukteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern oder Daten bedarf der\nvorherigen Zustimmung der Linde Gas Schweiz AG."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "Oxygène, O 2 (gazeux, comprimé)"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Désignation",
+          "",
+          "",
+          "O2 5.0",
+          "",
+          "",
+          "O2 6.0",
+          "",
+          ""
+        ],
+        [
+          "Numéro du",
+          "matériel",
+          "",
+          "2110112, 2110152",
+          "",
+          "",
+          "6360112, 6360152",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "21105883",
+          "",
+          "",
+          "63605883",
+          "",
+          ""
+        ],
+        [
+          "Pureté, % de",
+          "",
+          "mol.",
+          "O2   99,999",
+          "",
+          "",
+          "O2   99,9999",
+          "",
+          ""
+        ],
+        [
+          "Impuretés, en",
+          "",
+          "ppm",
+          "N2 ",
+          "5",
+          "",
+          "N2 ",
+          "0,5",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Ar  2",
+          "",
+          "",
+          "Ar  1,0",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "CnHm ",
+          "",
+          "0,2",
+          "CnHm ",
+          "",
+          "0,1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "CO2   0,2",
+          "",
+          "",
+          "CO2   0,1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "H2O  3",
+          "",
+          "",
+          "CO  0,1 H2O  0,5",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Modes de",
+          "livraison",
+          "Bouteilles d’acier, pression de remplissage 200 bar (15 °C)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "(Récipients usuels)",
+          "",
+          "Vol. géom.",
+          "",
+          "",
+          "Mesures et",
+          "poids approximatifs",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Litres",
+          "Diamètre mm",
+          "",
+          "Hauteur mm",
+          "Poids brut kg"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "10 140 920 16\n50 230 1560 74"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Cadre",
+          "",
+          "de bouteilles, pression de remplissage",
+          "",
+          "",
+          "",
+          "200 bar",
+          "(15 °C)"
+        ],
+        [
+          "Vol. géom.",
+          "",
+          "",
+          "Mesures et poids",
+          "",
+          "approximatifs",
+          "",
+          "Remarques"
+        ],
+        [
+          "",
+          "Litres",
+          "",
+          "Volume mm",
+          "Poids brut kg",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "(Longueur x Largeur x Hauteur)\n600 1200 x 800 x 1700 970 - 1000 seul. Art. 63605883,\n63605883"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Marquages",
+          "Marquage en",
+          "couleur",
+          "",
+          "(ogive)blanc pur, RAL 9010",
+          ""
+        ],
+        [
+          "",
+          "Gravure",
+          "",
+          "",
+          "SAUERSTOFF",
+          ""
+        ],
+        [
+          "",
+          "Etiquettes",
+          "",
+          "",
+          "sorte de gaz, étiquettes de",
+          "qualité"
+        ],
+        [
+          "",
+          "Code barre",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Raccord de la",
+          "",
+          "valve",
+          "G 3/4“ (SN 219505/2)",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Autres qualités",
+          "et récipientsAutres puretés",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Liquéfié à très",
+          "basse température",
+          ""
+        ],
+        [
+          "",
+          "Récipients spéciaux",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Oxygène, O 2 (gazeux, comprimé)"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Chiffres de",
+          "conversion",
+          "m3 gaz",
+          "",
+          "Litres liquéfiés",
+          "",
+          "",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "(1.000 bar et",
+          "15 °C)",
+          "(Etat d’ébullition",
+          "à 1,013",
+          "bar)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "1",
+          "",
+          "1,172",
+          "",
+          "",
+          "1,337"
+        ],
+        [
+          "",
+          "",
+          "0,853",
+          "",
+          "1",
+          "",
+          "",
+          "1,141"
+        ],
+        [
+          "",
+          "",
+          "0,748",
+          "",
+          "0,876",
+          "",
+          "",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Caractéristiques L’oxygène est un gaz incolore et inodore, qui représente 20,95 % du volume de l’air.\nL’oxygène n’est pas toxique.\nMême une teneur en oxygène peu élevée peut provoquer des réactions de déflagration plus rapides\nque dans l’air. Toutes les parties en contact avec de l’oxygène doivent être exemptes d’huile, de\ngraisse ou de lubrifiants."
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Formule chimique",
+          "",
+          "O2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Masse",
+          "molaire",
+          "32,00",
+          "g/mol",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Point triple",
+          "",
+          "Température",
+          "",
+          "54,4 K (-218,8 °C)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Pression",
+          "",
+          "1,5 mbar",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Chaleur de fusion",
+          "",
+          "13,9 kJ/kg",
+          "",
+          ""
+        ],
+        [
+          "Point d’ébullition à 1,013",
+          "",
+          "barTempérature",
+          "",
+          "90,2 K (-183,0 °C)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Chaleur d’évaporation",
+          "",
+          "213",
+          "kJ/kg",
+          ""
+        ],
+        [
+          "Point critique",
+          "",
+          "Température",
+          "",
+          "154,6",
+          "",
+          "K (-118,6 °C)"
+        ],
+        [
+          "",
+          "",
+          "Pression",
+          "",
+          "50,4 bar",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Masse",
+          "volumique",
+          "0,436",
+          "",
+          "kg/litre"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Densité de gaz relative à l’air1,105\n(1 bar/15 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Fiche de sécurité Fiches de données de sécurité disponibles sur linde.ch\nRemarques de sécurité Feuilles supplémentaires «Remarques de sécurité»:\nA02: Manipulation des bouteilles de gaz\nA04: Enrichissement en oxygène / manque d‘oxygène"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Clause de non-responsabilité Toutes les informations contenues dans la fiche technique du produit correspondent à l'état actuel des\nconnaissances. Linde Gas Schweiz AG vérifie et actualise les informations et se réserve le droit de\nmodifier ou de compléter les informations mises à disposition. Malgré tout le soin apporté, des données\npeuvent avoir changé entre-temps. Une responsabilité ou une garantie pour l'actualité, l'exactitude et\nl'intégralité des informations mises à disposition ne peut donc pas être assumée. Chaque utilisateur est\nresponsable du respect de toutes les dispositions légales pertinentes et de l'adéquation des produits\ndécrits ici à son utilisation. Les informations contenues dans cette fiche technique de produit ne\nconstituent pas une garantie contractuelle des propriétés du produit. La reproduction d'informations,\nde textes, d'images ou de données est soumise à l'autorisation préalable de Linde Gas Schweiz AG."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Ossigeno, O2 (gassoso, compresso)"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Definitione",
+          "O2",
+          "5.0",
+          "",
+          "",
+          "O2 6.0",
+          "",
+          ""
+        ],
+        [
+          "Numero materiale",
+          "2110112, 2110152",
+          "",
+          "",
+          "",
+          "6360112, 6360152",
+          "",
+          ""
+        ],
+        [
+          "",
+          "21105883",
+          "",
+          "",
+          "",
+          "63605883",
+          "",
+          ""
+        ],
+        [
+          "Purezza, % mol.",
+          "O2   99,999",
+          "",
+          "",
+          "",
+          "O2   99,9999",
+          "",
+          ""
+        ],
+        [
+          "Componenti secondari,",
+          "",
+          "",
+          "ppmN2 ",
+          "5",
+          "N2 ",
+          "0,5",
+          ""
+        ],
+        [
+          "",
+          "Ar  2",
+          "",
+          "",
+          "",
+          "Ar  1,0",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CnHm ",
+          "",
+          "0,2",
+          "",
+          "CnHm ",
+          "",
+          "0,1"
+        ],
+        [
+          "",
+          "CO2   0,2",
+          "",
+          "",
+          "",
+          "CO2   0,1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "H2O  3",
+          "",
+          "",
+          "",
+          "CO  0,1 H2O  0,5",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Tipi di fornitura Bombole di acciaio, pressione di carica 200 bar (15 °C)\n(recipiente standard) Vol. geom. Valori indicativi di massa e peso\nLitri Diametro mm Altezza mm Peso lordo kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "10 140 920 16\n50 230 1560 74"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Batterie di bombole, pressione di carica 200 bar (15 °C)\nVol. geom. Valori indicativi di massa e peso Note\nLitri Dimensioni mm (L x L x A)Peso lordo kg\n600 1200 x 800 x 1700 970 - 1000 solo art. 63605883,\n63605883"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Identificazione Colore di identificazione (ogiva) bianco puro, RAL 9010"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Incisione OSSIGENO\nEtichetta Tipo di gas, etichetta di qualità"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Codice a barre \nAttacco valvola G 3/4“ (SN 219505/2)"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Altre forme di fornitura",
+          "altre purezze",
+          ""
+        ],
+        [
+          "",
+          "liquefatto a basse temperature",
+          ""
+        ],
+        [
+          "",
+          "Recipienti speciali",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Ossigeno, O2 (gassoso, compresso)"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Indici di",
+          "conversione",
+          "m3 gas",
+          "",
+          "Litri",
+          "di liquido (stato",
+          "",
+          "di ebollizione a",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "(1.000 bar e",
+          "15 °C)",
+          "1,013",
+          "",
+          "bar, 15 °C)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "1",
+          "",
+          "1,172",
+          "",
+          "",
+          "",
+          "1,337"
+        ],
+        [
+          "",
+          "",
+          "0,853",
+          "",
+          "1",
+          "",
+          "",
+          "",
+          "1,141"
+        ],
+        [
+          "",
+          "",
+          "0,748",
+          "",
+          "0,876",
+          "",
+          "",
+          "",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Proprietà L’ossigeno è un gas incolore e inodore, contenuto nell’aria per il 20,95% vol. . L’ossigeno non è tossico.\nCon una percentuale di ossigeno lievemente maggiore, le reazioni di combustione risultano accelerate\nrispetto all’aria normale. Tutte le parti a contatto con l’ossigeno devono perciò essere prive di olio,\ngrasso o lubrificanti."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Simbolo chimico O2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Massa molare 32,00 g/mol\nPunto triplo Temperatura 54,4 K (-218,8 °C)"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "Pressione",
+          "",
+          "1,5 mbar"
+        ],
+        [
+          "",
+          "Calore di",
+          "fusione",
+          "13,9 kJ/kg"
+        ],
+        [
+          "Punto di ebollizione a 1,013 bar",
+          "Temperatura",
+          "",
+          "90,2 K (-183,0 °C)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "",
+          "Calore di",
+          "evaporazione",
+          "213",
+          "kJ/kg",
+          ""
+        ],
+        [
+          "Punto critico",
+          "",
+          "Temperatura",
+          "",
+          "154,6",
+          "",
+          "K (-118,6 °C)"
+        ],
+        [
+          "",
+          "",
+          "Pressione",
+          "",
+          "50,4 bar",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Densità",
+          "",
+          "0,436",
+          "",
+          "kg/litro"
+        ],
+        [
+          "Densità relativa",
+          "del  gas rispetto",
+          "1,105",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "all’aria (1 bar/15 °C)"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Scheda dati",
+          "di sicurezza",
+          "Schede dati di sicurezza disponibili su linde.ch",
+          ""
+        ],
+        [
+          "Norme di",
+          "sicurezza",
+          "Fogli aggiuntivi “Norme A02: Manipolazione delle bombole di gas",
+          "di sicurezza”"
+        ],
+        [
+          "",
+          "",
+          "A04: Anricchimento / mancanza",
+          "di ossigeno"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Dichiarazione di non Tutte le informazioni contenute nella scheda tecnica del prodotto corrispondono allo stato attuale\nresponsabilità delle conoscenze. Linde Gas Schweiz AG controlla e aggiorna le informazioni e si riserva il diritto di\napportare modifiche o aggiunte alle informazioni fornite. Nonostante la massima attenzione, i dati\npossono essere cambiati nel frattempo. Non si assume pertanto alcuna responsabilità o garanzia per\nl'attualità, la correttezza e la completezza delle informazioni fornite. È responsabilità di ogni utente\nassicurarsi che siano rispettate tutte le norme di legge pertinenti e che i prodotti qui descritti siano\nadatti all'uso previsto. Le informazioni contenute in questa scheda prodotto non costituiscono una\ngaranzia contrattuale delle proprietà del prodotto. La riproduzione di informazioni, testi, immagini o\ndati richiede il consenso preliminare di Linde Gas Schweiz AG."
+    }
+  ]
+}

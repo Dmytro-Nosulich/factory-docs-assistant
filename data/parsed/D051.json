@@ -1,0 +1,3133 @@
+{
+  "doc_id": "D051",
+  "format": "pdf",
+  "page_count": 12,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "This safety data sheet was created pursuant to the requirements of:\nRegulation (EC) No. 1907/2006 and Regulation (EC) No. 1272/2008\nThis SDS is for generic information purposes and does not reflect required country specific\ninformation for OEL"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product Identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1. Product Identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.1. Product Identifier"
+      ],
+      "zone": "main",
+      "text": "Product Name BOSTIK TILE ADHESIVE 8020 FLOOR&WALL\nPure substance/mixture Mixture"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.2. Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Recommended use Building and construction work. Cement.\nUses advised against None known."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3. Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Company Name\nBostik AB\nStrandbadsvaegen 22\nPO Box 903\n25109 Helsingborg, Sweden\nTel: +46 42 19 50 00\nFax: +46 42 19 50 20"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.3. Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "E-mail address SDS.box-EU@bostik.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4. Emergency telephone number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/undertaking",
+        "1.4. Emergency telephone number"
+      ],
+      "zone": "main",
+      "text": "Emergency Telephone"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1. Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1. Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Skin corrosion/irritation Category 2 - (H315)\nSerious eye damage/eye irritation Category 1 - (H318)\nSpecific target organ toxicity (single exposure) Category 3 - (H335)"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2. Label Elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "Contains: Cement, portland, chemicals (Chromium VI reduced), Flue dust, Cement Portland"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "Signal word\nDANGER"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "Hazard statements\nH315 - Causes skin irritation.\nH318 - Causes serious eye damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 1 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "H335 - May cause respiratory irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "Precautionary statements\nP102 - Keep out of reach of children.\nP261 - Avoid breathing dust/fume/gas/mist/vapours/spray.\nP280 - Wear protective gloves and eye/face protection.\nP284 - Wear respiratory protection.\nP302 + P352 - IF ON SKIN: Wash with plenty of water and soap.\nP305 + P351 + P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and\neasy to do. Continue rinsing."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2. Label Elements"
+      ],
+      "zone": "main",
+      "text": "Additional information\nCement product for which the amount of chromium VI was decreased to < 0,0002 % by a reduction agent (related to the total\ndry weight)."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other Hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3. Other Hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other Hazards"
+      ],
+      "zone": "main",
+      "text": "Product dust may be irritating to eyes, skin and respiratory system\nWhen cement reacts with water a strong alkaline solution is produced. Prolonged contact with wet cement or wet concrete\nmay cause serious burns because they develop without pain being felt e.g. when kneeling in wet cement even when wearing\ntrousers\nFrequent inhalation of large quantities of cement dust over a long period of time increases the risk of developing lung disease"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3. Other Hazards"
+      ],
+      "zone": "main",
+      "text": "PBT & vPvB\nThis mixture contains no substance considered to be persistent, bioaccumulating or toxic (PBT) This mixture contains no\nsubstance considered to be very persistent nor very bioaccumulating (vPvB)"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 3: Composition/information on ingredients"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1 Substances"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.1 Substances"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.1 Substances"
+      ],
+      "zone": "main",
+      "text": "Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2. Mixtures"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Chemical name",
+          "EC No",
+          "CAS No",
+          "Weight-%",
+          "Classification",
+          "",
+          "Specific",
+          "REACH"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "according to",
+          "concentration limit",
+          "",
+          "Registration"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Regulation (EC) No. 1272/2008",
+          "",
+          "(SCL)",
+          "Number"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "[CLP]"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "",
+          "",
+          "Quartz",
+          "238-878-4",
+          "14808-60-7",
+          "40 - <80",
+          "",
+          "",
+          "^",
+          "",
+          "[4]"
+        ],
+        [
+          "",
+          "Cement, portland,",
+          "",
+          "266-043-4",
+          "65997-15-1",
+          ">25 - <40",
+          "STOT SE 3",
+          "",
+          "",
+          "Exempt",
+          ""
+        ],
+        [
+          "chemicals (Chromium VI",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(H335)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "reduced)",
+          "",
+          "",
+          "",
+          "",
+          "Skin Irrit. 2 (H315) Eye Dam. 1 (H318)",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Flue dust, Cement 270-659-9 68475-76-3 1 - <2.5 STOT SE 3 01-2119486767-\nPortland (H335) 17-XXXX\nSkin Irrit. 2\n(H315)\nEye Dam. 1\n(H318)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Calcium hydroxide 215-137-3 1305-62-0 0.1- <1 STOT SE 3 01-2119475151-\n(H335) 45-XXXX\nSkin Irrit. 2\n(H315)\nEye Dam. 1\n(H318)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 2 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "Full text of H- and EUH-phrases: see section 16\nNote: ^ indicates not classified, however, the substance is listed in section 3 as it has an OEL"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 3: Composition/information on ingredients",
+        "3.2. Mixtures"
+      ],
+      "zone": "main",
+      "text": "This product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No.\n1907/2006 (REACH), Article 59)"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1. Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "General advice If medical advice is needed, have product container or label at hand."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Inhalation Remove to fresh air. Get medical attention immediately if symptoms occur."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Eye contact Immediately flush with plenty of water. After initial flushing, remove any contact lenses\nand continue flushing for at least 15 minutes. Consult an ophthalmologist."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Skin contact Wash off immediately with soap and plenty of water for at least 15 minutes. Get medical\nattention if irritation develops and persists."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Ingestion Do NOT induce vomiting. Never give anything by mouth to an unconscious person.\nClean mouth with water. Drink 1 or 2 glasses of water. Call a doctor or poison control\ncentre immediately."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1. Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "Self-protection of the first aider Avoid contact with skin, eyes or clothing. Wear personal protective clothing (see section\n8)."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2. Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2. Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "text": "Symptoms Causes serious eye damage. Inhalation of dust in high concentration may cause irritation\nof respiratory system. Irritating to skin."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3. Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3. Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "Note to doctors Treat symptomatically."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1. Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing media Use extinguishing measures that are appropriate to local circumstances and the\nsurrounding environment."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1. Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Unsuitable extinguishing media Full water jet. Do not scatter spilled material with high pressure water streams."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2. Special hazards arising from the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2. Special hazards arising from the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Specific hazards arising from the Thermal decomposition can lead to release of toxic and corrosive gases/vapours.\nchemical"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3. Advice for firefighters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3. Advice for firefighters"
+      ],
+      "zone": "main",
+      "text": "Special protective equipment for Firefighters should wear self-contained breathing apparatus and full firefighting turnout\nfire-fighters gear. Use personal protection equipment."
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 3 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1. Personal precautions, protective equipment and emergency procedures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "Personal precautions Avoid generation of dust. Do not get in eyes, on skin, or on clothing. Use personal\nprotective equipment as required."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "Other information Ventilate the area. Prevent further leakage or spillage if safe to do so."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1. Personal precautions, protective equipment and emergency procedures"
+      ],
+      "zone": "main",
+      "text": "For emergency responders Use personal protection recommended in Section 8. Sweep up to prevent slipping\nhazard."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2. Environmental precautions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2. Environmental precautions"
+      ],
+      "zone": "main",
+      "text": "Environmental precautions Prevent entry into waterways, sewers, basements or confined areas. Do not flush into\nsurface water or sanitary sewer system. Prevent further leakage or spillage if safe to do\nso. See Section 12 for additional Ecological Information."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3. Methods and material for containment and cleaning up"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "text": "Methods for containment Cover powder spill with plastic sheet or tarp to minimise spreading and keep powder dry.\nPrevent dust cloud."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3. Methods and material for containment and cleaning up"
+      ],
+      "zone": "main",
+      "text": "Methods for cleaning up Take up mechanically, placing in appropriate containers for disposal."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4. Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4. Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "Reference to other sections See section 8 for more information. See section 13 for more information."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1. Precautions for safe handling"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "Advice on safe handling Ensure adequate ventilation. Avoid generation of dust. Avoid contact with skin, eyes or\nclothing. Use personal protective equipment as required."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1. Precautions for safe handling"
+      ],
+      "zone": "main",
+      "text": "General hygiene considerations Do not eat, drink or smoke when using this product. Wash hands before breaks and after\nwork. Take off all contaminated clothing and wash it before reuse."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2. Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2. Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Storage Conditions Keep the packing dry and well sealed to prevent contamination and absorption of\nhumidity. After absorption of moisture or exceeding the shelf life the reducing agent for\nchromate will lose its efficiency and sensitisation by skin contact may occur."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3. Specific end use(s)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "Specific Use(s)\nBuilding and construction work. Cement."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "Risk Management Methods (RMM) The information required is contained in this Safety Data Sheet."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3. Specific end use(s)"
+      ],
+      "zone": "main",
+      "text": "Other information Observe technical data sheet."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1. Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Exposure Limits"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Only European Community Occupational Exposure Limits will be shown in this document. Please refer to regional"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 4 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "SDS for further information."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Chemical name European Union\nQuartz TWA: 0.1 mg/m3\n14808-60-7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Derived No Effect Level (DNEL) No information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Derived No Effect Level (DNEL)\nQuartz (14808-60-7)\nCalcium hydroxide (1305-62-0)\nType Exposure route Derived No Effect Level Safety factor\n(DNEL)\nworker Short term Local health Inhalation 4 mg/m³\neffects\nworker Long term Local health Inhalation 1 mg/m³\neffects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Derived No Effect Level (DNEL)\nCalcium hydroxide (1305-62-0)\nType Exposure route Derived No Effect Level Safety factor\n(DNEL)\nConsumer Short term Local health Inhalation 4 mg/m³\neffects\nConsumer Long term Local health Inhalation 1 mg/m³\neffects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Predicted No Effect Concentration No information available.\n(PNEC)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1. Control parameters"
+      ],
+      "zone": "main",
+      "text": "Predicted No Effect Concentration (PNEC)\nCalcium hydroxide (1305-62-0)\nEnvironmental compartment Predicted No Effect Concentration (PNEC)\nFreshwater 0.49 mg/l\nMarine water 0.32 mg/l\nSewage treatment plant 3 mg/l\nSoil 1080 mg/kg dry weight"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2. Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Engineering controls Ensure adequate ventilation, especially in confined areas."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Personal Protective Equipment\nEye/face protection Wear safety glasses with side shields (or goggles). Eye protection must conform to\nstandard EN 166\nHand protection Wear suitable gloves. Gloves must conform to standard EN 374. Recommended Use:.\nNitrile rubber. The breakthrough time for the mentioned glove material is in general\ngreater than 480 min. Ensure that the breakthrough time of the glove material is not\nexceeded. Refer to glove supplier for information on breakthrough time for specific\ngloves. Gloves should be replaced regularly and if there is any sign of damage to the\nglove material. Unsuitable gloves materials:. Leather.\nSkin and body protection Wear appropriate personal protective clothing to prevent skin contact.\nRespiratory protection Avoid generation of dust. Ensure adequate ventilation, especially in confined areas. In\ncase of inadequate ventilation wear respiratory protection.\nRecommended filter type: Particle filter device (DIN EN 143)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2. Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Environmental exposure controls Do not allow into any sewer, on the ground or into any body of water."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 5 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1. Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Physical state Solid\nAppearance Powder\nColour Grey\nOdour Characteristic\nOdour threshold No information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Property Values Remarks • Method\npH Not applicable ."
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "pH (as aqueous solution)",
+          ">",
+          "11",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Melting point / freezing point",
+          "Not applicable",
+          "",
+          "",
+          ".",
+          "°C"
+        ],
+        [
+          "Boiling point / boiling range",
+          ".",
+          "°C",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Flash point",
+          "",
+          "",
+          ".",
+          "°C",
+          ""
+        ],
+        [
+          "Evaporation rate",
+          "",
+          "Not applicable  .",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Flammability (solid, gas)",
+          "No data available",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Flammability Limit in Air\nUpper flammability or explosive No data available\nlimits\nLower flammability or explosive No data available\nlimits"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Vapour pressure",
+          "No data available",
+          ""
+        ],
+        [
+          "Vapour density",
+          "No data available",
+          ""
+        ],
+        [
+          "Relative density",
+          "No data available",
+          ""
+        ],
+        [
+          "Water solubility",
+          "",
+          "Reacts with water"
+        ],
+        [
+          "Solubility(ies)",
+          "",
+          "No data available"
+        ],
+        [
+          "Partition coefficient",
+          "No data available",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Autoignition temperature No data available\nDecomposition temperature No data available"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1. Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Kinematic viscosity",
+          "",
+          "Not applicable",
+          ".",
+          "mm²/s"
+        ],
+        [
+          "Dynamic viscosity",
+          "Not applicable  .",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Explosive properties",
+          "No data available",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Oxidising properties",
+          "No data available",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2. Other information"
+    },
+    {
+      "kind": "table",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Solid content (%)",
+          "100"
+        ],
+        [
+          "Softening Point",
+          "Not relevant"
+        ],
+        [
+          "VOC Content (%)",
+          "No information available"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2. Other information"
+      ],
+      "zone": "main",
+      "text": "Density No information available g/cm³\nBulk density 1.6"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1. Reactivity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1. Reactivity"
+      ],
+      "zone": "main",
+      "text": "Reactivity No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2. Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Stability Stable under normal conditions."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2. Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Explosion Data\nSensitivity to mechanical None.\nimpact\nSensitivity to static discharge None."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3. Possibility of hazardous reactions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3. Possibility of hazardous reactions"
+      ],
+      "zone": "main",
+      "text": "Possibility of hazardous reactions None under normal processing."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4. Conditions to avoid"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 6 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4. Conditions to avoid"
+      ],
+      "zone": "main",
+      "text": "Conditions to avoid Protect from moisture. Product cures with moisture."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5. Incompatible materials"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5. Incompatible materials"
+      ],
+      "zone": "main",
+      "text": "Incompatible materials Strong acids. Strong bases. Strong oxidising agents."
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6. Hazardous decomposition products"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6. Hazardous decomposition products"
+      ],
+      "zone": "main",
+      "text": "Hazardous decomposition None under normal use conditions. Stable under recommended storage conditions.\nproducts"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1. Information on toxicological effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Information on likely routes of exposure"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Product Information ."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Inhalation Inhalation of dust in high concentration may cause irritation of respiratory system."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Eye contact Causes serious eye damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Skin contact Causes skin irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Ingestion Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Symptoms related to the physical, chemical and toxicological characteristics"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Symptoms Redness. Burning. May cause blindness. May cause redness and tearing of the eyes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Numerical measures of toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Acute Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "The following values are calculated based on chapter 3.1 of the GHS document\nATEmix (dermal) 51,835.40 mg/kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Component Information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Chemical name Oral LD50 Dermal LD50 Inhalation LC50\nQuartz >2000 mg/kg (Rattus)\n14808-60-7\nCement, portland, chemicals >2000 Kg/mg (Lapin) >5 g/m3 (Rattus)\n(Chromium VI reduced)\n65997-15-1\nCalcium hydroxide =7340 mg/kg (Rattus) LD50 > 2500 mg/kg bw (OECD\n1305-62-0 402, Oryctolagus cuniculus)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Delayed and immediate effects as well as chronic effects from short and long-term exposure"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Skin corrosion/irritation Causes skin irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Component Information\nCalcium hydroxide (1305-62-0)\nMethod Species Exposure route Effective dose Exposure time Results\nOECD Test No. 404: Rabbit Dermal irritant\nAcute Dermal\nIrritation/Corrosion"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 7 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Serious eye damage/eye irritation Causes serious eye damage."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Component Information\nCalcium hydroxide (1305-62-0)\nMethod Species Exposure route Effective dose Exposure time Results\nRabbit eye Eye Damage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Respiratory or skin sensitisation Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Germ cell mutagenicity Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Carcinogenicity Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Reproductive toxicity Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "STOT - single exposure May cause respiratory irritation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "STOT - repeated exposure Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1. Information on toxicological effects"
+      ],
+      "zone": "main",
+      "text": "Aspiration hazard Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1. Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "text": "Ecotoxicity ."
+    },
+    {
+      "kind": "table",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1. Toxicity"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Chemical name",
+          "",
+          "Algae/aquatic",
+          "",
+          "",
+          "Fish",
+          "",
+          "Toxicity to",
+          "",
+          "Crustacea",
+          "M-Factor",
+          "M-Factor"
+        ],
+        [
+          "",
+          "",
+          "",
+          "plants",
+          "",
+          "",
+          "Micro-organisms",
+          "",
+          "",
+          "",
+          "",
+          "(long-term)"
+        ],
+        [
+          "Calcium hydroxide",
+          "",
+          "EC50 = 184.57",
+          "",
+          "",
+          "LC50:",
+          "",
+          "",
+          "-",
+          "EC50 = 49.1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1305-62-0",
+          "g/ml (72Hr)",
+          "",
+          "=160mg/L (96h, Gambusia",
+          "affinis)",
+          "",
+          "",
+          "",
+          "g/ml (48 hr)",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2. Persistence and degradability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2. Persistence and degradability"
+      ],
+      "zone": "main",
+      "text": "Persistence and degradability No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3. Bioaccumulative potential"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Bioaccumulation No information available."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3. Bioaccumulative potential"
+      ],
+      "zone": "main",
+      "text": "Chemical name Partition coefficient Bioconcentration factor (BCF)\nQuartz - 0\n14808-60-7"
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4. Mobility in soil"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4. Mobility in soil"
+      ],
+      "zone": "main",
+      "text": "Mobility in soil No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5. Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 8 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "PBT and vPvB assessment The components in this formulation do not meet the criteria for classification as PBT or\nvPvB."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5. Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "Chemical name PBT and vPvB assessment\nFlue dust, Cement Portland PBT assessment does not apply\n68475-76-3\nCalcium hydroxide The substance is not PBT / vPvB\n1305-62-0 PBT assessment does not apply"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6. Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6. Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Other adverse effects No information available."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1. Waste treatment methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Waste from residues/unused Dispose of contents/container in accordance with local, regional, national, and\nproducts international regulations as applicable."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Contaminated packaging Do not reuse empty containers. Handle contaminated packages in the same way as the\nproduct itself."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "European Waste Catalogue 16 03 03* inorganic wastes containing hazardous substances\n17 09 04 mixed construction and demolition wastes other than those mentioned in 17 09\n01, 17 09 02 and 17 09 03"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1. Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Other information Waste codes should be assigned by the user based on the application for which the\nproduct was used."
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "text": "Land transport (ADR/RID)\n14.1 UN Number Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 Proper Shipping Name Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Proper Shipping Name Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es) Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport hazard class(es) Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing Group Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing Group Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special Provisions None"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special Provisions None"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special Provisions None"
+      ],
+      "zone": "main",
+      "text": "IMDG"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1 UN number Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 UN number Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 Proper Shipping Name Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Proper Shipping Name Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es) Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport hazard class(es) Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing group Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Marine Pollutant Np"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Marine Pollutant Np"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special Provisions None"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special Provisions None"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable"
+      ],
+      "zone": "main",
+      "text": "Air transport (ICAO-TI / IATA-DGR)"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1 UN number Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 UN number Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 Proper Shipping Name Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 Proper Shipping Name Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es) Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport hazard class(es) Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group Not regulated"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing group Not regulated"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards Not applicable"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards Not applicable"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special Provisions None"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special Provisions None"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 9 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Section 15: REGULATORY INFORMATION"
+    },
+    {
+      "kind": "heading",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "European Union"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Take note of Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents\nat work"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Check whether measures in accordance with Directive 94/33/EC for the protection of young people at work must be taken."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Take note of Directive 92/85/EC on the protection of pregnant and breastfeeding women at work"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Registration, Evaluation, Authorization, and Restriction of Chemicals (REACh) Regulation (EC 1907/2006)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "SVHC: Substances of Very High Concern for Authorisation:\nThis product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No.\n1907/2006 (REACH), Article 59)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "EU-REACH (1907/2006) - Annex XVII - Substances subject to Restriction\nThis product contains one or more substance(s) subject to restriction (Regulation (EC) No. 1907/2006 (REACH), Annex XVII)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Chemical name CAS No Restricted substance per REACH\nAnnex XVII\nCement, portland, chemicals (Chromium VI reduced) 65997-15-1 item 47\nCellulose 9004-34-6 9[f]"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "47 where product supplied with reducing agent the packaging must be marked with the storage conditions and storage\nperiod appropriate to maintaining the activity of the reducing agent to keep the content of soluble chromium VI below 2mg/Kg"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Substance subject to authorisation per REACH Annex XIV\nThis product does not contain substances subject to authorisation (Regulation (EC) No. 1907/2006 (REACH), Annex XIV)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Ozone-depleting substances (ODS) regulation (EC) 1005/2009\nNot applicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Persistent Organic Pollutants\nNot applicable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "National Regulations"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "France"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Occupational Illnesses (R-463-3, France)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Chemical name French RG number\nQuartz RG 25\n14808-60-7\nCement, portland, chemicals (Chromium VI reduced) RG 8,RG 10 RG 8\n65997-15-1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Germany"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Ordinance on Industrial Safety and Health - Germany - BetrSichV\nNo flammable liquids in accordance with BetrSichV"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 10 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Water hazard class (WGK) slightly hazardous to water (WGK 1)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Netherlands"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "List of Carcinogenic, mutagenic and reproductive toxin substances in accordance with Inspectorate SZW\n(Netherlands)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Chemical name Netherlands\nQuartz Present (respirable dust, crystalline)\n14808-60-7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "MAL-Code 00-4"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Sweden\nOccupational exposure limits AFS 2018:1\nSwedish Work Environment Authority's Statute (AFS 2015:2) QUARTZ AFS 2015:2\nSpecial care should be applied for employees under the age of 18. Young people under the age of 18 may not carry out any\nwork causing harmful exposure to this product. AFS 2012:3"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2. Chemical safety assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Section 15: REGULATORY INFORMATION",
+        "15.2. Chemical safety assessment"
+      ],
+      "zone": "main",
+      "text": "Chemical Safety Assessments have been carried out by the Reach registrants for substances registered at >10 tpa. No\nChemical Safety Assessment has been carried out for this mixture"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Key or legend to abbreviations and acronyms used in the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Full text of H-Statements referred to under section 3\nH315 - Causes skin irritation\nH318 - Causes serious eye damage\nH335 - May cause respiratory irritation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Legend"
+    },
+    {
+      "kind": "table",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "TWA",
+          "",
+          "TWA (time-weighted average)",
+          ""
+        ],
+        [
+          "STEL",
+          "",
+          "STEL (Short Term Exposure Limit)",
+          ""
+        ],
+        [
+          "Ceiling",
+          "",
+          "Ceiling Limit Value",
+          ""
+        ],
+        [
+          "*",
+          "",
+          "",
+          "Skin designation"
+        ],
+        [
+          "SVHC",
+          "",
+          "Substance(s) of Very High Concern",
+          ""
+        ],
+        [
+          "PBT",
+          "",
+          "Persistent, Bioaccumulative, and Toxic (PBT) Chemicals",
+          ""
+        ],
+        [
+          "vPvB",
+          "",
+          "Very Persistent and very Bioaccumulative (vPvB) Chemicals",
+          ""
+        ],
+        [
+          "STOT RE",
+          "Specific target organ toxicity - Repeated exposure",
+          "",
+          ""
+        ],
+        [
+          "STOT SE",
+          "Specific target organ toxicity - Single exposure",
+          "",
+          ""
+        ],
+        [
+          "EWC",
+          "",
+          "European Waste Catalogue",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Key literature references and sources for data\nNo information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Prepared By Product Safety & Regulatory Affairs"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Indication of changes"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Revision note Not applicable."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Training Advice No information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Further information No information available"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 11 / 12"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "SAFETY DATA SHEET"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "BOSTIK TILE ADHESIVE 8020 FLOOR&WALL Revision date 19-May-2020"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "Supercedes Date: 19-May-2020 Revision Number 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "header",
+      "text": "___________________________________________________________________________________________"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "Disclaimer\nThe information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the date of\nits publication. The information given is designed only as a guidance for safe handling, use, processing, storage,\ntransportation, disposal and release and is not to be considered a warranty or quality specification. The information relates only\nto the specific material designated and may not be valid for such material used in combination with any other materials or in\nany process, unless specified in the text."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "End of Safety Data Sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [],
+      "zone": "footer",
+      "text": "Europe - BE Page 12 / 12"
+    }
+  ]
+}

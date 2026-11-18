@@ -1,0 +1,5411 @@
+{
+  "doc_id": "D019",
+  "format": "pdf",
+  "page_count": 40,
+  "pages_without_text": [
+    37,
+    38,
+    39
+  ],
+  "warnings": [
+    "D019: no text layer on pages [37, 38, 39]"
+  ],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "KA01385D/06/EN/02.19 Products Solutions Services\n71424725\n2019-02-01"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Brief Operating Instructions"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Brief Operating Instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Flowmeter"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Flowmeter"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 300"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "Proline 300"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 300",
+        "PROFIBUS DP transmitter"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "PROFIBUS DP transmitter"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "with electromagnetic sensor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "These instructions are Brief Operating Instructions; they are\nnot a substitute for the Operating Instructions pertaining to\nthe device.\nBrief Operating Instructions part 2 of 2: Transmitter\nContain information about the transmitter.\nBrief Operating Instructions part 1 of 2: Sensor →  3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "A0023555"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "2 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "with electromagnetic sensor"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Brief Operating Instructions for the flowmeter"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Brief Operating Instructions for the flowmeter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "The device consists of a transmitter and a sensor.\nThe process of commissioning these two components is described in two separate manuals,\nthat form the Brief Operating Instructions of the flowmeter:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Brief Operating Instructions part 1: Sensor",
+          "depth": 0
+        },
+        {
+          "text": "Brief Operating Instructions part 2: Transmitter",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "Please refer to both Brief Operating Instructions when commissioning the flowmeter as the\ncontents complement one another:\nBrief Operating Instructions part 1: Sensor\nThe Sensor Brief Operating Instructions are aimed at specialists with responsibility for\ninstalling the measuring device."
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Incoming acceptance and product identification",
+          "depth": 0
+        },
+        {
+          "text": "Storage and transport",
+          "depth": 0
+        },
+        {
+          "text": "Installation",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "text": "Brief Operating Instructions part 2: Transmitter\nThe Transmitter Brief Operating Instructions are aimed at specialists with responsibility for\ncommissioning, configuring and parameterizing the measuring device (until the first\nmeasured value)."
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Brief Operating Instructions for the flowmeter"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Product description",
+          "depth": 0
+        },
+        {
+          "text": "Installation",
+          "depth": 0
+        },
+        {
+          "text": "Electrical connection",
+          "depth": 0
+        },
+        {
+          "text": "Operation options",
+          "depth": 0
+        },
+        {
+          "text": "System integration",
+          "depth": 0
+        },
+        {
+          "text": "Commissioning",
+          "depth": 0
+        },
+        {
+          "text": "Diagnostic information",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Additional device documentation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "These Brief Operating Instructions are the Brief Operating Instructions part 2:\nTransmitter.\nThe \"Brief Operating Instructions part 1: Sensor\" are available via:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Internet: www.endress.com/deviceviewer",
+          "depth": 0
+        },
+        {
+          "text": "Smart phone/tablet: Endress+Hauser Operations App",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "Detailed information about the device can be found in the Operating Instructions and the\nother documentation:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Internet: www.endress.com/deviceviewer",
+          "depth": 0
+        },
+        {
+          "text": "Smart phone/tablet: Endress+Hauser Operations App",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Additional device documentation"
+      ],
+      "zone": "main",
+      "text": "Table of contents Flowmeter Proline 300"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "Table of contents"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "1 About this document ..............................................................5\n1.1 Symbols used ......................................................................... 5"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "2",
+          "Basic safety instructions .......................................................... 7"
+        ],
+        [
+          "2.1",
+          "Requirements for the personnel ............................................................7"
+        ],
+        [
+          "2.2",
+          "Designated use ........................................................................ 7"
+        ],
+        [
+          "2.3",
+          "Workplace safety ...................................................................... 8"
+        ],
+        [
+          "2.4",
+          "Operational safety ......................................................................8"
+        ],
+        [
+          "2.5",
+          "Product safety .........................................................................8"
+        ],
+        [
+          "2.6",
+          "IT security ............................................................................8"
+        ],
+        [
+          "2.7",
+          "Device-specific IT security ................................................................ 9"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "3 Product description .............................................................. 10"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "4",
+          "Installation ...................................................................... 11"
+        ],
+        [
+          "4.1",
+          "Turning the transmitter housing ..........................................................  11"
+        ],
+        [
+          "4.2",
+          "Turning the display module .............................................................. 12"
+        ],
+        [
+          "4.3",
+          "Transmitter post-installation check ........................................................ 12"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "5",
+          "Electrical connection ............................................................  13",
+          ""
+        ],
+        [
+          "5.1",
+          "Connection conditions .................................................................. 13",
+          ""
+        ],
+        [
+          "5.2",
+          "Connecting the measuring device .........................................................",
+          "16"
+        ],
+        [
+          "5.3",
+          "Ensuring potential equalization ........................................................... 20",
+          ""
+        ],
+        [
+          "5.4",
+          "Hardware settings ..................................................................... 25",
+          ""
+        ],
+        [
+          "5.5",
+          "Ensuring the degree of protection .........................................................  27",
+          ""
+        ],
+        [
+          "5.6",
+          "Post-connection check ..................................................................27",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "6",
+          "Operation options ...............................................................  28"
+        ],
+        [
+          "6.1",
+          "Overview of operation options ............................................................ 28"
+        ],
+        [
+          "6.2",
+          "Structure and function of the operating menu ................................................  29"
+        ],
+        [
+          "6.3",
+          "Access to the operating menu via the local display .............................................  30"
+        ],
+        [
+          "6.4",
+          "Access to the operating menu via the operating tool ............................................ 33"
+        ],
+        [
+          "6.5",
+          "Access to the operating menu via the Web server .............................................. 33"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "7 System integration .............................................................. 33"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "8",
+          "Commissioning .................................................................. 34"
+        ],
+        [
+          "8.1",
+          "Function check .......................................................................  34"
+        ],
+        [
+          "8.2",
+          "Setting the operating language ...........................................................  34"
+        ],
+        [
+          "8.3",
+          "Configuring the measuring device .........................................................  35"
+        ],
+        [
+          "8.4",
+          "Protecting settings from unauthorized access ................................................. 35"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "9 Diagnostic information .......................................................... 36"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "4 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 About this document"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "Table of contents"
+      ],
+      "zone": "main",
+      "text": "1 About this document"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Symbols used"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.1 Safety symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "DANGER!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation will result in\nserious or fatal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "WARNING!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation can result in\nserious or fatal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "CAUTION!\nThis symbol alerts you to a dangerous situation. Failure to avoid this situation can result in\nminor or medium injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "NOTE!\nThis symbol contains information on procedures and other facts which do not result in\npersonal injury."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.2 Symbols for certain types of information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Permitted",
+          "Preferred"
+        ],
+        [
+          "Procedures, processes or actions that",
+          "Procedures, processes or actions that"
+        ],
+        [
+          "are permitted.",
+          "are preferred."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Forbidden Tip\nProcedures, processes or actions that Indicates additional information.\nare forbidden."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Reference to documentation Reference to page"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Reference to graphic , , … Series of steps"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Result of a step Visual inspection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.3 Electrical symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Direct current Alternating current"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Direct current and alternating current Ground connection\nA grounded terminal which, as far as\nthe operator is concerned, is grounded\nvia a grounding system."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 5"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "About this document Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Protective Earth (PE)\nA terminal which must be connected to ground prior to establishing any other connections.\nThe ground terminals are situated inside and outside the device:"
+    },
+    {
+      "kind": "list",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inner ground terminal: Connects the protectiv earth to the mains supply.",
+          "depth": 0
+        },
+        {
+          "text": "Outer ground terminal: Connects the device to the plant grounding system.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.4 Communication symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Wireless Local Area Network LED\n(WLAN) Light emitting diode is off.\nCommunication via a wireless, local\nnetwork."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "LED LED\nLight emitting diode is on. Light emitting diode is flashing."
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.5 Tool symbols"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Torx screwdriver Flat blade screwdriver"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Cross-head screwdriver Allen key"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Open-ended wrench"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1.1.6 Symbols in graphics"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Symbol Meaning Symbol Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "1, 2, 3,... Item numbers , , … Series of steps"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "A, B, C, ... Views A-A, B-B, C-C, ... Sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Hazardous area Safe area (non-hazardous area)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Flow direction"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "6 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Basic safety instructions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "1.1 Symbols used"
+      ],
+      "zone": "main",
+      "text": "2 Basic safety instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Requirements for the personnel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "text": "The personnel must fulfill the following requirements for its tasks:"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.1 Requirements for the personnel"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Trained, qualified specialists must have a relevant qualification for this specific function and task.",
+          "depth": 0
+        },
+        {
+          "text": "Are authorized by the plant owner/operator.",
+          "depth": 0
+        },
+        {
+          "text": "Are familiar with federal/national regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Before starting work, read and understand the instructions in the manual and supplementary documentation as well as the certificates (depending on the application).",
+          "depth": 0
+        },
+        {
+          "text": "Follow instructions and comply with basic conditions.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Designated use"
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Application and media\nThe measuring device described in these Brief Operating Instructions is intended only for flow\nmeasurement of liquids with a minimum conductivity of 5 µS/cm."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Depending on the version ordered, the measuring device can also measure potentially\nexplosive, flammable, poisonous and oxidizing media.\nMeasuring devices for use in hazardous areas, in hygienic applications or where there is an\nincreased risk due to process pressure, are labeled accordingly on the nameplate.\nTo ensure that the measuring device remains in proper condition for the operation time:"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Keep within the specified pressure and temperature range.",
+          "depth": 0
+        },
+        {
+          "text": "Only use the measuring device in full compliance with the data on the nameplate and the general conditions listed in the Operating Instructions and supplementary documentation.",
+          "depth": 0
+        },
+        {
+          "text": "Based on the nameplate, check whether the ordered device is permitted for the intended use in the hazardous area (e.g. explosion protection, pressure vessel safety).",
+          "depth": 0
+        },
+        {
+          "text": "Use the measuring device only for media to which the process-wetted materials are sufficiently resistant.",
+          "depth": 0
+        },
+        {
+          "text": "If the ambient temperature of the measuring device is outside the atmospheric temperature, it is absolutely essential to comply with the relevant basic conditions as specified in the device documentation.",
+          "depth": 0
+        },
+        {
+          "text": "Protect the measuring device permanently against corrosion from environmental influences.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Incorrect use\nNon-designated use can compromise safety. The manufacturer is not liable for damage caused\nby improper or non-designated use."
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "LWARNING\nDanger of breakage due to corrosive or abrasive fluids and ambient conditions!"
+    },
+    {
+      "kind": "list",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Verify the compatibility of the process fluid with the sensor material.",
+          "depth": 0
+        },
+        {
+          "text": "Ensure the resistance of all fluid-wetted materials in the process.",
+          "depth": 0
+        },
+        {
+          "text": "Keep within the specified pressure and temperature range.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 7,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 7"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Basic safety instructions Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "NOTICE\nVerification for borderline cases:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For special fluids and fluids for cleaning, Endress+Hauser is glad to provide assistance in verifying the corrosion resistance of fluid-wetted materials, but does not accept any warranty or liability as minute changes in the temperature, concentration or level of contamination in the process can alter the corrosion resistance properties.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "text": "Residual risks\nLWARNING\nThe electronics and the medium may cause the surfaces to heat up. This presents a burn\nhazard!"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.2 Designated use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For elevated fluid temperatures, ensure protection against contact to prevent burns.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Workplace safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "For work on and with the device:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Wear the required personal protective equipment according to federal/national regulations.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "For welding work on the piping:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not ground the welding unit via the measuring device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "text": "If working on and with the device with wet hands:"
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.3 Workplace safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Due to the increased risk of electric shock, gloves must be worn.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.4 Operational safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "text": "Risk of injury."
+    },
+    {
+      "kind": "list",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.4 Operational safety"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Operate the device in proper technical condition and fail-safe condition only.",
+          "depth": 0
+        },
+        {
+          "text": "The operator is responsible for interference-free operation of the device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.5 Product safety"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.5 Product safety"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.5 Product safety"
+      ],
+      "zone": "main",
+      "text": "This measuring device is designed in accordance with good engineering practice to meet state-\nof-the-art safety requirements, has been tested, and left the factory in a condition in which it\nis safe to operate.\nIt meets general safety standards and legal requirements. It also complies with the EU\ndirectives listed in the device-specific EU Declaration of Conformity. Endress+Hauser confirms\nthis by affixing the CE mark to the device."
+    },
+    {
+      "kind": "heading",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.6 IT security"
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "text": "Our warranty is valid only if the device is installed and used as described in the Operating\nInstructions. The device is equipped with security mechanisms to protect it against any\ninadvertent changes to the settings.\nIT security measures, which provide additional protection for the device and associated data\ntransfer, must be implemented by the operators themselves in line with their security\nstandards."
+    },
+    {
+      "kind": "paragraph",
+      "page": 8,
+      "section_path": [
+        "Proline 300",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "text": "8 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 300",
+        "2.6 IT security"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Basic safety instructions"
+    },
+    {
+      "kind": "heading",
+      "page": 9,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.7 Device-specific IT security"
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "The device offers a range of specific functions to support protective measures on the operator's\nside. These functions can be configured by the user and guarantee greater in-operation safety\nif used correctly.\nFor detailed information on device-specific IT security, see the Operating Instructions for\nthe device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "2.7.1 Access via service interface (CDI-RJ45)\nThe device can be connected to a network via the service interface (CDI-RJ45). Device-specific\nfunctions guarantee the secure operation of the device in a network.\nThe use of relevant industrial standards and guidelines that have been defined by national\nand international safety committees, such as IEC/ISA62443 or the IEEE, is recommended.\nThis includes organizational security measures such as the assignment of access authorization\nas well as technical measures such as network segmentation."
+    },
+    {
+      "kind": "paragraph",
+      "page": 9,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 9"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Product description Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "3 Product description\nThe device consists of a Proline 300 transmitter and an electromagnetic Proline Promag\nsensor.\nThe device is available as a compact version:\nThe transmitter and sensor form a mechanical unit."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "A0029586"
+    },
+    {
+      "kind": "table",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Connection compartment cover"
+        ],
+        [
+          "2",
+          "Display module"
+        ],
+        [
+          "3",
+          "Transmitter housing"
+        ],
+        [
+          "4",
+          "Electronics compartment cover"
+        ],
+        [
+          "5",
+          "Sensor"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Use of the device with the remote display and operating module DKX001 →  20."
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "For detailed information on the product description, see the Operating Instructions for\nthe device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 10,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "10 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Installation"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "2.7 Device-specific IT security"
+      ],
+      "zone": "main",
+      "text": "4 Installation\nFor detailed information about mounting the sensor, see the Sensor Brief Operating\nInstructions →  3"
+    },
+    {
+      "kind": "heading",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Turning the transmitter housing"
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "text": "To provide easier access to the connection compartment or display module, the transmitter\nhousing can be turned."
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "text": "A0029993"
+    },
+    {
+      "kind": "list",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Depending on the device version: Loosen the securing clamp of the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Unscrew the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Release the fixing screw.",
+          "depth": 0
+        },
+        {
+          "text": "Turn the housing to the desired position.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the securing screw.",
+          "depth": 0
+        },
+        {
+          "text": "Screw on the connection compartment cover",
+          "depth": 0
+        },
+        {
+          "text": "Depending on the device version: Attach the securing clamp of the connection compartment cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 11,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 11"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.1 Turning the transmitter housing"
+      ],
+      "zone": "main",
+      "text": "Installation Flowmeter Proline 300"
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.2 Turning the display module"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Turning the display module"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.2 Turning the display module"
+      ],
+      "zone": "main",
+      "text": "The display module can be turned to optimize display readability and operability."
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.2 Turning the display module"
+      ],
+      "zone": "main",
+      "text": "A0030035"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.2 Turning the display module"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Depending on the device version: Loosen the securing clamp of the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Unscrew the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Turn the display module to the desired position: max. 8 × 45° in each direction.",
+          "depth": 0
+        },
+        {
+          "text": "Screw on the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Depending on the device version: Attach the securing clamp of the connection compartment cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Transmitter post-installation check"
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "The post-installation check must always be performed after the following tasks:"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Turning the transmitter housing",
+          "depth": 0
+        },
+        {
+          "text": "Turning the display module",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "Is the device undamaged (visual inspection)? \nTurning the transmitter housing:"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Is the securing screw firmly tightened? ",
+          "depth": 0
+        },
+        {
+          "text": "Is the connection compartment cover screwed on tightly?",
+          "depth": 0
+        },
+        {
+          "text": "Is the securing clamp firmly tightened?",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "Turning the display module:"
+    },
+    {
+      "kind": "list",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Is the connection compartment cover screwed on tightly? ",
+          "depth": 0
+        },
+        {
+          "text": "Is the securing clamp firmly tightened?",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 12,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "12 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "text": "5 Electrical connection\nNOTICE\nThe measuring device does not have an internal circuit breaker."
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "4.3 Transmitter post-installation check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For this reason, assign the measuring device a switch or power-circuit breaker so that the power supply line can be easily disconnected from the mains.",
+          "depth": 0
+        },
+        {
+          "text": "Although the measuring device is equipped with a fuse, additional overcurrent protection (maximum 10 A) should be integrated into the system installation.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Connection conditions"
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.1 Required tools"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For cable entries: Use corresponding tools",
+          "depth": 0
+        },
+        {
+          "text": "For securing clamp: Allen key 3 mm",
+          "depth": 0
+        },
+        {
+          "text": "Wire stripper",
+          "depth": 0
+        },
+        {
+          "text": "When using stranded cables: Crimper for wire end ferrule",
+          "depth": 0
+        },
+        {
+          "text": "For removing cables from terminal: Flat blade screwdriver ≤ 3 mm (0.12 in)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.2 Connecting cable requirements\nThe connecting cables provided by the customer must fulfill the following requirements."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical safety\nIn accordance with applicable federal/national regulations."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Protective ground cable\nCable ≥2.08 mm2 (14 AWG)\nThe grounding impedance must be less than 1 Ω."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Permitted temperature range"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The installation guidelines that apply in the country of installation must be observed.",
+          "depth": 0
+        },
+        {
+          "text": "The cables must be suitable for the minimum and maximum temperatures to be expected.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Power supply cable\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Cable diameter"
+    },
+    {
+      "kind": "list",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cable glands supplied: M20 × 1.5 with cable ⌀ 6 to 12 mm (0.24 to 0.47 in)",
+          "depth": 0
+        },
+        {
+          "text": "Spring-loaded terminals: Suitable for strands and strands with ferrules. Conductor cross-section 0.2 to 2.5 mm2 (24 to 12 AWG).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 13,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 13"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Signal cable\nPROFIBUS DP\nThe IEC 61158 standard specifies two types of cable (A and B) for the bus line which can be\nused for every transmission rate. Cable type A is recommended.\nFor detailed information about the specification of the connecting cable, see the\nOperating Instructions for the device.\nFor further information on planning and installing PROFIBUS networks see:\nOperating Instructions \"PROFIBUS DP/PA: Guidelines for planning and commissioning\"\n(BA00034S)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Current output 0/4 to 20 mA\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Pulse/frequency/switch output\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Relay output\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Current input 0/4 to 20 mA\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Status input\nStandard installation cable is sufficient."
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Requirements for the connecting cable"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Optionally available connecting cable\nA cable is supplied depending on the order option"
+    },
+    {
+      "kind": "list",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Order code for measuring device: order code 030 for \"Display; operation\", option O or",
+          "depth": 0
+        },
+        {
+          "text": "Order code for measuring device: order code 030 for \"Display; operation\", option M and",
+          "depth": 0
+        },
+        {
+          "text": "Order code for DKX001: order code 040 for \"Cable\", option A, B, D, E",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Standard cable 2 × 2 × 0.34 mm2 (22 AWG) PVC cable with common shield (2 pairs, pair-stranded)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Flame resistance According to DIN EN 60332-1-2"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Oil-resistance According to DIN EN 60811-2-1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Shielding Tin-plated copper-braid, optical cover ≥ 85 %"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Capacitance: core/shield ≤200 pF/m"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "L/R ≤24 µH/Ω"
+    },
+    {
+      "kind": "paragraph",
+      "page": 14,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "14 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Available cable length 5 m (15 ft)/10 m (35 ft)/20 m (65 ft)/30 m (100 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Operating temperature When mounted in a fixed position: –50 to +105 °C (–58 to +221 °F); when cable can\nmove freely: –25 to +105 °C (–13 to +221 °F)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Standard cable - customer-specific cable\nNo cable is supplied, and it must be provided by the customer (up to max. 300 m (1 000 ft))\nfor the following order option:\nOrder code for DKX001: Order code 040 for \"Cable\", option 1 \"None, provided by customer, max\n300 m\"\nA standard cable can be used as the connecting cable."
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Standard cable 4 cores (2 pairs); pair-stranded with common shield"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Shielding Tin-plated copper-braid, optical cover ≥ 85 %"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Capacitance: core/shield Maximum 1 000 nF for Zone 1, Class I, Division 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "L/R Maximum 24 µH/Ω for Zone 1, Class I, Division 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Cable length Maximum 300 m (1 000 ft), see the following table"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Max. cable length for use in\nCross-section Non-hazardous area,\nEx Zone 2, Class I, Division 2\nEx Zone 1, Class I, Division 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.34 mm2 (22 AWG) 80 m (270 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.50 mm2 (20 AWG) 120 m (400 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "0.75 mm2 (18 AWG) 180 m (600 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1.00 mm2 (17 AWG) 240 m (800 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1.50 mm2 (15 AWG) 300 m (1 000 ft)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 15,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 15"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.3 Terminal assignment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Transmitter: supply voltage, input/outputs\nThe terminal assignment of the inputs and outputs depends on the individual order version of\nthe device. The device-specific terminal assignment is documented on an adhesive label in the\nterminal cover."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Supply voltage Input/output 1 Input/output 2 Input/output 3"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "1 (+) 2 (–) 26 (B) 27 (A) 24 (+) 25 (–) 22 (+) 23 (–)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Device-specific terminal assignment: adhesive label in terminal cover."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "Terminal assignment of the remote display and operating module →  20."
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "text": "5.1.4 Preparing the measuring device\nNOTICE\nInsufficient sealing of the housing!\nOperational reliability of the measuring device could be compromised."
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Use suitable cable glands corresponding to the degree of protection.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.1 Connection conditions"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Remove dummy plug if present.",
+          "depth": 0
+        },
+        {
+          "text": "If the measuring device is supplied without cable glands: Provide suitable cable gland for corresponding connecting cable.",
+          "depth": 0
+        },
+        {
+          "text": "If the measuring device is supplied with cable glands: Observe requirements for connecting cables →  13.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Connecting the measuring device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "NOTICE\nLimitation of electrical safety due to incorrect connection!"
+    },
+    {
+      "kind": "list",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Have electrical connection work carried out by appropriately trained specialists only.",
+          "depth": 0
+        },
+        {
+          "text": "Observe applicable federal/national installation codes and regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Comply with local workplace safety regulations.",
+          "depth": 0
+        },
+        {
+          "text": "Always connect the protective ground cable  before connecting additional cables.",
+          "depth": 0
+        },
+        {
+          "text": "For use in potentially explosive atmospheres, observe the information in the device-specific Ex documentation.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 16,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "16 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "5.2.1 Connecting the transmitter"
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0026781"
+    },
+    {
+      "kind": "table",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Terminal connection for supply voltage"
+        ],
+        [
+          "2",
+          "Terminal connection for signal transmission, input/output"
+        ],
+        [
+          "3",
+          "Terminal connection for signal transmission, input/output or terminal connection for network connection via service interface (CDI-RJ45); optional: connection for external WLAN antenna or remote display and operating module DKX001"
+        ],
+        [
+          "4",
+          "Protective earth (PE)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029813"
+    },
+    {
+      "kind": "list",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Loosen the securing clamp of the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Unscrew the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Squeeze the tabs of the display module holder together.",
+          "depth": 0
+        },
+        {
+          "text": "Remove the display module holder.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 17,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 17"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029814"
+    },
+    {
+      "kind": "list",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Attach the holder to the edge of the electronics compartment.",
+          "depth": 0
+        },
+        {
+          "text": "Open the terminal cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029815"
+    },
+    {
+      "kind": "list",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Push the cable through the cable entry . To ensure tight sealing, do not remove the sealing ring from the cable entry.",
+          "depth": 0
+        },
+        {
+          "text": "Strip the cable and cable ends. In the case of stranded cables, also fit ferrules.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the protective ground.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 18,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "18 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0029816"
+    },
+    {
+      "kind": "list",
+      "page": 19,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the cable in accordance with the terminal assignment .  Signal cable terminal assignment: The device-specific terminal assignment is documented on an adhesive label in the terminal cover. Supply voltage terminal assignment: Adhesive label in the terminal cover or →  16.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands.  This concludes the cable connection process.",
+          "depth": 0
+        },
+        {
+          "text": "Close the terminal cover.",
+          "depth": 0
+        },
+        {
+          "text": "Fit the display module holder in the electronics compartment.",
+          "depth": 0
+        },
+        {
+          "text": "Screw on the connection compartment cover.",
+          "depth": 0
+        },
+        {
+          "text": "Secure the securing clamp of the connection compartment cover.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 19,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 19"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "5.2.2 Connecting the remote display and operating module DKX001\nThe remote display and operating module DKX001 is available as an optional extra."
+    },
+    {
+      "kind": "list",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The remote display and operating module DKX001 is only available for the following housing version: order code for \"Housing\": option A \"Aluminum, coated\"",
+          "depth": 0
+        },
+        {
+          "text": "The measuring device is always supplied with a dummy cover when the remote display and operating module DKX001 is ordered directly with the measuring device. Display or operation at the transmitter is not possible in this case.",
+          "depth": 0
+        },
+        {
+          "text": "If ordered subsequently, the remote display and operating module DKX001 may not be connected at the same time as the existing measuring device display module. Only one display or operation unit may be connected to the transmitter at any one time.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "text": "A0027518"
+    },
+    {
+      "kind": "table",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.2 Connecting the measuring device"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Remote display and operating module DKX001"
+        ],
+        [
+          "2",
+          "Protective earth (PE)"
+        ],
+        [
+          "3",
+          "Connecting cable"
+        ],
+        [
+          "4",
+          "Measuring device"
+        ],
+        [
+          "5",
+          "Protective earth (PE)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Ensuring potential equalization"
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "5.3.1 Proline Promag H\nFor devices intended for use in hazardous locations, please observe the guidelines in the\nEx documentation (XA)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Metal process connections\nPotential equalization is generally via the metal process connections that are in contact with\nthe medium and mounted directly on the sensor. Therefore there is generally no need for\nadditional potential equalization measures."
+    },
+    {
+      "kind": "paragraph",
+      "page": 20,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "20 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Plastic process connections\nIn the case of plastic process connections, additional grounding rings or process connections\nwith an integrated grounding electrode must be used to ensure potential matching between\nthe sensor and the fluid. If there is no potential matching, this can affect the measuring\naccuracy or cause the destruction of the sensor as a result of the electrochemical\ndecomposition of the electrodes.\nNote the following when using grounding rings:"
+    },
+    {
+      "kind": "list",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Depending on the option ordered, plastic disks are used instead of grounding rings on some process connections. These plastic disks only act as \"spacers\" and do not have any potential matching function. Furthermore, they also perform a significant sealing function at the sensor/connection interface. Therefore, in the case of process connections without metal grounding rings, these plastic disks/seals should never be removed and should always be installed!",
+          "depth": 0
+        },
+        {
+          "text": "Grounding rings can be ordered separately as an accessory from Endress+Hauser . When ordering make sure that the grounding rings are compatible with the material used for the electrodes, as otherwise there is the danger that the electrodes could be destroyed by electrochemical corrosion!",
+          "depth": 0
+        },
+        {
+          "text": "Grounding rings, including seals, are mounted inside the process connections. Therefore the installation length is not affected.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Potential equalization via additional grounding ring"
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0028971"
+    },
+    {
+      "kind": "table",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Hexagonal-headed bolts of process connection"
+        ],
+        [
+          "2",
+          "O-ring seals"
+        ],
+        [
+          "3",
+          "Plastic disk (spacer) or grounding ring"
+        ],
+        [
+          "4",
+          "Sensor"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 21,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 21"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Potential equalization via grounding electrodes on process connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0028972"
+    },
+    {
+      "kind": "table",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Hexagonal-headed bolts of process connection"
+        ],
+        [
+          "2",
+          "Integrated grounding electrodes"
+        ],
+        [
+          "3",
+          "O-ring seal"
+        ],
+        [
+          "4",
+          "Sensor"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "5.3.2 Promag P\nFor devices intended for use in hazardous locations, please observe the guidelines in the\nEx documentation (XA)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Metal, grounded pipe"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0016315\n 1 Potential equalization via measuring tube"
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Unlined and ungrounded metal pipe\nThis connection method also applies in situations where:"
+    },
+    {
+      "kind": "list",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The customary potential equalization is not used",
+          "depth": 0
+        },
+        {
+          "text": "Equalizing currents are present",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 22,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "22 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029338\n 2 Potential equalization via ground terminal and pipe flanges"
+    },
+    {
+      "kind": "list",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect both sensor flanges to the pipe flange via a ground cable and ground them.",
+          "depth": 0
+        },
+        {
+          "text": "If DN ≤ 300 (12\"): Mount the ground cable directly on the conductive flange coating of the sensor with the flange screws.",
+          "depth": 0
+        },
+        {
+          "text": "If DN ≥ 350 (14\"): Mount the ground cable directly on the metal transport bracket. Observe screw tightening torques: see the Sensor Brief Operating Instructions.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the connection housing of the transmitter or sensor to ground potential by means of the ground terminal provided for the purpose.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Plastic pipe or pipe with insulating liner\nThis connection method also applies in situations where:"
+    },
+    {
+      "kind": "list",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The customary potential equalization is not used",
+          "depth": 0
+        },
+        {
+          "text": "Equalizing currents are present",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029339\n 3 Potential equalization via ground terminal and ground disks"
+    },
+    {
+      "kind": "list",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the ground disks to the ground terminal via the ground cable.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the ground disks to ground potential.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 23,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 23"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Pipe with a cathodic protection unit\nThis connection method is only used if the following two conditions are met:"
+    },
+    {
+      "kind": "list",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Metal pipe without liner or pipe with electrically conductive liner",
+          "depth": 0
+        },
+        {
+          "text": "Cathodic protection is integrated in the personal protection equipment",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Ground cable Copper wire, at least 6 mm2 (0.0093 in2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "A0029340"
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Prerequisite: The sensor is installed in the pipe in a way that provides electrical insulation."
+    },
+    {
+      "kind": "list",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Connect the two flanges of the pipe to one another via a ground cable.",
+          "depth": 0
+        },
+        {
+          "text": "Guide the shield of the signal lines through a capacitor.",
+          "depth": 0
+        },
+        {
+          "text": "Connect the measuring device to the power supply such that it is floating in relation to the protective ground (isolation transformer).",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 24,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "24 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.3 Ensuring potential equalization"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "heading",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.4 Hardware settings"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.1 Setting the device address\nThe address must always be configured for a PROFIBUS DP/PA device. The valid address\nrange is between 1 and 126. In a PROFIBUS DP/PA network, each address can only be\nassigned once. If an address is not configured correctly, the device is not recognized by the\nmaster. All measuring devices are delivered from the factory with the device address 126 and\nwith the software addressing method."
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Hardware addressing\n1."
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0029637"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Set the desired device address using the DIP switches in the connection compartment.\n2."
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0029633"
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "To switch addressing from software addressing to hardware addressing: set the DIP\nswitch to On.\n The change of device address takes effect after 10 seconds. The device is restarted."
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Software addressing"
+    },
+    {
+      "kind": "list",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To switch addressing from hardware addressing to software addressing: set DIP switch No. 4 to Off.  The device address configured in the Device address parameter takes effect after 10 seconds. The device is restarted.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 25,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 25"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Electrical connection Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.2 Enabling the terminating resistor\nTo avoid incorrect communication transmission caused by impedance mismatch, terminate\nthe PROFIBUS DP cable correctly at the start and end of the bus segment."
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the device is operated with a baud rate of 1.5 MBaud and under: For the last transmitter on the bus, terminate by setting DIP switch 3 (bus termination) to ON.",
+          "depth": 0
+        },
+        {
+          "text": "For baud rates > 1.5 MBaud: Due to the capacitance load of the user and the line reflections generated as a result, ensure that an external bus terminator is used. It is generally advisable to use an external bus terminator as the entire segment can fail if a device that is terminated internally is defective.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "‣"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0029632"
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Set DIP switch No. 3 to ON."
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "5.4.3 Activating the default IP address\nThe default IP address 192.168.1.212 can be activated by DIP switch."
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Risk of electric shock when opening the transmitter housing."
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before opening the transmitter housing:",
+          "depth": 0
+        },
+        {
+          "text": "Disconnect the device from the power supply.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "A0034499"
+    },
+    {
+      "kind": "list",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Set DIP switch No. 2 on the I/O electronics module from OFF → ON.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 26,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "26 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.4 Hardware settings"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Electrical connection"
+    },
+    {
+      "kind": "heading",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.5 Ensuring the degree of protection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "The measuring device fulfills all the requirements for the IP66/67 degree of protection, Type\n4X enclosure."
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "To guarantee IP66/67 degree of protection, Type 4X enclosure, carry out the following steps\nafter the electrical connection:"
+    },
+    {
+      "kind": "list",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Check that the housing seals are clean and fitted correctly.",
+          "depth": 0
+        },
+        {
+          "text": "Dry, clean or replace the seals if necessary.",
+          "depth": 0
+        },
+        {
+          "text": "Tighten all housing screws and screw covers.",
+          "depth": 0
+        },
+        {
+          "text": "Firmly tighten the cable glands.",
+          "depth": 0
+        },
+        {
+          "text": "To ensure that moisture does not enter the cable entry: Route the cable so that it loops down before the cable entry (\"water trap\"). ",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "text": "A0029278"
+    },
+    {
+      "kind": "list",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.5 Ensuring the degree of protection"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Insert dummy plugs into unused cable entries.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.6 Post-connection check"
+    },
+    {
+      "kind": "table",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Are cables or the device undamaged (visual inspection)?",
+          ""
+        ],
+        [
+          "Do the cables used meet the requirements?",
+          ""
+        ],
+        [
+          "Do the cables have adequate strain relief?",
+          ""
+        ],
+        [
+          "Are all the cable glands installed, firmly tightened and leak-tight? Cable run with \"water trap\" →   27?",
+          ""
+        ],
+        [
+          "If supply voltage is present, do values appear on the display module?",
+          ""
+        ],
+        [
+          "Is the potential equalization established correctly ?",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 27,
+      "section_path": [
+        "Proline 300",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 27"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "text": "Operation options Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "5.6 Post-connection check"
+      ],
+      "zone": "main",
+      "text": "6 Operation options"
+    },
+    {
+      "kind": "heading",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Overview of operation options"
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "text": "A0034513"
+    },
+    {
+      "kind": "table",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Local operation via display module"
+        ],
+        [
+          "2",
+          "Computer with Web browser (e.g. Internet Explorer) or with operating tool (e.g. FieldCare, DeviceCare, AMS Device Manager, SIMATIC PDM)"
+        ],
+        [
+          "3",
+          "Field Xpert SFX350 or SFX370"
+        ],
+        [
+          "4",
+          "Field Xpert SMT70"
+        ],
+        [
+          "5",
+          "Mobile handheld terminal"
+        ],
+        [
+          "6",
+          "Control system (e.g. PLC)"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 28,
+      "section_path": [
+        "Proline 300",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "text": "28 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.1 Overview of operation options"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Operation options"
+    },
+    {
+      "kind": "heading",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Structure and function of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "6.2.1 Structure of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "A0014058-EN\n 4 Schematic structure of the operating menu"
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "6.2.2 Operating philosophy\nThe individual parts of the operating menu are assigned to certain user roles (operator,\nmaintenance etc.). Each user role contains typical tasks within the device lifecycle.\nFor detailed information on the operating philosophy, see the Operating Instructions for\nthe device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 29,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 29"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 300",
+        "6.2 Structure and function of the operating menu"
+      ],
+      "zone": "main",
+      "text": "Operation options Flowmeter Proline 300"
+    },
+    {
+      "kind": "heading",
+      "page": 30,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Access to the operating menu via the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "A0014013"
+    },
+    {
+      "kind": "table",
+      "page": 30,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Operational display with measured value shown as \"1 value, max.\" (example)"
+        ],
+        [
+          "1.1",
+          "Device tag"
+        ],
+        [
+          "1.2",
+          "Display area for measured values (4-line)"
+        ],
+        [
+          "1.3",
+          "Explanatory symbols for measured value: Measured value type, measuring channel number, symbol for diagnostic behavior"
+        ],
+        [
+          "1.4",
+          "Status area"
+        ],
+        [
+          "1.5",
+          "Measured value"
+        ],
+        [
+          "1.6",
+          "Unit for the measured value"
+        ],
+        [
+          "1.7",
+          "Operating elements"
+        ],
+        [
+          "2",
+          "Operational display with measured value shown as \"1 bar graph + 1 value\" (example)"
+        ],
+        [
+          "2.1",
+          "Bar graph display for measured value 1"
+        ],
+        [
+          "2.2",
+          "Measured value 1 with unit"
+        ],
+        [
+          "2.3",
+          "Explanatory symbols for measured value 1: measured value type, measuring channel number"
+        ],
+        [
+          "2.4",
+          "Measured value 2"
+        ],
+        [
+          "2.5",
+          "Unit for measured value 2"
+        ],
+        [
+          "2.6",
+          "Explanatory symbols for measured value 2: measured value type, measuring channel number"
+        ],
+        [
+          "3",
+          "Navigation view: picklist of a parameter"
+        ],
+        [
+          "3.1",
+          "Navigation path and status area"
+        ],
+        [
+          "3.2",
+          "Display area for navigation:  designates the current parameter value"
+        ],
+        [
+          "4",
+          "Editing view: text editor with input mask"
+        ],
+        [
+          "5",
+          "Editing view: numeric editor with input mask"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 30,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "30 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Operation options"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.1 Operational display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Explanatory symbols for the measured value Status area"
+    },
+    {
+      "kind": "list",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Depends on the device version, e.g.: The following symbols appear in the status area of the",
+          "depth": 0
+        },
+        {
+          "text": ": Volume flow operational display at the top right:",
+          "depth": 1
+        },
+        {
+          "text": ": Mass flow • Status signals",
+          "depth": 1
+        },
+        {
+          "text": ": Density – F: Failure",
+          "depth": 1
+        },
+        {
+          "text": "G: Conductivity – C: Function check",
+          "depth": 1
+        },
+        {
+          "text": ": Temperature – S: Out of specification",
+          "depth": 1
+        },
+        {
+          "text": ": Totalizer – M: Maintenance required",
+          "depth": 0
+        },
+        {
+          "text": ": Output • Diagnostic behavior",
+          "depth": 0
+        },
+        {
+          "text": ": Input – : Alarm",
+          "depth": 0
+        },
+        {
+          "text": ": Measurement channel number 1) – : Warning",
+          "depth": 0
+        },
+        {
+          "text": "Diagnostic behavior 2) • : Locking (locked via hardware))",
+          "depth": 0
+        },
+        {
+          "text": ": Alarm • : Communication via remote operation is active.",
+          "depth": 1
+        },
+        {
+          "text": ": Warning",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If there is more than one channel for the same measured variable type (totalizer, output etc.).",
+          "depth": 0
+        },
+        {
+          "text": "For a diagnostic event that concerns the displayed measured variable.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.2 Navigation view"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Status area Display area"
+    },
+    {
+      "kind": "table",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "The following appears in the status area of the navigation",
+          "",
+          "•",
+          "Icons for menus",
+          ""
+        ],
+        [
+          "view in the top right corner:",
+          "",
+          "",
+          "–",
+          ": Operation"
+        ],
+        [
+          "•",
+          "In the submenu",
+          "",
+          "–",
+          ": Setup"
+        ],
+        [
+          "",
+          "– The direct access code for the parameter you are",
+          "",
+          "–",
+          ": Diagnostics"
+        ],
+        [
+          "",
+          "navigating to (e.g. 0022-1)",
+          "",
+          "–",
+          ": Expert"
+        ],
+        [
+          "",
+          "– If a diagnostic event is present, the diagnostic",
+          "•",
+          "▸: Submenus",
+          ""
+        ],
+        [
+          "",
+          "behavior and status signal",
+          "•",
+          ": Wizards",
+          ""
+        ],
+        [
+          "•",
+          "In the wizard",
+          "•",
+          ": Parameters within a wizard",
+          ""
+        ],
+        [
+          "",
+          "If a diagnostic event is present, the diagnostic behavior and status signal",
+          "•",
+          ": Parameter locked",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.3 Editing view"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Text editor Correction symbols under"
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Confirms selection. Clears all entered characters."
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Exits the input without applying the changes. Moves the input position one position to the\nright."
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Clears all entered characters. Moves the input position one position to the left."
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Switches to the selection of the correction tools. Deletes one character immediately to the left of\nthe input position."
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Toggle"
+    },
+    {
+      "kind": "list",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Between upper-case and lower-case letters",
+          "depth": 0
+        },
+        {
+          "text": "For entering numbers",
+          "depth": 0
+        },
+        {
+          "text": "For entering special characters",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 31,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Operation options Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Numeric editor"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Confirms selection. Moves the input position one position to the left."
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Exits the input without applying the changes. Inserts decimal separator at the input position."
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Inserts minus sign at the input position. Clears all entered characters."
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.4 Operating elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Keys and meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Enter key"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With an operational display\nPressing the key briefly opens the operating menu.\nIn a menu, submenu"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Pressing the key briefly:",
+          "depth": 0
+        },
+        {
+          "text": "Opens the selected menu, submenu or parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Starts the wizard.",
+          "depth": 1
+        },
+        {
+          "text": "If help text is open: Closes the help text of the parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Pressing the key for 2 s in the case of a parameter: If present, opens the help text for the function of the parameter.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With a wizard: Opens the editing view of the parameter.\nWith a text and numeric editor"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Press the key briefly: confirm your selection.",
+          "depth": 0
+        },
+        {
+          "text": "Press the key for 2 s: confirm the entry.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Minus key"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In a menu, submenu: Moves the selection bar upwards in a picklist.",
+          "depth": 0
+        },
+        {
+          "text": "With a wizard: Confirms the parameter value and goes to the previous parameter.",
+          "depth": 0
+        },
+        {
+          "text": "With a text and numeric editor: Moves the cursor position to the left.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Plus key"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In a menu, submenu: Moves the selection bar downwards in a picklist.",
+          "depth": 0
+        },
+        {
+          "text": "With a wizard: Confirms the parameter value and goes to the next parameter.",
+          "depth": 0
+        },
+        {
+          "text": "With a text and numeric editor: Moves the cursor position to the right.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "+ Escape key combination (press keys simultaneously)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "In a menu, submenu"
+    },
+    {
+      "kind": "list",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Pressing the key briefly:",
+          "depth": 0
+        },
+        {
+          "text": "Exits the current menu level and takes you to the next higher level.",
+          "depth": 1
+        },
+        {
+          "text": "If help text is open, closes the help text of the parameter.",
+          "depth": 1
+        },
+        {
+          "text": "Pressing the key for 2 s in the case of a parameter: Returns you to the operational display (\"home position\").",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With a wizard: Exits the wizard and takes you to the next higher level.\nWith a text and numeric editor: Closes the editor view without applying any changes."
+    },
+    {
+      "kind": "paragraph",
+      "page": 32,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "32 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 System integration"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "Keys and meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "+ Minus/Enter key combination (press the keys simultaneously)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "With an operational display:"
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If keypad lock is active: Press the key for 3 s: Deactivates the keypad lock.",
+          "depth": 0
+        },
+        {
+          "text": "If keypad lock is not active: Press the key for 3 s: Opens the context menu including the option for activating the keypad lock.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "text": "6.3.5 Further information\nFor further information on the following topics, see the Operating Instructions for the\ndevice"
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.3 Access to the operating menu via the local display"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Calling up help text",
+          "depth": 0
+        },
+        {
+          "text": "User roles and related access authorization",
+          "depth": 0
+        },
+        {
+          "text": "Disabling write protection via access code",
+          "depth": 0
+        },
+        {
+          "text": "Enabling and disabling the keypad lock",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.4 Access to the operating menu via the operating tool"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Access to the operating menu via the operating tool"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.4 Access to the operating menu via the operating tool"
+      ],
+      "zone": "main",
+      "text": "The operating menu can also be accessed via the FieldCare and DeviceCare operating\ntools. See the Operating Instructions for the device."
+    },
+    {
+      "kind": "heading",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.5 Access to the operating menu via the Web server"
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "The operating menu can also be accessed via the Web server. See the Operating\nInstructions for the device."
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "7 System integration\nFor detailed information on system integration, see the Operating Instructions for the\ndevice."
+    },
+    {
+      "kind": "list",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Overview of device description files:",
+          "depth": 0
+        },
+        {
+          "text": "Current version data for the device",
+          "depth": 1
+        },
+        {
+          "text": "Operating tools",
+          "depth": 1
+        },
+        {
+          "text": "Device master file (GSD)",
+          "depth": 0
+        },
+        {
+          "text": "Manufacturer-specific GSD",
+          "depth": 1
+        },
+        {
+          "text": "Profile GSD",
+          "depth": 1
+        },
+        {
+          "text": "Compatibility with previous model",
+          "depth": 0
+        },
+        {
+          "text": "Using the GSD modules of the previous model",
+          "depth": 0
+        },
+        {
+          "text": "Cyclic data transmission",
+          "depth": 0
+        },
+        {
+          "text": "Block model",
+          "depth": 1
+        },
+        {
+          "text": "Description of the modules",
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 33,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 33"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "Commissioning Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "6.5 Access to the operating menu via the Web server"
+      ],
+      "zone": "main",
+      "text": "8 Commissioning"
+    },
+    {
+      "kind": "heading",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Function check"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "text": "Before commissioning the measuring device:"
+    },
+    {
+      "kind": "list",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Make sure that the post-installation and post-connection checks have been performed.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.1 Function check"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "\"Post-installation check\" checklist →  12",
+          "depth": 0
+        },
+        {
+          "text": "\"Post-connection check\" checklist →  27",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Setting the operating language"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "Factory setting: English or ordered local language"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "A0029420\n 5 Taking the example of the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 34,
+      "section_path": [
+        "Proline 300",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "34 Endress+Hauser"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.2 Setting the operating language"
+      ],
+      "zone": "main",
+      "text": "Flowmeter Proline 300 Commissioning"
+    },
+    {
+      "kind": "heading",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.3 Configuring the measuring device"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "The Setup menu with its submenus and guided wizards is used for fast commissioning of the\ndevice. They contain all the parameters required for configuration, such as for measurement\nor communication.\nDepending on the device version, not all submenus and parameters are available in every\ndevice. The selection can vary depending on the order code."
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Example: Available submenus, wizards Meaning"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "System units Configure the units for all measured values"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "User interface Configure the display format on the local display"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Low flow cut off Set the low flow cut off"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Empty pipe detection Configure empty pipe detection"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "text": "Advanced setup Additional parameters for configuration:"
+    },
+    {
+      "kind": "list",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.3 Configuring the measuring device"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Sensor adjustment",
+          "depth": 0
+        },
+        {
+          "text": "Totalizer",
+          "depth": 0
+        },
+        {
+          "text": "User interface",
+          "depth": 0
+        },
+        {
+          "text": "Electrode cleaning circuit",
+          "depth": 0
+        },
+        {
+          "text": "WLAN settings",
+          "depth": 0
+        },
+        {
+          "text": "Data backup",
+          "depth": 0
+        },
+        {
+          "text": "Administration",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.4 Protecting settings from unauthorized access"
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "The following write protection options exist in order to protect the configuration of the\nmeasuring device from unintentional modification:"
+    },
+    {
+      "kind": "list",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Protect access to parameters via access code",
+          "depth": 0
+        },
+        {
+          "text": "Protect access to local operation via key locking",
+          "depth": 0
+        },
+        {
+          "text": "Protect access to measuring device via write protection switch For detailed information on protecting the settings against unauthorized access, see the Operating Instructions for the device.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 35,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "Endress+Hauser 35"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "Diagnostic information Flowmeter Proline 300"
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "9 Diagnostic information\nFaults detected by the self-monitoring system of the measuring device are displayed as a\ndiagnostic message in alternation with the operational display. The message about remedial\nmeasures can be called up from the diagnostic message, and contains important information\non the fault."
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "A0029431-EN\n 6 Message about remedial measures"
+    },
+    {
+      "kind": "table",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "1",
+          "Diagnostic information"
+        ],
+        [
+          "2",
+          "Short text"
+        ],
+        [
+          "3",
+          "Service ID"
+        ],
+        [
+          "4",
+          "Diagnostic behavior with diagnostic code"
+        ],
+        [
+          "5",
+          "Operation time of occurrence"
+        ],
+        [
+          "6",
+          "Remedial measures"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "list",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "The user is in the diagnostic message. Press  ( symbol).  The Diagnostic list submenu opens.",
+          "depth": 0
+        },
+        {
+          "text": "Select the desired diagnostic event with  or  and press  .  The message about the remedial measures opens.",
+          "depth": 0
+        },
+        {
+          "text": "Press  +  simultaneously.  The message about the remedial measures closes.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 36,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access"
+      ],
+      "zone": "main",
+      "text": "36 Endress+Hauser"
+    },
+    {
+      "kind": "heading",
+      "page": 40,
+      "section_path": [
+        "Proline 300",
+        "8.4 Protecting settings from unauthorized access",
+        "www.addresses.endress.com"
+      ],
+      "zone": "main",
+      "level": 3,
+      "text": "www.addresses.endress.com"
+    }
+  ]
+}

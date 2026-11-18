@@ -1,0 +1,1798 @@
+{
+  "doc_id": "D034",
+  "format": "pdf",
+  "page_count": 6,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 1/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 1: Identification of the substance/mixture and of the company/"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/"
+      ],
+      "zone": "main",
+      "text": "undertaking"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.1 Product identifier"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.1 Product identifier"
+      ],
+      "zone": "main",
+      "text": "Synonym: pH Buffer Solution 12.00\nArticle number: CPY20-M"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.2 Relevant identified uses of the substance or mixture and uses advised against"
+      ],
+      "zone": "main",
+      "text": "Product category PC21 Laboratory chemicals\nApplication of the substance / the mixture Laboratory chemicals"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.3 Details of the supplier of the safety data sheet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.3 Details of the supplier of the safety data sheet"
+      ],
+      "zone": "main",
+      "text": "Manufacturer/Supplier:\nEndress+Hauser\nConducta GmbH+Co. KG\nDieselstraße 24\nD-70839 Gerlingen\nFurther information obtainable from:\nPhone: +49 (0)7156 209-10117\nE-Mail: MSDS.PCC@endress.com"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 1: Identification of the substance/mixture and of the company/",
+        "1.4 Emergency telephone number: Phone: +49(0)6131-19240"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "1.4 Emergency telephone number: Phone: +49(0)6131-19240"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 2: Hazards identification"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.1 Classification of the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.1 Classification of the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Classification according to Regulation (EC) No 1272/2008\nThe product is not classified, according to the CLP regulation."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.2 Label elements"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.2 Label elements"
+      ],
+      "zone": "main",
+      "text": "Labelling according to Regulation (EC) No 1272/2008 Void\nHazard pictograms Void\nSignal word Void\nHazard statements Void"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3 Other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "2.3 Other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3 Other hazards"
+      ],
+      "zone": "main",
+      "text": "The product does not contain any organic halogen compounds (AOX), nitrates, heavy metal compounds or\nformaldehydes.\nResults of PBT and vPvB assessment\nPBT: Not applicable.\nvPvB: Not applicable."
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "2.3 Other hazards"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SECTION 3: Composition/information on ingredients",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "3.2 Mixtures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "3.2 Mixtures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 2: Hazards identification",
+        "3.2 Mixtures"
+      ],
+      "zone": "main",
+      "text": "Description: aqueous solution\nDangerous components: Void\nAdditional information: For the wording of the listed hazard phrases refer to section 16."
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 4: First aid measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 4: First aid measures"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.1 Description of first aid measures"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "text": "General information: No special measures required."
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.1 Description of first aid measures"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "After inhalation:",
+          "Supply fresh air; consult doctor in case of complaints."
+        ],
+        [
+          "After skin contact:",
+          "Generally the product does not irritate the skin."
+        ],
+        [
+          "After eye contact:",
+          "Rinse opened eye for several minutes under running water."
+        ],
+        [
+          "After swallowing:",
+          "Rinse out mouth and then drink plenty of water."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Contd. on page 2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 2/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Contd. of page 1)"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2 Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.2 Most important symptoms and effects, both acute and delayed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.2 Most important symptoms and effects, both acute and delayed"
+      ],
+      "zone": "main",
+      "text": "No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "4.3 Indication of any immediate medical attention and special treatment needed"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 4: First aid measures",
+        "4.3 Indication of any immediate medical attention and special treatment needed"
+      ],
+      "zone": "main",
+      "text": "No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 5: Firefighting measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.1 Extinguishing media"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.1 Extinguishing media"
+      ],
+      "zone": "main",
+      "text": "Suitable extinguishing agents:\nCO2, powder or water spray. Fight larger fires with water spray or alcohol resistant foam.\nFor safety reasons unsuitable extinguishing agents: no further information"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.2 Special hazards arising from the substance or mixture No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.2 Special hazards arising from the substance or mixture No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "5.3 Advice for firefighters No further relevant information available."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 5: Firefighting measures",
+        "5.3 Advice for firefighters No further relevant information available."
+      ],
+      "zone": "main",
+      "text": "Protective equipment: No special measures required."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 6: Accidental release measures"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.1 Personal precautions, protective equipment and emergency procedures Wear protective clothing."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.1 Personal precautions, protective equipment and emergency procedures Wear protective clothing."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.2 Environmental precautions: Dilute with plenty of water."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.2 Environmental precautions: Dilute with plenty of water."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for containment and cleaning up:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.3 Methods and material for containment and cleaning up:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.3 Methods and material for containment and cleaning up:"
+      ],
+      "zone": "main",
+      "text": "Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders, sawdust)."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4 Reference to other sections"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "6.4 Reference to other sections"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 6: Accidental release measures",
+        "6.4 Reference to other sections"
+      ],
+      "zone": "main",
+      "text": "No dangerous substances are released.\nSee Section 7 for information on safe handling.\nSee Section 8 for information on personal protection equipment.\nSee Section 13 for disposal information."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 7: Handling and storage"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1 Precautions for safe handling No special measures required."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.1 Precautions for safe handling No special measures required."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.1 Precautions for safe handling No special measures required."
+      ],
+      "zone": "main",
+      "text": "Information about fire - and explosion protection: No special measures required."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2 Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.2 Conditions for safe storage, including any incompatibilities"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.2 Conditions for safe storage, including any incompatibilities"
+      ],
+      "zone": "main",
+      "text": "Storage:\nRequirements to be met by storerooms and receptacles: No special requirements.\nInformation about storage in one common storage facility: Not required.\nFurther information about storage conditions: None.\nStorage class: 12"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 7: Handling and storage",
+        "7.3 Specific end use(s) No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "7.3 Specific end use(s) No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 8: Exposure controls/personal protection"
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control parameters"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.1 Control parameters"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.1 Control parameters"
+      ],
+      "zone": "main",
+      "text": "Ingredients with limit values that require monitoring at the workplace:\nThe product does not contain any relevant quantities of materials with critical values that have to be\nmonitored at the workplace.\nAdditional information: The lists valid during the making were used as basis."
+    },
+    {
+      "kind": "heading",
+      "page": 2,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "8.2 Exposure controls"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "Appropriate engineering controls No further data; see section 7.\nIndividual protection measures, such as personal protective equipment\nGeneral protective and hygienic measures:\nThe usual precautionary measures are to be adhered to when handling chemicals.\nRespiratory protection: Not required.\nHand protection\nProtective gloves and protective skin cream"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Contd. on page 3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 3/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Contd. of page 2)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 8: Exposure controls/personal protection",
+        "8.2 Exposure controls"
+      ],
+      "zone": "main",
+      "text": "No chemical-protective gloves required.\nMaterial of gloves\nThe selection of the suitable gloves does not only depend on the material, but also on further marks of\nquality and varies from manufacturer to manufacturer. As the product is a preparation of several\nsubstances, the resistance of the glove material can not be calculated in advance and has therefore to be\nchecked prior to the application.\nPenetration time of glove material\nThe exact break trough time has to be found out by the manufacturer of the protective gloves and has to be\nobserved.\nEye/face protection Not required.\nBody protection: Protective work clothing"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 9: Physical and chemical properties"
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.1 Information on basic physical and chemical properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "General Information"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Physical state",
+          "Fluid"
+        ],
+        [
+          "Colour:",
+          "Colourless"
+        ],
+        [
+          "Odour:",
+          "Odourless"
+        ],
+        [
+          "Odour threshold:",
+          "Not determined."
+        ],
+        [
+          "Melting point/freezing point:",
+          "Undetermined."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Boiling point or initial boiling point and boiling\nrange 100 °C\nFlammability Not applicable.\nLower and upper explosion limit"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Lower:",
+          "Not determined."
+        ],
+        [
+          "Upper:",
+          "Not determined."
+        ],
+        [
+          "Flash point:",
+          "Not applicable."
+        ],
+        [
+          "Decomposition temperature:",
+          "Not determined."
+        ],
+        [
+          "pH at 20 °C",
+          "12"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Viscosity:\nKinematic viscosity Not determined.\nDynamic: Not determined.\nSolubility"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "water:",
+          "Fully miscible."
+        ],
+        [
+          "Partition coefficient n-octanol/water (log value)",
+          "Not determined."
+        ],
+        [
+          "Vapour pressure at 20 °C:",
+          "23 hPa"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "text": "Density and/or relative density"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.1 Information on basic physical and chemical properties"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Density at 20 °C:",
+          "1.002 g/cm³"
+        ],
+        [
+          "Relative density",
+          "Not determined."
+        ],
+        [
+          "Vapour density",
+          "Not determined."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "9.2 Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "text": "Appearance:\nForm: Fluid\nImportant information on protection of health\nand environment, and on safety.\nIgnition temperature: Product is not selfigniting.\nExplosive properties: Product does not present an explosion hazard.\nNot determined.\nSolvent content:\nWater: 98.2 %\nSolids content: 0.0 %\nChange in condition\nEvaporation rate Not determined."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Contd. on page 4)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 4/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Contd. of page 3)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "text": "Information with regard to physical hazard\nclasses"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Explosives",
+          "Void"
+        ],
+        [
+          "Flammable gases",
+          "Void"
+        ],
+        [
+          "Aerosols",
+          "Void"
+        ],
+        [
+          "Oxidising gases",
+          "Void"
+        ],
+        [
+          "Gases under pressure",
+          "Void"
+        ],
+        [
+          "Flammable liquids",
+          "Void"
+        ],
+        [
+          "Flammable solids",
+          "Void"
+        ],
+        [
+          "Self-reactive substances and mixtures",
+          "Void"
+        ],
+        [
+          "Pyrophoric liquids",
+          "Void"
+        ],
+        [
+          "Pyrophoric solids",
+          "Void"
+        ],
+        [
+          "Self-heating substances and mixtures",
+          "Void"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "text": "Substances and mixtures, which emit flammable"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 9: Physical and chemical properties",
+        "9.2 Other information"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "gases in contact with water",
+          "Void"
+        ],
+        [
+          "Oxidising liquids",
+          "Void"
+        ],
+        [
+          "Oxidising solids",
+          "Void"
+        ],
+        [
+          "Organic peroxides",
+          "Void"
+        ],
+        [
+          "Corrosive to metals",
+          "Void"
+        ],
+        [
+          "Desensitised explosives",
+          "Void"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 10: Stability and reactivity"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.1 Reactivity No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.1 Reactivity No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2 Chemical stability"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.2 Chemical stability"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.2 Chemical stability"
+      ],
+      "zone": "main",
+      "text": "Thermal decomposition / conditions to be avoided:\nNo decomposition if used according to specifications."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.3 Possibility of hazardous reactions No dangerous reactions known."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.3 Possibility of hazardous reactions No dangerous reactions known."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.4 Conditions to avoid No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.4 Conditions to avoid No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.5 Incompatible materials: No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.5 Incompatible materials: No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 10: Stability and reactivity",
+        "10.6 Hazardous decomposition products: No dangerous decomposition products known."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "10.6 Hazardous decomposition products: No dangerous decomposition products known."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 11: Toxicological information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Acute toxicity Based on available data, the classification criteria are not met.\nSkin corrosion/irritation Based on available data, the classification criteria are not met.\nSerious eye damage/irritation Based on available data, the classification criteria are not met.\nRespiratory or skin sensitisation Based on available data, the classification criteria are not met.\nGerm cell mutagenicity Based on available data, the classification criteria are not met.\nCarcinogenicity Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "Reproductive toxicity",
+          "Based on available data, the classification criteria are not met.",
+          ""
+        ],
+        [
+          "STOT-single exposure",
+          "Based on available data, the classification criteria are not met.",
+          ""
+        ],
+        [
+          "STOT-repeated exposure",
+          "",
+          "Based on available data, the classification criteria are not met."
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.1 Information on hazard classes as defined in Regulation (EC) No 1272/2008"
+      ],
+      "zone": "main",
+      "text": "Aspiration hazard Based on available data, the classification criteria are not met."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2 Information on other hazards"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "11.2 Information on other hazards"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 11: Toxicological information",
+        "11.2 Information on other hazards"
+      ],
+      "zone": "main",
+      "text": "Endocrine disrupting properties\nNone of the ingredients is listed."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 12: Ecological information"
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.1 Toxicity"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.1 Toxicity"
+      ],
+      "zone": "main",
+      "text": "Aquatic toxicity: No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.2 Persistence and degradability No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.2 Persistence and degradability No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.3 Bioaccumulative potential No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.3 Bioaccumulative potential No further relevant information available."
+    },
+    {
+      "kind": "heading",
+      "page": 4,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.4 Mobility in soil No further relevant information available."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.4 Mobility in soil No further relevant information available."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Contd. on page 5)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 5/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Contd. of page 4)"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.5 Results of PBT and vPvB assessment"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.5 Results of PBT and vPvB assessment"
+      ],
+      "zone": "main",
+      "text": "PBT: Not applicable.\nvPvB: Not applicable."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6 Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.6 Endocrine disrupting properties"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.6 Endocrine disrupting properties"
+      ],
+      "zone": "main",
+      "text": "The product does not contain substances with endocrine disrupting properties."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "12.7 Other adverse effects"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 12: Ecological information",
+        "12.7 Other adverse effects"
+      ],
+      "zone": "main",
+      "text": "Additional ecological information:\nGeneral notes:\nNot hazardous for water.\nRinse off of bigger amounts into drains or the aquatic environment may lead to increased pH-values. A\nhigh pH-value harms aquatic organisms. In the dilution of the use-level the pH-value is considerably\nreduced, so that after the use of the product the aqueous waste, emptied into drains, is only low water-\ndangerous."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 13: Disposal considerations"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 13: Disposal considerations"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "13.1 Waste treatment methods"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 13: Disposal considerations",
+        "13.1 Waste treatment methods"
+      ],
+      "zone": "main",
+      "text": "Recommendation Smaller quantities can be disposed of with household waste.\nEuropean waste catalogue\n16 05 06* laboratory chemicals, consisting of or containing hazardous substances, including mixtures of\nlaboratory chemicals\nUncleaned packaging:\nRecommendation: Disposal must be made according to official regulations.\nRecommended cleansing agents: Water, if necessary together with cleansing agents."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 14: Transport information"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1 UN number or ID number"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.1 UN number or ID number"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.1 UN number or ID number"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA Void"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 UN proper shipping name"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.2 UN proper shipping name"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.2 UN proper shipping name"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA Void"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.3 Transport hazard class(es)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.3 Transport hazard class(es)"
+      ],
+      "zone": "main",
+      "text": "ADR, ADN, IMDG, IATA\nClass Void"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.4 Packing group"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.4 Packing group"
+      ],
+      "zone": "main",
+      "text": "ADR, IMDG, IATA Void"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards:"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.5 Environmental hazards:"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.5 Environmental hazards:"
+      ],
+      "zone": "main",
+      "text": "Marine pollutant: No"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.6 Special precautions for user Not applicable."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.6 Special precautions for user Not applicable."
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "14.7 Maritime transport in bulk according to IMO"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [
+        "SECTION 14: Transport information",
+        "14.7 Maritime transport in bulk according to IMO"
+      ],
+      "zone": "main",
+      "rows": [
+        [
+          "instruments",
+          "Not applicable."
+        ],
+        [
+          "Transport/Additional information:",
+          "Not dangerous according to the above specifications."
+        ],
+        [
+          "UN \"Model Regulation\":",
+          "Void"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 15: Regulatory information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 15: Regulatory information"
+    },
+    {
+      "kind": "heading",
+      "page": 5,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "Labelling according to Regulation (EC) No 1272/2008 Void\nHazard pictograms Void\nSignal word Void\nHazard statements Void\nDirective 2012/18/EU\nNamed dangerous substances - ANNEX I None of the ingredients is listed."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "(Contd. on page 6)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "EU"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Safety data sheet Page 6/6"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "according to Regulation (EC) No 1907/2006, Article 31"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Printing date 20.08.2024 Version 4 (replaces version 3) Revision: 20.08.2024"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "Trade name: pH-Pufferlösung 12,00"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "(Contd. of page 5)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture"
+      ],
+      "zone": "main",
+      "text": "DIRECTIVE 2011/65/EU on the restriction of the use of certain hazardous substances in electrical\nand electronic equipment – Annex II\nNone of the ingredients is listed.\nREGULATION (EU) 2019/1148\nAnnex I - RESTRICTED EXPLOSIVES PRECURSORS (Upper limit value for the purpose of licensing\nunder Article 5(3))\nNone of the ingredients is listed.\nAnnex II - REPORTABLE EXPLOSIVES PRECURSORS\nNone of the ingredients is listed.\nRegulation (EC) No 273/2004 on drug precursors\nNone of the ingredients is listed.\nRegulation (EC) No 111/2005 laying down rules for the monitoring of trade between the Community\nand third countries in drug precursors\nNone of the ingredients is listed."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 15: Regulatory information",
+        "15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out."
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "15.2 Chemical safety assessment: A Chemical Safety Assessment has not been carried out."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "SECTION 16: Other information"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 16: Other information"
+      ],
+      "zone": "main",
+      "text": "This information is based on our present knowledge. However, this shall not constitute a guarantee for any\nspecific product features and shall not establish a legally valid contractual relationship."
+    },
+    {
+      "kind": "heading",
+      "page": 6,
+      "section_path": [
+        "SECTION 16: Other information",
+        "16.3 Recommended restriction of use"
+      ],
+      "zone": "main",
+      "level": 2,
+      "text": "16.3 Recommended restriction of use"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [
+        "SECTION 16: Other information",
+        "16.3 Recommended restriction of use"
+      ],
+      "zone": "main",
+      "text": "Department issuing SDS: PCC-TWR\nContact: MSDS.pcc@endress.com\nDate of previous version: 08.03.2021\nVersion number of previous version: 3\nAbbreviations and acronyms:\nADR: Accord relatif au transport international des marchandises dangereuses par route (European Agreement Concerning the\nInternational Carriage of Dangerous Goods by Road)\nIMDG: International Maritime Code for Dangerous Goods\nIATA: International Air Transport Association\nGHS: Globally Harmonised System of Classification and Labelling of Chemicals\nEINECS: European Inventory of Existing Commercial Chemical Substances\nELINCS: European List of Notified Chemical Substances\nCAS: Chemical Abstracts Service (division of the American Chemical Society)\nPBT: Persistent, Bioaccumulative and Toxic\nvPvB: very Persistent and very Bioaccumulative"
+    },
+    {
+      "kind": "list",
+      "page": 6,
+      "section_path": [
+        "SECTION 16: Other information",
+        "16.3 Recommended restriction of use"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Data compared to the previous version altered. EU",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "footer",
+      "text": "59.0"
+    }
+  ]
+}

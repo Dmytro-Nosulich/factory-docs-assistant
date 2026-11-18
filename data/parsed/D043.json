@@ -1,0 +1,454 @@
+{
+  "doc_id": "D043",
+  "format": "pdf",
+  "page_count": 6,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sauerstoff, O 2 (tiefkalt verflüssigt)"
+    },
+    {
+      "kind": "table",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Bezeichnung",
+          "O2 \"Ozon\"",
+          "",
+          "",
+          "O2 \"P\"",
+          "andere Reinheiten",
+          ""
+        ],
+        [
+          "Gasart",
+          "0634",
+          "",
+          "",
+          "0630",
+          "auf",
+          "Anfrage"
+        ],
+        [
+          "Materialnummer",
+          "6340901",
+          "",
+          "",
+          "6300901",
+          "",
+          ""
+        ],
+        [
+          "% [mol/mol]",
+          "O2   99,5",
+          "",
+          "",
+          "O2   98",
+          "",
+          ""
+        ],
+        [
+          "ppm [mol/mol]",
+          "N2 + KW < 25 H2O <  2",
+          "Ar ",
+          "5000",
+          "o. A.",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Lieferarten Strassentankwagen"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [],
+      "zone": "main",
+      "text": "Andere Lieferformen andere Reinheiten \nSpezialbehälter "
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sauerstoff, O 2 (tiefkalt verflüssigt)"
+    },
+    {
+      "kind": "table",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Umrechnungszahlen",
+          "m3 Gas",
+          "",
+          "",
+          "Liter Flüssigkeit",
+          "",
+          "kg"
+        ],
+        [
+          "",
+          "(1,000 bar und",
+          "15",
+          "°C)",
+          "(Siedezustand bei",
+          "1,013 bar)",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "",
+          "",
+          "1,172",
+          "",
+          "1,337"
+        ],
+        [
+          "",
+          "0,853",
+          "",
+          "",
+          "1",
+          "",
+          "1,141"
+        ],
+        [
+          "",
+          "0,748",
+          "",
+          "",
+          "0,876",
+          "",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Eigenschaften Siehe Sicherheitsdatenblatt auf Homepage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Sicherheitsdatenblatt Sicherheitsdatenblätter verfügbar unter linde.ch\nSicherheitsempfehlung Zusätzliche Blätter «Sicherheitsempfehlungen»:\nA06 Umgang mit tiefkalt verflüssigten Gasen\nA04 Sauerstoffanreicherung/-mangel"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [],
+      "zone": "main",
+      "text": "Haftungsausschluss Alle Angaben des Produktdatenblattes entsprechen dem gegenwärtigen Wissensstand. Die Linde Gas\nSchweiz AG prüft und aktualisiert die Informationen und behält sich das Recht vor, Änderungen oder\nErgänzungen der bereitgestellten Informationen vorzunehmen. Trotz aller Sorgfalt können sich Daten\ninzwischen verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und\nVollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden.\nJeder Anwender trägt selbst die Verantwortung dafür, dass alle relevanten gesetzlichen Bestimmungen\neingehalten werden und dass die hier beschriebenen Produkte für seine Einsatzzwecke geeignet sind.\nDie Angaben auf diesem Produktdatenblatt sind keine vertraglichen Zusicherungen von\nProdukteigenschaften. Die Vervielfältigung von Informationen, Texten, Bildern oder Daten bedarf der\nvorherigen Zustimmung der Linde Gas Schweiz AG."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "Oxygène, O 2 (liquéfié à très basse température)"
+    },
+    {
+      "kind": "table",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Désignation",
+          "O2 \"Ozon\"",
+          "",
+          "",
+          "O2 \"P\"",
+          "Autres puretés",
+          ""
+        ],
+        [
+          "Type de gaz",
+          "0634",
+          "",
+          "",
+          "0630",
+          "sur",
+          "demande"
+        ],
+        [
+          "Numéro de materiél",
+          "6340901",
+          "",
+          "",
+          "6300901",
+          "",
+          ""
+        ],
+        [
+          "% [mol/mol]",
+          "O2   99,5",
+          "",
+          "",
+          "O2   98",
+          "",
+          ""
+        ],
+        [
+          "ppm [mol/mol]",
+          "N2 + KW < 25 H2O <  2",
+          "Ar ",
+          "5000",
+          "sans indic.",
+          "",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "Modes de livraison Camion-citerne"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [],
+      "zone": "main",
+      "text": "Autres qualités et récipientsAutres puretés \nRécipients spéciaux "
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Oxygène, O 2 (liquéfié à très basse température)"
+    },
+    {
+      "kind": "table",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Chiffres de",
+          "conversion",
+          "m3 gaz",
+          "",
+          "Litres liquéfiés",
+          "",
+          "",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "(1,000 bar et",
+          "15  °C)",
+          "(Etat d’ébullition",
+          "à 1,013",
+          "bar)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "1",
+          "",
+          "1,172",
+          "",
+          "",
+          "1,337"
+        ],
+        [
+          "",
+          "",
+          "0,853",
+          "",
+          "1",
+          "",
+          "",
+          "1,141"
+        ],
+        [
+          "",
+          "",
+          "0,748",
+          "",
+          "0,876",
+          "",
+          "",
+          "1"
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Caractéristiques Voir feuille de prescriptions de sécurité sur le site internet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Fiche de sécurité Fiches de données de sécurité disponibles sur linde.ch\nRemarques de sécurité Feuilles supplémentaires «Remarques de sécurité»:\nA06 Manipulation des liquides cryogéniques\nA04 Enrichissement en oxygène/ manque d’oxygène"
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [],
+      "zone": "main",
+      "text": "Clause de non-responsabilité Toutes les informations contenues dans la fiche technique du produit correspondent à l'état actuel des\nconnaissances. Linde Gas Schweiz AG vérifie et actualise les informations et se réserve le droit de\nmodifier ou de compléter les informations mises à disposition. Malgré tout le soin apporté, des données\npeuvent avoir changé entre-temps. Une responsabilité ou une garantie pour l'actualité, l'exactitude et\nl'intégralité des informations mises à disposition ne peut donc pas être assumée. Chaque utilisateur est\nresponsable du respect de toutes les dispositions légales pertinentes et de l'adéquation des produits\ndécrits ici à son utilisation. Les informations contenues dans cette fiche technique de produit ne\nconstituent pas une garantie contractuelle des propriétés du produit. La reproduction d'informations,\nde textes, d'images ou de données est soumise à l'autorisation préalable de Linde Gas Schweiz AG."
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Ossigeno, O2 (liquido refrigerato)"
+    },
+    {
+      "kind": "table",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "rows": [
+        [
+          "Definitione",
+          "O2 \"Ozono\"",
+          "",
+          "",
+          "O2 \"P\"",
+          "altri gradi di purezza"
+        ],
+        [
+          "Tipo di gas",
+          "0634",
+          "",
+          "",
+          "0630",
+          "su richiesta"
+        ],
+        [
+          "Numero materiale",
+          "6340901",
+          "",
+          "",
+          "6300901",
+          ""
+        ],
+        [
+          "% [mol/mol]",
+          "O2   99,5",
+          "",
+          "",
+          "O2   98",
+          ""
+        ],
+        [
+          "ppm [mol/mol]",
+          "N2 + Idrocarburi < 25 H2O <  2",
+          "Ar ",
+          "5000",
+          "nessuna indicazione",
+          ""
+        ]
+      ],
+      "header_rows": 0
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Tipi di fornitura Autocisterna"
+    },
+    {
+      "kind": "paragraph",
+      "page": 5,
+      "section_path": [],
+      "zone": "main",
+      "text": "Altre forme di fornitura Altri gradi di purezza \nRecipienti speciali "
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Ossigeno, O2 (liquido refrigerato)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Fattori di conversione m3 di gas Litri di liquido kg\n(1,000 bar e (stato di ebollizione a 1,013 bar)\n15 °C)"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "1 1,172 1,337"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "header",
+      "text": "0,853 1 1,141"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "0,748 0,876 1"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Proprietà Vedi scheda di sicurezza sul sito internet"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Scheda dati di sicurezza Schede dati di sicurezza disponibili su linde.ch\nNorme di sicurezza Fogli aggiuntivi “Norme di sicurezza”\nA06 Manipolazione dei gas criogenici liquefatti\nA04 Arricchimento / mancanza di ossigeno"
+    },
+    {
+      "kind": "paragraph",
+      "page": 6,
+      "section_path": [],
+      "zone": "main",
+      "text": "Dichiarazione di non Tutte le informazioni contenute nella scheda tecnica del prodotto corrispondono allo stato attuale\nresponsabilità delle conoscenze. Linde Gas Schweiz AG controlla e aggiorna le informazioni e si riserva il diritto di\napportare modifiche o aggiunte alle informazioni fornite. Nonostante la massima attenzione, i dati\npossono essere cambiati nel frattempo. Non si assume pertanto alcuna responsabilità o garanzia per\nl'attualità, la correttezza e la completezza delle informazioni fornite. È responsabilità di ogni utente\nassicurarsi che siano rispettate tutte le norme di legge pertinenti e che i prodotti qui descritti siano\nadatti all'uso previsto. Le informazioni contenute in questa scheda prodotto non costituiscono una\ngaranzia contrattuale delle proprietà del prodotto. La riproduzione di informazioni, testi, immagini o\ndati richiede il consenso preliminare di Linde Gas Schweiz AG."
+    }
+  ]
+}

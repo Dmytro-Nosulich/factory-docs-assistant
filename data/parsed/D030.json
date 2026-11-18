@@ -1,0 +1,426 @@
+{
+  "doc_id": "D030",
+  "format": "pdf",
+  "page_count": 4,
+  "pages_without_text": [],
+  "warnings": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "HACCP Planning in Poultry and Rabbit Processing"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "HACCP Planning in Poultry and Rabbit Processing"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "HACCP Planning in Poultry and Rabbit Processing"
+      ],
+      "zone": "main",
+      "text": "Jonathan Moyle,University of Maryland Extension"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "HACCP Planning in Poultry and Rabbit Processing"
+      ],
+      "zone": "main",
+      "text": "Deanna Baldwin, Maryland Department of Ag riculture"
+    },
+    {
+      "kind": "heading",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "level": 1,
+      "text": "What is HACCP?"
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "HACCP stands for Hazard Analysis and Critical Control Pointsystems . It is a management tool\nused to protect food in the food supply against biological, chemical and physical hazards. It\nconcentrates on points in the food production process that are critical to the safety of the product\nbeing produced. It is part of USDA -FSIS regulations and requires members of the food industry\nto develop and implement HACCP plans and for regulatory agencies to facilitate th is process\n(http://www.access.gpo.gov/nara/cfr/waisidx_06/9cfr417_06.html ).While you are operating as\n“exempt” under USDA-FSIS rules, MDA still requires you to have a HACCP plan."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Every HACCP plan should be implemented using the following seven steps:"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Conduct hazard analysis and identify preventive measures.",
+          "depth": 0
+        },
+        {
+          "text": "Identify critical control points (CCPs) in the process.",
+          "depth": 0
+        },
+        {
+          "text": "Establish critical limits.",
+          "depth": 0
+        },
+        {
+          "text": "Monitor each CCP.",
+          "depth": 0
+        },
+        {
+          "text": "Establish corrective actions.",
+          "depth": 0
+        },
+        {
+          "text": "Establish verification procedures.",
+          "depth": 0
+        },
+        {
+          "text": "Establish record-keeping and documentation procedures.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Conduct hazard analysis and identify preventive measures."
+    },
+    {
+      "kind": "paragraph",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "The first step is to describe the product that you are producing and develop a flow chart of how\nthe product is processed. In the product description include the following:"
+    },
+    {
+      "kind": "list",
+      "page": 1,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Common name ( e.g. chicken)",
+          "depth": 0
+        },
+        {
+          "text": "How it is to be used ( e.g. r eady to cook carcasses)",
+          "depth": 0
+        },
+        {
+          "text": "Type of packaging used( e.g. v acuum packed individually)",
+          "depth": 0
+        },
+        {
+          "text": "Shelf life, at what temperature ( e.g. 3- 6 months at 0oF or below, 7 days at 40oF)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Where it willbe sold ( e.g.on farm, at farmers ’ market)",
+          "depth": 0
+        },
+        {
+          "text": "Labeling instructions ( e.g.safe food handling labels, keep refrigerated or keep frozen, cooking label, MDA- FQAP number)",
+          "depth": 0
+        },
+        {
+          "text": "Special distribution control ( e.g.keep refrigerated at 40 oF or less, keep frozen)",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Next, make a flow chart for the product you described."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Example flow chart for poultry slaughter."
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Receiving and storing Receiving and holding\npackaging supplies live poultry"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Hanging, stunning,\nkilling, bleeding"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Scalding, picking"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Neck cutting, vent\nopening, feet removal"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Packaging and labeling Eviscerating"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Finished product Chilling and cold\nstorage storage"
+    },
+    {
+      "kind": "paragraph",
+      "page": 2,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Shipping and retail"
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Identify critical control points (CCPs) in the process."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Now, using the flow chart, identify each point along the production process where food safety\nhazard are likely to occur. Make a list of these points - they are your critical control points\n(CCPs)."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Establish critical limits."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Establish limits for each CCP that prevent or reduce contamin ation of the food. For example:\nchickens that weigh less than 4 lbs. must be chilled to 40oF or less within 4 hours."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Monitor each CCP."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Monitor the CCPs to make sure that food is produced in a safe manner. Keep records of your\nmonitoring activity. For example: A chiller log can be maintained to verify that the carcasses\nare chilled properly."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Establish corrective actions."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Write down what you are going to do if a critical control is not met. This will insure that the\nmeat is safe for customers to consume. Example: Chickens that weigh 4 lbs. or less and are not\nchilled to 40ºF within 4 hours will be discarded and not sold for human consumption."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Establish verification procedures."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Verification is important as it ensures that the HACCP plan is followed. An example is as\nsimple as: Employees record the temperature, time, and sign or initial the chiller log every time\nthat they check the temperature."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Establish record-keeping and documentation procedures."
+    },
+    {
+      "kind": "paragraph",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "As part of the regulations requirements, you will have to maintain certain documents. These\ndocuments include:"
+    },
+    {
+      "kind": "list",
+      "page": 3,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "A written copy of the HACCP plan along with the hazard analysis. Make sure to sign and date the plan upon initial completion and any time it is modified.",
+          "depth": 0
+        },
+        {
+          "text": "Records that show documentation of monitoring the CCPs. The chiller log would be an example of this.",
+          "depth": 0
+        },
+        {
+          "text": "Corrective action log.",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "page": 4,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Other records would include: o Dates of slaughter and the number of animals slaughtered. o Number of sick animal segregated from the healthy ones. o If selling products to a restaurant or retailer, you must keep a copy of the invoice with date of delivery, your name and address, buyer’s name and address, identity and quantity of product. o If selling directly to consumer from farm or at farmers’ market , you must keep a record that includes date of sale, number sold,and location of sale .",
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Final thoughts."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "Remember to keep things as simple as possible. When things get complicated they are less\nlikely to be followed. This plan is designed to help you produce a safe product, but it is only\neffective if it is followed."
+    },
+    {
+      "kind": "paragraph",
+      "page": 4,
+      "section_path": [
+        "What is HACCP?"
+      ],
+      "zone": "main",
+      "text": "If you do not slaughter animals every day ,do not use the word “daily” in your plan. Instead,say\nthat you will monitor on days when animals are processed and when product is being stored."
+    }
+  ]
+}
