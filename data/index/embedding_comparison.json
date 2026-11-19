@@ -1,0 +1,858 @@
+{
+ "machine": {
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "cpu_count": 14,
+  "python": "3.11.17",
+  "fastembed": "0.9.1",
+  "onnxruntime": "1.32.0",
+  "onnx_providers": [
+   "CoreMLExecutionProvider",
+   "AzureExecutionProvider",
+   "CPUExecutionProvider"
+  ]
+ },
+ "chunks": 2433,
+ "results": [
+  {
+   "key": "minilm-l12",
+   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+   "dimension": 384,
+   "size_bytes": 252138706,
+   "token_limit": 128,
+   "tokens_p50": 250,
+   "tokens_p95": 500,
+   "tokens_max": 822,
+   "over_limit": {
+    "all": [
+     2038,
+     2433
+    ],
+    "de": [
+     42,
+     76
+    ],
+    "de/en": [
+     4,
+     6
+    ],
+    "de/fr/it": [
+     14,
+     14
+    ],
+    "en": [
+     1400,
+     1652
+    ],
+    "en/de": [
+     6,
+     7
+    ],
+    "es": [
+     73,
+     83
+    ],
+    "fr": [
+     88,
+     101
+    ],
+    "it": [
+     22,
+     23
+    ],
+    "mul": [
+     34,
+     37
+    ],
+    "nl": [
+     33,
+     48
+    ],
+    "pl": [
+     68,
+     77
+    ],
+    "sv": [
+     26,
+     30
+    ],
+    "uk": [
+     228,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.26,
+   "embed_s": 20.3,
+   "query_ms_p50": 2.2,
+   "peak_rss_bytes": 1442643968,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D010-s-0013",
+      "language": "uk",
+      "section": "11. ТОКСИКОЛОГІЧНІ ДАНІ > Серйозне ураження очей/подразнення очей",
+      "score": 0.5059
+     },
+     {
+      "chunk_id": "D063-s-0004",
+      "language": "nl",
+      "section": "RUBRIEK 4: Eerstehulpmaatregelen",
+      "score": 0.4878
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.4811
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.4811
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.4779
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D022-s-0093",
+      "language": "uk",
+      "section": "18. Вимірювання опору ізоляції 21. Входи/виходи > Входи Pt100/1000 (PT)",
+      "score": 0.5437
+     },
+     {
+      "chunk_id": "D022-s-0075",
+      "language": "uk",
+      "section": "9. Grundfos GO Remote > 9.2 Основний огляд Grundfos GO Remote > 9.2.1 Головні меню > Вимірюваний параметр",
+      "score": 0.4984
+     },
+     {
+      "chunk_id": "D043-s-0002",
+      "language": "de/fr/it",
+      "section": "(no section heading)",
+      "score": 0.4767
+     },
+     {
+      "chunk_id": "D010-s-0005",
+      "language": "uk",
+      "section": "5. ПРОТИПОЖЕЖНІ ЗАХОДИ",
+      "score": 0.4488
+     },
+     {
+      "chunk_id": "D063-s-0010",
+      "language": "nl",
+      "section": "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke",
+      "score": 0.4474
+     }
+    ]
+   },
+   "licence": "apache-2.0"
+  },
+  {
+   "key": "mpnet-base",
+   "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+   "dimension": 768,
+   "size_bytes": 1127143446,
+   "token_limit": 512,
+   "tokens_p50": 250,
+   "tokens_p95": 500,
+   "tokens_max": 822,
+   "over_limit": {
+    "all": [
+     109,
+     2433
+    ],
+    "de": [
+     2,
+     76
+    ],
+    "de/en": [
+     0,
+     6
+    ],
+    "de/fr/it": [
+     4,
+     14
+    ],
+    "en": [
+     48,
+     1652
+    ],
+    "en/de": [
+     0,
+     7
+    ],
+    "es": [
+     6,
+     83
+    ],
+    "fr": [
+     21,
+     101
+    ],
+    "it": [
+     0,
+     23
+    ],
+    "mul": [
+     0,
+     37
+    ],
+    "nl": [
+     0,
+     48
+    ],
+    "pl": [
+     1,
+     77
+    ],
+    "sv": [
+     2,
+     30
+    ],
+    "uk": [
+     25,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.49,
+   "embed_s": 128.6,
+   "query_ms_p50": 4.6,
+   "peak_rss_bytes": 4228186112,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D033-s-0007",
+      "language": "de",
+      "section": "ABSCHNITT 4: Erste-Hilfe-Maßnahmen",
+      "score": 0.5771
+     },
+     {
+      "chunk_id": "D063-s-0004",
+      "language": "nl",
+      "section": "RUBRIEK 4: Eerstehulpmaatregelen",
+      "score": 0.5712
+     },
+     {
+      "chunk_id": "D035-s-0002",
+      "language": "uk",
+      "section": "2 Можлива небезпека",
+      "score": 0.57
+     },
+     {
+      "chunk_id": "D032-s-0019",
+      "language": "uk",
+      "section": "16 Інші дані > Важливі фрази",
+      "score": 0.5592
+     },
+     {
+      "chunk_id": "D010-s-0004",
+      "language": "uk",
+      "section": "4. ЗАХОДИ ПЕРШОЇ МЕДИЧНОЇ ДОПОМОГИ",
+      "score": 0.5476
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D022-s-0075",
+      "language": "uk",
+      "section": "9. Grundfos GO Remote > 9.2 Основний огляд Grundfos GO Remote > 9.2.1 Головні меню > Вимірюваний параметр",
+      "score": 0.6547
+     },
+     {
+      "chunk_id": "D014-s-0000",
+      "language": "de/en",
+      "section": "Abnahmeprüfzeugnis nach EN 10204 - 3.1",
+      "score": 0.5625
+     },
+     {
+      "chunk_id": "D014-s-0003",
+      "language": "de/en",
+      "section": "Abnahmeprüfzeugnis nach EN 10204 - 3.1",
+      "score": 0.5625
+     },
+     {
+      "chunk_id": "D033-s-0001",
+      "language": "de",
+      "section": "1.1 Produktidentifikator",
+      "score": 0.4913
+     },
+     {
+      "chunk_id": "D038-s-0012",
+      "language": "de",
+      "section": "9.2 Sonstige Angaben : keine",
+      "score": 0.4568
+     }
+    ]
+   },
+   "licence": "apache-2.0"
+  },
+  {
+   "key": "potion-128m",
+   "model": "minishlab/potion-multilingual-128M",
+   "dimension": 256,
+   "size_bytes": 530980027,
+   "token_limit": 512,
+   "tokens_p50": 248,
+   "tokens_p95": 478,
+   "tokens_max": 1806,
+   "over_limit": {
+    "all": [
+     78,
+     2433
+    ],
+    "de": [
+     2,
+     76
+    ],
+    "de/en": [
+     0,
+     6
+    ],
+    "de/fr/it": [
+     0,
+     14
+    ],
+    "en": [
+     45,
+     1652
+    ],
+    "en/de": [
+     4,
+     7
+    ],
+    "es": [
+     3,
+     83
+    ],
+    "fr": [
+     9,
+     101
+    ],
+    "it": [
+     0,
+     23
+    ],
+    "mul": [
+     0,
+     37
+    ],
+    "nl": [
+     0,
+     48
+    ],
+    "pl": [
+     0,
+     77
+    ],
+    "sv": [
+     1,
+     30
+    ],
+    "uk": [
+     14,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.73,
+   "embed_s": 0.2,
+   "query_ms_p50": 0.0,
+   "peak_rss_bytes": 2118549504,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D035-s-0006",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.5063
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.4768
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.4768
+     },
+     {
+      "chunk_id": "D036-s-0014",
+      "language": "uk",
+      "section": "8 Обмеження і контроль впливу / засоби індивідуального захисту",
+      "score": 0.4697
+     },
+     {
+      "chunk_id": "D032-s-0009",
+      "language": "uk",
+      "section": "8 Обмеження і контроль впливу / засоби індивідуального захисту",
+      "score": 0.4628
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D066-s-0189",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.3 FLAMMABLE AEROSOLS > B.3.2 Classification Criteria",
+      "score": 0.4287
+     },
+     {
+      "chunk_id": "D066-s-0195",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.6 FLAMMABLE LIQUIDS",
+      "score": 0.4161
+     },
+     {
+      "chunk_id": "D066-s-0187",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.2 FLAMMABLE GASES",
+      "score": 0.3863
+     },
+     {
+      "chunk_id": "D066-s-0210",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.12 CHEMICALS WHICH, IN CONTACT WITH WATER, EMIT FLAMMABLE GASES",
+      "score": 0.3671
+     },
+     {
+      "chunk_id": "D061-s-0009",
+      "language": "it",
+      "section": "SEZIONE 8: Controlli dell’esposizione/della protezione individuale",
+      "score": 0.3607
+     }
+    ]
+   },
+   "licence": "mit"
+  },
+  {
+   "key": "e5-large",
+   "model": "intfloat/multilingual-e5-large",
+   "dimension": 1024,
+   "size_bytes": 2252994762,
+   "token_limit": 512,
+   "tokens_p50": 252,
+   "tokens_p95": 502,
+   "tokens_max": 824,
+   "over_limit": {
+    "all": [
+     111,
+     2433
+    ],
+    "de": [
+     2,
+     76
+    ],
+    "de/en": [
+     0,
+     6
+    ],
+    "de/fr/it": [
+     4,
+     14
+    ],
+    "en": [
+     49,
+     1652
+    ],
+    "en/de": [
+     0,
+     7
+    ],
+    "es": [
+     6,
+     83
+    ],
+    "fr": [
+     21,
+     101
+    ],
+    "it": [
+     0,
+     23
+    ],
+    "mul": [
+     0,
+     37
+    ],
+    "nl": [
+     0,
+     48
+    ],
+    "pl": [
+     1,
+     77
+    ],
+    "sv": [
+     2,
+     30
+    ],
+    "uk": [
+     26,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.75,
+   "embed_s": 417.2,
+   "query_ms_p50": 12.7,
+   "peak_rss_bytes": 4941152256,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D006-s-0011",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.8702
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.8702
+     },
+     {
+      "chunk_id": "D035-s-0006",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.8698
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.8696
+     },
+     {
+      "chunk_id": "D007-s-0006",
+      "language": "uk",
+      "section": "РОЗДІЛ 4: Заходи першої допомоги",
+      "score": 0.8593
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D033-s-0001",
+      "language": "de",
+      "section": "1.1 Produktidentifikator",
+      "score": 0.8266
+     },
+     {
+      "chunk_id": "D038-s-0011",
+      "language": "de",
+      "section": "9.1 Grundlegende physikalische und chemische Eigenschaften",
+      "score": 0.8021
+     },
+     {
+      "chunk_id": "D042-s-0001",
+      "language": "de/fr/it",
+      "section": "(no section heading)",
+      "score": 0.7933
+     },
+     {
+      "chunk_id": "D033-s-0020",
+      "language": "de",
+      "section": "ABSCHNITT 16: Sonstige Angaben",
+      "score": 0.7902
+     },
+     {
+      "chunk_id": "D033-s-0014",
+      "language": "de",
+      "section": "ABSCHNITT 10: Stabilität und Reaktivität",
+      "score": 0.7887
+     }
+    ]
+   },
+   "licence": "mit"
+  },
+  {
+   "key": "embeddinggemma",
+   "model": "google/embeddinggemma-300m",
+   "dimension": 768,
+   "size_bytes": 1256483589,
+   "token_limit": 2048,
+   "tokens_p50": 252,
+   "tokens_p95": 528,
+   "tokens_max": 877,
+   "over_limit": {
+    "all": [
+     0,
+     2433
+    ],
+    "de": [
+     0,
+     76
+    ],
+    "de/en": [
+     0,
+     6
+    ],
+    "de/fr/it": [
+     0,
+     14
+    ],
+    "en": [
+     0,
+     1652
+    ],
+    "en/de": [
+     0,
+     7
+    ],
+    "es": [
+     0,
+     83
+    ],
+    "fr": [
+     0,
+     101
+    ],
+    "it": [
+     0,
+     23
+    ],
+    "mul": [
+     0,
+     37
+    ],
+    "nl": [
+     0,
+     48
+    ],
+    "pl": [
+     0,
+     77
+    ],
+    "sv": [
+     0,
+     30
+    ],
+    "uk": [
+     0,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.67,
+   "embed_s": 202.2,
+   "query_ms_p50": 6.5,
+   "peak_rss_bytes": 4257923072,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D035-s-0006",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.554
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.551
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.551
+     },
+     {
+      "chunk_id": "D048-s-0005",
+      "language": "en",
+      "section": "SECTION 4: First aid measures",
+      "score": 0.5504
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.547
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D033-s-0001",
+      "language": "de",
+      "section": "1.1 Produktidentifikator",
+      "score": 0.4112
+     },
+     {
+      "chunk_id": "D038-s-0011",
+      "language": "de",
+      "section": "9.1 Grundlegende physikalische und chemische Eigenschaften",
+      "score": 0.3978
+     },
+     {
+      "chunk_id": "D066-s-0195",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.6 FLAMMABLE LIQUIDS",
+      "score": 0.3879
+     },
+     {
+      "chunk_id": "D067-s-0219",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory) > Table B.6.1: Criteria for Flammable Liquids",
+      "score": 0.3858
+     },
+     {
+      "chunk_id": "D066-s-0196",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory)",
+      "score": 0.381
+     }
+    ]
+   },
+   "licence": "gemma"
+  },
+  {
+   "key": "qwen3-0.6b-q",
+   "model": "Qwen/Qwen3-Embedding-0.6B-Q",
+   "dimension": 1024,
+   "size_bytes": 1132034581,
+   "token_limit": 32768,
+   "tokens_p50": 256,
+   "tokens_p95": 592,
+   "tokens_max": 901,
+   "over_limit": {
+    "all": [
+     0,
+     2433
+    ],
+    "de": [
+     0,
+     76
+    ],
+    "de/en": [
+     0,
+     6
+    ],
+    "de/fr/it": [
+     0,
+     14
+    ],
+    "en": [
+     0,
+     1652
+    ],
+    "en/de": [
+     0,
+     7
+    ],
+    "es": [
+     0,
+     83
+    ],
+    "fr": [
+     0,
+     101
+    ],
+    "it": [
+     0,
+     23
+    ],
+    "mul": [
+     0,
+     37
+    ],
+    "nl": [
+     0,
+     48
+    ],
+    "pl": [
+     0,
+     77
+    ],
+    "sv": [
+     0,
+     30
+    ],
+    "uk": [
+     0,
+     279
+    ]
+   },
+   "chunks": 2433,
+   "load_s": 0.42,
+   "embed_s": 760.1,
+   "query_ms_p50": 116.8,
+   "peak_rss_bytes": 12587941888,
+   "smoke": {
+    "uk": [
+     {
+      "chunk_id": "D035-s-0006",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.5621
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.5429
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.5429
+     },
+     {
+      "chunk_id": "D007-s-0008",
+      "language": "uk",
+      "section": "РОЗДІЛ 6: Заходи при випадковому потраплянні у навколишнє середовище",
+      "score": 0.5406
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "language": "uk",
+      "section": "4 Заходи першої допомоги",
+      "score": 0.5333
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D033-s-0001",
+      "language": "de",
+      "section": "1.1 Produktidentifikator",
+      "score": 0.4804
+     },
+     {
+      "chunk_id": "D062-s-0014",
+      "language": "nl",
+      "section": "RUBRIEK 9: Fysische en chemische eigenschappen",
+      "score": 0.418
+     },
+     {
+      "chunk_id": "D012-s-0001",
+      "language": "en",
+      "section": "Product Identifier",
+      "score": 0.4111
+     },
+     {
+      "chunk_id": "D067-s-0219",
+      "language": "en",
+      "section": "Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory) > Table B.6.1: Criteria for Flammable Liquids",
+      "score": 0.4046
+     },
+     {
+      "chunk_id": "D065-s-0022",
+      "language": "es",
+      "section": "SECCIÓN 9. Propiedades físicas y químicas",
+      "score": 0.3998
+     }
+    ]
+   },
+   "licence": "apache-2.0"
+  }
+ ]
+}

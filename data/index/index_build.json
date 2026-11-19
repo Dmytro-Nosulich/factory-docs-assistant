@@ -1,0 +1,33 @@
+{
+ "embedding": {
+  "key": "embeddinggemma",
+  "model": "google/embeddinggemma-300m",
+  "dimension": 768,
+  "query_prefix": "task: search result | query: ",
+  "passage_prefix": "title: none | text: ",
+  "token_limit": 2048,
+  "batch_size": 32
+ },
+ "store": "data/index/qdrant",
+ "versions": {
+  "fastembed": "0.9.1",
+  "onnxruntime": "1.32.0",
+  "qdrant-client": "1.20.0"
+ },
+ "collections": {
+  "structure": {
+   "chunks_file": "data/chunks/chunks.jsonl",
+   "chunks_sha256": "9ed48745a0fc040047f78cd7e61ed04f688986bcabd73a270f512e6c06d23186",
+   "points": 2433,
+   "truncated_chunks": 0,
+   "build_s": 206.7
+  },
+  "fixed": {
+   "chunks_file": "data/chunks/chunks_fixed.jsonl",
+   "chunks_sha256": "80f690da862204833231df8722789e85b99b39f15e2002d01b8ed826df26b51a",
+   "points": 1788,
+   "truncated_chunks": 0,
+   "build_s": 171.2
+  }
+ }
+}

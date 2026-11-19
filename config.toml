@@ -93,3 +93,43 @@ top_p = 0.95
 [sampling."greedy"]        # deterministic: always the most likely token
 temperature = 0.0
 top_p = 1.0
+
+# Embeddings (S2-06): models run in-process with FastEmbed (decision 13); downloads go to
+# cache_dir (gitignored). FastEmbed adds no query/passage prefixes itself, so the prefixes each
+# model card asks for are set below. `compare` = every multilingual text model FastEmbed 0.9.1
+# lists, except jinaai/jina-embeddings-v3 (CC BY-NC 4.0 licence) and the full-precision
+# Qwen3-Embedding-0.6B (the same model as the int8 one, twice the size).
+[embedding]
+model = "embeddinggemma"   # picked by the user after `make compare-embeddings`, S2-06 (2026-11-19)
+compare = ["minilm-l12", "mpnet-base", "potion-128m", "e5-large", "embeddinggemma", "qwen3-0.6b-q"]
+batch_size = 32
+cache_dir = ".cache/fastembed"
+
+[embedding_models."minilm-l12"]
+name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+
+[embedding_models."mpnet-base"]
+name = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+
+[embedding_models."potion-128m"]   # static: a lookup table of word vectors, no transformer
+name = "minishlab/potion-multilingual-128M"
+
+[embedding_models."e5-large"]
+name = "intfloat/multilingual-e5-large"
+query_prefix = "query: "
+passage_prefix = "passage: "
+
+[embedding_models."embeddinggemma"]
+name = "google/embeddinggemma-300m"
+query_prefix = "task: search result | query: "
+passage_prefix = "title: none | text: "
+
+[embedding_models."qwen3-0.6b-q"]
+name = "Qwen/Qwen3-Embedding-0.6B-Q"
+query_prefix = "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:"
+
+# Vector index (S2-06): Qdrant in local mode, one collection per chunking strategy (user's
+# choice), rebuilt from the chunk files by `make index`.
+[index]
+path = "data/index/qdrant"
+collections = { structure = "data/chunks/chunks.jsonl", fixed = "data/chunks/chunks_fixed.jsonl" }

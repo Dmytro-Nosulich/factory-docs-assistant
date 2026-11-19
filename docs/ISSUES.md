@@ -12,6 +12,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Prepend the document title and section path to each chunk before embedding (contextual chunk headers, a stretch item). A short chunk then still carries its context.
   - Accept and record it.
 - **Current selection:** accept and record it. Short chunks are precise, and their section metadata is correct.
+- **Seen in S2-06 (2026-11-19):** for the German smoke query `Wie hoch ist der Flammpunkt von RM 110?`, the 70-character chunk `D033-s-0001` (`1.1 Produktidentifikator`, only the trade name) is the top hit of e5-large, embeddinggemma and qwen3-0.6b-q. The chunk that states the flash point, `D033-s-0012` (section 9), is in no model's top 5, because it does not name the product (`data/index/embedding_comparison.md`). Vector search finds the product, not the property. Hybrid search (S2-07), reranking (S2-08) or contextual chunk headers may fix it; S2-10 measures it.
 - **Revisit if:** S2-10 shows misses on short chunks, or if contextual chunk headers are added.
 - **Status:** accepted.
 

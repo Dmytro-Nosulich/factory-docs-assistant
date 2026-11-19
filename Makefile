@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings index search golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -41,6 +41,21 @@ clean-corpus:
 # Chunk data/cleaned/ two ways (structure-aware and fixed-size) into data/chunks/ (S2-05)
 ingest:
 	uv run python scripts/ingest.py
+
+# Compare the multilingual FastEmbed models in config.toml on size, speed and truncation (S2-06)
+compare-embeddings:
+	uv run python scripts/compare_embeddings.py
+
+# Embed the chunk files and rebuild the Qdrant index in data/index/qdrant/ (S2-06)
+index:
+	uv run python scripts/build_index.py
+
+# Vector search: make search Q="..." [COLLECTION=structure|fixed] [K=5]
+Q ?=
+COLLECTION ?= structure
+K ?= 5
+search:
+	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K)
 
 golden-check:
 	uv run python scripts/check_golden.py

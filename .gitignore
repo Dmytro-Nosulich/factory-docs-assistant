@@ -222,5 +222,8 @@ __marimo__/
 # Claude Code
 .claude/
 
+# Qdrant index, rebuilt by `make index` (S2-06)
+data/index/qdrant/
+
 # Course homework materials (never committed)
 course-materials/

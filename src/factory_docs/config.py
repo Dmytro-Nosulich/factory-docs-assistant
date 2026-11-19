@@ -115,6 +115,27 @@ def sent_sampling(model: OpenRouterModel | OllamaModel, values: SamplingConfig) 
     return sent
 
 
+class EmbeddingModel(Settings):
+    """A FastEmbed model, S2-06. FastEmbed adds no prefixes itself, so the ones the model card
+    asks for are set here and added to every query or passage."""
+
+    name: str  # the FastEmbed model name, e.g. intfloat/multilingual-e5-large
+    query_prefix: str = ""
+    passage_prefix: str = ""
+
+
+class EmbeddingSettings(Settings):
+    model: str  # key in [embedding_models]: the model the index uses, picked in S2-06
+    compare: list[str] = Field(min_length=1)  # what `make compare-embeddings` measures
+    batch_size: int = Field(gt=0)
+    cache_dir: str  # model downloads, relative to the repo root (gitignored)
+
+
+class IndexSettings(Settings):
+    path: str  # Qdrant local storage, relative to the repo root (gitignored)
+    collections: dict[str, str] = Field(min_length=1)  # collection name: chunks file
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -123,6 +144,16 @@ class Config(Settings):
     ollama: OllamaSettings
     models: dict[str, ModelConfig]
     sampling: dict[str, SamplingConfig]
+    embedding: EmbeddingSettings
+    embedding_models: dict[str, EmbeddingModel]
+    index: IndexSettings
+
+    @model_validator(mode="after")
+    def embedding_names_exist(self) -> "Config":
+        for key in [self.embedding.model, *self.embedding.compare]:
+            if key not in self.embedding_models:
+                raise ValueError(f"[embedding] model {key!r}: no [embedding_models.{key!r}] table")
+        return self
 
     @model_validator(mode="after")
     def default_sampling_exists(self) -> "Config":
