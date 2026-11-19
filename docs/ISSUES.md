@@ -3,6 +3,18 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-007: Flat heading levels leave tiny structure chunks
+- **Date / task:** 2026-11-19, S2-05 chunking
+- **Problem:** The structure-aware chunker never puts two top-level sections in one chunk. In some documents the parser gives every heading the same level (D038, D029), or the first headings have no parent (D006, level 4 before any level 2). There, every heading counts as a top-level section, so small subsections such as `10.3 Möglichkeit gefährlicher Reaktionen : Keine Angaben` (D038) become chunks of their own. 89 of 2433 structure chunks (4 %) are under 100 characters (`data/chunks/chunking_comparison.md`). The front matter before the first heading is also a chunk of its own, such as `DATE: 22 March 2024` in D011.
+- **Options considered:**
+  - Let short chunks join a neighbour across a top-level section. This mixes SDS sections, and the chunk could then cite only `(no section heading)`.
+  - Infer heading levels from numbering (`10` above `10.1`). This is a real fix, but it changes S2-03 output.
+  - Prepend the document title and section path to each chunk before embedding (contextual chunk headers, a stretch item). A short chunk then still carries its context.
+  - Accept and record it.
+- **Current selection:** accept and record it. Short chunks are precise, and their section metadata is correct.
+- **Revisit if:** S2-10 shows misses on short chunks, or if contextual chunk headers are added.
+- **Status:** accepted.
+
 ## I-006: Known limits of the document cleaning rules
 - **Date / task:** 2026-11-18, S2-04 cleaning and deduplication
 - **Problem:** The cleaning rules leave a few known defects in `data/cleaned/`:

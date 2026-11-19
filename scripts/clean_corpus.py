@@ -14,10 +14,10 @@ from factory_docs.cleaning import (
     find_duplicates,
     removal_rows,
 )
+from factory_docs.corpus import in_scope
 from factory_docs.parsing.model import ParsedDocument, to_review_json
 
 DATA = Path(__file__).resolve().parent.parent / "data"
-MANIFEST = DATA / "manifest.csv"
 PARSED = DATA / "parsed"
 CLEANED = DATA / "cleaned"
 REPORT = CLEANED / "clean_report.csv"
@@ -58,11 +58,6 @@ COLUMNS = [
     "duplicate_of",
 ]
 REMOVED_COLUMNS = ["id", "rule", "pages", "times", "text"]
-
-
-def in_scope() -> list[dict[str, str]]:
-    with MANIFEST.open(encoding="utf-8", newline="") as f:
-        return [row for row in csv.DictReader(f) if row["in_rag_index"] == "yes"]
 
 
 def report_row(result: CleanResult, duplicate_of: str) -> dict[str, str | int]:

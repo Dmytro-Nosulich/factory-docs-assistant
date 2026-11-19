@@ -9,11 +9,11 @@ import logging
 from collections import Counter
 from pathlib import Path
 
+from factory_docs.corpus import in_scope
 from factory_docs.parsing import parse_document
 from factory_docs.parsing.model import ListBlock, ParsedDocument, to_review_json
 
 DATA = Path(__file__).resolve().parent.parent / "data"
-MANIFEST = DATA / "manifest.csv"
 RAW = DATA / "raw"
 PARSED = DATA / "parsed"
 REPORT = PARSED / "parse_report.csv"
@@ -31,11 +31,6 @@ COLUMNS = [
     "non_main_blocks",
     "warnings",
 ]
-
-
-def in_scope() -> list[dict[str, str]]:
-    with MANIFEST.open(encoding="utf-8", newline="") as f:
-        return [row for row in csv.DictReader(f) if row["in_rag_index"] == "yes"]
 
 
 def report_row(document: ParsedDocument) -> dict[str, str | int]:
