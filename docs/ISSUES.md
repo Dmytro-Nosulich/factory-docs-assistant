@@ -28,6 +28,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
 - **Current selection:** accept and record it. Short chunks are precise, and their section metadata is correct.
 - **Seen in S2-06 (2026-11-19):** for the German smoke query `Wie hoch ist der Flammpunkt von RM 110?`, the 70-character chunk `D033-s-0001` (`1.1 Produktidentifikator`, only the trade name) is the top hit of e5-large, embeddinggemma and qwen3-0.6b-q. The chunk that states the flash point, `D033-s-0012` (section 9), is in no model's top 5, because it does not name the product (`data/index/embedding_comparison.md`). Vector search finds the product, not the property. Hybrid search (S2-07), reranking (S2-08) or contextual chunk headers may fix it; S2-10 measures it.
 - **Seen in S2-07 (2026-11-20):** with hybrid search (`make search`, default mode), `D033-s-0012` is rank 2 for the same query (vector rank 18, BM25 rank 44), after `D033-s-0001`. It rises because it is in both candidate lists, not because BM25 ranks it high: it does not contain `RM 110`. One query, not a measurement; S2-10 measures it.
+- **Seen in S2-08 (2026-11-20):** with reranking (`make search RERANK=1`), `D033-s-0012` is rank 1 for the same query, from hybrid rank 2, with both bge-reranker-v2-m3 builds (`data/index/reranker_comparison.md`). The cross-encoder reads `Flammpunkt` in the query and in the chunk together. One query, not a measurement; S2-10 measures it.
 - **Revisit if:** S2-10 shows misses on short chunks, or if contextual chunk headers are added.
 - **Status:** accepted.
 

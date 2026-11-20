@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings index search golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -46,18 +46,34 @@ ingest:
 compare-embeddings:
 	uv run python scripts/compare_embeddings.py
 
+# Compare the multilingual FastEmbed cross-encoders in config.toml on size and speed (S2-08)
+compare-rerankers:
+	uv run python scripts/compare_rerankers.py
+
 # Embed the chunk files and rebuild the Qdrant index in data/index/qdrant/ (S2-06)
 index:
 	uv run python scripts/build_index.py
 
 # Search: make search Q="..." [COLLECTION=structure|fixed] [K=5] [MODE=vector|bm25|hybrid]
-# Without MODE, [search] mode in config.toml applies (hybrid, S2-07).
+#   [RERANK=1|0] [TYPE=sds] [DOC_LANG=uk] [SINCE=2024-01-01] [UNTIL=2025-12-31] [LATEST=1]
+# Without MODE or RERANK, [search] in config.toml applies (hybrid, no reranking). TYPE and
+# DOC_LANG take a comma-separated list. DOC_LANG, because LANG is the shell's locale variable.
 Q ?=
 COLLECTION ?= structure
 K ?= 5
 MODE ?=
+RERANK ?=
+TYPE ?=
+DOC_LANG ?=
+SINCE ?=
+UNTIL ?=
+LATEST ?=
 search:
-	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K) $(if $(MODE),--mode $(MODE))
+	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K) $(if $(MODE),--mode $(MODE)) \
+		$(if $(filter 1,$(RERANK)),--rerank) $(if $(filter 0,$(RERANK)),--no-rerank) \
+		$(if $(TYPE),--doc-type $(TYPE)) $(if $(DOC_LANG),--language $(DOC_LANG)) \
+		$(if $(SINCE),--since $(SINCE)) $(if $(UNTIL),--until $(UNTIL)) \
+		$(if $(filter 1,$(LATEST)),--latest-only)
 
 golden-check:
 	uv run python scripts/check_golden.py

@@ -1,0 +1,1418 @@
+{
+ "machine": {
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "cpu_count": 14,
+  "python": "3.11.17",
+  "fastembed": "0.9.1",
+  "onnxruntime": "1.32.0"
+ },
+ "candidates": 30,
+ "pools": {
+  "uk": [
+   {
+    "chunk_id": "D008-s-0004",
+    "language": "uk",
+    "section": "РОЗДІЛ 4: Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D010-s-0004",
+    "language": "uk",
+    "section": "4. ЗАХОДИ ПЕРШОЇ МЕДИЧНОЇ ДОПОМОГИ"
+   },
+   {
+    "chunk_id": "D006-s-0011",
+    "language": "uk",
+    "section": "4 Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D032-s-0005",
+    "language": "uk",
+    "section": "4 Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D036-s-0010",
+    "language": "uk",
+    "section": "4 Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D036-s-0012",
+    "language": "uk",
+    "section": "6 Заходи при випадковому потраплянні у навколишнє середовище"
+   },
+   {
+    "chunk_id": "D006-s-0013",
+    "language": "uk",
+    "section": "6 Заходи при випадковому потраплянні у навколишнє середовище"
+   },
+   {
+    "chunk_id": "D007-s-0008",
+    "language": "uk",
+    "section": "РОЗДІЛ 6: Заходи при випадковому потраплянні у навколишнє середовище"
+   },
+   {
+    "chunk_id": "D032-s-0007",
+    "language": "uk",
+    "section": "6 Заходи при випадковому потраплянні у навколишнє середовище"
+   },
+   {
+    "chunk_id": "D007-s-0006",
+    "language": "uk",
+    "section": "РОЗДІЛ 4: Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D010-s-0006",
+    "language": "uk",
+    "section": "6. ЗАХОДИ ПРИ АВАРІЙНОМУ ВИКИДІ"
+   },
+   {
+    "chunk_id": "D035-s-0008",
+    "language": "uk",
+    "section": "6 Заходи при випадковому потраплянні у навколишнє середовище"
+   },
+   {
+    "chunk_id": "D008-s-0006",
+    "language": "uk",
+    "section": "РОЗДІЛ 6: При ковтанні"
+   },
+   {
+    "chunk_id": "D032-s-0012",
+    "language": "uk",
+    "section": "11 Інформація про токсичність"
+   },
+   {
+    "chunk_id": "D035-s-0006",
+    "language": "uk",
+    "section": "4 Заходи першої допомоги"
+   },
+   {
+    "chunk_id": "D022-s-0081",
+    "language": "uk",
+    "section": "12. Вибір режиму керування > Q"
+   },
+   {
+    "chunk_id": "D048-s-0005",
+    "language": "en",
+    "section": "SECTION 4: First aid measures"
+   },
+   {
+    "chunk_id": "D036-s-0017",
+    "language": "uk",
+    "section": "11 Інформація про токсичність"
+   },
+   {
+    "chunk_id": "D022-s-0053",
+    "language": "uk",
+    "section": "2. Абревіатури і основні поняття 3. Загальні відомості > 6.2 Почергова робота насосів з двома головками > 5.6.2 Заміна існуючого двигуна"
+   },
+   {
+    "chunk_id": "D052-s-0004",
+    "language": "en",
+    "section": "SECTION 4: First aid measures"
+   },
+   {
+    "chunk_id": "D007-s-0002",
+    "language": "uk",
+    "section": "РОЗДІЛ 2: Можлива небезпека"
+   },
+   {
+    "chunk_id": "D059-s-0009",
+    "language": "fr",
+    "section": "4. PREMIERS SOINS"
+   },
+   {
+    "chunk_id": "D010-s-0026",
+    "language": "uk",
+    "section": "16. ІНША ІНФОРМАЦІЯ > Додаткова інформація"
+   },
+   {
+    "chunk_id": "D053-s-0004",
+    "language": "en",
+    "section": "SECTION 4: First aid measures"
+   },
+   {
+    "chunk_id": "D022-s-0084",
+    "language": "uk",
+    "section": "15. Пріоритет параметрів настройки"
+   },
+   {
+    "chunk_id": "D054-s-0006",
+    "language": "en",
+    "section": "SECTION 4: First aid measures"
+   },
+   {
+    "chunk_id": "D006-s-0018",
+    "language": "uk",
+    "section": "11 Інформація про токсичність"
+   },
+   {
+    "chunk_id": "D008-s-0013",
+    "language": "uk",
+    "section": "РОЗДІЛ 8: Обмеження та контроль впливу / засоби індивідуального захисту > 8.2 Обмеження та контроль впливу > 8.2.2 Індивідуальні заходи захисту, наприклад засоби індивідуального захисту"
+   },
+   {
+    "chunk_id": "D065-s-0007",
+    "language": "es",
+    "section": "SECCIÓN 4. Primeros auxilios"
+   },
+   {
+    "chunk_id": "D022-s-0014",
+    "language": "uk",
+    "section": "TPE, TPED Series 2000 > Інструкції з монтажу та експлуатації > Декларація відповідності"
+   }
+  ],
+  "de": [
+   {
+    "chunk_id": "D033-s-0001",
+    "language": "de",
+    "section": "1.1 Produktidentifikator"
+   },
+   {
+    "chunk_id": "D033-s-0012",
+    "language": "de",
+    "section": "ABSCHNITT 9: Physikalische und chemische Eigenschaften"
+   },
+   {
+    "chunk_id": "D037-s-0009",
+    "language": "de",
+    "section": "ABSCHNITT 8: Begrenzung und Überwachung der Exposition/Persönliche > 9.1 Angaben zu den grundlegenden physikalischen und chemischen Eigenschaften"
+   },
+   {
+    "chunk_id": "D041-s-0009",
+    "language": "en",
+    "section": "9. Physical and chemical properties"
+   },
+   {
+    "chunk_id": "D037-s-0014",
+    "language": "de",
+    "section": "ABSCHNITT 12: Umweltbezogene Angaben"
+   },
+   {
+    "chunk_id": "D038-s-0011",
+    "language": "de",
+    "section": "9.1 Grundlegende physikalische und chemische Eigenschaften"
+   },
+   {
+    "chunk_id": "D038-s-0027",
+    "language": "de",
+    "section": "14.6 Besondere Vorsichtsmaßnahmen für den Verwender: Der Fahrer muß die möglichen Gefahren der"
+   },
+   {
+    "chunk_id": "D066-s-0195",
+    "language": "en",
+    "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.6 FLAMMABLE LIQUIDS"
+   },
+   {
+    "chunk_id": "D037-s-0001",
+    "language": "de",
+    "section": "ABSCHNITT 1: Bezeichnung des Stoffs beziehungsweise des Gemischs und des"
+   },
+   {
+    "chunk_id": "D067-s-0219",
+    "language": "en",
+    "section": "Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory) > Table B.6.1: Criteria for Flammable Liquids"
+   },
+   {
+    "chunk_id": "D044-s-0003",
+    "language": "de",
+    "section": "Sauerstoff 5.0"
+   },
+   {
+    "chunk_id": "D066-s-0196",
+    "language": "en",
+    "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory)"
+   },
+   {
+    "chunk_id": "D033-s-0016",
+    "language": "de",
+    "section": "ABSCHNITT 12: Umweltbezogene Angaben"
+   },
+   {
+    "chunk_id": "D059-s-0021",
+    "language": "fr",
+    "section": "9. PROPRIETES PHYSIQUES ET CHIMIQUES"
+   },
+   {
+    "chunk_id": "D038-s-0008",
+    "language": "de",
+    "section": "6.4 Verweis auf andere Abschnitte: siehe auch Abschitt 8 un 13"
+   },
+   {
+    "chunk_id": "D062-s-0014",
+    "language": "nl",
+    "section": "RUBRIEK 9: Fysische en chemische eigenschappen"
+   },
+   {
+    "chunk_id": "D042-s-0001",
+    "language": "de/fr/it",
+    "section": "(no section heading)"
+   },
+   {
+    "chunk_id": "D053-s-0010",
+    "language": "en",
+    "section": "SECTION 9: Physical and chemical properties"
+   },
+   {
+    "chunk_id": "D037-s-0018",
+    "language": "de",
+    "section": "ABSCHNITT 16: Sonstige Angaben"
+   },
+   {
+    "chunk_id": "D052-s-0012",
+    "language": "en",
+    "section": "SECTION 9: Physical and chemical properties"
+   },
+   {
+    "chunk_id": "D033-s-0006",
+    "language": "de",
+    "section": "ABSCHNITT 3: Zusammensetzung/Angaben zu Bestandteilen"
+   },
+   {
+    "chunk_id": "D057-s-0011",
+    "language": "en",
+    "section": "9. Physical and chemical properties"
+   },
+   {
+    "chunk_id": "D015-s-0000",
+    "language": "de/en",
+    "section": "ZC0003"
+   },
+   {
+    "chunk_id": "D063-s-0010",
+    "language": "nl",
+    "section": "RUBRIEK 8: Maatregelen ter beheersing van blootstelling/persoonlijke"
+   },
+   {
+    "chunk_id": "D022-s-0006",
+    "language": "uk",
+    "section": "TPE, TPED Series 2000 > Інструкції з монтажу та експлуатації > Декларація відповідності"
+   },
+   {
+    "chunk_id": "D067-s-0218",
+    "language": "en",
+    "section": "Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory) > Table B.5.1: Criteria for Gases Under Pressure > B.6 Flammable Liquids"
+   },
+   {
+    "chunk_id": "D037-s-0003",
+    "language": "de",
+    "section": "ABSCHNITT 2: Mögliche Gefahren > 3.2 Gemische"
+   },
+   {
+    "chunk_id": "D048-s-0012",
+    "language": "en",
+    "section": "SECTION 9: Physical and chemical properties"
+   },
+   {
+    "chunk_id": "D038-s-0007",
+    "language": "de",
+    "section": "5.2 Besondere vom Stoff ausgehende Gefahren"
+   },
+   {
+    "chunk_id": "D066-s-0208",
+    "language": "en",
+    "section": "Appendix B to § 1910.1200—Physical Criteria (Mandatory) > B.11 SELF-HEATING CHEMICALS > B.11.2 Classification Criteria"
+   }
+  ],
+  "en": [
+   {
+    "chunk_id": "D075-s-0000",
+    "language": "en",
+    "section": "Modbus Input Plugin"
+   },
+   {
+    "chunk_id": "D075-s-0014",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles"
+   },
+   {
+    "chunk_id": "D074-s-0000",
+    "language": "en",
+    "section": "Modbus Input Plugin"
+   },
+   {
+    "chunk_id": "D077-s-0000",
+    "language": "en",
+    "section": "Siemens S7 Input Plugin"
+   },
+   {
+    "chunk_id": "D075-s-0038",
+    "language": "en",
+    "section": "Modbus Input Plugin > Troubleshooting"
+   },
+   {
+    "chunk_id": "D075-s-0029",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles"
+   },
+   {
+    "chunk_id": "D074-s-0003",
+    "language": "en",
+    "section": "Modbus Input Plugin"
+   },
+   {
+    "chunk_id": "D076-s-0000",
+    "language": "en",
+    "section": "OPC UA Client Reader Input Plugin"
+   },
+   {
+    "chunk_id": "D075-s-0015",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `register` configuration style > Usage of `data_type`"
+   },
+   {
+    "chunk_id": "D074-s-0006",
+    "language": "en",
+    "section": "Modbus Input Plugin > Example Output"
+   },
+   {
+    "chunk_id": "D075-s-0001",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D076-s-0007",
+    "language": "en",
+    "section": "OPC UA Client Reader Input Plugin > Configuration > Client Certificate Configuration"
+   },
+   {
+    "chunk_id": "D074-s-0001",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D074-s-0004",
+    "language": "en",
+    "section": "Modbus Input Plugin > Usage of `data_type`"
+   },
+   {
+    "chunk_id": "D075-s-0039",
+    "language": "en",
+    "section": "Modbus Input Plugin"
+   },
+   {
+    "chunk_id": "D075-s-0024",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `request` configuration style > Field definitions"
+   },
+   {
+    "chunk_id": "D075-s-0017",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `register` configuration style > Usage of `data_type`"
+   },
+   {
+    "chunk_id": "D075-s-0019",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `request` configuration style"
+   },
+   {
+    "chunk_id": "D075-s-0004",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D075-s-0002",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D075-s-0013",
+    "language": "en",
+    "section": "Modbus Input Plugin > Notes"
+   },
+   {
+    "chunk_id": "D075-s-0033",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `metric` configuration style > Field definitions"
+   },
+   {
+    "chunk_id": "D075-s-0012",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D075-s-0020",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `request` configuration style"
+   },
+   {
+    "chunk_id": "D075-s-0016",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `register` configuration style > Usage of `data_type`"
+   },
+   {
+    "chunk_id": "D075-s-0034",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration styles > `metric` configuration style > Field definitions"
+   },
+   {
+    "chunk_id": "D074-s-0005",
+    "language": "en",
+    "section": "Modbus Input Plugin > Trouble shooting"
+   },
+   {
+    "chunk_id": "D075-s-0009",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D075-s-0008",
+    "language": "en",
+    "section": "Modbus Input Plugin > Configuration"
+   },
+   {
+    "chunk_id": "D076-s-0018",
+    "language": "en",
+    "section": "OPC UA Client Reader Input Plugin"
+   }
+  ]
+ },
+ "results": [
+  {
+   "key": "bge-m3",
+   "model": "BAAI/bge-reranker-v2-m3",
+   "size_bytes": 2271745547,
+   "token_limit": 8192,
+   "pairs": 90,
+   "pairs_over_limit": 0,
+   "tokens_p50": 263,
+   "tokens_p95": 440,
+   "tokens_max": 604,
+   "load_s": 0.82,
+   "rerank_s_p50": 4.76,
+   "rerank_s_max": 6.3,
+   "peak_rss_bytes": 3463200768,
+   "ranked": {
+    "uk": [
+     {
+      "chunk_id": "D035-s-0006",
+      "first_stage_rank": 15,
+      "score": 0.4657
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "first_stage_rank": 3,
+      "score": -0.1515
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "first_stage_rank": 4,
+      "score": -0.1515
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "first_stage_rank": 5,
+      "score": -0.2297
+     },
+     {
+      "chunk_id": "D008-s-0004",
+      "first_stage_rank": 1,
+      "score": -0.2884
+     },
+     {
+      "chunk_id": "D054-s-0006",
+      "first_stage_rank": 26,
+      "score": -0.4533
+     },
+     {
+      "chunk_id": "D007-s-0002",
+      "first_stage_rank": 21,
+      "score": -0.6715
+     },
+     {
+      "chunk_id": "D010-s-0004",
+      "first_stage_rank": 2,
+      "score": -0.7929
+     },
+     {
+      "chunk_id": "D059-s-0009",
+      "first_stage_rank": 22,
+      "score": -1.1367
+     },
+     {
+      "chunk_id": "D048-s-0005",
+      "first_stage_rank": 17,
+      "score": -1.1413
+     },
+     {
+      "chunk_id": "D053-s-0004",
+      "first_stage_rank": 24,
+      "score": -1.197
+     },
+     {
+      "chunk_id": "D007-s-0006",
+      "first_stage_rank": 10,
+      "score": -1.2386
+     },
+     {
+      "chunk_id": "D052-s-0004",
+      "first_stage_rank": 20,
+      "score": -1.7017
+     },
+     {
+      "chunk_id": "D008-s-0006",
+      "first_stage_rank": 13,
+      "score": -1.7443
+     },
+     {
+      "chunk_id": "D065-s-0007",
+      "first_stage_rank": 29,
+      "score": -2.8627
+     },
+     {
+      "chunk_id": "D008-s-0013",
+      "first_stage_rank": 28,
+      "score": -4.0631
+     },
+     {
+      "chunk_id": "D007-s-0008",
+      "first_stage_rank": 8,
+      "score": -5.5102
+     },
+     {
+      "chunk_id": "D006-s-0018",
+      "first_stage_rank": 27,
+      "score": -5.9808
+     },
+     {
+      "chunk_id": "D010-s-0006",
+      "first_stage_rank": 11,
+      "score": -5.9837
+     },
+     {
+      "chunk_id": "D035-s-0008",
+      "first_stage_rank": 12,
+      "score": -6.1238
+     },
+     {
+      "chunk_id": "D036-s-0017",
+      "first_stage_rank": 18,
+      "score": -6.1327
+     },
+     {
+      "chunk_id": "D006-s-0013",
+      "first_stage_rank": 7,
+      "score": -6.1668
+     },
+     {
+      "chunk_id": "D032-s-0007",
+      "first_stage_rank": 9,
+      "score": -6.1668
+     },
+     {
+      "chunk_id": "D036-s-0012",
+      "first_stage_rank": 6,
+      "score": -6.1773
+     },
+     {
+      "chunk_id": "D032-s-0012",
+      "first_stage_rank": 14,
+      "score": -6.6
+     },
+     {
+      "chunk_id": "D010-s-0026",
+      "first_stage_rank": 23,
+      "score": -10.9008
+     },
+     {
+      "chunk_id": "D022-s-0084",
+      "first_stage_rank": 25,
+      "score": -10.9502
+     },
+     {
+      "chunk_id": "D022-s-0081",
+      "first_stage_rank": 16,
+      "score": -10.9651
+     },
+     {
+      "chunk_id": "D022-s-0053",
+      "first_stage_rank": 19,
+      "score": -10.9951
+     },
+     {
+      "chunk_id": "D022-s-0014",
+      "first_stage_rank": 30,
+      "score": -11.0084
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D033-s-0012",
+      "first_stage_rank": 2,
+      "score": -3.2286
+     },
+     {
+      "chunk_id": "D041-s-0009",
+      "first_stage_rank": 4,
+      "score": -3.8424
+     },
+     {
+      "chunk_id": "D053-s-0010",
+      "first_stage_rank": 18,
+      "score": -4.4033
+     },
+     {
+      "chunk_id": "D038-s-0011",
+      "first_stage_rank": 6,
+      "score": -4.4556
+     },
+     {
+      "chunk_id": "D037-s-0009",
+      "first_stage_rank": 3,
+      "score": -4.4897
+     },
+     {
+      "chunk_id": "D052-s-0012",
+      "first_stage_rank": 20,
+      "score": -5.1024
+     },
+     {
+      "chunk_id": "D042-s-0001",
+      "first_stage_rank": 17,
+      "score": -5.1807
+     },
+     {
+      "chunk_id": "D062-s-0014",
+      "first_stage_rank": 16,
+      "score": -5.2292
+     },
+     {
+      "chunk_id": "D048-s-0012",
+      "first_stage_rank": 28,
+      "score": -5.3022
+     },
+     {
+      "chunk_id": "D066-s-0195",
+      "first_stage_rank": 8,
+      "score": -5.6557
+     },
+     {
+      "chunk_id": "D063-s-0010",
+      "first_stage_rank": 24,
+      "score": -5.6734
+     },
+     {
+      "chunk_id": "D059-s-0021",
+      "first_stage_rank": 14,
+      "score": -5.7541
+     },
+     {
+      "chunk_id": "D067-s-0219",
+      "first_stage_rank": 10,
+      "score": -5.906
+     },
+     {
+      "chunk_id": "D057-s-0011",
+      "first_stage_rank": 22,
+      "score": -6.4918
+     },
+     {
+      "chunk_id": "D033-s-0001",
+      "first_stage_rank": 1,
+      "score": -6.5377
+     },
+     {
+      "chunk_id": "D067-s-0218",
+      "first_stage_rank": 26,
+      "score": -6.6018
+     },
+     {
+      "chunk_id": "D066-s-0208",
+      "first_stage_rank": 30,
+      "score": -7.2811
+     },
+     {
+      "chunk_id": "D037-s-0001",
+      "first_stage_rank": 9,
+      "score": -7.7312
+     },
+     {
+      "chunk_id": "D037-s-0018",
+      "first_stage_rank": 19,
+      "score": -8.0271
+     },
+     {
+      "chunk_id": "D066-s-0196",
+      "first_stage_rank": 12,
+      "score": -8.1022
+     },
+     {
+      "chunk_id": "D038-s-0008",
+      "first_stage_rank": 15,
+      "score": -9.0629
+     },
+     {
+      "chunk_id": "D037-s-0014",
+      "first_stage_rank": 5,
+      "score": -9.4059
+     },
+     {
+      "chunk_id": "D015-s-0000",
+      "first_stage_rank": 23,
+      "score": -10.1254
+     },
+     {
+      "chunk_id": "D044-s-0003",
+      "first_stage_rank": 11,
+      "score": -10.4191
+     },
+     {
+      "chunk_id": "D033-s-0016",
+      "first_stage_rank": 13,
+      "score": -10.4279
+     },
+     {
+      "chunk_id": "D038-s-0007",
+      "first_stage_rank": 29,
+      "score": -10.5346
+     },
+     {
+      "chunk_id": "D033-s-0006",
+      "first_stage_rank": 21,
+      "score": -10.6968
+     },
+     {
+      "chunk_id": "D022-s-0006",
+      "first_stage_rank": 25,
+      "score": -10.7357
+     },
+     {
+      "chunk_id": "D037-s-0003",
+      "first_stage_rank": 27,
+      "score": -10.9013
+     },
+     {
+      "chunk_id": "D038-s-0027",
+      "first_stage_rank": 7,
+      "score": -10.9722
+     }
+    ],
+    "en": [
+     {
+      "chunk_id": "D075-s-0014",
+      "first_stage_rank": 2,
+      "score": 4.6935
+     },
+     {
+      "chunk_id": "D075-s-0000",
+      "first_stage_rank": 1,
+      "score": 4.5106
+     },
+     {
+      "chunk_id": "D074-s-0001",
+      "first_stage_rank": 13,
+      "score": 3.4519
+     },
+     {
+      "chunk_id": "D075-s-0001",
+      "first_stage_rank": 11,
+      "score": 3.0413
+     },
+     {
+      "chunk_id": "D074-s-0000",
+      "first_stage_rank": 3,
+      "score": 2.8437
+     },
+     {
+      "chunk_id": "D075-s-0029",
+      "first_stage_rank": 6,
+      "score": 2.2677
+     },
+     {
+      "chunk_id": "D077-s-0000",
+      "first_stage_rank": 4,
+      "score": 2.0524
+     },
+     {
+      "chunk_id": "D076-s-0000",
+      "first_stage_rank": 8,
+      "score": 1.8819
+     },
+     {
+      "chunk_id": "D076-s-0007",
+      "first_stage_rank": 12,
+      "score": 1.5332
+     },
+     {
+      "chunk_id": "D075-s-0008",
+      "first_stage_rank": 29,
+      "score": 1.0816
+     },
+     {
+      "chunk_id": "D075-s-0038",
+      "first_stage_rank": 5,
+      "score": 0.9885
+     },
+     {
+      "chunk_id": "D075-s-0002",
+      "first_stage_rank": 20,
+      "score": 0.3528
+     },
+     {
+      "chunk_id": "D075-s-0004",
+      "first_stage_rank": 19,
+      "score": 0.2882
+     },
+     {
+      "chunk_id": "D075-s-0019",
+      "first_stage_rank": 18,
+      "score": -0.0038
+     },
+     {
+      "chunk_id": "D075-s-0039",
+      "first_stage_rank": 15,
+      "score": -0.3924
+     },
+     {
+      "chunk_id": "D075-s-0015",
+      "first_stage_rank": 9,
+      "score": -0.5855
+     },
+     {
+      "chunk_id": "D074-s-0003",
+      "first_stage_rank": 7,
+      "score": -1.1163
+     },
+     {
+      "chunk_id": "D074-s-0006",
+      "first_stage_rank": 10,
+      "score": -2.0352
+     },
+     {
+      "chunk_id": "D074-s-0004",
+      "first_stage_rank": 14,
+      "score": -2.177
+     },
+     {
+      "chunk_id": "D074-s-0005",
+      "first_stage_rank": 27,
+      "score": -2.2784
+     },
+     {
+      "chunk_id": "D075-s-0017",
+      "first_stage_rank": 17,
+      "score": -2.7756
+     },
+     {
+      "chunk_id": "D075-s-0012",
+      "first_stage_rank": 23,
+      "score": -3.0951
+     },
+     {
+      "chunk_id": "D076-s-0018",
+      "first_stage_rank": 30,
+      "score": -3.3509
+     },
+     {
+      "chunk_id": "D075-s-0034",
+      "first_stage_rank": 26,
+      "score": -3.6005
+     },
+     {
+      "chunk_id": "D075-s-0016",
+      "first_stage_rank": 25,
+      "score": -3.7254
+     },
+     {
+      "chunk_id": "D075-s-0020",
+      "first_stage_rank": 24,
+      "score": -3.998
+     },
+     {
+      "chunk_id": "D075-s-0024",
+      "first_stage_rank": 16,
+      "score": -4.0693
+     },
+     {
+      "chunk_id": "D075-s-0013",
+      "first_stage_rank": 21,
+      "score": -4.1691
+     },
+     {
+      "chunk_id": "D075-s-0009",
+      "first_stage_rank": 28,
+      "score": -4.3189
+     },
+     {
+      "chunk_id": "D075-s-0033",
+      "first_stage_rank": 22,
+      "score": -5.3447
+     }
+    ]
+   },
+   "licence": "apache-2.0"
+  },
+  {
+   "key": "bge-m3-int8",
+   "model": "BAAI/bge-reranker-v2-m3-int8",
+   "size_bytes": 570727094,
+   "token_limit": 8192,
+   "pairs": 90,
+   "pairs_over_limit": 0,
+   "tokens_p50": 263,
+   "tokens_p95": 440,
+   "tokens_max": 604,
+   "load_s": 0.54,
+   "rerank_s_p50": 4.0,
+   "rerank_s_max": 5.44,
+   "peak_rss_bytes": 2720448512,
+   "ranked": {
+    "uk": [
+     {
+      "chunk_id": "D035-s-0006",
+      "first_stage_rank": 15,
+      "score": 0.2577
+     },
+     {
+      "chunk_id": "D006-s-0011",
+      "first_stage_rank": 3,
+      "score": -0.2687
+     },
+     {
+      "chunk_id": "D032-s-0005",
+      "first_stage_rank": 4,
+      "score": -0.2687
+     },
+     {
+      "chunk_id": "D008-s-0004",
+      "first_stage_rank": 1,
+      "score": -0.2758
+     },
+     {
+      "chunk_id": "D036-s-0010",
+      "first_stage_rank": 5,
+      "score": -0.2764
+     },
+     {
+      "chunk_id": "D054-s-0006",
+      "first_stage_rank": 26,
+      "score": -0.3268
+     },
+     {
+      "chunk_id": "D007-s-0002",
+      "first_stage_rank": 21,
+      "score": -0.429
+     },
+     {
+      "chunk_id": "D010-s-0004",
+      "first_stage_rank": 2,
+      "score": -0.9744
+     },
+     {
+      "chunk_id": "D048-s-0005",
+      "first_stage_rank": 17,
+      "score": -1.0072
+     },
+     {
+      "chunk_id": "D059-s-0009",
+      "first_stage_rank": 22,
+      "score": -1.0516
+     },
+     {
+      "chunk_id": "D007-s-0006",
+      "first_stage_rank": 10,
+      "score": -1.1772
+     },
+     {
+      "chunk_id": "D053-s-0004",
+      "first_stage_rank": 24,
+      "score": -1.2807
+     },
+     {
+      "chunk_id": "D052-s-0004",
+      "first_stage_rank": 20,
+      "score": -1.6388
+     },
+     {
+      "chunk_id": "D008-s-0006",
+      "first_stage_rank": 13,
+      "score": -1.9065
+     },
+     {
+      "chunk_id": "D065-s-0007",
+      "first_stage_rank": 29,
+      "score": -2.6
+     },
+     {
+      "chunk_id": "D008-s-0013",
+      "first_stage_rank": 28,
+      "score": -4.2032
+     },
+     {
+      "chunk_id": "D007-s-0008",
+      "first_stage_rank": 8,
+      "score": -5.4412
+     },
+     {
+      "chunk_id": "D006-s-0018",
+      "first_stage_rank": 27,
+      "score": -5.6716
+     },
+     {
+      "chunk_id": "D036-s-0017",
+      "first_stage_rank": 18,
+      "score": -5.8565
+     },
+     {
+      "chunk_id": "D006-s-0013",
+      "first_stage_rank": 7,
+      "score": -6.0318
+     },
+     {
+      "chunk_id": "D032-s-0007",
+      "first_stage_rank": 9,
+      "score": -6.101
+     },
+     {
+      "chunk_id": "D036-s-0012",
+      "first_stage_rank": 6,
+      "score": -6.1255
+     },
+     {
+      "chunk_id": "D010-s-0006",
+      "first_stage_rank": 11,
+      "score": -6.1275
+     },
+     {
+      "chunk_id": "D032-s-0012",
+      "first_stage_rank": 14,
+      "score": -6.1328
+     },
+     {
+      "chunk_id": "D035-s-0008",
+      "first_stage_rank": 12,
+      "score": -6.3715
+     },
+     {
+      "chunk_id": "D010-s-0026",
+      "first_stage_rank": 23,
+      "score": -10.8619
+     },
+     {
+      "chunk_id": "D022-s-0084",
+      "first_stage_rank": 25,
+      "score": -10.9496
+     },
+     {
+      "chunk_id": "D022-s-0053",
+      "first_stage_rank": 19,
+      "score": -10.9512
+     },
+     {
+      "chunk_id": "D022-s-0081",
+      "first_stage_rank": 16,
+      "score": -10.9675
+     },
+     {
+      "chunk_id": "D022-s-0014",
+      "first_stage_rank": 30,
+      "score": -10.9972
+     }
+    ],
+    "de": [
+     {
+      "chunk_id": "D033-s-0012",
+      "first_stage_rank": 2,
+      "score": -3.2318
+     },
+     {
+      "chunk_id": "D041-s-0009",
+      "first_stage_rank": 4,
+      "score": -3.5258
+     },
+     {
+      "chunk_id": "D037-s-0009",
+      "first_stage_rank": 3,
+      "score": -4.3309
+     },
+     {
+      "chunk_id": "D038-s-0011",
+      "first_stage_rank": 6,
+      "score": -4.3654
+     },
+     {
+      "chunk_id": "D053-s-0010",
+      "first_stage_rank": 18,
+      "score": -4.3873
+     },
+     {
+      "chunk_id": "D052-s-0012",
+      "first_stage_rank": 20,
+      "score": -4.7997
+     },
+     {
+      "chunk_id": "D059-s-0021",
+      "first_stage_rank": 14,
+      "score": -5.2151
+     },
+     {
+      "chunk_id": "D048-s-0012",
+      "first_stage_rank": 28,
+      "score": -5.2317
+     },
+     {
+      "chunk_id": "D062-s-0014",
+      "first_stage_rank": 16,
+      "score": -5.2458
+     },
+     {
+      "chunk_id": "D042-s-0001",
+      "first_stage_rank": 17,
+      "score": -5.2868
+     },
+     {
+      "chunk_id": "D066-s-0195",
+      "first_stage_rank": 8,
+      "score": -5.3758
+     },
+     {
+      "chunk_id": "D067-s-0219",
+      "first_stage_rank": 10,
+      "score": -5.5599
+     },
+     {
+      "chunk_id": "D033-s-0001",
+      "first_stage_rank": 1,
+      "score": -6.0562
+     },
+     {
+      "chunk_id": "D057-s-0011",
+      "first_stage_rank": 22,
+      "score": -6.269
+     },
+     {
+      "chunk_id": "D063-s-0010",
+      "first_stage_rank": 24,
+      "score": -6.3262
+     },
+     {
+      "chunk_id": "D067-s-0218",
+      "first_stage_rank": 26,
+      "score": -6.3787
+     },
+     {
+      "chunk_id": "D066-s-0208",
+      "first_stage_rank": 30,
+      "score": -7.0515
+     },
+     {
+      "chunk_id": "D037-s-0001",
+      "first_stage_rank": 9,
+      "score": -7.5177
+     },
+     {
+      "chunk_id": "D037-s-0018",
+      "first_stage_rank": 19,
+      "score": -7.8946
+     },
+     {
+      "chunk_id": "D066-s-0196",
+      "first_stage_rank": 12,
+      "score": -8.1661
+     },
+     {
+      "chunk_id": "D037-s-0014",
+      "first_stage_rank": 5,
+      "score": -8.2687
+     },
+     {
+      "chunk_id": "D038-s-0008",
+      "first_stage_rank": 15,
+      "score": -8.6285
+     },
+     {
+      "chunk_id": "D038-s-0007",
+      "first_stage_rank": 29,
+      "score": -9.9122
+     },
+     {
+      "chunk_id": "D033-s-0016",
+      "first_stage_rank": 13,
+      "score": -9.9367
+     },
+     {
+      "chunk_id": "D044-s-0003",
+      "first_stage_rank": 11,
+      "score": -10.2092
+     },
+     {
+      "chunk_id": "D015-s-0000",
+      "first_stage_rank": 23,
+      "score": -10.5258
+     },
+     {
+      "chunk_id": "D033-s-0006",
+      "first_stage_rank": 21,
+      "score": -10.7684
+     },
+     {
+      "chunk_id": "D022-s-0006",
+      "first_stage_rank": 25,
+      "score": -10.8294
+     },
+     {
+      "chunk_id": "D037-s-0003",
+      "first_stage_rank": 27,
+      "score": -10.8986
+     },
+     {
+      "chunk_id": "D038-s-0027",
+      "first_stage_rank": 7,
+      "score": -10.9332
+     }
+    ],
+    "en": [
+     {
+      "chunk_id": "D075-s-0000",
+      "first_stage_rank": 1,
+      "score": 4.4895
+     },
+     {
+      "chunk_id": "D075-s-0014",
+      "first_stage_rank": 2,
+      "score": 4.3471
+     },
+     {
+      "chunk_id": "D074-s-0001",
+      "first_stage_rank": 13,
+      "score": 3.5094
+     },
+     {
+      "chunk_id": "D075-s-0001",
+      "first_stage_rank": 11,
+      "score": 2.8918
+     },
+     {
+      "chunk_id": "D074-s-0000",
+      "first_stage_rank": 3,
+      "score": 2.7379
+     },
+     {
+      "chunk_id": "D077-s-0000",
+      "first_stage_rank": 4,
+      "score": 2.1999
+     },
+     {
+      "chunk_id": "D075-s-0029",
+      "first_stage_rank": 6,
+      "score": 2.1212
+     },
+     {
+      "chunk_id": "D076-s-0007",
+      "first_stage_rank": 12,
+      "score": 1.7504
+     },
+     {
+      "chunk_id": "D076-s-0000",
+      "first_stage_rank": 8,
+      "score": 1.5985
+     },
+     {
+      "chunk_id": "D075-s-0038",
+      "first_stage_rank": 5,
+      "score": 1.0618
+     },
+     {
+      "chunk_id": "D075-s-0008",
+      "first_stage_rank": 29,
+      "score": 0.8546
+     },
+     {
+      "chunk_id": "D075-s-0002",
+      "first_stage_rank": 20,
+      "score": 0.4098
+     },
+     {
+      "chunk_id": "D075-s-0004",
+      "first_stage_rank": 19,
+      "score": 0.0984
+     },
+     {
+      "chunk_id": "D075-s-0019",
+      "first_stage_rank": 18,
+      "score": 0.0213
+     },
+     {
+      "chunk_id": "D075-s-0015",
+      "first_stage_rank": 9,
+      "score": -0.4871
+     },
+     {
+      "chunk_id": "D075-s-0039",
+      "first_stage_rank": 15,
+      "score": -0.5226
+     },
+     {
+      "chunk_id": "D074-s-0003",
+      "first_stage_rank": 7,
+      "score": -0.5234
+     },
+     {
+      "chunk_id": "D074-s-0006",
+      "first_stage_rank": 10,
+      "score": -1.8604
+     },
+     {
+      "chunk_id": "D074-s-0005",
+      "first_stage_rank": 27,
+      "score": -2.049
+     },
+     {
+      "chunk_id": "D074-s-0004",
+      "first_stage_rank": 14,
+      "score": -2.3545
+     },
+     {
+      "chunk_id": "D075-s-0012",
+      "first_stage_rank": 23,
+      "score": -2.8309
+     },
+     {
+      "chunk_id": "D075-s-0017",
+      "first_stage_rank": 17,
+      "score": -2.8853
+     },
+     {
+      "chunk_id": "D075-s-0034",
+      "first_stage_rank": 26,
+      "score": -3.3181
+     },
+     {
+      "chunk_id": "D076-s-0018",
+      "first_stage_rank": 30,
+      "score": -3.4107
+     },
+     {
+      "chunk_id": "D075-s-0020",
+      "first_stage_rank": 24,
+      "score": -3.6906
+     },
+     {
+      "chunk_id": "D075-s-0024",
+      "first_stage_rank": 16,
+      "score": -4.0187
+     },
+     {
+      "chunk_id": "D075-s-0016",
+      "first_stage_rank": 25,
+      "score": -4.1696
+     },
+     {
+      "chunk_id": "D075-s-0013",
+      "first_stage_rank": 21,
+      "score": -4.2631
+     },
+     {
+      "chunk_id": "D075-s-0009",
+      "first_stage_rank": 28,
+      "score": -4.4454
+     },
+     {
+      "chunk_id": "D075-s-0033",
+      "first_stage_rank": 22,
+      "score": -5.137
+     }
+    ]
+   },
+   "licence": "apache-2.0"
+  }
+ ]
+}

@@ -27,7 +27,18 @@
    "bm25_avg_tokens": 129.58,
    "bm25_vocabulary": 27027,
    "bm25_colliding_terms": 0,
-   "build_s": 200.3
+   "documents": 69,
+   "superseded_documents": [
+    "D066",
+    "D071",
+    "D074"
+   ],
+   "undated_documents": [
+    "D016",
+    "D017",
+    "D018"
+   ],
+   "build_s": 203.1
   },
   "fixed": {
    "chunks_file": "data/chunks/chunks_fixed.jsonl",
@@ -37,7 +48,18 @@
    "bm25_avg_tokens": 202.3,
    "bm25_vocabulary": 27027,
    "bm25_colliding_terms": 0,
-   "build_s": 169.1
+   "documents": 69,
+   "superseded_documents": [
+    "D066",
+    "D071",
+    "D074"
+   ],
+   "undated_documents": [
+    "D016",
+    "D017",
+    "D018"
+   ],
+   "build_s": 171.2
   }
  }
 }

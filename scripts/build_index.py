@@ -1,11 +1,11 @@
-"""Embed the chunk files and (re)build the Qdrant index (S2-06, BM25 vectors since S2-07).
+"""Embed the chunk files and (re)build the Qdrant index (S2-06; BM25 S2-07; filter fields S2-08).
 
 Reads the chunk files named in config.toml [index] (run `make ingest` first when chunking
 changes), embeds them with the [embedding] model, adds BM25 sparse vectors with the [search]
 k1 and b, and writes one collection per chunking strategy to data/index/qdrant/ (gitignored).
 Writes data/index/index_build.json: model, prefixes, BM25 parameters, the hash of each chunks
-file, point counts, truncation, average chunk length in BM25 tokens and vocabulary size, so a
-build can be traced.
+file, point counts, truncation, average chunk length in BM25 tokens and vocabulary size, and
+which documents the filters treat as superseded or undated, so a build can be traced.
 Usage: uv run python scripts/build_index.py
 """
 
@@ -18,7 +18,7 @@ from qdrant_client import QdrantClient
 
 from factory_docs.config import ROOT, load_config
 from factory_docs.embedding import FastEmbedder
-from factory_docs.index import build_collection, load_chunks
+from factory_docs.index import build_collection, load_chunks, parse_doc_date
 from factory_docs.lexical import Bm25Encoder, vocabulary
 
 RECORD = ROOT / "data" / "index" / "index_build.json"
@@ -64,6 +64,10 @@ def main() -> None:
             points = build_collection(client, name, chunks, embedder, bm25)
             seconds = time.perf_counter() - start
             truncated = sum(limit is not None and n > limit for n in lengths)
+            superseded = sorted({c.supersedes for c in chunks if c.supersedes})
+            undated = sorted(
+                {c.doc_id for c in chunks if parse_doc_date(c.version_or_date) is None}
+            )
             record["collections"][name] = {
                 "chunks_file": chunks_file,
                 "chunks_sha256": file_sha256(path),
@@ -72,11 +76,15 @@ def main() -> None:
                 "bm25_avg_tokens": round(bm25.avg_len, 2),
                 "bm25_vocabulary": terms,
                 "bm25_colliding_terms": colliding,
+                "documents": len({c.doc_id for c in chunks}),
+                "superseded_documents": superseded,  # is_latest false (S2-08)
+                "undated_documents": undated,  # doc_date null: a date filter leaves them out
                 "build_s": round(seconds, 1),
             }
             print(
                 f"{name}: {points} points in {seconds:.0f} s, {truncated} chunks truncated, "
-                f"{terms} BM25 terms ({colliding} share a term ID)"
+                f"{terms} BM25 terms ({colliding} share a term ID), superseded {superseded}, "
+                f"undated {undated}"
             )
     finally:
         client.close()

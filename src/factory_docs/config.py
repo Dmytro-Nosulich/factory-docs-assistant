@@ -131,6 +131,19 @@ class EmbeddingSettings(Settings):
     cache_dir: str  # model downloads, relative to the repo root (gitignored)
 
 
+class RerankerModel(Settings):
+    """A FastEmbed cross-encoder, S2-08."""
+
+    name: str  # the FastEmbed model name, e.g. BAAI/bge-reranker-v2-m3
+
+
+class RerankingSettings(Settings):
+    model: str  # key in [reranker_models]: the model search uses, picked in S2-08
+    compare: list[str] = Field(min_length=1)  # what `make compare-rerankers` measures
+    candidates: int = Field(gt=0)  # first-stage hits the reranker rescores
+    batch_size: int = Field(gt=0)
+
+
 class IndexSettings(Settings):
     path: str  # Qdrant local storage, relative to the repo root (gitignored)
     collections: dict[str, str] = Field(min_length=1)  # collection name: chunks file
@@ -143,6 +156,7 @@ class SearchSettings(Settings):
     """Retrieval, S2-07. bm25_k1 and bm25_b are baked into the index by `make index`."""
 
     mode: SearchMode  # what `make search` runs when no MODE is given
+    rerank: bool  # whether `make search` reranks when RERANK is not given, S2-08
     prefetch_k: int = Field(gt=0)  # candidates each retriever hands to fusion
     rrf_k: int = Field(gt=0)  # RRF constant: score = sum of 1 / (rrf_k + rank)
     bm25_k1: float = Field(gt=0)  # term-frequency saturation
@@ -161,12 +175,21 @@ class Config(Settings):
     embedding_models: dict[str, EmbeddingModel]
     index: IndexSettings
     search: SearchSettings
+    reranking: RerankingSettings
+    reranker_models: dict[str, RerankerModel]
 
     @model_validator(mode="after")
     def embedding_names_exist(self) -> "Config":
         for key in [self.embedding.model, *self.embedding.compare]:
             if key not in self.embedding_models:
                 raise ValueError(f"[embedding] model {key!r}: no [embedding_models.{key!r}] table")
+        return self
+
+    @model_validator(mode="after")
+    def reranker_names_exist(self) -> "Config":
+        for key in [self.reranking.model, *self.reranking.compare]:
+            if key not in self.reranker_models:
+                raise ValueError(f"[reranking] model {key!r}: no [reranker_models.{key!r}] table")
         return self
 
     @model_validator(mode="after")

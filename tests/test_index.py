@@ -1,9 +1,12 @@
-"""The index and search (S2-06, S2-07), offline: fake embedders and an in-memory Qdrant."""
+"""The index and search (S2-06 to S2-08), offline: fake embedders, a fake reranker and an
+in-memory Qdrant. One test runs the real reranker, only when it is already downloaded."""
 
+import csv
 import hashlib
 import math
 import re
 from collections.abc import Sequence
+from datetime import date
 from itertools import islice
 
 import pytest
@@ -16,16 +19,23 @@ from factory_docs.embedding import FastEmbedder
 from factory_docs.index import (
     BM25,
     DENSE,
+    NO_FILTER,
+    Hit,
+    SearchFilter,
     build_collection,
+    filter_fields,
     hybrid_search,
     lexical_search,
     load_chunks,
+    parse_doc_date,
     point_id,
+    rerank,
     rrf,
     search,
     vector_search,
 )
 from factory_docs.lexical import Bm25Encoder
+from factory_docs.rerank import FastReranker
 
 CHUNKS = ROOT / "data" / "chunks" / "chunks.jsonl"
 WORD = re.compile(r"\w+")
@@ -110,7 +120,7 @@ def test_every_chunk_becomes_one_point_with_all_metadata(client, chunks):
     by_id = {p.id: p for p in points}
     for chunk in chunks:
         point = by_id[point_id(chunk.chunk_id)]
-        assert point.payload == chunk.model_dump()
+        assert point.payload == chunk.model_dump() | filter_fields(chunk, set())
         assert len(point.vector[DENSE]) == HashEmbedder.dimension
         assert point.vector[BM25] == bm25.encode_passage(chunk.text)
 
@@ -140,8 +150,9 @@ def test_vector_search_returns_the_closest_chunk_first(client, chunks):
     assert hits[0].score >= hits[1].score >= hits[2].score
 
 
-def make_chunk(base: Chunk, chunk_id: str, text: str) -> Chunk:
-    return base.model_copy(update={"chunk_id": chunk_id, "text": text, "chars": len(text)})
+def make_chunk(base: Chunk, chunk_id: str, text: str, **fields) -> Chunk:
+    update = {"chunk_id": chunk_id, "text": text, "chars": len(text), **fields}
+    return base.model_copy(update=update)
 
 
 def test_bm25_score_is_qdrant_idf_times_the_term_weight(client, chunks):
@@ -338,3 +349,256 @@ def test_search_settings_are_validated(tmp_path):
     path = config_with(tmp_path, 'mode = "hybrid"', 'mode = "fuzzy"')
     with pytest.raises(ValidationError, match="mode"):
         load_config(path)
+
+
+# --- S2-08: filter fields --------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    ("text", "expected"),
+    [
+        ("v1.3, 2020-02-20", "2020-02-20"),
+        ("as of 2024-05-01", "2024-05-01"),
+        ("KA01385D/06/EN/02.19, 2019-02-01", "2019-02-01"),
+        ("publication 98476041 0813; declaration 2013-07-15", "2013-07-15"),
+        ("2015 MSGP, file posted 2015-11", "2015-11-01"),
+        ("2021 MSGP, February 2021", "2021-02-01"),
+        ("2014 (from file name)", "2014-01-01"),
+        ("no date", None),
+        ("v1.40.3", None),
+    ],
+)
+def test_the_document_date_comes_from_version_or_date(text, expected):
+    assert parse_doc_date(text) == expected
+
+
+def test_every_document_in_scope_has_a_date_except_the_three_undated_ones():
+    with (ROOT / "data" / "manifest.csv").open(encoding="utf-8") as f:
+        rows = [row for row in csv.DictReader(f) if row["in_rag_index"] == "yes"]
+    undated = [row["id"] for row in rows if parse_doc_date(row["version_or_date"]) is None]
+    assert undated == ["D016", "D017", "D018"]  # version_or_date is "no date"
+
+
+def test_only_the_three_old_versions_are_not_latest_in_the_committed_chunks():
+    for chunks_file in load_config().index.collections.values():
+        chunks = load_chunks(ROOT / chunks_file)
+        superseded = {c.supersedes for c in chunks if c.supersedes}
+        not_latest = {c.doc_id for c in chunks if not filter_fields(c, superseded)["is_latest"]}
+        assert not_latest == {"D066", "D071", "D074"}
+
+
+def test_a_multilingual_document_counts_for_each_of_its_languages(chunks):
+    assert filter_fields(chunks[0].model_copy(update={"language": "de/en"}), set())[
+        "languages"
+    ] == ["de", "en"]
+    assert filter_fields(chunks[0], set())["languages"] == [chunks[0].language]
+
+
+# --- S2-08: filters exclude documents ----------------------------------------------------------
+
+# Every text shares the query words, so without a filter every document is a hit, and a missing
+# document below can only be the filter's doing.
+CATALOG = {
+    "D901": dict(doc_type="sds", language="en", version_or_date="v1, 2020-02-20"),
+    "D902": dict(doc_type="sds", language="uk", version_or_date="v2, 2024-07-26"),
+    "D903": dict(doc_type="manual", language="de/en", version_or_date="2019-02-01"),
+    "D904": dict(
+        doc_type="regulation_guideline", language="en", version_or_date="as of 2024-05-01"
+    ),
+    "D905": dict(
+        doc_type="regulation_guideline",
+        language="en",
+        version_or_date="as of 2026-11-02",
+        supersedes="D904",
+    ),
+    "D906": dict(doc_type="sds", language="en", version_or_date="no date"),
+}
+QUERY = "flash point solvent"
+MODES = ["vector", "bm25", "hybrid"]
+
+
+@pytest.fixture
+def catalog(client, chunks):
+    docs = [
+        make_chunk(
+            chunks[0],
+            f"{doc_id}-s-0000",
+            f"{QUERY} {doc_id}",
+            doc_id=doc_id,
+            **{"supersedes": None, **fields},
+        )
+        for doc_id, fields in CATALOG.items()
+    ]
+    build(client, "structure", docs)
+    return client
+
+
+def found(client, search_filter: SearchFilter, mode: str, k: int = 10) -> set[str]:
+    settings = load_config().search
+    hits = search(client, "structure", QUERY, HashEmbedder(), k, settings, mode, search_filter)
+    return {hit.chunk.doc_id for hit in hits}
+
+
+@pytest.mark.parametrize("mode", MODES)
+def test_without_a_filter_every_document_is_found(catalog, mode):
+    assert found(catalog, NO_FILTER, mode) == set(CATALOG)
+
+
+@pytest.mark.parametrize("mode", MODES)
+@pytest.mark.parametrize(
+    ("search_filter", "expected"),
+    [
+        (SearchFilter(doc_types=("sds",)), {"D901", "D902", "D906"}),
+        (SearchFilter(doc_types=("manual", "sds")), {"D901", "D902", "D903", "D906"}),
+        (SearchFilter(languages=("uk",)), {"D902"}),
+        (SearchFilter(languages=("de",)), {"D903"}),  # the de/en manual
+        (SearchFilter(languages=("en",)), {"D901", "D903", "D904", "D905", "D906"}),
+        (SearchFilter(latest_only=True), set(CATALOG) - {"D904"}),
+        (SearchFilter(date_from=date(2024, 1, 1)), {"D902", "D904", "D905"}),  # D906 undated
+        (SearchFilter(date_to=date(2020, 2, 20)), {"D901", "D903"}),  # the bound is inclusive
+        (SearchFilter(date_from=date(2024, 5, 1), date_to=date(2024, 5, 1)), {"D904"}),
+        (SearchFilter(doc_types=("sds",), date_from=date(2021, 1, 1)), {"D902"}),  # AND
+        (SearchFilter(doc_types=("regulation_guideline",), latest_only=True), {"D905"}),
+    ],
+)
+def test_filters_exclude_documents(catalog, mode, search_filter, expected):
+    assert found(catalog, search_filter, mode) == expected
+
+
+def test_a_filtered_search_still_returns_k_hits(catalog):
+    # Qdrant filters before ranking, not after: k = 2 gives 2 SDS, not "2 hits minus non-SDS"
+    for mode in MODES:
+        assert len(found(catalog, SearchFilter(doc_types=("sds",)), mode, k=2)) == 2
+
+
+def test_an_empty_filter_is_no_filter():
+    assert SearchFilter().to_qdrant() is None
+    assert SearchFilter().describe() == "none"
+
+
+def test_a_filter_matching_nothing_returns_nothing(catalog):
+    for mode in MODES:
+        assert found(catalog, SearchFilter(languages=("ja",)), mode) == set()
+
+
+# --- S2-08: reranking changes the order --------------------------------------------------------
+
+
+class FakeReranker:
+    """Scores each text by a table lookup; records what it was asked to score."""
+
+    model_name = "fake/table-reranker"
+
+    def __init__(self, scores: dict[str, float] | None = None, default: float = 0.0) -> None:
+        self.scores = scores or {}
+        self.default = default
+        self.calls: list[list[str]] = []
+
+    def score(self, query: str, texts: Sequence[str]) -> list[float]:
+        self.calls.append(list(texts))
+        return [next((v for k, v in self.scores.items() if k in t), self.default) for t in texts]
+
+
+def test_reranking_moves_a_low_candidate_to_the_top(sds_like):
+    settings = load_config().search
+    query = "after swallowing"
+    first = search(sds_like, "structure", query, ConceptEmbedder(), 8, settings)
+    last = first[-1]
+    reranker = FakeReranker({last.chunk.text: 9.0})
+    reranked = search(
+        sds_like,
+        "structure",
+        query,
+        ConceptEmbedder(),
+        3,
+        settings,
+        reranker=reranker,
+        candidates=8,
+    )
+    assert ids(reranked)[0] == last.chunk.chunk_id != ids(first)[0]
+    assert reranked[0].first_stage_rank == len(first)
+    assert reranked[0].score == 9.0
+    assert len(reranker.calls) == 1 and len(reranker.calls[0]) == 8  # all candidates scored
+    assert len(reranked) == 3
+
+
+def test_reranking_returns_only_candidates_and_keeps_order_on_ties(chunks):
+    hits = [Hit(1.0 / i, make_chunk(chunks[0], f"T-{i}", f"text {i}")) for i in range(1, 6)]
+    reranked = rerank("q", hits, FakeReranker(), k=5)  # every score 0.0: a tie
+    assert ids(reranked) == ids(hits)
+    assert [hit.first_stage_rank for hit in reranked] == [1, 2, 3, 4, 5]
+    reranked = rerank("q", hits, FakeReranker({"text 4": 2.0, "text 2": 1.0}), k=3)
+    assert ids(reranked) == ["T-4", "T-2", "T-1"]
+    assert set(ids(rerank("q", hits, FakeReranker(), k=50))) == set(ids(hits))
+
+
+def test_reranking_keeps_the_first_stage_ranks_of_each_retriever(sds_like):
+    settings = load_config().search
+    first = search(sds_like, "structure", "64742-94-5", ConceptEmbedder(), 5, settings)
+    reranked = search(
+        sds_like,
+        "structure",
+        "64742-94-5",
+        ConceptEmbedder(),
+        5,
+        settings,
+        reranker=FakeReranker(),
+        candidates=5,
+    )
+    assert [(h.vector_rank, h.bm25_rank) for h in reranked] == [
+        (h.vector_rank, h.bm25_rank) for h in first
+    ]
+
+
+def test_reranking_applies_after_the_filter(catalog):
+    settings = load_config().search
+    old = f"{QUERY} D904"  # the text of the superseded regulation
+    reranker = FakeReranker({old: 9.0})
+    hits = search(
+        catalog,
+        "structure",
+        QUERY,
+        HashEmbedder(),
+        3,
+        settings,
+        search_filter=SearchFilter(latest_only=True),
+        reranker=reranker,
+        candidates=10,
+    )
+    assert "D904" not in {hit.chunk.doc_id for hit in hits}
+    assert not any(old in text for text in reranker.calls[0])  # never even a candidate
+
+
+def test_a_reranker_returning_the_wrong_number_of_scores_is_an_error(chunks):
+    class Broken(FakeReranker):
+        def score(self, query, texts):
+            return [0.0]
+
+    hits = [Hit(1.0, make_chunk(chunks[0], f"T-{i}", "x")) for i in range(2)]
+    with pytest.raises(ValueError, match="1 scores for 2 hits"):
+        rerank("q", hits, Broken(), k=2)
+
+
+def test_an_unknown_reranker_key_is_rejected(tmp_path):
+    path = config_with(tmp_path, 'compare = ["bge-m3"', 'compare = ["nope"')
+    with pytest.raises(ValidationError, match="no \\[reranker_models.'nope'\\] table"):
+        load_config(path)
+
+
+def test_the_real_reranker_prefers_the_answer_in_german():
+    """The chosen cross-encoder, offline: skipped unless `make compare-rerankers` or a reranked
+    search has already downloaded it."""
+    config = load_config()
+    try:
+        reranker = FastReranker(
+            config.reranker_models[config.reranking.model],
+            config.reranking.batch_size,
+            ROOT / config.embedding.cache_dir,
+            local_files_only=True,
+        )
+    except Exception as error:  # not downloaded: FastEmbed raises its own error types
+        pytest.skip(f"reranker not in the cache: {error}")
+    answer = "9.1 Flammpunkt: 23 °C (geschlossener Tiegel)"
+    other = "1.1 Produktidentifikator: Handelsname RM 110"
+    scores = reranker.score("Wie hoch ist der Flammpunkt von RM 110?", [other, answer])
+    assert scores[1] > scores[0]

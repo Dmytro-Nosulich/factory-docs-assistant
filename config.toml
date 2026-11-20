@@ -140,7 +140,26 @@ collections = { structure = "data/chunks/chunks.jsonl", fixed = "data/chunks/chu
 # `make index` builds the BM25 vectors, so changing them needs a rebuild.
 [search]
 mode = "hybrid"      # vector | bm25 | hybrid, for `make search` without MODE
+rerank = false       # whether `make search` reranks without RERANK (S2-08); S2-10 measures it
 prefetch_k = 50      # candidates from each retriever before fusion
 rrf_k = 60
 bm25_k1 = 1.2
 bm25_b = 0.75
+
+# Reranking (S2-08): a cross-encoder reads the query and one candidate chunk together and
+# scores how well the chunk answers it; it reorders the first `candidates` hits of the first
+# stage (vector, BM25 or hybrid). Runs in-process with FastEmbed, models in [embedding]
+# cache_dir. `compare` = the multilingual cross-encoders FastEmbed 0.9.1 lists, except
+# jinaai/jina-reranker-v2-base-multilingual (CC BY-NC 4.0 licence); the others are English-only.
+# candidates 30 is a starting value, not tuned.
+[reranking]
+model = "bge-m3-int8"   # picked by the user after `make compare-rerankers`, S2-08 (2026-11-20)
+compare = ["bge-m3", "bge-m3-int8"]
+candidates = 30
+batch_size = 8
+
+[reranker_models."bge-m3"]
+name = "BAAI/bge-reranker-v2-m3"
+
+[reranker_models."bge-m3-int8"]   # the same model with INT8 weights: a quarter of the size
+name = "BAAI/bge-reranker-v2-m3-int8"
