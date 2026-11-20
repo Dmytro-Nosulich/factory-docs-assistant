@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -74,6 +74,11 @@ search:
 		$(if $(TYPE),--doc-type $(TYPE)) $(if $(DOC_LANG),--language $(DOC_LANG)) \
 		$(if $(SINCE),--since $(SINCE)) $(if $(UNTIL),--until $(UNTIL)) \
 		$(if $(filter 1,$(LATEST)),--latest-only)
+
+# Check evals/retrieval_gold.toml: every quote is in its document, on its page, and in a chunk
+# of every collection (S2-09)
+retrieval-gold-check:
+	uv run python scripts/check_retrieval_gold.py
 
 golden-check:
 	uv run python scripts/check_golden.py

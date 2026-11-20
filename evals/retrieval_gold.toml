@@ -1,0 +1,216 @@
+# Retrieval gold set (S2-09, decision 16).
+# Questions and evidence are written by hand by the user.
+# Used by S2-10 (`make eval-retrieval`) to measure recall@k and MRR.
+#
+# One [[question]] block per question, followed by one or more
+# [[question.evidence]] blocks: places in the corpus that answer it.
+#
+# [[question]]
+#   id        "R01", "R02", ... unique, never reused.
+#   question  The question as a user would type it.
+#   language  Language of the question (en, de, uk, ...). It may differ
+#             from the document's language (a cross-language question).
+#   notes     Optional. Why this question is interesting, e.g. "CAS lookup".
+#
+# [[question.evidence]]
+#   doc_id    Document ID from data/manifest.csv, e.g. "D001".
+#   section   The heading the quote sits under, copied from the document.
+#   page      PDF page number (1-based). Leave the line out for HTML, DOCX
+#             and Markdown documents, which have no pages.
+#   quote     A short exact copy of the answering text: a phrase or one
+#             sentence, from a single paragraph or table cell. Line breaks
+#             and extra spaces do not matter; everything else must match.
+#             Write it in single quotes ('...'), so nothing needs escaping.
+#             If the quote itself contains ', use triple quotes ('''...''').
+#
+# Scoring rule: a retrieved chunk is a hit when it comes from the evidence's
+# doc_id AND contains its quote. If a question has several evidence blocks,
+# any one of them counts (they are alternative sources for the same answer).
+
+[[question]]
+id = "R01"
+question = "What can happen to nitrogen gas cylinders in a fire?"
+language = "en"
+notes = "Example written by Claude at the user's request (2026-11-20). The same sentence is also in the argon SDS D039, so only a D001 chunk counts."
+
+[[question.evidence]]
+doc_id = "D001"
+section = "SECTION 5: Firefighting measures"
+page = 4
+quote = 'Heat may cause the containers to explode.'
+
+# R02-R15: drafted by Claude at the user's request (2026-11-20); the user
+# reviews each one and keeps, edits or deletes it. REPORT.md must say so.
+# Every quote was checked against data/cleaned/ and data/chunks/.
+# Non-English questions have an English translation in `notes`.
+
+[[question]]
+id = "R02"
+question = "What degree of protection does the Proline 500 digital PROFINET with Ethernet-APL transmitter have?"
+language = "en"
+notes = "Drafted by Claude. Answer: IP66/67, Type 4X enclosure. Similar-document test: D019 and D020 (the PROFIBUS variants) state the same rating in different words, so their chunks do not contain this quote and do not count."
+
+[[question.evidence]]
+doc_id = "D021"
+section = "5.6 Ensuring the degree of protection"
+page = 37
+quote = 'The measuring device fulfills all the requirements for the degree of protection IP66/67, Type 4X enclosure.'
+
+[[question]]
+id = "R03"
+question = "What is the UN number of concentrated sulphuric acid?"
+language = "en"
+notes = "Drafted by Claude. Answer: UN 1830. Exact-code lookup, where BM25 should help. The line repeats for road, rail, sea and air, so 4 structure chunks contain it; any of them counts."
+
+[[question.evidence]]
+doc_id = "D054"
+section = "14.1. UN number"
+page = 10
+quote = 'UN number 1830'
+
+[[question]]
+id = "R04"
+question = "How must an employer check that compressed gas cylinders are in a safe condition under OSHA 1910.101?"
+language = "en"
+notes = "Drafted by Claude. Answer: by visual inspection, as prescribed by the DOT Hazardous Materials Regulations. HTML document, so no page."
+
+[[question.evidence]]
+doc_id = "D068"
+section = "(a) Inspection of compressed gas cylinders"
+quote = 'in a safe condition to the extent that this can be determined by visual inspection'
+
+[[question]]
+id = "R05"
+question = "What must be recorded about employee training under the 2021 MSGP?"
+language = "en"
+notes = "Drafted by Claude. Answer: keep records of employee training, including the training date (Parts 2.1.2.8 and 6.2.5.1.e). DOCX document, so no page. The quote is a list item."
+
+[[question.evidence]]
+doc_id = "D073"
+section = "A. Employee Training"
+quote = 'Keep records of employee training, including the date of the training'
+
+[[question]]
+id = "R06"
+question = "What does the Telegraf OPC UA client plugin do when no client certificate or private key is configured?"
+language = "en"
+notes = "Drafted by Claude. Answer: it generates a temporary self-signed certificate on each startup. Markdown document, so no page."
+
+[[question.evidence]]
+doc_id = "D076"
+section = "Temporary Self-Signed Certificates (Default)"
+quote = 'Telegraf will automatically generate a self-signed certificate in a temporary directory on each startup.'
+
+[[question]]
+id = "R07"
+question = "Що робити з водою після гасіння пожежі, якщо горів засіб Karcher RM 672?"
+language = "uk"
+notes = "Drafted by Claude. EN: What should be done with the fire-fighting water if Karcher RM 672 was burning? Answer: collect it separately, do not let it into the drains. The quote keeps the source's typo 'води'. The same sentence is in D035 (STIHL Varioclean), so only a D007 chunk counts."
+
+[[question.evidence]]
+doc_id = "D007"
+section = "5.3 Поради для пожежників"
+page = 4
+quote = 'Забруднену води після гасіння пожежі збирати окремо, не зливати у каналізацію.'
+
+[[question]]
+id = "R08"
+question = "За якої температури рекомендовано зберігати автомобільний шампунь STIHL CC 100?"
+language = "uk"
+notes = "Drafted by Claude. EN: At what temperature should STIHL CC 100 car wash detergent be stored? Answer: 20 °C. Similar-document test: the same line is in D006, D035 and D036 (other STIHL SDS), so only a D032 chunk counts. The source writes '20 ° C' with spaces."
+
+[[question.evidence]]
+doc_id = "D032"
+section = "7 Використання і зберігання"
+page = 3
+quote = 'Рекомендована температура зберігання: 20 ° C'
+
+[[question]]
+id = "R09"
+question = "Яка щільність мастила STIHL Multioil Bio?"
+language = "uk"
+notes = "Drafted by Claude. EN: What is the density of STIHL Multioil Bio lubricant? Answer: 0.91-0.92 g/cm3 at 20 °C."
+
+[[question.evidence]]
+doc_id = "D036"
+section = "9 Фізичні та хімічні властивості"
+page = 4
+quote = 'Щільність при 20 °C: 0,91 - 0,92 g/cm3'
+
+[[question]]
+id = "R10"
+question = "Яка максимальна вологість повітря допускається для насосів Grundfos TPE Series 2000?"
+language = "uk"
+notes = "Drafted by Claude. EN: What is the maximum air humidity allowed for Grundfos TPE Series 2000 pumps? Answer: 95 %. A manual, not an SDS."
+
+[[question.evidence]]
+doc_id = "D022"
+section = "6.5 Вологість повітря"
+page = 16
+quote = 'Максимальна вологість повітря: 95 %.'
+
+[[question]]
+id = "R11"
+question = "Wie soll der Stein- und Fassadenreiniger RM 611 gelagert werden?"
+language = "de"
+notes = "Drafted by Claude. EN: How should the RM 611 stone and facade cleaner be stored? Answer: keep away from food, drinks and animal feed."
+
+[[question.evidence]]
+doc_id = "D037"
+section = "7.2 Bedingungen zur sicheren Lagerung unter Berücksichtigung von Unverträglichkeiten"
+page = 4
+quote = 'Von Nahrungsmitteln, Getränken und Futtermitteln fernhalten.'
+
+[[question]]
+id = "R12"
+question = "Was ist zu tun, wenn verdichteter Stickstoff austritt?"
+language = "de"
+notes = "Drafted by Claude. EN: What should be done if compressed nitrogen leaks? Answer: leave the room, clear the area, warn people. The PDF has two columns, so the text after this quote is mixed with the label 'Vorsichtsmaßnahmen'; the quote stops before it."
+
+[[question.evidence]]
+doc_id = "D038"
+section = "6.1 Personenbezogene Vorsichtsmaßnahmen"
+page = 2
+quote = 'Bei Gasaustritt Raum verlassen, Umgebung räumen, Personen warnen,'
+
+[[question]]
+id = "R13"
+question = "Welche Reinheit hat Sauerstoff 5.0?"
+language = "de"
+notes = "Drafted by Claude. EN: What is the purity of oxygen 5.0? Answer: 99.999 %. Two sources: the D044 data sheet (paragraph) and the D042 product specification (table cell), so either counts."
+
+[[question.evidence]]
+doc_id = "D044"
+section = "Sauerstoff 5.0"
+page = 1
+quote = 'Reinheit in %: 99,999'
+
+[[question.evidence]]
+doc_id = "D042"
+section = "Reinheit, mol.-% (table)"
+page = 1
+quote = 'O2 ≥ 99,999'
+
+[[question]]
+id = "R14"
+question = "Quel moyen d'extinction utiliser en cas d'incendie avec le mastic 3M 560 ?"
+language = "fr"
+notes = "Drafted by Claude. EN: What extinguishing agent should be used in a fire involving 3M 560 sealant? Answer: an agent suitable for combustible material, such as water or foam."
+
+[[question.evidence]]
+doc_id = "D059"
+section = "5.1. Moyens d'extinction"
+page = 5
+quote = '''Utiliser un agent d'extinction adapté pour le matériel combustible tel que l'eau ou mousse.'''
+
+[[question]]
+id = "R15"
+question = "Come va conservato l'OTTOSEAL S 100?"
+language = "it"
+notes = "Drafted by Claude. EN: How should OTTOSEAL S 100 be stored? Answer: in a cool, dry place in tightly closed drums."
+
+[[question.evidence]]
+doc_id = "D061"
+section = "7.2 Condizioni per lo stoccaggio sicuro, comprese eventuali incompatibilità"
+page = 3
+quote = 'Conservare in luogo fresco e asciutto in fusti ben chiusi.'
