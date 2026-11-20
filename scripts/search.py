@@ -1,17 +1,28 @@
-"""Search the index from the command line (S2-06: vector search only).
+"""Search the index from the command line: vector, BM25 or hybrid (S2-06, S2-07).
 
+Each hit shows its rank in the vector list and in the BM25 list ("-" when it is not in the
+first prefetch_k of that list), so you can see which retriever found it.
 Usage: uv run python scripts/search.py "question" [--collection structure|fixed] [--k 5]
+       [--mode vector|bm25|hybrid]
 """
 
 import argparse
+from typing import get_args
 
 from qdrant_client import QdrantClient
 
-from factory_docs.config import ROOT, load_config
+from factory_docs.config import ROOT, SearchMode, load_config
 from factory_docs.embedding import FastEmbedder
-from factory_docs.index import search
+from factory_docs.index import BM25, Hit, search
 
 SNIPPET = 150
+
+
+def ranks(hit: Hit) -> str:
+    def show(rank: int | None) -> str:
+        return "-" if rank is None else str(rank)
+
+    return f"vector {show(hit.vector_rank)}, bm25 {show(hit.bm25_rank)}"
 
 
 def main() -> None:
@@ -20,24 +31,30 @@ def main() -> None:
     parser.add_argument("query")
     parser.add_argument("--collection", default="structure", choices=list(config.index.collections))
     parser.add_argument("--k", type=int, default=5)
+    parser.add_argument("--mode", choices=get_args(SearchMode), default=config.search.mode)
     args = parser.parse_args()
 
     store = ROOT / config.index.path
     if not store.exists():
         raise SystemExit(f"No index at {config.index.path}; run `make index` first")
-    embedder = FastEmbedder.from_config(config)
+    embedder = None if args.mode == "bm25" else FastEmbedder.from_config(config)
     client = QdrantClient(path=str(store))
     try:
-        hits = search(client, args.collection, args.query, embedder, args.k)
+        if BM25 not in (client.get_collection(args.collection).config.params.sparse_vectors or {}):
+            raise SystemExit("The index has no BM25 vectors (built before S2-07); run `make index`")
+        hits = search(
+            client, args.collection, args.query, embedder, args.k, config.search, args.mode
+        )
     finally:
         client.close()
-    print(f"{args.collection}, {embedder.model_name}: {args.query}\n")
+    model = f", {embedder.model_name}" if embedder else ""
+    print(f"{args.collection}, {args.mode}{model}: {args.query}\n")
     for rank, hit in enumerate(hits, start=1):
         c = hit.chunk
         snippet = " ".join(c.text.split())
         snippet = snippet if len(snippet) <= SNIPPET else snippet[: SNIPPET - 3] + "..."
-        print(f"{rank}. {hit.score:.3f}  {c.chunk_id}  [{c.language}, {c.doc_type}]  {c.section}")
-        print(f"   {c.title}")
+        print(f"{rank}. {hit.score:.4f}  {c.chunk_id}  [{c.language}, {c.doc_type}]  {c.section}")
+        print(f"   {c.title}  ({ranks(hit)})")
         print(f"   {snippet}\n")
 
 

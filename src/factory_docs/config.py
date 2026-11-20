@@ -136,6 +136,19 @@ class IndexSettings(Settings):
     collections: dict[str, str] = Field(min_length=1)  # collection name: chunks file
 
 
+SearchMode = Literal["vector", "bm25", "hybrid"]
+
+
+class SearchSettings(Settings):
+    """Retrieval, S2-07. bm25_k1 and bm25_b are baked into the index by `make index`."""
+
+    mode: SearchMode  # what `make search` runs when no MODE is given
+    prefetch_k: int = Field(gt=0)  # candidates each retriever hands to fusion
+    rrf_k: int = Field(gt=0)  # RRF constant: score = sum of 1 / (rrf_k + rank)
+    bm25_k1: float = Field(gt=0)  # term-frequency saturation
+    bm25_b: float = Field(ge=0, le=1)  # length normalization: 0 none, 1 full
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -147,6 +160,7 @@ class Config(Settings):
     embedding: EmbeddingSettings
     embedding_models: dict[str, EmbeddingModel]
     index: IndexSettings
+    search: SearchSettings
 
     @model_validator(mode="after")
     def embedding_names_exist(self) -> "Config":

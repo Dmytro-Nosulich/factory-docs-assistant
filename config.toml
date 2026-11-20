@@ -133,3 +133,14 @@ query_prefix = "Instruct: Given a web search query, retrieve relevant passages t
 [index]
 path = "data/index/qdrant"
 collections = { structure = "data/chunks/chunks.jsonl", fixed = "data/chunks/chunks_fixed.jsonl" }
+
+# Retrieval (S2-07): BM25 keyword search next to vector search, merged by reciprocal rank
+# fusion (RRF). k1 1.2 and b 0.75 are the usual BM25 defaults and rrf_k 60 the constant of the
+# original RRF paper (Cormack et al., 2009); none of them is tuned. k1 and b are applied when
+# `make index` builds the BM25 vectors, so changing them needs a rebuild.
+[search]
+mode = "hybrid"      # vector | bm25 | hybrid, for `make search` without MODE
+prefetch_k = 50      # candidates from each retriever before fusion
+rrf_k = 60
+bm25_k1 = 1.2
+bm25_b = 0.75

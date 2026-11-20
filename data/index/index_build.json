@@ -8,6 +8,10 @@
   "token_limit": 2048,
   "batch_size": 32
  },
+ "bm25": {
+  "k1": 1.2,
+  "b": 0.75
+ },
  "store": "data/index/qdrant",
  "versions": {
   "fastembed": "0.9.1",
@@ -20,14 +24,20 @@
    "chunks_sha256": "9ed48745a0fc040047f78cd7e61ed04f688986bcabd73a270f512e6c06d23186",
    "points": 2433,
    "truncated_chunks": 0,
-   "build_s": 206.7
+   "bm25_avg_tokens": 129.58,
+   "bm25_vocabulary": 27027,
+   "bm25_colliding_terms": 0,
+   "build_s": 200.3
   },
   "fixed": {
    "chunks_file": "data/chunks/chunks_fixed.jsonl",
    "chunks_sha256": "80f690da862204833231df8722789e85b99b39f15e2002d01b8ed826df26b51a",
    "points": 1788,
    "truncated_chunks": 0,
-   "build_s": 171.2
+   "bm25_avg_tokens": 202.3,
+   "bm25_vocabulary": 27027,
+   "bm25_colliding_terms": 0,
+   "build_s": 169.1
   }
  }
 }

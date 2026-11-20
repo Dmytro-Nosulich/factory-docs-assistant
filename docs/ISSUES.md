@@ -3,6 +3,20 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-008: BM25 without stemming, and repeated common terms
+- **Date / task:** 2026-11-20, S2-07 hybrid search
+- **Problem:** The BM25 tokenizer is the same for all nine languages: no stemming and no stopwords (`src/factory_docs/lexical.py`). Two effects follow.
+  - Inflected forms and compound parts do not match. Ukrainian `очі` does not match `очей`, and German `Punkt` does not match `Flammpunkt`.
+  - A query word that is common but repeated many times in a short chunk can outscore one rare word. For `CAS 2634-33-5` the BM25 top 5 holds the 3 D060 chunks that contain the number, then 2 D064 table chunks that say `CAS` 8-9 times but do not contain it. The two D007 chunks that contain the number (and never say `CAS`) are at ranks 12 and below. For the bare query `2634-33-5`, all 5 chunks that contain it are the BM25 top 5. Seen with `make search MODE=bm25`; one query, not a measurement.
+- **Options considered:**
+  - A stemmer per language (Snowball, as in FastEmbed's Bm25): one more dependency, and each chunk would need its language's stemmer.
+  - A lower k1, so repetitions count less.
+  - Character n-grams, which match word parts in any language but give a much larger index.
+  - Accept and record it: vector search covers inflections and paraphrases, and RRF merges both.
+- **Current selection:** accept and record it, with the usual defaults k1 1.2 and b 0.75 untuned. S2-10 measures BM25 and hybrid recall, and tuning must not use the test questions.
+- **Revisit if:** S2-10 shows BM25 misses on inflected uk/de/pl queries, or exact-code queries lose to repeated common terms.
+- **Status:** accepted.
+
 ## I-007: Flat heading levels leave tiny structure chunks
 - **Date / task:** 2026-11-19, S2-05 chunking
 - **Problem:** The structure-aware chunker never puts two top-level sections in one chunk. In some documents the parser gives every heading the same level (D038, D029), or the first headings have no parent (D006, level 4 before any level 2). There, every heading counts as a top-level section, so small subsections such as `10.3 Möglichkeit gefährlicher Reaktionen : Keine Angaben` (D038) become chunks of their own. 89 of 2433 structure chunks (4 %) are under 100 characters (`data/chunks/chunking_comparison.md`). The front matter before the first heading is also a chunk of its own, such as `DATE: 22 March 2024` in D011.
@@ -13,6 +27,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Accept and record it.
 - **Current selection:** accept and record it. Short chunks are precise, and their section metadata is correct.
 - **Seen in S2-06 (2026-11-19):** for the German smoke query `Wie hoch ist der Flammpunkt von RM 110?`, the 70-character chunk `D033-s-0001` (`1.1 Produktidentifikator`, only the trade name) is the top hit of e5-large, embeddinggemma and qwen3-0.6b-q. The chunk that states the flash point, `D033-s-0012` (section 9), is in no model's top 5, because it does not name the product (`data/index/embedding_comparison.md`). Vector search finds the product, not the property. Hybrid search (S2-07), reranking (S2-08) or contextual chunk headers may fix it; S2-10 measures it.
+- **Seen in S2-07 (2026-11-20):** with hybrid search (`make search`, default mode), `D033-s-0012` is rank 2 for the same query (vector rank 18, BM25 rank 44), after `D033-s-0001`. It rises because it is in both candidate lists, not because BM25 ranks it high: it does not contain `RM 110`. One query, not a measurement; S2-10 measures it.
 - **Revisit if:** S2-10 shows misses on short chunks, or if contextual chunk headers are added.
 - **Status:** accepted.
 

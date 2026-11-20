@@ -1,9 +1,11 @@
-"""Embed the chunk files and (re)build the Qdrant index (S2-06).
+"""Embed the chunk files and (re)build the Qdrant index (S2-06, BM25 vectors since S2-07).
 
 Reads the chunk files named in config.toml [index] (run `make ingest` first when chunking
-changes), embeds them with the [embedding] model, and writes one collection per chunking
-strategy to data/index/qdrant/ (gitignored). Writes data/index/index_build.json: model,
-prefixes, the hash of each chunks file, point counts and truncation, so a build can be traced.
+changes), embeds them with the [embedding] model, adds BM25 sparse vectors with the [search]
+k1 and b, and writes one collection per chunking strategy to data/index/qdrant/ (gitignored).
+Writes data/index/index_build.json: model, prefixes, BM25 parameters, the hash of each chunks
+file, point counts, truncation, average chunk length in BM25 tokens and vocabulary size, so a
+build can be traced.
 Usage: uv run python scripts/build_index.py
 """
 
@@ -17,6 +19,7 @@ from qdrant_client import QdrantClient
 from factory_docs.config import ROOT, load_config
 from factory_docs.embedding import FastEmbedder
 from factory_docs.index import build_collection, load_chunks
+from factory_docs.lexical import Bm25Encoder, vocabulary
 
 RECORD = ROOT / "data" / "index" / "index_build.json"
 
@@ -42,6 +45,7 @@ def main() -> None:
             "token_limit": embedder.token_limit,
             "batch_size": config.embedding.batch_size,
         },
+        "bm25": {"k1": config.search.bm25_k1, "b": config.search.bm25_b},
         "store": config.index.path,
         "versions": {name: version(name) for name in ("fastembed", "onnxruntime", "qdrant-client")},
         "collections": {},
@@ -51,10 +55,13 @@ def main() -> None:
         for name, chunks_file in config.index.collections.items():
             path = ROOT / chunks_file
             chunks = load_chunks(path)
-            lengths = embedder.token_lengths([chunk.text for chunk in chunks])
+            texts = [chunk.text for chunk in chunks]
+            lengths = embedder.token_lengths(texts)
             limit = embedder.token_limit
+            bm25 = Bm25Encoder.fit(texts, config.search.bm25_k1, config.search.bm25_b)
+            terms, colliding = vocabulary(texts)
             start = time.perf_counter()
-            points = build_collection(client, name, chunks, embedder)
+            points = build_collection(client, name, chunks, embedder, bm25)
             seconds = time.perf_counter() - start
             truncated = sum(limit is not None and n > limit for n in lengths)
             record["collections"][name] = {
@@ -62,9 +69,15 @@ def main() -> None:
                 "chunks_sha256": file_sha256(path),
                 "points": points,
                 "truncated_chunks": truncated,
+                "bm25_avg_tokens": round(bm25.avg_len, 2),
+                "bm25_vocabulary": terms,
+                "bm25_colliding_terms": colliding,
                 "build_s": round(seconds, 1),
             }
-            print(f"{name}: {points} points in {seconds:.0f} s, {truncated} chunks truncated")
+            print(
+                f"{name}: {points} points in {seconds:.0f} s, {truncated} chunks truncated, "
+                f"{terms} BM25 terms ({colliding} share a term ID)"
+            )
     finally:
         client.close()
     RECORD.write_text(json.dumps(record, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")

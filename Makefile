@@ -50,12 +50,14 @@ compare-embeddings:
 index:
 	uv run python scripts/build_index.py
 
-# Vector search: make search Q="..." [COLLECTION=structure|fixed] [K=5]
+# Search: make search Q="..." [COLLECTION=structure|fixed] [K=5] [MODE=vector|bm25|hybrid]
+# Without MODE, [search] mode in config.toml applies (hybrid, S2-07).
 Q ?=
 COLLECTION ?= structure
 K ?= 5
+MODE ?=
 search:
-	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K)
+	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K) $(if $(MODE),--mode $(MODE))
 
 golden-check:
 	uv run python scripts/check_golden.py
