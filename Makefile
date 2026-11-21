@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check eval-retrieval golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -56,7 +56,7 @@ index:
 
 # Search: make search Q="..." [COLLECTION=structure|fixed] [K=5] [MODE=vector|bm25|hybrid]
 #   [RERANK=1|0] [TYPE=sds] [DOC_LANG=uk] [SINCE=2024-01-01] [UNTIL=2025-12-31] [LATEST=1]
-# Without MODE or RERANK, [search] in config.toml applies (hybrid, no reranking). TYPE and
+# Without MODE or RERANK, [search] in config.toml applies (hybrid, reranked since S2-10). TYPE and
 # DOC_LANG take a comma-separated list. DOC_LANG, because LANG is the shell's locale variable.
 Q ?=
 COLLECTION ?= structure
@@ -79,6 +79,11 @@ search:
 # of every collection (S2-09)
 retrieval-gold-check:
 	uv run python scripts/check_retrieval_gold.py
+
+# Recall@k and MRR of every setup in [retrieval_eval] on both chunkings, for the retrieval gold
+# set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)
+eval-retrieval:
+	uv run python scripts/eval_retrieval.py
 
 golden-check:
 	uv run python scripts/check_golden.py

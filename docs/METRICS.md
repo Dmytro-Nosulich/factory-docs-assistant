@@ -60,3 +60,16 @@ Added 2026-10-27. Each language from `data/manifest.csv` gets one column, the la
 - **Fields:** matched fields / (9 × golden documents in that language), with the same rules as Field acc. `-` where the language has no golden document (es, fr, nl, it).
 
 The counts are small (the golden set has 4 uk, 2 en, 2 de, 1 sv and 1 pl document), so one wrong field moves a language a lot. The table shows where errors cluster; it does not rank languages.
+
+## Retrieval (stage 2)
+Added 2026-11-21 (S2-10). `make eval-retrieval` (code: `src/factory_docs/retrieval_eval.py`, `scripts/eval_retrieval.py`; tests: `tests/test_retrieval_eval.py`) runs every setup in `[retrieval_eval]` in `config.toml` on both chunking strategies, for the questions in `evals/retrieval_gold.toml`. Results: `evals/results/retrieval.json` (every rank and returned chunk ID) and `evals/results/retrieval.md`, plus the generated section of `REPORT.md`. `--report` rebuilds both from the JSON without models.
+
+- **Setups:** `vector`, `bm25`, `hybrid` (RRF of the two), and `hybrid+rerank` (the cross-encoder rescores the first `[reranking] candidates` hybrid hits and keeps the best). No filters. Every search setting comes from `config.toml` unchanged.
+- **Hit:** a returned chunk from the evidence document that contains the evidence quote, whitespace ignored (`is_hit`, S2-09). When a question has several pieces of evidence, any one counts. A chunk with the same quote from another document is not a hit.
+- **Rank** of a question: the 1-based position of the first hit among the top 10 chunks (10 = the largest k). No hit in the top 10 is a miss.
+- **Recall@k** (k = 1, 3, 5, 10): questions with rank ≤ k / all questions. Each question has one answer, so this is the hit rate. Shown with the count (`13/15`), because with 15 questions one question moves it by 0.067.
+- **MRR@10** (mean reciprocal rank): the mean of 1 / rank, with a miss counting 0. Rank 1 gives 1, rank 2 gives 0.5, rank 10 gives 0.1. It rewards putting the answer near the top, which matters because the answer prompt gets only a few chunks.
+- **Per language:** recall@5 and MRR@10 per question language. 1 to 6 questions per language, so this shows where misses cluster, not a ranking of languages.
+- **Timing:** median and slowest seconds per query, including the query embedding. Machine-dependent, so not part of the reproducibility check.
+- **Default setup:** the rule was written down before the first run: on the `structure` collection, the highest MRR@10, then the higher recall@5, then the setup without a reranker. This is the only choice made on the gold set; no numeric setting is tuned on it.
+- **Reproducibility:** two runs give identical ranks and returned chunk IDs. `test_the_committed_results_follow_from_their_own_rankings` re-derives every rank and summary in the committed JSON from the stored chunk IDs, the chunk files and the gold set.

@@ -140,7 +140,8 @@ collections = { structure = "data/chunks/chunks.jsonl", fixed = "data/chunks/chu
 # `make index` builds the BM25 vectors, so changing them needs a rebuild.
 [search]
 mode = "hybrid"      # vector | bm25 | hybrid, for `make search` without MODE
-rerank = false       # whether `make search` reranks without RERANK (S2-08); S2-10 measures it
+rerank = true        # whether `make search` reranks without RERANK (S2-08). On since S2-10: the
+                     # default rule picked hybrid+rerank on the gold set (evals/results/retrieval.md)
 prefetch_k = 50      # candidates from each retriever before fusion
 rrf_k = 60
 bm25_k1 = 1.2
@@ -163,3 +164,11 @@ name = "BAAI/bge-reranker-v2-m3"
 
 [reranker_models."bge-m3-int8"]   # the same model with INT8 weights: a quarter of the size
 name = "BAAI/bge-reranker-v2-m3-int8"
+
+# Retrieval measurement (S2-10): `make eval-retrieval` runs every setup on every collection in
+# [index] for the questions in evals/retrieval_gold.toml, and reports recall@k for each k and
+# MRR over the top max(ks). A setup is vector, bm25 or hybrid, with "+rerank" for the [reranking]
+# model on top. Nothing here is tuned on the gold set (docs/METRICS.md).
+[retrieval_eval]
+ks = [1, 3, 5, 10]
+setups = ["vector", "bm25", "hybrid", "hybrid+rerank"]

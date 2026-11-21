@@ -163,6 +163,35 @@ class SearchSettings(Settings):
     bm25_b: float = Field(ge=0, le=1)  # length normalization: 0 none, 1 full
 
 
+RERANK_SUFFIX = "+rerank"
+
+
+class RetrievalEvalSettings(Settings):
+    """What `make eval-retrieval` measures, S2-10. A setup is a search mode, optionally with
+    `+rerank` (the [reranking] model rescores [reranking] candidates first-stage hits)."""
+
+    ks: list[int] = Field(min_length=1)  # recall@k for each k; the largest k is the search depth
+    setups: list[str] = Field(min_length=1)
+
+    @model_validator(mode="after")
+    def valid(self) -> "RetrievalEvalSettings":
+        if any(k <= 0 for k in self.ks) or self.ks != sorted(set(self.ks)):
+            raise ValueError("[retrieval_eval] ks must be positive, distinct and ascending")
+        if len(set(self.setups)) != len(self.setups):
+            raise ValueError("[retrieval_eval] setups must be distinct")
+        for name in self.setups:
+            if name.removesuffix(RERANK_SUFFIX) not in ("vector", "bm25", "hybrid"):
+                raise ValueError(
+                    f"[retrieval_eval] unknown setup {name!r}: vector, bm25 or hybrid, "
+                    "with +rerank optional"
+                )
+        return self
+
+    @property
+    def depth(self) -> int:
+        return self.ks[-1]
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -177,6 +206,7 @@ class Config(Settings):
     search: SearchSettings
     reranking: RerankingSettings
     reranker_models: dict[str, RerankerModel]
+    retrieval_eval: RetrievalEvalSettings
 
     @model_validator(mode="after")
     def embedding_names_exist(self) -> "Config":
