@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check eval-retrieval golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check eval-retrieval section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -84,6 +84,11 @@ retrieval-gold-check:
 # set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)
 eval-retrieval:
 	uv run python scripts/eval_retrieval.py
+
+# Do chunk section labels name the section of their text? Gold set and whole corpus, no models;
+# writes evals/results/section_labels.md and the chunking table in README.md (S2-12)
+section-labels:
+	uv run python scripts/section_labels.py
 
 golden-check:
 	uv run python scripts/check_golden.py

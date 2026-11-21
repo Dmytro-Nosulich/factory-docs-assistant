@@ -154,14 +154,19 @@ def evaluate(
     }
 
 
-def replace_section(text: str, section: str) -> str:
+def replace_section(
+    text: str, section: str, start_marker: str = START, end_marker: str = END
+) -> str:
     """`text` with the part between the markers replaced by `section`; text outside is kept."""
-    start, end = text.find(START), text.find(END)
+    start, end = text.find(start_marker), text.find(end_marker)
     if start < 0 or end < start:
-        raise ValueError(f"no retrieval markers: {START} ... {END}")
-    start += len(START)
+        raise ValueError(f"no markers: {start_marker} ... {end_marker}")
+    start += len(start_marker)
     return text[:start] + "\n\n" + section.strip("\n") + "\n\n" + text[end:]
 
 
-def update_section(path: Path, section: str) -> None:
-    path.write_text(replace_section(path.read_text(encoding="utf-8"), section), encoding="utf-8")
+def update_section(
+    path: Path, section: str, start_marker: str = START, end_marker: str = END
+) -> None:
+    text = replace_section(path.read_text(encoding="utf-8"), section, start_marker, end_marker)
+    path.write_text(text, encoding="utf-8")
