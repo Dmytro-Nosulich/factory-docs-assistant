@@ -170,3 +170,26 @@ def test_missing_key_explains_what_to_do(monkeypatch):
     monkeypatch.setenv("FD_TEST_EMPTY", "")
     with pytest.raises(RuntimeError, match="copy .env.example to .env"):
         require_env("FD_TEST_EMPTY")
+
+
+def test_answer_settings_load():
+    answer = load_config().answer
+    assert (answer.model, answer.collection, answer.k) == ("haiku-5.5", "structure", 10)
+    assert (answer.max_context_tokens, answer.stop_at_usd) == (4000, 5.0)
+
+
+def test_context_budget_smaller_than_one_chunk_is_rejected(tmp_path):
+    path = config_with(tmp_path, "max_context_tokens = 4000", "max_context_tokens = 400")
+    with pytest.raises(ValidationError, match="max_context_tokens"):
+        load_config(path)
+
+
+def test_answer_naming_a_missing_model_or_collection_is_rejected(tmp_path):
+    path = config_with(tmp_path, 'model = "haiku-5.5"            # decision 15', 'model = "nope"')
+    with pytest.raises(ValidationError, match="\\[answer\\] model 'nope'"):
+        load_config(path)
+    path = config_with(
+        tmp_path, 'collection = "structure"       # decision 19', 'collection = "nope"'
+    )
+    with pytest.raises(ValidationError, match="\\[answer\\] collection 'nope'"):
+        load_config(path)

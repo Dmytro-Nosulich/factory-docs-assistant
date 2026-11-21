@@ -72,8 +72,13 @@ class OllamaClient:
             "options": options,
         }
 
-    def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse:
-        """One chat completion; retries timeouts and network errors with backoff."""
+    def complete(
+        self, messages: list[dict[str, str]], schema: dict, schema_name: str | None = None
+    ) -> ModelResponse:
+        """One chat completion; retries timeouts and network errors with backoff.
+
+        schema_name is accepted for the shared interface and ignored: Ollama takes no name.
+        """
         body = self.request_body(messages, schema)
         data, latency_s, total_s, attempts = call_with_retry(
             lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep

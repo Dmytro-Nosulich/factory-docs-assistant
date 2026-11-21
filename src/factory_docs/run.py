@@ -8,7 +8,8 @@ too, says which configuration produced it (model, prompt version and hash, param
 so a single file can be read without run.json.
 
 Budget guard: before each document (its first call and any repair call), the cost of every
-result under results/ (earlier runs and smoke files included) is compared with
+result under results/ (earlier runs and smoke files included; not the stage 2 answer logs in
+results/answers/, which have their own guard, S2-13) is compared with
 `budget.stop_at_usd`; at or above it, the run stops and the rest are listed as `not_run`.
 Failed documents are saved like any other result and never re-run on resume, so failures
 stay visible.
@@ -43,6 +44,7 @@ RUNS = RESULTS / "runs"
 SUMMARY = "run.json"
 STATUSES = ("valid", "invalid", "error")
 FINAL_STATUSES = ("valid", "repaired", "failed", "error")
+STAGE2_DIRS = ("answers",)  # results/answers/: `make ask` logs, counted by the stage 2 guard
 
 
 def stage1_doc_ids(manifest: Path = MANIFEST) -> list[str]:
@@ -67,11 +69,15 @@ def record_cost(record: dict) -> float:
     return sum((call or {}).get("cost_usd") or 0.0 for call in calls)
 
 
-def spent_usd(results_dir: Path = RESULTS) -> float:
-    """Total reported cost of every result record under results_dir."""
+def spent_usd(results_dir: Path = RESULTS, exclude: tuple[str, ...] = STAGE2_DIRS) -> float:
+    """Total reported cost of every result record under results_dir.
+
+    Records in a top-level folder named in `exclude` are skipped: by default the stage 2 answer
+    logs, which have a budget guard of their own (decision 18, S2-13).
+    """
     total = 0.0
     for path in results_dir.rglob("*.json"):
-        if path.name == SUMMARY:
+        if path.name == SUMMARY or path.relative_to(results_dir).parts[0] in exclude:
             continue
         record = json.loads(path.read_text(encoding="utf-8"))
         if isinstance(record, dict):

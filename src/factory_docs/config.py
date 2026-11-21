@@ -12,6 +12,8 @@ from typing import Annotated, Literal
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
+from factory_docs.chunking import MAX_CHARS
+
 ROOT = Path(__file__).resolve().parents[2]
 CONFIG = ROOT / "config.toml"
 ENV = ROOT / ".env"
@@ -192,6 +194,26 @@ class RetrievalEvalSettings(Settings):
         return self.ks[-1]
 
 
+# The rendered context must hold the largest chunk: MAX_CHARS of text plus its `<chunk ...>` tag
+# line (467 characters at most in the corpus, 2026-11-21), at 4 characters per token.
+CHUNK_TAG_CHARS = 500
+MIN_CONTEXT_TOKENS = (MAX_CHARS + CHUNK_TAG_CHARS) // 4
+
+
+class AnswerSettings(Settings):
+    """The answer pipeline, S2-13: retrieve, fit a token budget, answer, check citations."""
+
+    model: str  # key in [models], decision 15
+    prompt: str
+    prompt_version: str
+    repair_prompt: str  # one repair attempt for an answer that fails validation
+    repair_prompt_version: str
+    collection: str  # key in [index] collections, decision 19
+    k: int = Field(gt=0)  # search hits offered to the budget, best first
+    max_context_tokens: int = Field(ge=MIN_CONTEXT_TOKENS)  # estimate of the rendered chunks
+    stop_at_usd: float = Field(gt=0)  # stage 2 budget guard over results/answers/, decision 18
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -207,6 +229,19 @@ class Config(Settings):
     reranking: RerankingSettings
     reranker_models: dict[str, RerankerModel]
     retrieval_eval: RetrievalEvalSettings
+    answer: AnswerSettings
+
+    @model_validator(mode="after")
+    def answer_names_exist(self) -> "Config":
+        if self.answer.model not in self.models:
+            raise ValueError(
+                f"[answer] model {self.answer.model!r}: no [models.{self.answer.model!r}] table"
+            )
+        if self.answer.collection not in self.index.collections:
+            raise ValueError(
+                f"[answer] collection {self.answer.collection!r}: not in [index] collections"
+            )
+        return self
 
     @model_validator(mode="after")
     def embedding_names_exist(self) -> "Config":

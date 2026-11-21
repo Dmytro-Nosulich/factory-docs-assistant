@@ -39,7 +39,12 @@ class ModelResponse:
 
 
 class ChatClient(Protocol):
-    def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse: ...
+    """schema_name: what the structured-output schema is called, where the API takes a name
+    (OpenRouter); the client's default when not given (S2-13)."""
+
+    def complete(
+        self, messages: list[dict[str, str]], schema: dict, schema_name: str = ...
+    ) -> ModelResponse: ...
 
 
 class AttemptFailed(Exception):

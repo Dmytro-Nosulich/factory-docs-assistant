@@ -225,5 +225,8 @@ __marimo__/
 # Qdrant index, rebuilt by `make index` (S2-06)
 data/index/qdrant/
 
+# `make ask` logs, one file per question (S2-13); not committed (user's choice)
+results/answers/
+
 # Course homework materials (never committed)
 course-materials/

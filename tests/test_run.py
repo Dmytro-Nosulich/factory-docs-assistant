@@ -185,6 +185,15 @@ def test_spent_usd_sums_records_and_skips_summaries(tmp_path):
     assert spent_usd(tmp_path) == 0.25
 
 
+def test_spent_usd_skips_the_stage_2_answer_logs(tmp_path):
+    (tmp_path / "smoke").mkdir()
+    (tmp_path / "answers").mkdir()
+    (tmp_path / "smoke" / "a.json").write_text(json.dumps({"call": {"cost_usd": 0.25}}))
+    (tmp_path / "answers" / "b.json").write_text(json.dumps({"call": {"cost_usd": 1.0}}))
+    assert spent_usd(tmp_path) == 0.25
+    assert spent_usd(tmp_path, exclude=()) == 1.25
+
+
 def test_stage1_has_35_documents():
     doc_ids = stage1_doc_ids()
     assert len(doc_ids) == 35

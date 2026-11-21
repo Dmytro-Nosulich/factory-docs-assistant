@@ -3,6 +3,17 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-009: Answers in the wrong language, and a token estimate that undercounts
+- **Date / task:** 2026-11-21, S2-13 answer pipeline
+- **Problem:** the first three live answers (`make ask`, Haiku 5.5, prompt answer v1; logs in the gitignored `results/answers/`) were all valid, and every citation passed the checks. Two problems showed up.
+  - Language: both English questions (R03 `What is the UN number of concentrated sulphuric acid?`, and `What is the boiling point of liquid helium at 1 bar?`, which the corpus does not answer) got their claim and `missing` in German, though the prompt says to use the question's language. The Ukrainian question (R08) was answered in Ukrainian. Three answers, not a measurement.
+  - Token estimate: the budget counts the rendered context at 4 characters per token (`estimate_tokens`). The API reported 6576, 6825 and 8244 prompt tokens, against an estimate of 975 for the fixed part of the prompt (system message, schema, template) plus 2472, 2563 and 3330 for the context: about 1.9 times the estimate. So `max_context_tokens = 4000` allows about 7600 real context tokens, and in these three answers the budget dropped no chunk: k = 10 was the limit.
+- **Options considered:**
+  - Language: a stricter language rule in a new prompt version (S2-14 asks for at least one more measured prompt version), or a language check by code.
+  - Estimate: a different characters-per-token ratio from these logs, a real tokenizer (Anthropic's is not public), or keep the estimate and state its unit as "estimated tokens".
+- **Current selection:** none yet; both are recorded for S2-14 and S2-16, which measure answers on more questions. The budget mechanism itself is tested (`tests/test_answer.py`).
+- **Revisit if:** the S2-14 development questions show the wrong language more than once, or the evals need the budget in real tokens.
+
 ## I-008: BM25 without stemming, and repeated common terms
 - **Date / task:** 2026-11-20, S2-07 hybrid search
 - **Problem:** The BM25 tokenizer is the same for all nine languages: no stemming and no stopwords (`src/factory_docs/lexical.py`). Two effects follow.

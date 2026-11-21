@@ -200,3 +200,17 @@ which are also the ones in `docs/reports/stage-1.md`:
   - The newer-version rule prepares for the outdated-version questions (S2-16).
 - Measured effect: not measured yet. The first answers come in S2-13, and the refusal rate is
   measured in S2-14.
+
+## answer_repair v1 (2026-11-21)
+- What: a new prompt, not an answer version. When an answer fails validation (not JSON, a
+  status rule of `Answer`, or a citation check), the model gets one repair attempt: the same
+  conversation plus its own invalid reply and this user message, which lists the errors and asks
+  for the complete corrected JSON, changing only what the errors require. Like repair v1, but
+  "use only the context" instead of "use only the document", plus the two citation rules (the
+  chunk ID must be in the context, the quote must be copied from that chunk) and "remove a claim
+  that no chunk supports".
+- Why (user's choice, S2-13): one repair, then reject, as in stage 1 (S1-15). The pipeline
+  checks that each cited chunk was sent to the model and that each quote is in its chunk; these
+  checks need the context, so the JSON schema cannot enforce them. Both replies are logged, so the
+  share of valid first answers stays visible.
+- Measured effect: not measured yet; the answer runs of the evals (S2-18) will count repairs.

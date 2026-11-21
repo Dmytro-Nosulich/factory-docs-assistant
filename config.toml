@@ -172,3 +172,22 @@ name = "BAAI/bge-reranker-v2-m3-int8"
 [retrieval_eval]
 ks = [1, 3, 5, 10]
 setups = ["vector", "bm25", "hybrid", "hybrid+rerank"]
+
+# Answer pipeline (S2-13): `make ask Q=...` searches `collection` with the [search] settings
+# (hybrid + rerank), offers the best k hits to the context in rank order and stops at the first
+# that would take the context over max_context_tokens (estimated at 4 characters per token, which
+# undercounts Cyrillic; the real prompt tokens are logged). The model answers with the [answer]
+# prompt; an answer whose citations fail the checks gets one repair attempt with repair_prompt.
+# k and max_context_tokens are starting values, not tuned (user's choice, 2026-11-21).
+# stop_at_usd is the stage 2 budget guard (decision 18): the cost of every file in
+# results/answers/, apart from the stage 1 guard in [budget].
+[answer]
+model = "haiku-5.5"            # decision 15
+prompt = "answer"
+prompt_version = "v1"
+repair_prompt = "answer_repair"
+repair_prompt_version = "v1"
+collection = "structure"       # decision 19
+k = 10
+max_context_tokens = 4000
+stop_at_usd = 5.0

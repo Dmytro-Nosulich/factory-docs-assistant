@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search retrieval-gold-check eval-retrieval section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check eval-retrieval section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -71,6 +71,15 @@ LATEST ?=
 search:
 	uv run python scripts/search.py "$(Q)" --collection $(COLLECTION) --k $(K) $(if $(MODE),--mode $(MODE)) \
 		$(if $(filter 1,$(RERANK)),--rerank) $(if $(filter 0,$(RERANK)),--no-rerank) \
+		$(if $(TYPE),--doc-type $(TYPE)) $(if $(DOC_LANG),--language $(DOC_LANG)) \
+		$(if $(SINCE),--since $(SINCE)) $(if $(UNTIL),--until $(UNTIL)) \
+		$(if $(filter 1,$(LATEST)),--latest-only)
+
+# Answer a question with checked citations: make ask Q="..." [COLLECTION=] [TYPE=] [DOC_LANG=]
+#   [SINCE=] [UNTIL=] [LATEST=1]. Search, budget and model come from [search] and [answer] in
+# config.toml; the record goes to results/answers/ (gitignored) (S2-13)
+ask:
+	uv run python scripts/ask.py "$(Q)" $(if $(filter-out structure,$(COLLECTION)),--collection $(COLLECTION)) \
 		$(if $(TYPE),--doc-type $(TYPE)) $(if $(DOC_LANG),--language $(DOC_LANG)) \
 		$(if $(SINCE),--since $(SINCE)) $(if $(UNTIL),--until $(UNTIL)) \
 		$(if $(filter 1,$(LATEST)),--latest-only)

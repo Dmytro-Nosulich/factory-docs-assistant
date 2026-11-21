@@ -14,6 +14,7 @@ from factory_docs.config import OpenRouterModel, OpenRouterSettings
 from factory_docs.models import AttemptFailed, ModelResponse, call_with_retry
 
 RETRY_STATUS = {408, 429, 500, 502, 503, 504}
+SCHEMA_NAME = "safety_data_sheet"  # stage 1 default, so stage 1 request bodies stay the same
 
 
 class OpenRouterClient:
@@ -41,13 +42,15 @@ class OpenRouterClient:
     def close(self) -> None:
         self.http.close()
 
-    def request_body(self, messages: list[dict[str, str]], schema: dict) -> dict:
+    def request_body(
+        self, messages: list[dict[str, str]], schema: dict, schema_name: str = SCHEMA_NAME
+    ) -> dict:
         body = {
             "model": self.model.slug,
             "messages": messages,
             "response_format": {
                 "type": "json_schema",
-                "json_schema": {"name": "safety_data_sheet", "strict": True, "schema": schema},
+                "json_schema": {"name": schema_name, "strict": True, "schema": schema},
             },
             # Route only to upstream providers that support every parameter we send.
             "provider": {"require_parameters": True},
@@ -59,9 +62,15 @@ class OpenRouterClient:
             body.update(self.sampling)
         return body
 
-    def complete(self, messages: list[dict[str, str]], schema: dict) -> ModelResponse:
-        """One chat completion; retries timeouts, network errors, 408/429/5xx with backoff."""
-        body = self.request_body(messages, schema)
+    def complete(
+        self, messages: list[dict[str, str]], schema: dict, schema_name: str = SCHEMA_NAME
+    ) -> ModelResponse:
+        """One chat completion; retries timeouts, network errors, 408/429/5xx with backoff.
+
+        schema_name is the name OpenRouter passes on with the schema: the stage 1 default, or
+        e.g. `rag_answer` for the answer pipeline (S2-13).
+        """
+        body = self.request_body(messages, schema, schema_name)
         data, latency_s, total_s, attempts = call_with_retry(
             lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep
         )

@@ -81,6 +81,13 @@ def test_request_has_structured_output_and_routing():
     assert "temperature" not in body and "top_p" not in body  # none given: none sent (I-003)
 
 
+def test_schema_name_is_passed_through():
+    client, requests, _ = make_client(ok())
+    client.complete(MESSAGES, SCHEMA, schema_name="rag_answer")
+    body = json.loads(requests[0].content)
+    assert body["response_format"]["json_schema"]["name"] == "rag_answer"
+
+
 def test_sampling_values_are_sent_at_the_top_level():
     client, requests, _ = make_client(ok(), sampling={"temperature": 0.0})
     client.complete(MESSAGES, SCHEMA)
