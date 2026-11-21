@@ -2,7 +2,9 @@ import re
 
 import pytest
 
-from factory_docs.prompts import load_prompt
+from factory_docs.answer_schema import answer_schema_text, render_context
+from factory_docs.index import load_chunks
+from factory_docs.prompts import PROMPTS, load_prompt
 from factory_docs.schema import schema_text
 
 
@@ -30,6 +32,34 @@ def test_repair_v1_has_no_system_message():
     (user,) = prompt.render(errors="- signal_word: bad value")
     assert user["role"] == "user"
     assert "- signal_word: bad value" in user["content"]
+
+
+def test_answer_v1_loads_from_file():
+    prompt = load_prompt("answer", "v1")
+    assert (prompt.name, prompt.version) == ("answer", "v1")
+    assert prompt.system and prompt.user
+    assert "<!--" not in prompt.system, "the header comment is not sent to the model"
+    assert prompt.placeholders == {"question", "context", "schema"}
+
+
+def test_answer_v1_renders_a_real_chunk():
+    chunk = next(
+        c
+        for c in load_chunks(PROMPTS.parent / "data/chunks/chunks.jsonl")
+        if c.chunk_id == "D033-s-0012"
+    )
+    prompt = load_prompt("answer", "v1")
+    system, user = prompt.render(
+        question="Wie hoch ist der Flammpunkt von RM 110?",
+        context=render_context([chunk]),
+        schema=answer_schema_text(),
+    )
+    assert system == {"role": "system", "content": prompt.system}
+    assert '<chunk id="D033-s-0012"' in user["content"]
+    assert chunk.text in user["content"]
+    assert "Wie hoch ist der Flammpunkt von RM 110?" in user["content"]
+    assert '"not_in_documents"' in user["content"]
+    assert "{{" not in user["content"]
 
 
 def test_render_fills_document_and_schema():

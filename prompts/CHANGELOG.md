@@ -177,3 +177,26 @@ which are also the ones in `docs/reports/stage-1.md`:
   - Repair calls: 28.2 s and 23.5 s on the M4 Pro (local, $0).
   - Caveat: n = 2. Repair restores validity, not accuracy: both fixes chose the easy null over
     the value in the document.
+
+## answer v1 (2026-11-21)
+- What: a new prompt for stage 2, not an extraction version. It answers a question from the
+  retrieved chunks, which `factory_docs.answer_schema.render_context` writes as one
+  `<chunk id=... document=... title=... section=... date=... [supersedes=...] [page=...]>`
+  each. The reply must match `factory_docs.answer_schema.Answer`:
+  - a status: answered, partial or not_in_documents
+  - claims, each with at least one citation (chunk ID plus a short quote copied from that chunk)
+  - `missing`: what the context does not give
+  Rules: use only the context, write claims in the question's language and keep quotes in the
+  chunk's language, and when one document replaces another, answer from the newer one. The JSON
+  schema goes into the user message, as in extract v1.
+- Why (user's choices, S2-11):
+  - Chunk IDs instead of copied document and section names: code maps an ID to its document,
+    section and page, and can reject IDs that were not retrieved (S2-13).
+  - Quotes: S2-13 can check that each quote is in its chunk, and the faithfulness check (S2-18)
+    gets direct evidence.
+  - Three statuses: partial keeps a partly answered question apart from a full answer and from a
+    refusal.
+  - The question's language: the corpus and the users are multilingual.
+  - The newer-version rule prepares for the outdated-version questions (S2-16).
+- Measured effect: not measured yet. The first answers come in S2-13, and the refusal rate is
+  measured in S2-14.
