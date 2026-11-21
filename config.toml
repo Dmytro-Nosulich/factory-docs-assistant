@@ -202,3 +202,10 @@ min_rerank_score = -1.03
 # gate off, and picks the gate threshold by the rule in docs/METRICS.md.
 [refusal_eval]
 prompt_versions = ["v1", "v2"]
+
+# One-command run (S2-15): `make run` answers these development questions (IDs in
+# evals/dev_questions.toml) through the `make ask` pipeline, gate on, and prints them. Picked to
+# show an English, a Ukrainian and a German answer (V07 is a certificate, not an SDS) and a near
+# miss the model refuses (V09). Not R08: the gate would refuse it (docs/ISSUES.md I-010).
+[run]
+sample_questions = ["V02", "V04", "V07", "V09"]

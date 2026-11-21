@@ -88,10 +88,10 @@ Seconds per query, including the embedding of the query (machine-dependent: macO
 | Chunking | Setup | p50 s | max s |
 |---|---|---|---|
 | structure | vector | 0.01 | 0.01 |
-| structure | bm25 | 0.03 | 0.04 |
+| structure | bm25 | 0.03 | 0.03 |
 | structure | hybrid | 0.04 | 0.04 |
-| structure | hybrid+rerank | 4.66 | 6.11 |
-| fixed | vector | 0.01 | 0.02 |
+| structure | hybrid+rerank | 4.49 | 5.83 |
+| fixed | vector | 0.01 | 0.01 |
 | fixed | bm25 | 0.03 | 0.03 |
 | fixed | hybrid | 0.04 | 0.04 |
-| fixed | hybrid+rerank | 5.58 | 7.10 |
+| fixed | hybrid+rerank | 5.36 | 6.98 |

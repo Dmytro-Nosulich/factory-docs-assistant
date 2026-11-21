@@ -94,3 +94,14 @@ Added 2026-11-21 (S2-14). `make eval-refusal` (code: `src/factory_docs/refusal_e
 - **Language match:** the claims and `missing` of a shown answer are in the question's language, by the heuristic in `src/factory_docs/language.py` (Ukrainian by script, other languages by common function words, `unknown` when unclear). Quotes are left out, since they stay in the chunk's language. Computed from the saved answers, so `--report` applies a changed detector. It is a heuristic: a short answer with no function word counts as `unknown`, so as a mismatch.
 - **Right document:** an answered answerable question cites at least one chunk of an evidence document. It does not check the answer's content (S2-17).
 - **Cost and latency:** the reported cost of all calls of a version, including repairs, and the nearest-rank median of seconds per question with a call.
+
+## Cost per 1000 questions (stage 2)
+Added 2026-11-21 (S2-15). `make cost` (code: `src/factory_docs/cost.py`, `scripts/cost_report.py`; tests: `tests/test_cost.py`) reads `evals/results/refusal.json` and makes no model calls, so it rebuilds the same way on a fresh clone. It writes `evals/results/cost.md` and the generated section of `REPORT.md`. `make run` runs it last.
+
+- **Questions:** the development questions of the last `make eval-refusal` run, answered with `[answer] prompt_version` by `[answer] model` (the run must have both).
+- **Gate applied afterwards.** The eval answers every question with the score gate off. Here a question whose top-1 reranker score is below `[answer] min_rerank_score`, or that has no hit, costs $0, because `make ask` makes no model call for it (the same rule as the refusal eval: a score equal to the threshold passes).
+- **Cost of a question that reaches the model:** its first call plus its repair call, if any (both are paid). Prompt and completion tokens are the provider's own usage numbers.
+- **$ / 1000 (tokens x price)**, the headline = 1000 × mean over the questions of (prompt tokens × input price + completion tokens × output price) / 1,000,000, with the prices per 1M tokens in `config.toml` (`price_in_usd_per_mtok`, `price_out_usd_per_mtok`, date in `price_checked`). The same rule as stage 1's cost per 1000 documents.
+- **$ / 1000 (reported)** = the same mean from the cost OpenRouter reports per call. A cross-check.
+- **Two rows:** over all development questions (gated ones count as $0), and over only those that reach the model. The first depends on the share of unanswerable questions in the development set, which is high on purpose. The second is the cost of a question the model answers or refuses itself.
+- **Not counted:** embedding and reranking run on the local CPU, so they have no API cost. Hardware, electricity and time are not counted.

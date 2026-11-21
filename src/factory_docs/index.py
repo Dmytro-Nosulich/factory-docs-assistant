@@ -14,20 +14,26 @@ S2-08 adds two things. Filters (`SearchFilter`) on document type, language, date
 version: Qdrant applies them inside each retriever, before ranking, so a filtered search still
 returns k hits. They use three payload fields derived at build time (`filter_fields`). And
 reranking: a cross-encoder rescores the first-stage hits (`rerank`, `factory_docs.rerank`).
+
+S2-15 adds `stale_reasons`: `make run` rebuilds the index only when what a build depends on
+(chunk files, embedding model and prefixes, BM25 parameters, library versions) differs from
+data/index/index_build.json, or a collection is missing or has the wrong number of points.
 """
 
+import hashlib
 import re
 import uuid
 from collections import defaultdict
-from collections.abc import Sequence
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, replace
 from datetime import date
+from importlib.metadata import version
 from pathlib import Path
 
 from qdrant_client import QdrantClient, models
 
 from factory_docs.chunking import Chunk
-from factory_docs.config import SearchMode, SearchSettings
+from factory_docs.config import ROOT, Config, SearchMode, SearchSettings
 from factory_docs.embedding import Embedder
 from factory_docs.lexical import Bm25Encoder, encode_query
 from factory_docs.rerank import Reranker
@@ -331,3 +337,71 @@ def search(
             search_filter,
         )
     return rerank(query, hits, reranker, k) if reranker else hits
+
+
+LIBRARIES = ("fastembed", "onnxruntime", "qdrant-client")
+
+
+def file_sha256(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def build_inputs(config: Config, root: Path = ROOT) -> dict:
+    """What a build depends on, in the shape of data/index/index_build.json (S2-15)."""
+    model = config.embedding_models[config.embedding.model]
+    return {
+        "embedding": {
+            "key": config.embedding.model,
+            "model": model.name,
+            "query_prefix": model.query_prefix,
+            "passage_prefix": model.passage_prefix,
+        },
+        "bm25": {"k1": config.search.bm25_k1, "b": config.search.bm25_b},
+        "store": config.index.path,
+        "versions": {name: version(name) for name in LIBRARIES},
+        "collections": {
+            name: {"chunks_file": chunks_file, "chunks_sha256": file_sha256(root / chunks_file)}
+            for name, chunks_file in config.index.collections.items()
+        },
+    }
+
+
+def stale_reasons(
+    saved: Mapping | None, inputs: Mapping, points: Mapping[str, int] | None
+) -> list[str]:
+    """Why the index must be rebuilt; empty when it is current (S2-15).
+
+    saved: the build record (None when there is none). inputs: `build_inputs`. points: the
+    point count of each collection in the store (None when the store folder is missing).
+    A collection whose count differs from the record is stale too, so a build that stopped
+    half-way is never kept.
+    """
+    if points is None:
+        return [f"no index at {inputs['store']}"]
+    if saved is None:
+        return ["no build record"]
+    reasons = []
+    for section in ("embedding", "bm25", "versions"):
+        for key, now in inputs[section].items():
+            before = (saved.get(section) or {}).get(key)
+            if before != now:
+                reasons.append(f"{section} {key}: {before!r} in the record, {now!r} now")
+    if saved.get("store") != inputs["store"]:
+        reasons.append(f"store: {saved.get('store')!r} in the record, {inputs['store']!r} now")
+    saved_collections = saved.get("collections") or {}
+    for name, now in inputs["collections"].items():
+        before = saved_collections.get(name)
+        if before is None:
+            reasons.append(f"collection {name}: not in the record")
+            continue
+        for key in ("chunks_file", "chunks_sha256"):
+            if before.get(key) != now[key]:
+                reasons.append(f"collection {name}: {key} changed")
+        if name not in points:
+            reasons.append(f"collection {name}: missing from the store")
+        elif points[name] != before.get("points"):
+            reasons.append(
+                f"collection {name}: {points[name]} points in the store, "
+                f"{before.get('points')} in the record"
+            )
+    return reasons

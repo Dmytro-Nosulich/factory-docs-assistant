@@ -6,30 +6,57 @@ k1 and b, and writes one collection per chunking strategy to data/index/qdrant/ 
 Writes data/index/index_build.json: model, prefixes, BM25 parameters, the hash of each chunks
 file, point counts, truncation, average chunk length in BM25 tokens and vocabulary size, and
 which documents the filters treat as superseded or undated, so a build can be traced.
-Usage: uv run python scripts/build_index.py
+Usage: uv run python scripts/build_index.py [--if-stale]
+  --if-stale  rebuild only when `factory_docs.index.stale_reasons` finds a reason (`make run`,
+              S2-15); without it, always rebuild (`make index`)
 """
 
-import hashlib
+import argparse
 import json
 import time
-from importlib.metadata import version
 
 from qdrant_client import QdrantClient
 
-from factory_docs.config import ROOT, load_config
+from factory_docs.config import ROOT, Config, load_config
 from factory_docs.embedding import FastEmbedder
-from factory_docs.index import build_collection, load_chunks, parse_doc_date
+from factory_docs.index import (
+    build_collection,
+    build_inputs,
+    file_sha256,
+    load_chunks,
+    parse_doc_date,
+    stale_reasons,
+)
 from factory_docs.lexical import Bm25Encoder, vocabulary
 
 RECORD = ROOT / "data" / "index" / "index_build.json"
 
 
-def file_sha256(path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+def store_points(config: Config) -> dict[str, int] | None:
+    """Point count per collection in the store, or None when there is no store folder."""
+    store = ROOT / config.index.path
+    if not store.exists():
+        return None
+    client = QdrantClient(path=str(store))
+    try:
+        names = [c.name for c in client.get_collections().collections]
+        return {name: client.count(name, exact=True).count for name in names}
+    finally:
+        client.close()
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--if-stale", action="store_true", help="skip when the index is current")
+    args = parser.parse_args()
     config = load_config()
+    if args.if_stale:
+        saved = json.loads(RECORD.read_text(encoding="utf-8")) if RECORD.exists() else None
+        reasons = stale_reasons(saved, build_inputs(config), store_points(config))
+        if not reasons:
+            print(f"Index {config.index.path} is current ({RECORD.relative_to(ROOT)}); skipped")
+            return
+        print("Rebuilding the index: " + "; ".join(reasons))
     key = config.embedding.model
     embedder = FastEmbedder.from_config(config, key)
     model = config.embedding_models[key]
@@ -47,7 +74,7 @@ def main() -> None:
         },
         "bm25": {"k1": config.search.bm25_k1, "b": config.search.bm25_b},
         "store": config.index.path,
-        "versions": {name: version(name) for name in ("fastembed", "onnxruntime", "qdrant-client")},
+        "versions": build_inputs(config)["versions"],
         "collections": {},
     }
     client = QdrantClient(path=str(store))

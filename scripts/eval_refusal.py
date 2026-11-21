@@ -27,6 +27,7 @@ from factory_docs.answer import (
 )
 from factory_docs.clients import make_client
 from factory_docs.config import ROOT, Config, load_config, load_env
+from factory_docs.cost import record_tokens
 from factory_docs.dev_questions import DEV, DevQuestion, load_dev
 from factory_docs.extract import prompt_info
 from factory_docs.prompts import load_prompt
@@ -55,12 +56,16 @@ def run_row(question: DevQuestion, record: dict, path) -> dict:
     claims = (answer or {}).get("claims", [])
     cited = sorted({c["chunk_id"].split("-")[0] for claim in claims for c in claim["citations"]})
     final_errors = (record.get("repair") or record)["errors"]
+    tokens = record_tokens(record)
     return {
         "id": question.id,
         "final_status": record["final_status"],
         "answer": answer,
         "cited_docs": cited,
         "cost_usd": record_cost(record),
+        # first call plus repair call, for the cost per 1000 questions (S2-15, `make cost`)
+        "prompt_tokens": tokens[0],
+        "completion_tokens": tokens[1],
         "total_s": sum(c.get("total_s") or 0 for c in calls) if calls else None,
         "record": str(path.relative_to(ROOT)),
         "errors": [] if answer else final_errors,

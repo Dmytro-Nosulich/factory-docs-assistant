@@ -1,9 +1,26 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
-# Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
+# Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
+# diff: every step is deterministic), the index only when stale, runs the checks and evals, then
+# answers the sample questions and prints the cost per 1000 questions. Each step is a target of
+# its own below. Stage 1: make run-extraction
 run:
-	@echo "The stage 2 pipeline is not built yet (S2-15). For stage 1 use: make run-extraction"
-	@exit 1
+	uv run python scripts/preflight.py
+	$(MAKE) parse clean-corpus ingest
+	uv run python scripts/build_index.py --if-stale
+	$(MAKE) retrieval-gold-check dev-questions-check section-labels
+	$(MAKE) eval-retrieval eval-refusal
+	$(MAKE) samples
+	$(MAKE) cost
+
+# Answer the [run] sample_questions of config.toml like `make ask` and print them (S2-15)
+samples:
+	uv run python scripts/sample_answers.py
+
+# Cost per 1000 questions from evals/results/refusal.json, no model calls; writes
+# evals/results/cost.md and the cost section of REPORT.md (S2-15)
+cost:
+	uv run python scripts/cost_report.py
 
 MODEL ?=
 SAMPLING ?=

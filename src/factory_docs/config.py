@@ -230,6 +230,18 @@ class RefusalEvalSettings(Settings):
         return self
 
 
+class RunSettings(Settings):
+    """`make run`, S2-15: the development questions answered and printed as samples."""
+
+    sample_questions: list[str] = Field(min_length=1)  # IDs in evals/dev_questions.toml
+
+    @model_validator(mode="after")
+    def distinct(self) -> "RunSettings":
+        if len(set(self.sample_questions)) != len(self.sample_questions):
+            raise ValueError("[run] sample_questions must be distinct")
+        return self
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -247,6 +259,7 @@ class Config(Settings):
     retrieval_eval: RetrievalEvalSettings
     answer: AnswerSettings
     refusal_eval: RefusalEvalSettings
+    run: RunSettings
 
     @model_validator(mode="after")
     def answer_names_exist(self) -> "Config":

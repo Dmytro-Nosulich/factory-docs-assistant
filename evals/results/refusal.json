@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-21T22:00:14+00:00",
+  "created_at": "2026-11-21T22:28:55+00:00",
   "machine": {
     "platform": "macOS-26.7.3-arm64-arm-64bit"
   },
@@ -1099,7 +1099,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Der Flammpunkt von LIQUI MOLY Hydraulikoel HLP 46 beträgt 243 °C (ISO 2592, Cleveland, open cup). Dies gilt laut Sicherheitsdatenblatt Version v0008 vom 2024-02-06.",
+              "text": "Der Flammpunkt von LIQUI MOLY Hydraulikoel HLP 46 beträgt 243 °C (ISO 2592, Cleveland, offener Tiegel).",
               "citations": [
                 {
                   "chunk_id": "D050-s-0016",
@@ -1113,10 +1113,11 @@
         "cited_docs": [
           "D050"
         ],
-        "answer_language": "de",
-        "cost_usd": 0.000945,
-        "total_s": 1.823,
-        "record": "results/answers/20261121T215910Z.json",
+        "cost_usd": 0.0009285,
+        "prompt_tokens": 8545,
+        "completion_tokens": 148,
+        "total_s": 2.077,
+        "record": "results/answers/20261121T222751Z.json",
         "errors": []
       },
       {
@@ -1126,7 +1127,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "The UN number for transporting compressed argon is UN 1006.",
+              "text": "Compressed argon is transported under UN number 1006 (ARGON, COMPRESSED), as stated in the Argon, compressed safety data sheet, section 14.",
               "citations": [
                 {
                   "chunk_id": "D039-s-0018",
@@ -1140,10 +1141,11 @@
         "cited_docs": [
           "D039"
         ],
-        "answer_language": "en",
-        "cost_usd": 0.0008348,
-        "total_s": 2.278,
-        "record": "results/answers/20261121T215913Z.json",
+        "cost_usd": 0.0008518,
+        "prompt_tokens": 7903,
+        "completion_tokens": 123,
+        "total_s": 1.648,
+        "record": "results/answers/20261121T222753Z.json",
         "errors": []
       },
       {
@@ -1153,7 +1155,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "According to the Telegraf Modbus plugin configuration (v1.40.3, which supersedes v1.20.0), the slave ID range is 0 to 255, where 248 to 255 are reserved.",
+              "text": "According to the newer v1.40.3 version of the Telegraf Modbus plugin README (which supersedes v1.20.0), the slave ID range is 0 - 255, where 0 is broadcast and 248 - 255 are reserved, so slave IDs 248 through 255 are reserved.",
               "citations": [
                 {
                   "chunk_id": "D075-s-0001",
@@ -1167,10 +1169,11 @@
         "cited_docs": [
           "D075"
         ],
-        "answer_language": "en",
-        "cost_usd": 0.0007853,
-        "total_s": 1.737,
-        "record": "results/answers/20261121T215914Z.json",
+        "cost_usd": 0.0008003,
+        "prompt_tokens": 7098,
+        "completion_tokens": 181,
+        "total_s": 1.934,
+        "record": "results/answers/20261121T222755Z.json",
         "errors": []
       },
       {
@@ -1180,7 +1183,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Засіб STIHL Profi CP 200 містить sodium-p-cumene sulphonate у концентрації 1-<3%.",
+              "text": "Засіб STIHL Profi CP 200 містить sodium-p-cumene sulphonate в концентрації 1-<3%.",
               "citations": [
                 {
                   "chunk_id": "D006-s-0010",
@@ -1194,10 +1197,11 @@
         "cited_docs": [
           "D006"
         ],
-        "answer_language": "unknown",
         "cost_usd": 0.0008705,
-        "total_s": 1.806,
-        "record": "results/answers/20261121T215916Z.json",
+        "prompt_tokens": 8050,
+        "completion_tokens": 131,
+        "total_s": 2.068,
+        "record": "results/answers/20261121T222757Z.json",
         "errors": []
       },
       {
@@ -1207,7 +1211,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "STIHL Varioclean містить амфотерні поверхнево-активні речовини в кількості ≥5 - <15%.",
+              "text": "STIHL Varioclean містить амфотерні поверхнево-активні речовини у кількості ≥5 - <15%.",
               "citations": [
                 {
                   "chunk_id": "D035-s-0005",
@@ -1221,10 +1225,11 @@
         "cited_docs": [
           "D035"
         ],
-        "answer_language": "uk",
         "cost_usd": 0.0008306,
-        "total_s": 1.667,
-        "record": "results/answers/20261121T215918Z.json",
+        "prompt_tokens": 7736,
+        "completion_tokens": 114,
+        "total_s": 1.304,
+        "record": "results/answers/20261121T222758Z.json",
         "errors": []
       },
       {
@@ -1248,10 +1253,11 @@
         "cited_docs": [
           "D033"
         ],
-        "answer_language": "de",
         "cost_usd": 0.000957,
-        "total_s": 1.414,
-        "record": "results/answers/20261121T215919Z.json",
+        "prompt_tokens": 8985,
+        "completion_tokens": 117,
+        "total_s": 1.838,
+        "record": "results/answers/20261121T222800Z.json",
         "errors": []
       },
       {
@@ -1275,10 +1281,11 @@
         "cited_docs": [
           "D015"
         ],
-        "answer_language": "de",
         "cost_usd": 0.0008667,
-        "total_s": 2.074,
-        "record": "results/answers/20261121T215921Z.json",
+        "prompt_tokens": 8002,
+        "completion_tokens": 133,
+        "total_s": 1.737,
+        "record": "results/answers/20261121T222801Z.json",
         "errors": []
       },
       {
@@ -1288,7 +1295,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Non, le mastic-colle Baixens Brico B-31 n'est pas classé comme dangereux au sens du Règlement (CE) n° 1272/2008.",
+              "text": "Non, le mastic-colle Baixens Brico B-31 n'est pas classé comme dangereux au sens du Règlement (CE) no 1272/2008 (version 2 du 31/10/2025).",
               "citations": [
                 {
                   "chunk_id": "D060-s-0002",
@@ -1297,11 +1304,11 @@
               ]
             },
             {
-              "text": "Le produit comporte toutefois une phrase EUH208 indiquant qu'il contient du 1,2-benzisothiazol-3(2H)-one et peut produire une réaction allergique.",
+              "text": "Le produit porte toutefois des phrases EUH : il contient 1,2-benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one et 5-chloro-2-methyl-1,2-thiazol-3(2H)-one, qui peuvent produire une réaction allergique.",
               "citations": [
                 {
                   "chunk_id": "D060-s-0002",
-                  "quote": "EUH208 Contient 1,2-benzisothiazol-3(2H)-one"
+                  "quote": "EUH208 Contient 1,2-benzisothiazol-3(2H)-one, 2-methyl-1,2-thiazol-3(2H)-one-5-chloro-2-methyl-1,2-thiazol-3(2H)-one. Peut produire une réaction allergique."
                 }
               ]
             }
@@ -1311,10 +1318,11 @@
         "cited_docs": [
           "D060"
         ],
-        "answer_language": "fr",
-        "cost_usd": 0.0010298,
-        "total_s": 1.939,
-        "record": "results/answers/20261121T215923Z.json",
+        "cost_usd": 0.0010933,
+        "prompt_tokens": 8928,
+        "completion_tokens": 401,
+        "total_s": 1.878,
+        "record": "results/answers/20261121T222803Z.json",
         "errors": []
       },
       {
@@ -1323,13 +1331,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Der Siedepunkt von flüssigem Helium bei 1 bar wird in den bereitgestellten Dokumenten nicht angegeben. Die Dokumente behandeln Stickstoff, Sauerstoff, Argon, Frostschutzmittel und Bremsenreiniger, aber kein Helium."
+          "missing": "Der Siedepunkt von flüssigem Helium bei 1 bar wird in den bereitgestellten Dokumenten nicht angegeben. Die Dokumente behandeln Stickstoff, Sauerstoff, Argon, ein Frostschutzmittel und ein Bremsenreinigungsmittel, aber kein Helium."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0008904,
-        "total_s": 1.733,
-        "record": "results/answers/20261121T215925Z.json",
+        "cost_usd": 0.0008944,
+        "prompt_tokens": 8244,
+        "completion_tokens": 140,
+        "total_s": 1.153,
+        "record": "results/answers/20261121T222805Z.json",
         "errors": []
       },
       {
@@ -1338,13 +1347,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Context contains UN numbers for nitrogen (UN 1066) and argon (UN 1006) compressed gases, and sulphuric acid (UN 1830), but no entry for compressed hydrogen, so its UN number is not given."
+          "missing": "Context contains UN numbers for nitrogen, compressed (UN 1066), argon, compressed (UN 1006), and sulfuric acid (UN 1830), but no compressed hydrogen entry, so the UN number for compressed hydrogen is not given."
         },
         "cited_docs": [],
-        "answer_language": "en",
-        "cost_usd": 0.0007536,
-        "total_s": 1.921,
-        "record": "results/answers/20261121T215927Z.json",
+        "cost_usd": 0.0007581,
+        "prompt_tokens": 7036,
+        "completion_tokens": 109,
+        "total_s": 2.153,
+        "record": "results/answers/20261121T222807Z.json",
         "errors": []
       },
       {
@@ -1353,13 +1363,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Der Flammpunkt von LIQUI MOLY Hydraulikoel HLP 68 wird im Kontext nicht angegeben. Der Kontext enthält nur das Sicherheitsdatenblatt für LIQUI MOLY Hydraulikoel HLP 46 (Flammpunkt 243 °C, Version v0008, 2024-02-06)."
+          "missing": "Der Kontext enthält das Sicherheitsdatenblatt für LIQUI MOLY Hydraulikoel HLP 46, nicht für HLP 68. Der Flammpunkt von HLP 68 wird daher nicht angegeben."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0009298,
-        "total_s": 1.933,
-        "record": "results/answers/20261121T215929Z.json",
+        "cost_usd": 0.0009093,
+        "prompt_tokens": 8548,
+        "completion_tokens": 109,
+        "total_s": 1.26,
+        "record": "results/answers/20261121T222808Z.json",
         "errors": []
       },
       {
@@ -1368,13 +1379,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Die Schutzart (IP-Schutzart) des Messumformers Proline 300 PROFINET wird im Kontext nicht angegeben. Die vorliegenden Auszüge betreffen Proline 300 PROFIBUS DP und Proline 500 digital PROFINET mit Ethernet-APL; eine Angabe zur Schutzart des Proline 300 PROFINET fehlt."
+          "missing": "Die Schutzart (IP-Schutzart) des Messumformers Proline 300 PROFINET wird in den bereitgestellten Auszügen nicht angegeben. Die Kontexte beziehen sich auf Proline 300 PROFIBUS DP und Proline 500 digital PROFINET mit Ethernet-APL, nicht auf Proline 300 PROFINET."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0008728,
-        "total_s": 1.881,
-        "record": "results/answers/20261121T215931Z.json",
+        "cost_usd": 0.0008698,
+        "prompt_tokens": 7928,
+        "completion_tokens": 154,
+        "total_s": 1.34,
+        "record": "results/answers/20261121T222809Z.json",
         "errors": []
       },
       {
@@ -1383,13 +1395,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Il contesto fornito contiene la scheda di dati di sicurezza di OTTOSEAL S 100 (D061), ma non riporta alcun dato per OTTOSEAL S 110. Il punto di infiammabilità di OTTOSEAL S 100 è indicato come 'Non applicabile (i metodi di prova per il punto di infiammabilità non sono validi per sostanze pastose e liquidi altamente viscosi)', ma non si può trasferire questa informazione a un prodotto diverso (S 110) senza la sua scheda specifica."
+          "missing": "Il contesto contiene la scheda di dati di sicurezza dell'OTTOSEAL S 100 (D061), ma non fornisce informazioni sull'OTTOSEAL S 110. Il punto di infiammabilità dell'OTTOSEAL S 110 non è riportato nei documenti forniti."
         },
         "cited_docs": [],
-        "answer_language": "it",
-        "cost_usd": 0.0009457,
-        "total_s": 1.841,
-        "record": "results/answers/20261121T215933Z.json",
+        "cost_usd": 0.0009047,
+        "prompt_tokens": 8397,
+        "completion_tokens": 130,
+        "total_s": 1.796,
+        "record": "results/answers/20261121T222811Z.json",
         "errors": []
       },
       {
@@ -1398,13 +1411,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Ціна автомобільного засобу STIHL CC 100 (засіб для мийки автомобілів) у наданому контексті не вказана; документи містять лише паспорт безпеки з фізичними властивостями, постачальником та застосуванням продукту."
+          "missing": "Ціна автомобільного засобу STIHL CC 100 (засіб для мийки автомобілів) у наданому контексті не вказана; документи містять лише паспорт безпеки з описом застосування, складу та фізичних властивостей, але без інформації про вартість."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0007962,
-        "total_s": 2.011,
-        "record": "results/answers/20261121T215935Z.json",
+        "cost_usd": 0.0007987,
+        "prompt_tokens": 7417,
+        "completion_tokens": 114,
+        "total_s": 1.126,
+        "record": "results/answers/20261121T222812Z.json",
         "errors": []
       },
       {
@@ -1413,13 +1427,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Термін придатності засобу Karcher RM 672 у наданому контексті не вказано. Контекст містить лише розділи 1 і 16 паспорта безпеки D007 (з розділу 1 — назва, постачальник і телефон екстреного зв'язку), тому дату або строк придатності визначити неможливо."
+          "missing": "Термін придатності засобу Karcher RM 672 (Літній очищувач скла, концентрат 1:100) у наданих фрагментах не вказано. Фрагменти стосуються ідентифікації продукту, контактних даних, регуляторної інформації та інших даних паспорта безпеки, але не містять терміну придатності."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0008996,
-        "total_s": 1.465,
-        "record": "results/answers/20261121T215936Z.json",
+        "cost_usd": 0.0009016,
+        "prompt_tokens": 8341,
+        "completion_tokens": 135,
+        "total_s": 1.851,
+        "record": "results/answers/20261121T222814Z.json",
         "errors": []
       },
       {
@@ -1428,13 +1443,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Wer hat die FIFA-Weltmeisterschaft 2018 gewonnen? Die Dokumente enthalten dazu keine Angaben."
+          "missing": "Wer hat die FIFA-Weltmeisterschaft 2018 gewonnen? Dies geht aus den bereitgestellten Dokumenten nicht hervor."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0008188,
-        "total_s": 1.061,
-        "record": "results/answers/20261121T215937Z.json",
+        "cost_usd": 0.0008223,
+        "prompt_tokens": 7808,
+        "completion_tokens": 83,
+        "total_s": 2.053,
+        "record": "results/answers/20261121T222816Z.json",
         "errors": []
       },
       {
@@ -1443,13 +1459,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Das Kontextmaterial enthält keine Informationen zum Backen von Sauerteigbrot zu Hause. Es handelt sich um Dokumente zu Lebensmittelsicherheit (HACCP), Gefahrstoffen, Lagerung und Arbeitsschutz, die keine Backanleitung enthalten."
+          "missing": "Die Kontextabschnitte enthalten keine Anleitung zum Backen von Sauerteigbrot zu Hause. Die Dokumente behandeln HACCP-Pläne, Sicherheitsdatenblätter, GMP-Richtlinien und Arbeitsschutzvorschriften, nicht Rezepte."
         },
         "cited_docs": [],
-        "answer_language": "de",
         "cost_usd": 0.000717,
-        "total_s": 1.459,
-        "record": "results/answers/20261121T215939Z.json",
+        "prompt_tokens": 6485,
+        "completion_tokens": 137,
+        "total_s": 1.24,
+        "record": "results/answers/20261121T222817Z.json",
         "errors": []
       },
       {
@@ -1458,13 +1475,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Рецепт приготування українського борщу в наданому контексті відсутній. Контекст містить лише інформацію з паспортів безпеки, інструкцій та технічних документів (засоби для очищення, насоси, захисні засоби), тому пояснити, як приготувати борщ, на основі цих документів неможливо."
+          "missing": "Контекст містить лише інструкції з монтажу насосів, паспорти безпеки хімічних засобів та інші технічні документи; рецепт приготування українського борщу в них відсутній."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0008543,
-        "total_s": 1.9,
-        "record": "results/answers/20261121T215941Z.json",
+        "cost_usd": 0.0008333,
+        "prompt_tokens": 7893,
+        "completion_tokens": 88,
+        "total_s": 0.776,
+        "record": "results/answers/20261121T222818Z.json",
         "errors": []
       },
       {
@@ -1473,13 +1491,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Die aktuelle Uhrzeit in Tokio wird in den bereitgestellten Dokumenten nicht angegeben. Die Dokumente enthalten Produktspezifikationen, Sicherheitsdatenblätter, Software-Dokumentation und Vorschriften, aber keine Zeitangaben zu Tokio."
+          "missing": "Die aktuelle Uhrzeit in Tokio wird in den bereitgestellten Dokumenten nicht angegeben; die Dokumente enthalten keine Zeitangaben dieser Art."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0010401,
-        "total_s": 1.419,
-        "record": "results/answers/20261121T215942Z.json",
+        "cost_usd": 0.0010176,
+        "prompt_tokens": 9711,
+        "completion_tokens": 93,
+        "total_s": 1.323,
+        "record": "results/answers/20261121T222820Z.json",
         "errors": []
       },
       {
@@ -1488,13 +1507,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "La capitale de l'Australie n'est pas mentionnée dans les documents fournis. Les extraits concernent des fiches de données de sécurité, des inventaires chimiques, un plugin Telegraf OPC UA et des spécifications de produits, sans information géographique sur l'Australie."
+          "missing": "La capitale de l'Australie n'est pas mentionnée dans les documents fournis. Les extraits concernent des fiches de données de sécurité, un inventaire de substances chimiques, un plugin Telegraf OPC UA et une spécification d'oxygène, sans information géographique sur l'Australie, hormis la mention de l'Inventaire Australien des Substances chimiques (AICIS), qui ne répond pas à la question."
         },
         "cited_docs": [],
-        "answer_language": "fr",
-        "cost_usd": 0.000911,
-        "total_s": 1.421,
-        "record": "results/answers/20261121T215944Z.json",
+        "cost_usd": 0.000935,
+        "prompt_tokens": 8505,
+        "completion_tokens": 169,
+        "total_s": 1.631,
+        "record": "results/answers/20261121T222821Z.json",
         "errors": []
       }
     ],
@@ -1506,7 +1526,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "The flash point of LIQUI MOLY Hydraulikoel HLP 46 is 243 °C (ISO 2592, Cleveland open cup), per the newer version v0008 (2024-02-06) of its safety data sheet.",
+              "text": "The flash point of LIQUI MOLY Hydraulikoel HLP 46 is 243 °C (ISO 2592, Cleveland open cup), according to the newer version v0008, 2024-02-06 of its safety data sheet.",
               "citations": [
                 {
                   "chunk_id": "D050-s-0016",
@@ -1520,10 +1540,11 @@
         "cited_docs": [
           "D050"
         ],
-        "answer_language": "en",
-        "cost_usd": 0.000957,
-        "total_s": 1.222,
-        "record": "results/answers/20261121T215945Z.json",
+        "cost_usd": 0.0009575,
+        "prompt_tokens": 8765,
+        "completion_tokens": 162,
+        "total_s": 1.633,
+        "record": "results/answers/20261121T222823Z.json",
         "errors": []
       },
       {
@@ -1533,7 +1554,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "The UN number used to transport compressed argon is UN 1006.",
+              "text": "The UN number used to transport compressed argon is UN 1006 (per the ADR, RID, IMDG and IATA sections of the argon safety data sheet, version 1.2, 2020-01-24).",
               "citations": [
                 {
                   "chunk_id": "D039-s-0018",
@@ -1547,10 +1568,11 @@
         "cited_docs": [
           "D039"
         ],
-        "answer_language": "en",
-        "cost_usd": 0.0008568,
-        "total_s": 1.006,
-        "record": "results/answers/20261121T215946Z.json",
+        "cost_usd": 0.0008793,
+        "prompt_tokens": 8123,
+        "completion_tokens": 134,
+        "total_s": 1.425,
+        "record": "results/answers/20261121T222824Z.json",
         "errors": []
       },
       {
@@ -1560,7 +1582,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "According to the newer version of the Telegraf Modbus plugin README (v1.40.3, which supersedes v1.20.0), the slave ID range is 0 - 255, where 0 is reserved for broadcast and 248 - 255 are reserved.",
+              "text": "According to the newer version of the Telegraf Modbus input plugin README (v1.40.3, which supersedes v1.20.0), the slave IDs 248 to 255 are reserved.",
               "citations": [
                 {
                   "chunk_id": "D075-s-0001",
@@ -1574,10 +1596,11 @@
         "cited_docs": [
           "D075"
         ],
-        "answer_language": "en",
-        "cost_usd": 0.0008153,
-        "total_s": 1.172,
-        "record": "results/answers/20261121T215947Z.json",
+        "cost_usd": 0.0008048,
+        "prompt_tokens": 7318,
+        "completion_tokens": 146,
+        "total_s": 1.984,
+        "record": "results/answers/20261121T222826Z.json",
         "errors": []
       },
       {
@@ -1587,7 +1610,7 @@
           "status": "partial",
           "claims": [
             {
-              "text": "Засіб STIHL Profi CP 200 містить sodium-p-cumene sulphonate в концентрації 1-<3% (за розділом 3 паспорта безпеки, версія v1.02).",
+              "text": "У паспорті безпеки STIHL Profi CP 200 sodium-p-cumene sulphonate (CAS 15763-76-5) вказаний у складі з концентрацією 1-<3%.",
               "citations": [
                 {
                   "chunk_id": "D006-s-0010",
@@ -1596,15 +1619,16 @@
               ]
             }
           ],
-          "missing": "Точна кількість речовини в засобі не вказана; контекст дає лише діапазон концентрації 1-<3%."
+          "missing": "Точний вміст у відсотках не вказаний; наведено лише діапазон 1-<3%. Точна кількість не зазначена в наданому контексті."
         },
         "cited_docs": [
           "D006"
         ],
-        "answer_language": "uk",
-        "cost_usd": 0.000924,
-        "total_s": 1.685,
-        "record": "results/answers/20261121T215949Z.json",
+        "cost_usd": 0.00093,
+        "prompt_tokens": 8270,
+        "completion_tokens": 206,
+        "total_s": 1.74,
+        "record": "results/answers/20261121T222828Z.json",
         "errors": []
       },
       {
@@ -1628,10 +1652,11 @@
         "cited_docs": [
           "D035"
         ],
-        "answer_language": "uk",
         "cost_usd": 0.0008531,
-        "total_s": 1.664,
-        "record": "results/answers/20261121T215950Z.json",
+        "prompt_tokens": 7956,
+        "completion_tokens": 115,
+        "total_s": 1.729,
+        "record": "results/answers/20261121T222830Z.json",
         "errors": []
       },
       {
@@ -1641,7 +1666,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Der pH-Wert der Kärcher PressurePro Systempflege RM 110 bei 20 °C beträgt 9 (neueste Version v15, 2026-05-11).",
+              "text": "Der pH-Wert der Kärcher PressurePro Systempflege RM 110 bei 20 °C beträgt 9 (Version v15, 2026-05-11).",
               "citations": [
                 {
                   "chunk_id": "D033-s-0012",
@@ -1655,10 +1680,11 @@
         "cited_docs": [
           "D033"
         ],
-        "answer_language": "de",
-        "cost_usd": 0.0009875,
-        "total_s": 1.624,
-        "record": "results/answers/20261121T215952Z.json",
+        "cost_usd": 0.000986,
+        "prompt_tokens": 9205,
+        "completion_tokens": 131,
+        "total_s": 1.385,
+        "record": "results/answers/20261121T222831Z.json",
         "errors": []
       },
       {
@@ -1668,7 +1694,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Nein, das Abnahmeprüfzeugnis ZC0003 muss in Verbindung mit einem Gerät bestellt werden; es wird zusammen mit dem entsprechenden Gerät ausgeliefert.",
+              "text": "Nein, das Abnahmeprüfzeugnis ZC0003 muss in Verbindung mit einem Gerät bestellt werden; ausgeliefert wird das entsprechende Gerät mit dem Zeugnis.",
               "citations": [
                 {
                   "chunk_id": "D015-s-0000",
@@ -1682,10 +1708,11 @@
         "cited_docs": [
           "D015"
         ],
-        "answer_language": "de",
-        "cost_usd": 0.0009032,
-        "total_s": 1.255,
-        "record": "results/answers/20261121T215953Z.json",
+        "cost_usd": 0.0009037,
+        "prompt_tokens": 8222,
+        "completion_tokens": 163,
+        "total_s": 1.427,
+        "record": "results/answers/20261121T222833Z.json",
         "errors": []
       },
       {
@@ -1695,7 +1722,7 @@
           "status": "answered",
           "claims": [
             {
-              "text": "Le mastic colle Baixens Brico B-31 n'est pas classé comme dangereux au sens du Règlement (CE) No 1272/2008.",
+              "text": "Le mastic-colle Baixens Brico B-31 n'est pas classé comme dangereux au sens du Règlement (CE) No 1272/2008.",
               "citations": [
                 {
                   "chunk_id": "D060-s-0002",
@@ -1709,10 +1736,11 @@
         "cited_docs": [
           "D060"
         ],
-        "answer_language": "fr",
-        "cost_usd": 0.0009863,
-        "total_s": 1.132,
-        "record": "results/answers/20261121T215954Z.json",
+        "cost_usd": 0.0009868,
+        "prompt_tokens": 9148,
+        "completion_tokens": 144,
+        "total_s": 1.224,
+        "record": "results/answers/20261121T222834Z.json",
         "errors": []
       },
       {
@@ -1721,13 +1749,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "The context gives no boiling point for liquid helium at 1 bar; it only contains data for nitrogen, oxygen, argon and other substances."
+          "missing": "The context gives no boiling point for liquid helium at 1 bar; it only gives boiling points for nitrogen, oxygen, argon and other substances."
         },
         "cited_docs": [],
-        "answer_language": "en",
-        "cost_usd": 0.0008814,
-        "total_s": 1.023,
-        "record": "results/answers/20261121T215955Z.json",
+        "cost_usd": 0.0008829,
+        "prompt_tokens": 8464,
+        "completion_tokens": 73,
+        "total_s": 1.208,
+        "record": "results/answers/20261121T222835Z.json",
         "errors": []
       },
       {
@@ -1739,10 +1768,11 @@
           "missing": "The context gives the UN number for compressed nitrogen (UN 1066) and compressed argon (UN 1006), but no UN number for compressed hydrogen."
         },
         "cited_docs": [],
-        "answer_language": "en",
         "cost_usd": 0.0007636,
-        "total_s": 2.278,
-        "record": "results/answers/20261121T215958Z.json",
+        "prompt_tokens": 7256,
+        "completion_tokens": 76,
+        "total_s": 1.852,
+        "record": "results/answers/20261121T222837Z.json",
         "errors": []
       },
       {
@@ -1751,13 +1781,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Der Kontext enthält nur das Datenblatt zu LIQUI MOLY Hydraulikoel HLP 46 (Flammpunkt 243 °C). Der Flammpunkt des LIQUI MOLY Hydraulikoel HLP 68 wird nicht angegeben."
+          "missing": "Der Flammpunkt von LIQUI MOLY Hydraulikoel HLP 68 wird im Kontext nicht angegeben. Der Kontext enthält nur ein Sicherheitsdatenblatt für LIQUI MOLY Hydraulikoel HLP 46 (Flammpunkt 243 °C), nicht für das Produkt HLP 68."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0009388,
-        "total_s": 1.657,
-        "record": "results/answers/20261121T215959Z.json",
+        "cost_usd": 0.0009523,
+        "prompt_tokens": 8768,
+        "completion_tokens": 151,
+        "total_s": 2.07,
+        "record": "results/answers/20261121T222839Z.json",
         "errors": []
       },
       {
@@ -1766,13 +1797,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Die Schutzart (IP-Schutzart) des Messumformers Proline 300 PROFINET wird in den bereitgestellten Dokumenten nicht angegeben. Die Kontexte beschreiben Proline 300 mit PROFIBUS DP sowie Proline 500 digital mit PROFINET und Ethernet-APL, aber keine Schutzart."
+          "missing": "Die Schutzart (IP-Schutzart) des Messumformers Proline 300 PROFINET wird in den bereitgestellten Dokumenten nicht angegeben. Die Kontexte beschreiben Proline 300 PROFIBUS DP und Proline 500 digital PROFINET mit Ethernet-APL, aber keine Schutzart für Proline 300 PROFINET."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0008898,
-        "total_s": 1.498,
-        "record": "results/answers/20261121T220001Z.json",
+        "cost_usd": 0.0008933,
+        "prompt_tokens": 8148,
+        "completion_tokens": 157,
+        "total_s": 2.527,
+        "record": "results/answers/20261121T222841Z.json",
         "errors": []
       },
       {
@@ -1781,13 +1813,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Il punto di infiammabilità dell'OTTOSEAL S 110 non è riportato nel contesto. I documenti forniti riguardano l'OTTOSEAL S 100, che ha un punto di infiammabilità non applicabile, ma non il modello S 110."
+          "missing": "Il contesto non riporta il punto di infiammabilità dell'OTTOSEAL S 110. L'unico documento relativo è la scheda di dati di sicurezza dell'OTTOSEAL S 100 (D061), in cui il punto di infiammabilità è indicato come non applicabile; tale dato riguarda un altro prodotto e non può essere attribuito all'OTTOSEAL S 110."
         },
         "cited_docs": [],
-        "answer_language": "it",
-        "cost_usd": 0.0009192,
-        "total_s": 1.303,
-        "record": "results/answers/20261121T220002Z.json",
+        "cost_usd": 0.0009427,
+        "prompt_tokens": 8617,
+        "completion_tokens": 162,
+        "total_s": 2.35,
+        "record": "results/answers/20261121T222844Z.json",
         "errors": []
       },
       {
@@ -1796,13 +1829,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Ціна автомобільного шампуню STIHL CC 100 не вказана в наданому контексті. Контекст містить лише паспорт безпеки (розділи 1, 9 тощо) для засобу для мийки автомобілів STIHL CC 100, але не містить інформації про ціну."
+          "missing": "Ціна автомобільного шампуню STIHL CC 100 не вказана в наданому контексті. Документи містять лише паспорт безпеки з описом застосування, постачальника та фізико-хімічних властивостей продукту."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0008247,
-        "total_s": 1.598,
-        "record": "results/answers/20261121T220004Z.json",
+        "cost_usd": 0.0008142,
+        "prompt_tokens": 7637,
+        "completion_tokens": 101,
+        "total_s": 1.249,
+        "record": "results/answers/20261121T222845Z.json",
         "errors": []
       },
       {
@@ -1811,13 +1845,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Термін придатності засобу Karcher RM 672 (Літній очищувач скла, концентрат 1:100) у наданих фрагментах не вказано. Фрагменти містять лише ідентифікацію продукту, контакти, переліки класифікації та загальні примітки, але не дату або строк придатності."
+          "missing": "Термін придатності засобу Karcher RM 672 (Літній очищувач скла, концентрат 1:100) у наданому контексті не вказано. Є лише інформація про виробника, ідентифікацію продукту, екстрений зв’язок та регуляторні дані; розділу про зберігання і термін придатності для цього продукту немає."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0009196,
-        "total_s": 2.087,
-        "record": "results/answers/20261121T220006Z.json",
+        "cost_usd": 0.0009251,
+        "prompt_tokens": 8561,
+        "completion_tokens": 138,
+        "total_s": 1.536,
+        "record": "results/answers/20261121T222847Z.json",
         "errors": []
       },
       {
@@ -1826,13 +1861,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Who won the 2018 FIFA World Cup: the context contains no information about the FIFA World Cup or its winner."
+          "missing": "Who won the 2018 FIFA World Cup: the context does not contain any information about the FIFA World Cup or its winner."
         },
         "cited_docs": [],
-        "answer_language": "en",
-        "cost_usd": 0.0008338,
-        "total_s": 1.266,
-        "record": "results/answers/20261121T220007Z.json",
+        "cost_usd": 0.0008348,
+        "prompt_tokens": 8028,
+        "completion_tokens": 64,
+        "total_s": 1.257,
+        "record": "results/answers/20261121T222848Z.json",
         "errors": []
       },
       {
@@ -1841,13 +1877,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "The context contains no information about how to bake sourdough bread at home. The documents cover HACCP food safety planning for poultry, chemical safety data sheets, workplace hazard communication, and similar industrial topics, but no bread-baking instructions."
+          "missing": "The context contains no information about baking sourdough bread at home. The documents cover HACCP plans, safety data sheets, COSHH risk assessments, EU GMP guidelines and US hazard communication rules, and none describe bread baking, flour, starter, dough or oven steps."
         },
         "cited_docs": [],
-        "answer_language": "en",
-        "cost_usd": 0.0007215,
-        "total_s": 2.094,
-        "record": "results/answers/20261121T220009Z.json",
+        "cost_usd": 0.000727,
+        "prompt_tokens": 6705,
+        "completion_tokens": 113,
+        "total_s": 1.541,
+        "record": "results/answers/20261121T222849Z.json",
         "errors": []
       },
       {
@@ -1856,13 +1893,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Рецепт приготування українського борщу в наданому контексті відсутній. Контекст містить лише паспорти безпеки, інструкції з монтажу та інші технічні документи про промислові засоби та обладнання."
+          "missing": "Рецепт приготування українського борщу в наданому контексті відсутній. Контекст містить лише паспорти безпеки, інструкції та технічні документи щодо промислових продуктів (очищувачі, засоби для скла, захисні препарати, насоси), тому кулінарної інформації в ньому немає."
         },
         "cited_docs": [],
-        "answer_language": "uk",
-        "cost_usd": 0.0008593,
-        "total_s": 1.723,
-        "record": "results/answers/20261121T220011Z.json",
+        "cost_usd": 0.0008753,
+        "prompt_tokens": 8113,
+        "completion_tokens": 128,
+        "total_s": 2.78,
+        "record": "results/answers/20261121T222852Z.json",
         "errors": []
       },
       {
@@ -1871,13 +1909,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "Die aktuelle Uhrzeit in Tokio. Die Dokumente enthalten keine Zeitangabe für Tokio oder eine Zeitzone."
+          "missing": "Die aktuelle Uhrzeit in Tokio wird in den Dokumenten nicht angegeben; die Kontextabschnitte enthalten Produktspezifikationen, Sicherheitsdatenblätter und Konfigurationsbeschreibungen, aber keine Zeitangaben für Tokio."
         },
         "cited_docs": [],
-        "answer_language": "de",
-        "cost_usd": 0.0010331,
-        "total_s": 1.106,
-        "record": "results/answers/20261121T220012Z.json",
+        "cost_usd": 0.0010586,
+        "prompt_tokens": 9931,
+        "completion_tokens": 131,
+        "total_s": 1.575,
+        "record": "results/answers/20261121T222854Z.json",
         "errors": []
       },
       {
@@ -1886,13 +1925,14 @@
         "answer": {
           "status": "not_in_documents",
           "claims": [],
-          "missing": "La capitale de l'Australie n'est pas indiquée dans les documents fournis : les extraits traitent d'inventaires de substances chimiques, de glossaires, de configuration de Telegraf et de fiches produits, sans mention de géographie politique."
+          "missing": "La capitale de l'Australie n'est mentionnée dans aucun des documents fournis ; les extraits concernent des fiches de sécurité, un inventaire chimique australien (AICIS) sans rapport avec la capitale, et des manuels techniques."
         },
         "cited_docs": [],
-        "answer_language": "fr",
-        "cost_usd": 0.0009265,
-        "total_s": 2.187,
-        "record": "results/answers/20261121T220014Z.json",
+        "cost_usd": 0.000927,
+        "prompt_tokens": 8725,
+        "completion_tokens": 109,
+        "total_s": 1.132,
+        "record": "results/answers/20261121T222855Z.json",
         "errors": []
       }
     ]

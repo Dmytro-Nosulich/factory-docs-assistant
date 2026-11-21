@@ -4,7 +4,23 @@ An AI assistant for industrial documentation: equipment manuals, safety data she
 
 Real factory documentation is closed, so this project uses only **public, openly available documents** as stand-ins. Each document's source URL and terms are listed in `data/manifest.csv`.
 
-> Stage 1 (structured extraction) is complete. Stage 2 (cited question answering with RAG) is in progress, so the quick start below runs stage 1.
+> Stage 1 (structured extraction) is complete. Stage 2 (cited question answering with RAG) is in progress.
+
+## Stage 2 quick start
+
+**You need**
+- [uv](https://docs.astral.sh/uv/) (installs the right Python version, 3.11, automatically) and `make`
+- An [OpenRouter](https://openrouter.ai) key with a little credit (one run costs about $0.04)
+
+**Run**
+```sh
+cp .env.example .env   # then fill in OPENROUTER_API_KEY
+make run               # the whole stage 2 pipeline, then the cost per 1000 questions
+```
+
+`make run` checks the key and the stage 2 budget guard first, so a missing key fails in seconds. Then it parses, cleans and chunks the 69 documents (the committed files in `data/` come out the same), and builds the search index if it is missing or out of date. It runs the gold-set checks and the retrieval and "I don't know" evals, which rewrite `evals/results/` and `REPORT.md`. It answers 4 sample questions with their citations (`[run] sample_questions` in `config.toml`). Last, it prints the cost per 1000 questions (`evals/results/cost.md`). Each step is also a make target of its own (see the `Makefile`). Ask your own question with `make ask Q="..."`.
+
+**Time:** about 14 min from a fresh clone on an Apple M4 Pro, with the 1.7 GB model download (embedding model and reranker, into `.cache/fastembed`) and the index build (about 6 min). With the index in place, about 6 min.
 
 ## Stage 1 quick start
 
