@@ -212,6 +212,22 @@ class AnswerSettings(Settings):
     k: int = Field(gt=0)  # search hits offered to the budget, best first
     max_context_tokens: int = Field(ge=MIN_CONTEXT_TOKENS)  # estimate of the rendered chunks
     stop_at_usd: float = Field(gt=0)  # stage 2 budget guard over results/answers/, decision 18
+    # S2-14: refuse without a model call when the best hit's reranker score is below this; the
+    # scale is the cross-encoder's raw score, so it needs [search] rerank. None: no gate.
+    min_rerank_score: float | None = None
+
+
+class RefusalEvalSettings(Settings):
+    """What `make eval-refusal` measures, S2-14: these versions of the [answer] prompt, each on
+    every development question, with the score gate off so the model's own status is seen."""
+
+    prompt_versions: list[str] = Field(min_length=1)
+
+    @model_validator(mode="after")
+    def distinct(self) -> "RefusalEvalSettings":
+        if len(set(self.prompt_versions)) != len(self.prompt_versions):
+            raise ValueError("[refusal_eval] prompt_versions must be distinct")
+        return self
 
 
 class Config(Settings):
@@ -230,6 +246,7 @@ class Config(Settings):
     reranker_models: dict[str, RerankerModel]
     retrieval_eval: RetrievalEvalSettings
     answer: AnswerSettings
+    refusal_eval: RefusalEvalSettings
 
     @model_validator(mode="after")
     def answer_names_exist(self) -> "Config":
@@ -240,6 +257,10 @@ class Config(Settings):
         if self.answer.collection not in self.index.collections:
             raise ValueError(
                 f"[answer] collection {self.answer.collection!r}: not in [index] collections"
+            )
+        if self.answer.min_rerank_score is not None and not self.search.rerank:
+            raise ValueError(
+                "[answer] min_rerank_score is a reranker score: it needs [search] rerank = true"
             )
         return self
 

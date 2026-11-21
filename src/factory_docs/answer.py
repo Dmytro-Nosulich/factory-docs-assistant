@@ -16,9 +16,13 @@ The steps:
    as in stage 1 (S1-15). If that fails too, the answer is rejected and nothing is shown. Both
    replies are logged, so the share of valid first answers stays visible.
 
+Before the call, a score gate (S2-14, `[answer] min_rerank_score`): when the best hit's
+reranker score is below the threshold, the question is refused without a model call.
+
 The record follows the stage 1 record: `status` is the first reply's (`valid`, `invalid`,
-`error`, or `no_context` when no chunk was retrieved, so no model was called), and
-`final_status` is `valid`, `repaired`, `failed`, `error` or `no_context`. It names the model,
+`error`, or, with no model call, `no_context` when no chunk was retrieved and
+`below_threshold` when the gate refused), and `final_status` is `valid`, `repaired`,
+`failed`, `error`, `no_context` or `below_threshold`. It names the model,
 prompt version and hash, parameters, retrieval settings, every hit, the chunks sent and
 dropped, and the cost. Records go to results/answers/, which has its own budget guard
 (decision 18).
@@ -47,6 +51,7 @@ from factory_docs.run import RESULTS, record_cost, spent_usd
 ANSWERS = RESULTS / "answers"
 SCHEMA_NAME = "rag_answer"  # the name OpenRouter passes on with the JSON schema
 SHOWN = ("valid", "repaired")  # final statuses whose answer may be shown
+NOT_CALLED = ("no_context", "below_threshold")  # refused before any model call
 
 
 class BudgetExceeded(Exception):
@@ -165,6 +170,11 @@ def source_info(chunk: Chunk) -> dict:
     }
 
 
+def below_threshold(hits: Sequence[Hit], threshold: float | None) -> bool:
+    """The score gate: the best hit scores below the threshold (None: no gate)."""
+    return threshold is not None and bool(hits) and hits[0].score < threshold
+
+
 def check_budget(spent: float, config: Config) -> None:
     limit = config.answer.stop_at_usd
     if spent >= limit:
@@ -181,14 +191,19 @@ def answer_question(
     config: Config,
     spent_before: float,
     retrieval: dict | None = None,
+    prompt_version: str | None = None,
+    gate: bool = True,
 ) -> dict:
     """The record of one question. hits: search results, best first. retrieval: how they were
     found (collection, mode, reranker, filter), logged as given. spent_before: the cost of the
     stage 2 answer logs so far; at or above the guard, BudgetExceeded is raised before a call.
+    prompt_version: instead of `[answer] prompt_version`. gate: False skips the score gate, so
+    the eval sees the model's own status for every question (S2-14).
     """
     settings = config.answer
     model = config.models[settings.model]
-    prompt = load_prompt(settings.prompt, settings.prompt_version)
+    prompt = load_prompt(settings.prompt, prompt_version or settings.prompt_version)
+    threshold = settings.min_rerank_score if gate else None
     sent, dropped = fit_context(hits, settings.max_context_tokens)
     chunks = [hit.chunk for hit in sent]
     record = {
@@ -201,6 +216,8 @@ def answer_question(
             **(retrieval or {}),
             "k": settings.k,
             "hits": [hit_info(hit) for hit in hits],
+            "top_score": hits[0].score if hits else None,
+            "min_rerank_score": threshold,
             "max_context_tokens": settings.max_context_tokens,
             "est_context_tokens": context_tokens(chunks),
             "sent": [source_info(chunk) for chunk in chunks],
@@ -217,6 +234,14 @@ def answer_question(
     if not chunks:
         record["status"] = "no_context"
         record["errors"] = ["no chunk was retrieved, so no model was called"]
+        set_final_status(record)
+        return record
+    if below_threshold(hits, threshold):
+        record["status"] = "below_threshold"
+        record["errors"] = [
+            f"the best hit scores {hits[0].score:.3f}, below [answer] min_rerank_score "
+            f"{threshold}, so no model was called"
+        ]
         set_final_status(record)
         return record
 

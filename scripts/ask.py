@@ -1,6 +1,7 @@
 """Answer a question from the indexed documents with checked citations (S2-13).
 
-Searches `[answer] collection` with the [search] settings (hybrid, reranked), fits the best
+Searches `[answer] collection` with the [search] settings (hybrid, reranked), refuses without a
+model call when the best hit scores below `[answer] min_rerank_score` (S2-14), fits the best
 `[answer] k` hits into `[answer] max_context_tokens`, asks `[answer] model`, checks every
 citation, and writes the record to results/answers/<UTC time>.json.
 Usage: uv run python scripts/ask.py "question" [--collection structure|fixed]
@@ -12,9 +13,8 @@ import argparse
 import textwrap
 from datetime import date
 
-from qdrant_client import QdrantClient
-
 from factory_docs.answer import (
+    NOT_CALLED,
     SHOWN,
     BudgetExceeded,
     answer_question,
@@ -24,12 +24,9 @@ from factory_docs.answer import (
 )
 from factory_docs.clients import make_client
 from factory_docs.config import ROOT, load_config, load_env
-from factory_docs.embedding import FastEmbedder
-from factory_docs.index import BM25, SearchFilter, search
-from factory_docs.rerank import FastReranker
+from factory_docs.index import SearchFilter
+from factory_docs.retriever import IndexNotReady, open_retriever
 from factory_docs.run import record_cost
-
-FILTER_FIELDS = "is_latest"  # a payload field every index built since S2-08 has
 
 
 def values(text: str) -> tuple[str, ...]:
@@ -44,6 +41,13 @@ def source_line(source: dict) -> str:
 def print_record(record: dict) -> None:
     retrieval = record["retrieval"]
     sources = {s["chunk_id"]: s for s in retrieval["sent"]}
+    if record["final_status"] == "below_threshold":
+        print(
+            f"Not in the documents: the best of {len(retrieval['hits'])} chunks scores "
+            f"{retrieval['top_score']:.2f}, below the threshold {retrieval['min_rerank_score']} "
+            "([answer] min_rerank_score); no model was called."
+        )
+        return
     print(
         f"Context: {len(retrieval['sent'])} chunks sent, {len(retrieval['dropped'])} dropped "
         f"by the budget, about {retrieval['est_context_tokens']} of "
@@ -112,43 +116,12 @@ def main() -> None:
     spent = spent_on_answers()
     if spent >= settings.stop_at_usd:
         raise SystemExit(f"Budget guard: {BudgetExceeded.__doc__} (${spent:.4f})")
-    store = ROOT / config.index.path
-    if not store.exists():
-        raise SystemExit(f"No index at {config.index.path}; run `make index` first")
-    mode = config.search.mode
-    embedder = None if mode == "bm25" else FastEmbedder.from_config(config)
-    reranker = FastReranker.from_config(config) if config.search.rerank else None
-    qdrant = QdrantClient(path=str(store))
     try:
-        if BM25 not in (qdrant.get_collection(args.collection).config.params.sparse_vectors or {}):
-            raise SystemExit("The index has no BM25 vectors (built before S2-07); run `make index`")
-        sample = qdrant.scroll(args.collection, limit=1, with_payload=True)[0]
-        if sample and FILTER_FIELDS not in (sample[0].payload or {}):
-            raise SystemExit(
-                "The index has no filter fields (built before S2-08); run `make index`"
-            )
-        hits = search(
-            qdrant,
-            args.collection,
-            args.question,
-            embedder,
-            settings.k,
-            config.search,
-            mode,
-            search_filter,
-            reranker,
-            config.reranking.candidates,
-        )
-    finally:
-        qdrant.close()
-    retrieval = {
-        "collection": args.collection,
-        "mode": mode,
-        "embedding_model": embedder.model_name if embedder else None,
-        "reranker": reranker.model_name if reranker else None,
-        "rerank_candidates": config.reranking.candidates if reranker else None,
-        "filter": search_filter.describe(),
-    }
+        with open_retriever(config, args.collection) as retriever:
+            hits = retriever.search(args.question, search_filter)
+            retrieval = retriever.info(search_filter)
+    except IndexNotReady as e:
+        raise SystemExit(str(e)) from e
 
     client = make_client(settings.model, config)
     try:
@@ -158,13 +131,14 @@ def main() -> None:
     finally:
         client.close()
     path = save_record(record)
+    mode = config.search.mode
     print(f"{args.collection}, {mode}, filter: {search_filter.describe()}: {args.question}")
     print_record(record)
     print(
         f"Saved: {path.relative_to(ROOT)}; stage 2 answers so far "
         f"${spent + record_cost(record):.4f} of ${settings.stop_at_usd:.2f}"
     )
-    if record["final_status"] not in SHOWN and record["final_status"] != "no_context":
+    if record["final_status"] not in (*SHOWN, *NOT_CALLED):
         raise SystemExit(1)
 
 

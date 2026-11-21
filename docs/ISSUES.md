@@ -3,6 +3,18 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-010: The score gate cannot see near misses, and its threshold rests on few questions
+- **Date / task:** 2026-11-21, S2-14 "I don't know"
+- **Problem:** `make eval-refusal` (`evals/results/refusal.md`) picked `[answer] min_rerank_score = -1.03` by the rule in `docs/METRICS.md`: the midpoint between the lowest answerable top-1 score (V05, -0.80) and the highest unanswerable one below it (V15, -1.27). Two limits follow.
+  - Near misses score like answerable questions. V10 (hydrogen, 0.18), V09 (helium, -0.26) and V11 (HLP 68, -0.26) score above the answerable V05 (-0.80) and V01 (-0.07), because their chunks are about the same kind of fact for a neighbouring gas or product. No threshold can refuse them without refusing answerable questions; on the development set only the model did (12 of 12 refused with the gate off).
+  - The threshold is set by one question, V05, the lowest of 8 answerable ones. Fresh questions can score lower. The gold question R08 (answerable, Ukrainian, STIHL CC 100 storage temperature) had a top score of -1.77 in an S2-13 answer log, so the gate would refuse it. That is one logged answer, not a measurement, and the threshold was not moved because of it: moving it would tune on the gold set.
+- **Options considered:**
+  - Keep the rule's value and measure false refusals on the S2-16 test questions.
+  - No gate: the model alone refused every unanswerable development question.
+  - A low hand-picked value that only refuses clear off-topic questions (all off-topic scores were -4.36 or lower): not the pre-written rule, and partly informed by R08.
+- **Current selection:** -1.03, as the rule gives (user's choice, 2026-11-21). On the development set it refuses 9 of 20 questions without a model call and no answerable one.
+- **Revisit if:** the S2-16 test questions show a false refusal by the gate, or the reranker or chunking changes (the scores move with them).
+
 ## I-009: Answers in the wrong language, and a token estimate that undercounts
 - **Date / task:** 2026-11-21, S2-13 answer pipeline
 - **Problem:** the first three live answers (`make ask`, Haiku 5.5, prompt answer v1; logs in the gitignored `results/answers/`) were all valid, and every citation passed the checks. Two problems showed up.
@@ -12,6 +24,7 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - Language: a stricter language rule in a new prompt version (S2-14 asks for at least one more measured prompt version), or a language check by code.
   - Estimate: a different characters-per-token ratio from these logs, a real tokenizer (Anthropic's is not public), or keep the estimate and state its unit as "estimated tokens".
 - **Current selection:** none yet; both are recorded for S2-14 and S2-16, which measure answers on more questions. The budget mechanism itself is tested (`tests/test_answer.py`).
+- **Measured in S2-14 (2026-11-21, `make eval-refusal`, `evals/results/refusal.md`):** on 20 development questions, prompt answer v1 wrote 5 of the 8 English questions' answers in German (V01, V09, V11, V16, V17); every non-English question was answered in its own language. Answer v2 (a stronger language rule, repeated in the user message) wrote 19 of 20 in the question's language; only V11 is still German. Language is detected by a heuristic (`src/factory_docs/language.py`). `[answer] prompt_version` is now v2 (user's choice). The token estimate is unchanged and out of S2-14's scope.
 - **Revisit if:** the S2-14 development questions show the wrong language more than once, or the evals need the budget in real tokens.
 
 ## I-008: BM25 without stemming, and repeated common terms

@@ -1,4 +1,4 @@
-.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check eval-retrieval section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 entry point; S2-15 replaces this placeholder with the RAG pipeline.
 run:
@@ -89,10 +89,21 @@ ask:
 retrieval-gold-check:
 	uv run python scripts/check_retrieval_gold.py
 
+# Check evals/dev_questions.toml: kinds and evidence match, no gold-set question repeated, every
+# quote in its document, on its page, and in a chunk of every collection (S2-14)
+dev-questions-check:
+	uv run python scripts/check_dev_questions.py
+
 # Recall@k and MRR of every setup in [retrieval_eval] on both chunkings, for the retrieval gold
 # set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)
 eval-retrieval:
 	uv run python scripts/eval_retrieval.py
+
+# "I don't know" on evals/dev_questions.toml: every [refusal_eval] prompt version with the score
+# gate off, the gate threshold by the rule in docs/METRICS.md; writes evals/results/refusal.*
+# and the refusal section of REPORT.md. Calls the [answer] model, under its budget guard (S2-14)
+eval-refusal:
+	uv run python scripts/eval_refusal.py
 
 # Do chunk section labels name the section of their text? Gold set and whole corpus, no models;
 # writes evals/results/section_labels.md and the chunking table in README.md (S2-12)

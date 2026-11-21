@@ -193,3 +193,20 @@ def test_answer_naming_a_missing_model_or_collection_is_rejected(tmp_path):
     )
     with pytest.raises(ValidationError, match="\\[answer\\] collection 'nope'"):
         load_config(path)
+
+
+def test_score_gate_needs_the_reranker(tmp_path):
+    assert load_config().answer.min_rerank_score == -1.03  # picked by `make eval-refusal`
+    path = config_with(tmp_path, "min_rerank_score = -1.03", "min_rerank_score = -3.5")
+    assert load_config(path).answer.min_rerank_score == -3.5
+    text = path.read_text(encoding="utf-8").replace("rerank = true", "rerank = false", 1)
+    path.write_text(text, encoding="utf-8")
+    with pytest.raises(ValidationError, match="min_rerank_score is a reranker score"):
+        load_config(path)
+
+
+def test_refusal_eval_versions_must_be_distinct(tmp_path):
+    assert load_config().refusal_eval.prompt_versions == ["v1", "v2"]
+    path = config_with(tmp_path, 'prompt_versions = ["v1", "v2"]', 'prompt_versions = ["v1", "v1"]')
+    with pytest.raises(ValidationError, match="prompt_versions must be distinct"):
+        load_config(path)

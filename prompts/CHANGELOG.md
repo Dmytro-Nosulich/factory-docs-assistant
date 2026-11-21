@@ -198,8 +198,10 @@ which are also the ones in `docs/reports/stage-1.md`:
     refusal.
   - The question's language: the corpus and the users are multilingual.
   - The newer-version rule prepares for the outdated-version questions (S2-16).
-- Measured effect: not measured yet. The first answers come in S2-13, and the refusal rate is
-  measured in S2-14.
+- Measured effect (S2-14, `make eval-refusal`, 20 development questions; see answer v2 below
+  for the table): refused 12 of 12 unanswerable questions and none of the 8 answerable ones.
+  The language rule did not hold: 5 of the 8 English questions (V01, V09, V11, V16, V17) were
+  answered in German, as in S2-13 (`docs/ISSUES.md` I-009).
 
 ## answer_repair v1 (2026-11-21)
 - What: a new prompt, not an answer version. When an answer fails validation (not JSON, a
@@ -214,3 +216,37 @@ which are also the ones in `docs/reports/stage-1.md`:
   checks need the context, so the JSON schema cannot enforce them. Both replies are logged, so the
   share of valid first answers stays visible.
 - Measured effect: not measured yet; the answer runs of the evals (S2-18) will count repairs.
+
+## answer v2 (2026-11-21)
+- What: v1 plus three rules; the other rules are unchanged.
+  1. Language: the answer's language is the language of the text inside `<question>`, never of
+     the chunks, with an example (an English question over German chunks gets English claims
+     and German quotes). The user message repeats it.
+  2. Refusal: answer only what a chunk states for the asked product, substance, device or
+     document. A fact about a similar product (another model, size, grade or variant), another
+     substance or a related property does not answer, and no value may be computed or inferred.
+     `not_in_documents` now also covers a fact given only for something else.
+  3. A clear negative statement ("not classified as hazardous") is an answer, not a missing
+     fact, so rule 2 does not turn it into a refusal.
+- Why: the S2-13 smoke test answered both English questions in German (I-009). Rule 2 targets
+  the sibling-product traps of the development questions (HLP 68 next to HLP 46, OTTOSEAL S 110
+  next to S 100, Proline 300 PROFINET next to 300 PROFIBUS and 500 PROFINET). Rule 3 guards the
+  negative-answer question V08.
+- Measured effect (`make eval-refusal`, `evals/results/refusal.md`; 20 development questions,
+  8 answerable, 7 near_miss, 5 off_topic; Haiku 5.5; one run each, gate off):
+
+  | Version | Unanswerable refused | Answerable refused | Language match | Right document | Cost (20 q.) | Latency p50 |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | v1 | 12/12 | 0/8 | 15/20 | 8/8 | $0.0175 | 1.8 s |
+  | v2 | 12/12 | 0/8 | 19/20 | 8/8 | $0.0178 | 1.5 s |
+
+  - Helped: language. v2 answered 4 of the 5 English questions v1 put in German in English;
+    only V11 (the HLP 68 near miss, whose context is the HLP 46 SDS) is still German.
+  - No effect on refusal: v1 already refused every unanswerable question, including the three
+    sibling traps, so rule 2 could not show a gain on this set.
+  - Side effect: V04 (concentration of sodium p-cumene sulphonate, "1-<3%") became `partial`,
+    with "the exact amount is not given, only a range" as missing. It is still an answer with
+    the right citation, but rule 2 made the model stricter than the question needed.
+  - Every answer of both versions passed the checks on the first reply; no repair was used.
+  - Caveat: n = 20 and one run per version, so one question moves a rate by 5-12 points.
+

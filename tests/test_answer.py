@@ -25,6 +25,7 @@ from factory_docs.chunking import Chunk
 from factory_docs.config import load_config
 from factory_docs.index import Hit
 from factory_docs.models import ModelCallError, ModelResponse
+from factory_docs.run import record_cost
 
 FLASH = "Flammpunkt: 23 °C (geschlossener Tiegel)\nZündtemperatur: 260 °C"
 STATE = "Aggregatzustand: flüssig\nFarbe: farblos"
@@ -177,6 +178,52 @@ def test_no_hits_means_no_model_call(config):
     assert shown_answer(record) is None
 
 
+def with_gate(config, threshold):
+    answer = config.answer.model_copy(update={"min_rerank_score": threshold})
+    return config.model_copy(update={"answer": answer})
+
+
+def test_score_gate_refuses_below_the_threshold_without_a_call(config):
+    record, client = ask(with_gate(config, 1.5), answered())  # best hit scores 1.0
+    assert (record["status"], record["final_status"], client.calls) == (
+        "below_threshold",
+        "below_threshold",
+        [],
+    )
+    assert record["retrieval"]["top_score"] == 1.0
+    assert record["retrieval"]["min_rerank_score"] == 1.5
+    assert "below [answer] min_rerank_score 1.5" in record["errors"][0]
+    assert shown_answer(record) is None
+    assert record_cost(record) == 0
+
+
+def test_score_gate_passes_a_score_equal_to_the_threshold(config):
+    record, client = ask(with_gate(config, 1.0), answered())
+    assert (record["final_status"], len(client.calls)) == ("valid", 1)
+
+
+def test_no_threshold_means_no_gate(config):
+    record, client = ask(with_gate(config, None), answered())
+    assert (record["final_status"], len(client.calls)) == ("valid", 1)
+    assert record["retrieval"]["min_rerank_score"] is None
+
+
+def test_gate_off_answers_a_question_below_the_threshold(config):
+    client = FakeClient(answered())
+    record = answer_question("Flammpunkt?", HITS, client, with_gate(config, 1.5), 0.0, gate=False)
+    assert (record["final_status"], len(client.calls)) == ("valid", 1)
+    assert record["retrieval"]["min_rerank_score"] is None  # logged as not applied
+
+
+def test_prompt_version_can_be_overridden(config):
+    client = FakeClient(answered())
+    record = answer_question("Flammpunkt?", HITS, client, config, 0.0, prompt_version="v2")
+    assert record["prompt"]["version"] == "v2"
+    assert "language of the text inside `<question>`" in client.calls[0]["messages"][0]["content"]
+    record, _ = ask(config, answered())
+    assert record["prompt"]["version"] == config.answer.prompt_version
+
+
 # --- citation checks ------------------------------------------------------------------------
 
 
@@ -318,7 +365,7 @@ def test_record_names_model_prompt_params_and_cost(config):
         "provider": "Vendor",
         "digest": None,
     }
-    assert (record["prompt"]["name"], record["prompt"]["version"]) == ("answer", "v1")
+    assert (record["prompt"]["name"], record["prompt"]["version"]) == ("answer", "v2")
     assert len(record["prompt"]["sha256"]) == 12
     assert record["params"] == {"reasoning_effort": "none", "max_tokens": 8000, "sampling": None}
     assert record["call"]["cost_usd"] == 0.0001
