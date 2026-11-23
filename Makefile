@@ -1,4 +1,4 @@
-.PHONY: run samples cost run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost eval judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
 # diff: every step is deterministic), the index only when stale, runs the checks and evals, then
@@ -9,7 +9,7 @@ run:
 	$(MAKE) parse clean-corpus ingest
 	uv run python scripts/build_index.py --if-stale
 	$(MAKE) retrieval-gold-check dev-questions-check test-set-check section-labels
-	$(MAKE) eval-retrieval eval-refusal
+	$(MAKE) eval-retrieval eval-refusal eval
 	$(MAKE) samples
 	$(MAKE) cost
 
@@ -126,6 +126,18 @@ eval-retrieval:
 # and the refusal section of REPORT.md. Calls the [answer] model, under its budget guard (S2-14)
 eval-refusal:
 	uv run python scripts/eval_refusal.py
+
+# Answer evals/test_set.toml like `make ask` (score gate on), score the answers with the S2-17
+# scorers and judge each one for quality and faithfulness with [judge]; writes a new
+# evals/results/runs/<UTC time>.json, evals/results/eval.md and the answer section of REPORT.md.
+# Calls the [answer] and [judge] models, under the stage 2 budget guard (S2-18)
+eval:
+	PYTHONPATH=. uv run python scripts/eval_answers.py
+
+# Only the judges, on the answers of a saved run: make judge RUN=evals/results/runs/<time>.json
+# (a new run file names the run its answers come from; S2-18)
+judge:
+	PYTHONPATH=. uv run python scripts/eval_answers.py --judge $(RUN)
 
 # Do chunk section labels name the section of their text? Gold set and whole corpus, no models;
 # writes evals/results/section_labels.md and the chunking table in README.md (S2-12)

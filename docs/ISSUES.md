@@ -13,7 +13,8 @@ Each entry: date, task, problem, options considered, current choice and why, sta
   - No gate: the model alone refused every unanswerable development question.
   - A low hand-picked value that only refuses clear off-topic questions (all off-topic scores were -4.36 or lower): not the pre-written rule, and partly informed by R08.
 - **Current selection:** -1.03, as the rule gives (user's choice, 2026-11-21). On the development set it refuses 9 of 20 questions without a model call and no answerable one.
-- **Revisit if:** the S2-16 test questions show a false refusal by the gate, or the reranker or chunking changes (the scores move with them).
+- **Measured on the test set (S2-18, 2026-11-23, `make eval`, `evals/results/eval.md`):** the gate refused 4 of the 18 answerable and trap questions before any model call: T01 (pl, top score -1.87), T02 (sv, -1.64), T04 (es, -2.84) and T12 (en, -1.65). It also refused 5 of the 6 unanswerable ones; the model refused the sixth (T19). Three of the four false refusals are in languages the development questions did not have (pl, sv, es). So the threshold picked on the development set refuses about one answerable test question in five, which is the risk recorded above. The threshold was not changed: changing it because of test results would tune on the test set.
+- **Revisit if:** the S2-16 test questions show a false refusal by the gate, or the reranker or chunking changes (the scores move with them). This condition is now met: the next step is the user's decision, to be taken with development questions only (for example more pl, sv and es development questions, or a lower pre-written rule), not with the test set.
 
 ## I-009: Answers in the wrong language, and a token estimate that undercounts
 - **Date / task:** 2026-11-21, S2-13 answer pipeline

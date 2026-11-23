@@ -1,0 +1,1987 @@
+{
+  "created_at": "2026-11-23T22:05:42+00:00",
+  "machine": {
+    "platform": "macOS-26.7.3-arm64-arm-64bit"
+  },
+  "git": {
+    "commit": "e136cdcdd4ac806c2a4e63f9484925ac28b5ea8a",
+    "dirty": true
+  },
+  "answers_from": "evals/results/runs/20261123T220411Z.json",
+  "test_set": {
+    "path": "evals/test_set.toml",
+    "sha256": "c9ab6a841165fbb0ac115b87859c6ce03b1e07fce4004b127af3c4b2bb8ed388"
+  },
+  "chunks": {
+    "path": "data/chunks/chunks.jsonl",
+    "sha256": "9ed48745a0fc040047f78cd7e61ed04f688986bcabd73a270f512e6c06d23186"
+  },
+  "settings": {
+    "answer": {
+      "model": "haiku-5.5",
+      "slug": "anthropic/claude-haiku-5.5",
+      "prompt": {
+        "name": "answer",
+        "version": "v2",
+        "sha256": "050a14e395df"
+      },
+      "repair_prompt": {
+        "name": "answer_repair",
+        "version": "v1",
+        "sha256": "b534ac14d4a5"
+      },
+      "collection": "structure",
+      "mode": "hybrid",
+      "embedding_model": "google/embeddinggemma-300m",
+      "reranker": "BAAI/bge-reranker-v2-m3-int8",
+      "rerank_candidates": 30,
+      "k": 10,
+      "max_context_tokens": 4000,
+      "min_rerank_score": -1.03
+    },
+    "judge": {
+      "model": "haiku-5.5",
+      "slug": "anthropic/claude-haiku-5.5",
+      "prompts": {
+        "quality": {
+          "name": "judge_quality",
+          "version": "v1",
+          "sha256": "31206d15c49d"
+        },
+        "faithfulness": {
+          "name": "judge_faithfulness",
+          "version": "v1",
+          "sha256": "0b98166a32bf"
+        }
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "T01",
+      "question": "Jaka jest temperatura zapłonu acetonu Borvida?",
+      "language": "pl",
+      "category": "answerable",
+      "top_score": -1.8736873865127563,
+      "sent": [
+        "D003-s-0017",
+        "D042-s-0007",
+        "D003-s-0014",
+        "D056-s-0017",
+        "D003-s-0015",
+        "D048-s-0012",
+        "D065-s-0022",
+        "D003-s-0023",
+        "D064-s-0019",
+        "D003-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220342Z.json",
+      "errors": [
+        "the best hit scores -1.874, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T01",
+        "category": "answerable",
+        "language": "pl",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": false,
+        "right_source": false,
+        "evidence_cited": false,
+        "wrong_source": null,
+        "facts": [
+          false
+        ],
+        "forbidden": [],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference gives a concrete flash point of -17 °C for Borvida acetone, so the system should have answered. Instead it refused with no answer shown, which is the wrong refusal decision and yields no reference facts.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0001898,
+        "prompt_tokens": 1448,
+        "completion_tokens": 90,
+        "record": "results/judgements/20261123T220543Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T02",
+      "question": "Vilket signalord har BIOGON N kvävgas?",
+      "language": "sv",
+      "category": "answerable",
+      "top_score": -1.6423661708831787,
+      "sent": [
+        "D002-s-0005",
+        "D026-s-0005",
+        "D044-s-0002",
+        "D002-s-0001",
+        "D001-s-0001",
+        "D001-s-0004",
+        "D002-s-0003",
+        "D039-s-0004",
+        "D002-s-0020",
+        "D039-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220342Z_2.json",
+      "errors": [
+        "the best hit scores -1.642, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T02",
+        "category": "answerable",
+        "language": "sv",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": false,
+        "right_source": false,
+        "evidence_cited": false,
+        "wrong_source": null,
+        "facts": [
+          false
+        ],
+        "forbidden": [],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference gives a definite signal word ('Warning'), so the information is in the documents. The system refused to answer, which is the wrong refusal decision and provides none of the reference fact.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0001841,
+        "prompt_tokens": 1446,
+        "completion_tokens": 79,
+        "record": "results/judgements/20261123T220545Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T03",
+      "question": "Wat is het kookpunt van het witte lithiumvet MG Chemicals 8461?",
+      "language": "nl",
+      "category": "answerable",
+      "top_score": 0.18707557022571564,
+      "sent": [
+        "D063-s-0010",
+        "D062-s-0014",
+        "D063-s-0000",
+        "D002-s-0013",
+        "D052-s-0012",
+        "D054-s-0019",
+        "D053-s-0010",
+        "D050-s-0016",
+        "D049-s-0031",
+        "D039-s-0013"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Het kookpunt van het witte lithiumvet MG Chemicals 8461 is 371 °C (versie 5.00, 2025-06-26).",
+            "citations": [
+              {
+                "chunk_id": "D063-s-0010",
+                "quote": "Kookpunt of beginkookpunt en kooktraject 371 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009999,
+      "prompt_tokens": 9349,
+      "completion_tokens": 130,
+      "total_s": 2.722,
+      "record": "results/answers/20261123T220344Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T03",
+        "category": "answerable",
+        "language": "nl",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": null,
+        "facts": [
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states the boiling point of MG Chemicals 8461 as 371 °C, matching the reference answer exactly. The added version note does not contradict the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001864,
+        "prompt_tokens": 1499,
+        "completion_tokens": 73,
+        "record": "results/judgements/20261123T220548Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D063-s-0010 (document D063, MG Chemicals 8461 white lithium grease, v5.00, 2025-06-26) states 'Kookpunt of beginkookpunt en kooktraject 371 °C', so the boiling point of 371 °C and the product/version match are stated in the context.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0009157,
+        "prompt_tokens": 8482,
+        "completion_tokens": 135,
+        "record": "results/judgements/20261123T220548Z_2.json"
+      }
+    },
+    {
+      "id": "T04",
+      "question": "¿Qué densidad tiene el F 80 Desengrasante?",
+      "language": "es",
+      "category": "answerable",
+      "top_score": -2.8384969234466553,
+      "sent": [
+        "D065-s-0001",
+        "D059-s-0021",
+        "D065-s-0022",
+        "D060-s-0017",
+        "D056-s-0017",
+        "D065-s-0000",
+        "D054-s-0019",
+        "D047-s-0009",
+        "D046-s-0009",
+        "D064-s-0019"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220344Z_2.json",
+      "errors": [
+        "the best hit scores -2.838, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T04",
+        "category": "answerable",
+        "language": "es",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": false,
+        "right_source": false,
+        "evidence_cited": false,
+        "wrong_source": null,
+        "facts": [
+          false
+        ],
+        "forbidden": [],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference gives a concrete density value (0.725 kg/l at 20 °C), so the information is available in the documents. The system refused to answer, which is the wrong refusal decision and yields no reference facts.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0001892,
+        "prompt_tokens": 1457,
+        "completion_tokens": 87,
+        "record": "results/judgements/20261123T220549Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T05",
+      "question": "Which port does the Telegraf Siemens S7 input plugin use if none is given in the server address?",
+      "language": "en",
+      "category": "answerable",
+      "top_score": 1.8916584253311157,
+      "sent": [
+        "D077-s-0001",
+        "D077-s-0002",
+        "D076-s-0007",
+        "D077-s-0000",
+        "D076-s-0002",
+        "D074-s-0001",
+        "D076-s-0000",
+        "D075-s-0000",
+        "D075-s-0012",
+        "D076-s-0018"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "If no port is given in the server address, the Telegraf Siemens S7 input plugin uses port 102.",
+            "citations": [
+              {
+                "chunk_id": "D077-s-0001",
+                "quote": "where the port defaults to 102"
+              },
+              {
+                "chunk_id": "D077-s-0001",
+                "quote": "if not explicitly specified."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008071,
+      "prompt_tokens": 7431,
+      "completion_tokens": 128,
+      "total_s": 2.464,
+      "record": "results/answers/20261123T220347Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T05",
+        "category": "answerable",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": null,
+        "facts": [
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states that the Telegraf Siemens S7 input plugin uses port 102 when no port is given, which matches the reference answer exactly in substance. No contradicting facts are present.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001866,
+        "prompt_tokens": 1466,
+        "completion_tokens": 80,
+        "record": "results/judgements/20261123T220552Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D077-s-0001 states that the server is in the <host>[:port] format where the port defaults to 102 if not explicitly specified, which directly supports the claim.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0006987,
+        "prompt_tokens": 6547,
+        "completion_tokens": 88,
+        "record": "results/judgements/20261123T220552Z_2.json"
+      }
+    },
+    {
+      "id": "T06",
+      "question": "From how many employees must a COSHH risk assessment be written down?",
+      "language": "en",
+      "category": "answerable",
+      "top_score": 0.23358848690986633,
+      "sent": [
+        "D070-s-0006",
+        "D070-s-0000",
+        "D070-s-0007",
+        "D067-s-0021",
+        "D066-s-0018",
+        "D030-s-0003",
+        "D066-s-0001",
+        "D067-s-0001",
+        "D066-s-0030",
+        "D067-s-0034"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "A COSHH risk assessment must be recorded if you have 5 or more employees.",
+            "citations": [
+              {
+                "chunk_id": "D070-s-0006",
+                "quote": "If you have 5 or more employees, you must record your assessment"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007414,
+      "prompt_tokens": 6919,
+      "completion_tokens": 99,
+      "total_s": 1.248,
+      "record": "results/answers/20261123T220348Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T06",
+        "category": "answerable",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": null,
+        "facts": [
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference states that with 5 or more employees the assessment must be recorded, and that with fewer it is still sensible to write down the steps taken. The system answer states the 5-or-more threshold correctly but omits the guidance for fewer than 5 employees, so it is partially correct.",
+          "verdict": "partially_correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002031,
+        "prompt_tokens": 1476,
+        "completion_tokens": 111,
+        "record": "results/judgements/20261123T220554Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D070-s-0006 states: 'If you have 5 or more employees, you must record your assessment'. The claim is directly stated in the context.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0006444,
+        "prompt_tokens": 6039,
+        "completion_tokens": 81,
+        "record": "results/judgements/20261123T220554Z_2.json"
+      }
+    },
+    {
+      "id": "T07",
+      "question": "Wie lange müssen Produktions-, Kontroll- und Vertriebsaufzeichnungen einer Wirkstoffcharge nach EU-GMP Teil II aufbewahrt werden?",
+      "language": "de",
+      "category": "answerable",
+      "top_score": -0.3868192136287689,
+      "sent": [
+        "D029-s-0056",
+        "D029-s-0089",
+        "D029-s-0061",
+        "D029-s-0126",
+        "D029-s-0007",
+        "D029-s-0079",
+        "D029-s-0057",
+        "D029-s-0064",
+        "D029-s-0015",
+        "D029-s-0125"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Produktions-, Kontroll- und Vertriebsaufzeichnungen sind mindestens 1 Jahr nach dem Verfallsdatum der Charge aufzubewahren. Für Wirkstoffe mit Retestdatum gilt eine Aufbewahrungsfrist von mindestens 3 Jahren nach vollständiger Verteilung der Charge.",
+            "citations": [
+              {
+                "chunk_id": "D029-s-0056",
+                "quote": "All production, control, and distribution records should be retained for at least 1 year after the expiry date of the batch. For APIs with retest dates, records should be retained for at least 3 years after the batch is completely distributed."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008098,
+      "prompt_tokens": 6863,
+      "completion_tokens": 247,
+      "total_s": 1.815,
+      "record": "results/answers/20261123T220350Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T07",
+        "category": "answerable",
+        "language": "de",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": null,
+        "facts": [
+          true,
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states both facts of the reference: at least 1 year after the batch expiry date, and for APIs with retest dates at least 3 years after complete distribution of the batch. It contradicts nothing and matches the reference in meaning despite the German wording.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002134,
+        "prompt_tokens": 1634,
+        "completion_tokens": 100,
+        "record": "results/judgements/20261123T220557Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D029-s-0056 (section 6.13) states that all production, control, and distribution records should be retained for at least 1 year after the expiry date of the batch, and that for APIs with retest dates, records should be retained for at least 3 years after the batch is completely distributed. The claim, in German, matches this content.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0006701,
+        "prompt_tokens": 6036,
+        "completion_tokens": 133,
+        "record": "results/judgements/20261123T220557Z_2.json"
+      }
+    },
+    {
+      "id": "T08",
+      "question": "У який строк потрібно завершити остаточний ремонт засобів контролю зливових вод за MSGP 2021?",
+      "language": "uk",
+      "category": "answerable",
+      "top_score": -0.3337480127811432,
+      "sent": [
+        "D073-s-0086",
+        "D072-s-0043",
+        "D073-s-0007",
+        "D073-s-0000",
+        "D073-s-0003",
+        "D072-s-0054",
+        "D072-s-0040",
+        "D073-s-0008",
+        "D072-s-0047",
+        "D072-s-0000"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Остаточний ремонт або заміну засобів контролю зливових вод слід завершити якомога швидше, але не пізніше 14 днів; якщо це неможливо, — протягом 45 днів.",
+            "citations": [
+              {
+                "chunk_id": "D073-s-0007",
+                "quote": "final repair/replacements of stormwater controls should be completed as soon as feasible but no later than 14 days, or if that is infeasible within 45 days."
+              }
+            ]
+          },
+          {
+            "text": "Поки остаточний ремонт або заміна не виконані, ви зобов'язані негайно вжити всіх розумних заходів для запобігання або мінімізації скидання забруднювачів.",
+            "citations": [
+              {
+                "chunk_id": "D073-s-0007",
+                "quote": "you are required to immediately take all reasonable steps to prevent or minimize the discharge of pollutants until the final repair or replacement is implemented."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009298,
+      "prompt_tokens": 7733,
+      "completion_tokens": 313,
+      "total_s": 2.647,
+      "record": "results/answers/20261123T220353Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T08",
+        "category": "answerable",
+        "language": "uk",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": null,
+        "facts": [
+          true,
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states that the final repair or replacement of stormwater control measures should be completed as soon as possible but no later than 14 days, and if infeasible, within 45 days, matching the reference exactly. The additional claim about interim measures does not contradict the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002106,
+        "prompt_tokens": 1596,
+        "completion_tokens": 102,
+        "record": "results/judgements/20261123T220600Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D073-s-0007 states that final repair/replacements of stormwater controls should be completed as soon as feasible but no later than 14 days, or if infeasible within 45 days. This matches the claim.",
+              "verdict": "supported"
+            },
+            {
+              "claim": 2,
+              "reasoning": "Chunk D073-s-0007 states that you are required to immediately take all reasonable steps to prevent or minimize the discharge of pollutants until the final repair or replacement is implemented. This matches the claim.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0007897,
+        "prompt_tokens": 6942,
+        "completion_tokens": 191,
+        "record": "results/judgements/20261123T220600Z_2.json"
+      }
+    },
+    {
+      "id": "T09",
+      "question": "How thick are the wafers of NIST SRM 612?",
+      "language": "en",
+      "category": "similar_doc",
+      "top_score": 4.5084686279296875,
+      "sent": [
+        "D045-s-0001",
+        "D011-s-0001",
+        "D013-s-0001",
+        "D011-s-0002",
+        "D045-s-0002",
+        "D001-s-0013",
+        "D042-s-0003",
+        "D012-s-0001",
+        "D013-s-0002",
+        "D012-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "The wafers of NIST SRM 612 are sliced to 3 mm thickness from a hand-pulled rod.",
+            "citations": [
+              {
+                "chunk_id": "D045-s-0001",
+                "quote": "sliced to 3 mm thickness from a hand-pulled rod"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008042,
+      "prompt_tokens": 7467,
+      "completion_tokens": 115,
+      "total_s": 1.385,
+      "record": "results/answers/20261123T220354Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T09",
+        "category": "similar_doc",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states the wafers are sliced to 3 mm thickness, matching the reference fact exactly. The added detail about a hand-pulled rod does not contradict the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.000186,
+        "prompt_tokens": 1475,
+        "completion_tokens": 77,
+        "record": "results/judgements/20261123T220603Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D045-s-0001 (document D045, NIST SRM 612 hazard notice) states that a unit of SRM 612 consists of four wafers sliced to 3 mm thickness from a hand-pulled rod. The claim matches this statement directly.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0007191,
+        "prompt_tokens": 6601,
+        "completion_tokens": 118,
+        "record": "results/judgements/20261123T220603Z_2.json"
+      }
+    },
+    {
+      "id": "T10",
+      "question": "Який діапазон температури плавлення поліетилену OE5318I?",
+      "language": "uk",
+      "category": "similar_doc",
+      "top_score": -0.5890240669250488,
+      "sent": [
+        "D041-s-0009",
+        "D040-s-0010",
+        "D008-s-0015",
+        "D010-s-0009",
+        "D035-s-0014",
+        "D007-s-0011",
+        "D056-s-0017",
+        "D054-s-0019",
+        "D032-s-0010",
+        "D036-s-0015"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Температура плавлення поліетилену OE5318I становить 60 - 110 °C (Ed. 4, 2025-10-16).",
+            "citations": [
+              {
+                "chunk_id": "D041-s-0009",
+                "quote": "Melting point/ range: 60 - 110 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008971,
+      "prompt_tokens": 8391,
+      "completion_tokens": 116,
+      "total_s": 1.69,
+      "record": "results/answers/20261123T220356Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T10",
+        "category": "similar_doc",
+        "language": "uk",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states the melting temperature range of OE5318I as 60 - 110 °C, matching the reference answer exactly. The added edition reference does not contradict the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001858,
+        "prompt_tokens": 1483,
+        "completion_tokens": 75,
+        "record": "results/judgements/20261123T220606Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D041-s-0009 (document D041, title 'Polyethylene OE5318I: product safety information sheet', date Ed. 4, 2025-10-16) states 'Melting point/ range: 60 - 110 °C', which matches the claim exactly, including the edition and date attributes.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0008176,
+        "prompt_tokens": 7526,
+        "completion_tokens": 130,
+        "record": "results/judgements/20261123T220606Z_2.json"
+      }
+    },
+    {
+      "id": "T11",
+      "question": "Quel est le point d'ébullition de l'antigel LAUDA LZB 125 ?",
+      "language": "fr",
+      "category": "similar_doc",
+      "top_score": -0.6869014501571655,
+      "sent": [
+        "D060-s-0016",
+        "D056-s-0017",
+        "D054-s-0019",
+        "D059-s-0020",
+        "D065-s-0022",
+        "D043-s-0002",
+        "D052-s-0012",
+        "D040-s-0010",
+        "D050-s-0016",
+        "D053-s-0010"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Le point d'ébullition de l'antigel LAUDA LZB 125 n'est pas donné dans le contexte. Le seul antigel LAUDA présent est le LAUDA Antifreeze LZB x25, dont le point d'ébullition initial est d'environ 165 °C ; ce n'est pas le produit demandé."
+      },
+      "cost_usd": 0.0008788,
+      "prompt_tokens": 8113,
+      "completion_tokens": 135,
+      "total_s": 1.658,
+      "record": "results/answers/20261123T220357Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T11",
+        "category": "similar_doc",
+        "language": "fr",
+        "outcome": "not_in_documents",
+        "refused": true,
+        "refusal_correct": false,
+        "right_source": false,
+        "evidence_cited": false,
+        "wrong_source": false,
+        "facts": [
+          false
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference gives the boiling point of LZB 125 as about 165 °C. The system answered not_in_documents, refusing to give the value for the requested product, and instead cited 165 °C for a different product (LAUDA Antifreeze LZB x25). Since the reference answer exists, a refusal is the wrong decision, and naming another product's value does not rescue it.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0002265,
+        "prompt_tokens": 1570,
+        "completion_tokens": 139,
+        "record": "results/judgements/20261123T220608Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T12",
+      "question": "What is the flash point of CRC Brakleen Brake Parts Cleaner in the 55 gallon drum?",
+      "language": "en",
+      "category": "similar_doc",
+      "top_score": -1.6451009511947632,
+      "sent": [
+        "D056-s-0001",
+        "D052-s-0012",
+        "D056-s-0000",
+        "D050-s-0016",
+        "D048-s-0012",
+        "D053-s-0010",
+        "D057-s-0011",
+        "D001-s-0013",
+        "D066-s-0195",
+        "D056-s-0017"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220357Z_2.json",
+      "errors": [
+        "the best hit scores -1.645, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T12",
+        "category": "similar_doc",
+        "language": "en",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": false,
+        "right_source": false,
+        "evidence_cited": false,
+        "wrong_source": false,
+        "facts": [
+          false
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference answer states the product has no flash point ('Flash point: None'), which is a definite answer. The system refused to answer, so it omits the reference fact and gives no value, making the refusal the wrong decision when the reference provides an answer.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0001942,
+        "prompt_tokens": 1457,
+        "completion_tokens": 97,
+        "record": "results/judgements/20261123T220609Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T13",
+      "question": "Welche Dichte hat der Kärcher Stein- und Fassadenreiniger RM 611 bei 20 °C?",
+      "language": "de",
+      "category": "similar_doc",
+      "top_score": 0.8084095120429993,
+      "sent": [
+        "D037-s-0009",
+        "D033-s-0012",
+        "D046-s-0009",
+        "D053-s-0010",
+        "D034-s-0008",
+        "D059-s-0021",
+        "D065-s-0022",
+        "D042-s-0001",
+        "D038-s-0011",
+        "D037-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Die Dichte des Kärcher Stein- und Fassadenreiniger 3-in-1 RM 611 beträgt bei 20 °C 1,011 g/cm³ (laut der neuesten Version v5 des Sicherheitsdatenblatts).",
+            "citations": [
+              {
+                "chunk_id": "D037-s-0009",
+                "quote": "Dichte bei 20 °C: | 1,011 g/cm³"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0010097,
+      "prompt_tokens": 9267,
+      "completion_tokens": 166,
+      "total_s": 1.746,
+      "record": "results/answers/20261123T220359Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T13",
+        "category": "similar_doc",
+        "language": "de",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states the density of 1,011 g/cm³ at 20 °C, matching the reference value exactly (comma decimal notation is equivalent). It adds a version reference (v5), which does not contradict the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.000199,
+        "prompt_tokens": 1540,
+        "completion_tokens": 90,
+        "record": "results/judgements/20261123T220613Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D037-s-0009 (document D037, Karcher Stein- und Fassadenreiniger 3-in-1 RM 611, v5, 2025-06-16) states 'Dichte bei 20 °C: 1,011 g/cm³'. The claim's density value and the v5 version attribution both match this chunk.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0009127,
+        "prompt_tokens": 8427,
+        "completion_tokens": 140,
+        "record": "results/judgements/20261123T220613Z_2.json"
+      }
+    },
+    {
+      "id": "T14",
+      "question": "By what date must manufacturers evaluating substances comply with the modified provisions of OSHA's Hazard Communication Standard?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 5.722959518432617,
+      "sent": [
+        "D067-s-0045",
+        "D066-s-0040",
+        "D067-s-0146",
+        "D066-s-0114",
+        "D067-s-0046",
+        "D012-s-0001",
+        "D045-s-0001",
+        "D011-s-0001",
+        "D067-s-0001",
+        "D066-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Manufacturers, importers, and distributors evaluating substances must be in compliance with all modified provisions of the Hazard Communication Standard no later than May 19, 2026 (this is the current text, which supersedes the 2024 version).",
+            "citations": [
+              {
+                "chunk_id": "D067-s-0045",
+                "quote": "Manufacturers, importers, and distributors, evaluating substances shall be in compliance with all modified provisions of this section no later than May 19, 2026."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008032,
+      "prompt_tokens": 7142,
+      "completion_tokens": 178,
+      "total_s": 1.513,
+      "record": "results/answers/20261123T220401Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T14",
+        "category": "outdated_version",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer states the compliance date as May 19, 2026, matching the reference answer's date and its reference to the current text. The extra remark about superseding the 2024 version does not contradict the reference, so the answer is fully correct.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001993,
+        "prompt_tokens": 1538,
+        "completion_tokens": 91,
+        "record": "results/judgements/20261123T220615Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D067-s-0045 (current text, as of 2026-11-02, supersedes D066) states in (j)(2)(i) that manufacturers, importers, and distributors evaluating substances shall be in compliance with all modified provisions no later than May 19, 2026. The claim's parenthetical that this is the current text superseding the 2024 version is also stated in the chunk's document attributes (supersedes=\"D066\").",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.000715,
+        "prompt_tokens": 6290,
+        "completion_tokens": 172,
+        "record": "results/judgements/20261123T220615Z_2.json"
+      }
+    },
+    {
+      "id": "T15",
+      "question": "How does OSHA's Hazard Communication Standard define combustible dust?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 1.380900502204895,
+      "sent": [
+        "D012-s-0001",
+        "D013-s-0001",
+        "D011-s-0001",
+        "D045-s-0001",
+        "D067-s-0009",
+        "D066-s-0012",
+        "D067-s-0011",
+        "D066-s-0030",
+        "D067-s-0034",
+        "D058-s-0006"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Under the current text of 29 CFR 1910.1200 (as of 2026-11-02, which supersedes the earlier version), combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media.",
+            "citations": [
+              {
+                "chunk_id": "D067-s-0009",
+                "quote": "Combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008631,
+      "prompt_tokens": 7571,
+      "completion_tokens": 212,
+      "total_s": 1.583,
+      "record": "results/answers/20261123T220402Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T15",
+        "category": "outdated_version",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true,
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The system answer's definition of combustible dust matches the reference answer almost word for word: finely divided solid particulates of a substance or mixture posing flash-fire or explosion hazard when dispersed in air or other oxidizing media. The extra framing about the 2026 version does not contradict the reference's definition.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002154,
+        "prompt_tokens": 1569,
+        "completion_tokens": 117,
+        "record": "results/judgements/20261123T220620Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D067-s-0009 (document D067, title '29 CFR 1910.1200 Hazard Communication (current text)', date 'as of 2026-11-02', supersedes D066) states: 'Combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media.' The current-text attribution and date match the claim exactly.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0007645,
+        "prompt_tokens": 6760,
+        "completion_tokens": 177,
+        "record": "results/judgements/20261123T220620Z_2.json"
+      }
+    },
+    {
+      "id": "T16",
+      "question": "Welche Gleitkomma-Datentypen unterstützt das Telegraf-Modbus-Plugin?",
+      "language": "de",
+      "category": "outdated_version",
+      "top_score": 0.32144948840141296,
+      "sent": [
+        "D075-s-0000",
+        "D075-s-0038",
+        "D075-s-0034",
+        "D074-s-0003",
+        "D075-s-0015",
+        "D075-s-0016",
+        "D074-s-0000",
+        "D075-s-0025",
+        "D075-s-0014",
+        "D074-s-0004"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Laut der neueren Version v1.40.3 (2026-11-02, ersetzt D074) unterstützt das Plugin die Gleitkomma-Datentypen FLOAT16, FLOAT32 und FLOAT64 für IEEE 754-Binärdarstellungen von Fließkommawerten.",
+            "citations": [
+              {
+                "chunk_id": "D075-s-0034",
+                "quote": "`FLOAT16`, `FLOAT32` and `FLOAT64` for IEEE 754 binary representations of floating point values exist"
+              }
+            ]
+          },
+          {
+            "text": "FLOAT16 bezeichnet dabei einen Half-Precision-Float mit einer 16-Bit-Darstellung.",
+            "citations": [
+              {
+                "chunk_id": "D075-s-0034",
+                "quote": "`FLOAT16` denotes a half-precision float with a 16-bit representation"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007933,
+      "prompt_tokens": 6383,
+      "completion_tokens": 310,
+      "total_s": 2.031,
+      "record": "results/answers/20261123T220404Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T16",
+        "category": "outdated_version",
+        "language": "de",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": false,
+        "wrong_source": false,
+        "facts": [
+          true,
+          true,
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference lists FLOAT16-IEEE, FLOAT32-IEEE and FLOAT64-IEEE. The system answer names FLOAT16, FLOAT32 and FLOAT64 as IEEE 754 types, which matches all three reference facts; the missing '-IEEE' suffix is a naming variant rather than a contradiction. It also cites a version v1.40.3 which is not in the reference, but this does not contradict the reference answer.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002469,
+        "prompt_tokens": 1619,
+        "completion_tokens": 170,
+        "record": "results/judgements/20261123T220623Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D075-s-0034 and D075-s-0025 (document D075, v1.40.3, supersedes D074) state that FLOAT16, FLOAT32 and FLOAT64 exist as IEEE 754 binary representations of floating point values. The version and supersession attributes match the claim.",
+              "verdict": "supported"
+            },
+            {
+              "claim": 2,
+              "reasoning": "Chunk D075-s-0034 and D075-s-0025 state that FLOAT16 denotes a half-precision float with a 16-bit representation, matching the claim.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0006661,
+        "prompt_tokens": 5611,
+        "completion_tokens": 210,
+        "record": "results/judgements/20261123T220623Z_2.json"
+      }
+    },
+    {
+      "id": "T17",
+      "question": "Which setting selects the configuration style of the Telegraf Modbus input plugin?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 3.390178680419922,
+      "sent": [
+        "D075-s-0014",
+        "D075-s-0001",
+        "D075-s-0000",
+        "D074-s-0001",
+        "D075-s-0029",
+        "D077-s-0000",
+        "D075-s-0019",
+        "D074-s-0006",
+        "D074-s-0000",
+        "D075-s-0008"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "The setting `configuration_type` selects the configuration style of the Telegraf Modbus input plugin (in the newer v1.40.3 version, which supersedes v1.20.0).",
+            "citations": [
+              {
+                "chunk_id": "D075-s-0014",
+                "quote": "can be set using the `configuration_type` setting"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007333,
+      "prompt_tokens": 6698,
+      "completion_tokens": 127,
+      "total_s": 1.386,
+      "record": "results/answers/20261123T220406Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T17",
+        "category": "outdated_version",
+        "language": "en",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": true,
+        "wrong_source": false,
+        "facts": [
+          true
+        ],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference answer names the setting `configuration_type` and notes that the styles cannot be mixed. The system answer correctly identifies `configuration_type` as the selecting setting, but it omits the fact that the styles cannot be mixed. It also adds a version qualifier (v1.40.3 superseding v1.20.0) that is not in the reference and is not contradicted by it.",
+          "verdict": "partially_correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002215,
+        "prompt_tokens": 1500,
+        "completion_tokens": 143,
+        "record": "results/judgements/20261123T220627Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D075-s-0014 states that the plugin supports multiple configuration styles set using the `configuration_type` setting, and that only settings belonging to the configured type are used. Chunk attributes show it is v1.40.3 superseding D074 (v1.20.0). The claim is fully stated in the context.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0006508,
+        "prompt_tokens": 5843,
+        "completion_tokens": 133,
+        "record": "results/judgements/20261123T220627Z_2.json"
+      }
+    },
+    {
+      "id": "T18",
+      "question": "На яку частину MSGP посилається шаблон SWPPP в інструкціях до розділу про команду із запобігання забрудненню зливовими водами?",
+      "language": "uk",
+      "category": "outdated_version",
+      "top_score": 4.447722434997559,
+      "sent": [
+        "D072-s-0000",
+        "D071-s-0000",
+        "D073-s-0000",
+        "D072-s-0019",
+        "D071-s-0018",
+        "D073-s-0002",
+        "D072-s-0030",
+        "D071-s-0028",
+        "D072-s-0061",
+        "D072-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "repaired",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "В інструкціях до розділу «Stormwater Control Measures (SCM)» шаблон SWPPP посилається на Частини 2.1.2, Частину 8 та Частину 6.2.4 2021 MSGP.",
+            "citations": [
+              {
+                "chunk_id": "D072-s-0030",
+                "quote": "Instructions (See 2021 MSGP Parts 2.1.2, Part 8, and 6.2.4)"
+              }
+            ]
+          },
+          {
+            "text": "Це стосується новішої версії шаблону (2021 MSGP), яка замінює версію 2015 MSGP.",
+            "citations": [
+              {
+                "chunk_id": "D072-s-0030",
+                "quote": "STORMWATER Control Measures (SCM)"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0017439,
+      "prompt_tokens": 14889,
+      "completion_tokens": 510,
+      "total_s": 3.468,
+      "record": "results/answers/20261123T220409Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T18",
+        "category": "outdated_version",
+        "language": "uk",
+        "outcome": "answered",
+        "refused": false,
+        "refusal_correct": true,
+        "right_source": true,
+        "evidence_cited": false,
+        "wrong_source": false,
+        "facts": [
+          false
+        ],
+        "forbidden": [
+          false
+        ],
+        "passed": false
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference states the SWPPP template refers to Part 6.2.1 of the 2021 MSGP for the stormwater pollution prevention team section. The system answer cites Parts 2.1.2, 8 and 6.2.4 for the SCM section, and does not mention 6.2.1 at all. The cited part does not match the reference and the list includes an extra, different part, so the answer contradicts the reference.",
+          "verdict": "incorrect"
+        },
+        "errors": [],
+        "cost_usd": 0.0002346,
+        "prompt_tokens": 1581,
+        "completion_tokens": 153,
+        "record": "results/judgements/20261123T220630Z.json"
+      },
+      "faithfulness": {
+        "status": "valid",
+        "output": {
+          "claims": [
+            {
+              "claim": 1,
+              "reasoning": "Chunk D072-s-0030 (2021 MSGP SWPPP template, section 'STORMWATER Control Measures (SCM)') states 'Instructions (See 2021 MSGP Parts 2.1.2, Part 8, and 6.2.4)', which matches the claim exactly.",
+              "verdict": "supported"
+            },
+            {
+              "claim": 2,
+              "reasoning": "Chunk D072-s-0000 (2021 MSGP template) lists supersedes='D071', which is the 2015 MSGP template (chunk D071-s-0000). Chunk D073 and D072 are dated 2021 MSGP, and D071 is dated 2015 MSGP, so the context states the 2021 version replaces the 2015 version.",
+              "verdict": "supported"
+            }
+          ]
+        },
+        "errors": [],
+        "cost_usd": 0.0007765,
+        "prompt_tokens": 6415,
+        "completion_tokens": 270,
+        "record": "results/judgements/20261123T220630Z_2.json"
+      }
+    },
+    {
+      "id": "T19",
+      "question": "How thick are the wafers of NIST SRM 614?",
+      "language": "en",
+      "category": "unanswerable",
+      "top_score": -0.6060850620269775,
+      "sent": [
+        "D045-s-0001",
+        "D011-s-0001",
+        "D013-s-0001",
+        "D042-s-0003",
+        "D026-s-0001",
+        "D012-s-0001",
+        "D011-s-0002",
+        "D045-s-0002",
+        "D012-s-0002",
+        "D013-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "The context does not give the wafer thickness of NIST SRM 614; it only describes SRM 612 (wafers sliced to 3 mm) and SRM 613 (wafers sliced to 1 mm)."
+      },
+      "cost_usd": 0.0007572,
+      "prompt_tokens": 7112,
+      "completion_tokens": 92,
+      "total_s": 1.248,
+      "record": "results/answers/20261123T220410Z.json",
+      "errors": [],
+      "score": {
+        "question_id": "T19",
+        "category": "unanswerable",
+        "language": "en",
+        "outcome": "not_in_documents",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference says the information is not in the documents because only SRM 612 and 613 have sheets. The system answer returns not_in_documents for SRM 614 and notes the context only covers SRM 612 and 613, matching the reference's refusal decision and facts without contradiction.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0002043,
+        "prompt_tokens": 1513,
+        "completion_tokens": 106,
+        "record": "results/judgements/20261123T220632Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T20",
+      "question": "Яку максимальну температуру рідини допускають насоси Grundfos TPE Series 1000?",
+      "language": "uk",
+      "category": "unanswerable",
+      "top_score": -1.406902551651001,
+      "sent": [
+        "D022-s-0055",
+        "D022-s-0094",
+        "D022-s-0054",
+        "D022-s-0061",
+        "D022-s-0031",
+        "D022-s-0016",
+        "D022-s-0010",
+        "D022-s-0103",
+        "D022-s-0009"
+      ],
+      "dropped": [
+        "D022-s-0012"
+      ],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220410Z_2.json",
+      "errors": [
+        "the best hit scores -1.407, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T20",
+        "category": "unanswerable",
+        "language": "uk",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference says the information is not in the documents, since the manual covers only TPE/TPED Series 2000. The system refused to answer with no answer shown, which matches the reference's 'not in documents' conclusion, so the refusal is correct.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.000194,
+        "prompt_tokens": 1465,
+        "completion_tokens": 95,
+        "record": "results/judgements/20261123T220633Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T21",
+      "question": "Welche Schmelzflussrate hat das Polypropylen BE60?",
+      "language": "de",
+      "category": "unanswerable",
+      "top_score": -2.1538820266723633,
+      "sent": [
+        "D025-s-0002",
+        "D025-s-0001",
+        "D054-s-0019",
+        "D059-s-0053",
+        "D059-s-0021",
+        "D053-s-0010",
+        "D033-s-0013",
+        "D059-s-0051",
+        "D037-s-0017",
+        "D033-s-0016"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220410Z_3.json",
+      "errors": [
+        "the best hit scores -2.154, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T21",
+        "category": "unanswerable",
+        "language": "de",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference says the information is not in the documents, since only BE55 has a data sheet. The system refused to answer, which matches the reference's 'not in the documents' conclusion, so the refusal is the correct decision.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001884,
+        "prompt_tokens": 1454,
+        "completion_tokens": 86,
+        "record": "results/judgements/20261123T220635Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T22",
+      "question": "Quale livello di QoS usa di default il plugin MQTT consumer di Telegraf?",
+      "language": "it",
+      "category": "unanswerable",
+      "top_score": -3.2660865783691406,
+      "sent": [
+        "D077-s-0000",
+        "D076-s-0007",
+        "D075-s-0012",
+        "D075-s-0011",
+        "D075-s-0000",
+        "D076-s-0000",
+        "D075-s-0038",
+        "D077-s-0002",
+        "D076-s-0017",
+        "D076-s-0018"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220410Z_4.json",
+      "errors": [
+        "the best hit scores -3.266, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T22",
+        "category": "unanswerable",
+        "language": "it",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference says the information is not in the documents, so a refusal is the correct behavior. The system answer shows no answer and refuses, which matches the reference.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001812,
+        "prompt_tokens": 1477,
+        "completion_tokens": 67,
+        "record": "results/judgements/20261123T220636Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T23",
+      "question": "¿Cómo se prepara una paella valenciana?",
+      "language": "es",
+      "category": "unanswerable",
+      "top_score": -9.097620964050293,
+      "sent": [
+        "D065-s-0002",
+        "D065-s-0031",
+        "D064-s-0012",
+        "D065-s-0021",
+        "D065-s-0011",
+        "D060-s-0001",
+        "D030-s-0001",
+        "D065-s-0035",
+        "D064-s-0026",
+        "D030-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220410Z_5.json",
+      "errors": [
+        "the best hit scores -9.098, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T23",
+        "category": "unanswerable",
+        "language": "es",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference states the information is not in the documents, and the system refused to answer, which is the correct refusal decision. No contradicting facts are present.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.0001745,
+        "prompt_tokens": 1430,
+        "completion_tokens": 63,
+        "record": "results/judgements/20261123T220637Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    },
+    {
+      "id": "T24",
+      "question": "Kto napisał „Pana Tadeusza”?",
+      "language": "pl",
+      "category": "unanswerable",
+      "top_score": -8.689547538757324,
+      "sent": [
+        "D003-s-0014",
+        "D003-s-0004",
+        "D003-s-0003",
+        "D003-s-0073",
+        "D003-s-0017",
+        "D003-s-0022",
+        "D003-s-0015",
+        "D003-s-0019",
+        "D003-s-0000",
+        "D003-s-0032"
+      ],
+      "dropped": [],
+      "final_status": "below_threshold",
+      "answer": null,
+      "cost_usd": 0.0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_s": null,
+      "record": "results/answers/20261123T220410Z_6.json",
+      "errors": [
+        "the best hit scores -8.690, below [answer] min_rerank_score -1.03, so no model was called"
+      ],
+      "score": {
+        "question_id": "T24",
+        "category": "unanswerable",
+        "language": "pl",
+        "outcome": "below_threshold",
+        "refused": true,
+        "refusal_correct": true,
+        "right_source": null,
+        "evidence_cited": null,
+        "wrong_source": null,
+        "facts": [],
+        "forbidden": [],
+        "passed": true
+      },
+      "quality": {
+        "status": "valid",
+        "output": {
+          "reasoning": "The reference answer states that the information is not in the documents, and the system refused to answer with no answer shown. A refusal is the correct behavior when the reference says the information is not in the documents.",
+          "verdict": "correct"
+        },
+        "errors": [],
+        "cost_usd": 0.000181,
+        "prompt_tokens": 1430,
+        "completion_tokens": 76,
+        "record": "results/judgements/20261123T220639Z.json"
+      },
+      "faithfulness": {
+        "status": "no_claims",
+        "output": null,
+        "errors": [],
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "record": null
+      }
+    }
+  ]
+}

@@ -216,6 +216,9 @@ which are also the ones in `docs/reports/stage-1.md`:
   checks need the context, so the JSON schema cannot enforce them. Both replies are logged, so the
   share of valid first answers stays visible.
 - Measured effect: not measured yet; the answer runs of the evals (S2-18) will count repairs.
+- Counted in S2-18 (`make eval`, run `evals/results/runs/20261123T220411Z.json`, 24 test
+  questions, 15 model calls): 1 repair, T18, where a quote was not in its chunk; the repaired
+  answer passed the checks. One answer, not a rate.
 
 ## answer v2 (2026-11-21)
 - What: v1 plus three rules; the other rules are unchanged.
@@ -250,3 +253,32 @@ which are also the ones in `docs/reports/stage-1.md`:
   - Every answer of both versions passed the checks on the first reply; no repair was used.
   - Caveat: n = 20 and one run per version, so one question moves a rate by 5-12 points.
 
+## judge_quality v1 (2026-11-23)
+- What: a new prompt, the LLM judge of answer quality (S2-18). It gets the question, the test
+  set's English reference answer (`expected_answer`) and the shown answer (status, numbered
+  claim texts, `missing`; no citations). A question with no shown answer is shown as a refusal.
+  It replies with `reasoning`, then `verdict`: `correct`, `partially_correct` or `incorrect`.
+  It grades meaning, not language or the spelling of numbers and units. Naming a sibling's
+  value only to contrast it is not a contradiction.
+- Why: the S2-17 scorers match key facts as substrings, so they miss a correct fact in an
+  unlisted spelling and count a contrast as falling into the trap (`docs/METRICS.md`). The
+  course asks for an LLM judge "for the rest". Three levels are the user's choice. They are the
+  scale the user grades on in S2-19. Citations are left out because code checks them.
+- Measured effect (`make eval`, `evals/results/eval.md`; 24 test questions; Haiku 5.5): 16
+  correct, 2 partially correct, 6 incorrect, 0 not judged. It agreed with the S2-17 pass verdict
+  on 22 of 24: both partials (T06, T17) passed S2-17, but the judge says they leave out a fact
+  of the reference. `make judge` on the same answers gave the same 24 verdicts. Not calibrated
+  yet (S2-19).
+
+## judge_faithfulness v1 (2026-11-23)
+- What: a new prompt, the faithfulness check (S2-18). It gets every chunk sent to the answer
+  model, rendered as in the answer prompt, and the numbered claim texts. It replies with one
+  entry per claim: `claim` (its number), `reasoning`, then `supported`, `partially_supported`
+  or `not_supported`. Outside knowledge and computed values are not support. Chunk attributes
+  are.
+- Why: the course asks that every claim be supported by the context. S2-13 checks only that
+  each quote is in its cited chunk, not that the claim says what the chunk says. All chunks
+  sent, not only the cited ones, is the user's choice (the course wording).
+- Measured effect (`make eval`; 13 answers with claims, 16 claims): 16 of 16 claims supported,
+  0 not judged. `make judge` gave the same 16 verdicts. One run on few claims, so it cannot
+  show how strict the judge is. S2-19 checks it against hand grades.

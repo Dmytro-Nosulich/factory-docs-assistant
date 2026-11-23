@@ -230,6 +230,18 @@ class RefusalEvalSettings(Settings):
         return self
 
 
+class JudgeSettings(Settings):
+    """The LLM judges of `make eval`, S2-18: answer quality against the test set's reference
+    answer, and whether each claim is supported by the chunks that were sent. One versioned
+    prompt each; the model is a key in [models]."""
+
+    model: str
+    quality_prompt: str
+    quality_prompt_version: str
+    faithfulness_prompt: str
+    faithfulness_prompt_version: str
+
+
 class RunSettings(Settings):
     """`make run`, S2-15: the development questions answered and printed as samples."""
 
@@ -259,6 +271,7 @@ class Config(Settings):
     retrieval_eval: RetrievalEvalSettings
     answer: AnswerSettings
     refusal_eval: RefusalEvalSettings
+    judge: JudgeSettings
     run: RunSettings
 
     @model_validator(mode="after")
@@ -270,6 +283,10 @@ class Config(Settings):
         if self.answer.collection not in self.index.collections:
             raise ValueError(
                 f"[answer] collection {self.answer.collection!r}: not in [index] collections"
+            )
+        if self.judge.model not in self.models:
+            raise ValueError(
+                f"[judge] model {self.judge.model!r}: no [models.{self.judge.model!r}] table"
             )
         if self.answer.min_rerank_score is not None and not self.search.rerank:
             raise ValueError(

@@ -25,7 +25,7 @@ The record follows the stage 1 record: `status` is the first reply's (`valid`, `
 `failed`, `error`, `no_context` or `below_threshold`. It names the model,
 prompt version and hash, parameters, retrieval settings, every hit, the chunks sent and
 dropped, and the cost. Records go to results/answers/, which has its own budget guard
-(decision 18).
+(decision 18; since S2-18 it also counts the judge calls in results/judgements/).
 """
 
 import json
@@ -49,6 +49,7 @@ from factory_docs.retrieval_gold import contains_quote
 from factory_docs.run import RESULTS, record_cost, spent_usd
 
 ANSWERS = RESULTS / "answers"
+JUDGEMENTS = RESULTS / "judgements"  # judge calls of `make eval` (S2-18), same guard
 SCHEMA_NAME = "rag_answer"  # the name OpenRouter passes on with the JSON schema
 SHOWN = ("valid", "repaired")  # final statuses whose answer may be shown
 NOT_CALLED = ("no_context", "below_threshold")  # refused before any model call
@@ -179,8 +180,8 @@ def check_budget(spent: float, config: Config) -> None:
     limit = config.answer.stop_at_usd
     if spent >= limit:
         raise BudgetExceeded(
-            f"stage 2 answers have cost ${spent:.4f}, at or above [answer] stop_at_usd "
-            f"${limit:.2f} (decision 18)"
+            f"stage 2 answers and judge calls have cost ${spent:.4f}, at or above [answer] "
+            f"stop_at_usd ${limit:.2f} (decision 18)"
         )
 
 
@@ -299,9 +300,14 @@ def shown_answer(record: dict) -> dict | None:
     return None
 
 
-def spent_on_answers(answers_dir: Path = ANSWERS) -> float:
-    """Reported cost of every answer log: the stage 2 budget guard total (decision 18)."""
-    return spent_usd(answers_dir, exclude=()) if answers_dir.exists() else 0.0
+def spent_on_answers(*dirs: Path) -> float:
+    """Reported cost of every stage 2 log: the stage 2 budget guard total (decision 18).
+
+    dirs: the log folders; by default the answer logs and, since S2-18, the judge calls.
+    """
+    return sum(
+        spent_usd(folder, exclude=()) for folder in dirs or (ANSWERS, JUDGEMENTS) if folder.exists()
+    )
 
 
 def save_record(record: dict, answers_dir: Path = ANSWERS) -> Path:

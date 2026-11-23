@@ -228,5 +228,8 @@ data/index/qdrant/
 # `make ask` logs, one file per question (S2-13); not committed (user's choice)
 results/answers/
 
+# `make eval` judge calls, one file per call (S2-18); summarised in evals/results/runs/
+results/judgements/
+
 # Course homework materials (never committed)
 course-materials/

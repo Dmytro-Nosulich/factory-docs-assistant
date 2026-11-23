@@ -44,7 +44,9 @@ RUNS = RESULTS / "runs"
 SUMMARY = "run.json"
 STATUSES = ("valid", "invalid", "error")
 FINAL_STATUSES = ("valid", "repaired", "failed", "error")
-STAGE2_DIRS = ("answers",)  # results/answers/: `make ask` logs, counted by the stage 2 guard
+# results/answers/ (`make ask` logs) and results/judgements/ (judge calls of `make eval`, S2-18):
+# counted by the stage 2 guard, not by the stage 1 guard
+STAGE2_DIRS = ("answers", "judgements")
 
 
 def stage1_doc_ids(manifest: Path = MANIFEST) -> list[str]:

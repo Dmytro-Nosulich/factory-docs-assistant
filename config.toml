@@ -203,6 +203,19 @@ min_rerank_score = -1.03
 [refusal_eval]
 prompt_versions = ["v1", "v2"]
 
+# LLM judges (S2-18): `make eval` answers evals/test_set.toml like `make ask` (gate on), then
+# one judge grades each answer against the test set's reference answer (correct / partially
+# correct / incorrect), and one checks every claim against the chunks that were sent (supported
+# / partially supported / not supported). Haiku 5.5, the answer model too (user's choice,
+# 2026-11-23: cheap enough for CI on every push; self-preference is what S2-19 calibration
+# measures). It takes no temperature, so verdicts can vary between runs (docs/METRICS.md).
+[judge]
+model = "haiku-5.5"
+quality_prompt = "judge_quality"
+quality_prompt_version = "v1"
+faithfulness_prompt = "judge_faithfulness"
+faithfulness_prompt_version = "v1"
+
 # One-command run (S2-15): `make run` answers these development questions (IDs in
 # evals/dev_questions.toml) through the `make ask` pipeline, gate on, and prints them. Picked to
 # show an English, a Ukrainian and a German answer (V07 is a certificate, not an SDS) and a near

@@ -27,7 +27,8 @@ def preflight_problems(config: Config, env: Mapping[str, str], spent_usd: float)
     if spent_usd >= limit:
         problems.append(
             f"stage 2 answers have cost ${spent_usd:.4f}, at or above [answer] stop_at_usd "
-            f"${limit:.2f} (decision 18); raise it in config.toml or clear results/answers/"
+            f"${limit:.2f} (decision 18); raise it in config.toml or clear results/answers/ "
+            "and results/judgements/"
         )
     return problems
 

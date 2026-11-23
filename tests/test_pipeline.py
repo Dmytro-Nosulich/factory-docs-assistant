@@ -59,6 +59,7 @@ def test_make_run_runs_every_step_in_order():
         "scripts/section_labels.py",
         "scripts/eval_retrieval.py",
         "scripts/eval_refusal.py",
+        "scripts/eval_answers.py",
         "scripts/sample_answers.py",
         "scripts/cost_report.py",
     ]
