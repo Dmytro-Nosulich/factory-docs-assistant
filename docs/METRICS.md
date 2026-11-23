@@ -105,3 +105,13 @@ Added 2026-11-21 (S2-15). `make cost` (code: `src/factory_docs/cost.py`, `script
 - **$ / 1000 (reported)** = the same mean from the cost OpenRouter reports per call. A cross-check.
 - **Two rows:** over all development questions (gated ones count as $0), and over only those that reach the model. The first depends on the share of unanswerable questions in the development set, which is high on purpose. The second is the cost of a question the model answers or refuses itself.
 - **Not counted:** embedding and reranking run on the local CPU, so they have no API cost. Hardware, electricity and time are not counted.
+
+## Test set (stage 2)
+Added 2026-11-23 (S2-16). `make test-set-check` (code: `src/factory_docs/test_set.py`, `scripts/check_test_set.py`; tests: `tests/test_test_set.py`) checks `evals/test_set.toml`. It makes no model calls. The scorers of S2-17 to S2-20 read the same file.
+
+- **Held out.** No test question repeats one of `evals/dev_questions.toml` or `evals/retrieval_gold.toml` (whitespace and case ignored). Nothing is tuned on the test set.
+- **Categories:** `answerable`, `similar_doc` (a sibling document holds a similar fact), `outdated_version` (the fact changed between versions) and `unanswerable` (expected status `not_in_documents`). The set needs at least 20 questions and every category.
+- **Key facts:** what a correct answer contains. Each fact is a list of accepted spellings, and one spelling is enough. A spelling matches when it is a substring of the text with whitespace collapsed and case ignored (`fact_in`). At least one spelling of every key fact must be in an evidence quote, so every expected fact traces to a source. Other spellings (translations, number formats) are allowed.
+- **Evidence:** the gold-set format and checks (document indexed, quote in one block of the cleaned text, on its page for a PDF, whole in a chunk of every collection).
+- **Traps:** `wrong_docs` lists the documents whose citation is wrong, and these are never evidence. For `outdated_version`, each wrong document is superseded by an evidence document, directly or through a chain of `supersedes` in `data/manifest.csv`. Optional `forbidden_facts` hold the sibling's or the old version's value. Each must be in the cleaned text of a wrong document, in no evidence quote, and never equal to a key fact.
+- **Near misses:** optional `absent_terms` (a product or grade name) must be in no chunk of any collection. This replaces a manual search.

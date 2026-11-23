@@ -1,0 +1,386 @@
+# Test set for the stage 2 RAG pipeline (S2-16).
+# Drafted by Claude at the user's request (2026-11-23) and reviewed by the user.
+# Checked by `make test-set-check`.
+#
+# TEST ONLY. Nothing is tuned on these questions: no threshold, prompt, search setting or
+# chunking choice may be changed because of a result on them. No question repeats one of
+# evals/dev_questions.toml (tuning) or evals/retrieval_gold.toml (search default); the check
+# enforces that. Their facts were also picked apart from those two files.
+#
+# One [[question]] block per question.
+#
+# [[question]]
+#   id               "T01", "T02", ... unique, never reused.
+#   question         The question as a user would type it.
+#   language         Language of the question (en, de, uk, ...).
+#   category         answerable        the corpus answers it.
+#                    similar_doc       a sibling document holds a similar fact; citing it is wrong.
+#                    outdated_version  the fact changed between versions; the current one is right,
+#                                      citing the superseded one is wrong.
+#                    unanswerable      no document states it; the expected status is
+#                                      not_in_documents (near misses and off-topic questions).
+#   expected_answer  Short reference answer in English.
+#   notes            Why the question is here, and an English translation for other languages.
+#   key_facts        Facts a correct answer contains. Each fact is a list of accepted spellings
+#                    (one is enough); at least one spelling is in an evidence quote. Not for
+#                    unanswerable questions.
+#   forbidden_facts  Traps only, optional: the sibling's or the old version's value. An answer
+#                    that contains one fell into the trap. Found in a wrong doc, in no quote.
+#   wrong_docs       Traps only: documents whose citation is wrong. For outdated_version, each is
+#                    superseded by an evidence document (data/manifest.csv `supersedes`).
+#   absent_terms     Unanswerable only, optional: terms that no chunk of any collection contains.
+#
+# [[question.evidence]] (all but unanswerable): the same format and rules as in
+# evals/retrieval_gold.toml (doc_id, section, page for PDFs only, quote). Several blocks are
+# alternatives; any one answers the question.
+
+# --- answerable -------------------------------------------------------------------------
+
+[[question]]
+id = "T01"
+question = "Jaka jest temperatura zapłonu acetonu Borvida?"
+language = "pl"
+category = "answerable"
+expected_answer = "The flash point of Borvida acetone is -17 °C."
+notes = "What is the flash point of Borvida acetone? First Polish question in any eval set."
+key_facts = [["-17 °C", "-17°C", "−17 °C"]]
+
+[[question.evidence]]
+doc_id = "D003"
+section = "SEKCJA 9: Właściwości fizyczne i chemiczne"
+page = 9
+quote = 'Temperatura zapłonu : -17 °C'
+
+[[question]]
+id = "T02"
+question = "Vilket signalord har BIOGON N kvävgas?"
+language = "sv"
+category = "answerable"
+expected_answer = "The signal word is 'Warning' (Swedish: Varning)."
+notes = "Which signal word does BIOGON N nitrogen have? First Swedish question. The English SDS of the same product (D001) answers it too."
+key_facts = [["Varning", "Warning"]]
+
+[[question.evidence]]
+doc_id = "D002"
+section = "AVSNITT 2: Farliga egenskaper > 2.2 Märkningsuppgifter"
+page = 2
+quote = 'Signalord: Varning'
+
+[[question.evidence]]
+doc_id = "D001"
+section = "SECTION 2: Hazards identification > 2.2 Label Elements"
+page = 2
+quote = 'Signal Words: Warning'
+
+[[question]]
+id = "T03"
+question = "Wat is het kookpunt van het witte lithiumvet MG Chemicals 8461?"
+language = "nl"
+category = "answerable"
+expected_answer = "The boiling point (initial boiling point and boiling range) is 371 °C."
+notes = "What is the boiling point of MG Chemicals 8461 white lithium grease? First Dutch question."
+key_facts = [["371 °C", "371°C"]]
+
+[[question.evidence]]
+doc_id = "D063"
+section = "RUBRIEK 9: Fysische en chemische eigenschappen"
+page = 4
+quote = 'Kookpunt of beginkookpunt en kooktraject 371 °C'
+
+[[question]]
+id = "T04"
+question = "¿Qué densidad tiene el F 80 Desengrasante?"
+language = "es"
+category = "answerable"
+expected_answer = "Its density is 0.725 kg/l at 20 °C (ASTM D 1298)."
+notes = "What is the density of F 80 Desengrasante? First Spanish question; table row in section 9."
+key_facts = [["0,725 kg/l", "0.725 kg/l", "0,725", "0.725"]]
+
+[[question.evidence]]
+doc_id = "D065"
+section = "SECCIÓN 9. Propiedades físicas y químicas"
+page = 10
+quote = '| Densidad y/o densidad relativa | 0,725 kg/l | Método:ASTM D 1298 Temperatura: 20 °C |'
+
+[[question]]
+id = "T05"
+question = "Which port does the Telegraf Siemens S7 input plugin use if none is given in the server address?"
+language = "en"
+category = "answerable"
+expected_answer = "It defaults to port 102."
+notes = "Markdown README; the answer sits in a comment of the configuration example."
+key_facts = [["102"]]
+
+[[question.evidence]]
+doc_id = "D077"
+section = "Siemens S7 Input Plugin > Configuration"
+quote = '## The server is in the <host>[:port] format where the port defaults to 102'
+
+[[question]]
+id = "T06"
+question = "From how many employees must a COSHH risk assessment be written down?"
+language = "en"
+category = "answerable"
+expected_answer = "With 5 or more employees the assessment must be recorded; with fewer it is still sensible to write down the steps taken."
+notes = "HTML guidance (HSE)."
+key_facts = [["5 or more", "five or more"]]
+
+[[question.evidence]]
+doc_id = "D070"
+section = "How to carry out a COSHH risk assessment > Control the risks > Record your findings"
+quote = 'If you have 5 or more employees, you must record your assessment'
+
+[[question]]
+id = "T07"
+question = "Wie lange müssen Produktions-, Kontroll- und Vertriebsaufzeichnungen einer Wirkstoffcharge nach EU-GMP Teil II aufbewahrt werden?"
+language = "de"
+category = "answerable"
+expected_answer = "At least 1 year after the expiry date of the batch; for APIs with retest dates, at least 3 years after the batch is completely distributed."
+notes = "How long must production, control and distribution records of an API batch be kept under EU GMP Part II? German question on an English PDF; two facts."
+key_facts = [
+    ["1 year", "one year", "1 Jahr", "ein Jahr", "einem Jahr"],
+    ["3 years", "three years", "3 Jahre", "drei Jahre"],
+]
+
+[[question.evidence]]
+doc_id = "D029"
+section = "6 Documentation and Records > 6.1 Documentation System and Specifications"
+page = 16
+quote = '6.13 All production, control, and distribution records should be retained for at least 1 year after the expiry date of the batch. For APIs with retest dates, records should be retained for at least 3 years after the batch is completely distributed.'
+
+[[question]]
+id = "T08"
+question = "У який строк потрібно завершити остаточний ремонт засобів контролю зливових вод за MSGP 2021?"
+language = "uk"
+category = "answerable"
+expected_answer = "As soon as feasible but no later than 14 days; if that is infeasible, within 45 days."
+notes = "Within what time must final repairs of stormwater controls be completed under the 2021 MSGP? DOCX template; only D073 states the deadline."
+key_facts = [
+    ["14 days", "14 днів", "14 дн", "14-денн"],
+    ["45 days", "45 днів", "45 дн", "45-денн"],
+]
+
+[[question.evidence]]
+doc_id = "D073"
+section = "B. Maintenance"
+quote = 'final repair/replacements of stormwater controls should be completed as soon as feasible but no later than 14 days, or if that is infeasible within 45 days.'
+
+# --- similar_doc ------------------------------------------------------------------------
+
+[[question]]
+id = "T09"
+question = "How thick are the wafers of NIST SRM 612?"
+language = "en"
+category = "similar_doc"
+expected_answer = "The four wafers of SRM 612 are sliced to 3 mm thickness."
+notes = "Sibling trap: the SRM 613 sheet (D011) is word for word the same except 1 mm."
+key_facts = [["3 mm"]]
+forbidden_facts = [["1 mm"]]
+wrong_docs = ["D011"]
+
+[[question.evidence]]
+doc_id = "D045"
+section = "Product Identifier"
+page = 1
+quote = 'A unit of SRM 612 consists of four wafers, sliced to 3 mm thickness from a hand-pulled rod.'
+
+[[question]]
+id = "T10"
+question = "Який діапазон температури плавлення поліетилену OE5318I?"
+language = "uk"
+category = "similar_doc"
+expected_answer = "The melting point/range of OE5318I is 60 - 110 °C."
+notes = "What is the melting range of OE5318I polyethylene? Sibling trap: the Borealis sheet for BorSafe HE3495-LS-H (D040) has the same layout with 100 - 140 °C."
+key_facts = [["60 - 110 °C", "60-110 °C", "60 – 110 °C", "60–110 °C", "60 to 110 °C", "60 до 110 °C"]]
+forbidden_facts = [["100 – 140 °C", "100 - 140 °C", "100-140 °C", "100–140 °C"]]
+wrong_docs = ["D040"]
+
+[[question.evidence]]
+doc_id = "D041"
+section = "9. Physical and chemical properties"
+page = 2
+quote = 'Melting point/ range: 60 - 110 °C'
+
+[[question]]
+id = "T11"
+question = "Quel est le point d'ébullition de l'antigel LAUDA LZB 125 ?"
+language = "fr"
+category = "similar_doc"
+expected_answer = "The initial boiling point is approximately 165 °C (ASTM D 1120)."
+notes = "What is the boiling point of LAUDA LZB 125 antifreeze? Sibling trap: the ROWE antifreeze coolant (D052) gives 108 °C."
+key_facts = [["165 °C", "165°C"]]
+forbidden_facts = [["108 °C", "108°C"]]
+wrong_docs = ["D052"]
+
+[[question.evidence]]
+doc_id = "D053"
+section = "SECTION 9: Physical and chemical properties"
+page = 5
+quote = '| Initial boiling point and boiling range: | approx. 165 °C (ASTM D 1120) |'
+
+[[question]]
+id = "T12"
+question = "What is the flash point of CRC Brakleen Brake Parts Cleaner in the 55 gallon drum?"
+language = "en"
+category = "similar_doc"
+expected_answer = "It has no flash point ('Flash point: None')."
+notes = "Sibling trap: the Spanish CRC Brakleen SDS (D064) is a flammable formulation with -9.0 °C. The right answer is a negative statement, not 'not in the documents'."
+key_facts = [["None", "no flash point", "not have a flash point"]]
+forbidden_facts = [["-9.0 °C", "-9 °C", "15.8 °F"]]
+wrong_docs = ["D064"]
+
+[[question.evidence]]
+doc_id = "D056"
+section = "SECTION 9: Physical and chemical properties"
+page = 6
+quote = '| Flash point | : None |'
+
+[[question]]
+id = "T13"
+question = "Welche Dichte hat der Kärcher Stein- und Fassadenreiniger RM 611 bei 20 °C?"
+language = "de"
+category = "similar_doc"
+expected_answer = "1.011 g/cm³ at 20 °C."
+notes = "What is the density of Kärcher stone and facade cleaner RM 611 at 20 °C? Sibling trap: the Kärcher facade cleaner gel RM 43 (D046) gives 1.153 g/cm³."
+key_facts = [["1,011 g/cm³", "1.011 g/cm³", "1,011", "1.011"]]
+forbidden_facts = [["1.153", "1,153"]]
+wrong_docs = ["D046"]
+
+[[question.evidence]]
+doc_id = "D037"
+section = "ABSCHNITT 9: Physikalische und chemische Eigenschaften"
+page = 5
+quote = '| Dichte bei 20 °C: | 1,011 g/cm³ |'
+
+# --- outdated_version -------------------------------------------------------------------
+
+[[question]]
+id = "T14"
+question = "By what date must manufacturers evaluating substances comply with the modified provisions of OSHA's Hazard Communication Standard?"
+language = "en"
+category = "outdated_version"
+expected_answer = "No later than May 19, 2026 (current 29 CFR 1910.1200(j))."
+notes = "The pre-2024 text (D066) has June 1, 2015 for its own modified provisions."
+key_facts = [["May 19, 2026", "19 May 2026"]]
+forbidden_facts = [["June 1, 2015", "1 June 2015"]]
+wrong_docs = ["D066"]
+
+[[question.evidence]]
+doc_id = "D067"
+section = "§ 1910.1200 Hazard communication. > (j) Dates"
+quote = '(i) Manufacturers, importers, and distributors, evaluating substances shall be in compliance with all modified provisions of this section no later than May 19, 2026.'
+
+[[question]]
+id = "T15"
+question = "How does OSHA's Hazard Communication Standard define combustible dust?"
+language = "en"
+category = "outdated_version"
+expected_answer = "Finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media."
+notes = "Only the current text (D067) has the definition; the old one (D066) names combustible dust as a hazard but does not define it."
+key_facts = [["finely divided solid particulates"], ["flash-fire"]]
+wrong_docs = ["D066"]
+
+[[question.evidence]]
+doc_id = "D067"
+section = "§ 1910.1200 Hazard communication. > (c) Definitions"
+quote = 'Combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media.'
+
+[[question]]
+id = "T16"
+question = "Welche Gleitkomma-Datentypen unterstützt das Telegraf-Modbus-Plugin?"
+language = "de"
+category = "outdated_version"
+expected_answer = "FLOAT16-IEEE, FLOAT32-IEEE and FLOAT64-IEEE."
+notes = "Which floating-point data types does the Telegraf Modbus plugin support? v1.20.0 (D074) lacks FLOAT16-IEEE, so an answer from it misses one key fact."
+key_facts = [["FLOAT16-IEEE", "FLOAT16"], ["FLOAT32-IEEE", "FLOAT32"], ["FLOAT64-IEEE", "FLOAT64"]]
+wrong_docs = ["D074"]
+
+[[question.evidence]]
+doc_id = "D075"
+section = "Modbus Input Plugin > Configuration styles > `register` configuration style > Usage of `data_type`"
+quote = 'Floating Point: `FLOAT16-IEEE`, `FLOAT32-IEEE`, `FLOAT64-IEEE`'
+
+[[question]]
+id = "T17"
+question = "Which setting selects the configuration style of the Telegraf Modbus input plugin?"
+language = "en"
+category = "outdated_version"
+expected_answer = "The `configuration_type` setting; the styles cannot be mixed."
+notes = "v1.20.0 (D074) has a single style and no such setting."
+key_facts = [["configuration_type"]]
+wrong_docs = ["D074"]
+
+[[question.evidence]]
+doc_id = "D075"
+section = "Modbus Input Plugin > Configuration styles"
+quote = 'The modbus plugin supports multiple configuration styles that can be set using the `configuration_type` setting.'
+
+[[question]]
+id = "T18"
+question = "На яку частину MSGP посилається шаблон SWPPP в інструкціях до розділу про команду із запобігання забрудненню зливовими водами?"
+language = "uk"
+category = "outdated_version"
+expected_answer = "Part 6.2.1 of the 2021 MSGP."
+notes = "Which MSGP part do the SWPPP template's instructions for the stormwater pollution prevention team cite? The 2015 template (D071) cites Part 5.2.1."
+key_facts = [["6.2.1"]]
+forbidden_facts = [["5.2.1"]]
+wrong_docs = ["D071"]
+
+[[question.evidence]]
+doc_id = "D072"
+section = "FACILITY DESCRIPTION AND CONTACT INFORMATION > Stormwater Pollution Prevention Team."
+quote = 'Instructions (see 2021 MSGP Part 6.2.1):'
+
+# --- unanswerable -----------------------------------------------------------------------
+
+[[question]]
+id = "T19"
+question = "How thick are the wafers of NIST SRM 614?"
+language = "en"
+category = "unanswerable"
+expected_answer = "Not in the documents: only SRM 612 and SRM 613 have sheets."
+notes = "Near miss, sibling product; pairs with T09."
+absent_terms = ["SRM 614"]
+
+[[question]]
+id = "T20"
+question = "Яку максимальну температуру рідини допускають насоси Grundfos TPE Series 1000?"
+language = "uk"
+category = "unanswerable"
+expected_answer = "Not in the documents: the manual covers TPE/TPED Series 2000 only."
+notes = "What maximum liquid temperature do Grundfos TPE Series 1000 pumps allow? Near miss, sibling product series."
+absent_terms = ["Series 1000"]
+
+[[question]]
+id = "T21"
+question = "Welche Schmelzflussrate hat das Polypropylen BE60?"
+language = "de"
+category = "unanswerable"
+expected_answer = "Not in the documents: only polypropylene BE55 has a data sheet."
+notes = "What is the melt flow rate of polypropylene BE60? Near miss, sibling grade of BE55 (D025)."
+absent_terms = ["BE60"]
+
+[[question]]
+id = "T22"
+question = "Quale livello di QoS usa di default il plugin MQTT consumer di Telegraf?"
+language = "it"
+category = "unanswerable"
+expected_answer = "Not in the documents: the corpus has the Telegraf Modbus, OPC UA and Siemens S7 plugins only."
+notes = "Which QoS level does the Telegraf MQTT consumer plugin use by default? Near miss: same product family, no document."
+absent_terms = ["MQTT"]
+
+[[question]]
+id = "T23"
+question = "¿Cómo se prepara una paella valenciana?"
+language = "es"
+category = "unanswerable"
+expected_answer = "Not in the documents."
+notes = "How do you make a Valencian paella? Off topic."
+
+[[question]]
+id = "T24"
+question = "Kto napisał „Pana Tadeusza”?"
+language = "pl"
+category = "unanswerable"
+expected_answer = "Not in the documents."
+notes = "Who wrote 'Pan Tadeusz'? Off topic."

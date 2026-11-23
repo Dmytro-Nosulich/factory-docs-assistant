@@ -1,4 +1,4 @@
-.PHONY: run samples cost run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
 # diff: every step is deterministic), the index only when stale, runs the checks and evals, then
@@ -8,7 +8,7 @@ run:
 	uv run python scripts/preflight.py
 	$(MAKE) parse clean-corpus ingest
 	uv run python scripts/build_index.py --if-stale
-	$(MAKE) retrieval-gold-check dev-questions-check section-labels
+	$(MAKE) retrieval-gold-check dev-questions-check test-set-check section-labels
 	$(MAKE) eval-retrieval eval-refusal
 	$(MAKE) samples
 	$(MAKE) cost
@@ -110,6 +110,11 @@ retrieval-gold-check:
 # quote in its document, on its page, and in a chunk of every collection (S2-14)
 dev-questions-check:
 	uv run python scripts/check_dev_questions.py
+
+# Check evals/test_set.toml: fields match each category, no dev or gold question repeated, at
+# least 20 questions in all four categories, every label grounded in the corpus (S2-16)
+test-set-check:
+	uv run python scripts/check_test_set.py
 
 # Recall@k and MRR of every setup in [retrieval_eval] on both chunkings, for the retrieval gold
 # set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)

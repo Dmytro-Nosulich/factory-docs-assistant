@@ -107,7 +107,9 @@ Per question: [evals/results/cost.md](evals/results/cost.md).
 <!-- cost:end -->
 
 ## Answer metrics
-Not measured yet.
+**Test set (S2-16).** `evals/test_set.toml` holds 24 questions for the answer scorers (S2-17 to S2-20): 8 answerable, 5 similar-document traps (a sibling document gives a similar value, e.g. NIST SRM 612 against 613), 5 outdated-version traps on the three old/new pairs (the current text is right, the superseded one wrong) and 6 unanswerable (4 near misses, 2 off-topic). Languages: en 8, de 4, uk 4, pl 2, es 2, sv 1, nl 1, fr 1, it 1. Each answerable question has evidence in the gold-set format and key facts, each traced to an evidence quote. Traps name the documents whose citation is wrong. All 24 questions and their expected answers were drafted by Claude at the user's request and reviewed by the user. They repeat no development or gold-set question, and nothing is tuned on them. `make test-set-check` checks every label against the corpus (rules in docs/METRICS.md).
+
+Answer scores: not measured yet.
 
 ## Error analysis
 Not written yet.
