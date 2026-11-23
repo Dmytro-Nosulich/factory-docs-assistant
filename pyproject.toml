@@ -29,6 +29,7 @@ select = ["E", "F", "I", "UP", "B"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]  # so tests can import evals.scorers (S2-17)
 
 [dependency-groups]
 dev = [
