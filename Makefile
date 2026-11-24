@@ -1,4 +1,4 @@
-.PHONY: run samples cost eval judge eval-gate calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost eval judge eval-gate answer-errors report-summary calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
 # diff: every step is deterministic), the index only when stale, runs the checks and evals, then
@@ -13,6 +13,7 @@ run:
 	$(MAKE) eval-retrieval eval-refusal eval
 	$(MAKE) samples
 	$(MAKE) cost
+	$(MAKE) report-summary
 	$(MAKE) eval-gate
 
 # Answer the [run] sample_questions of config.toml like `make ask` and print them (S2-15)
@@ -23,6 +24,7 @@ samples:
 # evals/results/cost.md and the cost section of REPORT.md (S2-15)
 cost:
 	uv run python scripts/cost_report.py
+	$(MAKE) report-summary
 
 MODEL ?=
 SAMPLING ?=
@@ -122,6 +124,7 @@ test-set-check:
 # set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)
 eval-retrieval:
 	uv run python scripts/eval_retrieval.py
+	$(MAKE) report-summary
 
 # "I don't know" on evals/dev_questions.toml: every [refusal_eval] prompt version with the score
 # gate off, the gate threshold by the rule in docs/METRICS.md; writes evals/results/refusal.*
@@ -135,17 +138,32 @@ eval-refusal:
 # Calls the [answer] and [judge] models, under the stage 2 budget guard (S2-18)
 eval:
 	PYTHONPATH=. uv run python scripts/eval_answers.py
+	$(MAKE) report-summary
 
 # Only the judges, on the answers of a saved run: make judge RUN=evals/results/runs/<time>.json
 # (a new run file names the run its answers come from; S2-18)
 judge:
 	PYTHONPATH=. uv run python scripts/eval_answers.py --judge $(RUN)
+	$(MAKE) report-summary
 
 # Fail when the retrieval results or the latest test-set run are below a threshold in
 # config.toml [eval_gate]; no model calls (S2-20). The latest run must be from the checked-out
 # commit; RUN=<run file> checks that run instead: make eval-gate RUN=evals/results/runs/<time>.json
 eval-gate:
 	PYTHONPATH=. uv run python scripts/eval_gate.py $(if $(RUN),--run $(RUN))
+
+# "Results at a glance" at the top of REPORT.md, copied from the saved results; no model calls
+# (S2-21). Runs after every target that rewrites a section it copies from.
+report-summary:
+	PYTHONPATH=. uv run python scripts/report_summary.py
+
+# Every test-set error of a run, for the error analysis in REPORT.md; no model calls, no files
+# written (S2-21). RUN=<run file> (default: the latest), GATE_OFF=<answers> (default: the S2-19
+# calibration answers, the same questions with the score gate off)
+GATE_OFF ?=
+answer-errors:
+	PYTHONPATH=. uv run python scripts/answer_errors.py $(if $(RUN),--run $(RUN)) \
+		$(if $(GATE_OFF),--gate-off $(GATE_OFF))
 
 # Judge calibration, step 1 (S2-19): answer the test set like `make ask` with the score gate off
 # and save the answers with no judge call; writes evals/results/calibration/answers.json, the
@@ -160,6 +178,7 @@ calibration-answers:
 # `PYTHONPATH=. uv run python scripts/calibrate_judge.py --report` rebuilds them without models.
 calibrate-judge:
 	PYTHONPATH=. uv run python scripts/calibrate_judge.py
+	$(MAKE) report-summary
 
 # Do chunk section labels name the section of their text? Gold set and whole corpus, no models;
 # writes evals/results/section_labels.md and the chunking table in README.md (S2-12)
