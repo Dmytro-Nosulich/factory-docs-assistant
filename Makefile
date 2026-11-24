@@ -1,4 +1,4 @@
-.PHONY: run samples cost eval judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost eval judge calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
 # diff: every step is deterministic), the index only when stale, runs the checks and evals, then
@@ -138,6 +138,20 @@ eval:
 # (a new run file names the run its answers come from; S2-18)
 judge:
 	PYTHONPATH=. uv run python scripts/eval_answers.py --judge $(RUN)
+
+# Judge calibration, step 1 (S2-19): answer the test set like `make ask` with the score gate off
+# and save the answers with no judge call; writes evals/results/calibration/answers.json, the
+# blind grading sheet evals/results/calibration/sheet.md and evals/judge_grades.toml to fill in.
+# Calls the [answer] model, under the stage 2 budget guard. Refuses to overwrite saved answers.
+calibration-answers:
+	PYTHONPATH=. uv run python scripts/calibrate_judge.py --answers
+
+# Judge calibration, step 2 (S2-19): once every answer in evals/judge_grades.toml has a hand
+# grade, run the quality judge 3 times per saved answer and report the agreement; writes
+# evals/results/calibration.json, calibration.md and the calibration section of REPORT.md.
+# `PYTHONPATH=. uv run python scripts/calibrate_judge.py --report` rebuilds them without models.
+calibrate-judge:
+	PYTHONPATH=. uv run python scripts/calibrate_judge.py
 
 # Do chunk section labels name the section of their text? Gold set and whole corpus, no models;
 # writes evals/results/section_labels.md and the chunking table in README.md (S2-12)

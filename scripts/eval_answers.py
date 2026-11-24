@@ -125,8 +125,11 @@ def write_run(path: Path, run: dict) -> None:
     path.write_text(json.dumps(run, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def answer_all(config: Config, questions: list[TestQuestion], spent: float) -> tuple[dict, list]:
-    """Retrieve and answer every question like `make ask`; (answer settings, rows)."""
+def answer_all(
+    config: Config, questions: list[TestQuestion], spent: float, gate: bool = True
+) -> tuple[dict, list]:
+    """Retrieve and answer every question like `make ask`; (answer settings, rows).
+    gate=False answers every question, whatever its top score (S2-19 calibration answers)."""
     settings = config.answer
     try:
         with open_retriever(config) as retriever:
@@ -144,7 +147,9 @@ def answer_all(config: Config, questions: list[TestQuestion], spent: float) -> t
         for q in questions:
             print(f"answer {q.id} ...", flush=True)
             try:
-                record = answer_question(q.question, hits[q.id], client, config, spent, retrieval)
+                record = answer_question(
+                    q.question, hits[q.id], client, config, spent, retrieval, gate=gate
+                )
             except BudgetExceeded as e:
                 raise SystemExit(f"Budget guard: {e}") from e
             path = save_record(record)
@@ -167,7 +172,7 @@ def answer_all(config: Config, questions: list[TestQuestion], spent: float) -> t
         "rerank_candidates": retrieval["rerank_candidates"],
         "k": settings.k,
         "max_context_tokens": settings.max_context_tokens,
-        "min_rerank_score": settings.min_rerank_score,
+        "min_rerank_score": settings.min_rerank_score if gate else None,
     }
     return answer_settings, rows
 

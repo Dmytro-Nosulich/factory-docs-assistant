@@ -1,0 +1,992 @@
+{
+  "created_at": "2026-11-23T22:43:58+00:00",
+  "machine": {
+    "platform": "macOS-26.7.3-arm64-arm-64bit"
+  },
+  "git": {
+    "commit": "baefa34b56477a53a48335007eb0c5fa0f42efc2",
+    "dirty": true
+  },
+  "purpose": "S2-19 judge calibration: answers for blind hand grading, score gate off",
+  "test_set": {
+    "path": "evals/test_set.toml",
+    "sha256": "c9ab6a841165fbb0ac115b87859c6ce03b1e07fce4004b127af3c4b2bb8ed388"
+  },
+  "chunks": {
+    "path": "data/chunks/chunks.jsonl",
+    "sha256": "9ed48745a0fc040047f78cd7e61ed04f688986bcabd73a270f512e6c06d23186"
+  },
+  "settings": {
+    "answer": {
+      "model": "haiku-5.5",
+      "slug": "anthropic/claude-haiku-5.5",
+      "prompt": {
+        "name": "answer",
+        "version": "v2",
+        "sha256": "050a14e395df"
+      },
+      "repair_prompt": {
+        "name": "answer_repair",
+        "version": "v1",
+        "sha256": "b534ac14d4a5"
+      },
+      "collection": "structure",
+      "mode": "hybrid",
+      "embedding_model": "google/embeddinggemma-300m",
+      "reranker": "BAAI/bge-reranker-v2-m3-int8",
+      "rerank_candidates": 30,
+      "k": 10,
+      "max_context_tokens": 4000,
+      "min_rerank_score": null,
+      "gate": false
+    }
+  },
+  "questions": [
+    {
+      "id": "T01",
+      "question": "Jaka jest temperatura zapłonu acetonu Borvida?",
+      "language": "pl",
+      "category": "answerable",
+      "top_score": -1.8736873865127563,
+      "sent": [
+        "D003-s-0017",
+        "D042-s-0007",
+        "D003-s-0014",
+        "D056-s-0017",
+        "D003-s-0015",
+        "D048-s-0012",
+        "D065-s-0022",
+        "D003-s-0023",
+        "D064-s-0019",
+        "D003-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Temperatura zapłonu acetonu Borvida wynosi -17 °C (wersja karty v18.0, 2024-08-07).",
+            "citations": [
+              {
+                "chunk_id": "D003-s-0017",
+                "quote": "Temperatura zapłonu : -17 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009539,
+      "prompt_tokens": 8954,
+      "completion_tokens": 117,
+      "total_s": 2.095,
+      "record": "results/answers/20261123T224316Z.json",
+      "errors": []
+    },
+    {
+      "id": "T02",
+      "question": "Vilket signalord har BIOGON N kvävgas?",
+      "language": "sv",
+      "category": "answerable",
+      "top_score": -1.6423661708831787,
+      "sent": [
+        "D002-s-0005",
+        "D026-s-0005",
+        "D044-s-0002",
+        "D002-s-0001",
+        "D001-s-0001",
+        "D001-s-0004",
+        "D002-s-0003",
+        "D039-s-0004",
+        "D002-s-0020",
+        "D039-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Signalordet för BIOGON N kvävgas (Nitrogen, komprimerad) är \"Varning\".",
+            "citations": [
+              {
+                "chunk_id": "D002-s-0003",
+                "quote": "Signalord: Varning"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008962,
+      "prompt_tokens": 8452,
+      "completion_tokens": 102,
+      "total_s": 2.114,
+      "record": "results/answers/20261123T224318Z.json",
+      "errors": []
+    },
+    {
+      "id": "T03",
+      "question": "Wat is het kookpunt van het witte lithiumvet MG Chemicals 8461?",
+      "language": "nl",
+      "category": "answerable",
+      "top_score": 0.18707557022571564,
+      "sent": [
+        "D063-s-0010",
+        "D062-s-0014",
+        "D063-s-0000",
+        "D002-s-0013",
+        "D052-s-0012",
+        "D054-s-0019",
+        "D053-s-0010",
+        "D050-s-0016",
+        "D049-s-0031",
+        "D039-s-0013"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Het kookpunt van het witte lithiumvet MG Chemicals 8461 is 371 °C (versie 5.00, 2025-06-26).",
+            "citations": [
+              {
+                "chunk_id": "D063-s-0010",
+                "quote": "Kookpunt of beginkookpunt en kooktraject 371 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009999,
+      "prompt_tokens": 9349,
+      "completion_tokens": 130,
+      "total_s": 1.902,
+      "record": "results/answers/20261123T224320Z.json",
+      "errors": []
+    },
+    {
+      "id": "T04",
+      "question": "¿Qué densidad tiene el F 80 Desengrasante?",
+      "language": "es",
+      "category": "answerable",
+      "top_score": -2.8384969234466553,
+      "sent": [
+        "D065-s-0001",
+        "D059-s-0021",
+        "D065-s-0022",
+        "D060-s-0017",
+        "D056-s-0017",
+        "D065-s-0000",
+        "D054-s-0019",
+        "D047-s-0009",
+        "D046-s-0009",
+        "D064-s-0019"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "La densidad del F 80 Desengrasante es 0,725 kg/l a 20 °C (método ASTM D 1298), según la versión más reciente de la ficha (rev 11, 2022-11-08).",
+            "citations": [
+              {
+                "chunk_id": "D065-s-0022",
+                "quote": "Densidad y/o densidad relativa | 0,725 kg/l | Método:ASTM D 1298 Temperatura: 20 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009073,
+      "prompt_tokens": 8218,
+      "completion_tokens": 171,
+      "total_s": 1.598,
+      "record": "results/answers/20261123T224321Z.json",
+      "errors": []
+    },
+    {
+      "id": "T05",
+      "question": "Which port does the Telegraf Siemens S7 input plugin use if none is given in the server address?",
+      "language": "en",
+      "category": "answerable",
+      "top_score": 1.8916584253311157,
+      "sent": [
+        "D077-s-0001",
+        "D077-s-0002",
+        "D076-s-0007",
+        "D077-s-0000",
+        "D076-s-0002",
+        "D074-s-0001",
+        "D076-s-0000",
+        "D075-s-0000",
+        "D075-s-0012",
+        "D076-s-0018"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "If no port is given in the server address, the Telegraf Siemens S7 input plugin uses port 102.",
+            "citations": [
+              {
+                "chunk_id": "D077-s-0001",
+                "quote": "the port defaults to 102"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007911,
+      "prompt_tokens": 7431,
+      "completion_tokens": 96,
+      "total_s": 1.235,
+      "record": "results/answers/20261123T224323Z.json",
+      "errors": []
+    },
+    {
+      "id": "T06",
+      "question": "From how many employees must a COSHH risk assessment be written down?",
+      "language": "en",
+      "category": "answerable",
+      "top_score": 0.23358848690986633,
+      "sent": [
+        "D070-s-0006",
+        "D070-s-0000",
+        "D070-s-0007",
+        "D067-s-0021",
+        "D066-s-0018",
+        "D030-s-0003",
+        "D066-s-0001",
+        "D067-s-0001",
+        "D066-s-0030",
+        "D067-s-0034"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "A COSHH risk assessment must be recorded if you have 5 or more employees.",
+            "citations": [
+              {
+                "chunk_id": "D070-s-0006",
+                "quote": "If you have 5 or more employees, you must record your assessment"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007414,
+      "prompt_tokens": 6919,
+      "completion_tokens": 99,
+      "total_s": 1.516,
+      "record": "results/answers/20261123T224324Z.json",
+      "errors": []
+    },
+    {
+      "id": "T07",
+      "question": "Wie lange müssen Produktions-, Kontroll- und Vertriebsaufzeichnungen einer Wirkstoffcharge nach EU-GMP Teil II aufbewahrt werden?",
+      "language": "de",
+      "category": "answerable",
+      "top_score": -0.3868192136287689,
+      "sent": [
+        "D029-s-0056",
+        "D029-s-0089",
+        "D029-s-0061",
+        "D029-s-0126",
+        "D029-s-0007",
+        "D029-s-0079",
+        "D029-s-0057",
+        "D029-s-0064",
+        "D029-s-0015",
+        "D029-s-0125"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Produktions-, Kontroll- und Vertriebsaufzeichnungen sind mindestens 1 Jahr nach dem Verfallsdatum der Charge aufzubewahren; bei Wirkstoffen mit Retest-Datum mindestens 3 Jahre nach vollständiger Vertriebsverteilung der Charge.",
+            "citations": [
+              {
+                "chunk_id": "D029-s-0056",
+                "quote": "All production, control, and distribution records should be retained for at least 1\nyear after the expiry date of the batch."
+              },
+              {
+                "chunk_id": "D029-s-0056",
+                "quote": "For APIs with retest dates, records should be\nretained for at least 3 years after the batch is completely distributed."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008168,
+      "prompt_tokens": 6863,
+      "completion_tokens": 261,
+      "total_s": 1.634,
+      "record": "results/answers/20261123T224326Z.json",
+      "errors": []
+    },
+    {
+      "id": "T08",
+      "question": "У який строк потрібно завершити остаточний ремонт засобів контролю зливових вод за MSGP 2021?",
+      "language": "uk",
+      "category": "answerable",
+      "top_score": -0.3337480127811432,
+      "sent": [
+        "D073-s-0086",
+        "D072-s-0043",
+        "D073-s-0007",
+        "D073-s-0000",
+        "D073-s-0003",
+        "D072-s-0054",
+        "D072-s-0040",
+        "D073-s-0008",
+        "D072-s-0047",
+        "D072-s-0000"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Остаточний ремонт або заміну засобів контролю зливових вод слід завершити якомога швидше, але не пізніше 14 днів; якщо це неможливо, то протягом 45 днів.",
+            "citations": [
+              {
+                "chunk_id": "D073-s-0007",
+                "quote": "final repair/replacements of stormwater controls should be completed as soon as feasible but no later than 14 days, or if that is infeasible within 45 days."
+              }
+            ]
+          },
+          {
+            "text": "До того як остаточний ремонт або заміну буде виконано, потрібно негайно вжити всіх розумних заходів для запобігання або мінімізації скидання забруднювачів.",
+            "citations": [
+              {
+                "chunk_id": "D073-s-0007",
+                "quote": "you are required to immediately take all reasonable steps to prevent or minimize the discharge of pollutants until the final repair or replacement is implemented."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0009283,
+      "prompt_tokens": 7733,
+      "completion_tokens": 310,
+      "total_s": 2.674,
+      "record": "results/answers/20261123T224328Z.json",
+      "errors": []
+    },
+    {
+      "id": "T09",
+      "question": "How thick are the wafers of NIST SRM 612?",
+      "language": "en",
+      "category": "similar_doc",
+      "top_score": 4.5084686279296875,
+      "sent": [
+        "D045-s-0001",
+        "D011-s-0001",
+        "D013-s-0001",
+        "D011-s-0002",
+        "D045-s-0002",
+        "D001-s-0013",
+        "D042-s-0003",
+        "D012-s-0001",
+        "D013-s-0002",
+        "D012-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "The wafers of NIST SRM 612 are sliced to 3 mm thickness from a hand-pulled rod.",
+            "citations": [
+              {
+                "chunk_id": "D045-s-0001",
+                "quote": "sliced to 3 mm thickness from a hand-pulled rod"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008042,
+      "prompt_tokens": 7467,
+      "completion_tokens": 115,
+      "total_s": 1.356,
+      "record": "results/answers/20261123T224330Z.json",
+      "errors": []
+    },
+    {
+      "id": "T10",
+      "question": "Який діапазон температури плавлення поліетилену OE5318I?",
+      "language": "uk",
+      "category": "similar_doc",
+      "top_score": -0.5890240669250488,
+      "sent": [
+        "D041-s-0009",
+        "D040-s-0010",
+        "D008-s-0015",
+        "D010-s-0009",
+        "D035-s-0014",
+        "D007-s-0011",
+        "D056-s-0017",
+        "D054-s-0019",
+        "D032-s-0010",
+        "D036-s-0015"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Температура плавлення поліетилену OE5318I становить 60 - 110 °C (Ed. 4, 2025-10-16).",
+            "citations": [
+              {
+                "chunk_id": "D041-s-0009",
+                "quote": "Melting point/ range: 60 - 110 °C"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008971,
+      "prompt_tokens": 8391,
+      "completion_tokens": 116,
+      "total_s": 1.379,
+      "record": "results/answers/20261123T224331Z.json",
+      "errors": []
+    },
+    {
+      "id": "T11",
+      "question": "Quel est le point d'ébullition de l'antigel LAUDA LZB 125 ?",
+      "language": "fr",
+      "category": "similar_doc",
+      "top_score": -0.6869014501571655,
+      "sent": [
+        "D060-s-0016",
+        "D056-s-0017",
+        "D054-s-0019",
+        "D059-s-0020",
+        "D065-s-0022",
+        "D043-s-0002",
+        "D052-s-0012",
+        "D040-s-0010",
+        "D050-s-0016",
+        "D053-s-0010"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Le contexte ne donne pas le point d'ébullition de l'antigel LAUDA LZB 125. La seule fiche LAUDA présente (LAUDA Antifreeze LZB x25) indique un point d'ébullition initial d'environ 165 °C, mais il s'agit d'un autre produit (LZB x25, et non LZB 125)."
+      },
+      "cost_usd": 0.0008828,
+      "prompt_tokens": 8113,
+      "completion_tokens": 143,
+      "total_s": 2.28,
+      "record": "results/answers/20261123T224333Z.json",
+      "errors": []
+    },
+    {
+      "id": "T12",
+      "question": "What is the flash point of CRC Brakleen Brake Parts Cleaner in the 55 gallon drum?",
+      "language": "en",
+      "category": "similar_doc",
+      "top_score": -1.6451009511947632,
+      "sent": [
+        "D056-s-0001",
+        "D052-s-0012",
+        "D056-s-0000",
+        "D050-s-0016",
+        "D048-s-0012",
+        "D053-s-0010",
+        "D057-s-0011",
+        "D001-s-0013",
+        "D066-s-0195",
+        "D056-s-0017"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "The context gives no flash point for the CRC Brakleen Brake Parts Cleaner 55 Gal. Its Section 9 lists the flash point as \"None\", and no other chunk gives a flash point value for this product."
+      },
+      "cost_usd": 0.0008129,
+      "prompt_tokens": 7649,
+      "completion_tokens": 96,
+      "total_s": 1.842,
+      "record": "results/answers/20261123T224335Z.json",
+      "errors": []
+    },
+    {
+      "id": "T13",
+      "question": "Welche Dichte hat der Kärcher Stein- und Fassadenreiniger RM 611 bei 20 °C?",
+      "language": "de",
+      "category": "similar_doc",
+      "top_score": 0.8084095120429993,
+      "sent": [
+        "D037-s-0009",
+        "D033-s-0012",
+        "D046-s-0009",
+        "D053-s-0010",
+        "D034-s-0008",
+        "D059-s-0021",
+        "D065-s-0022",
+        "D042-s-0001",
+        "D038-s-0011",
+        "D037-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Die Dichte des Kärcher Stein- und Fassadenreiniger 3-in-1 RM 611 beträgt bei 20 °C 1,011 g/cm³ (neueste Version v5, 2025-06-16).",
+            "citations": [
+              {
+                "chunk_id": "D037-s-0009",
+                "quote": "Dichte bei 20 °C: | 1,011 g/cm³"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0010042,
+      "prompt_tokens": 9267,
+      "completion_tokens": 155,
+      "total_s": 1.502,
+      "record": "results/answers/20261123T224337Z.json",
+      "errors": []
+    },
+    {
+      "id": "T14",
+      "question": "By what date must manufacturers evaluating substances comply with the modified provisions of OSHA's Hazard Communication Standard?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 5.722959518432617,
+      "sent": [
+        "D067-s-0045",
+        "D066-s-0040",
+        "D067-s-0146",
+        "D066-s-0114",
+        "D067-s-0046",
+        "D012-s-0001",
+        "D045-s-0001",
+        "D011-s-0001",
+        "D067-s-0001",
+        "D066-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Manufacturers, importers, and distributors evaluating substances must be in compliance with all modified provisions of the Hazard Communication Standard no later than May 19, 2026 (this is the current text, which supersedes the 2024 version).",
+            "citations": [
+              {
+                "chunk_id": "D067-s-0045",
+                "quote": "Manufacturers, importers, and distributors, evaluating substances shall be in compliance with all modified provisions of this section no later than May 19, 2026."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008032,
+      "prompt_tokens": 7142,
+      "completion_tokens": 178,
+      "total_s": 1.664,
+      "record": "results/answers/20261123T224338Z.json",
+      "errors": []
+    },
+    {
+      "id": "T15",
+      "question": "How does OSHA's Hazard Communication Standard define combustible dust?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 1.380900502204895,
+      "sent": [
+        "D012-s-0001",
+        "D013-s-0001",
+        "D011-s-0001",
+        "D045-s-0001",
+        "D067-s-0009",
+        "D066-s-0012",
+        "D067-s-0011",
+        "D066-s-0030",
+        "D067-s-0034",
+        "D058-s-0006"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Under the current text of 29 CFR 1910.1200 (as of 2026-11-02, which supersedes the earlier version), combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media.",
+            "citations": [
+              {
+                "chunk_id": "D067-s-0009",
+                "quote": "Combustible dust means finely divided solid particulates of a substance or mixture that pose a flash-fire hazard or explosion hazard when dispersed in air or other oxidizing media."
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008631,
+      "prompt_tokens": 7571,
+      "completion_tokens": 212,
+      "total_s": 2.22,
+      "record": "results/answers/20261123T224341Z.json",
+      "errors": []
+    },
+    {
+      "id": "T16",
+      "question": "Welche Gleitkomma-Datentypen unterstützt das Telegraf-Modbus-Plugin?",
+      "language": "de",
+      "category": "outdated_version",
+      "top_score": 0.32144948840141296,
+      "sent": [
+        "D075-s-0000",
+        "D075-s-0038",
+        "D075-s-0034",
+        "D074-s-0003",
+        "D075-s-0015",
+        "D075-s-0016",
+        "D074-s-0000",
+        "D075-s-0025",
+        "D075-s-0014",
+        "D074-s-0004"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Laut der neueren Version (v1.40.3) unterstützt das Telegraf-Modbus-Plugin die Gleitkomma-Datentypen FLOAT16, FLOAT32 und FLOAT64 für IEEE-754-Binärdarstellungen von Gleitkommawerten; FLOAT16 ist eine Half-Precision-Gleitkommazahl mit 16-Bit-Darstellung.",
+            "citations": [
+              {
+                "chunk_id": "D075-s-0034",
+                "quote": "`FLOAT16`, `FLOAT32` and `FLOAT64` for IEEE 754 binary representations of floating point values exist"
+              },
+              {
+                "chunk_id": "D075-s-0034",
+                "quote": "`FLOAT16` denotes a half-precision float with a 16-bit representation"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007848,
+      "prompt_tokens": 6383,
+      "completion_tokens": 293,
+      "total_s": 2.087,
+      "record": "results/answers/20261123T224343Z.json",
+      "errors": []
+    },
+    {
+      "id": "T17",
+      "question": "Which setting selects the configuration style of the Telegraf Modbus input plugin?",
+      "language": "en",
+      "category": "outdated_version",
+      "top_score": 3.390178680419922,
+      "sent": [
+        "D075-s-0014",
+        "D075-s-0001",
+        "D075-s-0000",
+        "D074-s-0001",
+        "D075-s-0029",
+        "D077-s-0000",
+        "D075-s-0019",
+        "D074-s-0006",
+        "D074-s-0000",
+        "D075-s-0008"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "Die Einstellung `configuration_type` wählt den Konfigurationsstil des Telegraf-Modbus-Eingabe-Plugins; laut der neueren Version v1.40.3 (2026-11-02), die D074 ersetzt, können die Stile nicht gemischt werden.",
+            "citations": [
+              {
+                "chunk_id": "D075-s-0014",
+                "quote": "can be set using the `configuration_type` setting"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0007533,
+      "prompt_tokens": 6698,
+      "completion_tokens": 167,
+      "total_s": 2.093,
+      "record": "results/answers/20261123T224345Z.json",
+      "errors": []
+    },
+    {
+      "id": "T18",
+      "question": "На яку частину MSGP посилається шаблон SWPPP в інструкціях до розділу про команду із запобігання забрудненню зливовими водами?",
+      "language": "uk",
+      "category": "outdated_version",
+      "top_score": 4.447722434997559,
+      "sent": [
+        "D072-s-0000",
+        "D071-s-0000",
+        "D073-s-0000",
+        "D072-s-0019",
+        "D071-s-0018",
+        "D073-s-0002",
+        "D072-s-0030",
+        "D071-s-0028",
+        "D072-s-0061",
+        "D072-s-0001"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "answered",
+        "claims": [
+          {
+            "text": "В інструкціях до розділу «Команда із запобігання забрудненню зливовими водами» (Stormwater Pollution Prevention Team) шаблон SWPPP посилається на Частину 6.2.1 MSGP (2021 MSGP Part 6.2.1).",
+            "citations": [
+              {
+                "chunk_id": "D072-s-0019",
+                "quote": "Instructions (see 2021 MSGP Part 6.2.1):"
+              }
+            ]
+          }
+        ],
+        "missing": null
+      },
+      "cost_usd": 0.0008085,
+      "prompt_tokens": 7235,
+      "completion_tokens": 170,
+      "total_s": 2.092,
+      "record": "results/answers/20261123T224347Z.json",
+      "errors": []
+    },
+    {
+      "id": "T19",
+      "question": "How thick are the wafers of NIST SRM 614?",
+      "language": "en",
+      "category": "unanswerable",
+      "top_score": -0.6060850620269775,
+      "sent": [
+        "D045-s-0001",
+        "D011-s-0001",
+        "D013-s-0001",
+        "D042-s-0003",
+        "D026-s-0001",
+        "D012-s-0001",
+        "D011-s-0002",
+        "D045-s-0002",
+        "D012-s-0002",
+        "D013-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "The context gives the wafer thickness only for NIST SRM 612 (3 mm) and SRM 613 (1 mm). It contains no information about NIST SRM 614, so the wafer thickness of SRM 614 is not stated."
+      },
+      "cost_usd": 0.0007612,
+      "prompt_tokens": 7112,
+      "completion_tokens": 100,
+      "total_s": 1.779,
+      "record": "results/answers/20261123T224349Z.json",
+      "errors": []
+    },
+    {
+      "id": "T20",
+      "question": "Яку максимальну температуру рідини допускають насоси Grundfos TPE Series 1000?",
+      "language": "uk",
+      "category": "unanswerable",
+      "top_score": -1.406902551651001,
+      "sent": [
+        "D022-s-0055",
+        "D022-s-0094",
+        "D022-s-0054",
+        "D022-s-0061",
+        "D022-s-0031",
+        "D022-s-0016",
+        "D022-s-0010",
+        "D022-s-0103",
+        "D022-s-0009"
+      ],
+      "dropped": [
+        "D022-s-0012"
+      ],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Максимальна температура рідини для насосів Grundfos TPE Series 1000 у наданому контексті не зазначена. Документ стосується лише насосів TPE та TPED Series 2000; у контексті є лише температура охолоджувального повітря (не більше 50 °C), що не є температурою рідини."
+      },
+      "cost_usd": 0.0010634,
+      "prompt_tokens": 9999,
+      "completion_tokens": 127,
+      "total_s": 1.736,
+      "record": "results/answers/20261123T224350Z.json",
+      "errors": []
+    },
+    {
+      "id": "T21",
+      "question": "Welche Schmelzflussrate hat das Polypropylen BE60?",
+      "language": "de",
+      "category": "unanswerable",
+      "top_score": -2.1538820266723633,
+      "sent": [
+        "D025-s-0002",
+        "D025-s-0001",
+        "D054-s-0019",
+        "D059-s-0053",
+        "D059-s-0021",
+        "D053-s-0010",
+        "D033-s-0013",
+        "D059-s-0051",
+        "D037-s-0017",
+        "D033-s-0016"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Die Schmelzflussrate des Polypropylens BE60 wird im Kontext nicht angegeben. Der Kontext enthält nur das Datenblatt für BE55 (Schmelzflussrate 0,35 g/10min bei 230 °C/2,16 kg), nicht für BE60."
+      },
+      "cost_usd": 0.0009633,
+      "prompt_tokens": 9003,
+      "completion_tokens": 126,
+      "total_s": 2.145,
+      "record": "results/answers/20261123T224353Z.json",
+      "errors": []
+    },
+    {
+      "id": "T22",
+      "question": "Quale livello di QoS usa di default il plugin MQTT consumer di Telegraf?",
+      "language": "it",
+      "category": "unanswerable",
+      "top_score": -3.2660865783691406,
+      "sent": [
+        "D077-s-0000",
+        "D076-s-0007",
+        "D075-s-0012",
+        "D075-s-0011",
+        "D075-s-0000",
+        "D076-s-0000",
+        "D075-s-0038",
+        "D077-s-0002",
+        "D076-s-0017",
+        "D076-s-0018"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Il contesto non riporta il livello di QoS predefinito del plugin MQTT consumer di Telegraf; i documenti forniti riguardano i plugin Siemens S7, OPC UA client e Modbus."
+      },
+      "cost_usd": 0.0007402,
+      "prompt_tokens": 6922,
+      "completion_tokens": 96,
+      "total_s": 1.529,
+      "record": "results/answers/20261123T224354Z.json",
+      "errors": []
+    },
+    {
+      "id": "T23",
+      "question": "¿Cómo se prepara una paella valenciana?",
+      "language": "es",
+      "category": "unanswerable",
+      "top_score": -9.097620964050293,
+      "sent": [
+        "D065-s-0002",
+        "D065-s-0031",
+        "D064-s-0012",
+        "D065-s-0021",
+        "D065-s-0011",
+        "D060-s-0001",
+        "D030-s-0001",
+        "D065-s-0035",
+        "D064-s-0026",
+        "D030-s-0002"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "La receta de la paella valenciana (ingredientes y preparación) no aparece en los fragmentos proporcionados, que tratan de fichas de datos de seguridad, un mastic-colle y una guía HACCP para aves y conejos."
+      },
+      "cost_usd": 0.0007781,
+      "prompt_tokens": 7266,
+      "completion_tokens": 103,
+      "total_s": 1.955,
+      "record": "results/answers/20261123T224356Z.json",
+      "errors": []
+    },
+    {
+      "id": "T24",
+      "question": "Kto napisał „Pana Tadeusza”?",
+      "language": "pl",
+      "category": "unanswerable",
+      "top_score": -8.689547538757324,
+      "sent": [
+        "D003-s-0014",
+        "D003-s-0004",
+        "D003-s-0003",
+        "D003-s-0073",
+        "D003-s-0017",
+        "D003-s-0022",
+        "D003-s-0015",
+        "D003-s-0019",
+        "D003-s-0000",
+        "D003-s-0032"
+      ],
+      "dropped": [],
+      "final_status": "valid",
+      "answer": {
+        "status": "not_in_documents",
+        "claims": [],
+        "missing": "Kto napisał „Pana Tadeusza” – kontekst zawiera wyłącznie dokumenty dotyczące acetonu (karta charakterystyki Borvida) i nie podaje informacji o autorze tego utworu."
+      },
+      "cost_usd": 0.0010381,
+      "prompt_tokens": 9866,
+      "completion_tokens": 103,
+      "total_s": 1.309,
+      "record": "results/answers/20261123T224357Z.json",
+      "errors": []
+    }
+  ]
+}

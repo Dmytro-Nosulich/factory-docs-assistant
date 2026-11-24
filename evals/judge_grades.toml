@@ -1,0 +1,129 @@
+# Hand grades of the calibration answers (S2-19). Graded by the user, by hand.
+# The answers are in evals/results/calibration/answers.json; read them in evals/results/calibration/sheet.md.
+#
+# Grade each answer against its reference answer with the judge's rules (in the sheet),
+# before any judge verdict exists: `make calibrate-judge` calls the judge only when every
+# answer here has a verdict, and records this file's sha256.
+#
+# verdict  correct | partially_correct | incorrect
+# note     optional: why, in a few words (shown next to any disagreement)
+
+[[grade]]
+id = "T01"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T02"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T03"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T04"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T05"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T06"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T07"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T08"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T09"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T10"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T11"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T12"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T13"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T14"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T15"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T16"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T17"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T18"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T19"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T20"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T21"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T22"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T23"
+verdict = "correct"
+note = ""
+
+[[grade]]
+id = "T24"
+verdict = "correct"
+note = ""

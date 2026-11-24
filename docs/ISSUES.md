@@ -3,6 +3,21 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-011: The judge is stricter than the user on refusal status and omitted facts
+- **Date / task:** 2026-11-24, S2-19 judge calibration
+- **Problem:** on 24 calibration answers (`make calibrate-judge`, `evals/results/calibration.md`) the user graded every answer correct, and the quality judge (Haiku 5.5, judge_quality v1) agreed on 21. It disagreed on 3, the same way in all 3 passes, each time stricter than the user:
+  - T06: the answer gives the 5-employee threshold but leaves out the reference's point about fewer than 5 employees. Judge: partially_correct.
+  - T11: status `not_in_documents`, but `missing` gives the 165 °C boiling point the reference accepts, calling it another product's (LZB x25). Judge: incorrect.
+  - T12: status `not_in_documents`, while `missing` quotes the flash point "None" that the reference gives. Judge: incorrect.
+  The judge follows its rules: a refusal of an answerable question is incorrect, and an omitted reference fact is partial. The user judged the content and confirmed these grades were deliberate. Two more limits: kappa is 0 because the hand grades use one level, and with no answer graded wrong the sample does not show whether the judge agrees with a person on wrong answers.
+- **Options considered:**
+  - Keep the judge and the grades, and report the rule difference (no tuning).
+  - A judge prompt v2 that grades the content of a refusal's `missing`: that would be tuned on these 3 answers, so it would need new calibration answers.
+  - Re-grade the 3 answers by the judge's rules: no longer blind, rejected by the user.
+- **Current selection:** keep both (user's choice, 2026-11-24). When reading judge results, `incorrect` on a refusal can mean "the right value, under the wrong status". The answer-side fix (an answer that states the value should not be `not_in_documents`) belongs in the answer prompt, not the judge.
+- **Seen on the way (not used for tuning):** with the gate off, T01, T02 and T04, which the gate refused in S2-18 (I-010), were answered, and the user graded all three correct.
+- **Revisit if:** the judge prompt changes, or the user grades a sample that has wrong answers.
+
 ## I-010: The score gate cannot see near misses, and its threshold rests on few questions
 - **Date / task:** 2026-11-21, S2-14 "I don't know"
 - **Problem:** `make eval-refusal` (`evals/results/refusal.md`) picked `[answer] min_rerank_score = -1.03` by the rule in `docs/METRICS.md`: the midpoint between the lowest answerable top-1 score (V05, -0.80) and the highest unanswerable one below it (V15, -1.27). Two limits follow.

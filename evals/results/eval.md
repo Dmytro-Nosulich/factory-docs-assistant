@@ -50,7 +50,7 @@ Per question language:
 | sv | 1 | 0/1 (0%) | 0/1 (0%) | - |
 | uk | 4 | 3/4 (75%) | 3/4 (75%) | 5/5 (100%) |
 
-Deterministic pass against the quality judge, in questions. Not a calibration: S2-19 compares the judge with hand grades.
+Deterministic pass against the quality judge, in questions. Not a calibration: the judge against hand grades is in evals/results/calibration.md (S2-19).
 
 | Deterministic (S2-17) | Judge: correct | Judge: partially correct | Judge: incorrect | Judge: not judged |
 |---|---|---|---|---|

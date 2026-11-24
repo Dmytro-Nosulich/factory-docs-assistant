@@ -1,0 +1,1270 @@
+{
+  "created_at": "2026-11-24T21:08:06+00:00",
+  "machine": {
+    "platform": "macOS-26.7.3-arm64-arm-64bit"
+  },
+  "git": {
+    "commit": "baefa34b56477a53a48335007eb0c5fa0f42efc2",
+    "dirty": true
+  },
+  "answers": {
+    "path": "evals/results/calibration/answers.json",
+    "sha256": "a5b96b4f94b88450e8be4e4f7a8f1d7d0ce2e43d113f2a30a976fa8f21111b46"
+  },
+  "grades": {
+    "path": "evals/judge_grades.toml",
+    "sha256": "ce1feb6f44361e443d17b57f0f38c85d420666db6d50e755796881959fbc1e3b"
+  },
+  "test_set": {
+    "path": "evals/test_set.toml",
+    "sha256": "c9ab6a841165fbb0ac115b87859c6ce03b1e07fce4004b127af3c4b2bb8ed388"
+  },
+  "chunks": {
+    "path": "data/chunks/chunks.jsonl",
+    "sha256": "9ed48745a0fc040047f78cd7e61ed04f688986bcabd73a270f512e6c06d23186"
+  },
+  "settings": {
+    "answer": {
+      "model": "haiku-5.5",
+      "slug": "anthropic/claude-haiku-5.5",
+      "prompt": {
+        "name": "answer",
+        "version": "v2",
+        "sha256": "050a14e395df"
+      },
+      "repair_prompt": {
+        "name": "answer_repair",
+        "version": "v1",
+        "sha256": "b534ac14d4a5"
+      },
+      "collection": "structure",
+      "mode": "hybrid",
+      "embedding_model": "google/embeddinggemma-300m",
+      "reranker": "BAAI/bge-reranker-v2-m3-int8",
+      "rerank_candidates": 30,
+      "k": 10,
+      "max_context_tokens": 4000,
+      "min_rerank_score": null,
+      "gate": false
+    },
+    "judge": {
+      "model": "haiku-5.5",
+      "slug": "anthropic/claude-haiku-5.5",
+      "prompts": {
+        "quality": {
+          "name": "judge_quality",
+          "version": "v1",
+          "sha256": "31206d15c49d"
+        },
+        "faithfulness": {
+          "name": "judge_faithfulness",
+          "version": "v1",
+          "sha256": "0b98166a32bf"
+        }
+      }
+    },
+    "passes": 3
+  },
+  "questions": [
+    {
+      "id": "T01",
+      "question": "Jaka jest temperatura zapłonu acetonu Borvida?",
+      "category": "answerable",
+      "language": "pl",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the flash point of Borvida acetone as -17 °C, matching the reference exactly. The added version reference (v18.0, 2024-08-07) is a citation detail and does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001922,
+          "prompt_tokens": 1482,
+          "completion_tokens": 88,
+          "record": "results/judgements/20261124T210604Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the flash point of Borvida acetone as -17 °C, matching the reference answer exactly. The added version reference (v18.0, 2024-08-07) does not contradict the reference and is not graded.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001922,
+          "prompt_tokens": 1482,
+          "completion_tokens": 88,
+          "record": "results/judgements/20261124T210646Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the flash point of Borvida acetone as -17 °C, matching the reference exactly. The added version reference (v18.0, 2024-08-07) is a citation detail and does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001922,
+          "prompt_tokens": 1482,
+          "completion_tokens": 88,
+          "record": "results/judgements/20261124T210729Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "question": "Vilket signalord har BIOGON N kvävgas?",
+      "category": "answerable",
+      "language": "sv",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the signal word is 'Warning' (Varning). The system answer gives 'Varning' for BIOGON N kvävgas, matching the reference in meaning and language; the added product description (Nitrogen, komprimerad) does not contradict it.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001981,
+          "prompt_tokens": 1471,
+          "completion_tokens": 102,
+          "record": "results/judgements/20261124T210606Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the signal word is \"Varning\", which is the Swedish equivalent of 'Warning' in the reference answer. It contains no contradicting facts and matches the reference fact fully.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001886,
+          "prompt_tokens": 1471,
+          "completion_tokens": 83,
+          "record": "results/judgements/20261124T210647Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the signal word is \"Varning\", which is the Swedish equivalent of 'Warning' in the reference answer. It contains no contradicting facts and matches the reference's single fact.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001886,
+          "prompt_tokens": 1471,
+          "completion_tokens": 83,
+          "record": "results/judgements/20261124T210730Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "question": "Wat is het kookpunt van het witte lithiumvet MG Chemicals 8461?",
+      "category": "answerable",
+      "language": "nl",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the boiling point of MG Chemicals 8461 as 371 °C, matching the reference answer's 371 °C. The added version detail does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001884,
+          "prompt_tokens": 1499,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210607Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the boiling point of MG Chemicals 8461 as 371 °C, matching the reference answer's 371 °C. The added version reference does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001884,
+          "prompt_tokens": 1499,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210649Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the boiling point of MG Chemicals 8461 as 371 °C, matching the reference answer's 371 °C. The added version and date detail does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001894,
+          "prompt_tokens": 1499,
+          "completion_tokens": 79,
+          "record": "results/judgements/20261124T210731Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "question": "¿Qué densidad tiene el F 80 Desengrasante?",
+      "category": "answerable",
+      "language": "es",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states density 0,725 kg/l at 20 °C by ASTM D 1298, matching the reference exactly (decimal comma is just notation). The added mention of rev 11 is extra detail not contradicting the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001984,
+          "prompt_tokens": 1514,
+          "completion_tokens": 94,
+          "record": "results/judgements/20261124T210608Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states density 0,725 kg/l at 20 °C with ASTM D 1298, matching the reference exactly in value, temperature and method. The added note about revision 11 is extra detail that does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001974,
+          "prompt_tokens": 1514,
+          "completion_tokens": 92,
+          "record": "results/judgements/20261124T210651Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states density 0,725 kg/l at 20 °C with ASTM D 1298, matching the reference exactly (decimal comma is just notation). The added revision detail does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001939,
+          "prompt_tokens": 1514,
+          "completion_tokens": 85,
+          "record": "results/judgements/20261124T210733Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "question": "Which port does the Telegraf Siemens S7 input plugin use if none is given in the server address?",
+      "category": "answerable",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states that the Telegraf Siemens S7 input plugin uses port 102 when no port is given, which matches the reference answer exactly in substance.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001816,
+          "prompt_tokens": 1466,
+          "completion_tokens": 70,
+          "record": "results/judgements/20261124T210609Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states that the Telegraf Siemens S7 input plugin uses port 102 when no port is given, which matches the reference answer exactly in substance.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001816,
+          "prompt_tokens": 1466,
+          "completion_tokens": 70,
+          "record": "results/judgements/20261124T210653Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states that port 102 is used when no port is given in the server address, which matches the reference answer exactly. No contradicting facts are present.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001786,
+          "prompt_tokens": 1466,
+          "completion_tokens": 64,
+          "record": "results/judgements/20261124T210735Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "question": "From how many employees must a COSHH risk assessment be written down?",
+      "category": "answerable",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the threshold of 5 or more employees for recording the assessment, and also notes that with fewer employees it is still sensible to write down steps taken. The system answer correctly gives the 5-or-more threshold but omits the point about fewer than 5 employees, so it is only partially complete.",
+            "verdict": "partially_correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002056,
+          "prompt_tokens": 1476,
+          "completion_tokens": 116,
+          "record": "results/judgements/20261124T210612Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states that the assessment must be recorded with 5 or more employees, and that with fewer it is still sensible to write down the steps taken. The system answer correctly gives the 5-or-more threshold but omits the point about recommended recording for fewer employees, so it states only part of the reference.",
+            "verdict": "partially_correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002046,
+          "prompt_tokens": 1476,
+          "completion_tokens": 114,
+          "record": "results/judgements/20261124T210656Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states that the assessment must be recorded with 5 or more employees, and that with fewer it is still sensible to write down the steps taken. The system answer correctly states the 5-or-more threshold but omits the guidance for fewer employees, so it is missing a reference fact without contradicting anything.",
+            "verdict": "partially_correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002061,
+          "prompt_tokens": 1476,
+          "completion_tokens": 117,
+          "record": "results/judgements/20261124T210737Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "question": "Wie lange müssen Produktions-, Kontroll- und Vertriebsaufzeichnungen einer Wirkstoffcharge nach EU-GMP Teil II aufbewahrt werden?",
+      "category": "answerable",
+      "language": "de",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states both facts of the reference: at least 1 year after the batch expiry date, and for APIs with retest dates at least 3 years after complete distribution of the batch. It contradicts nothing and matches the reference in meaning despite the German wording.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002122,
+          "prompt_tokens": 1622,
+          "completion_tokens": 100,
+          "record": "results/judgements/20261124T210614Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states both facts of the reference: at least 1 year after the batch expiry date, and for APIs with retest dates at least 3 years after complete distribution of the batch. It matches the reference in meaning and adds no contradiction.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002092,
+          "prompt_tokens": 1622,
+          "completion_tokens": 94,
+          "record": "results/judgements/20261124T210657Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the same two facts as the reference: at least 1 year after the batch expiry date, and for APIs with retest dates at least 3 years after complete distribution of the batch. Wording differs (German vs English) but the meaning matches with nothing contradictory.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002142,
+          "prompt_tokens": 1622,
+          "completion_tokens": 104,
+          "record": "results/judgements/20261124T210739Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "question": "У який строк потрібно завершити остаточний ремонт засобів контролю зливових вод за MSGP 2021?",
+      "category": "answerable",
+      "language": "uk",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the same timelines as the reference: as soon as possible but no later than 14 days, and if infeasible, within 45 days. The additional immediate interim-measures claim does not contradict the reference. All reference facts are present.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002058,
+          "prompt_tokens": 1593,
+          "completion_tokens": 93,
+          "record": "results/judgements/20261124T210616Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the same timeline as the reference: as soon as possible but no later than 14 days, and if infeasible, within 45 days. The extra claim about interim measures is additional detail that does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002033,
+          "prompt_tokens": 1593,
+          "completion_tokens": 88,
+          "record": "results/judgements/20261124T210659Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the reference facts: complete repair/replacement as soon as feasible but no later than 14 days, and if infeasible, within 45 days. The extra claim about immediate interim measures does not contradict the reference. The answer is in Ukrainian, which is acceptable.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002138,
+          "prompt_tokens": 1593,
+          "completion_tokens": 109,
+          "record": "results/judgements/20261124T210740Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "question": "How thick are the wafers of NIST SRM 612?",
+      "category": "similar_doc",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the wafers are sliced to 3 mm thickness, matching the reference fact exactly. The added detail about a hand-pulled rod does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000186,
+          "prompt_tokens": 1475,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210617Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the wafers are sliced to 3 mm thickness, matching the reference fact exactly. The added detail about a hand-pulled rod does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000186,
+          "prompt_tokens": 1475,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210701Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the wafers are sliced to 3 mm thickness, matching the reference fact exactly. The added detail about a hand-pulled rod does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000186,
+          "prompt_tokens": 1475,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210742Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "question": "Який діапазон температури плавлення поліетилену OE5318I?",
+      "category": "similar_doc",
+      "language": "uk",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the melting point range of OE5318I as 60 - 110 °C, which matches the reference answer exactly. The added edition reference does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001853,
+          "prompt_tokens": 1483,
+          "completion_tokens": 74,
+          "record": "results/judgements/20261124T210618Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the melting point range of OE5318I as 60 - 110 °C, matching the reference answer exactly. The added edition reference does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001848,
+          "prompt_tokens": 1483,
+          "completion_tokens": 73,
+          "record": "results/judgements/20261124T210702Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the melting point range of OE5318I as 60 - 110 °C, which matches the reference answer exactly. The added edition reference does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001853,
+          "prompt_tokens": 1483,
+          "completion_tokens": 74,
+          "record": "results/judgements/20261124T210743Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "question": "Quel est le point d'ébullition de l'antigel LAUDA LZB 125 ?",
+      "category": "similar_doc",
+      "language": "fr",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference gives an initial boiling point of about 165 °C for the LAUDA LZB 125 antifreeze. The system refused, saying the information is not in the documents, and only mentioned 165 °C as belonging to a different product (LZB x25). Since the reference provides an answer, the refusal is the wrong decision, and it does not state the correct value for the asked product.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002277,
+          "prompt_tokens": 1577,
+          "completion_tokens": 140,
+          "record": "results/judgements/20261124T210620Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference gives the boiling point of LZB 125 as about 165 °C. The system refused (not_in_documents), saying the LZB 125 value is absent and only citing 165 °C for a different product (LZB x25), so it withholds the correct value. A refusal when the reference gives an answer is incorrect.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002182,
+          "prompt_tokens": 1577,
+          "completion_tokens": 121,
+          "record": "results/judgements/20261124T210704Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference gives the boiling point of LAUDA LZB 125 as about 165 °C. The system refused with status not_in_documents, stating the context lacks the value for LZB 125 and only provides a value of ~165 °C for a different product (LZB x25). Since the reference answer is an answer, not a refusal, the refusal is the wrong decision, and the system does not state the reference fact for the correct product.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002337,
+          "prompt_tokens": 1577,
+          "completion_tokens": 152,
+          "record": "results/judgements/20261124T210745Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "question": "What is the flash point of CRC Brakleen Brake Parts Cleaner in the 55 gallon drum?",
+      "category": "similar_doc",
+      "language": "en",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the flash point is 'None' (no flash point). The system answer says the context gives no flash point and cites Section 9 listing the flash point as 'None', which matches the reference's fact. However, its status is not_in_documents, a refusal, while the reference gives an answer ('None'). Per the rules, refusing when the reference gives an answer is incorrect, though the body text effectively conveys the right value.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002284,
+          "prompt_tokens": 1524,
+          "completion_tokens": 152,
+          "record": "results/judgements/20261124T210622Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the flash point is 'None' (no flash point). The system answer refuses with status not_in_documents, but its missing-note explicitly quotes Section 9 listing the flash point as 'None', which matches the reference fact. However, the status is a refusal, which contradicts the reference giving an answer, so the answer's primary decision is incorrect.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002194,
+          "prompt_tokens": 1524,
+          "completion_tokens": 134,
+          "record": "results/judgements/20261124T210706Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the flash point is 'None'. The system answer refuses with status not_in_documents, but its own Missing text acknowledges Section 9 lists the flash point as 'None', so it fails to convey the reference fact and effectively gives the wrong refusal decision since the reference provides an answer.",
+            "verdict": "incorrect"
+          },
+          "errors": [],
+          "cost_usd": 0.0002109,
+          "prompt_tokens": 1524,
+          "completion_tokens": 117,
+          "record": "results/judgements/20261124T210747Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "question": "Welche Dichte hat der Kärcher Stein- und Fassadenreiniger RM 611 bei 20 °C?",
+      "category": "similar_doc",
+      "language": "de",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the density of 1,011 g/cm³ at 20 °C, matching the reference value of 1.011 g/cm³ at 20 °C. The added note about version v5 does not contradict the reference, so the answer is fully correct.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002019,
+          "prompt_tokens": 1529,
+          "completion_tokens": 98,
+          "record": "results/judgements/20261124T210624Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the density of 1,011 g/cm³ at 20 °C for the RM 611 product, matching the reference value exactly (the comma decimal is just a locale difference). The added version detail does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001989,
+          "prompt_tokens": 1529,
+          "completion_tokens": 92,
+          "record": "results/judgements/20261124T210708Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the density of 1,011 g/cm³ at 20 °C, matching the reference value 1.011 g/cm³ at 20 °C. The added version detail (v5, 2025-06-16) does not contradict the reference, so the answer is fully correct.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002059,
+          "prompt_tokens": 1529,
+          "completion_tokens": 106,
+          "record": "results/judgements/20261124T210748Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "question": "By what date must manufacturers evaluating substances comply with the modified provisions of OSHA's Hazard Communication Standard?",
+      "category": "outdated_version",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the date May 19, 2026, matching the reference answer's date for compliance with the modified HazCom provisions for evaluating substances. It also adds that this is the current text superseding the 2024 version, which does not contradict the reference's citation of 29 CFR 1910.1200(j).",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002113,
+          "prompt_tokens": 1538,
+          "completion_tokens": 115,
+          "record": "results/judgements/20261124T210627Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer gives the date May 19, 2026 as the compliance deadline for the modified provisions, matching the reference answer exactly. It also notes this is the current text superseding the 2024 version, which is consistent with the reference's citation of current 29 CFR 1910.1200(j) and adds no contradiction.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002138,
+          "prompt_tokens": 1538,
+          "completion_tokens": 120,
+          "record": "results/judgements/20261124T210709Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer gives the date May 19, 2026 for compliance with the modified HazCom provisions, matching the reference answer exactly. It adds a note that this is the current text superseding the 2024 version, which is consistent with the reference citing current 29 CFR 1910.1200(j) and does not contradict it.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002133,
+          "prompt_tokens": 1538,
+          "completion_tokens": 119,
+          "record": "results/judgements/20261124T210750Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "question": "How does OSHA's Hazard Communication Standard define combustible dust?",
+      "category": "outdated_version",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states the same definition as the reference: finely divided solid particulates of a substance or mixture posing a flash-fire or explosion hazard when dispersed in air or other oxidizing media. The extra remark about the text being current as of a date and superseding an earlier version is not a contradiction of the reference's facts, and it does not give a conflicting value.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002229,
+          "prompt_tokens": 1569,
+          "completion_tokens": 132,
+          "record": "results/judgements/20261124T210628Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer's definition of combustible dust matches the reference answer almost word for word: finely divided solid particulates of a substance or mixture posing flash-fire or explosion hazard when dispersed in air or other oxidizing media. The extra remarks about the 2026 text and superseding version do not contradict the reference's definition.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002184,
+          "prompt_tokens": 1569,
+          "completion_tokens": 123,
+          "record": "results/judgements/20261124T210711Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer's definition matches the reference wording exactly: finely divided solid particulates of a substance or mixture posing flash-fire or explosion hazard when dispersed in air or other oxidizing media. The extra date/version remark about superseding text does not contradict the reference's definition itself.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002129,
+          "prompt_tokens": 1569,
+          "completion_tokens": 112,
+          "record": "results/judgements/20261124T210751Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "question": "Welche Gleitkomma-Datentypen unterstützt das Telegraf-Modbus-Plugin?",
+      "category": "outdated_version",
+      "language": "de",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference lists FLOAT16-IEEE, FLOAT32-IEEE and FLOAT64-IEEE. The answer names FLOAT16, FLOAT32 and FLOAT64 as IEEE-754 floating-point types, which matches the reference facts without contradiction; the suffix '-IEEE' is implied by the IEEE-754 description. The added note about v1.40.3 and half precision does not contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002431,
+          "prompt_tokens": 1611,
+          "completion_tokens": 164,
+          "record": "results/judgements/20261124T210630Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference lists FLOAT16-IEEE, FLOAT32-IEEE and FLOAT64-IEEE. The answer names FLOAT16, FLOAT32 and FLOAT64 as IEEE-754 floating point types, which matches the reference facts without contradiction; the omitted '-IEEE' suffix is a naming variant, not a substantive difference. The added version detail is not contradicted by the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002406,
+          "prompt_tokens": 1611,
+          "completion_tokens": 159,
+          "record": "results/judgements/20261124T210713Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference lists FLOAT16-IEEE, FLOAT32-IEEE and FLOAT64-IEEE. The answer names FLOAT16, FLOAT32 and FLOAT64 as IEEE-754 floating-point types, covering the same three types without contradiction; the omitted '-IEEE' suffix is a naming detail rather than a different fact. The added version remark (v1.40.3) is extra detail that doesn't contradict the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002466,
+          "prompt_tokens": 1611,
+          "completion_tokens": 171,
+          "record": "results/judgements/20261124T210753Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "question": "Which setting selects the configuration style of the Telegraf Modbus input plugin?",
+      "category": "outdated_version",
+      "language": "en",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer correctly identifies the `configuration_type` setting and states that the styles cannot be mixed, matching both reference facts. It additionally cites a newer version v1.40.3 replacing D074, which is extra detail not contradicting the reference, so it does not lower the grade.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000209,
+          "prompt_tokens": 1540,
+          "completion_tokens": 110,
+          "record": "results/judgements/20261124T210632Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer names `configuration_type` as the setting selecting the configuration style and states the styles cannot be mixed, matching the reference. It adds a reference to a newer version v1.40.3 replacing D074, which is extra detail not in the reference but does not contradict it.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000207,
+          "prompt_tokens": 1540,
+          "completion_tokens": 106,
+          "record": "results/judgements/20261124T210714Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer correctly identifies the `configuration_type` setting and states that the styles cannot be mixed, matching both facts in the reference. It additionally cites a newer version (v1.40.3) replacing D074, which is extra detail not contradicting the reference, though the version reference is not verifiable against the reference answer.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002145,
+          "prompt_tokens": 1540,
+          "completion_tokens": 121,
+          "record": "results/judgements/20261124T210754Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "question": "На яку частину MSGP посилається шаблон SWPPP в інструкціях до розділу про команду із запобігання забрудненню зливовими водами?",
+      "category": "outdated_version",
+      "language": "uk",
+      "outcome": "answered",
+      "has_claims": true,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer identifies Part 6.2.1 of the 2021 MSGP as the section referenced by the SWPPP template in the Stormwater Pollution Prevention Team instructions, matching the reference answer's Part 6.2.1 of the 2021 MSGP. No contradicting facts are present.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002151,
+          "prompt_tokens": 1556,
+          "completion_tokens": 119,
+          "record": "results/judgements/20261124T210633Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer identifies Part 6.2.1 of the 2021 MSGP as the referenced part, matching the reference answer exactly in substance. No contradicting facts are present.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001941,
+          "prompt_tokens": 1556,
+          "completion_tokens": 77,
+          "record": "results/judgements/20261124T210716Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The system answer states Part 6.2.1 of the 2021 MSGP, matching the reference answer's Part 6.2.1 of the 2021 MSGP. No contradicting facts are present.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001971,
+          "prompt_tokens": 1556,
+          "completion_tokens": 83,
+          "record": "results/judgements/20261124T210756Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "question": "How thick are the wafers of NIST SRM 614?",
+      "category": "unanswerable",
+      "language": "en",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, since only SRM 612 and 613 have sheets. The system answer returns status not_in_documents and states that the context has no information about SRM 614, which matches the reference's refusal. It also mentions 612 and 613 values only as contrast, which is not a contradiction.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002107,
+          "prompt_tokens": 1522,
+          "completion_tokens": 117,
+          "record": "results/judgements/20261124T210635Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents because only SRM 612 and 613 have sheets. The system answer returns status not_in_documents and states that the context contains no information about SRM 614, while mentioning the 612 and 613 values only as contrast. This matches the reference's refusal decision and facts.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002092,
+          "prompt_tokens": 1522,
+          "completion_tokens": 114,
+          "record": "results/judgements/20261124T210718Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents because only SRM 612 and 613 have sheets. The system answer returns status not_in_documents and states that SRM 614 wafer thickness is not in the context, while mentioning 612 and 613 values only as contrast. This matches the reference's refusal decision and does not contradict it.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002132,
+          "prompt_tokens": 1522,
+          "completion_tokens": 122,
+          "record": "results/judgements/20261124T210758Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "question": "Яку максимальну температуру рідини допускають насоси Grundfos TPE Series 1000?",
+      "category": "unanswerable",
+      "language": "uk",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents because the manual covers only TPE/TPED Series 2000. The system answer returns status not_in_documents, states the value for TPE Series 1000 is not in the context, and notes the document covers only Series 2000, matching the reference's refusal decision and rationale.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000214,
+          "prompt_tokens": 1565,
+          "completion_tokens": 115,
+          "record": "results/judgements/20261124T210637Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, since the manual covers only TPE/TPED Series 2000. The system answer returns status not_in_documents and states that the value for TPE Series 1000 is not in the context, noting the document covers only Series 2000. This matches the reference's refusal decision and its reason, with no contradicting facts.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002195,
+          "prompt_tokens": 1565,
+          "completion_tokens": 126,
+          "record": "results/judgements/20261124T210720Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, since the manual covers only TPE/TPED Series 2000. The system answer returns status not_in_documents and explicitly notes the document concerns only Series 2000, which matches the reference refusal decision and its reasoning.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.000208,
+          "prompt_tokens": 1565,
+          "completion_tokens": 103,
+          "record": "results/judgements/20261124T210800Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "question": "Welche Schmelzflussrate hat das Polypropylen BE60?",
+      "category": "unanswerable",
+      "language": "de",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, only BE55 has a data sheet. The system answer gives status not_in_documents, states the BE60 value is not in the context, and notes only BE55 is present. This matches the reference's refusal decision and its fact; the BE55 value mentioned is contrasted, not presented as BE60's value.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002183,
+          "prompt_tokens": 1553,
+          "completion_tokens": 126,
+          "record": "results/judgements/20261124T210638Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents and only BE55 has a data sheet. The system answer gives status not_in_documents, states the BE60 melt flow rate is not provided, and notes only BE55's data sheet exists, quoting BE55's value as context. This matches the reference's refusal decision and facts; mentioning BE55's value is contrast, not a contradiction.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002248,
+          "prompt_tokens": 1553,
+          "completion_tokens": 139,
+          "record": "results/judgements/20261124T210722Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the BE60 melt flow rate is not in the documents, with only BE55 having a data sheet. The system answer gives status not_in_documents, states BE60 is not in the context, and notes only the BE55 sheet exists, quoting BE55's value only to contrast it. This matches the reference fully without contradiction.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002173,
+          "prompt_tokens": 1553,
+          "completion_tokens": 124,
+          "record": "results/judgements/20261124T210801Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "question": "Quale livello di QoS usa di default il plugin MQTT consumer di Telegraf?",
+      "category": "unanswerable",
+      "language": "it",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, and the system answer returns status not_in_documents, stating the context does not report the default QoS of the Telegraf MQTT consumer plugin. This is the correct refusal decision, matching the reference.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002021,
+          "prompt_tokens": 1546,
+          "completion_tokens": 95,
+          "record": "results/judgements/20261124T210640Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, and the system answer returns status not_in_documents, stating the context does not report the default QoS of the Telegraf MQTT consumer plugin. This is the correct refusal decision, and the listed documents match the reference's description of the corpus.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002081,
+          "prompt_tokens": 1546,
+          "completion_tokens": 107,
+          "record": "results/judgements/20261124T210724Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents, and the system answer returns status not_in_documents, stating the context does not report the default QoS of the Telegraf MQTT consumer plugin. This matches the reference's refusal decision and does not contradict it.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0002036,
+          "prompt_tokens": 1546,
+          "completion_tokens": 98,
+          "record": "results/judgements/20261124T210803Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "question": "¿Cómo se prepara una paella valenciana?",
+      "category": "unanswerable",
+      "language": "es",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference answer states the information is not in the documents, and the system answer correctly returns status not_in_documents with no claims, explaining the recipe does not appear in the fragments. This matches the reference's refusal decision.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001941,
+          "prompt_tokens": 1506,
+          "completion_tokens": 87,
+          "record": "results/judgements/20261124T210641Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference answer states the information is not in the documents, and the system answer correctly refuses with status not_in_documents, explaining the paella recipe does not appear in the fragments. This matches the reference's refusal decision.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001941,
+          "prompt_tokens": 1506,
+          "completion_tokens": 87,
+          "record": "results/judgements/20261124T210726Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference answer says the information is not in the documents, and the system answer refuses with status not_in_documents, stating the paella recipe does not appear in the provided fragments. This matches the reference's refusal decision, so it is correct.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001961,
+          "prompt_tokens": 1506,
+          "completion_tokens": 91,
+          "record": "results/judgements/20261124T210804Z.json"
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "question": "Kto napisał „Pana Tadeusza”?",
+      "category": "unanswerable",
+      "language": "pl",
+      "outcome": "not_in_documents",
+      "has_claims": false,
+      "human": {
+        "verdict": "correct",
+        "note": ""
+      },
+      "judge": [
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the information is not in the documents. The system answer returns status not_in_documents with no claims, and explains the context covers only acetone documents without the author. This matches the reference's refusal decision.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001911,
+          "prompt_tokens": 1506,
+          "completion_tokens": 81,
+          "record": "results/judgements/20261124T210644Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference says the information is not in the documents. The system answer returns status not_in_documents with no claims, stating the context covers only acetone documents and lacks the author's information. This matches the reference's refusal decision, so it is correct.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001961,
+          "prompt_tokens": 1506,
+          "completion_tokens": 91,
+          "record": "results/judgements/20261124T210727Z.json"
+        },
+        {
+          "status": "valid",
+          "output": {
+            "reasoning": "The reference states the information is not in the documents. The system answer returns status not_in_documents with no claims, and explains the context covers only acetone documents without the author. This matches the reference's refusal decision.",
+            "verdict": "correct"
+          },
+          "errors": [],
+          "cost_usd": 0.0001911,
+          "prompt_tokens": 1506,
+          "completion_tokens": 81,
+          "record": "results/judgements/20261124T210806Z.json"
+        }
+      ]
+    }
+  ]
+}

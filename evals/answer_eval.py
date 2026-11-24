@@ -325,8 +325,8 @@ def main_tables(run: Mapping, summary: Mapping) -> list[str]:
         "",
         *language_table(summary),
         "",
-        "Deterministic pass against the quality judge, in questions. Not a calibration: S2-19 "
-        "compares the judge with hand grades.",
+        "Deterministic pass against the quality judge, in questions. Not a calibration: the "
+        "judge against hand grades is in evals/results/calibration.md (S2-19).",
         "",
         *agreement_lines(summary),
         "",
