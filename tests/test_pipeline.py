@@ -62,6 +62,7 @@ def test_make_run_runs_every_step_in_order():
         "scripts/eval_answers.py",
         "scripts/sample_answers.py",
         "scripts/cost_report.py",
+        "scripts/eval_gate.py",
     ]
     positions = [out.find(step) for step in steps]
     assert -1 not in positions, [s for s, p in zip(steps, positions, strict=True) if p == -1]

@@ -1,9 +1,10 @@
-.PHONY: run samples cost eval judge calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run samples cost eval judge eval-gate calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
 # diff: every step is deterministic), the index only when stale, runs the checks and evals, then
-# answers the sample questions and prints the cost per 1000 questions. Each step is a target of
-# its own below. Stage 1: make run-extraction
+# answers the sample questions and prints the cost per 1000 questions; it fails at the end when
+# an eval is below its [eval_gate] threshold (S2-20; CI runs this target). Each step is a target
+# of its own below. Stage 1: make run-extraction
 run:
 	uv run python scripts/preflight.py
 	$(MAKE) parse clean-corpus ingest
@@ -12,6 +13,7 @@ run:
 	$(MAKE) eval-retrieval eval-refusal eval
 	$(MAKE) samples
 	$(MAKE) cost
+	$(MAKE) eval-gate
 
 # Answer the [run] sample_questions of config.toml like `make ask` and print them (S2-15)
 samples:
@@ -138,6 +140,12 @@ eval:
 # (a new run file names the run its answers come from; S2-18)
 judge:
 	PYTHONPATH=. uv run python scripts/eval_answers.py --judge $(RUN)
+
+# Fail when the retrieval results or the latest test-set run are below a threshold in
+# config.toml [eval_gate]; no model calls (S2-20). The latest run must be from the checked-out
+# commit; RUN=<run file> checks that run instead: make eval-gate RUN=evals/results/runs/<time>.json
+eval-gate:
+	PYTHONPATH=. uv run python scripts/eval_gate.py $(if $(RUN),--run $(RUN))
 
 # Judge calibration, step 1 (S2-19): answer the test set like `make ask` with the score gate off
 # and save the answers with no judge call; writes evals/results/calibration/answers.json, the

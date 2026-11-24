@@ -254,6 +254,21 @@ class RunSettings(Settings):
         return self
 
 
+class EvalGateSettings(Settings):
+    """`make eval-gate`, S2-20: the thresholds that fail `make run` and CI. Rates in [0, 1]
+    over the retrieval results and the latest test-set run; rules in docs/METRICS.md."""
+
+    retrieval_collection: str  # key in [index] collections
+    retrieval_setup: str  # one of [retrieval_eval] setups
+    min_mrr: float = Field(ge=0, le=1)
+    min_recall_at_5: float = Field(ge=0, le=1)  # needs 5 in [retrieval_eval] ks
+    min_passed: float = Field(ge=0, le=1)
+    min_unanswerable_refused: float = Field(ge=0, le=1)
+    min_judge_correct: float = Field(ge=0, le=1)
+    min_claims_supported: float = Field(ge=0, le=1)
+    max_not_judged: int = Field(ge=0)
+
+
 class Config(Settings):
     extraction: ExtractionSettings
     budget: BudgetSettings
@@ -273,6 +288,7 @@ class Config(Settings):
     refusal_eval: RefusalEvalSettings
     judge: JudgeSettings
     run: RunSettings
+    eval_gate: EvalGateSettings
 
     @model_validator(mode="after")
     def answer_names_exist(self) -> "Config":
@@ -292,6 +308,23 @@ class Config(Settings):
             raise ValueError(
                 "[answer] min_rerank_score is a reranker score: it needs [search] rerank = true"
             )
+        return self
+
+    @model_validator(mode="after")
+    def eval_gate_names_exist(self) -> "Config":
+        gate = self.eval_gate
+        if gate.retrieval_collection not in self.index.collections:
+            raise ValueError(
+                f"[eval_gate] retrieval_collection {gate.retrieval_collection!r}: "
+                "not in [index] collections"
+            )
+        if gate.retrieval_setup not in self.retrieval_eval.setups:
+            raise ValueError(
+                f"[eval_gate] retrieval_setup {gate.retrieval_setup!r}: "
+                "not in [retrieval_eval] setups"
+            )
+        if 5 not in self.retrieval_eval.ks:
+            raise ValueError("[eval_gate] min_recall_at_5 needs 5 in [retrieval_eval] ks")
         return self
 
     @model_validator(mode="after")

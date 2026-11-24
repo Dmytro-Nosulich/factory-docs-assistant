@@ -3,6 +3,16 @@
 Problems met while building the project, what we considered, and what we chose. Newest first.
 Each entry: date, task, problem, options considered, current choice and why, status.
 
+## I-012: The stage 2 budget guard does not see CI spending
+- **Date / task:** 2026-11-24, S2-20 CI
+- **Problem:** the stage 2 guard (`[answer] stop_at_usd = 5.0`, decision 18) adds up the cost of the logs in `results/answers/` and `results/judgements/`. Both folders are gitignored, so every GitHub Actions run starts with them empty, and the guard counts only that run. CI runs `make run` on every push and pull request: about $0.07 per run, twice for a push to a branch with an open pull request.
+- **Options considered:**
+  - A separate OpenRouter key for CI with its own small spending limit.
+  - Reuse the key in `.env`, so CI and local work share one OpenRouter limit and credit.
+  - Persist the logs between CI runs (a cache or an artifact): more moving parts, and still blind to local spending.
+- **Current selection:** the shared key, stored as the repository secret `OPENROUTER_API_KEY` (user's choice, 2026-11-24). The key's OpenRouter spending limit is the only guard over all runs together.
+- **Revisit if:** CI runs many times a day, or the key's credit runs low.
+
 ## I-011: The judge is stricter than the user on refusal status and omitted facts
 - **Date / task:** 2026-11-24, S2-19 judge calibration
 - **Problem:** on 24 calibration answers (`make calibrate-judge`, `evals/results/calibration.md`) the user graded every answer correct, and the quality judge (Haiku 5.5, judge_quality v1) agreed on 21. It disagreed on 3, the same way in all 3 passes, each time stricter than the user:

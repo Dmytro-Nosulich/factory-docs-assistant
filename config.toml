@@ -222,3 +222,20 @@ faithfulness_prompt_version = "v1"
 # miss the model refuses (V09). Not R08: the gate would refuse it (docs/ISSUES.md I-010).
 [run]
 sample_questions = ["V02", "V04", "V07", "V09"]
+
+# CI thresholds (S2-20): `make eval-gate` (the last step of `make run`, and so of the GitHub
+# Actions workflow) fails when a number is below its threshold. Rates, not counts. Set a margin
+# below the results of 2026-11-24 (user's choice), because the answer model and the judge take
+# no temperature and vary between runs: retrieval MRR@10 0.615 and recall@5 13/15; test set
+# passed 18/24, unanswerable refused 6/6, judge correct 16/24, claims supported 16/16. Rules in
+# docs/METRICS.md. Not tuned: no number here changes what the pipeline does.
+[eval_gate]
+retrieval_collection = "structure"   # the [answer] collection, decision 19
+retrieval_setup = "hybrid+rerank"    # what `make ask` searches with, S2-10
+min_mrr = 0.55                       # MRR@10 over evals/retrieval_gold.toml
+min_recall_at_5 = 0.80               # 12 of 15 gold questions
+min_passed = 0.625                   # 15 of 24 test questions, S2-17 pass verdict
+min_unanswerable_refused = 0.83      # 5 of 6 unanswerable test questions
+min_judge_correct = 0.54             # 13 of 24, quality judge verdict "correct"
+min_claims_supported = 0.90          # faithfulness judge, over every claim of a shown answer
+max_not_judged = 2                   # answers with an invalid judge reply, for each judge

@@ -1,0 +1,105 @@
+# Evals in CI (S2-20): on every push and pull request, lint and test, then run `make run`, the
+# whole stage 2 pipeline (corpus files, index when stale, checks, retrieval / refusal / test-set
+# evals, sample answers, cost). Its last step, `make eval-gate`, fails the run when a result is
+# below its threshold in config.toml [eval_gate] (rules in docs/METRICS.md).
+# Needs the repository secret OPENROUTER_API_KEY. About $0.07 per run; the local stage 2 budget
+# guard does not see CI spending, only the key's own OpenRouter limit does (docs/ISSUES.md I-012).
+name: evals
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: evals-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  evals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Lint
+        run: make lint
+
+      - name: Unit tests
+        run: make test
+
+      # Cache keys follow config.toml: the embedding and reranker models in use, and for the
+      # index also the chunk files and the locked library versions. build_index.py --if-stale
+      # checks a restored index again (factory_docs.index.stale_reasons).
+      - name: Cache keys
+        id: keys
+        run: |
+          models=$(uv run python -c "
+          import tomllib
+          c = tomllib.load(open('config.toml', 'rb'))
+          e = c['embedding_models'][c['embedding']['model']]['name']
+          r = c['reranker_models'][c['reranking']['model']]['name']
+          print(f'{e}-{r}'.replace('/', '_'))
+          ")
+          echo "models=fastembed-$models" >> "$GITHUB_OUTPUT"
+          echo "index=qdrant-$models-${{ hashFiles('data/chunks/chunks.jsonl', 'data/chunks/chunks_fixed.jsonl', 'uv.lock') }}" >> "$GITHUB_OUTPUT"
+
+      - name: Restore models
+        id: models
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/fastembed
+          key: ${{ steps.keys.outputs.models }}
+
+      - name: Restore index
+        id: index
+        uses: actions/cache/restore@v4
+        with:
+          path: data/index/qdrant
+          key: ${{ steps.keys.outputs.index }}
+
+      - name: Build the index when stale
+        run: uv run python scripts/build_index.py --if-stale
+
+      - name: Download the reranker (one search)
+        run: make search Q="flash point"
+
+      # Saved before the paid steps: actions/cache saves only when the whole job passes, and a
+      # failing gate would otherwise throw away a 1.8 GB download and the index build.
+      - name: Save models
+        if: steps.models.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/fastembed
+          key: ${{ steps.keys.outputs.models }}
+
+      - name: Save index
+        if: steps.index.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: data/index/qdrant
+          key: ${{ steps.keys.outputs.index }}
+
+      - name: make run (evals and threshold gate)
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: make run
+
+      - name: Upload eval results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: |
+            evals/results/
+            REPORT.md
+          if-no-files-found: ignore

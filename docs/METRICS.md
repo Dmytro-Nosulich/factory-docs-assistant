@@ -150,3 +150,21 @@ Added 2026-11-23 (S2-19), before the first judge call on the calibration answers
 - **Judge consistency:** the share of answers where all 3 passes give the same verdict.
 - **Grade spread (added 2026-11-24, after the run, as a reading note; no rule changed):** when every hand grade has the same level, chance agreement equals the judge's rate of that level, so kappa is 0 whatever the judge does. The report then says so and points to the exact agreement and the confusion matrix. When no answer is graded incorrect, it says that the sample does not show whether the judge agrees with a person on wrong answers.
 - **Known limits:** n = 24, so one answer moves the agreement by about 4 points, and kappa is unstable at this size. One person graded. Many calibration answers are close to the S2-18 answers, whose judge verdicts the user had seen, so the grading was blind to these verdicts but not to earlier ones. If the judge prompt changes, calibrate again on new answers, because a prompt tuned on these disagreements would be measured on its own training data.
+
+## CI thresholds (stage 2)
+Added 2026-11-24 (S2-20), before the first CI run. Code: `evals/gate.py`, `scripts/eval_gate.py`; tests: `tests/test_eval_gate.py`. `make eval-gate` is the last step of `make run`, and the GitHub Actions workflow `.github/workflows/evals.yml` runs `make run` on every push and pull request. So a result below its threshold fails both.
+- **What is checked:** two results that `make run` writes just before the gate. The first is `evals/results/retrieval.json` (`make eval-retrieval`), on the `[eval_gate]` collection and setup (`structure`, `hybrid+rerank`: what `make ask` searches with). The second is the latest run file in `evals/results/runs/` (`make eval`). That run must have been made at the checked-out commit (`git.commit` is `HEAD`), so a failed `make eval` cannot leave the gate reading an older committed run. `make eval-gate RUN=<file>` checks a named run without this test.
+- **Thresholds** (`[eval_gate]` in `config.toml`, rates; user's choice: a margin below the results of 2026-11-24, because the answer model and the judge take no temperature and their numbers vary between runs):
+
+  | Check | Threshold | 2026-11-24 |
+  |---|---|---|
+  | Retrieval MRR@10 | >= 0.55 | 0.615 |
+  | Retrieval recall@5 | >= 80 % (12/15) | 13/15 |
+  | Test set passed (S2-17 verdict) | >= 62.5 % (15/24) | 18/24 |
+  | Unanswerable refused | >= 83 % (5/6) | 6/6 |
+  | Quality judge `correct` | >= 54 % (13/24) | 16/24 |
+  | Claims `supported` (faithfulness judge) | >= 90 % | 16/16 |
+  | Answers not judged, each judge | <= 2 | 0 and 0 |
+
+- **Rules:** a rate passes when it is at least its threshold (with a 1e-9 margin for float rounding, so 15/24 passes 0.625). A rate with nothing to count (0 of 0, for example no claims because every answer was refused) fails, because a gate that cannot measure should not pass. A run whose judges never ran fails. Every check is printed with its count, and in GitHub Actions the table also goes to the job summary.
+- **Known limits:** at n = 24 one question moves a test-set rate by about 4 points, so the gate catches breakage, not small regressions. The thresholds are not tuned: no number here changes what the pipeline does. The retrieval results carry no commit, so their freshness rests on `make run` writing them in the same run.
