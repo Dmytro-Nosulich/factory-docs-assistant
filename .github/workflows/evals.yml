@@ -20,7 +20,7 @@ concurrency:
 jobs:
   evals:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120   # first run, 2026-11-24: index build 62 min, make run cut at 90 min
     steps:
       - uses: actions/checkout@v5
 
