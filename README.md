@@ -9,7 +9,7 @@ The project is built in stages over an AI engineering course. Each stage is one 
 | Stage | What it does | Run | Report | Status |
 |---|---|---|---|---|
 | 1. Structured extraction | Safety data sheets to validated JSON; cloud vs local model, prompt versions and sampling compared | `make run-extraction` | [docs/reports/stage-1.md](docs/reports/stage-1.md) | Submitted 2026-10-28; the exact submitted state is the tag [`stage-1-submitted`](https://github.com/Dmytro-Nosulich/factory-docs-assistant/tree/stage-1-submitted) |
-| 2. Cited question answering (RAG) and evals in CI | Search over 69 documents, answers with a citation for every claim, "not in the documents" when they do not answer, evals that fail CI below a threshold | `make run` | [REPORT.md](REPORT.md) | Done |
+| 2. Cited question answering (RAG) and evals in CI | Search over 69 documents, answers with a citation for every claim, "not in the documents" when they do not answer, evals that fail CI below a threshold | `make run` | [REPORT.md](REPORT.md) | Submitted 2026-11-25; the exact submitted state is the tag [`stage-2-submitted`](https://github.com/Dmytro-Nosulich/factory-docs-assistant/tree/stage-2-submitted) |
 
 Stages 3 (an agent with tools) and 4 (a production-style service) come later. The [Stage 2](#stage-2-cited-question-answering-rag-and-evals-in-ci) and [Stage 1](#stage-1-structured-extraction) parts below are separate, and [Both stages](#both-stages) covers configuration, data and the repository layout they share.
 
