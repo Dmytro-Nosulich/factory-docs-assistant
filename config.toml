@@ -195,7 +195,7 @@ stop_at_usd = 5.0
 # bge-reranker-v2-m3 score, higher is better) is below this. Leave it out for no gate. Picked
 # by `make eval-refusal` on the development questions (evals/dev_questions.toml) with the rule
 # in docs/METRICS.md (user's choice, 2026-11-21); known risk in docs/ISSUES.md I-010.
-min_rerank_score = -1.03
+min_rerank_score = 5.0   # CI demo (S2-20): deliberately broken, the gate refuses every question
 
 # "I don't know" measurement (S2-14): `make eval-refusal` answers every question in
 # evals/dev_questions.toml with each of these versions of the [answer] prompt, with the score
