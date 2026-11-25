@@ -44,9 +44,10 @@ RUNS = RESULTS / "runs"
 SUMMARY = "run.json"
 STATUSES = ("valid", "invalid", "error")
 FINAL_STATUSES = ("valid", "repaired", "failed", "error")
-# results/answers/ (`make ask` logs) and results/judgements/ (judge calls of `make eval`, S2-18):
-# counted by the stage 2 guard, not by the stage 1 guard
-STAGE2_DIRS = ("answers", "judgements")
+# Folders with a budget guard of their own, not counted by the stage 1 guard: results/answers/
+# (`make ask` logs) and results/judgements/ (judge calls of `make eval`, S2-18) for stage 2, and
+# results/agent/ (agent traces and smoke calls, S3-02) for stage 3 (decision 29)
+SEPARATE_BUDGET_DIRS = ("answers", "judgements", "agent")
 
 
 def stage1_doc_ids(manifest: Path = MANIFEST) -> list[str]:
@@ -71,11 +72,14 @@ def record_cost(record: dict) -> float:
     return sum((call or {}).get("cost_usd") or 0.0 for call in calls)
 
 
-def spent_usd(results_dir: Path = RESULTS, exclude: tuple[str, ...] = STAGE2_DIRS) -> float:
+def spent_usd(
+    results_dir: Path = RESULTS, exclude: tuple[str, ...] = SEPARATE_BUDGET_DIRS
+) -> float:
     """Total reported cost of every result record under results_dir.
 
     Records in a top-level folder named in `exclude` are skipped: by default the stage 2 answer
-    logs, which have a budget guard of their own (decision 18, S2-13).
+    logs (decision 18, S2-13) and the stage 3 agent logs (decision 29), which have guards of
+    their own.
     """
     total = 0.0
     for path in results_dir.rglob("*.json"):

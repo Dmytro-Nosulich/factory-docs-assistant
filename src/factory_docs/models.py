@@ -47,6 +47,41 @@ class ChatClient(Protocol):
     ) -> ModelResponse: ...
 
 
+@dataclass(frozen=True)
+class ToolCall:
+    """One tool call the model asked for (OpenAI format), S3-02.
+
+    arguments is the raw JSON text the model wrote: parsing and validating it is the tool
+    registry's job (S3-03), so a bad argument can go back to the model as text.
+    """
+
+    id: str
+    name: str
+    arguments: str
+
+
+@dataclass(frozen=True)
+class ToolTurn:
+    """One model call with tools, S3-02.
+
+    response: content, finish reason, tokens, cost and timing, as for any call.
+    tool_calls: what the model asked to run; empty when it answered in text.
+    message: the assistant message to append to the history unchanged before the tool results.
+    """
+
+    response: ModelResponse
+    tool_calls: tuple[ToolCall, ...]
+    message: dict
+
+
+class ToolChatClient(Protocol):
+    """A client the agent loop can use (S3-04): chat messages plus OpenAI-format tools."""
+
+    def chat_with_tools(
+        self, messages: list[dict], tools: list[dict], tool_choice: str | dict = ...
+    ) -> ToolTurn: ...
+
+
 class AttemptFailed(Exception):
     """One attempt failed; `retryable` says whether trying again can help."""
 

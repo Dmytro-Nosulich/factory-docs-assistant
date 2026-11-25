@@ -234,5 +234,8 @@ results/answers/
 # `make eval` judge calls, one file per call (S2-18); summarised in evals/results/runs/
 results/judgements/
 
+# Stage 3 agent traces and smoke calls (S3-02, S3-04); under the stage 3 guard (decision 29)
+results/agent/
+
 # Course homework materials (never committed)
 course-materials/

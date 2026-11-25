@@ -1,4 +1,4 @@
-.PHONY: run run-rag samples cost eval judge eval-gate answer-errors report-summary calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-rag model-info tool-smoke samples cost eval judge eval-gate answer-errors report-summary calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
 # Stage 3 one-command run: the agent pipeline, added in S3-15. Until then it only points to the
 # stage 2 and stage 1 runs (S3-01).
@@ -21,6 +21,14 @@ run-rag:
 	$(MAKE) cost
 	$(MAKE) report-summary
 	$(MAKE) eval-gate
+
+# Tool support, context length and price of an OpenRouter model on GET /api/v1/models; free (S3-02)
+model-info:
+	uv run python scripts/model_info.py --model $(or $(MODEL),haiku-5.5)
+
+# Live tool-calling smoke test: one tool call, then a text answer; 2 paid calls (S3-02)
+tool-smoke:
+	uv run python scripts/tool_smoke.py --model $(or $(MODEL),haiku-5.5)
 
 # Answer the [run] sample_questions of config.toml like `make ask` and print them (S2-15)
 samples:

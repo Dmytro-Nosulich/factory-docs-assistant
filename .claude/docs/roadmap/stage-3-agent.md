@@ -135,7 +135,13 @@ Decisions 21-30 are in `docs/PROJECT.md`:
   - Done when: `make -n run-rag` prints the same commands as the old `make -n run`, `make test` and `make lint` pass, and `make report-summary` writes into the moved report.
 
 ## Phase B: Course step 1, agent and tool calling
-- [ ] **S3-02 Tool-calling client** (Claude).
+- [x] **S3-02 Tool-calling client** (Claude). DONE 2026-11-25:
+  - `OpenRouterClient.chat_with_tools(messages, tools, tool_choice)` sends OpenAI-format tools with no `response_format`, and returns a `ToolTurn`: the usual `ModelResponse` (tokens, cost, timing), the `ToolCall`s with their raw JSON arguments (parsed and validated in S3-03), and the assistant message to put back in the history. It is retried like `complete`. A tool call with no id, name or arguments fails with `ModelCallError`.
+  - Stage 1 and 2 bodies: two tests compare the exact request bytes with ones captured from the S3-01 code. They passed before and after the change.
+  - `make model-info` (`GET /api/v1/models`, free), 2026-11-25: `anthropic/claude-haiku-5.5` lists `tools` and `tool_choice`, $0.10 in / $0.50 out per 1M tokens (unchanged; $0.50 / $2.50 from 100k prompt tokens), 1M context. Recorded in a `config.toml` comment.
+  - `make tool-smoke`, 2026-11-25: Haiku 5.5 (Claude Platform on AWS) called `lookup_flash_point({"product_name": "TEST-SOLVENT-1"})` once, then answered in text from the canned result. 2 calls, 440 + 559 prompt tokens, $0.000159. The toy tool and product are made up. The log is in `results/agent/smoke/` (gitignored).
+  - `results/agent/` is gitignored and left out of the stage 1 guard (decision 29).
+  - Verified: 1644 tests pass, and `make lint` passes.
   - Work: `OpenRouterClient` can send `tools` (OpenAI format) and returns the model's `tool_calls` with usage and cost. Stage 1 and 2 request bodies stay byte-identical.
   - Done when:
     - unit tests pass with a mocked transport;

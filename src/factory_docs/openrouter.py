@@ -1,7 +1,9 @@
 """OpenRouter chat client with structured output, timeout and retry, S1-07.
 
 HTTP only: it sends chat messages with a JSON schema and returns the raw reply with usage,
-cost and timing. Parsing and validating the reply is `extract.py`'s job. No response-healing
+cost and timing. Parsing and validating the reply is `extract.py`'s job. Since S3-02 it can
+also send OpenAI-format tools and return the model's tool calls (`chat_with_tools`); the
+structured-output request bodies of stages 1 and 2 are unchanged. No response-healing
 plugin is used, so the share of valid first responses stays an honest measurement.
 """
 
@@ -11,7 +13,14 @@ from collections.abc import Callable
 import httpx
 
 from factory_docs.config import OpenRouterModel, OpenRouterSettings
-from factory_docs.models import AttemptFailed, ModelResponse, call_with_retry
+from factory_docs.models import (
+    AttemptFailed,
+    ModelCallError,
+    ModelResponse,
+    ToolCall,
+    ToolTurn,
+    call_with_retry,
+)
 
 RETRY_STATUS = {408, 429, 500, 502, 503, 504}
 SCHEMA_NAME = "safety_data_sheet"  # stage 1 default, so stage 1 request bodies stay the same
@@ -56,6 +65,27 @@ class OpenRouterClient:
             "provider": {"require_parameters": True},
             "max_tokens": self.model.max_tokens,
         }
+        return self._add_options(body)
+
+    def tool_request_body(
+        self, messages: list[dict], tools: list[dict], tool_choice: str | dict = "auto"
+    ) -> dict:
+        """A chat request with OpenAI-format tools and no response_format (S3-02).
+
+        require_parameters makes OpenRouter route only to providers that support tools.
+        """
+        body = {
+            "model": self.model.slug,
+            "messages": messages,
+            "tools": tools,
+            "tool_choice": tool_choice,
+            "provider": {"require_parameters": True},
+            "max_tokens": self.model.max_tokens,
+        }
+        return self._add_options(body)
+
+    def _add_options(self, body: dict) -> dict:
+        """Reasoning effort and sampling, appended last (the order is part of the bytes)."""
         if self.model.reasoning_effort:
             body["reasoning"] = {"effort": self.model.reasoning_effort}
         if self.sampling:
@@ -75,6 +105,19 @@ class OpenRouterClient:
             lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep
         )
         return parse_response(data, latency_s, total_s, attempts)
+
+    def chat_with_tools(
+        self, messages: list[dict], tools: list[dict], tool_choice: str | dict = "auto"
+    ) -> ToolTurn:
+        """One chat completion that may ask for tools; retried like `complete`.
+
+        Retrying is safe here: a model call has no side effects (the tools run elsewhere).
+        """
+        body = self.tool_request_body(messages, tools, tool_choice)
+        data, latency_s, total_s, attempts = call_with_retry(
+            lambda: self._post(body), self.settings.max_retries, self.settings.backoff_s, self.sleep
+        )
+        return parse_tool_turn(data, latency_s, total_s, attempts)
 
     def _post(self, body: dict) -> dict:
         try:
@@ -116,3 +159,27 @@ def parse_response(data: dict, latency_s: float, total_s: float, attempts: int) 
         total_s=round(total_s, 3),
         attempts=attempts,
     )
+
+
+def parse_tool_turn(data: dict, latency_s: float, total_s: float, attempts: int) -> ToolTurn:
+    """The reply plus its tool calls and the assistant message for the history (S3-02).
+
+    A tool call without an id, a function name or arguments is a format change, so it fails
+    loudly (ModelCallError) instead of becoming a silent None.
+    """
+    response = parse_response(data, latency_s, total_s, attempts)
+    raw_calls = (data["choices"][0].get("message") or {}).get("tool_calls") or []
+    calls = []
+    for raw in raw_calls:
+        function = raw.get("function") or {}
+        call_id, name, arguments = raw.get("id"), function.get("name"), function.get("arguments")
+        if not call_id or not name or arguments is None:
+            raise ModelCallError(f"malformed tool call: {str(raw)[:500]}", None, attempts)
+        calls.append(ToolCall(id=call_id, name=name, arguments=arguments))
+    message: dict = {"role": "assistant", "content": response.content}
+    if calls:
+        message["tool_calls"] = [
+            {"id": c.id, "type": "function", "function": {"name": c.name, "arguments": c.arguments}}
+            for c in calls
+        ]
+    return ToolTurn(response=response, tool_calls=tuple(calls), message=message)
