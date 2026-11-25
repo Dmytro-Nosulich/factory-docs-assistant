@@ -1,6 +1,7 @@
 """The S2-21 error listing (`make answer-errors`): which questions it selects, where the evidence
-sits in the context, the gate-off comparison, and the numbers REPORT.md quotes from the committed
-run file. The unit cases are invented (D901-D903 are not corpus documents) and counted by hand."""
+sits in the context, the gate-off comparison, and the numbers the stage 2 report
+(docs/reports/stage-2.md) quotes from the committed run file. The unit cases are invented
+(D901-D903 are not corpus documents) and counted by hand."""
 
 import json
 
@@ -124,7 +125,7 @@ def test_language_mismatches_cover_every_shown_answer():
     assert language_mismatches(run) == (2, [("T92", "en", "de")])  # T93 shows no answer
 
 
-# --- the committed run that REPORT.md's error analysis quotes ------------------------------
+# --- the committed run that the stage 2 report's error analysis quotes -----------------------
 
 RUN_FILE = ROOT / "evals" / "results" / "runs" / "20261124T213807Z.json"
 GATE_OFF = ROOT / "evals" / "results" / "calibration" / "answers.json"

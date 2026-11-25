@@ -291,7 +291,10 @@ def question_table(data: Mapping) -> list[str]:
 def report_section(data: Mapping) -> str:
     summary = summarize(data)
     lines = main_tables(data, summary)
-    lines += ["", "Per-question outcomes: [evals/results/refusal.md](evals/results/refusal.md)."]
+    lines += [
+        "",
+        "Per-question outcomes: [evals/results/refusal.md](../../evals/results/refusal.md).",
+    ]
     return "\n".join(lines) + "\n"
 
 

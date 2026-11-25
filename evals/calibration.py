@@ -407,7 +407,7 @@ def report_section(result: Mapping, path: str) -> str:
         *notes(summary),
         "",
         "Per answer and every disagreement with the judge's reasoning: "
-        f"[evals/results/calibration.md](evals/results/calibration.md); results `{path}`.",
+        f"[evals/results/calibration.md](../../evals/results/calibration.md); results `{path}`.",
     ]
     return "\n".join(lines) + "\n"
 

@@ -9,9 +9,9 @@ The project is built in stages over an AI engineering course. Each stage is one 
 | Stage | What it does | Run | Report | Status |
 |---|---|---|---|---|
 | 1. Structured extraction | Safety data sheets to validated JSON; cloud vs local model, prompt versions and sampling compared | `make run-extraction` | [docs/reports/stage-1.md](docs/reports/stage-1.md) | Submitted 2026-10-28; the exact submitted state is the tag [`stage-1-submitted`](https://github.com/Dmytro-Nosulich/factory-docs-assistant/tree/stage-1-submitted) |
-| 2. Cited question answering (RAG) and evals in CI | Search over 69 documents, answers with a citation for every claim, "not in the documents" when they do not answer, evals that fail CI below a threshold | `make run` | [REPORT.md](REPORT.md) | Submitted 2026-11-25; the exact submitted state is the tag [`stage-2-submitted`](https://github.com/Dmytro-Nosulich/factory-docs-assistant/tree/stage-2-submitted) |
+| 2. Cited question answering (RAG) and evals in CI | Search over 69 documents, answers with a citation for every claim, "not in the documents" when they do not answer, evals that fail CI below a threshold | `make run-rag` | [docs/reports/stage-2.md](docs/reports/stage-2.md) | Submitted 2026-11-25; the exact submitted state is the tag [`stage-2-submitted`](https://github.com/Dmytro-Nosulich/factory-docs-assistant/tree/stage-2-submitted) |
 
-Stages 3 (an agent with tools) and 4 (a production-style service) come later. The [Stage 2](#stage-2-cited-question-answering-rag-and-evals-in-ci) and [Stage 1](#stage-1-structured-extraction) parts below are separate, and [Both stages](#both-stages) covers configuration, data and the repository layout they share.
+Stage 3 (an agent with tools) is in progress: plain `make run` and `REPORT.md` are reserved for it, and this README is rewritten when it is done. Stage 4 (a production-style service) comes later. The [Stage 2](#stage-2-cited-question-answering-rag-and-evals-in-ci) and [Stage 1](#stage-1-structured-extraction) parts below are separate, and [Both stages](#both-stages) covers configuration, data and the repository layout they share.
 
 ## Stage 2: cited question answering (RAG) and evals in CI
 
@@ -25,10 +25,10 @@ Stages 3 (an agent with tools) and 4 (a production-style service) come later. Th
 **Run**
 ```sh
 cp .env.example .env   # then fill in OPENROUTER_API_KEY
-make run               # the whole stage 2 pipeline, evals included
+make run-rag           # the whole stage 2 pipeline, evals included
 ```
 
-`make run` does these steps in order. Each one is also a make target of its own (see the `Makefile`).
+`make run-rag` does these steps in order. Each one is also a make target of its own (see the `Makefile`).
 1. **Preflight** (`scripts/preflight.py`): checks that the key is set and the stage 2 budget guard is not reached, so a missing key fails in seconds.
 2. **Corpus files** (`make parse clean-corpus ingest`): parses, cleans and chunks the 69 documents. Every step is deterministic, so the committed files in `data/` come out the same.
 3. **Index** (`scripts/build_index.py --if-stale`): builds the search index when it is missing or out of date, and skips it otherwise.
@@ -36,10 +36,10 @@ make run               # the whole stage 2 pipeline, evals included
 5. **Evals** (`make eval-retrieval eval-refusal eval`): retrieval quality, "I don't know" on the development questions, and the test set answered, scored and judged.
 6. **Sample answers** (`make samples`): 4 questions answered with their citations (`[run] sample_questions` in `config.toml`).
 7. **Cost** (`make cost`): the cost per 1000 questions.
-8. **Report** (`make report-summary`): the "Results at a glance" table at the top of `REPORT.md`.
+8. **Report** (`make report-summary`): the "Results at a glance" table at the top of `docs/reports/stage-2.md`.
 9. **Eval gate** (`make eval-gate`): the run fails when a result is below its threshold (`[eval_gate]` in `config.toml`).
 
-A run rewrites `evals/results/`, the generated sections of `REPORT.md`, and adds a new test-set run file `evals/results/runs/<UTC time>.json`, so `git status` shows those files afterwards. Model answers vary a little between runs (the answer model takes no temperature), so a fraction of a cent or one judge verdict may differ from the committed results.
+A run rewrites `evals/results/`, the generated sections of `docs/reports/stage-2.md`, and adds a new test-set run file `evals/results/runs/<UTC time>.json`, so `git status` shows those files afterwards. Model answers vary a little between runs (the answer model takes no temperature), so a fraction of a cent or one judge verdict may differ from the committed results.
 
 **Time and cost** (measured 2026-11-25 from a fresh clone of this repo on an Apple M4 Pro): 17 min (1031 s) in all, including the 1.7 GB download of the embedding model and the reranker into `.cache/fastembed` and the index build. The index build took about 6 min of that (373 s). The run cost $0.066, the total of its answer and judge logs as `scripts/preflight.py` reports it. With the index already built, about 10 min (590 s on 2026-11-24). On the GitHub Actions runner (x86 Linux, CPU only) a run takes about 50 min, and building the index there takes about 1 h when it is not cached.
 
@@ -147,7 +147,7 @@ A section label counts as right for a block when it names that block's section o
 - `evals/dev_questions.toml`: 20 development questions (answerable, near misses, off-topic), used to pick the refusal threshold and the prompt version.
 - `evals/test_set.toml`: 24 test questions with expected answers: answerable, traps with a similar document, traps with an outdated version, and unanswerable. Nothing is tuned on them.
 
-Claude drafted the questions and expected answers in all three sets at the user's request, and the user reviewed every one. The file headers and `REPORT.md` say so too.
+Claude drafted the questions and expected answers in all three sets at the user's request, and the user reviewed every one. The file headers and the stage 2 report say so too.
 
 **Scoring.**
 - Deterministic scorers (`evals/scorers.py`): refused when it should, right source cited, key facts present, and no fact from the wrong document or the old version.
@@ -156,15 +156,15 @@ Claude drafted the questions and expected answers in all three sets at the user'
 
 The rules for every metric are in `docs/METRICS.md`.
 
-**CI.** `.github/workflows/evals.yml` runs lint, the unit tests and then all of `make run` on every push and pull request. Models and the index are cached between runs. The run fails when `make eval-gate` finds a result below its `[eval_gate]` threshold in `config.toml`. The thresholds sit a margin below the measured results, because answers vary between runs. A fork needs the repository secret `OPENROUTER_API_KEY`. Each CI run costs about the same as a local run, and only the key's own OpenRouter limit guards that spending (`docs/ISSUES.md` I-012).
+**CI.** `.github/workflows/evals.yml` runs lint, the unit tests and then all of `make run-rag` on every push and pull request. Models and the index are cached between runs. The run fails when `make eval-gate` finds a result below its `[eval_gate]` threshold in `config.toml`. The thresholds sit a margin below the measured results, because answers vary between runs. A fork needs the repository secret `OPENROUTER_API_KEY`. Each CI run costs about the same as a local run, and only the key's own OpenRouter limit guards that spending (`docs/ISSUES.md` I-012).
 
 ### Results
 
-All numbers are in [REPORT.md](REPORT.md), and every number there comes from a script in this repo:
-- [Results at a glance](REPORT.md#results-at-a-glance): the headline table;
+All numbers are in [docs/reports/stage-2.md](docs/reports/stage-2.md), and every number there comes from a script in this repo:
+- [Results at a glance](docs/reports/stage-2.md#results-at-a-glance): the headline table;
 - retrieval, refusal, cost, answer and calibration sections, each generated by the make target it names;
-- an [error analysis](REPORT.md#error-analysis) of characteristic errors;
-- [what to improve next](REPORT.md#what-to-improve-next).
+- an [error analysis](docs/reports/stage-2.md#error-analysis) of characteristic errors;
+- [what to improve next](docs/reports/stage-2.md#what-to-improve-next).
 
 ### Other commands
 
@@ -288,7 +288,7 @@ The only secret is `OPENROUTER_API_KEY`, which is read from `.env`. Only `.env.e
 - `data/raw/`: the source documents, committed so that a reviewer runs on exactly these files.
 - `data/manifest.csv`: one row per document, with ID, title, source URL, license or terms, language, type, format, date or version, the document it supersedes, and `in_rag_index`. 69 of its 73 rows are in the stage 2 index. The four left out are PDFs of 540 to 1028 pages. `data/licenses/` holds a license text where one is needed.
 - `data/parsed/`, `data/cleaned/` and `data/chunks/`: each pipeline step's output, committed so it can be reviewed. Each folder has a report of what the step did.
-- `data/index/`: the model comparisons and the index build record. The Qdrant store itself (`data/index/qdrant/`) is rebuilt by `make run` and not committed.
+- `data/index/`: the model comparisons and the index build record. The Qdrant store itself (`data/index/qdrant/`) is rebuilt by `make run-rag` and not committed.
 
 ### Repository layout
 
@@ -298,7 +298,8 @@ The only secret is `OPENROUTER_API_KEY`, which is read from `.env`. Only `.env.e
 - `prompts/`: versioned prompts and their changelog
 - `data/`: corpus, manifest and pipeline outputs (above)
 - `docs/METRICS.md`: how every metric is computed; `docs/ISSUES.md`: known problems and limits; `docs/reports/stage-1.md`: the stage 1 report
-- `REPORT.md`: the stage 2 report
+- `docs/reports/stage-2.md`: the stage 2 report
+- `REPORT.md`: the stage 3 report (in progress)
 - `results/`: stage 1 run results (committed) and stage 2 answer and judge logs (not committed)
 - `.github/workflows/evals.yml`: CI
 - `tests/`: unit tests

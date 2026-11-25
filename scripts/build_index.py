@@ -7,7 +7,7 @@ Writes data/index/index_build.json: model, prefixes, BM25 parameters, the hash o
 file, point counts, truncation, average chunk length in BM25 tokens and vocabulary size, and
 which documents the filters treat as superseded or undated, so a build can be traced.
 Usage: uv run python scripts/build_index.py [--if-stale]
-  --if-stale  rebuild only when `factory_docs.index.stale_reasons` finds a reason (`make run`,
+  --if-stale  rebuild only when `factory_docs.index.stale_reasons` finds a reason (`make run-rag`,
               S2-15); without it, always rebuild (`make index`)
 """
 

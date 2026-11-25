@@ -1,4 +1,4 @@
-"""S2-15: `make run` rebuilds the index only when `stale_reasons` finds a reason."""
+"""S2-15: `make run-rag` rebuilds the index only when `stale_reasons` finds a reason."""
 
 import copy
 import json

@@ -503,6 +503,6 @@ def test_committed_calibration_report_regenerates(committed):
     path = "evals/results/calibration.json"
     md = (ROOT / "evals" / "results" / "calibration.md").read_text(encoding="utf-8")
     assert md == markdown(committed, path)
-    report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+    report = (ROOT / "docs" / "reports" / "stage-2.md").read_text(encoding="utf-8")
     section = re.search(re.escape(START) + r"\n(.*?)" + re.escape(END), report, re.S).group(1)
     assert section.strip() == report_section(committed, path).strip()

@@ -235,6 +235,6 @@ def test_workflow_runs_make_run_with_the_key_on_push_and_pull_request():
     text = WORKFLOW.read_text(encoding="utf-8")
     assert "\n  push:" in text and "\n  pull_request:" in text
     assert "OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}" in text
-    assert "run: make run" in text
-    assert text.index("run: make test") < text.index("run: make run")
+    assert "run: make run-rag" in text
+    assert text.index("run: make test") < text.index("run: make run-rag")
     assert "build_index.py --if-stale" in text

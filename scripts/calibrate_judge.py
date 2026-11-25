@@ -7,8 +7,8 @@ sheet evals/results/calibration/sheet.md and the grade file evals/judge_grades.t
 verdict empty. It refuses to overwrite either file, so grades always belong to their answers.
 `make calibrate-judge`: stops unless every answer has exactly one valid hand grade. Then it
 records the grade file's sha256 and runs the quality judge PASSES times on every saved answer,
-and writes evals/results/calibration.json, calibration.md and the REPORT.md section.
-  --report  rebuild calibration.md and the REPORT.md section from calibration.json, no models;
+and writes evals/results/calibration.json, calibration.md and the docs/reports/stage-2.md section.
+  --report  rebuild calibration.md and the stage 2 report section from calibration.json, no models;
             stops if the grade file changed after the judge ran.
 
 Judge calls are logged in results/judgements/ and count toward the stage 2 budget guard.
@@ -51,7 +51,7 @@ SHEET = CALIBRATION / "sheet.md"
 GRADES = ROOT / "evals" / "judge_grades.toml"
 RESULTS = ROOT / "evals" / "results" / "calibration.json"
 MD_OUT = ROOT / "evals" / "results" / "calibration.md"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 
 
 def rel(path: Path) -> str:

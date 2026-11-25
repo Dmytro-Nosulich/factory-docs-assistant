@@ -1,6 +1,6 @@
-"""Helpers for `make run`, the stage 2 one-command run (S2-15).
+"""Helpers for `make run-rag`, the stage 2 one-command run (S2-15).
 
-`make run` chains make targets (see the Makefile): preflight, parse, clean, chunk, index (only
+`make run-rag` chains make targets (see the Makefile): preflight, parse, clean, chunk, index (only
 when stale), the gold and dev-set checks, the evals, sample answers and the cost report. This
 module holds the parts with logic in them, so they are unit-tested: what preflight checks, and
 which development questions are the samples.
@@ -15,7 +15,7 @@ KEY = "OPENROUTER_API_KEY"
 
 
 def preflight_problems(config: Config, env: Mapping[str, str], spent_usd: float) -> list[str]:
-    """What stops `make run` before any slow step; empty when it can go ahead.
+    """What stops `make run-rag` before any slow step; empty when it can go ahead.
 
     env: the environment after `.env` is read. spent_usd: the stage 2 answer logs so far
     (`answer.spent_on_answers`), against the guard `[answer] stop_at_usd` (decision 18).

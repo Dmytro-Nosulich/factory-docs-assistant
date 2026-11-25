@@ -6,9 +6,9 @@ S2-09 hit rule (rules in docs/METRICS.md). Search settings come from config.toml
 nothing is tuned here.
 Writes evals/results/retrieval.json (every rank and returned chunk ID, the settings, hashes of
 the gold set and chunk files) and evals/results/retrieval.md, and rewrites the generated
-"Retrieval metrics" section of REPORT.md.
+"Retrieval metrics" section of docs/reports/stage-2.md.
 Usage: uv run python scripts/eval_retrieval.py [--report]
-  --report  rebuild the .md and the REPORT.md section from the saved JSON, no models
+  --report  rebuild the .md and the docs/reports/stage-2.md section from the saved JSON, no models
 """
 
 import argparse
@@ -31,7 +31,7 @@ from factory_docs.retrieval_gold import GOLD, load_gold
 OUT = ROOT / "evals" / "results"
 JSON_OUT = OUT / "retrieval.json"
 MD_OUT = OUT / "retrieval.md"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 INDEX_BUILD = ROOT / "data" / "index" / "index_build.json"
 DEFAULT_COLLECTION = "structure"  # the collection `make search` uses; the default rule reads it
 FILTER_FIELDS = "is_latest"  # a payload field every index built since S2-08 has
@@ -307,7 +307,8 @@ def report_section(data: dict) -> str:
         *default_lines(data),
         "",
         *language_tables(data),
-        "Per-question ranks and timings: [evals/results/retrieval.md](evals/results/retrieval.md).",
+        "Per-question ranks and timings: "
+        "[evals/results/retrieval.md](../../evals/results/retrieval.md).",
     ]
     return "\n".join(lines)
 
@@ -325,7 +326,7 @@ def main() -> None:
     args = parser.parse_args()
     if args.report:
         write_outputs(json.loads(JSON_OUT.read_text(encoding="utf-8")))
-        print(f"Wrote {MD_OUT.relative_to(ROOT)} and REPORT.md from {JSON_OUT.name}")
+        print(f"Wrote {MD_OUT.relative_to(ROOT)} and the stage 2 report from {JSON_OUT.name}")
         return
     data = run(load_config())
     OUT.mkdir(parents=True, exist_ok=True)
@@ -336,7 +337,7 @@ def main() -> None:
         for name, result in runs.items():
             print(f"{collection:9} {name:14} MRR@{depth} {result['summary']['mrr']:.3f}")
     print(f"Default by the rule: {best_setup(data, DEFAULT_COLLECTION)}")
-    print(f"Wrote {JSON_OUT.relative_to(ROOT)}, {MD_OUT.relative_to(ROOT)} and REPORT.md")
+    print(f"Wrote {JSON_OUT.relative_to(ROOT)}, {MD_OUT.relative_to(ROOT)} and the stage 2 report")
 
 
 if __name__ == "__main__":

@@ -219,8 +219,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Claude Code
-.claude/
+# Claude Code: only the instructions and docs the coding agent works with are committed
+# (decision 30, S3-01); agents, commands, skills and local settings stay local
+.claude/*
+!.claude/CLAUDE.md
+!.claude/docs/
 
 # Qdrant index, rebuilt by `make index` (S2-06)
 data/index/qdrant/

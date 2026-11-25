@@ -6,9 +6,9 @@ off, and picks the gate threshold from the top-1 reranker scores by the rule in
 `factory_docs.refusal_eval.pick_threshold` (docs/METRICS.md). Every answer record goes to
 results/answers/ and counts toward the stage 2 budget guard (`[answer] stop_at_usd`).
 Writes evals/results/refusal.json (every question's scores and outcomes) and
-evals/results/refusal.md, and rewrites the generated refusal section of REPORT.md.
+evals/results/refusal.md, and rewrites the generated refusal section of docs/reports/stage-2.md.
 Usage: uv run python scripts/eval_refusal.py [--report]
-  --report  rebuild the .md and the REPORT.md section from the saved JSON, no models
+  --report  rebuild the .md and the docs/reports/stage-2.md section from the saved JSON, no models
 """
 
 import argparse
@@ -40,7 +40,7 @@ from factory_docs.run import record_cost
 OUT = ROOT / "evals" / "results"
 JSON_OUT = OUT / "refusal.json"
 MD_OUT = OUT / "refusal.md"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 
 
 def evidence_rank(question: DevQuestion, hits) -> int | None:

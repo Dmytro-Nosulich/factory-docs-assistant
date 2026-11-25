@@ -9,7 +9,7 @@ Model `haiku-5.5` at $0.10 in / $0.50 out per 1M tokens (config.toml, checked 20
 | All development questions (9 gated cost $0) | 20 | - | - | $0.49 | $0.49 |
 | Only those that reach the model | 11 | 8318 | 129 | $0.90 | $0.90 |
 
-The development set is 12 of 20 unanswerable on purpose, and gated questions cost nothing, so the first row depends on that mix. The second row is the cost of a question the model answers or refuses itself. Embedding and reranking run on the local CPU: no API cost; hardware and time are not counted (time per query: [evals/results/retrieval.md](evals/results/retrieval.md)).
+The development set is 12 of 20 unanswerable on purpose, and gated questions cost nothing, so the first row depends on that mix. The second row is the cost of a question the model answers or refuses itself. Embedding and reranking run on the local CPU: no API cost; hardware and time are not counted (time per query: [evals/results/retrieval.md](retrieval.md)).
 
 ## Per question
 

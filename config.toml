@@ -216,14 +216,14 @@ quality_prompt_version = "v1"
 faithfulness_prompt = "judge_faithfulness"
 faithfulness_prompt_version = "v1"
 
-# One-command run (S2-15): `make run` answers these development questions (IDs in
+# One-command run (S2-15): `make run-rag` answers these development questions (IDs in
 # evals/dev_questions.toml) through the `make ask` pipeline, gate on, and prints them. Picked to
 # show an English, a Ukrainian and a German answer (V07 is a certificate, not an SDS) and a near
 # miss the model refuses (V09). Not R08: the gate would refuse it (docs/ISSUES.md I-010).
 [run]
 sample_questions = ["V02", "V04", "V07", "V09"]
 
-# CI thresholds (S2-20): `make eval-gate` (the last step of `make run`, and so of the GitHub
+# CI thresholds (S2-20): `make eval-gate` (the last step of `make run-rag`, and so of the GitHub
 # Actions workflow) fails when a number is below its threshold. Rates, not counts. Set a margin
 # below the results of 2026-11-24 (user's choice), because the answer model and the judge take
 # no temperature and vary between runs: retrieval MRR@10 0.615 and recall@5 13/15; test set

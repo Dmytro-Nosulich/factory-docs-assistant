@@ -166,14 +166,15 @@ def intro(s: Mapping) -> list[str]:
     ]
 
 
-def caveat(s: Mapping) -> list[str]:
+def caveat(s: Mapping, retrieval_link: str) -> list[str]:
+    """retrieval_link: the path to evals/results/retrieval.md from the file the text goes into."""
     return [
         f"The development set is {s['unanswerable']} of {s['all']['n']} unanswerable on purpose, "
         "and gated questions cost nothing, so the first row depends on that mix. "
         "The second row is the cost of a question "
         "the model answers or refuses itself. Embedding and reranking run on the local CPU: no "
         "API cost; hardware and time are not counted (time per query: "
-        "[evals/results/retrieval.md](evals/results/retrieval.md)).",
+        f"[evals/results/retrieval.md]({retrieval_link})).",
     ]
 
 
@@ -183,9 +184,9 @@ def report_section(s: Mapping) -> str:
         "",
         *summary_table(s),
         "",
-        *caveat(s),
+        *caveat(s, "../../evals/results/retrieval.md"),
         "",
-        "Per question: [evals/results/cost.md](evals/results/cost.md).",
+        "Per question: [evals/results/cost.md](../../evals/results/cost.md).",
     ]
     return "\n".join(lines) + "\n"
 
@@ -200,7 +201,7 @@ def markdown(s: Mapping) -> str:
         "",
         *summary_table(s),
         "",
-        *caveat(s),
+        *caveat(s, "retrieval.md"),
         "",
         "## Per question",
         "",

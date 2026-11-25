@@ -3,7 +3,7 @@
 Reads evals/results/refusal.json, applies `[answer] min_rerank_score` and prices the
 `[answer] prompt_version` run with the `[answer] model` prices in config.toml, by the rule in
 docs/METRICS.md (`factory_docs.cost`). Writes evals/results/cost.md and the generated cost
-section of REPORT.md, and prints a one-line summary.
+section of docs/reports/stage-2.md, and prints a one-line summary.
 Usage: uv run python scripts/cost_report.py
 """
 
@@ -16,7 +16,7 @@ from factory_docs.retrieval_eval import update_section
 OUT = ROOT / "evals" / "results"
 SOURCE = OUT / "refusal.json"
 MD_OUT = OUT / "cost.md"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 
 
 def main() -> None:

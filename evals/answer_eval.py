@@ -406,7 +406,7 @@ def report_section(run: Mapping, run_path: str) -> str:
     lines += [
         "",
         "Per question, unsupported claims and disagreements: "
-        f"[evals/results/eval.md](evals/results/eval.md); run file `{run_path}`.",
+        f"[evals/results/eval.md](../../evals/results/eval.md); run file `{run_path}`.",
     ]
     return "\n".join(lines) + "\n"
 

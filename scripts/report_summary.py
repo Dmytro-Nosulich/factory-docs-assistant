@@ -1,4 +1,4 @@
-"""Write the "Results at a glance" section of REPORT.md from saved results (S2-21).
+"""Write the "Results at a glance" section of docs/reports/stage-2.md from saved results (S2-21).
 
 Reads evals/results/retrieval.json, the latest run file in evals/results/runs/ (as
 `make eval-gate` does), evals/results/calibration.json and evals/results/refusal.json (for the
@@ -21,7 +21,7 @@ RETRIEVAL = RESULTS / "retrieval.json"
 RUNS = RESULTS / "runs"
 CALIBRATION = RESULTS / "calibration.json"
 REFUSAL = RESULTS / "refusal.json"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 
 
 def read(path: Path) -> dict | None:

@@ -159,5 +159,5 @@ def test_committed_cost_report_matches_committed_refusal_run():
         model.price_checked.isoformat(),
     )
     assert (ROOT / "evals/results/cost.md").read_text(encoding="utf-8") == markdown(s)
-    report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+    report = (ROOT / "docs" / "reports" / "stage-2.md").read_text(encoding="utf-8")
     assert report_section(s) in report

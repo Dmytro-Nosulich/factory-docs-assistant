@@ -1,6 +1,6 @@
 """CI thresholds (S2-20): does a set of eval results clear `[eval_gate]`? Rules: docs/METRICS.md.
 
-Reads two results that `make run` writes just before the gate: the retrieval results
+Reads two results that `make run-rag` writes just before the gate: the retrieval results
 (`evals/results/retrieval.json`, `make eval-retrieval`) and a test-set run file
 (`evals/results/runs/<time>.json`, `make eval`). Every check is a rate with its count, compared
 with a minimum, except the not-judged answers, a count compared with a maximum. A rate with

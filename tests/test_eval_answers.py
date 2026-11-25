@@ -322,7 +322,7 @@ def test_committed_report_regenerates_from_the_latest_run(committed):
     path, run = committed
     md = (ROOT / "evals" / "results" / "eval.md").read_text(encoding="utf-8")
     assert md == markdown(run, path)
-    report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+    report = (ROOT / "docs" / "reports" / "stage-2.md").read_text(encoding="utf-8")
     section = re.search(re.escape(START) + r"\n(.*?)" + re.escape(END), report, re.S).group(1)
     assert section.strip() == report_section(run, path).strip()
 

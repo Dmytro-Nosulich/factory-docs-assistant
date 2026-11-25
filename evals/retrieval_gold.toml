@@ -40,7 +40,7 @@ page = 4
 quote = 'Heat may cause the containers to explode.'
 
 # R02-R15: drafted by Claude at the user's request (2026-11-20); the user
-# reviews each one and keeps, edits or deletes it. REPORT.md must say so.
+# reviews each one and keeps, edits or deletes it. docs/reports/stage-2.md must say so.
 # Every quote was checked against data/cleaned/ and data/chunks/.
 # Non-English questions have an English translation in `notes`.
 

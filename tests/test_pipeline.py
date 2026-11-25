@@ -44,9 +44,9 @@ def test_unknown_sample_question_is_rejected():
         sample_questions(["V01", "V99"], load_dev())
 
 
-def test_make_run_runs_every_step_in_order():
+def test_make_run_rag_runs_every_step_in_order():
     out = subprocess.run(
-        ["make", "-n", "run"], cwd=ROOT, capture_output=True, text=True, check=True
+        ["make", "-n", "run-rag"], cwd=ROOT, capture_output=True, text=True, check=True
     ).stdout
     steps = [
         "scripts/preflight.py",

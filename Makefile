@@ -1,11 +1,17 @@
-.PHONY: run samples cost eval judge eval-gate answer-errors report-summary calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
+.PHONY: run run-rag samples cost eval judge eval-gate answer-errors report-summary calibration-answers calibrate-judge run-extraction repair texts parse clean-corpus ingest compare-embeddings compare-rerankers index search ask retrieval-gold-check dev-questions-check test-set-check eval-retrieval eval-refusal section-labels golden-check extract-one metrics comparison errors test lint format
 
-# Stage 2 one-command run (S2-15): checks the key and budget, rebuilds the corpus files (no
-# diff: every step is deterministic), the index only when stale, runs the checks and evals, then
-# answers the sample questions and prints the cost per 1000 questions; it fails at the end when
-# an eval is below its [eval_gate] threshold (S2-20; CI runs this target). Each step is a target
-# of its own below. Stage 1: make run-extraction
+# Stage 3 one-command run: the agent pipeline, added in S3-15. Until then it only points to the
+# stage 2 and stage 1 runs (S3-01).
 run:
+	@echo "make run is the stage 3 agent pipeline (added in S3-15). Stage 2: make run-rag. Stage 1: make run-extraction." >&2
+	@exit 1
+
+# Stage 2 one-command run (S2-15; was `make run` until S3-01): checks the key and budget, rebuilds
+# the corpus files (no diff: every step is deterministic), the index only when stale, runs the
+# checks and evals, then answers the sample questions and prints the cost per 1000 questions; it
+# fails at the end when an eval is below its [eval_gate] threshold (S2-20; CI runs this target).
+# Each step is a target of its own below. Stage 1: make run-extraction
+run-rag:
 	uv run python scripts/preflight.py
 	$(MAKE) parse clean-corpus ingest
 	uv run python scripts/build_index.py --if-stale
@@ -21,7 +27,7 @@ samples:
 	uv run python scripts/sample_answers.py
 
 # Cost per 1000 questions from evals/results/refusal.json, no model calls; writes
-# evals/results/cost.md and the cost section of REPORT.md (S2-15)
+# evals/results/cost.md and the cost section of docs/reports/stage-2.md (S2-15)
 cost:
 	uv run python scripts/cost_report.py
 	$(MAKE) report-summary
@@ -121,20 +127,20 @@ test-set-check:
 	uv run python scripts/check_test_set.py
 
 # Recall@k and MRR of every setup in [retrieval_eval] on both chunkings, for the retrieval gold
-# set; writes evals/results/ and the retrieval section of REPORT.md (S2-10)
+# set; writes evals/results/ and the retrieval section of docs/reports/stage-2.md (S2-10)
 eval-retrieval:
 	uv run python scripts/eval_retrieval.py
 	$(MAKE) report-summary
 
 # "I don't know" on evals/dev_questions.toml: every [refusal_eval] prompt version with the score
 # gate off, the gate threshold by the rule in docs/METRICS.md; writes evals/results/refusal.*
-# and the refusal section of REPORT.md. Calls the [answer] model, under its budget guard (S2-14)
+# and the refusal section of docs/reports/stage-2.md. Calls the [answer] model, under its budget guard (S2-14)
 eval-refusal:
 	uv run python scripts/eval_refusal.py
 
 # Answer evals/test_set.toml like `make ask` (score gate on), score the answers with the S2-17
 # scorers and judge each one for quality and faithfulness with [judge]; writes a new
-# evals/results/runs/<UTC time>.json, evals/results/eval.md and the answer section of REPORT.md.
+# evals/results/runs/<UTC time>.json, evals/results/eval.md and the answer section of docs/reports/stage-2.md.
 # Calls the [answer] and [judge] models, under the stage 2 budget guard (S2-18)
 eval:
 	PYTHONPATH=. uv run python scripts/eval_answers.py
@@ -152,12 +158,12 @@ judge:
 eval-gate:
 	PYTHONPATH=. uv run python scripts/eval_gate.py $(if $(RUN),--run $(RUN))
 
-# "Results at a glance" at the top of REPORT.md, copied from the saved results; no model calls
+# "Results at a glance" at the top of docs/reports/stage-2.md, copied from the saved results; no model calls
 # (S2-21). Runs after every target that rewrites a section it copies from.
 report-summary:
 	PYTHONPATH=. uv run python scripts/report_summary.py
 
-# Every test-set error of a run, for the error analysis in REPORT.md; no model calls, no files
+# Every test-set error of a run, for the error analysis in docs/reports/stage-2.md; no model calls, no files
 # written (S2-21). RUN=<run file> (default: the latest), GATE_OFF=<answers> (default: the S2-19
 # calibration answers, the same questions with the score gate off)
 GATE_OFF ?=
@@ -174,7 +180,7 @@ calibration-answers:
 
 # Judge calibration, step 2 (S2-19): once every answer in evals/judge_grades.toml has a hand
 # grade, run the quality judge 3 times per saved answer and report the agreement; writes
-# evals/results/calibration.json, calibration.md and the calibration section of REPORT.md.
+# evals/results/calibration.json, calibration.md and the calibration section of docs/reports/stage-2.md.
 # `PYTHONPATH=. uv run python scripts/calibrate_judge.py --report` rebuilds them without models.
 calibrate-judge:
 	PYTHONPATH=. uv run python scripts/calibrate_judge.py

@@ -1,5 +1,5 @@
 """Retrieval measurement (S2-10): the metrics against hand-computed values, the default-setup
-rule, the REPORT.md section, one offline end-to-end run, and the committed results."""
+rule, the docs/reports/stage-2.md section, one offline end-to-end run, and the committed results."""
 
 import json
 from collections.abc import Sequence
@@ -176,7 +176,7 @@ def test_a_report_without_markers_is_not_written():
 
 
 def test_the_committed_report_has_the_markers():
-    text = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+    text = (ROOT / "docs" / "reports" / "stage-2.md").read_text(encoding="utf-8")
     assert text.count(START) == 1 and text.count(END) == 1
 
 

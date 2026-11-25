@@ -1,5 +1,5 @@
 """The S2-21 "Results at a glance" section: values from an invented run counted by hand, missing
-inputs, and the committed REPORT.md summary matching the committed result files."""
+inputs, and the committed docs/reports/stage-2.md summary matching the committed result files."""
 
 import importlib.util
 import sys
@@ -63,10 +63,11 @@ def load_script():
 
 
 def test_committed_report_summary_is_current_and_stable(tmp_path, monkeypatch):
-    """Rebuilding the summary from the committed results leaves REPORT.md unchanged, twice."""
+    """Rebuilding the summary from the committed results leaves the stage 2 report unchanged,
+    twice."""
     script = load_script()
-    report = ROOT / "REPORT.md"
-    copy = tmp_path / "REPORT.md"
+    report = ROOT / "docs" / "reports" / "stage-2.md"
+    copy = tmp_path / "stage-2.md"
     copy.write_text(report.read_text(encoding="utf-8"), encoding="utf-8")
     monkeypatch.setattr(script, "REPORT", copy)
     monkeypatch.setattr(sys, "argv", ["report_summary.py"])

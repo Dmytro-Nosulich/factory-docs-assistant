@@ -15,7 +15,7 @@ version: Qdrant applies them inside each retriever, before ranking, so a filtere
 returns k hits. They use three payload fields derived at build time (`filter_fields`). And
 reranking: a cross-encoder rescores the first-stage hits (`rerank`, `factory_docs.rerank`).
 
-S2-15 adds `stale_reasons`: `make run` rebuilds the index only when what a build depends on
+S2-15 adds `stale_reasons`: `make run-rag` rebuilds the index only when what a build depends on
 (chunk files, embedding model and prefixes, BM25 parameters, library versions) differs from
 data/index/index_build.json, or a collection is missing or has the wrong number of points.
 """

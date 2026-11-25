@@ -1,6 +1,7 @@
 """Fail when an eval result is below its `[eval_gate]` threshold (S2-20).
 
-The last step of `make run`, and so of the GitHub Actions workflow (.github/workflows/evals.yml).
+The last step of `make run-rag`, and so of the GitHub Actions workflow
+(.github/workflows/evals.yml).
 Checks evals/results/retrieval.json and the latest run file in evals/results/runs/; the run must
 have been made at the checked-out commit (HEAD), unless a run file is named. Prints a table, adds
 it to the GitHub job summary when GITHUB_STEP_SUMMARY is set, and exits 1 when a check fails.

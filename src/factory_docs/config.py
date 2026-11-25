@@ -243,7 +243,7 @@ class JudgeSettings(Settings):
 
 
 class RunSettings(Settings):
-    """`make run`, S2-15: the development questions answered and printed as samples."""
+    """`make run-rag`, S2-15: the development questions answered and printed as samples."""
 
     sample_questions: list[str] = Field(min_length=1)  # IDs in evals/dev_questions.toml
 
@@ -255,7 +255,7 @@ class RunSettings(Settings):
 
 
 class EvalGateSettings(Settings):
-    """`make eval-gate`, S2-20: the thresholds that fail `make run` and CI. Rates in [0, 1]
+    """`make eval-gate`, S2-20: the thresholds that fail `make run-rag` and CI. Rates in [0, 1]
     over the retrieval results and the latest test-set run; rules in docs/METRICS.md."""
 
     retrieval_collection: str  # key in [index] collections

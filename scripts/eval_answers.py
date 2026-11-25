@@ -7,12 +7,12 @@ runs the two LLM judges of `evals/judges.py` on the saved answers (`[judge]` set
 writes the run file again with every score, judgement and cost.
 `make judge RUN=<run file>`: only the judges, on the answers saved in an earlier run, written as
 a new run file that names the run its answers come from. No answer is made again.
-Both write evals/results/eval.md and the generated answer section of REPORT.md.
+Both write evals/results/eval.md and the generated answer section of docs/reports/stage-2.md.
 
 Every answer record goes to results/answers/ and every judge call to results/judgements/; both
 count toward the stage 2 budget guard (`[answer] stop_at_usd`).
 Usage: PYTHONPATH=. uv run python scripts/eval_answers.py [--judge RUN_FILE | --report]
-  --report  rebuild eval.md and the REPORT.md section from the latest run file, no models
+  --report  rebuild eval.md and the stage 2 report section from the latest run file, no models
 PYTHONPATH=. makes the `evals` package importable (it is not installed; pytest sets the same
 path in pyproject.toml). The make targets set it.
 """
@@ -56,7 +56,7 @@ from factory_docs.test_set import TEST_SET, TestQuestion, load_test_set
 OUT = ROOT / "evals" / "results"
 RUNS = OUT / "runs"
 MD_OUT = OUT / "eval.md"
-REPORT = ROOT / "REPORT.md"
+REPORT = ROOT / "docs" / "reports" / "stage-2.md"
 
 
 def rel(path: Path) -> str:

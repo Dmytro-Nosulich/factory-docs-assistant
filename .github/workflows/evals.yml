@@ -1,4 +1,4 @@
-# Evals in CI (S2-20): on every push and pull request, lint and test, then run `make run`, the
+# Evals in CI (S2-20): on every push and pull request, lint and test, then run `make run-rag`, the
 # whole stage 2 pipeline (corpus files, index when stale, checks, retrieval / refusal / test-set
 # evals, sample answers, cost). Its last step, `make eval-gate`, fails the run when a result is
 # below its threshold in config.toml [eval_gate] (rules in docs/METRICS.md).
@@ -89,10 +89,10 @@ jobs:
           path: data/index/qdrant
           key: ${{ steps.keys.outputs.index }}
 
-      - name: make run (evals and threshold gate)
+      - name: make run-rag (stage 2 evals and threshold gate)
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: make run
+        run: make run-rag
 
       - name: Upload eval results
         if: always()
@@ -101,5 +101,5 @@ jobs:
           name: eval-results
           path: |
             evals/results/
-            REPORT.md
+            docs/reports/stage-2.md
           if-no-files-found: ignore

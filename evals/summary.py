@@ -1,4 +1,5 @@
-"""The "Results at a glance" section of REPORT.md (S2-21): headline numbers, no new metrics.
+"""The "Results at a glance" section of the stage 2 report, docs/reports/stage-2.md (S2-21):
+headline numbers, no new metrics.
 
 Every value is read from a result file that another make target writes, through the same summary
 function that target's own REPORT section uses, so the summary cannot disagree with the sections
